@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Duncan</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/name/Duncan">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Duncan</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Irish</span> <i>donn</i> 'brown, dun' + <span class="lang">Old Irish</span> <i>cath</i> 'battle'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7t C king of Dal Riata, an 8th C high king of Ireland, an 8th C Irish saint, a 10th C high king of Ireland, and two 11th C kings of Scotland.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">a1177</span> <span class="name">Dunecanus</span> (<span class="case">nom</span>) <a href="../cite/Dunecanus/a1177/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">3</span></a>;
+ <span class="date">a1200</span> <span class="name">Donecanus</span> (<span class="case">nom</span>) <a href="../cite/Donecanus/a1200/CartNBer"><span class="bib_key">ibid.</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1376</span> <span class="name">Duncani</span> (<span class="case">gen</span>) <a href="../cite/Duncani/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1384</span> <span class="name">Duncani</span> (<span class="case">gen</span>) <a href="../cite/Duncani/1384/CartLevenax"><span class="bib_key">CartLevenax</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Duncano</span> (<span class="case">abl</span>) <a href="../cite/Duncano/1384/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Duncanus</span> (<span class="case">nom</span>) <a href="../cite/Duncanus/1384/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1386</span> <span class="name">Duncano</span> (<span class="case">dat</span>) <a href="../cite/Duncano/1386/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1387</span> <span class="name">Duncano</span> (<span class="case">dat</span>) <a href="../cite/Duncano/1387/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Duncanus</span> (<span class="case">nom</span>) <a href="../cite/Duncanus/1387/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1392</span> <span class="name">Duncani</span> (<span class="case">gen</span>) <a href="../cite/Duncani/1392/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Duncano</span> (<span class="case">dat</span>) <a href="../cite/Duncano/1392/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Duncanus</span> (<span class="case">nom</span>) <a href="../cite/Duncanus/1392/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Preview. <b>DO NOT</b> cite as: <cite>J. Uckelman, S.L. Uckelman. "Duncan". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 1. http://dmnes.org/2015/1/name/Duncan.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

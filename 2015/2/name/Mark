@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Mark</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Mark</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Marcus</i>, a praenomen derived either from <span class="lang">Latin</span> <i>Mars</i>, the name of a god, or <span class="lang">Etruscan</span> <i>Marce</i>, of unknown meaning.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of one of the Biblical Evangelists, a 2nd C Roman emperor, a 3rd C Roman emperor, a 4th C pope, a 5th C Roman usurper in Britain, a 5th C Byzantine emperor, a 6th C ruler of Cornwall, and a 15th C Greek saint. Wycliffite Bible (1395): <i>Mark</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>See also <a class="nym" href="Marcel">Marcel</a>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1351</span> <span class="name">Marcuss</span> (<span class="case">nom</span>) <a href="../cite/Marcuss/1351/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">41</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Marcus</span> (<span class="case">nom</span>) <a href="../cite/Marcus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 82</span></a></dd>
+<dt><span class="lang">English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Marke</span> <a href="../cite/Marke/1530/PP-HenV"><span class="bib_key">PP-HenV</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1541</span> <span class="name">Mark</span> <a href="../cite/Mark/1541/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Marke</span> <a href="../cite/Marke/1541/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1543</span> <span class="name">Mark</span> <a href="../cite/Mark/1543/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1545</span> <span class="name">Marke</span> <a href="../cite/Marke/1545/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1554</span> <span class="name">Mark</span> <a href="../cite/Mark/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1557</span> <span class="name">Marke</span> <a href="../cite/Marke/1557/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1562</span> <span class="name">Mark</span> <a href="../cite/Mark/1562/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 95</span></a>,
+ <span class="name">Marke</span> <a href="../cite/Marke/1562/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1577</span> <span class="name">Mark</span> <a href="../cite/Mark/1577/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1578</span> <span class="name">Marke</span> <a href="../cite/Marke/1578/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1590</span> <span class="name">Mark</span> <a href="../cite/Mark/1590/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1592</span> <span class="name">Mark</span> <a href="../cite/Mark/1592/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1594</span> <span class="name">Mark</span> <a href="../cite/Mark/1594/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 65</span></a>;
+ <span class="date">1597</span> <span class="name">Marcus</span> <a href="../cite/Marcus/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p.36</span></a>;
+ <span class="date">1599</span> <span class="name">Marke</span> <a href="../cite/Marke/1599/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 96</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1379x1383</span> <span class="name">mark</span> <a href="../cite/mark/1379x1383/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1442</span> <span class="name">Markes</span> <a href="../cite/Markes/1442/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 364</span></a>;
+ <span class="date">1592</span> <span class="name">Marcus</span> <a href="../cite/Marcus/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 288</span></a>,
+ <span class="name">Marx</span> <a href="../cite/Marx/1592/Tiik1977"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 287</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1098</span> <span class="name">Marcho</span> (<span class="case">abl</span>) <a href="../cite/Marcho/1098/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">697</span></a>,
+ <span class="name">Marchus</span> (<span class="case">nom</span>) <a href="../cite/Marchus/1098/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">697</span></a>;
+ <span class="date">1135</span> <span class="name">Marcus</span> (<span class="case">nom</span>) <a href="../cite/Marcus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Marcho</span> (<span class="case">abl</span>) <a href="../cite/Marcho/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>;
+ <span class="date">1147</span> <span class="name">Marci</span> (<span class="case">gen</span>) <a href="../cite/Marci/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Marco</span> (<span class="case">nom</span>) <a href="../cite/Marco/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Marcus</span> (<span class="case">nom</span>) <a href="../cite/Marcus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1163</span> <span class="name">Marci</span> (<span class="case">gen</span>) <a href="../cite/Marci/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1378</span> <span class="name">Marco</span> (<span class="case">dat</span>) <a href="../cite/Marco/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">38</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Marques</span> <a href="../cite/Marques/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 35</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Marc</span> <a href="../cite/Marc/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 380</span></a>;
+ <span class="date">1421</span> <span class="name">Marc</span> <a href="../cite/Marc/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">828</span></a>;
+ <span class="date">1438</span> <span class="name">Marc</span> <a href="../cite/Marc/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 296</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1418</span> <span class="name">Marquelin</span> <a href="../cite/Marquelin/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 387</span></a>,
+ <span class="name">Marquet</span> <a href="../cite/Marquet/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 383</span></a>;
+ <span class="date">1421</span> <span class="name">Marquet</span> <a href="../cite/Marquet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">p. 158</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1401</span> <span class="name">Mercklino</span> (<span class="case">dat</span>) <a href="../cite/Mercklino/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 145</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Marx</span> <a href="../cite/Marx/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">p. 1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1285</span> <span class="name">Marci</span> (<span class="case">gen</span>) <a href="../cite/Marci/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 159</span></a>;
+ <span class="date">1324</span> <span class="name">Marco</span> (<span class="case">abl</span>) <a href="../cite/Marco/1324/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 46, 3694</span></a>;
+ <span class="date">1326</span> <span class="name">Marchi</span> (<span class="case">gen</span>) <a href="../cite/Marchi/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 446</span></a>,
+ <span class="name">Marchus</span> (<span class="case">nom</span>) <a href="../cite/Marchus/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 446</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Marci</span> (<span class="case">gen</span>) <a href="../cite/Marci/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 57, 17</span></a>,
+ <span class="name">Marcus</span> (<span class="case">nom</span>) <a href="../cite/Marcus/1522x1532/DSF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52, 34</span></a>;
+ <span class="date">1527</span> <span class="name">Marci</span> (<span class="case">gen</span>) <a href="../cite/Marci/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 88</span></a>,
+ <span class="name">Marcus</span> (<span class="case">nom</span>) <a href="../cite/Marcus/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1285</span> <span class="name">Marcoli</span> (<span class="case">gen</span>) <a href="../cite/Marcoli/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 154</span></a>;
+ <span class="date">1326</span> <span class="name">Marcholinus</span> (<span class="case">nom</span>) <a href="../cite/Marcholinus/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 428</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1462</span> <span class="name">Marcus</span> <a href="../cite/Marcus/1462/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 98</span></a>;
+ <span class="date">1532</span> <span class="name">Marcus</span> <a href="../cite/Marcus/1532/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1573</span> <span class="name">Marcus</span> <a href="../cite/Marcus/1573/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1574</span> <span class="name">Marcus</span> <a href="../cite/Marcus/1574/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Marcus</span> (<span class="case">nom</span>) <a href="../cite/Marcus/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1488</span> <span class="name">Marcus</span> (<span class="case">nom</span>) <a href="../cite/Marcus/1488/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1490</span> <span class="name">Marci</span> (<span class="case">gen</span>) <a href="../cite/Marci/1490/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>,
+ <span class="name">Marcus</span> (<span class="case">nom</span>) <a href="../cite/Marcus/1490/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>,
+ <span class="name">Marques</span> (<span class="case">nom</span>) <a href="../cite/Marques/1490/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1491</span> <span class="name">Marci</span> (<span class="case">gen</span>) <a href="../cite/Marci/1491/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">March</span> <a href="../cite/March/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">4145</span></a>,
+ <span class="name">Marq</span> <a href="../cite/Marq/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">372</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, S.L. Uckelman. "Mark". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 2. http://dmnes.org/2015/2/name/Mark.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

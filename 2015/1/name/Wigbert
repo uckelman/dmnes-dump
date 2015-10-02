@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Wigbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/name/Wigbert">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Wigbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Saxon, Old English</span> <i>wig</i>, <span class="lang">Old High German</span> <i>wīc</i> 'war, battle' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C Anglo-Saxon saint, an 8th C English saint, and a 10th C French saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1067x74</span> <span class="name">Guibbertus</span> (<span class="case">nom</span>) <a href="../cite/Guibbertus/1067x74/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1147x58</span> <span class="name">Wibertus</span> (<span class="case">nom</span>) <a href="../cite/Wibertus/1147x58/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1162</span> <span class="name">Wibertus</span> (<span class="case">nom</span>) <a href="../cite/Wibertus/1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>;
+ <span class="date">1163</span> <span class="name">Guiberto</span> (<span class="case">abl</span>) <a href="../cite/Guiberto/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">104</span></a>;
+ <span class="date">1378</span> <span class="name">Guiberti</span> (<span class="case">gen</span>) <a href="../cite/Guiberti/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">157</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Guibert</span> <a href="../cite/Guibert/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 35</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Guibert</span> <a href="../cite/Guibert/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 386</span></a>;
+ <span class="date">1421</span> <span class="name">Guibert</span> <a href="../cite/Guibert/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">593</span></a>;
+ <span class="date">1423</span> <span class="name">Guibert</span> <a href="../cite/Guibert/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">157</span></a>;
+ <span class="date">1588</span> <span class="name">Guibert</span> <a href="../cite/Guibert/1588/raymond1588"><span class="bib_key">raymond1588</span> <span class="bib_loc">p. 569</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1418</span> <span class="name">Guibelot</span> <a href="../cite/Guibelot/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 379</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">905</span> <span class="name">Wichbertum</span> (<span class="case">acc</span>) <a href="../cite/Wichbertum/905/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XXVI</span></a>;
+ <span class="date">967</span> <span class="name">Wigbertum</span> (<span class="case">acc</span>) <a href="../cite/Wigbertum/967/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XLIII</span></a>;
+ <span class="date">983</span> <span class="name">Uuigberhtum</span> (<span class="case">acc</span>) <a href="../cite/Uuigberhtum/983/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVI</span></a>;
+ <span class="date">1103</span> <span class="name">Wibertus</span> (<span class="case">nom</span>) <a href="../cite/Wibertus/1103/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">62</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Preview. <b>DO NOT</b> cite as: <cite>J. Uckelman, S.L. Uckelman. "Wigbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 1. http://dmnes.org/2015/1/name/Wigbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

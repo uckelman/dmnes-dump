@@ -1,0 +1,534 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>DMNES</title>
+  <link rel="icon" type="image/png" href="static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="about">About</a></li>
+        <li><a href="names">Browse</a></li>
+        <li><a href="guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+
+<dl>
+
+  <dt><a href="bib/ADN">ADN</a></dt>
+  <dd>Ernst Förstemann. <em>Altdeutsches Namenbuch</em>. Bonn, 1900.</dd>
+
+  <dt><a href="bib/AO-vol1">AO-vol1</a></dt>
+  <dd>Imre Nagy, editor. <em>Anjoukori okmánytár</em>, volume I. Budapest: Magyar Tudományos Akadémia (Hungarian Academy of Sciences), 1878–1891.</dd>
+
+  <dt><a href="bib/AO-vol2">AO-vol2</a></dt>
+  <dd>Imre Nagy, editor. <em>Anjoukori okmánytár</em>, volume II. Budapest: Magyar Tudományos Akadémia (Hungarian Academy of Sciences), 1878–1891.</dd>
+
+  <dt><a href="bib/AO-vol3">AO-vol3</a></dt>
+  <dd>Imre Nagy, editor. <em>Anjoukori okmánytár</em>, volume III. Budapest: Magyar Tudományos Akadémia (Hungarian Academy of Sciences), 1878–1891.</dd>
+
+  <dt><a href="bib/AO-vol4">AO-vol4</a></dt>
+  <dd>Imre Nagy, editor. <em>Anjoukori okmánytár</em>, volume IV. Budapest: Magyar Tudományos Akadémia (Hungarian Academy of Sciences), 1878–1891.</dd>
+
+  <dt><a href="bib/AO-vol5">AO-vol5</a></dt>
+  <dd>Imre Nagy, editor. <em>Anjoukori okmánytár</em>, volume V. Budapest: Magyar Tudományos Akadémia (Hungarian Academy of Sciences), 1878–1891.</dd>
+
+  <dt><a href="bib/AO-vol6">AO-vol6</a></dt>
+  <dd>Imre Nagy, editor. <em>Anjoukori okmánytár</em>, volume VI. Budapest: Magyar Tudományos Akadémia (Hungarian Academy of Sciences), 1878–1891.</dd>
+
+  <dt><a href="bib/AO-vol7">AO-vol7</a></dt>
+  <dd>Gyula Tasnádi Nagy, editor. <em>Anjoukori okmánytár</em>, volume VII. Budapest: Magyar Tudományos Akadémia (Hungarian Academy of Sciences), 1920.</dd>
+
+  <dt><a href="bib/ÁSznt">ÁSznt</a></dt>
+  <dd>Katalin Fehértói. <em>Árpád-kori személynévtár (1000–1301)</em>. Budapest: Akadémiai Kiadó, 2004.</dd>
+
+  <dt><a href="bib/ActDipVeneto-I-1">ActDipVeneto-I-1</a></dt>
+  <dd>A.-S. Minotto, editor. <em>Acta et Diplomata e R. Tabulario Veneto: Chronologico Ordine ac Principium Rerumque Ratione Inde a Recessiore Tempore usque ad Medium Seculum XV Summatim Regesta</em>, volume I: Res Forijulii et Patriarchatus Aquileiae Tergesti et Istriae et Goritiae, Sect. 1. Venetiis: Typis Joh. Cecchinj, 1870.</dd>
+
+  <dt><a href="bib/AnOSB-5">AnOSB-5</a></dt>
+  <dd>Johannes Mabillon. <em>Annales Ordinis S. Benedicti Occidentalium Monachorum Patriarchae</em>, volume 5. Lucae: Typis Leonardi Venturini, 1740.</dd>
+
+  <dt><a href="bib/Arbusow">Arbusow</a></dt>
+  <dd>Leonid Arbusow. Studien zur geschichte der lettischen bevölkerung rigas im mittelalter und 16. jahrhundert. <em>Latvijas Augstskolas Raksti</em>, (1):76-100, 1921. [ <a href="http://dspace.lu.lv/dspace/handle/7/1047">http://dspace.lu.lv/dspace/handle/7/1047</a> ]</dd>
+
+  <dt><a href="bib/Arbuzov1920">Arbuzov1920</a></dt>
+  <dd>Leonid Arbusov. Piezīmes par 16. gadu simteņa vecākajiem latviešu literatūras pieminekļiem. visagrākie rokraksti latviešu valodā kopš 1558. g. <em>Izglītibas Ministrijas Mēnešraksts</em>, (1):34-48, 1920.</dd>
+
+  <dt><a href="bib/ArcAnjou-vol3">ArcAnjou-vol3</a></dt>
+  <dd>Paul Marchegay, editor. <em>Archives d'Anjou Recueil de Documents et Mémoires Inédits sur Cette Province</em>, volume 3. Angers: ImprimeriedeCosnier et Lachèse.</dd>
+
+  <dt><a href="bib/ArrestReg-volI">ArrestReg-volI</a></dt>
+  <dd><em>Les Olim ou Registres des Arrêts rendus par la Cour du Roi sous les Règnes de Saint Louis, de Philippe le Hardi, de Philippe le Bel, de Louis le Hutin, et de Philippe le Long, publiés par le Comte Beugnot, membre de l'Institut</em>, volume I: 1254-1273 of <em>Collection de Documents Inédits sur l'Histoire de France publiés par ordre du Roi et par les soins du Ministre de l'Instruction Publique.</em> Paris: Imprimerie Royale, 1839.</dd>
+
+  <dt><a href="bib/Attard1499">Attard1499</a></dt>
+  <dd>Joseph Busuttil and Stanley Fiorini. Privilegium domus disciplinarum: the erection of a confraternity at attard in 1499. In <em>Melita Historica</em>, volume 14 part 1. Santa Lucija: Malta Historical Society, 2004.</dd>
+
+  <dt><a href="bib/Audén1980">Audén1980</a></dt>
+  <dd>Bengt Audén. <em>Bottniska personnamn: frekvenser i skattelängder från mitten av 1500-talet</em>, volume 22 of <em>Acta Regiae Societatis Skytteanae</em>. Umeå: Skytteanska samfundet, 1980.</dd>
+
+  <dt><a href="bib/BBC-Berg">BBC-Berg</a></dt>
+  <dd>Maria Teresa Brolis, Giovanni Brembilla, and Micaela Corato. <em>La Matricola Femminile della Misericordia di Bergamo (1265-1339)</em>. École Française de Rome, 2001.</dd>
+
+  <dt><a href="bib/BEmar-vol1">BEmar-vol1</a></dt>
+  <dd>W. P. W. Phillimore, editor. <em>Berkshire Parish Registers: Marriages</em>, volume 1 of <em> Phillimore's Parish Register Series</em>. London: Phillimore &amp; Co., 1908.</dd>
+
+  <dt><a href="bib/BEmar-vol2">BEmar-vol2</a></dt>
+  <dd>W. P. W. Phillimore and T. M. Blagg, editors. <em>Berkshire Parish Registers: Marriages</em>, volume 2 of <em> Phillimore's Parish Register Series</em>. London: Phillimore &amp; Co., 1914.</dd>
+
+  <dt><a href="bib/BUmar-vol1">BUmar-vol1</a></dt>
+  <dd>W. P. W. Phillimore and F. W. Ragg, editors. <em>Buckinghamshire Parish Registers: Marriages</em>, volume 1 of <em> Phillimore's Parish Register Series</em>. London: Phillimore &amp; Co., 1902.</dd>
+
+  <dt><a href="bib/BUmar-vol2">BUmar-vol2</a></dt>
+  <dd>W. P. W. Phillimore and F. W. Ragg, editors. <em>Buckinghamshire Parish Registers: Marriages</em>, volume 2 of <em> Phillimore's Parish Register Series</em>. London: Phillimore &amp; Co., 1904.</dd>
+
+  <dt><a href="bib/BUmar-vol9">BUmar-vol9</a></dt>
+  <dd>Ronald F. Bale, editor. <em>Buckinghamshire Parish Registers: Marriages</em>, volume 9 of <em> Phillimore's Parish Register Series</em>. London: Phillimore &amp; Co., 1923.</dd>
+
+  <dt><a href="bib/BarnstapleBap">BarnstapleBap</a></dt>
+  <dd>Thos. Wainwright, editor. <em>Barnstaple Parish Register or Baptisms, Marriages, and Burials 1538 A.D. to 1812 A.D.</em> Exeter: James G. Commin, 1903, 1903.</dd>
+
+  <dt><a href="bib/BbRT">BbRT</a></dt>
+  <dd>Torsten Derrik, editor. <em>Das Bruderbuch der Revaler Tafelgilde (1364-1549)</em>, volume 59 of <em>Edition Wissenschaft Reihe Geschichte</em>. Marburg: Tectum Verlag, 2000.</dd>
+
+  <dt><a href="bib/Beekes">Beekes</a></dt>
+  <dd>R. S. P. Beekes. <em>Etymological Dictionary of Greek</em>. Brill, 2009.</dd>
+
+  <dt><a href="bib/CAmar-vol1">CAmar-vol1</a></dt>
+  <dd>W. P. W. Phillimore, C. J. B. Gaskoin, and Evelyn Young, editors. <em>Cambridgeshire Parish Registers: Marriages</em>, volume 1. London: Phillimore &amp; Co., 1907.</dd>
+
+  <dt><a href="bib/CDAS">CDAS</a></dt>
+  <dd>Johannes M. Kemble, editor. volume III of <em>Opera</em>. London: Sumptibus Societatis, 1845.</dd>
+
+  <dt><a href="bib/COmar-vol2">COmar-vol2</a></dt>
+  <dd>W. P. W. Phillimore and Thomas Taylor, editors. <em>Cornwall Parish Registers: Marriages</em>, volume II. London: Phillimore &amp; Co. http://ukga.org/cgi-bin/browse.cgi?action=ViewRec&amp;DB=8&amp;bookID=4&amp;page=i.</dd>
+
+  <dt><a href="bib/COmar-vol5">COmar-vol5</a></dt>
+  <dd>W. P. W. Phillimore & Thomas Taylor, editor. <em>Cornwall Parish Registers: Marriages</em>, volume V. London: Phillimore &amp; Co., 1903.</dd>
+
+  <dt><a href="bib/Canavese-vol6">Canavese-vol6</a></dt>
+  <dd>A. Bertolotti. <em>Passeggiate nel Canavese</em>, volume VI. Ivrea: Tipografia F. L. Curbis, 1873.</dd>
+
+  <dt><a href="bib/CartAub">CartAub</a></dt>
+  <dd>Chartes concernant l'abbaye d'auberive. <em>Bulletin de la Société Historique et Archéologique de Langres</em>, 2, 1886.</dd>
+
+  <dt><a href="bib/CartLevenax">CartLevenax</a></dt>
+  <dd><em>Cartularium Comitatus de Levenax: Ab Initio Seculi Decimi Tertii Usque ad Annum M.CCC.XCVIII</em>. Impressum Edinburgi, 1833.</dd>
+
+  <dt><a href="bib/CartNBer">CartNBer</a></dt>
+  <dd><em>Carte Monialum de Northberwic</em>. Edinburgi, 1848.</dd>
+
+  <dt><a href="bib/CartNDJosaphat">CartNDJosaphat</a></dt>
+  <dd>H.-François Delaborde, editor. <em>Chartes de Terre Sainte Provenant de l'Abbaye de N.-D. de Josaphat</em>. Paris: Ernest Thorin, 1880.</dd>
+
+  <dt><a href="bib/CartNDSaintes">CartNDSaintes</a></dt>
+  <dd>Th. Grasilier, editor. <em>Cartulaires inédits de la Saintonge</em>, volume II: Cartulaire de l'Abbaye Royale de Notre-Dame de Saintes de l'Ordre de Saint-Benoit. : Niort: L. Clouzot, Librairire-éditeur, 1871.</dd>
+
+  <dt><a href="bib/CartNDdOurscamp">CartNDdOurscamp</a></dt>
+  <dd>M. Peigné-Delacourt, editor. <em>Cartulaire de l'Abbaye de Notre-Dame d'Ourscamp, de l'Ordre de Citeaux Fondée en 1129au Diocèse de Noyon</em>. Amiens: Lemer Ainé, 1865.</dd>
+
+  <dt><a href="bib/CartStAndrew">CartStAndrew</a></dt>
+  <dd><em>Liber Cartarum Prioratus Sancti Andree in Scotia</em>. Edinburgh, 1841.</dd>
+
+  <dt><a href="bib/CartStPC">CartStPC</a></dt>
+  <dd>M. Guérard, editor. <em>Cartulaire de l'Abbaye de Saint-Père de Chartres</em>, volume II of <em>Collection des Cartulaires de France</em>. Paris: Imprimerie de Crapelet, 1840.</dd>
+
+  <dt><a href="bib/CartWhalley-I">CartWhalley-I</a></dt>
+  <dd>W. A. Hulton, editor. volume X of <em>Remains Historical &amp; Literary Connected with the Palatine Counties of Lancaster and Chester</em>. Chetham Society, 1847.</dd>
+
+  <dt><a href="bib/CartWhalley-II">CartWhalley-II</a></dt>
+  <dd>W. A. Hulton, editor. volume XI of <em>Remains Historical &amp; Literary Connected with the Palatine Counties of Lancaster and Chester</em>. Chetham Society, 1847.</dd>
+
+  <dt><a href="bib/CartWhalley-III">CartWhalley-III</a></dt>
+  <dd>W. A. Hulton, editor. <em>The Coucher Book or Chartulary of Whalley Abbey, vol. III</em>, volume XVI of <em>Remains Historical &amp; Literary Connected with the Palatine Counties of Lancaster and Chester</em>. Chetham Society, 1848.</dd>
+
+  <dt><a href="bib/CartWhalley-IV">CartWhalley-IV</a></dt>
+  <dd>W. A. Hulton, editor. <em>The Coucher Book or Chartulary of Whalley Abbey, vol. III</em>, volume XX of <em>Remains Historical &amp; Literary Connected with the Palatine Counties of Lancaster and Chester</em>. Chetham Society, 1849.</dd>
+
+  <dt><a href="bib/ComWil-vol1">ComWil-vol1</a></dt>
+  <dd>Thoma Phillipps, editor. <em>Institutiones Clericorum in Comitatu Wiltoniæ, ab Anno 1297, Ad Annum 1810</em>. Typis Medio-Montanis in Turre Lativiensi Impressus, 1825.</dd>
+
+  <dt><a href="bib/CovGuild-1">CovGuild-1</a></dt>
+  <dd>Mary Dormer Harris, editor. <em>The Register of the Guild of the Holy Trinity, St. Mary, St. John the Baptist, and St. Katherine of Coventry: Transcribed and Edited from the Original MS. in the Possession of the Coventry Corporation</em>, volume 1. London: Humphrey Milford for the Dugdale Society, 1935.</dd>
+
+  <dt><a href="bib/CovGuild-2">CovGuild-2</a></dt>
+  <dd>Geoffrey Templeman, editor. <em>The Records of the Guild of the Holy Trinity, St. Mary, St. John the Baptist, and St. Katherine of Coventry</em>, volume 2. Oxford: University Press for the Dugdale Society, 1944.</dd>
+
+  <dt><a href="bib/CrimTrials-I1">CrimTrials-I1</a></dt>
+  <dd>Robert Pitcairn, editor. <em>Criminal Trials in Scotland: From A.D. M.CCCC.LXXXVIII to A.D. M.DC.XXIV, Embracing the Entire Reigns of James IV. and V., Mary Queen of Scots, and James VI. Compiled from the Original Records and MSs with Historical Notes and Illustrations</em>, volume I, part 1. Edinburgh: William Tait, 1833.</dd>
+
+  <dt><a href="bib/DCEL-2">DCEL-2</a></dt>
+  <dd>J. M. Pardessus, editor. <em>Diplomata, Chartae, Epistolae, Leges, aliaque Instrumenta ad Res Gallo-Francicas Spectantia</em>, volume 2. Lutetiae Parisiorum: Ex Typographeo Reipublicae, 1849.</dd>
+
+  <dt><a href="bib/DEmar-vol1">DEmar-vol1</a></dt>
+  <dd>W. P. W. Phillimore, editor. <em>Devon Parish Registers: Marriages</em>, volume 1 of <em> Phillimore's Parish Register Series</em>. London: Phillimore &amp; Co., 1909.</dd>
+
+  <dt><a href="bib/DEmar-vol2">DEmar-vol2</a></dt>
+  <dd><em>Devon Parish Registers: Marriages</em>, volume 2Phillimore's Parish Register SeriesA. Terry SatterfordLondon: Phillimore &amp; Co.1915.</dd>
+
+  <dt><a href="bib/DSF">DSF</a></dt>
+  <dd>Giacinto Libertini, editor. <em>Documenti per la Storia di Frattamninore (Frattapiccola, Pomigliano d'Atella e Pardinola)</em>, volume 9 of <em>Fonti e Documenti per la Storia Atellana: Collana Diretta da Franco Pezzella</em>. Instituto di Studi Atellani.</dd>
+
+  <dt><a href="bib/DU-DSMMar">DU-DSMMar</a></dt>
+  <dd>George Bell and Sandra Hope Bell, editors. <em>Marriages from the Durham St Margaret Registers (1558-1739)</em>. GENUKI: UK &amp; Ireland Genealogy, 1996. http://genuki.cs.ncl.ac.uk/Transcriptions/DUR/DSM.html.</dd>
+
+  <dt><a href="bib/EEW">EEW</a></dt>
+  <dd>Frederick J. Furnivall. <em>The Fifty Earliest English Wills in the Court of Probate, London: A.D. 1387-1439; with a Priest's of 1454</em>. London: For the Early English Text Society, by Trübner &amp; Co., 1882.</dd>
+
+  <dt><a href="bib/ESC">ESC</a></dt>
+  <dd>Archibald C. Lawrie, editor. <em>Early Scottish Charters Prior to A.D. 1153</em>. Glasgow: James MacLehose and Sons, 1905.</dd>
+
+  <dt><a href="bib/FlorLyon">FlorLyon</a></dt>
+  <dd>le Comte de Charpen-Feugerolles. <em>Les Florentins a Lyon</em>. Lyon: A La Librairie Ancienne de Louis Brun, 1893.</dd>
+
+  <dt><a href="bib/Friuli-14thC">Friuli-14thC</a></dt>
+  <dd>Giuseppe Bianchi, editor. <em>Documenti per la Storia del Friuli dal 1326 al 1332</em>. Udine: Dalla Nuova Tipographia di Onofrio Turchetto, 1845.</dd>
+
+  <dt><a href="bib/GASurv">GASurv</a></dt>
+  <dd>N. E. Stacy, editor. <em>Surveys of the Estate of Glastonbury Abbey c. 1135-1201</em>, volume 33 of <em>Records of the Social and Economic History, New Series</em>. Oxford University Press for the British Academy, 2001.</dd>
+
+  <dt><a href="bib/GCCYork">GCCYork</a></dt>
+  <dd>Robert H. Skaife, editor. <em>The Register of the Guild of Corpus Christi in the City of York</em>, volume 57 of <em>Publications of the Surtees Society</em>. Durham: Andrews and Co.; London: Whitaker and Co.; Edinburgh: Blackwood and Sons, 1872.</dd>
+
+  <dt><a href="bib/GasReg-A">GasReg-A</a></dt>
+  <dd>G.P. Cuttino with the collaboration of J.-P. Trabut-Cussac, editor. <em>Gascon Register A (series of 1318-1319), edited from British Museum Cottonian MS. Julius E.i</em>. London: Oxford University Press for the British Academy, 1975-76.</dd>
+
+  <dt><a href="bib/Gozo1465">Gozo1465</a></dt>
+  <dd>Joseph Busutil. Sale of an hospitium in 1465. In <em>Melita Historica</em>, volume 12 part 2. Santa Lucija: Malta Historical Society, 1997.</dd>
+
+  <dt><a href="bib/HAmar-vol9">HAmar-vol9</a></dt>
+  <dd>W. P. W. Phillimore, S. Andrews, and J. F. Williams, editors. <em>Hampshire Parish Registers: Marriages</em>, volume IX. London: Phillimore &amp; Co., 1907.</dd>
+
+  <dt><a href="bib/HD1401">HD1401</a></dt>
+  <dd>Karin Zimmermann. <em>Der Heidelberger Rotulus aus dem Jahre 1401 (UAH XII, 2 Nr. 33): Studien zu den Personennamen</em>. Heidelberg: Universitätsverlag C. Winter, 1996.</dd>
+
+  <dt><a href="bib/HGParis">HGParis</a></dt>
+  <dd>Le Roux de Lincy and L.M. Tisserand, editors. <em>Paris et Ses Historiens aux XIVe et XVe Siècles: Documents et Écrits Originaux</em>. Paris: Imprimerie Impériale, 1867.</dd>
+
+  <dt><a href="bib/HambUrk-vol1">HambUrk-vol1</a></dt>
+  <dd>Johann Martin Lappenberg, editor. <em>Hamburgisches Urkundenbuch</em>, volume 1. Hamburg: bei Perthes Besser &amp; Mauke, 1842.</dd>
+
+  <dt><a href="bib/HistNtb-III-2">HistNtb-III-2</a></dt>
+  <dd>John Hodgson. <em>A History of Northumberland, in Three Parts</em>, volume 2: Containing Ancient Records and Historical Papers. Newcastle upon Tyne: Edward Walker, 1828.</dd>
+
+  <dt><a href="bib/HistThet">HistThet</a></dt>
+  <dd>Thomas Martin. <em>The History of the Town of Thetford in the Counties of Norfolk and Suffolk from the Earliest Accounts to the Present Time</em>. London: J. Nichols, 1779.</dd>
+
+  <dt><a href="bib/INP">INP</a></dt>
+  <dd>Renzo Mosti, editor. <em>I Protocolli di Iohannes Nicolai Pauli, un Notaio Romano del '300 (1348-1379)</em>. Palais Farnès: École Française de Rome, 1982.</dd>
+
+  <dt><a href="bib/InsMacon">InsMacon</a></dt>
+  <dd>Instrumenta ad tomum iv: Instrumenta ecclesiæ matisconensis. In <em>Galliæ Christianæ in Provincias Ecclesiasticas Distributæ Spectantia</em>, volume 4, pages cols. 263-290. Parisiis: Ex Typographia Regia, 1728.</dd>
+
+  <dt><a href="bib/Itkonen">Itkonen</a></dt>
+  <dd>T.I. Itkonen. Lappalaisia henkilönnimiä 1500- ja 1600-luvulta. <em>Viritäjä</em>, 66(4):368-381, 1962.</dd>
+
+  <dt><a href="bib/JeanIII">JeanIII</a></dt>
+  <dd>L. Galesloot, editor. <em>Le Livre des Feudataires de Jean III, Duc de Brabant</em>. Bruxelles: M. Hayez, 1865.</dd>
+
+  <dt><a href="bib/LEA">LEA</a></dt>
+  <dd>1988. http://deeds.library.utoronto.ca/cartularies/0161.</dd>
+
+  <dt><a href="bib/LIWill-III">LIWill-III</a></dt>
+  <dd>C. W. Foster, editor. <em>Lincoln Wills, Volume III, A.D. 1530 to 1532</em>, volume 24 of <em> Lincoln Record Society</em>. London: J. W. Ruddock &amp; Sons, 1930.</dd>
+
+  <dt><a href="bib/MagMiddelburg-1560">MagMiddelburg-1560</a></dt>
+  <dd><em>De Magistraat der Stad Middelburg, die Geregeert Hebben Sedert Anno 1560</em>. Middelburg: Willem de Klerk, 1744.</dd>
+
+  <dt><a href="bib/MemBret-II">MemBret-II</a></dt>
+  <dd>Hyacinthe Morice, editor. <em>Memoires pour Servir de Preuves a l'Histoire Ecclesiastique et Civile de Bretagne</em>, volume II. :Paris: Charles Osmont, 1744.</dd>
+
+  <dt><a href="bib/MemDocGen-7">MemDocGen-7</a></dt>
+  <dd><em>Mémoires et Documents Publiés par la Société d'Histoire et d'Archéologie de Genève</em>, volume 7. Genève: Chez Jullien Frères, Libraires-Éditeurs; Paris: Chez J.-B. Dumoulin, 1849.</dd>
+
+  <dt><a href="bib/MemDocMan-vol2">MemDocMan-vol2</a></dt>
+  <dd>ed. C. de Gervill. Fiefs des vicomtés de coutances et d'avranches au xiv siècle. In <em>Notices Mémoires et Documents publiés par la Société d'Agriculturs, d'Archéologie et d'Histoire Naturelle du Département de la Manche</em>, volume 2, pages 173-194. Saint-Lo: Imprimerie d'Elie Fils, 1864.</dd>
+
+  <dt><a href="bib/MemNor-3.3.1">MemNor-3.3.1</a></dt>
+  <dd><em>Mémoires de la Société des Antiquaires de Normandie</em>, volume 3, part 1 of <em>3</em>. Paris: Derache, Didron; Caen: Hardel; Rouen: Le Brument, 1858.</dd>
+
+  <dt><a href="bib/MemPic-vol17">MemPic-vol17</a></dt>
+  <dd><em>Mémoires de la Société des Antiquaires de Picarde</em>, volume XVII. Paris: Librairie de J-B Dumoulin; Amiens: Imprimerie V Herment, 1860.</dd>
+
+  <dt><a href="bib/Mettig1892">Mettig1892</a></dt>
+  <dd>C. Mettig. <em>Ueber die Nationalitäts- und Gewerbverhältnisse in der Bierträgergilde zu Riga.</em> Riga: Häcker., 1982. via http://www.rigadigitalis.eu.</dd>
+
+  <dt><a href="bib/Morlet">Morlet</a></dt>
+  <dd>Marie-Thérèse Morlet. <em>Les Noms de Personne sur le Territoire de l'Ancienne Gaule du VIe au XIIe Siècle</em>. Paris: Éditions du Centre National de la Recherche Scientifique, 1971. 3 vols.</dd>
+
+  <dt><a href="bib/NSCM-II">NSCM-II</a></dt>
+  <dd>Vincenzo de Conti, editor. <em>Notizie Storiche della Citta di Casale e del Monferrato</em>, volume 2. Casale: Dalla Tipografia Casuccio e Comp., 1839.</dd>
+
+  <dt><a href="bib/NTDip-vol4">NTDip-vol4</a></dt>
+  <dd>Deux Religieux Bénédictins de la Congrégation de S. Maur, editor. <em>Nouveau Traité de Diplomatique ou l'on Examine les Fondemens de Cet Art on Etablit des Regles sur le Discernement des Titres</em>, volume 4. Paris: Guillaume Desprez, 1759.</dd>
+
+  <dt><a href="bib/Nurn1497">Nurn1497</a></dt>
+  <dd>Peter Fleischmann. <em>Das Reichssteuerregister von 1497 der Reichsstadt Nürnberg (under der Reichspflege Weißenburg)</em>. Nürnberg: Gesellschaft für Familienforschung in Franken, 1993.</dd>
+
+  <dt><a href="bib/Ob-SPVn">Ob-SPVn</a></dt>
+  <dd>Arthur Bissegger. <em>Une Paroisse Raconte Ses Mortes: L'Obituaire de l'Église Saint-Paul à Villeneuve (XIVe - XVe Siècle)</em>, volume 33 of <em>Cahiers Lausannois d'Histoire Médiéale</em>. Lausanne: Université de Lausanne, 2003.</dd>
+
+  <dt><a href="bib/Ord-12">Ord-12</a></dt>
+  <dd>M. de Vilevault and M. de Bréquigny, editors. <em>Ordonnances des Rois de France de la Troisième Race, Recueillies par Ordre Chronologique</em>, volume 12. 1777.</dd>
+
+  <dt><a href="bib/OrpingtonKe">OrpingtonKe</a></dt>
+  <dd>Herbert Charles Kirby, editor. <em>The Register of the Marriages, Christenings, and Burials in the Parish Church of All Saints, Orpington, in the County of Kent, from 1560 to 1754</em>. London: Charles North, Blackheath Printing Works, 1895.</dd>
+
+  <dt><a href="bib/OvdFB">OvdFB</a></dt>
+  <dd>Godfried Croenen, editor. <em>De oorkonden van de familie Berthout 1212-1425</em>. Brussels: Paleis der Academiën, 2006.</dd>
+
+  <dt><a href="bib/POSDu">POSDu</a></dt>
+  <dd>Richard Butler, editor. <em>Registrum Prioratus Omnium Sanctorum Juxta Dublin</em>. Dublin: For the Irish Archaelogical Society, 1845.</dd>
+
+  <dt><a href="bib/PP-HenV">PP-HenV</a></dt>
+  <dd>Nicholas Harris Nicolas, editor. <em>The Privy Purse Expences of King Henry the Eighth from November MDXXIX, to December MDXXXII with introductory remarks and illustrative notes</em>. London: William Pickering, 1827.</dd>
+
+  <dt><a href="bib/Paris1313">Paris1313</a></dt>
+  <dd>J.-A. Buchon, editor. <em>Chronique Métrique de Godefroy de Paris, suivie de la Taille de Paris, en 1313</em>, volume IX of <em>Collection des Chroniques Nationales Françaises</em>. Paris: Hippolyte Tilliard, 1827.</dd>
+
+  <dt><a href="bib/Perugia1285">Perugia1285</a></dt>
+  <dd>Alberto Grohmann. <em>L'Imposizione diretta nei comuni dell'Italia centrale nel XIII secolo. La Libra di Perugia del 1285.</em>, volume 91 of <em>Publications de l'École française de Rome</em>. Rome: École Française de Rome, 1986.</dd>
+
+  <dt><a href="bib/ProcSuf-vol3">ProcSuf-vol3</a></dt>
+  <dd><em>Proceedings of the Suffolk Institute of Archaeology, Statistics, and Natural History, Established March, 1848, for the Collection and Publication of Information on the Ancient Arts and Monuments of the County of Suffolk</em>, volume 3. Lowestoft: Samuel Tymms, 1863.</dd>
+
+  <dt><a href="bib/Redruth-Co">Redruth-Co</a></dt>
+  <dd>Thurstan Collins Peter, editor. <em>The Parish Registers of Redruth in Cornwall, 1560-1716</em>. Redruth: Hoblyn and Tayler, 1894.</dd>
+
+  <dt><a href="bib/Rees-Gwynllwg">Rees-Gwynllwg</a></dt>
+  <dd>William Rees. <em>The charters of the borough of Newport in Gwynllwg</em>. Newport: Newport Public Libraries Committee, 1951.</dd>
+
+  <dt><a href="bib/RegToul-13thC">RegToul-13thC</a></dt>
+  <dd>Jean Duvernoy, editor. <em>Registre de l'Inquisition de Toulouse (1273-1280), by Ranulphe de Plassac, Pons de Parnac, Pierre Arsieu, Hugues Amiel, Hugues de Bouniols, from MS Fonds Doat t. XXV et XXVI (Bibliothèque nationale de Paris)</em>. WWW: Self-published, 1993. http://jean.duvernoy.free.fr/text/pdf/Parnaclatin.pdf.</dd>
+
+  <dt><a href="bib/RigSB">RigSB</a></dt>
+  <dd>Hermann Hildebrand, editor. <em>Das Rigische Schuldbuch (1286-1352)</em>. St. Petersburg: Commissionäre der Kaiserlichen Akademie der Wissenschaften, 1872.</dd>
+
+  <dt><a href="bib/Rome1527">Rome1527</a></dt>
+  <dd>Jacques Bonaparte. <em>Sac de Rome</em>. Florence: Imprimerie Granducale, 1830.</dd>
+
+  <dt><a href="bib/Rossi-StudiStoria">Rossi-StudiStoria</a></dt>
+  <dd>Cesare Bernasconi. <em>Studi Sopra la Storia della Pittura Italiana dei Secoli XIV e XV e della Scuola Pittorica Veronese dai medi tempi fino a tutto il secolo XVIII</em>. Antonio Rossi.</dd>
+
+  <dt><a href="bib/RotCur-vol1">RotCur-vol1</a></dt>
+  <dd>Francis Palgrave, editor. <em>Rotuli Curiæ Regis: Rolls and Records of the Court Held Before the King's Justiciars or Justices</em>, volume 1: From the Sixth Year of King Richard I to the Accession of King John. Commissioners of the Public Records of the Kingdom, 1835.</dd>
+
+  <dt><a href="bib/RotScaNor">RotScaNor</a></dt>
+  <dd>Thomas Stapleton, editor. <em>Magni Rotuli Scaccarii Normanniae sub Regibus Angliae</em>, volume 1. London: Sumptibus Soc. Antiq. Londinensis.</dd>
+
+  <dt><a href="bib/SOmar-vol9">SOmar-vol9</a></dt>
+  <dd>W. P. W. Phillimore and H. W. Seager, editors. <em>Somerset Parish Registers: Marriages</em>, volume IX of <em> Phillimore's Parish Register Series</em>. London: Phillimore &amp; Co., 1907.</dd>
+
+  <dt><a href="bib/SRA-vol2">SRA-vol2</a></dt>
+  <dd><em>Svenska Riks-Archivets Pergamentsbref från och med ar 1351</em>, volume II: 1383-1400. Stockholm: Tryckt Hos K. Westrell, 1868.</dd>
+
+  <dt><a href="bib/SRPol">SRPol</a></dt>
+  <dd><em>Scriptores Rerum Polonicarum</em>, volume 1. Cracoviae: Typis Universitatis, 1872.</dd>
+
+  <dt><a href="bib/SanzSerrano">SanzSerrano</a></dt>
+  <dd>María Jesús Sanz Serrano. <em>El gremio de plateros sevillano: 1344-1867</em>. Secretariado de Publicaciones de la Universidad de Sevilla, 1991.</dd>
+
+  <dt><a href="bib/SaxhamSf">SaxhamSf</a></dt>
+  <dd>S. H. A. H., editor. <em>Little Saxham Parish Register: Baptisms, Marriages, and Burials with Appendices, Biographies, &amp;c., 1559 to 1850</em>. Woodbridge: George Booth, 1901.</dd>
+
+  <dt><a href="bib/Slíz">Slíz</a></dt>
+  <dd>Mariann Slíz. <em>Anjou-kori személynévtár (1301–1342)</em>. Budapest: Históriaantik, 2011.</dd>
+
+  <dt><a href="bib/SocAntNor-3-3">SocAntNor-3-3</a></dt>
+  <dd>secretary A. Charma, editor. <em>Mémoires de la Société des Antiquaires de Normandie</em>, volume 3, part 1 of <em>3</em>. Paris: Derache, Didron; Caen, Hardel; Rouen, le Brument.</dd>
+
+  <dt><a href="bib/St-Bernard-Romans">St-Bernard-Romans</a></dt>
+  <dd>M. Giraud, editor. <em>Essai Historique sur l'Abbaye de S. Barnard et sur la Ville de Romans</em>. Lyon: Imprimerie Louis Perrin, 1869.</dd>
+
+  <dt><a href="bib/StAnthonlin">StAnthonlin</a></dt>
+  <dd>Joseph Lemuel Chester and Geo. J. Armytage, editors. <em>The Parish Registers of St. Antholin, Budge Row, London, Containing the Marriages, Baptisms, and Burials from 1538 to 1754; and of St. John Baptist on Wallbrook, London, containing the Baptisms and Burials from 1682 to 1754</em>. London: The Harleian Society, 1883.</dd>
+
+  <dt><a href="bib/StMary-Ke">StMary-Ke</a></dt>
+  <dd>Leland Lewis Duncan. <em>The Register of Marriages, Christenings, and Burials in the Church of Saint Mary, Lewisham, Kent (Being Such Portions of the Registers as Were Saved from the Fire of 1830) from 1558 to 1750</em>. London: Charles North, Blackheath Printing Works, 1891.</dd>
+
+  <dt><a href="bib/StNick-Sf">StNick-Sf</a></dt>
+  <dd>Edward Cookson, editor. <em>The Registers of St. Nicholas, Ipswich, Co. Suffolk</em>. London: Parish Register Society, 1897.</dd>
+
+  <dt><a href="bib/StVdM-II">StVdM-II</a></dt>
+  <dd>M. Guérard, editor. <em>Cartulaire de l'Abbaye de Saint-Victor de Marseille</em>, volume II of <em>Collection des Cartulaires de France</em>. Paris: Typographie de Ch. Lahure, 1857.</dd>
+
+  <dt><a href="bib/Suffolk1381">Suffolk1381</a></dt>
+  <dd>Edgar Powell. <em>The Rising in East Anglia in 1381, with an Appendix Containing the Suffolk Poll Tax Lists for that Year</em>. Cambridge: Cambridge University Press, 1896.</dd>
+
+  <dt><a href="bib/Tiik1977">Tiik1977</a></dt>
+  <dd>Leo Tiik. Isikunimede mugandid saaremaal xvi ja xvii sajandil. <em>Keel ja Kirjandus</em>, (5):284-288, 1977.</dd>
+
+  <dt><a href="bib/Toureille">Toureille</a></dt>
+  <dd>Jean-Claude Toureille, transcriptor. Archives Départementales de l'Hérault, II E 95/1611 (folios 298v à 301v)., <a href="http://www.fordham.edu/halsall/french/mariage.asp">http://www.fordham.edu/halsall/french/mariage.asp</a>.</dd>
+
+  <dt><a href="bib/TradCorb">TradCorb</a></dt>
+  <dd>Paul Wigand, editor. <em>Traditiones Corbeienses</em>. Leipzig: F. A. Brockhaus, 1843. First set of entries (§1-§224) are from 822x875; second set of entries (§225-§486) are from 963x1023.</dd>
+
+  <dt><a href="bib/UTos-I">UTos-I</a></dt>
+  <dd><em>Annali delle Università Toscane, Parte Prima: Scienze Noologiche</em>, volume Primo. Pisa: Dalla Tipografia Nistri, 1846.</dd>
+
+  <dt><a href="bib/UrkWest-1">UrkWest-1</a></dt>
+  <dd>Heinrich August Erhard, editor. <em>Regesta Historiae Westfalia accedit Codex Diplomaticus: Die Queeln der Geschichte Westfalens, in chronologisch geordneten, Nachweisungen und Auszügen, begleitet von einem Urkundenbuche</em>. Münster: Friedrich Regensberg, 1847.</dd>
+
+  <dt><a href="bib/WaHR-SK">WaHR-SK</a></dt>
+  <dd>Trevor John, editor. <em>The Warwickshire Hundred Rolls of 1279-80: Stoneleigh and Kineton Hundreds</em>, volume XIX (new series) of <em>Records of Social and Economic History</em>. Oxford University Press for the British Academy, 1992.</dd>
+
+  <dt><a href="bib/Withycombe">Withycombe</a></dt>
+  <dd>E. G. Withycombe. <em>Oxford Dictionary of English Christian Names</em>. Oxford University Press, 3rd edition, 1988.</dd>
+
+  <dt><a href="bib/almanak-1836">almanak-1836</a></dt>
+  <dd><em>Overijsselsche Almanak: 1836</em>. Deventer: J. de Lange, 1835.</dd>
+
+  <dt><a href="bib/beauchet-vol1">beauchet-vol1</a></dt>
+  <dd>H. Beauchet-Filleau, editor. <em>Pièces Inèdites, Rares, ou Curièuses Concernant Le Poitou et Les Poitevins</em>, volume 1. Melle: Ch. Moreau et Ed. Lacuve; Niort, L. Glouzot.</dd>
+
+  <dt><a href="bib/bruton-vol1">bruton-vol1</a></dt>
+  <dd>Douglas L. Hayward, editor. <em>The Registers of Bruton, Co. Somerset</em>, volume I: 1554-1680. The Parish Register Society.</dd>
+
+  <dt><a href="bib/carbonell">carbonell</a></dt>
+  <dd>D. Manuel de Bofarull y de Sartorio, editor. <em>Opúsculos Inéditos del Cronista Catalan Pedro Miguel Carbonell</em>, volume II. Barcelona: en la Imprenta del Arguivo, 1865.</dd>
+
+  <dt><a href="bib/cendrat">cendrat</a></dt>
+  <dd>Jaime Cendrat. <em>Synodi Barcinonensis dioecesanae sub admodum Illustri ac Reuerendissimo Domino Domino Ildefonso Coloma Barcinonensi Episcopo ac Regio Consiliario acta leges, et constitutiones totam fere ecclesiasticam disciplinam complectentes: in quibus, quae pertinent ad morum reformationem, &amp; Parochorum instructionem quam breuissime describuntur</em>. Barcinone: apud haeredes Iacobi Cendrat, 1600.</dd>
+
+  <dt><a href="bib/chlumecky">chlumecky</a></dt>
+  <dd>P. Ritter v. Chlumecky, Joseph Chytil, Carl Demuth, and A. R. v. Wolfskron, editors. <em>Die Landtafel des Markgrafthumes Mähren</em>. Brünn: Franz Gastl, 1856.</dd>
+
+  <dt><a href="bib/clairvaux-12thc">clairvaux-12thc</a></dt>
+  <dd>Jean Waquet, Jean-Marc Roger, and Laurent Veyssière, editors. <em>Recueil des Chartes de l'Abbaye de Clairvaux au XIIe Siècle</em>, volume 32 of <em>Collection de Documents Inédits sur l'Histoire de France; Section d'Histoire et Philologie des Civilisations Médiévales</em>. Paris: C.T.H.S., 2004.</dd>
+
+  <dt><a href="bib/deMoxo">deMoxo</a></dt>
+  <dd>Salvador de Moxó. Campesinos hacendados leoneses en el siglo xiv. In <em>León medieval: doce estudios: ponencias y comunicaciones presentadas al Coloquio El Reino de León en la Edad Media</em>, pages 167-198. León: Colegio Universitario, 1978.</dd>
+
+  <dt><a href="bib/defelice-nomi">defelice-nomi</a></dt>
+  <dd>Emidio De Felice. <em>Dizionario dei Nomi Italiani</em>. Milan: Arnoldo Mondadori Editore, 1992.</dd>
+
+  <dt><a href="bib/favier">favier</a></dt>
+  <dd>Jean Favier. <em>Les Contribuables Parisiens à la Fin de la Guerre de Cent Ans, les Rôles d'impø^t de 1421, 1423 et 1438</em>. Genève, Paris, Droz, 1970.</dd>
+
+  <dt><a href="bib/hanquetvol1">hanquetvol1</a></dt>
+  <dd>Karl Hanquet, editor. <em>Documents Relatifs au Grand Schisme: Textes et Analyses</em>, volume 1: Suppliques de Clément VII (1378-1379). Rome: Institut Historique Belge; Paris: H. Champion; Bruxelles: P. Imbreghts, 1924.</dd>
+
+  <dt><a href="bib/hennes-vol1">hennes-vol1</a></dt>
+  <dd>Johann Heinrich Hennes, editor. <em>Codex Diplomaticus Ordinis Santcae Mariae Theutonicorum: Urkundenbuch zur Geschichte des Deutschen Ordens, insbesondre der Ballei Coblenz</em>, volume 1. Mainz: Franz Kirchheim, 1845.</dd>
+
+  <dt><a href="bib/irminon-vol2">irminon-vol2</a></dt>
+  <dd>M. B. Guérard, editor. <em>Polyptyque de l'Abbé Irminon, ou Dénombrement des Manses, des Serfs, et des Revenus de l'Abbaye de Saint-Germain-des-Prés, sous le Regne de Charlemagne</em>, volume 2. Paris: Imprimé par Autorisation du Roi a l'Imprimerie Royale, 1844.</dd>
+
+  <dt><a href="bib/lecoy">lecoy</a></dt>
+  <dd>A. Lecoy de la Marche, editor. <em>Extraits des Comptes et Mémoriaux du Roi René Pour Servir a l'Histoire des Arts au XVe Siècle</em>. Paris: Alphonse Picard, Libraire de la Société de l'École des Chartes, 1873.</dd>
+
+  <dt><a href="bib/mairhofer">mairhofer</a></dt>
+  <dd>Theodor Mairhofer, editor. <em>Urkundenbuch des Augustiner Chorherren-Stiftes: Neustift in Tirol</em>. Wien: In Commission bei Karl Gerold's Sohn, 1871.</dd>
+
+  <dt><a href="bib/marnier">marnier</a></dt>
+  <dd>M. A. J. Marnier, editor. <em>Ancien Coutumier Inédit de Picardie Contenant Les Coutumes Notoires, Arrêts et Ordonnances des Cours du Quatorzième Siècle (1300 à 1325)</em>. Paris: Téchener, Libraire; Joubert; Durand; Delamotte, 1840.</dd>
+
+  <dt><a href="bib/mengs">mengs</a></dt>
+  <dd>A. Raffaello Mengs. <em>Opere di A. Raffaello Mengs: Su Le Belle Arti</em>, volume 1. Giovanni Silvestri, 1836.</dd>
+
+  <dt><a href="bib/montalvo">montalvo</a></dt>
+  <dd>Antonio Serrano Montalvo. <em>La población de Aragón según el Fogaje de 1495</em>. Zaragoza: Institución Fernando el Católico, Gobierno de Aragón e Instituto Aragonés de Estadística, 1995. We used the version online at https://web.archive.org/web/20091224174528/http://www.solunet.es/ blesa/hiscenso.htm, accessed June 2014.</dd>
+
+  <dt><a href="bib/morganmorgan">morganmorgan</a></dt>
+  <dd>T. J. Morgan and Prys Morgan. <em>Welsh Surnames</em>. Cardiff: University of Wales Press, 1985.</dd>
+
+  <dt><a href="bib/morlet-dic">morlet-dic</a></dt>
+  <dd>Marie-Thérèese Morlet. <em>Dictionnaire Étymologique des Noms de Famille</em>. Librairie Académique Perrin, 1997.</dd>
+
+  <dt><a href="bib/morton-vol1">morton-vol1</a></dt>
+  <dd><em>Registrum Honoris de Morton: A Series of Ancient Charters of the Earldom of Morton with Other Original Papers in Two Volumes</em>, volume 1: Original Papers. Edinburgh, 1853.</dd>
+
+  <dt><a href="bib/oed">oed</a></dt>
+  <dd>OED. <em>Oxford English Dictionary Online</em>. Oxford University Press, 2014.</dd>
+
+  <dt><a href="bib/olite1496">olite1496</a></dt>
+  <dd>Inventario de bienes de olite (1496): Continuación. <em>Boletín de la Real Academia de la Historia</em>, 175:171-190, 1978.</dd>
+
+  <dt><a href="bib/paris1296">paris1296</a></dt>
+  <dd>Karl Michaëlsson, editor. <em>Le Livre de la Taille de Paris l'An 1296</em>. Romanica Gothoburgensia. Göteborg: Elanders Boktryckeri Aktiebolag, 1958.</dd>
+
+  <dt><a href="bib/quix-vol1">quix-vol1</a></dt>
+  <dd>Codex diplomaticus aquensis. In Christian Quix, editor, <em>Geschichte der Stadt Aachen, nach Quellen bearbeitet</em>, volume 1. J. Henssen und Comp., 1839.</dd>
+
+  <dt><a href="bib/raymond1588">raymond1588</a></dt>
+  <dd>ed. P. Raymond. Notes extraites des comptes de jeanne d'albret et de ses enfants. <em>Revue d'Aquitaine et des Pyrénées: Recueil Historique de Guienne, Périgord, Gascogne, Béarn, Languedoc</em>, 13:564-573, 1869.</dd>
+
+  <dt><a href="bib/reaney-wilson">reaney-wilson</a></dt>
+  <dd>P. H. Reaney and R. M. Wilson. <em>A Dictionary of English Surnames</em>. Oxford University Press, 1995.</dd>
+
+  <dt><a href="bib/roberts">roberts</a></dt>
+  <dd>Ann Roberts. <em>Dominican Women and Renaissance Art: The Convent of San Domenico of Pisa</em>. Ashgate, 2008.</dd>
+
+  <dt><a href="bib/sajanello-2">sajanello-2</a></dt>
+  <dd>Jo. Baptista Sajanello. <em>Historica Monumenta Ordinis Sancti Hieronymi Congregationis B. Petri de Pisis</em>, volume 2. ProstatPatavii apud Jo: Baptistam Conzatti, 2nd edition, 1760.</dd>
+
+  <dt><a href="bib/skinner">skinner</a></dt>
+  <dd>Patricia Skinner. <em>Health and Medicine in Early Medieval Southern Italy</em>. E. J. Brill, 1997.</dd>
+
+  <dt><a href="bib/tailliar">tailliar</a></dt>
+  <dd>M. Tailliar, editor. <em>Recueil d'Actes des XIIe. et XIIIe. Siècles, en Langue Romane Wallonne du Nord de la France</em>. Douai: Adam d'Aubers, 1849.</dd>
+
+  <dt><a href="bib/thierry">thierry</a></dt>
+  <dd>Augustin Thierry. <em>Recueil des Monuments Inédits de l'Histoire du Tiers Etat</em>, volume 4 of <em>1: Région du Nord</em>. Firmin Didot Frères, 1870. http://books.google.de/books?id=SDBBAAAAcAAJ.</dd>
+
+  <dt><a href="bib/tomek">tomek</a></dt>
+  <dd>Základy starého mistopisu pražského. In <em>Abhandlungen der königl. böhmischen Gesellschaft der Wissenschaften</em>, volume 5. Prag: Ed. Grégr., 1866.</dd>
+
+  <dt><a href="bib/valencia1510">valencia1510</a></dt>
+  <dd>Cens del regne de valència (1510), 2009. El cens complet (incloent el llibre 514 TER, que conté els llocs de l'Església i les altres 3 ciutats i 23 viles reials) ha estat publicat al número 6 de la col·leció Fonts Històriques Valencianes pel Servei de Publicacions de la Universitat de València en febrer de 2002.</dd>
+
+  <dt><a href="bib/yewdale">yewdale</a></dt>
+  <dd>Ralph Bailey Yewdale. <em>Bohemond I, Prince of Antioch</em>. PhD thesis, Princeton University, 1917.</dd>
+
+  <dt><a href="bib/ystradmarchell">ystradmarchell</a></dt>
+  <dd>Graham C. G. Thomas, editor. <em>The Charters of the Abbey of Ystrad Marchell</em>. Aberystwyth: National Library of Wales, 1997. http://deeds.library.utoronto.ca/cartularies/0106.</dd>
+
+</dl>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

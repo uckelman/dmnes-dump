@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Albin</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/name/Albin">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Albin</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A derivative of <span class="lang">Latin</span> <i>albus</i> 'white'.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>The <span class="lang">French</span> form <i>Aubin</i> can also be a diminutive of <a class="nym" href="Aubert">Aubert</a>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1194</span> <span class="name">Albinus</span> (<span class="case">nom</span>) <a href="../cite/Albinus/1194/RotCur-vol1"><span class="bib_key">RotCur-vol1</span> <span class="bib_loc">p. 6</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1258</span> <span class="name">Albini</span> (<span class="case">gen</span>) <a href="../cite/Albini/1258/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XVI, BMV</span></a>;
+ <span class="date">1301</span> <span class="name">Albini</span> (<span class="case">gen</span>) <a href="../cite/Albini/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 199</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1421</span> <span class="name">Aubin</span> <a href="../cite/Aubin/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1066</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1136</span> <span class="name">Albini</span> (<span class="case">gen</span>) <a href="../cite/Albini/1136/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">80</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1527</span> <span class="name">Albinij</span> (<span class="case">gen</span>) <a href="../cite/Albinij/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 89</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Preview. <b>DO NOT</b> cite as: <cite>S.L. Uckelman. "Albin". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 1. http://dmnes.org/2015/1/name/Albin.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>tailliar</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/bib/tailliar">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>tailliar</dt>
+  <dd>M. Tailliar, editor. <em>Recueil d'Actes des XIIe. et XIIIe. Siècles, en Langue Romane Wallonne du Nord de la France</em>. Douai: Adam d'Aubers, 1849.</dd>
+</dl>
+
+
+  <a href="../cite/Adele/1133/tailliar">Adele</a>
+
+  <a href="../cite/Eudon/1133/tailliar">Eudon</a>
+
+  <a href="../cite/Guatier/1133/tailliar">Guatier</a>
+
+  <a href="../cite/Huon/1133/tailliar">Huon</a>
+
+  <a href="../cite/Jeihans/1133/tailliar">Jeihans</a>
+
+  <a href="../cite/Pieren/1133/tailliar">Pieren</a>
+
+  <a href="../cite/Regnatin/1133/tailliar">Regnatin</a>
+
+  <a href="../cite/Renaud/1133/tailliar">Renaud</a>
+
+  <a href="../cite/Renaut/1133/tailliar">Renaut</a>
+
+  <a href="../cite/Renon/1133/tailliar">Renon</a>
+
+  <a href="../cite/Watiers/1133/tailliar">Watiers</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Drew</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/name/Drew">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Drew</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">Frankish <i>drogo</i>, of uncertain origin, perhaps related to <span class="lang">Old Saxon</span> <i>(gi)drog</i> 'phantom, ghost'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The first known bearer of the name was a son of Charlemagne.  It is also the name of a 12th C French saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>In England, <i>Drew</i> is also sometimes a nickname of <a class="nym" href="Andrew">Andrew</a>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1107</span> <span class="name">Drogo</span> (<span class="case">abl</span>) <a href="../cite/Drogo/1107/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1115</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1135</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">61</span></a>;
+ <span class="date">c1140</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/c1140/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIII</span></a>;
+ <span class="date">1147</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Drogone</span> (<span class="case">abl</span>) <a href="../cite/Drogone/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Drogone</span> (<span class="case">abl</span>) <a href="../cite/Drogone/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1154</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1154/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1160</span> <span class="name">Drogonis</span> (<span class="case">gen</span>) <a href="../cite/Drogonis/1160/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXIV</span></a>;
+ <span class="date">1162</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">40</span></a>;
+ <span class="date">1163</span> <span class="name">Drogonis</span> (<span class="case">gen</span>) <a href="../cite/Drogonis/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1163–64</span> <span class="name">Droco</span> (<span class="case">nom</span>) <a href="../cite/Droco/1163�%2580%259364/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">117</span></a>,
+ <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1163�%2580%259364/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">114</span></a>;
+ <span class="date">1164</span> <span class="name">Droco</span> (<span class="case">nom</span>) <a href="../cite/Droco/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>,
+ <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>,
+ <span class="name">Drogonis</span> (<span class="case">gen</span>) <a href="../cite/Drogonis/1164/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">C</span></a>;
+ <span class="date">1188</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1188/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XCIV</span></a>;
+ <span class="date">1190</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1190/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXIX</span></a>;
+ <span class="date">1201</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1201/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXI</span></a>;
+ <span class="date">1203</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1203/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXV</span></a>,
+ <span class="name">Drogone</span> (<span class="case">abl</span>) <a href="../cite/Drogone/1203/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXV</span></a>;
+ <span class="date">1236</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/1236/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CCXVI</span></a>,
+ <span class="name">Drogonis</span> (<span class="case">gen</span>) <a href="../cite/Drogonis/1236/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXVI</span></a>;
+ <span class="date">1257</span> <span class="name">Droconis</span> (<span class="case">gen</span>) <a href="../cite/Droconis/1257/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">V, Candlemas</span></a>;
+ <span class="date">1258</span> <span class="name">Droco</span> (<span class="case">nom</span>) <a href="../cite/Droco/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">II, BMV</span></a>,
+ <span class="name">Droconis</span> (<span class="case">gen</span>) <a href="../cite/Droconis/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">II, BMV</span></a>;
+ <span class="date">1259</span> <span class="name">Droco</span> (<span class="case">nom</span>) <a href="../cite/Droco/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI, Pentecost</span></a>,
+ <span class="name">Droconem</span> (<span class="case">acc</span>) <a href="../cite/Droconem/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII, Pentecost</span></a>;
+ <span class="date">1260</span> <span class="name">Droco</span> (<span class="case">nom</span>) <a href="../cite/Droco/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">X, St. Martin</span></a>,
+ <span class="name">Drocone</span> (<span class="case">abl</span>) <a href="../cite/Drocone/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">VII, Pentecost</span></a>,
+ <span class="name">Droconem</span> (<span class="case">acc</span>) <a href="../cite/Droconem/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">VII, St. Martin</span></a>;
+ <span class="date">1301</span> <span class="name">Droco</span> (<span class="case">nom</span>) <a href="../cite/Droco/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 202</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1378</span> <span class="name">Drueti</span> (<span class="case">gen</span>) <a href="../cite/Drueti/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">466</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Dreue</span> <a href="../cite/Dreue/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Dreues</span> <a href="../cite/Dreues/1296/paris1296"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>,
+ <span class="name">Droyn</span> <a href="../cite/Droyn/1296/paris1296"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1301</span> <span class="name">Drieue</span> (<span class="case">obl</span>) <a href="../cite/Drieue/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 242</span></a>;
+ <span class="date">1313</span> <span class="name">Dreue</span> <a href="../cite/Dreue/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Dreues</span> <a href="../cite/Dreues/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Dreus</span> <a href="../cite/Dreus/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Drue</span> <a href="../cite/Drue/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Drouet</span> <a href="../cite/Drouet/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 7</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1423</span> <span class="name">Dreue</span> <a href="../cite/Dreue/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">402</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Drouet</span> <a href="../cite/Drouet/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 602</span></a>;
+ <span class="date">1418</span> <span class="name">Drouet</span> <a href="../cite/Drouet/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 388</span></a>,
+ <span class="name">Drouyn</span> <a href="../cite/Drouyn/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 386</span></a>;
+ <span class="date">1423</span> <span class="name">Drouet</span> <a href="../cite/Drouet/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">191</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Drogo</span> (<span class="case">nom</span>) <a href="../cite/Drogo/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§74</span></a>;
+ <span class="date">834</span> <span class="name">Drogonis</span> (<span class="case">gen</span>) <a href="../cite/Drogonis/834/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">895</span> <span class="name">Druogo</span> (<span class="case">nom</span>) <a href="../cite/Druogo/895/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXV</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Preview. <b>DO NOT</b> cite as: <cite>S.L. Uckelman. "Drew". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 1. http://dmnes.org/2015/1/name/Drew.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

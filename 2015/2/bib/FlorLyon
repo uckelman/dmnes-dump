@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>FlorLyon</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>FlorLyon</dt>
+  <dd>le Comte de Charpen-Feugerolles. <em>Les Florentins a Lyon</em>. Lyon: A La Librairie Ancienne de Louis Brun, 1893.</dd>
+</dl>
+
+
+  <a href="../cite/Alexander/1564/FlorLyon">Alexander</a>
+
+  <a href="../cite/Alexandri/1564/FlorLyon">Alexandri</a>
+
+  <a href="../cite/Alexandro/1579/FlorLyon">Alexandro</a>
+
+  <a href="../cite/Bartholomei/1558/FlorLyon">Bartholomei</a>
+
+  <a href="../cite/Bernardo/1579/FlorLyon">Bernardo</a>
+
+  <a href="../cite/Carolus/1564/FlorLyon">Carolus</a>
+
+  <a href="../cite/Emerauda/1564/FlorLyon">Emerauda</a>
+
+  <a href="../cite/Francisci/1579/FlorLyon">Francisci</a>
+
+  <a href="../cite/Franciscum/1564/FlorLyon">Franciscum</a>
+
+  <a href="../cite/Franciscus/1558/FlorLyon">Franciscus</a>
+
+  <a href="../cite/Guerardo/1564/FlorLyon">Guerardo</a>
+
+  <a href="../cite/Guillermo/1579/FlorLyon">Guillermo</a>
+
+  <a href="../cite/Leonardi/1579/FlorLyon">Leonardi</a>
+
+  <a href="../cite/Leonardus/1585/FlorLyon">Leonardus</a>
+
+  <a href="../cite/Matheus/1564/FlorLyon">Matheus</a>
+
+  <a href="../cite/Petro/1564/FlorLyon">Petro</a>
+
+  <a href="../cite/Raphael/1579/FlorLyon">Raphael</a>
+
+  <a href="../cite/Reinery/1579/FlorLyon">Reinery</a>
+
+  <a href="../cite/Renierio/1585/FlorLyon">Renierio</a>
+
+  <a href="../cite/Renierum/1579/FlorLyon">Renierum</a>
+
+  <a href="../cite/Sibilla/1579/FlorLyon">Sibilla</a>
+
+  <a href="../cite/Sibillam/1579/FlorLyon">Sibillam</a>
+
+  <a href="../cite/Sibille/1579/FlorLyon">Sibille</a>
+
+  <a href="../cite/Thoma/1579/FlorLyon">Thoma</a>
+
+  <a href="../cite/Thomasi/1564/FlorLyon">Thomasi</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

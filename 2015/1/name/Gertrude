@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Gertrude</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/name/Gertrude">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Gertrude</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Old High German, Old Saxon</span> <i>gēr</i> 'spear' + <span class="lang">Proto-Germanic</span> <i>*þrūþ</i> 'strength' or <span class="lang">Proto-Germanic</span> <i>*trut</i> 'maiden'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of two 7th C saints and a 13th C German saint, a 12th C queen consort of Denmark, a 13th C queen consort of Germany, and a 13th C queen consort and later regent of Hungary.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Gertrudem</span> (<span class="case">acc</span>) <a href="../cite/Gertrudem/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Gertrudis</span> (<span class="case">nom</span>) <a href="../cite/Gertrudis/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1348</span> <span class="name">Gedrudi</span> (<span class="case">dat</span>) <a href="../cite/Gedrudi/1348/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1349</span> <span class="name">Gedrudis</span> (<span class="case">gen</span>) <a href="../cite/Gedrudis/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">110</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1355</span> <span class="name">Geruschsa</span> (<span class="case">nom</span>) <a href="../cite/Geruschsa/1355/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">90</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1434–35</span> <span class="name">Geretrude</span> <a href="../cite/Geretrude/1434�%2580%259335/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 103</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1430</span> <span class="name">Troyde</span> <a href="../cite/Troyde/1430/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 84</span></a></dd>
+<dt><span class="lang">English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Gertrud</span> <a href="../cite/Gertrud/1548/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1560</span> <span class="name">Gartred</span> <a href="../cite/Gartred/1560/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1562</span> <span class="name">Getred</span> <a href="../cite/Getred/1562/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1563</span> <span class="name">Gertrude</span> <a href="../cite/Gertrude/1563/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1566</span> <span class="name">Gartrude</span> <a href="../cite/Gartrude/1566/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1573</span> <span class="name">Gartrud</span> <a href="../cite/Gartrud/1573/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1574</span> <span class="name">Gartrud</span> <a href="../cite/Gartrud/1574/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>,
+ <span class="name">Gartrude</span> <a href="../cite/Gartrude/1574/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1585</span> <span class="name">Gartrude</span> <a href="../cite/Gartrude/1585/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1589</span> <span class="name">Gertrude</span> <a href="../cite/Gertrude/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1592</span> <span class="name">Gertrude</span> <a href="../cite/Gertrude/1592/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1596</span> <span class="name">Geritrude</span> <a href="../cite/Geritrude/1596/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 38</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1135</span> <span class="name">Geltrude</span> (<span class="case">abl</span>) <a href="../cite/Geltrude/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1145</span> <span class="name">Gertrude</span> (<span class="case">abl</span>) <a href="../cite/Gertrude/1145/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1147</span> <span class="name">Geltrude</span> (<span class="case">abl</span>) <a href="../cite/Geltrude/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Gertrude</span> (<span class="case">abl</span>) <a href="../cite/Gertrude/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Gertrudi</span> (<span class="case">dat</span>) <a href="../cite/Gertrudi/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Gertrudis</span> (<span class="case">nom</span>) <a href="../cite/Gertrudis/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1163</span> <span class="name">Jertrudis</span> (<span class="case">gen</span>) <a href="../cite/Jertrudis/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1163–64</span> <span class="name">Gertrude</span> (<span class="case">abl</span>) <a href="../cite/Gertrude/1163�%2580%259364/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1164</span> <span class="name">Gertrude</span> (<span class="case">abl</span>) <a href="../cite/Gertrude/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1197</span> <span class="name">Gertrudis</span> (<span class="case">gen</span>) <a href="../cite/Gertrudis/1197/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">83</span></a>;
+ <span class="date">1207</span> <span class="name">Gertrudis</span> (<span class="case">nom</span>) <a href="../cite/Gertrudis/1207/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">8</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1286</span> <span class="name">Gertrudis</span> (<span class="case">nom</span>) <a href="../cite/Gertrudis/1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">5</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Preview. <b>DO NOT</b> cite as: <cite>J. Uckelman, S.L. Uckelman. "Gertrude". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 1. http://dmnes.org/2015/1/name/Gertrude.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

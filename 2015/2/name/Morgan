@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Morgan</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Morgan</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Welsh, Old Breton, Cornish</span> <i>Morcant</i>, from <span class="lang">Proto-Celtic</span> <i>*mori</i> 'sea' + an uncertain element.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a few early Brythonic and Welsh kings.</p>
+</div>
+  
+  
+<div class="def">
+  <p><span class="xr">Morgan &amp; Morgan s.n. Morgan</span> note two incorrect etymologies of the name which have led to interesting connections between <i>Morgan</i> and other names.  They report an example of <i>Seaborn</i> which was "a name intended to translate <i>Morgan</i>", on account of a false etymology deriving the second element from <i>geni</i> 'to be born'.  The name has also been connected to <a class="nym" href="Pelagius">Pelagius</a>, due to the meaning of the prototheme.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1529</span> <span class="name">morgan</span> <a href="../cite/morgan/1529/PP-HenV"><span class="bib_key">PP-HenV</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1531</span> <span class="name">Morgan</span> <a href="../cite/Morgan/1531/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 121</span></a>;
+ <span class="date">1583</span> <span class="name">Morgaine</span> <a href="../cite/Morgaine/1583/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1587</span> <span class="name">Morgan</span> <a href="../cite/Morgan/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1590</span> <span class="name">Morgan</span> <a href="../cite/Morgan/1590/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p.22</span></a>;
+ <span class="date">1592</span> <span class="name">Morganne</span> <a href="../cite/Morganne/1592/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 35</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Morgan". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 2. http://dmnes.org/2015/2/name/Morgan.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

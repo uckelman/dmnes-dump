@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Erhard</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/name/Erhard">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Erhard</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German, Old Saxon</span> <i>era</i> 'honor' + <span class="lang">Old Saxon</span> <i>hard</i>, <span class="lang">Old High German</span> <i>hart</i> 'strong, hard'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C German saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1163–64</span> <span class="name">Erardus</span> (<span class="case">nom</span>) <a href="../cite/Erardus/1163�%2580%259364/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">118</span></a>;
+ <span class="date">1164</span> <span class="name">Erardus</span> (<span class="case">nom</span>) <a href="../cite/Erardus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Erart</span> <a href="../cite/Erart/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 95</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Erart</span> <a href="../cite/Erart/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 372</span></a>;
+ <span class="date">1421</span> <span class="name">Erard</span> <a href="../cite/Erard/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1268</span></a>;
+ <span class="date">1423</span> <span class="name">Erart</span> <a href="../cite/Erart/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">245</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1418</span> <span class="name">Erardin</span> <a href="../cite/Erardin/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 378</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1401</span> <span class="name">Erhardo</span> (<span class="case">dat</span>) <a href="../cite/Erhardo/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 181</span></a>;
+ <span class="date">1415</span> <span class="name">Erhardo</span> (<span class="case">abl</span>) <a href="../cite/Erhardo/1415/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCC</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1421</span> <span class="name">Erhard</span> (<span class="case">nom</span>) <a href="../cite/Erhard/1421/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCCXVII</span></a>;
+ <span class="date">1497</span> <span class="name">Erhart</span> <a href="../cite/Erhart/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">p. 2</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Preview. <b>DO NOT</b> cite as: <cite>S.L. Uckelman. "Erhard". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 1. http://dmnes.org/2015/1/name/Erhard.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

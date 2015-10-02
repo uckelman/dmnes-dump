@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Guy</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/name/Guy">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Guy</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Saxon</span> <i>widu, wido</i>, <span class="lang">Old High German</span> <i>witu</i> 'wood'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a King of Jerusalem and Cyprus.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1347</span> <span class="name">Guidone</span> (<span class="case">abl</span>) <a href="../cite/Guidone/1347/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 7</span></a>;
+ <span class="date">1357</span> <span class="name">Guidone</span> (<span class="case">abl</span>) <a href="../cite/Guidone/1357/SocAntNor-3-3"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 23</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1357</span> <span class="name">Guyoto</span> (<span class="case">abl</span>) <a href="../cite/Guyoto/1357/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 23</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1030x70</span> <span class="name">Vuido</span> (<span class="case">nom</span>) <a href="../cite/Vuido/1030x70/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 110</span></a>,
+ <span class="name">Vuidonis</span> (<span class="case">gen</span>) <a href="../cite/Vuidonis/1030x70/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 110</span></a>;
+ <span class="date">1031</span> <span class="name">Widoni</span> (<span class="case">gen</span>) <a href="../cite/Widoni/1031/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 107</span></a>;
+ <span class="date">1067</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1067/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XII</span></a>,
+ <span class="name">Guidoni</span> (<span class="case">dat</span>) <a href="../cite/Guidoni/1067/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>,
+ <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1067/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1067x1074</span> <span class="name">Guidone</span> (<span class="case">abl</span>) <a href="../cite/Guidone/1067x1074/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1067x1086</span> <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1067x1086/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1107</span> <span class="name">Guido</span> (<span class="case">abl</span>) <a href="../cite/Guido/1107/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1115</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Wido</span> (<span class="case">nom</span>) <a href="../cite/Wido/1115/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1120</span> <span class="name">Wido</span> (<span class="case">nom</span>) <a href="../cite/Wido/1120/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1123</span> <span class="name">Widonis</span> (<span class="case">gen</span>) <a href="../cite/Widonis/1123/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1126</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1126/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1131</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1131/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1133</span> <span class="name">Widonis</span> (<span class="case">gen</span>) <a href="../cite/Widonis/1133/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXX</span></a>;
+ <span class="date">1135</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Guidone</span> (<span class="case">abl</span>) <a href="../cite/Guidone/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x62</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">84</span></a>,
+ <span class="name">Wido</span> (<span class="case">nom</span>) <a href="../cite/Wido/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">87</span></a>;
+ <span class="date">1138x1148</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1138x1148/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>;
+ <span class="date">1141</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1141/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1143</span> <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1143/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1143x1146</span> <span class="name">Wido</span> (<span class="case">nom</span>) <a href="../cite/Wido/1143x1146/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1146</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1146/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">VIII</span></a>,
+ <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1146/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXII</span></a>;
+ <span class="date">1147</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Guidone</span> (<span class="case">abl</span>) <a href="../cite/Guidone/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Wido</span> (<span class="case">nom</span>) <a href="../cite/Wido/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Widone</span> (<span class="case">abl</span>) <a href="../cite/Widone/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1147x1158</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1147x1158/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>,
+ <span class="name">Guidone</span> (<span class="case">abl</span>) <a href="../cite/Guidone/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">43</span></a>,
+ <span class="name">Wido</span> (<span class="case">nom</span>) <a href="../cite/Wido/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>;
+ <span class="date">1153</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1153/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1155</span> <span class="name">Wido</span> (<span class="case">nom</span>) <a href="../cite/Wido/1155/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1159</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1159/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a>,
+ <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1159/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a>;
+ <span class="date">1162</span> <span class="name">Wido</span> (<span class="case">nom</span>) <a href="../cite/Wido/1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>;
+ <span class="date">a1163</span> <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/a1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">96</span></a>;
+ <span class="date">1163</span> <span class="name">Guidone</span> (<span class="case">abl</span>) <a href="../cite/Guidone/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>,
+ <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>,
+ <span class="name">Guis</span> (<span class="case">nom</span>) <a href="../cite/Guis/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">94</span></a>,
+ <span class="name">Widonis</span> (<span class="case">gen</span>) <a href="../cite/Widonis/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1163–64</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1163�%2580%259364/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>,
+ <span class="name">Guidone</span> (<span class="case">abl</span>) <a href="../cite/Guidone/1163�%2580%259364/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">113</span></a>;
+ <span class="date">1164</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Guidone</span> (<span class="case">abl</span>) <a href="../cite/Guidone/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>,
+ <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">c1170</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/c1170/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIV</span></a>;
+ <span class="date">1180</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1180/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LV</span></a>;
+ <span class="date">c1180</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/c1180/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXVIII</span></a>;
+ <span class="date">1180</span> <span class="name">Guidone</span> (<span class="case">abl</span>) <a href="../cite/Guidone/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="name">Widone</span> (<span class="case">abl</span>) <a href="../cite/Widone/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1187</span> <span class="name">Guidone</span> (<span class="case">abl</span>) <a href="../cite/Guidone/1187/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LVII</span></a>,
+ <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1187/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LVII</span></a>;
+ <span class="date">1190</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1190/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CII</span></a>;
+ <span class="date">1201</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1201/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXI</span></a>;
+ <span class="date">1205</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1205/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">1207</span> <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1207/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XLII</span></a>;
+ <span class="date">1257</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1257/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">II, St. Martin</span></a>;
+ <span class="date">1258</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIX, Candlemas</span></a>;
+ <span class="date">1259</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">X, St. Martin</span></a>,
+ <span class="name">Guidonem</span> (<span class="case">acc</span>) <a href="../cite/Guidonem/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII, Pentecost</span></a>;
+ <span class="date">1260</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">VI, Candlemas</span></a>,
+ <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII, Ascension</span></a>;
+ <span class="date">1261</span> <span class="name">Guidonem</span> (<span class="case">acc</span>) <a href="../cite/Guidonem/1261/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">III, St. Martin</span></a>;
+ <span class="date">1300</span> <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1300/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXIX</span></a>;
+ <span class="date">1301</span> <span class="name">Guidoni</span> (<span class="case">gen</span>) <a href="../cite/Guidoni/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 199</span></a>,
+ <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 210</span></a>;
+ <span class="date">1378</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">564</span></a>,
+ <span class="name">Guidoni</span> (<span class="case">dat</span>) <a href="../cite/Guidoni/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">27</span></a>,
+ <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">564</span></a>,
+ <span class="name">Guidony</span> (<span class="case">dat</span>) <a href="../cite/Guidony/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">658</span></a>,
+ <span class="name">Guy</span> (<span class="case">nom</span>) <a href="../cite/Guy/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2107</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1147</span> <span class="name">Guidonellus</span> (<span class="case">nom</span>) <a href="../cite/Guidonellus/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1260</span> <span class="name">Guioti</span> (<span class="case">gen</span>) <a href="../cite/Guioti/1260/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XXIII, Ascension</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Gui</span> <a href="../cite/Gui/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 3</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Guiot</span> <a href="../cite/Guiot/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1313</span> <span class="name">Guiot</span> <a href="../cite/Guiot/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1327</span> <span class="name">Guyot</span> <a href="../cite/Guyot/1327/lecoy"><span class="bib_key">lecoy</span> <span class="bib_loc">p. 191</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Gui</span> <a href="../cite/Gui/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 609</span></a>,
+ <span class="name">Guy</span> <a href="../cite/Guy/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 602</span></a>;
+ <span class="date">1418</span> <span class="name">Guy</span> <a href="../cite/Guy/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 375</span></a>;
+ <span class="date">1421</span> <span class="name">Guy</span> <a href="../cite/Guy/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">844</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1387</span> <span class="name">Guiot</span> <a href="../cite/Guiot/1387/beauchet-vol1"><span class="bib_key">beauchet-vol1</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1392</span> <span class="name">Guiet</span> <a href="../cite/Guiet/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 605</span></a>,
+ <span class="name">Guion</span> <a href="../cite/Guion/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 600</span></a>,
+ <span class="name">Guiot</span> <a href="../cite/Guiot/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 597</span></a>,
+ <span class="name">Guyon</span> <a href="../cite/Guyon/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 598</span></a>;
+ <span class="date">1418</span> <span class="name">Guion</span> <a href="../cite/Guion/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 388</span></a>,
+ <span class="name">Guiot</span> <a href="../cite/Guiot/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 375</span></a>,
+ <span class="name">Guyot</span> <a href="../cite/Guyot/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 387</span></a>;
+ <span class="date">1421</span> <span class="name">Guiot</span> <a href="../cite/Guiot/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">76</span></a>;
+ <span class="date">1423</span> <span class="name">Guion</span> <a href="../cite/Guion/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>,
+ <span class="name">Guiot</span> <a href="../cite/Guiot/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">219</span></a>;
+ <span class="date">1438</span> <span class="name">Guion</span> <a href="../cite/Guion/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">221</span></a>,
+ <span class="name">Guiot</span> <a href="../cite/Guiot/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">302</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">997</span> <span class="name">Vuido</span> (<span class="case">nom</span>) <a href="../cite/Vuido/997/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">49</span></a>;
+ <span class="date">1122</span> <span class="name">Widonis</span> (<span class="case">gen</span>) <a href="../cite/Widonis/1122/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">27</span></a>;
+ <span class="date">1157</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1157/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>;
+ <span class="date">1216</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1216/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">25</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1220</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1220/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">49</span></a>;
+ <span class="date">1270</span> <span class="name">Guidus</span> (<span class="case">nom</span>) <a href="../cite/Guidus/1270/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">p. XLII</span></a>;
+ <span class="date">1273</span> <span class="name">Guidottis</span> (<span class="case">abl</span>) <a href="../cite/Guidottis/1273/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLII</span></a>;
+ <span class="date">1285</span> <span class="name">Guidonis</span> (<span class="case">gen</span>) <a href="../cite/Guidonis/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 153</span></a>;
+ <span class="date">1326</span> <span class="name">Guido</span> (<span class="case">nom</span>) <a href="../cite/Guido/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 435</span></a>,
+ <span class="name">Guidoni</span> (<span class="case">dat</span>) <a href="../cite/Guidoni/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 435</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1265x1339</span> <span class="name">Guidoti</span> (<span class="case">gen</span>) <a href="../cite/Guidoti/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">272</span></a>,
+ <span class="name">Guydeti</span> (<span class="case">gen</span>) <a href="../cite/Guydeti/1265x1339/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">340</span></a>,
+ <span class="name">Guydoti</span> (<span class="case">gen</span>) <a href="../cite/Guydoti/1265x1339/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">192</span></a>;
+ <span class="date">1273</span> <span class="name">Guidonus</span> (<span class="case">nom</span>) <a href="../cite/Guidonus/1273/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLII</span></a>,
+ <span class="name">Guidottus</span> (<span class="case">nom</span>) <a href="../cite/Guidottus/1273/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLII</span></a>;
+ <span class="date">1277</span> <span class="name">Guidonus</span> (<span class="case">nom</span>) <a href="../cite/Guidonus/1277/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLII</span></a>,
+ <span class="name">Guidoti</span> (<span class="case">gen</span>) <a href="../cite/Guidoti/1277/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLII</span></a>;
+ <span class="date">1282</span> <span class="name">Guidoti</span> (<span class="case">gen</span>) <a href="../cite/Guidoti/1282/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVII</span></a>;
+ <span class="date">1285</span> <span class="name">Guidarelli</span> (<span class="case">gen</span>) <a href="../cite/Guidarelli/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 154</span></a>,
+ <span class="name">Guidarellus</span> (<span class="case">nom</span>) <a href="../cite/Guidarellus/1285/Perugia1285"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 153</span></a>,
+ <span class="name">Guidutii</span> (<span class="case">gen</span>) <a href="../cite/Guidutii/1285/Perugia1285"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 157</span></a>;
+ <span class="date">1304</span> <span class="name">Guidotti</span> (<span class="case">gen</span>) <a href="../cite/Guidotti/1304/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">p. XLVI</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1510</span> <span class="name">Guixot</span> <a href="../cite/Guixot/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">1243</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1343</span> <span class="name">Guyon</span> (<span class="case">nom</span>) <a href="../cite/Guyon/1343/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(142)</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Unspecified</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1252</span> <span class="name">Guidoni</span> (<span class="case">dat</span>) <a href="../cite/Guidoni/1252/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">13</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Preview. <b>DO NOT</b> cite as: <cite>J. Uckelman, S.L. Uckelman. "Guy". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 1. http://dmnes.org/2015/1/name/Guy.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

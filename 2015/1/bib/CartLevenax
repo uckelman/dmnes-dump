@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>CartLevenax</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/bib/CartLevenax">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>CartLevenax</dt>
+  <dd><em>Cartularium Comitatus de Levenax: Ab Initio Seculi Decimi Tertii Usque ad Annum M.CCC.XCVIII</em>. Impressum Edinburgi, 1833.</dd>
+</dl>
+
+
+  <a href="../cite/Ada/1174x99/CartLevenax">Ada</a>
+
+  <a href="../cite/Alani/1387/CartLevenax">Alani</a>
+
+  <a href="../cite/Alani/1384/CartLevenax">Alani</a>
+
+  <a href="../cite/Alexandro/1392/CartLevenax">Alexandro</a>
+
+  <a href="../cite/Andrea/1384/CartLevenax">Andrea</a>
+
+  <a href="../cite/Andrea/1383/CartLevenax">Andrea</a>
+
+  <a href="../cite/Archibaldo/1392/CartLevenax">Archibaldo</a>
+
+  <a href="../cite/Archibaldo/1387/CartLevenax">Archibaldo</a>
+
+  <a href="../cite/Cristino/1238/CartLevenax">Cristino</a>
+
+  <a href="../cite/Duncani/1384/CartLevenax">Duncani</a>
+
+  <a href="../cite/Duncani/1392/CartLevenax">Duncani</a>
+
+  <a href="../cite/Duncano/1384/CartLevenax">Duncano</a>
+
+  <a href="../cite/Duncano/1387/CartLevenax">Duncano</a>
+
+  <a href="../cite/Duncano/1392/CartLevenax">Duncano</a>
+
+  <a href="../cite/Duncano/1386/CartLevenax">Duncano</a>
+
+  <a href="../cite/Duncanus/1384/CartLevenax">Duncanus</a>
+
+  <a href="../cite/Duncanus/1392/CartLevenax">Duncanus</a>
+
+  <a href="../cite/Duncanus/1387/CartLevenax">Duncanus</a>
+
+  <a href="../cite/Gilberto/1238/CartLevenax">Gilberto</a>
+
+  <a href="../cite/Gilchrist/1174x99/CartLevenax">Gilchrist</a>
+
+  <a href="../cite/Gillaspeck/1174x1199/CartLevenax">Gillaspeck</a>
+
+  <a href="../cite/Isabelle/1392/CartLevenax">Isabelle</a>
+
+  <a href="../cite/Jacobo/1383/CartLevenax">Jacobo</a>
+
+  <a href="../cite/Jacobo/1392/CartLevenax">Jacobo</a>
+
+  <a href="../cite/Johanne/1383/CartLevenax">Johanne</a>
+
+  <a href="../cite/Johanne/1238/CartLevenax">Johanne</a>
+
+  <a href="../cite/Johanne/1384/CartLevenax">Johanne</a>
+
+  <a href="../cite/Johanne/1387/CartLevenax">Johanne</a>
+
+  <a href="../cite/Johannis/1383/CartLevenax">Johannis</a>
+
+  <a href="../cite/Laurentio/1238/CartLevenax">Laurentio</a>
+
+  <a href="../cite/Malcolmo/1386/CartLevenax">Malcolmo</a>
+
+  <a href="../cite/Malcolmo/1383/CartLevenax">Malcolmo</a>
+
+  <a href="../cite/Malcolmo/1174x99/CartLevenax">Malcolmo</a>
+
+  <a href="../cite/Malcolmo/1238/CartLevenax">Malcolmo</a>
+
+  <a href="../cite/Maldoney/1238/CartLevenax">Maldoney</a>
+
+  <a href="../cite/Malduino/1174x1199/CartLevenax">Malduino</a>
+
+  <a href="../cite/Margareta/1387/CartLevenax">Margareta</a>
+
+  <a href="../cite/Margareta/1384/CartLevenax">Margareta</a>
+
+  <a href="../cite/Margarete/1387/CartLevenax">Margarete</a>
+
+  <a href="../cite/Margarete/1384/CartLevenax">Margarete</a>
+
+  <a href="../cite/Matheo/1392/CartLevenax">Matheo</a>
+
+  <a href="../cite/Michaele/1174x99/CartLevenax">Michaele</a>
+
+  <a href="../cite/Roberto/1392/CartLevenax">Roberto</a>
+
+  <a href="../cite/Roberto/1387/CartLevenax">Roberto</a>
+
+  <a href="../cite/Robertum/1386/CartLevenax">Robertum</a>
+
+  <a href="../cite/Robertum/1383/CartLevenax">Robertum</a>
+
+  <a href="../cite/Robertus/1384/CartLevenax">Robertus</a>
+
+  <a href="../cite/Robertus/1386/CartLevenax">Robertus</a>
+
+  <a href="../cite/Robertus/1387/CartLevenax">Robertus</a>
+
+  <a href="../cite/Robertus/1392/CartLevenax">Robertus</a>
+
+  <a href="../cite/Robertus/1383/CartLevenax">Robertus</a>
+
+  <a href="../cite/Rodardo/1174x99/CartLevenax">Rodardo</a>
+
+  <a href="../cite/Sumerledi/1238/CartLevenax">Sumerledi</a>
+
+  <a href="../cite/Thoma/1387/CartLevenax">Thoma</a>
+
+  <a href="../cite/Thoma/1392/CartLevenax">Thoma</a>
+
+  <a href="../cite/Walteri/1387/CartLevenax">Walteri</a>
+
+  <a href="../cite/Walteri/1384/CartLevenax">Walteri</a>
+
+  <a href="../cite/Waltero/1387/CartLevenax">Waltero</a>
+
+  <a href="../cite/Waltero/1384/CartLevenax">Waltero</a>
+
+  <a href="../cite/Waltero/1392/CartLevenax">Waltero</a>
+
+  <a href="../cite/Waltero/1383/CartLevenax">Waltero</a>
+
+  <a href="../cite/Walterum/1384/CartLevenax">Walterum</a>
+
+  <a href="../cite/Walterus/1383/CartLevenax">Walterus</a>
+
+  <a href="../cite/Walterus/1387/CartLevenax">Walterus</a>
+
+  <a href="../cite/Walterus/1384/CartLevenax">Walterus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

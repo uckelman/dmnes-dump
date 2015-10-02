@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Julius</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Julius</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Julius</i>, a Roman patrician <i>nomen</i>, of uncertain origin.  It was supposed, by the Romans, to have derived from <span class="lang">Greek</span> <i>ιουλος</i> 'downy-beared', though there is not much evidence to support this.  Another hypothesized origin is <span class="lang">Latin</span> <i>*Iovilios</i> 'pertaining to Jove'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a famous Roman Republic dictator, one of the most influential men in antiquity who was lauded in the Middle Ages, as well as a 4th C pope and saint, and two 16th C popes.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name came into use in Italy with the Renaissance, and did not reach England until the 16th C.  The compound <a class="nym" href="Julius&#32;Caesar">Julius Caesar</a> was also used as a given name after the Renaissance.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1153</span> <span class="name">Julius</span> (<span class="case">nom</span>) <a href="../cite/Julius/1153/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">IX</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1157</span> <span class="name">julius</span> (<span class="case">nom</span>) <a href="../cite/julius/1157/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">44</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1527</span> <span class="name">Julii</span> (<span class="case">gen</span>) <a href="../cite/Julii/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 88</span></a>,
+ <span class="name">Julij</span> (<span class="case">gen</span>) <a href="../cite/Julij/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 89</span></a>,
+ <span class="name">Julius</span> (<span class="case">nom</span>) <a href="../cite/Julius/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Jolia</span> <a href="../cite/Jolia/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">727</span></a>,
+ <span class="name">Julio</span> <a href="../cite/Julio/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3594</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Julius". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 2. http://dmnes.org/2015/2/name/Julius.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

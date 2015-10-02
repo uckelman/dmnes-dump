@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Petronilla</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Petronilla</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">A fem. dim. of <span class="lang">Latin</span> <i>Petronius</i>, a Roman <i>nomen</i> possibly derived from <span class="lang">Latin</span> <i>petra</i>, from <span class="lang">Ancient Greek</span> <i>πέτρα</i> 'a rock, stone'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a apocryphal virgin martyr and a 12th C queen of Aragon.</p>
+</div>
+  
+  
+<div class="def">
+  <p>Because of the supposed derivation from the same root as <a class="nym" href="Peter">Peter</a>, in the Middle Ages, <i>Petronilla</i> was the more common feminine form of that, as opposed to the actual feminine form, <a class="nym" href="Petra">Petra</a>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1279–80</span> <span class="name">Petronilla</span> (<span class="case">nom</span>) <a href="../cite/Petronilla/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 41</span></a>,
+ <span class="name">Pretronilla</span> (<span class="case">nom</span>) <a href="../cite/Pretronilla/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1381</span> <span class="name">Petronilla</span> (<span class="case">nom</span>) <a href="../cite/Petronilla/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 69</span></a></dd>
+<dt><span class="lang">English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1555</span> <span class="name">Petronill</span> <a href="../cite/Petronill/1555/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1556</span> <span class="name">Petronylle</span> <a href="../cite/Petronylle/1556/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1559</span> <span class="name">Parnella</span> <a href="../cite/Parnella/1559/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 60</span></a>,
+ <span class="name">Petronell</span> <a href="../cite/Petronell/1559/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1563</span> <span class="name">Peternell</span> <a href="../cite/Peternell/1563/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1568</span> <span class="name">Petroinel</span> <a href="../cite/Petroinel/1568/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1574</span> <span class="name">Parnell</span> <a href="../cite/Parnell/1574/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1576</span> <span class="name">Pernell</span> <a href="../cite/Pernell/1576/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1587</span> <span class="name">Parnell</span> <a href="../cite/Parnell/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1589</span> <span class="name">Parnell</span> <a href="../cite/Parnell/1589/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>,
+ <span class="name">Petronell</span> <a href="../cite/Petronell/1589/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1593</span> <span class="name">Peternel</span> <a href="../cite/Peternel/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1594</span> <span class="name">Peternel</span> <a href="../cite/Peternel/1594/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1599</span> <span class="name">Parnell</span> <a href="../cite/Parnell/1599/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Peternell</span> <a href="../cite/Peternell/1599/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">11thC</span> <span class="name">Petronilla</span> (<span class="case">nom</span>) <a href="../cite/Petronilla/11thC/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 115</span></a>;
+ <span class="date">1062</span> <span class="name">Petronilla</span> (<span class="case">nom</span>) <a href="../cite/Petronilla/1062/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">692</span></a>;
+ <span class="date">1147</span> <span class="name">Petronilla</span> (<span class="case">abl</span>) <a href="../cite/Petronilla/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1180</span> <span class="name">Petronille</span> (<span class="case">gen</span>) <a href="../cite/Petronille/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1259</span> <span class="name">Petronilla</span> (<span class="case">nom</span>) <a href="../cite/Petronilla/1259/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XXI, Pentecost</span></a>,
+ <span class="name">Petronillam</span> (<span class="case">acc</span>) <a href="../cite/Petronillam/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI, Pentecost</span></a>,
+ <span class="name">Petronille</span> (<span class="case">gen</span>) <a href="../cite/Petronille/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI, Pentecost</span></a>;
+ <span class="date">1273</span> <span class="name">Petronilla</span> (<span class="case">nom</span>) <a href="../cite/Petronilla/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="name">Petronillam</span> (<span class="case">acc</span>) <a href="../cite/Petronillam/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1274</span> <span class="name">Petronille</span> (<span class="case">gen</span>) <a href="../cite/Petronille/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1301</span> <span class="name">Petronilla</span> (<span class="case">nom</span>) <a href="../cite/Petronilla/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 248</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Perrenele</span> <a href="../cite/Perrenele/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1313</span> <span class="name">Perronelle</span> <a href="../cite/Perronelle/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Perronnelle</span> <a href="../cite/Perronnelle/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1327</span> <span class="name">Pernelle</span> <a href="../cite/Pernelle/1327/lecoy"><span class="bib_key">lecoy</span> <span class="bib_loc">p. 190</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Peternella</span> <a href="../cite/Peternella/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">304</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Patronilla</span> <a href="../cite/Patronilla/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">2213</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Petronilla". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 2. http://dmnes.org/2015/2/name/Petronilla.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

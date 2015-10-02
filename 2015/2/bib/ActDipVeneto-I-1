@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>ActDipVeneto-I-1</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>ActDipVeneto-I-1</dt>
+  <dd>A.-S. Minotto, editor. <em>Acta et Diplomata e R. Tabulario Veneto: Chronologico Ordine ac Principium Rerumque Ratione Inde a Recessiore Tempore usque ad Medium Seculum XV Summatim Regesta</em>, volume I: Res Forijulii et Patriarchatus Aquileiae Tergesti et Istriae et Goritiae, Sect. 1. Venetiis: Typis Joh. Cecchinj, 1870.</dd>
+</dl>
+
+
+  <a href="../cite/Albertino/1300/ActDipVeneto-I-1">Albertino</a>
+
+  <a href="../cite/Amantonis/1300/ActDipVeneto-I-1">Amantonis</a>
+
+  <a href="../cite/Andream/1300/ActDipVeneto-I-1">Andream</a>
+
+  <a href="../cite/Antonius/1301/ActDipVeneto-I-1">Antonius</a>
+
+  <a href="../cite/Donatus/1300/ActDipVeneto-I-1">Donatus</a>
+
+  <a href="../cite/Gabrielem/1300/ActDipVeneto-I-1">Gabrielem</a>
+
+  <a href="../cite/Gislandi/1300/ActDipVeneto-I-1">Gislandi</a>
+
+  <a href="../cite/Gislando/1300/ActDipVeneto-I-1">Gislando</a>
+
+  <a href="../cite/Iacobino/1300/ActDipVeneto-I-1">Iacobino</a>
+
+  <a href="../cite/Iacobo/1300/ActDipVeneto-I-1">Iacobo</a>
+
+  <a href="../cite/Iohanne/1300/ActDipVeneto-I-1">Iohanne</a>
+
+  <a href="../cite/Iohannem/1300/ActDipVeneto-I-1">Iohannem</a>
+
+  <a href="../cite/Iohannes/1300/ActDipVeneto-I-1">Iohannes</a>
+
+  <a href="../cite/Iohannis/1300/ActDipVeneto-I-1">Iohannis</a>
+
+  <a href="../cite/Laurencii/1300/ActDipVeneto-I-1">Laurencii</a>
+
+  <a href="../cite/Laurencio/1301/ActDipVeneto-I-1">Laurencio</a>
+
+  <a href="../cite/Laurencium/1300/ActDipVeneto-I-1">Laurencium</a>
+
+  <a href="../cite/Leonardum/1300/ActDipVeneto-I-1">Leonardum</a>
+
+  <a href="../cite/Marino/1301/ActDipVeneto-I-1">Marino</a>
+
+  <a href="../cite/Marinum/1300/ActDipVeneto-I-1">Marinum</a>
+
+  <a href="../cite/Menego/1300/ActDipVeneto-I-1">Menego</a>
+
+  <a href="../cite/Nicolaum/1300/ActDipVeneto-I-1">Nicolaum</a>
+
+  <a href="../cite/Nicolaus/1300/ActDipVeneto-I-1">Nicolaus</a>
+
+  <a href="../cite/Onufrio/1300/ActDipVeneto-I-1">Onufrio</a>
+
+  <a href="../cite/Paganus/1300/ActDipVeneto-I-1">Paganus</a>
+
+  <a href="../cite/Petri/1300/ActDipVeneto-I-1">Petri</a>
+
+  <a href="../cite/Petro/1300/ActDipVeneto-I-1">Petro</a>
+
+  <a href="../cite/Petrum/1300/ActDipVeneto-I-1">Petrum</a>
+
+  <a href="../cite/Petrus/1300/ActDipVeneto-I-1">Petrus</a>
+
+  <a href="../cite/Sclavono/1300/ActDipVeneto-I-1">Sclavono</a>
+
+  <a href="../cite/Stephano/1300/ActDipVeneto-I-1">Stephano</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

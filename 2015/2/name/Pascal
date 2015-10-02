@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Pascal</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Pascal</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>paschalis</i> 'of Easter, Paschal'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C antipope, a 9th C pope, a 12th C pope, and a 12th C anitpope.</p>
+</div>
+  
+  
+<div class="def">
+  <p>Cornish-influenced forms such as <i>Pasc(h)o(e)</i> and <i>Pascow</i> are, despite appearances, forms of <i>Pascal</i> and not masculine forms of <a class="nym" href="Pasca">Pasca</a>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1579</span> <span class="name">Pascowe</span> <a href="../cite/Pascowe/1579/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1580</span> <span class="name">Pascowe</span> <a href="../cite/Pascowe/1580/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1581</span> <span class="name">Pascowe</span> <a href="../cite/Pascowe/1581/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1584</span> <span class="name">Pascow</span> (<span class="case">nom</span>) <a href="../cite/Pascow/1584/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1585</span> <span class="name">Paskow</span> <a href="../cite/Paskow/1585/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1590</span> <span class="name">Pascow</span> <a href="../cite/Pascow/1590/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1594</span> <span class="name">Pascow</span> <a href="../cite/Pascow/1594/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1595</span> <span class="name">Pasco</span> <a href="../cite/Pasco/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 31</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">11thC</span> <span class="name">Paschalis</span> (<span class="case">nom</span>) <a href="../cite/Paschalis/11thC/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">710</span></a>;
+ <span class="date">1060</span> <span class="name">Pascalis</span> (<span class="case">nom</span>) <a href="../cite/Pascalis/1060/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">730</span></a>,
+ <span class="name">Paschalis</span> (<span class="case">nom</span>) <a href="../cite/Paschalis/1060/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">730</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Pascalis</span> (<span class="case">nom</span>) <a href="../cite/Pascalis/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXX</span></a>;
+ <span class="date">1113</span> <span class="name">Pascalis</span> (<span class="case">nom</span>) <a href="../cite/Pascalis/1113/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1117</span> <span class="name">Paschalis</span> (<span class="case">nom</span>) <a href="../cite/Paschalis/1117/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XI</span></a>;
+ <span class="date">1196/97</span> <span class="name">Paschalis</span> (<span class="case">nom</span>) <a href="http://127.0.0.1:5000/cite/Paschalis/1196/97/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822</span> <span class="name">Pascalis</span> (<span class="case">nom</span>) <a href="../cite/Pascalis/822/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1100</span> <span class="name">Pascale</span> (<span class="case">abl</span>) <a href="../cite/Pascale/1100/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">78</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1522x1532</span> <span class="name">Pascalis</span> (<span class="case">nom</span>) <a href="../cite/Pascalis/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 51, 10</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Pasqual</span> <a href="../cite/Pasqual/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">194</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1495</span> <span class="name">Pascual</span> <a href="../cite/Pascual/1495/montalvo"><span class="bib_key">montalvo</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, S.L. Uckelman. "Pascal". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 2. http://dmnes.org/2015/2/name/Pascal.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

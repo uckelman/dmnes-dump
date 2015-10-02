@@ -1,0 +1,300 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Herman</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/name/Herman">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Herman</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>here</i>, <span class="lang">Old High German</span> <i>heri</i> 'host, army' + <span class="lang">Old English</span> <i>mann</i>, <span class="lang">Old High German</span> <i>man</i> 'man'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a number of 11th and 12th C saints.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Hermanni</span> (<span class="case">gen</span>) <a href="../cite/Hermanni/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 17</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1348</span> <span class="name">Hermanno</span> (<span class="case">abl</span>) <a href="../cite/Hermanno/1348/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1349</span> <span class="name">Hermanno</span> (<span class="case">dat</span>) <a href="../cite/Hermanno/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1354</span> <span class="name">Hermanno</span> (<span class="case">abl</span>) <a href="../cite/Hermanno/1354/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Hermano</span> (<span class="case">dat</span>) <a href="../cite/Hermano/1354/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">52</span></a>,
+ <span class="name">Hermanus</span> (<span class="case">nom</span>) <a href="../cite/Hermanus/1354/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">52</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1355</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1355/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">106</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1578</span> <span class="name">Harman</span> <a href="../cite/Harman/1578/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1587</span> <span class="name">Herman</span> <a href="../cite/Herman/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 14</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1364</span> <span class="name">Herman</span> <a href="../cite/Herman/1364/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 334</span></a>;
+ <span class="date">1376</span> <span class="name">Herman</span> <a href="../cite/Herman/1376/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 335</span></a>;
+ <span class="date">1379</span> <span class="name">Herman</span> <a href="../cite/Herman/1379/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1379x1383</span> <span class="name">Herman</span> <a href="../cite/Herman/1379x1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1383</span> <span class="name">Herman</span> <a href="../cite/Herman/1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 337</span></a>;
+ <span class="date">1384</span> <span class="name">Herman</span> <a href="../cite/Herman/1384/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1385</span> <span class="name">Herman</span> <a href="../cite/Herman/1385/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1386</span> <span class="name">Herman</span> <a href="../cite/Herman/1386/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1390</span> <span class="name">Herman</span> <a href="../cite/Herman/1390/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 339</span></a>;
+ <span class="date">1391</span> <span class="name">Herman</span> <a href="../cite/Herman/1391/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 340</span></a>;
+ <span class="date">1393</span> <span class="name">Herman</span> <a href="../cite/Herman/1393/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 341</span></a>;
+ <span class="date">1395</span> <span class="name">Herman</span> <a href="../cite/Herman/1395/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 341</span></a>;
+ <span class="date">1396</span> <span class="name">Herman</span> <a href="../cite/Herman/1396/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 341</span></a>;
+ <span class="date">1398</span> <span class="name">Herman</span> <a href="../cite/Herman/1398/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1399</span> <span class="name">Herman</span> <a href="../cite/Herman/1399/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1400</span> <span class="name">Herman</span> <a href="../cite/Herman/1400/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1401</span> <span class="name">Herman</span> <a href="../cite/Herman/1401/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1402</span> <span class="name">Herman</span> <a href="../cite/Herman/1402/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1403</span> <span class="name">Herman</span> <a href="../cite/Herman/1403/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1404</span> <span class="name">Herman</span> <a href="../cite/Herman/1404/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1405</span> <span class="name">Herman</span> <a href="../cite/Herman/1405/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1406</span> <span class="name">Herman</span> <a href="../cite/Herman/1406/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1407</span> <span class="name">Herman</span> <a href="../cite/Herman/1407/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1408</span> <span class="name">Herman</span> <a href="../cite/Herman/1408/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>;
+ <span class="date">1409</span> <span class="name">Herman</span> <a href="../cite/Herman/1409/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>;
+ <span class="date">1412</span> <span class="name">Herman</span> <a href="../cite/Herman/1412/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1415</span> <span class="name">Herman</span> <a href="../cite/Herman/1415/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1416</span> <span class="name">Herman</span> <a href="../cite/Herman/1416/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1417</span> <span class="name">Herman</span> <a href="../cite/Herman/1417/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 348</span></a>;
+ <span class="date">1419</span> <span class="name">Herman</span> <a href="../cite/Herman/1419/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 348</span></a>;
+ <span class="date">1421</span> <span class="name">Herman</span> <a href="../cite/Herman/1421/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1422</span> <span class="name">Herman</span> <a href="../cite/Herman/1422/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1425</span> <span class="name">Herman</span> <a href="../cite/Herman/1425/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 350</span></a>,
+ <span class="name">Hermen</span> <a href="../cite/Hermen/1425/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1426</span> <span class="name">Herman</span> <a href="../cite/Herman/1426/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1427</span> <span class="name">Hermen</span> <a href="../cite/Hermen/1427/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1428</span> <span class="name">Herman</span> <a href="../cite/Herman/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a>,
+ <span class="name">Hermen</span> <a href="../cite/Hermen/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a>;
+ <span class="date">1429</span> <span class="name">Herman</span> <a href="../cite/Herman/1429/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 353</span></a>;
+ <span class="date">1430</span> <span class="name">Hermen</span> <a href="../cite/Hermen/1430/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 354</span></a>;
+ <span class="date">1431</span> <span class="name">Herman</span> <a href="../cite/Herman/1431/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 355</span></a>,
+ <span class="name">Hermen</span> <a href="../cite/Hermen/1431/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 355</span></a>;
+ <span class="date">1432</span> <span class="name">Hermen</span> <a href="../cite/Hermen/1432/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 355</span></a>;
+ <span class="date">1433</span> <span class="name">Herman</span> <a href="../cite/Herman/1433/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>,
+ <span class="name">Hermen</span> <a href="../cite/Hermen/1433/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>;
+ <span class="date">1434</span> <span class="name">Herman</span> <a href="../cite/Herman/1434/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>,
+ <span class="name">Hermen</span> <a href="../cite/Hermen/1434/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 357</span></a>;
+ <span class="date">1435</span> <span class="name">Herman</span> <a href="../cite/Herman/1435/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>,
+ <span class="name">Hermen</span> <a href="../cite/Hermen/1435/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>;
+ <span class="date">1436</span> <span class="name">Herman</span> <a href="../cite/Herman/1436/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 359</span></a>;
+ <span class="date">1437</span> <span class="name">Herman</span> <a href="../cite/Herman/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 360</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1082x87</span> <span class="name">Armannus</span> (<span class="case">nom</span>) <a href="../cite/Armannus/1082x87/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 120</span></a>;
+ <span class="date">1083</span> <span class="name">Armanni</span> (<span class="case">gen</span>) <a href="../cite/Armanni/1083/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 119</span></a>;
+ <span class="date">1163</span> <span class="name">Hermanni</span> (<span class="case">gen</span>) <a href="../cite/Hermanni/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">94</span></a>;
+ <span class="date">1163–64</span> <span class="name">Ermannus</span> (<span class="case">nom</span>) <a href="../cite/Ermannus/1163�%2580%259364/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">112</span></a>;
+ <span class="date">1164</span> <span class="name">Ermannus</span> (<span class="case">nom</span>) <a href="../cite/Ermannus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1283–86</span> <span class="name">Armandi</span> (<span class="case">gen</span>) <a href="../cite/Armandi/1283�%2580%259386/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 227</span></a>;
+ <span class="date">1310/11</span> <span class="name">Armandus</span> (<span class="case">nom</span>) <a href="http://127.0.0.1:5000/cite/Armandus/1310/11/GasReg-A"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1310</span> <span class="name">Armandus</span> (<span class="case">nom</span>) <a href="../cite/Armandus/1310/GasReg-A"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 217</span></a>;
+ <span class="date">1378</span> <span class="name">Armandi</span> (<span class="case">gen</span>) <a href="../cite/Armandi/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1996</span></a>,
+ <span class="name">Armando</span> (<span class="case">dat</span>) <a href="../cite/Armando/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">214</span></a>,
+ <span class="name">Armandus</span> (<span class="case">nom</span>) <a href="../cite/Armandus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">911</span></a>,
+ <span class="name">Hermanno</span> (<span class="case">dat</span>) <a href="../cite/Hermanno/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">50</span></a>,
+ <span class="name">Hermannum</span> (<span class="case">acc</span>) <a href="../cite/Hermannum/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2351</span></a>,
+ <span class="name">Hermano</span> (<span class="case">dat</span>) <a href="../cite/Hermano/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">874</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Hermant</span> <a href="../cite/Hermant/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1313</span> <span class="name">Hermant</span> <a href="../cite/Hermant/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 9</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Hermant</span> <a href="../cite/Hermant/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 375</span></a>;
+ <span class="date">1423</span> <span class="name">Herman</span> <a href="../cite/Herman/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">74</span></a>;
+ <span class="date">1438</span> <span class="name">Hermant</span> <a href="../cite/Hermant/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x75</span> <span class="name">Herimanno</span> (<span class="case">abl</span>) <a href="../cite/Herimanno/822x75/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§117</span></a>,
+ <span class="name">Herimannus</span> (<span class="case">nom</span>) <a href="../cite/Herimannus/822x75/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§1</span></a>,
+ <span class="name">Hermanno</span> (<span class="case">abl</span>) <a href="../cite/Hermanno/822x75/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§95</span></a>,
+ <span class="name">Hirimanno</span> (<span class="case">abl</span>) <a href="../cite/Hirimanno/822x75/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§128</span></a>,
+ <span class="name">Hirimannus</span> (<span class="case">nom</span>) <a href="../cite/Hirimannus/822x75/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§127</span></a>;
+ <span class="date">890</span> <span class="name">Herimannum</span> (<span class="case">acc</span>) <a href="../cite/Herimannum/890/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XXIII</span></a>;
+ <span class="date">895</span> <span class="name">Hermannum</span> (<span class="case">acc</span>) <a href="../cite/Hermannum/895/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXV</span></a>;
+ <span class="date">897</span> <span class="name">Herimanni</span> (<span class="case">gen</span>) <a href="../cite/Herimanni/897/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">7</span></a>;
+ <span class="date">905</span> <span class="name">Herimanni</span> (<span class="case">gen</span>) <a href="../cite/Herimanni/905/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XXVI</span></a>,
+ <span class="name">Herimannum</span> (<span class="case">acc</span>) <a href="../cite/Herimannum/905/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVI</span></a>;
+ <span class="date">987</span> <span class="name">Heremanni</span> (<span class="case">gen</span>) <a href="../cite/Heremanni/987/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVIII</span></a>;
+ <span class="date">1064</span> <span class="name">Herimanno</span> (<span class="case">abl</span>) <a href="../cite/Herimanno/1064/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">92</span></a>,
+ <span class="name">Herimannus</span> (<span class="case">nom</span>) <a href="../cite/Herimannus/1064/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">92</span></a>;
+ <span class="date">1108</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1108/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1112</span> <span class="name">Herimanni</span> (<span class="case">gen</span>) <a href="../cite/Herimanni/1112/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a>;
+ <span class="date">1142</span> <span class="name">Herimannus</span> (<span class="case">nom</span>) <a href="../cite/Herimannus/1142/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1149</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1149/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIV</span></a>;
+ <span class="date">1165</span> <span class="name">Hermanni</span> (<span class="case">gen</span>) <a href="../cite/Hermanni/1165/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">93</span></a>,
+ <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1165/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1185</span> <span class="name">Herimannus</span> (<span class="case">nom</span>) <a href="../cite/Herimannus/1185/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1192</span> <span class="name">Herimannus</span> (<span class="case">nom</span>) <a href="../cite/Herimannus/1192/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>,
+ <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1192/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">66</span></a>;
+ <span class="date">1194</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1194/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>;
+ <span class="date">1196</span> <span class="name">Herimanno</span> (<span class="case">abl</span>) <a href="../cite/Herimanno/1196/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1197</span> <span class="name">Herimannus</span> (<span class="case">nom</span>) <a href="../cite/Herimannus/1197/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">83</span></a>;
+ <span class="date">1200</span> <span class="name">Hermannus</span> <a href="../cite/Hermannus/1200/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1207</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1207/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1213</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1213/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1214</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1214/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1215</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1215/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1216</span> <span class="name">Hermanno</span> (<span class="case">abl</span>) <a href="../cite/Hermanno/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>,
+ <span class="name">Hermmanus</span> (<span class="case">nom</span>) <a href="../cite/Hermmanus/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>;
+ <span class="date">1217</span> <span class="name">Hermanni</span> (<span class="case">gen</span>) <a href="../cite/Hermanni/1217/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">71</span></a>;
+ <span class="date">1218</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1218/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1219</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1220</span> <span class="name">Hermanno</span> (<span class="case">dat</span>) <a href="../cite/Hermanno/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>,
+ <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>,
+ <span class="name">Hermmanus</span> (<span class="case">nom</span>) <a href="../cite/Hermmanus/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>;
+ <span class="date">1221</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1225</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1225/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">67</span></a>;
+ <span class="date">1230</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1230/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">79</span></a>;
+ <span class="date">1231</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1231/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1234</span> <span class="name">Herimannus</span> (<span class="case">nom</span>) <a href="../cite/Herimannus/1234/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>,
+ <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1234/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">91</span></a>;
+ <span class="date">1236</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1236/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">94</span></a>;
+ <span class="date">1237</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1237/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">95</span></a>;
+ <span class="date">1401</span> <span class="name">hermanni</span> (<span class="case">gen</span>) <a href="../cite/hermanni/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 92</span></a>,
+ <span class="name">hermanno</span> (<span class="case">dat</span>) <a href="../cite/hermanno/1401/HD1401"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1216</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1216/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">20</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1403</span> <span class="name">Herman</span> (<span class="case">nom</span>) <a href="../cite/Herman/1403/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXXIV</span></a>;
+ <span class="date">1419</span> <span class="name">Herman</span> (<span class="case">nom</span>) <a href="../cite/Herman/1419/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCIX</span></a>;
+ <span class="date">1497</span> <span class="name">Herman</span> <a href="../cite/Herman/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Hermann</span> <a href="../cite/Hermann/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">1363</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1226</span> <span class="name">Hermannum</span> (<span class="case">acc</span>) <a href="../cite/Hermannum/1226/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">71</span></a>,
+ <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1226/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">70</span></a>;
+ <span class="date">1285</span> <span class="name">Ermanni</span> (<span class="case">gen</span>) <a href="../cite/Ermanni/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 154</span></a>;
+ <span class="date">1291</span> <span class="name">Armani</span> (<span class="case">gen</span>) <a href="../cite/Armani/1291/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">p. XLIV</span></a>;
+ <span class="date">1292</span> <span class="name">Armani</span> (<span class="case">gen</span>) <a href="../cite/Armani/1292/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIV</span></a>;
+ <span class="date">1293</span> <span class="name">Armani</span> (<span class="case">gen</span>) <a href="../cite/Armani/1293/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIV</span></a>;
+ <span class="date">1294</span> <span class="name">Armani</span> (<span class="case">gen</span>) <a href="../cite/Armani/1294/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1296</span> <span class="name">Armani</span> (<span class="case">gen</span>) <a href="../cite/Armani/1296/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1299</span> <span class="name">Armani</span> (<span class="case">gen</span>) <a href="../cite/Armani/1299/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1326</span> <span class="name">Hermani</span> (<span class="case">gen</span>) <a href="../cite/Hermani/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 441</span></a>,
+ <span class="name">Hermanno</span> (<span class="case">abl</span>) <a href="../cite/Hermanno/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 431</span></a>,
+ <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 431</span></a>,
+ <span class="name">Hermano</span> (<span class="case">abl</span>) <a href="../cite/Hermano/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 422</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1288</span> <span class="name">Hermanno</span> (<span class="case">dat</span>) <a href="../cite/Hermanno/1288/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1291?</span> <span class="name">Hermanno</span> (<span class="case">dat</span>) <a href="../cite/Hermanno/1291?/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">46</span></a>;
+ <span class="date">1291</span> <span class="name">Hermanno</span> (<span class="case">dat</span>) <a href="../cite/Hermanno/1291/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">c</span></a>,
+ <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1291/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1293</span> <span class="name">Hermanno</span> (<span class="case">dat</span>) <a href="../cite/Hermanno/1293/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>;
+ <span class="date">1294</span> <span class="name">Hermanno</span> (<span class="case">dat</span>) <a href="../cite/Hermanno/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1235</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1235/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">93</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1232</span> <span class="name">Hermannus</span> (<span class="case">nom</span>) <a href="../cite/Hermannus/1232/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">87</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Preview. <b>DO NOT</b> cite as: <cite>J. Uckelman, S.L. Uckelman. "Herman". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 1. http://dmnes.org/2015/1/name/Herman.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

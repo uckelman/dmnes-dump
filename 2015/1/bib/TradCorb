@@ -1,0 +1,495 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>TradCorb</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/bib/TradCorb">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>TradCorb</dt>
+  <dd>Paul Wigand, editor. <em>Traditiones Corbeienses</em>. Leipzig: F. A. Brockhaus, 1843. First set of entries (§1-§224) are from 822x875; second set of entries (§225-§486) are from 963x1023.</dd>
+</dl>
+
+
+  <a href="../cite/Ada/963x1023/TradCorb">Ada</a>
+
+  <a href="../cite/Adalbodo/822x75/TradCorb">Adalbodo</a>
+
+  <a href="../cite/Adaldagus/822x75/TradCorb">Adaldagus</a>
+
+  <a href="../cite/Adalgerus/822x75/TradCorb">Adalgerus</a>
+
+  <a href="../cite/Adalric/822x75/TradCorb">Adalric</a>
+
+  <a href="../cite/Adalrico/822x75/TradCorb">Adalrico</a>
+
+  <a href="../cite/Adalwardo/822x75/TradCorb">Adalwardo</a>
+
+  <a href="../cite/Adde/822x75/TradCorb">Adde</a>
+
+  <a href="../cite/Adilger/822x75/TradCorb">Adilger</a>
+
+  <a href="../cite/Albertus/822x75/TradCorb">Albertus</a>
+
+  <a href="../cite/Alfdag/963x1023/TradCorb">Alfdag</a>
+
+  <a href="../cite/Alfdagus/822x75/TradCorb">Alfdagus</a>
+
+  <a href="../cite/Alfrico/822x75/TradCorb">Alfrico</a>
+
+  <a href="../cite/Alfricus/822x75/TradCorb">Alfricus</a>
+
+  <a href="../cite/Arnald/822x75/TradCorb">Arnald</a>
+
+  <a href="../cite/Asculf/822x75/TradCorb">Asculf</a>
+
+  <a href="../cite/Asger/822x75/TradCorb">Asger</a>
+
+  <a href="../cite/Auone/822x75/TradCorb">Auone</a>
+
+  <a href="../cite/Berhtah/822x75/TradCorb">Berhtah</a>
+
+  <a href="../cite/Bernhard/822x75/TradCorb">Bernhard</a>
+
+  <a href="../cite/Bernhardo/822x75/TradCorb">Bernhardo</a>
+
+  <a href="../cite/Bernhardus/822x75/TradCorb">Bernhardus</a>
+
+  <a href="../cite/Bernhario/822x75/TradCorb">Bernhario</a>
+
+  <a href="../cite/Bernharius/822x75/TradCorb">Bernharius</a>
+
+  <a href="../cite/Bertha/822x75/TradCorb">Bertha</a>
+
+  <a href="../cite/Berthild/822x75/TradCorb">Berthild</a>
+
+  <a href="../cite/Borchard/822x75/TradCorb">Borchard</a>
+
+  <a href="../cite/Borchardo/822x75/TradCorb">Borchardo</a>
+
+  <a href="../cite/Borchardus/822x75/TradCorb">Borchardus</a>
+
+  <a href="../cite/Brun/822x75/TradCorb">Brun</a>
+
+  <a href="../cite/Brunhardo/822x75/TradCorb">Brunhardo</a>
+
+  <a href="../cite/Bruno/822x75/TradCorb">Bruno</a>
+
+  <a href="../cite/Burghard/822x75/TradCorb">Burghard</a>
+
+  <a href="../cite/Christofero/822x75/TradCorb">Christofero</a>
+
+  <a href="../cite/Conrado/822x75/TradCorb">Conrado</a>
+
+  <a href="../cite/Cristin/822x75/TradCorb">Cristin</a>
+
+  <a href="../cite/Cristina/822x75/TradCorb">Cristina</a>
+
+  <a href="../cite/Drogo/822x875/TradCorb">Drogo</a>
+
+  <a href="../cite/Ekbertus/822x75/TradCorb">Ekbertus</a>
+
+  <a href="../cite/Ekkiardo/822x75/TradCorb">Ekkiardo</a>
+
+  <a href="../cite/Emme/822x75/TradCorb">Emme</a>
+
+  <a href="../cite/Euuerwini/822x75/TradCorb">Euuerwini</a>
+
+  <a href="../cite/Ewurwini/822x75/TradCorb">Ewurwini</a>
+
+  <a href="../cite/Folcber/963x1023/TradCorb">Folcber</a>
+
+  <a href="../cite/Folcbert/822x75/TradCorb">Folcbert</a>
+
+  <a href="../cite/Folcberth/822x75/TradCorb">Folcberth</a>
+
+  <a href="../cite/Folcbertus/822x75/TradCorb">Folcbertus</a>
+
+  <a href="../cite/Folcdagus/822x75/TradCorb">Folcdagus</a>
+
+  <a href="../cite/Folchardi/822x75/TradCorb">Folchardi</a>
+
+  <a href="../cite/Folchardus/822x75/TradCorb">Folchardus</a>
+
+  <a href="../cite/Folcheri/963x1023/TradCorb">Folcheri</a>
+
+  <a href="../cite/Folckier/822x75/TradCorb">Folckier</a>
+
+  <a href="../cite/Folcmarus/822x75/TradCorb">Folcmarus</a>
+
+  <a href="../cite/Folcred/822x75/TradCorb">Folcred</a>
+
+  <a href="../cite/Folgdago/822x75/TradCorb">Folgdago</a>
+
+  <a href="../cite/Franco/822x75/TradCorb">Franco</a>
+
+  <a href="../cite/Fredemund/822x75/TradCorb">Fredemund</a>
+
+  <a href="../cite/Frederico/822x75/TradCorb">Frederico</a>
+
+  <a href="../cite/Fredericus/822x75/TradCorb">Fredericus</a>
+
+  <a href="../cite/Frithuburg/822x75/TradCorb">Frithuburg</a>
+
+  <a href="../cite/Frithuburgh/963x1023/TradCorb">Frithuburgh</a>
+
+  <a href="../cite/Gerberno/822x75/TradCorb">Gerberno</a>
+
+  <a href="../cite/Gerfridus/822x75/TradCorb">Gerfridus</a>
+
+  <a href="../cite/Geroldo/822x75/TradCorb">Geroldo</a>
+
+  <a href="../cite/Geroldus/822x75/TradCorb">Geroldus</a>
+
+  <a href="../cite/Geruf/822x75/TradCorb">Geruf</a>
+
+  <a href="../cite/Gerulf/822x75/TradCorb">Gerulf</a>
+
+  <a href="../cite/Gherberch/822x75/TradCorb">Gherberch</a>
+
+  <a href="../cite/Gherberge/822x75/TradCorb">Gherberge</a>
+
+  <a href="../cite/Gherberghe/822x75/TradCorb">Gherberghe</a>
+
+  <a href="../cite/Gherbert/822x75/TradCorb">Gherbert</a>
+
+  <a href="../cite/Gherburg/822x75/TradCorb">Gherburg</a>
+
+  <a href="../cite/Gherburgh/822x75/TradCorb">Gherburgh</a>
+
+  <a href="../cite/Gherfridus/822x75/TradCorb">Gherfridus</a>
+
+  <a href="../cite/Gherhard/963x1023/TradCorb">Gherhard</a>
+
+  <a href="../cite/Gherwihc/822x75/TradCorb">Gherwihc</a>
+
+  <a href="../cite/Ghysla/822x75/TradCorb">Ghysla</a>
+
+  <a href="../cite/Goddefrit/822x75/TradCorb">Goddefrit</a>
+
+  <a href="../cite/Godescalco/822x75/TradCorb">Godescalco</a>
+
+  <a href="../cite/Godescalcus/822x75/TradCorb">Godescalcus</a>
+
+  <a href="../cite/Godfrido/822x75/TradCorb">Godfrido</a>
+
+  <a href="../cite/Godhard/963x1023/TradCorb">Godhard</a>
+
+  <a href="../cite/Godscalco/822x75/TradCorb">Godscalco</a>
+
+  <a href="../cite/Godscalcus/822x75/TradCorb">Godscalcus</a>
+
+  <a href="../cite/Godschalco/822x75/TradCorb">Godschalco</a>
+
+  <a href="../cite/Godufrith/822x75/TradCorb">Godufrith</a>
+
+  <a href="../cite/Guntharius/822x75/TradCorb">Guntharius</a>
+
+  <a href="../cite/Helmdag/822x75/TradCorb">Helmdag</a>
+
+  <a href="../cite/Henricus/822x75/TradCorb">Henricus</a>
+
+  <a href="../cite/Heribert/963x1023/TradCorb">Heribert</a>
+
+  <a href="../cite/Herimanno/822x75/TradCorb">Herimanno</a>
+
+  <a href="../cite/Herimannus/822x75/TradCorb">Herimannus</a>
+
+  <a href="../cite/Hermanno/822x75/TradCorb">Hermanno</a>
+
+  <a href="../cite/Hildiberghe/822x75/TradCorb">Hildiberghe</a>
+
+  <a href="../cite/Hildibodo/822x75/TradCorb">Hildibodo</a>
+
+  <a href="../cite/Hildired/822x75/TradCorb">Hildired</a>
+
+  <a href="../cite/Hildiswith/822x75/TradCorb">Hildiswith</a>
+
+  <a href="../cite/Hildiwerd/963x1023/TradCorb">Hildiwerd</a>
+
+  <a href="../cite/Hillibodon/822x75/TradCorb">Hillibodon</a>
+
+  <a href="../cite/Hirimanno/822x75/TradCorb">Hirimanno</a>
+
+  <a href="../cite/Hirimannus/822x75/TradCorb">Hirimannus</a>
+
+  <a href="../cite/Hodo/822x75/TradCorb">Hodo</a>
+
+  <a href="../cite/Hogero/822x75/TradCorb">Hogero</a>
+
+  <a href="../cite/Hogerus/822x75/TradCorb">Hogerus</a>
+
+  <a href="../cite/Hrodgerde/822x75/TradCorb">Hrodgerde</a>
+
+  <a href="../cite/Hrodhard/963x1023/TradCorb">Hrodhard</a>
+
+  <a href="../cite/Hrodulf/963x1023/TradCorb">Hrodulf</a>
+
+  <a href="../cite/Hrothard/963x1023/TradCorb">Hrothard</a>
+
+  <a href="../cite/Hrothardo/822x75/TradCorb">Hrothardo</a>
+
+  <a href="../cite/Humbert/963x1023/TradCorb">Humbert</a>
+
+  <a href="../cite/Juo/963x1023/TradCorb">Juo</a>
+
+  <a href="../cite/Landward/822x75/TradCorb">Landward</a>
+
+  <a href="../cite/Liutberth/822x75/TradCorb">Liutberth</a>
+
+  <a href="../cite/Liuthardus/822x75/TradCorb">Liuthardus</a>
+
+  <a href="../cite/Liuthmod/822x75/TradCorb">Liuthmod</a>
+
+  <a href="../cite/Ludgerus/822x75/TradCorb">Ludgerus</a>
+
+  <a href="../cite/Ludolf/822x875/TradCorb">Ludolf</a>
+
+  <a href="../cite/Ludolfo/822x75/TradCorb">Ludolfo</a>
+
+  <a href="../cite/Ludolfus/822x75/TradCorb">Ludolfus</a>
+
+  <a href="../cite/Luidolf/822x75/TradCorb">Luidolf</a>
+
+  <a href="../cite/Luidolfus/822x75/TradCorb">Luidolfus</a>
+
+  <a href="../cite/Luthardus/822x75/TradCorb">Luthardus</a>
+
+  <a href="../cite/Maginhardus/822x75/TradCorb">Maginhardus</a>
+
+  <a href="../cite/Mainbred/963x1023/TradCorb">Mainbred</a>
+
+  <a href="../cite/Mainheri/822x75/TradCorb">Mainheri</a>
+
+  <a href="../cite/Marchardus/963x1023/TradCorb">Marchardus</a>
+
+  <a href="../cite/Marckwardus/822x75/TradCorb">Marckwardus</a>
+
+  <a href="../cite/Marculf/963x1023/TradCorb">Marculf</a>
+
+  <a href="../cite/Marcward/822x75/TradCorb">Marcward</a>
+
+  <a href="../cite/Marcwardus/822x75/TradCorb">Marcwardus</a>
+
+  <a href="../cite/Maynhardus/822x75/TradCorb">Maynhardus</a>
+
+  <a href="../cite/Mercsuit/822x75/TradCorb">Mercsuit</a>
+
+  <a href="../cite/Meyneri/822x75/TradCorb">Meyneri</a>
+
+  <a href="../cite/Oddo/822x75/TradCorb">Oddo</a>
+
+  <a href="../cite/Oddone/822x75/TradCorb">Oddone</a>
+
+  <a href="../cite/Othilburch/822x75/TradCorb">Othilburch</a>
+
+  <a href="../cite/Radi/822x75/TradCorb">Radi</a>
+
+  <a href="../cite/Raginheri/822x75/TradCorb">Raginheri</a>
+
+  <a href="../cite/Rainger/963x1023/TradCorb">Rainger</a>
+
+  <a href="../cite/Rainmod/822x75/TradCorb">Rainmod</a>
+
+  <a href="../cite/Rainold/963x1023/TradCorb">Rainold</a>
+
+  <a href="../cite/Rainward/963x1023/TradCorb">Rainward</a>
+
+  <a href="../cite/Rainwardus/822x75/TradCorb">Rainwardus</a>
+
+  <a href="../cite/Rainwardus/963x1023/TradCorb">Rainwardus</a>
+
+  <a href="../cite/Ratbert/963x1023/TradCorb">Ratbert</a>
+
+  <a href="../cite/Recheri/822x75/TradCorb">Recheri</a>
+
+  <a href="../cite/Reginholdo/822x75/TradCorb">Reginholdo</a>
+
+  <a href="../cite/Reginholdus/822x75/TradCorb">Reginholdus</a>
+
+  <a href="../cite/Reginmaro/822x75/TradCorb">Reginmaro</a>
+
+  <a href="../cite/Reginoldus/822x75/TradCorb">Reginoldus</a>
+
+  <a href="../cite/Renoldo/822x75/TradCorb">Renoldo</a>
+
+  <a href="../cite/Reynburg/822x75/TradCorb">Reynburg</a>
+
+  <a href="../cite/Reynholdus/822x75/TradCorb">Reynholdus</a>
+
+  <a href="../cite/Ricberg/822x75/TradCorb">Ricberg</a>
+
+  <a href="../cite/Richardus/822x75/TradCorb">Richardus</a>
+
+  <a href="../cite/Rothard/822x75/TradCorb">Rothard</a>
+
+  <a href="../cite/Rothgerus/822x75/TradCorb">Rothgerus</a>
+
+  <a href="../cite/Rothwardus/822x75/TradCorb">Rothwardus</a>
+
+  <a href="../cite/Seuerit/822x75/TradCorb">Seuerit</a>
+
+  <a href="../cite/Sifrid/822x75/TradCorb">Sifrid</a>
+
+  <a href="../cite/Sifridus/822x75/TradCorb">Sifridus</a>
+
+  <a href="../cite/Sigiberto/822x75/TradCorb">Sigiberto</a>
+
+  <a href="../cite/Sigibertus/822x75/TradCorb">Sigibertus</a>
+
+  <a href="../cite/Sigifrido/822x75/TradCorb">Sigifrido</a>
+
+  <a href="../cite/Sigifridus/822x75/TradCorb">Sigifridus</a>
+
+  <a href="../cite/Tangmaro/822x75/TradCorb">Tangmaro</a>
+
+  <a href="../cite/Teodward/963x1023/TradCorb">Teodward</a>
+
+  <a href="../cite/Thanburgh/963x1023/TradCorb">Thanburgh</a>
+
+  <a href="../cite/Thangmarus/822x75/TradCorb">Thangmarus</a>
+
+  <a href="../cite/Theodericus/822x75/TradCorb">Theodericus</a>
+
+  <a href="../cite/Theodoricus/822x75/TradCorb">Theodoricus</a>
+
+  <a href="../cite/Thiadhardus/822x75/TradCorb">Thiadhardus</a>
+
+  <a href="../cite/Thiadmaro/822x75/TradCorb">Thiadmaro</a>
+
+  <a href="../cite/Thiadmarus/822x75/TradCorb">Thiadmarus</a>
+
+  <a href="../cite/Thiadolfus/822x75/TradCorb">Thiadolfus</a>
+
+  <a href="../cite/Thiadric/822x75/TradCorb">Thiadric</a>
+
+  <a href="../cite/Thiadrico/822x75/TradCorb">Thiadrico</a>
+
+  <a href="../cite/Thiadricus/822x75/TradCorb">Thiadricus</a>
+
+  <a href="../cite/Thiadulfo/822x75/TradCorb">Thiadulfo</a>
+
+  <a href="../cite/Thiatmaro/822x75/TradCorb">Thiatmaro</a>
+
+  <a href="../cite/Thiatmarus/822x75/TradCorb">Thiatmarus</a>
+
+  <a href="../cite/Tiadmaro/822x75/TradCorb">Tiadmaro</a>
+
+  <a href="../cite/Tiadmarus/822x75/TradCorb">Tiadmarus</a>
+
+  <a href="../cite/Tiadulf/822x75/TradCorb">Tiadulf</a>
+
+  <a href="../cite/Tiadulfo/822x75/TradCorb">Tiadulfo</a>
+
+  <a href="../cite/Tiadulfus/822x75/TradCorb">Tiadulfus</a>
+
+  <a href="../cite/Volcbert/822x75/TradCorb">Volcbert</a>
+
+  <a href="../cite/Volcered/822x875/TradCorb">Volcered</a>
+
+  <a href="../cite/Volcmar/822x75/TradCorb">Volcmar</a>
+
+  <a href="../cite/Volcmaro/822x75/TradCorb">Volcmaro</a>
+
+  <a href="../cite/Volcmarus/822x75/TradCorb">Volcmarus</a>
+
+  <a href="../cite/Waldmanno/822x75/TradCorb">Waldmanno</a>
+
+  <a href="../cite/Waldred/822x75/TradCorb">Waldred</a>
+
+  <a href="../cite/Walthardo/822x875/TradCorb">Walthardo</a>
+
+  <a href="../cite/Walthardus/822x875/TradCorb">Walthardus</a>
+
+  <a href="../cite/Walther/822x75/TradCorb">Walther</a>
+
+  <a href="../cite/Warinus/822x75/TradCorb">Warinus</a>
+
+  <a href="../cite/Wedekind/822x75/TradCorb">Wedekind</a>
+
+  <a href="../cite/Wendilgard/822x75/TradCorb">Wendilgard</a>
+
+  <a href="../cite/Wendilmold/822x75/TradCorb">Wendilmold</a>
+
+  <a href="../cite/Werinbaldo/822x75/TradCorb">Werinbaldo</a>
+
+  <a href="../cite/Werinfridus/822x75/TradCorb">Werinfridus</a>
+
+  <a href="../cite/Wermundo/822x875/TradCorb">Wermundo</a>
+
+  <a href="../cite/Wigheri/822x75/TradCorb">Wigheri</a>
+
+  <a href="../cite/Wilheri/963x1023/TradCorb">Wilheri</a>
+
+  <a href="../cite/Windilburg/822x75/TradCorb">Windilburg</a>
+
+  <a href="../cite/Windilmod/822x75/TradCorb">Windilmod</a>
+
+  <a href="../cite/Windilswith/822x75/TradCorb">Windilswith</a>
+
+  <a href="../cite/Wirinbertus/822x75/TradCorb">Wirinbertus</a>
+
+  <a href="../cite/Wluered/822x75/TradCorb">Wluered</a>
+
+  <a href="../cite/Wlvered/822x75/TradCorb">Wlvered</a>
+
+  <a href="../cite/Wolfhart/963x1023/TradCorb">Wolfhart</a>
+
+  <a href="../cite/uoluered/822x75/TradCorb">uoluered</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

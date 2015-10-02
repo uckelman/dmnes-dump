@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Petra</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/name/Petra">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Petra</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Fem. of <a class="nym" href="Peter">Peter</a>.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p><i>Petra</i> itself is quite rare; most of the feminine forms of this name either derive from French <i>Pierre</i>, usually with a diminutive suffix, or from the derivative <a class="nym" href="Petronilla">Petronilla</a>, q.v.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1422</span> <span class="name">Peryne</span> <a href="../cite/Peryne/1422/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 49</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1301</span> <span class="name">Perrota</span> (<span class="case">nom</span>) <a href="../cite/Perrota/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 209</span></a>,
+ <span class="name">Perrote</span> (<span class="case">gen</span>) <a href="../cite/Perrote/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 202</span></a>;
+ <span class="date">1310/11</span> <span class="name">Petrona</span> (<span class="case">nom</span>) <a href="http://127.0.0.1:5000/cite/Petrona/1310/11/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1378</span> <span class="name">Peronam</span> (<span class="case">acc</span>) <a href="../cite/Peronam/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">801</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Perrete</span> <a href="../cite/Perrete/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1313</span> <span class="name">Perrete</span> <a href="../cite/Perrete/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 3</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Perrette</span> <a href="../cite/Perrette/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">166</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Petra</span> (<span class="case">nom</span>) <a href="../cite/Petra/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">280</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">14thCx1478</span> <span class="name">Perreta</span> (<span class="case">nom</span>) <a href="../cite/Perreta/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(65)</span></a>,
+ <span class="name">Perrussone</span> (<span class="case">gen</span>) <a href="../cite/Perrussone/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(111)</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">14thCx1478</span> <span class="name">Perrole</span> (<span class="case">gen</span>) <a href="../cite/Perrole/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(91)</span></a>,
+ <span class="name">Perrussona</span> (<span class="case">nom</span>) <a href="../cite/Perrussona/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(111)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Preview. <b>DO NOT</b> cite as: <cite>J. Uckelman, S.L. Uckelman. "Petra". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 1. http://dmnes.org/2015/1/name/Petra.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

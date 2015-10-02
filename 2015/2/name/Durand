@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Durand</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Durand</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>durans</i> 'enduring, lasting, remaining'.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p><i>Dante</i> is a contracted form.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Durandus</span> (<span class="case">nom</span>) <a href="../cite/Durandus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 121</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">937x993</span> <span class="name">Duranti</span> (<span class="case">gen</span>) <a href="../cite/Duranti/937x993/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 86</span></a>;
+ <span class="date">1029x1033</span> <span class="name">Durandus</span> (<span class="case">nom</span>) <a href="../cite/Durandus/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1030</span> <span class="name">Durando</span> (<span class="case">abl</span>) <a href="../cite/Durando/1030/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">678</span></a>;
+ <span class="date">1055</span> <span class="name">Durando</span> (<span class="case">abl</span>) <a href="../cite/Durando/1055/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">680</span></a>;
+ <span class="date">1058</span> <span class="name">Durantus</span> (<span class="case">nom</span>) <a href="../cite/Durantus/1058/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">694</span></a>;
+ <span class="date">1060</span> <span class="name">Durando</span> (<span class="case">abl</span>) <a href="../cite/Durando/1060/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">704</span></a>;
+ <span class="date">1060x1064</span> <span class="name">Durande</span> (<span class="case">voc</span>) <a href="../cite/Durande/1060x1064/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">709</span></a>,
+ <span class="name">Durandi</span> (<span class="case">gen</span>) <a href="../cite/Durandi/1060x1064/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">660</span></a>,
+ <span class="name">Durando</span> (<span class="case">dat</span>) <a href="../cite/Durando/1060x1064/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">709</span></a>;
+ <span class="date">1062</span> <span class="name">Durandi</span> (<span class="case">gen</span>) <a href="../cite/Durandi/1062/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">692</span></a>,
+ <span class="name">Durando</span> (<span class="case">abl</span>) <a href="../cite/Durando/1062/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">692</span></a>;
+ <span class="date">1063</span> <span class="name">Durando</span> (<span class="case">abl</span>) <a href="../cite/Durando/1063/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">705</span></a>;
+ <span class="date">1064</span> <span class="name">Durando</span> (<span class="case">abl</span>) <a href="../cite/Durando/1064/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">703</span></a>;
+ <span class="date">1090x1101</span> <span class="name">Durandus</span> (<span class="case">nom</span>) <a href="../cite/Durandus/1090x1101/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XLIII</span></a>;
+ <span class="date">a1108</span> <span class="name">Durandus</span> (<span class="case">nom</span>) <a href="../cite/Durandus/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">1121</span> <span class="name">Durandus</span> (<span class="case">nom</span>) <a href="../cite/Durandus/1121/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1135</span> <span class="name">Duranni</span> (<span class="case">gen</span>) <a href="../cite/Duranni/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Durannus</span> (<span class="case">nom</span>) <a href="../cite/Durannus/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1147</span> <span class="name">Durandus</span> (<span class="case">nom</span>) <a href="../cite/Durandus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Duranni</span> (<span class="case">gen</span>) <a href="../cite/Duranni/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Duranno</span> (<span class="case">abl</span>) <a href="../cite/Duranno/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Durannus</span> (<span class="case">nom</span>) <a href="../cite/Durannus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1163</span> <span class="name">Duranni</span> (<span class="case">gen</span>) <a href="../cite/Duranni/1163/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCVI</span></a>;
+ <span class="date">1163–64</span> <span class="name">Durannus</span> (<span class="case">nom</span>) <a href="../cite/Durannus/1163–64/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">108</span></a>;
+ <span class="date">1164</span> <span class="name">Durannus</span> (<span class="case">nom</span>) <a href="../cite/Durannus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1180</span> <span class="name">Durand</span> (<span class="case">nom</span>) <a href="../cite/Durand/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Durando</span> (<span class="case">abl</span>) <a href="../cite/Durando/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Durandus</span> (<span class="case">nom</span>) <a href="../cite/Durandus/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1258</span> <span class="name">Durandi</span> (<span class="case">gen</span>) <a href="../cite/Durandi/1258/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XII, BMV</span></a>,
+ <span class="name">Durandus</span> (<span class="case">nom</span>) <a href="../cite/Durandus/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XII, BMV</span></a>;
+ <span class="date">1273</span> <span class="name">Durandus</span> (<span class="case">nom</span>) <a href="../cite/Durandus/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1274</span> <span class="name">Durandi</span> (<span class="case">gen</span>) <a href="../cite/Durandi/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1310/11</span> <span class="name">Durandus</span> (<span class="case">nom</span>) <a href="http://127.0.0.1:5000/cite/Durandus/1310/11/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1310–11</span> <span class="name">Durandus</span> (<span class="case">nom</span>) <a href="../cite/Durandus/1310–11/GasReg-A"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 236</span></a>;
+ <span class="date">1378</span> <span class="name">Durandi</span> (<span class="case">gen</span>) <a href="../cite/Durandi/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">2083</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Durant</span> <a href="../cite/Durant/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1313</span> <span class="name">Durant</span> <a href="../cite/Durant/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 6</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">825</span> <span class="name">Durandus</span> (<span class="case">nom</span>) <a href="../cite/Durandus/825/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">VI</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1316</span> <span class="name">Duran</span> <a href="../cite/Duran/1316/deMoxo"><span class="bib_key">deMoxo</span></a>;
+ <span class="date">1318</span> <span class="name">Duran</span> <a href="../cite/Duran/1318/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1319</span> <span class="name">Duran</span> <a href="../cite/Duran/1319/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1323</span> <span class="name">Duran</span> <a href="../cite/Duran/1323/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1326</span> <span class="name">Duran</span> <a href="../cite/Duran/1326/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1328</span> <span class="name">Duran</span> <a href="../cite/Duran/1328/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1330</span> <span class="name">Duran</span> <a href="../cite/Duran/1330/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1331</span> <span class="name">Duran</span> <a href="../cite/Duran/1331/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1332</span> <span class="name">Duran</span> <a href="../cite/Duran/1332/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1333</span> <span class="name">Duran</span> <a href="../cite/Duran/1333/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1334</span> <span class="name">Duran</span> <a href="../cite/Duran/1334/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1336</span> <span class="name">Duran</span> <a href="../cite/Duran/1336/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1348</span> <span class="name">Duran</span> <a href="../cite/Duran/1348/deMoxo"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Durand". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 2. http://dmnes.org/2015/2/name/Durand.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

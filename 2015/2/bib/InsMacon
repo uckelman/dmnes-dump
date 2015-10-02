@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>InsMacon</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>InsMacon</dt>
+  <dd>Instrumenta ad tomum iv: Instrumenta ecclesiæ matisconensis. In <em>Galliæ Christianæ in Provincias Ecclesiasticas Distributæ Spectantia</em>, volume 4, pages cols. 263-290. Parisiis: Ex Typographia Regia, 1728.</dd>
+</dl>
+
+
+  <a href="../cite/Adalbertus/882/InsMacon">Adalbertus</a>
+
+  <a href="../cite/Adalcisus/825/InsMacon">Adalcisus</a>
+
+  <a href="../cite/Adalgari/862x876/InsMacon">Adalgari</a>
+
+  <a href="../cite/Adalgaudus/882/InsMacon">Adalgaudus</a>
+
+  <a href="../cite/Adalgodo/882/InsMacon">Adalgodo</a>
+
+  <a href="../cite/Adgerio/815/InsMacon">Adgerio</a>
+
+  <a href="../cite/Agebertus/825/InsMacon">Agebertus</a>
+
+  <a href="../cite/Albana/825/InsMacon">Albana</a>
+
+  <a href="../cite/Albanam/825/InsMacon">Albanam</a>
+
+  <a href="../cite/Albanæ/825/InsMacon">Albanæ</a>
+
+  <a href="../cite/Amandus/825/InsMacon">Amandus</a>
+
+  <a href="../cite/Ardradus/882/InsMacon">Ardradus</a>
+
+  <a href="../cite/Bernardus/862x876/InsMacon">Bernardus</a>
+
+  <a href="../cite/Caroli/854/InsMacon">Caroli</a>
+
+  <a href="../cite/Durandus/825/InsMacon">Durandus</a>
+
+  <a href="../cite/Folcherii/862x876/InsMacon">Folcherii</a>
+
+  <a href="../cite/Fulcardus/882/InsMacon">Fulcardus</a>
+
+  <a href="../cite/Fulcoldus/882/InsMacon">Fulcoldus</a>
+
+  <a href="../cite/Gilbertus/854/InsMacon">Gilbertus</a>
+
+  <a href="../cite/Giraldi/862x876/InsMacon">Giraldi</a>
+
+  <a href="../cite/Girulfi/862x876/InsMacon">Girulfi</a>
+
+  <a href="../cite/Guntardus/882/InsMacon">Guntardus</a>
+
+  <a href="../cite/Hildebaldo/825/InsMacon">Hildebaldo</a>
+
+  <a href="../cite/Hildebaldo/816/InsMacon">Hildebaldo</a>
+
+  <a href="../cite/Hildebaldum/825/InsMacon">Hildebaldum</a>
+
+  <a href="../cite/Hildebaldus/815/InsMacon">Hildebaldus</a>
+
+  <a href="../cite/Hildebaldus/825/InsMacon">Hildebaldus</a>
+
+  <a href="../cite/Hildebaldus/816/InsMacon">Hildebaldus</a>
+
+  <a href="../cite/Hildeboldus/862/InsMacon">Hildeboldus</a>
+
+  <a href="../cite/Hilduinus/825/InsMacon">Hilduinus</a>
+
+  <a href="../cite/Hirmentrudis/862/InsMacon">Hirmentrudis</a>
+
+  <a href="../cite/Hludovici/862/InsMacon">Hludovici</a>
+
+  <a href="../cite/Hludovici/825/InsMacon">Hludovici</a>
+
+  <a href="../cite/Hludovici/878/InsMacon">Hludovici</a>
+
+  <a href="../cite/Hludovici/815/InsMacon">Hludovici</a>
+
+  <a href="../cite/Hludovici/816/InsMacon">Hludovici</a>
+
+  <a href="../cite/Hludovici/854/InsMacon">Hludovici</a>
+
+  <a href="../cite/Hludovici/c862/InsMacon">Hludovici</a>
+
+  <a href="../cite/Hludovico/878/InsMacon">Hludovico</a>
+
+  <a href="../cite/Hludovico/825/InsMacon">Hludovico</a>
+
+  <a href="../cite/Hludovicus/816/InsMacon">Hludovicus</a>
+
+  <a href="../cite/Hludovicus/815/InsMacon">Hludovicus</a>
+
+  <a href="../cite/Hludovicus/878/InsMacon">Hludovicus</a>
+
+  <a href="../cite/Ingelgerii/862x876/InsMacon">Ingelgerii</a>
+
+  <a href="../cite/Karoli/p800/InsMacon">Karoli</a>
+
+  <a href="../cite/Karoli/862/InsMacon">Karoli</a>
+
+  <a href="../cite/Karolo/862/InsMacon">Karolo</a>
+
+  <a href="../cite/Karolus/862/InsMacon">Karolus</a>
+
+  <a href="../cite/Karolus/876/InsMacon">Karolus</a>
+
+  <a href="../cite/Karolus/p800/InsMacon">Karolus</a>
+
+  <a href="../cite/Karolus/854/InsMacon">Karolus</a>
+
+  <a href="../cite/Karolus/c862/InsMacon">Karolus</a>
+
+  <a href="../cite/Karolus/862x876/InsMacon">Karolus</a>
+
+  <a href="../cite/Lambertus/876/InsMacon">Lambertus</a>
+
+  <a href="../cite/Lambertus/878/InsMacon">Lambertus</a>
+
+  <a href="../cite/Leudrici/862x876/InsMacon">Leudrici</a>
+
+  <a href="../cite/Leudricus/862x876/InsMacon">Leudricus</a>
+
+  <a href="../cite/Leutricus/876/InsMacon">Leutricus</a>
+
+  <a href="../cite/Ludovicus/825/InsMacon">Ludovicus</a>
+
+  <a href="../cite/Madalbertus/p800/InsMacon">Madalbertus</a>
+
+  <a href="../cite/Magnardus/825/InsMacon">Magnardus</a>
+
+  <a href="../cite/Petrus/882/InsMacon">Petrus</a>
+
+  <a href="../cite/Radonis/854/InsMacon">Radonis</a>
+
+  <a href="../cite/Raginaldus/862/InsMacon">Raginaldus</a>
+
+  <a href="../cite/Raginardo/862/InsMacon">Raginardo</a>
+
+  <a href="../cite/Ranulfi/862x876/InsMacon">Ranulfi</a>
+
+  <a href="../cite/Warini/862/InsMacon">Warini</a>
+
+  <a href="../cite/Warino/825/InsMacon">Warino</a>
+
+  <a href="../cite/Warinum/825/InsMacon">Warinum</a>
+
+  <a href="../cite/Warinus/825/InsMacon">Warinus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

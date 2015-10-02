@@ -1,0 +1,552 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>GASurv</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>GASurv</dt>
+  <dd>N. E. Stacy, editor. <em>Surveys of the Estate of Glastonbury Abbey c. 1135-1201</em>, volume 33 of <em>Records of the Social and Economic History, New Series</em>. Oxford University Press for the British Academy, 2001.</dd>
+</dl>
+
+
+  <a href="../cite/Abel/1189/GASurv">Abel</a>
+
+  <a href="../cite/Acelina/1189/GASurv">Acelina</a>
+
+  <a href="../cite/Adam/1189/GASurv">Adam</a>
+
+  <a href="../cite/Ade/1189/GASurv">Ade</a>
+
+  <a href="../cite/Adeline/1189/GASurv">Adeline</a>
+
+  <a href="../cite/Ailmar/1189/GASurv">Ailmar</a>
+
+  <a href="../cite/Ailwardi/1189/GASurv">Ailwardi</a>
+
+  <a href="../cite/Ainulfus/1189/GASurv">Ainulfus</a>
+
+  <a href="../cite/Alani/1189/GASurv">Alani</a>
+
+  <a href="../cite/Alanus/1189/GASurv">Alanus</a>
+
+  <a href="../cite/Albertus/1189/GASurv">Albertus</a>
+
+  <a href="../cite/Alfricus/1189/GASurv">Alfricus</a>
+
+  <a href="../cite/Alicia/1189/GASurv">Alicia</a>
+
+  <a href="../cite/Aliz/1189/GASurv">Aliz</a>
+
+  <a href="../cite/Alliht/1189/GASurv">Alliht</a>
+
+  <a href="../cite/Alveredus/1189/GASurv">Alveredus</a>
+
+  <a href="../cite/Alveva/1189/GASurv">Alveva</a>
+
+  <a href="../cite/Alveve/1189/GASurv">Alveve</a>
+
+  <a href="../cite/Alvred/1189/GASurv">Alvred</a>
+
+  <a href="../cite/Alvredi/1189/GASurv">Alvredi</a>
+
+  <a href="../cite/Alvredus/1189/GASurv">Alvredus</a>
+
+  <a href="../cite/Alvrici/1189/GASurv">Alvrici</a>
+
+  <a href="../cite/Alvricus/1189/GASurv">Alvricus</a>
+
+  <a href="../cite/Alwardi/1189/GASurv">Alwardi</a>
+
+  <a href="../cite/Alwardus/1189/GASurv">Alwardus</a>
+
+  <a href="../cite/Alwi/1189/GASurv">Alwi</a>
+
+  <a href="../cite/Alwinus/1189/GASurv">Alwinus</a>
+
+  <a href="../cite/Anastasia/1189/GASurv">Anastasia</a>
+
+  <a href="../cite/Andreas/1189/GASurv">Andreas</a>
+
+  <a href="../cite/Andree/1189/GASurv">Andree</a>
+
+  <a href="../cite/Ansketillus/1189/GASurv">Ansketillus</a>
+
+  <a href="../cite/Arnoldus/1189/GASurv">Arnoldus</a>
+
+  <a href="../cite/Artur/1189/GASurv">Artur</a>
+
+  <a href="../cite/Athela/1189/GASurv">Athela</a>
+
+  <a href="../cite/Audoenus/1189/GASurv">Audoenus</a>
+
+  <a href="../cite/Augustinus/1189/GASurv">Augustinus</a>
+
+  <a href="../cite/Avice/1189/GASurv">Avice</a>
+
+  <a href="../cite/Avicia/1189/GASurv">Avicia</a>
+
+  <a href="../cite/Baldewin/1189/GASurv">Baldewin</a>
+
+  <a href="../cite/Baldewini/1189/GASurv">Baldewini</a>
+
+  <a href="../cite/Baldewinus/1189/GASurv">Baldewinus</a>
+
+  <a href="../cite/Baldwinus/1189/GASurv">Baldwinus</a>
+
+  <a href="../cite/Basilia/1189/GASurv">Basilia</a>
+
+  <a href="../cite/Bernardi/1189/GASurv">Bernardi</a>
+
+  <a href="../cite/Bernardus/1189/GASurv">Bernardus</a>
+
+  <a href="../cite/Brianus/1189/GASurv">Brianus</a>
+
+  <a href="../cite/Bricius/1189/GASurv">Bricius</a>
+
+  <a href="../cite/Brihtrici/1189/GASurv">Brihtrici</a>
+
+  <a href="../cite/Brihtricius/1189/GASurv">Brihtricius</a>
+
+  <a href="../cite/Brihtricus/1189/GASurv">Brihtricus</a>
+
+  <a href="../cite/Britius/1189/GASurv">Britius</a>
+
+  <a href="../cite/Christiana/1189/GASurv">Christiana</a>
+
+  <a href="../cite/Claricia/1189/GASurv">Claricia</a>
+
+  <a href="../cite/Clariz/1189/GASurv">Clariz</a>
+
+  <a href="../cite/Clemens/1189/GASurv">Clemens</a>
+
+  <a href="../cite/Constantinus/1189/GASurv">Constantinus</a>
+
+  <a href="../cite/Cristina/1189/GASurv">Cristina</a>
+
+  <a href="../cite/Cristine/1189/GASurv">Cristine</a>
+
+  <a href="../cite/David/1189/GASurv">David</a>
+
+  <a href="../cite/Denisel/1189/GASurv">Denisel</a>
+
+  <a href="../cite/Durandus/1189/GASurv">Durandus</a>
+
+  <a href="../cite/Eadmundi/1189/GASurv">Eadmundi</a>
+
+  <a href="../cite/Eadmundus/1189/GASurv">Eadmundus</a>
+
+  <a href="../cite/Edit/1189/GASurv">Edit</a>
+
+  <a href="../cite/Editha/1189/GASurv">Editha</a>
+
+  <a href="../cite/Edithe/1189/GASurv">Edithe</a>
+
+  <a href="../cite/Edmundi/1189/GASurv">Edmundi</a>
+
+  <a href="../cite/Edmundus/1189/GASurv">Edmundus</a>
+
+  <a href="../cite/Eduuard/1189/GASurv">Eduuard</a>
+
+  <a href="../cite/Eduuardus/1189/GASurv">Eduuardus</a>
+
+  <a href="../cite/Edwardi/1189/GASurv">Edwardi</a>
+
+  <a href="../cite/Edwardus/1189/GASurv">Edwardus</a>
+
+  <a href="../cite/Edwin/1189/GASurv">Edwin</a>
+
+  <a href="../cite/Edwini/1189/GASurv">Edwini</a>
+
+  <a href="../cite/Edwinus/1189/GASurv">Edwinus</a>
+
+  <a href="../cite/Eilgrinus/1189/GASurv">Eilgrinus</a>
+
+  <a href="../cite/Eilward/1189/GASurv">Eilward</a>
+
+  <a href="../cite/Eilwardus/1189/GASurv">Eilwardus</a>
+
+  <a href="../cite/Elene/1189/GASurv">Elene</a>
+
+  <a href="../cite/Elfredi/1189/GASurv">Elfredi</a>
+
+  <a href="../cite/Elfrici/1189/GASurv">Elfrici</a>
+
+  <a href="../cite/Elfricus/1189/GASurv">Elfricus</a>
+
+  <a href="../cite/Elfridus/1189/GASurv">Elfridus</a>
+
+  <a href="../cite/Eliot/1189/GASurv">Eliot</a>
+
+  <a href="../cite/Elwini/1189/GASurv">Elwini</a>
+
+  <a href="../cite/Elwinus/1189/GASurv">Elwinus</a>
+
+  <a href="../cite/Elwyne/1189/GASurv">Elwyne</a>
+
+  <a href="../cite/Ernaldi/1189/GASurv">Ernaldi</a>
+
+  <a href="../cite/Ernaldo/1189/GASurv">Ernaldo</a>
+
+  <a href="../cite/Ernaldus/1189/GASurv">Ernaldus</a>
+
+  <a href="../cite/Ernoldus/1189/GASurv">Ernoldus</a>
+
+  <a href="../cite/Ethele/1189/GASurv">Ethele</a>
+
+  <a href="../cite/Everardus/1189/GASurv">Everardus</a>
+
+  <a href="../cite/Folcred/1189/GASurv">Folcred</a>
+
+  <a href="../cite/Folcwinus/1189/GASurv">Folcwinus</a>
+
+  <a href="../cite/Galfridi/1189/GASurv">Galfridi</a>
+
+  <a href="../cite/Galfridus/1189/GASurv">Galfridus</a>
+
+  <a href="../cite/Galterus/1189/GASurv">Galterus</a>
+
+  <a href="../cite/Garmund/1189/GASurv">Garmund</a>
+
+  <a href="../cite/Garmundus/1189/GASurv">Garmundus</a>
+
+  <a href="../cite/Garnier/1189/GASurv">Garnier</a>
+
+  <a href="../cite/Garwoldi/1189/GASurv">Garwoldi</a>
+
+  <a href="../cite/Gerold/1189/GASurv">Gerold</a>
+
+  <a href="../cite/Gervasius/1189/GASurv">Gervasius</a>
+
+  <a href="../cite/Gilbertus/1189/GASurv">Gilbertus</a>
+
+  <a href="../cite/Gileberti/1189/GASurv">Gileberti</a>
+
+  <a href="../cite/Gilebertus/1189/GASurv">Gilebertus</a>
+
+  <a href="../cite/Gileburtus/1189/GASurv">Gileburtus</a>
+
+  <a href="../cite/Giliana/1189/GASurv">Giliana</a>
+
+  <a href="../cite/Gillelmus/1189/GASurv">Gillelmus</a>
+
+  <a href="../cite/Godefridus/1189/GASurv">Godefridus</a>
+
+  <a href="../cite/Godricus/1189/GASurv">Godricus</a>
+
+  <a href="../cite/Gualterus/1189/GASurv">Gualterus</a>
+
+  <a href="../cite/Hamo/1189/GASurv">Hamo</a>
+
+  <a href="../cite/Harlewinus/1189/GASurv">Harlewinus</a>
+
+  <a href="../cite/Hawis/1189/GASurv">Hawis</a>
+
+  <a href="../cite/Helie/1189/GASurv">Helie</a>
+
+  <a href="../cite/Henrici/1171/GASurv">Henrici</a>
+
+  <a href="../cite/Henrici/1189/GASurv">Henrici</a>
+
+  <a href="../cite/Henrico/1189/GASurv">Henrico</a>
+
+  <a href="../cite/Henricus/1189/GASurv">Henricus</a>
+
+  <a href="../cite/Herbertus/1189/GASurv">Herbertus</a>
+
+  <a href="../cite/Herdwin/1189/GASurv">Herdwin</a>
+
+  <a href="../cite/Herdwinus/1189/GASurv">Herdwinus</a>
+
+  <a href="../cite/Herebertus/1189/GASurv">Herebertus</a>
+
+  <a href="../cite/Hereman/1189/GASurv">Hereman</a>
+
+  <a href="../cite/Hereward/1189/GASurv">Hereward</a>
+
+  <a href="../cite/Herewardi/1189/GASurv">Herewardi</a>
+
+  <a href="../cite/Herewardus/1189/GASurv">Herewardus</a>
+
+  <a href="../cite/Herlewine/1189/GASurv">Herlewine</a>
+
+  <a href="../cite/Herlewinus/1189/GASurv">Herlewinus</a>
+
+  <a href="../cite/Hermannus/1189/GASurv">Hermannus</a>
+
+  <a href="../cite/Hilbert/1171/GASurv">Hilbert</a>
+
+  <a href="../cite/Hilberti/1171/GASurv">Hilberti</a>
+
+  <a href="../cite/Hildeburga/1189/GASurv">Hildeburga</a>
+
+  <a href="../cite/Hildemer/1189/GASurv">Hildemer</a>
+
+  <a href="../cite/Hubertus/1189/GASurv">Hubertus</a>
+
+  <a href="../cite/Huereward/1189/GASurv">Huereward</a>
+
+  <a href="../cite/Huerewardi/1189/GASurv">Huerewardi</a>
+
+  <a href="../cite/Huerewardus/1189/GASurv">Huerewardus</a>
+
+  <a href="../cite/Hugo/1189/GASurv">Hugo</a>
+
+  <a href="../cite/Hugonis/1189/GASurv">Hugonis</a>
+
+  <a href="../cite/Isabel/1189/GASurv">Isabel</a>
+
+  <a href="../cite/Isabele/1189/GASurv">Isabele</a>
+
+  <a href="../cite/Ivo/1189/GASurv">Ivo</a>
+
+  <a href="../cite/Ivonis/1189/GASurv">Ivonis</a>
+
+  <a href="../cite/Jacobus/1189/GASurv">Jacobus</a>
+
+  <a href="../cite/Johannes/1189/GASurv">Johannes</a>
+
+  <a href="../cite/Johannis/1189/GASurv">Johannis</a>
+
+  <a href="../cite/Juliana/1189/GASurv">Juliana</a>
+
+  <a href="../cite/Justinus/1189/GASurv">Justinus</a>
+
+  <a href="../cite/Knightwinus/1189/GASurv">Knightwinus</a>
+
+  <a href="../cite/Knihtwine/1189/GASurv">Knihtwine</a>
+
+  <a href="../cite/Knihtwini/1189/GASurv">Knihtwini</a>
+
+  <a href="../cite/Lamberti/1189/GASurv">Lamberti</a>
+
+  <a href="../cite/Lambertus/1189/GASurv">Lambertus</a>
+
+  <a href="../cite/Mabbel/1189/GASurv">Mabbel</a>
+
+  <a href="../cite/Mabile/1189/GASurv">Mabile</a>
+
+  <a href="../cite/Madhald/1189/GASurv">Madhald</a>
+
+  <a href="../cite/Mahald/1189/GASurv">Mahald</a>
+
+  <a href="../cite/Mahalt/1189/GASurv">Mahalt</a>
+
+  <a href="../cite/Mahtildis/1189/GASurv">Mahtildis</a>
+
+  <a href="../cite/Marcus/1189/GASurv">Marcus</a>
+
+  <a href="../cite/Margareta/1189/GASurv">Margareta</a>
+
+  <a href="../cite/Margarete/1189/GASurv">Margarete</a>
+
+  <a href="../cite/Martini/1189/GASurv">Martini</a>
+
+  <a href="../cite/Martinus/1189/GASurv">Martinus</a>
+
+  <a href="../cite/Matheus/1189/GASurv">Matheus</a>
+
+  <a href="../cite/Matillide/1189/GASurv">Matillide</a>
+
+  <a href="../cite/Matillis/1189/GASurv">Matillis</a>
+
+  <a href="../cite/Nicholaus/1189/GASurv">Nicholaus</a>
+
+  <a href="../cite/Norman/1189/GASurv">Norman</a>
+
+  <a href="../cite/Normannus/1189/GASurv">Normannus</a>
+
+  <a href="../cite/Odo/1189/GASurv">Odo</a>
+
+  <a href="../cite/Odonis/1189/GASurv">Odonis</a>
+
+  <a href="../cite/Osberti/1189/GASurv">Osberti</a>
+
+  <a href="../cite/Osbertus/1189/GASurv">Osbertus</a>
+
+  <a href="../cite/Osmundi/1189/GASurv">Osmundi</a>
+
+  <a href="../cite/Osmundo/1189/GASurv">Osmundo</a>
+
+  <a href="../cite/Osmundus/1189/GASurv">Osmundus</a>
+
+  <a href="../cite/Paen/1189/GASurv">Paen</a>
+
+  <a href="../cite/Paganus/1189/GASurv">Paganus</a>
+
+  <a href="../cite/Petrus/1189/GASurv">Petrus</a>
+
+  <a href="../cite/Philippi/1189/GASurv">Philippi</a>
+
+  <a href="../cite/Philippus/1189/GASurv">Philippus</a>
+
+  <a href="../cite/Radulfi/1189/GASurv">Radulfi</a>
+
+  <a href="../cite/Radulfus/1189/GASurv">Radulfus</a>
+
+  <a href="../cite/Radulphus/1189/GASurv">Radulphus</a>
+
+  <a href="../cite/Raenilda/1189/GASurv">Raenilda</a>
+
+  <a href="../cite/Reginaldi/1189/GASurv">Reginaldi</a>
+
+  <a href="../cite/Reginaldus/1189/GASurv">Reginaldus</a>
+
+  <a href="../cite/Reinaldum/1189/GASurv">Reinaldum</a>
+
+  <a href="../cite/Reinaldus/1189/GASurv">Reinaldus</a>
+
+  <a href="../cite/Reiner/1189/GASurv">Reiner</a>
+
+  <a href="../cite/Reinilda/1189/GASurv">Reinilda</a>
+
+  <a href="../cite/Ricardi/1189/GASurv">Ricardi</a>
+
+  <a href="../cite/Ricardo/1171/GASurv">Ricardo</a>
+
+  <a href="../cite/Ricardum/1189/GASurv">Ricardum</a>
+
+  <a href="../cite/Ricardum/1171/GASurv">Ricardum</a>
+
+  <a href="../cite/Ricardus/1189/GASurv">Ricardus</a>
+
+  <a href="../cite/Ricardus/1171/GASurv">Ricardus</a>
+
+  <a href="../cite/Richerius/1189/GASurv">Richerius</a>
+
+  <a href="../cite/Roberti/1189/GASurv">Roberti</a>
+
+  <a href="../cite/Roberto/1189/GASurv">Roberto</a>
+
+  <a href="../cite/Robertum/1189/GASurv">Robertum</a>
+
+  <a href="../cite/Robertus/1189/GASurv">Robertus</a>
+
+  <a href="../cite/Rodberti/1189/GASurv">Rodberti</a>
+
+  <a href="../cite/Rodbertus/1189/GASurv">Rodbertus</a>
+
+  <a href="../cite/Rodulphus/1189/GASurv">Rodulphus</a>
+
+  <a href="../cite/Rogeri/1189/GASurv">Rogeri</a>
+
+  <a href="../cite/Rogerius/1189/GASurv">Rogerius</a>
+
+  <a href="../cite/Rogero/1189/GASurv">Rogero</a>
+
+  <a href="../cite/Rogerus/1189/GASurv">Rogerus</a>
+
+  <a href="../cite/Saleman/1189/GASurv">Saleman</a>
+
+  <a href="../cite/Salomon/1189/GASurv">Salomon</a>
+
+  <a href="../cite/Salomonis/1189/GASurv">Salomonis</a>
+
+  <a href="../cite/Samuel/1189/GASurv">Samuel</a>
+
+  <a href="../cite/Seman/1189/GASurv">Seman</a>
+
+  <a href="../cite/Steffani/1189/GASurv">Steffani</a>
+
+  <a href="../cite/Stephani/1189/GASurv">Stephani</a>
+
+  <a href="../cite/Stephanus/1189/GASurv">Stephanus</a>
+
+  <a href="../cite/Suanus/1189/GASurv">Suanus</a>
+
+  <a href="../cite/Suein/1189/GASurv">Suein</a>
+
+  <a href="../cite/Sueinus/1189/GASurv">Sueinus</a>
+
+  <a href="../cite/Tancredus/1189/GASurv">Tancredus</a>
+
+  <a href="../cite/Thomam/1189/GASurv">Thomam</a>
+
+  <a href="../cite/Thomas/1189/GASurv">Thomas</a>
+
+  <a href="../cite/Turkil/1189/GASurv">Turkil</a>
+
+  <a href="../cite/Turstanus/1189/GASurv">Turstanus</a>
+
+  <a href="../cite/Turstino/1189/GASurv">Turstino</a>
+
+  <a href="../cite/Turstinus/1189/GASurv">Turstinus</a>
+
+  <a href="../cite/Ulfi/1189/GASurv">Ulfi</a>
+
+  <a href="../cite/Vincent/1189/GASurv">Vincent</a>
+
+  <a href="../cite/Walteri/1189/GASurv">Walteri</a>
+
+  <a href="../cite/Walterus/1189/GASurv">Walterus</a>
+
+  <a href="../cite/Willelmi/1189/GASurv">Willelmi</a>
+
+  <a href="../cite/Willelmi/1171/GASurv">Willelmi</a>
+
+  <a href="../cite/Willelmum/1189/GASurv">Willelmum</a>
+
+  <a href="../cite/Willelmus/1189/GASurv">Willelmus</a>
+
+  <a href="../cite/Winemer/1189/GASurv">Winemer</a>
+
+  <a href="../cite/Winemerus/1189/GASurv">Winemerus</a>
+
+  <a href="../cite/Ysabel/1189/GASurv">Ysabel</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

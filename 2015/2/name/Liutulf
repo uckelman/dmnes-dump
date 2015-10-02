@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Liutulf</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Liutulf</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>liut</i> 'people' + <span class="lang">Old German</span> <i>wulf</i> 'wolf'.
+</span>
+  
+</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Ludolf</span> (<span class="case">nom</span>) <a href="../cite/Ludolf/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§82</span></a>,
+ <span class="name">Ludolfo</span> (<span class="case">abl</span>) <a href="../cite/Ludolfo/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§89</span></a>,
+ <span class="name">Ludolfus</span> (<span class="case">nom</span>) <a href="../cite/Ludolfus/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§63</span></a>,
+ <span class="name">Luidolf</span> (<span class="case">nom</span>) <a href="../cite/Luidolf/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§82</span></a>,
+ <span class="name">Luidolfus</span> (<span class="case">nom</span>) <a href="../cite/Luidolfus/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§161</span></a>;
+ <span class="date">966</span> <span class="name">Luidolfus</span> (<span class="case">nom</span>) <a href="../cite/Luidolfus/966/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">13</span></a>,
+ <span class="name">Luitolfus</span> (<span class="case">nom</span>) <a href="../cite/Luitolfus/966/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1200</span> <span class="name">Ludolfus</span> (<span class="case">nom</span>) <a href="../cite/Ludolfus/1200/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1218</span> <span class="name">Lutolfus</span> (<span class="case">nom</span>) <a href="../cite/Lutolfus/1218/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1225</span> <span class="name">Ludolfus</span> (<span class="case">nom</span>) <a href="../cite/Ludolfus/1225/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1401</span> <span class="name">ludolpho</span> (<span class="case">dat</span>) <a href="../cite/ludolpho/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 46</span></a>;
+ <span class="date">1540</span> <span class="name">Ludolpho</span> (<span class="case">abl</span>) <a href="../cite/Ludolpho/1540/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">93</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1286</span> <span class="name">Ludolfi</span> (<span class="case">gen</span>) <a href="../cite/Ludolfi/1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">463</span></a>;
+ <span class="date">1288</span> <span class="name">Ludolphi</span> (<span class="case">gen</span>) <a href="../cite/Ludolphi/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">516</span></a>,
+ <span class="name">Ludolpho</span> (<span class="case">dat</span>) <a href="../cite/Ludolpho/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">519</span></a>;
+ <span class="date">1294</span> <span class="name">Ludolpho</span> (<span class="case">dat</span>) <a href="../cite/Ludolpho/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Liutulf". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 2. http://dmnes.org/2015/2/name/Liutulf.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

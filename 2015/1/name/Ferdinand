@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Ferdinand</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="archival_note">This page is historical. Follow <a href="http://dmnes.org/name/Ferdinand">this link</a> for the current version.</a></div>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Ferdinand</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>fridu</i>, <span class="lang">Old Saxon</span> <i>frithu</i> 'peace' + <span class="lang">Proto-Germanic</span> <i>*nanþ-</i> 'brave, daring'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an 11th C emperor of Spain and king of Castile and León, the birth name of a 12th C Italian saint, a 12th C king of León, a 13th C king of Castile and León, a 13th-14th C king of Castile and León, a 14th C king of Portugal, a 15th C king of Aragon, two 15th C kings of Naples, a 15th-16th C king of Aragon, Castile, and León, and a 16th C Holy Roman emperor and king of Germany, Hungary, Croatia, and Bohemia.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name reached Spain via the Visigoths, and spread throughout the rest of Europe in the 16th C as a result of the Habsburgs.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1583</span> <span class="name">Fernando</span> <a href="../cite/Fernando/1583/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1592</span> <span class="name">Ferdinando</span> <a href="../cite/Ferdinando/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 25</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1378</span> <span class="name">Fernandus</span> (<span class="case">nom</span>) <a href="../cite/Fernandus/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">2279</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Ferrant</span> <a href="../cite/Ferrant/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 601</span></a>;
+ <span class="date">1421</span> <span class="name">Ferrant</span> <a href="../cite/Ferrant/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1144</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Ferrandin</span> <a href="../cite/Ferrandin/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 603</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1527</span> <span class="name">Ferdinandi</span> (<span class="case">gen</span>) <a href="../cite/Ferdinandi/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 84</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1573</span> <span class="name">Ferdinando</span> <a href="../cite/Ferdinando/1573/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>,
+ <span class="name">Fernando</span> <a href="../cite/Fernando/1573/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1574</span> <span class="name">Ferdinando</span> <a href="../cite/Ferdinando/1574/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1575</span> <span class="name">Ferdinande</span> <a href="../cite/Ferdinande/1575/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Ferdinandus</span> <a href="../cite/Ferdinandus/1575/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1576</span> <span class="name">Fernando</span> <a href="../cite/Fernando/1576/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1577</span> <span class="name">Ferdinando</span> <a href="../cite/Ferdinando/1577/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1490</span> <span class="name">Ferrandi</span> (<span class="case">gen</span>) <a href="../cite/Ferrandi/1490/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 44</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1488</span> <span class="name">Ferrando</span> <a href="../cite/Ferrando/1488/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1510</span> <span class="name">Errando</span> <a href="../cite/Errando/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">4531</span></a>,
+ <span class="name">Ferrando</span> <a href="../cite/Ferrando/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3123</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1326</span> <span class="name">Fernan</span> <a href="../cite/Fernan/1326/deMoxo"><span class="bib_key">deMoxo</span></a>;
+ <span class="date">1330</span> <span class="name">Fernan</span> <a href="../cite/Fernan/1330/deMoxo"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Ferran</span> <a href="../cite/Ferran/1330/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1331</span> <span class="name">Fernan</span> <a href="../cite/Fernan/1331/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1334</span> <span class="name">Fernan</span> <a href="../cite/Fernan/1334/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1336</span> <span class="name">Fernan</span> <a href="../cite/Fernan/1336/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1376</span> <span class="name">Fernando</span> (<span class="case">nom</span>) <a href="../cite/Fernando/1376/SanzSerrano"><span class="bib_key">SanzSerrano</span></a>;
+ <span class="date">1496</span> <span class="name">Fernando</span> <a href="../cite/Fernando/1496/olite1496"><span class="bib_key">olite1496</span> <span class="bib_loc">p. 182</span></a>;
+ <span class="date">1540</span> <span class="name">Fernán</span> <a href="../cite/Fernán/1540/SanzSerrano"><span class="bib_key">SanzSerrano</span></a>;
+ <span class="date">1567</span> <span class="name">Fernando</span> <a href="../cite/Fernando/1567/SanzSerrano"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Hernando</span> <a href="../cite/Hernando/1567/SanzSerrano"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Preview. <b>DO NOT</b> cite as: <cite>S.L. Uckelman. "Ferdinand". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 1. http://dmnes.org/2015/1/name/Ferdinand.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="http://dmnes.org/archives">Archives</a></li>
+        <li><a href="http://dmnes.org/contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>
