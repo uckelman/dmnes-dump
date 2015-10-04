@@ -44,7 +44,7 @@
   <span class="nym">Robert</span>
   <span class="gen">m.</span>
   
-  <span class="etym"><span class="lang">Old Saxon</span> <i>hrōth</i>, <span class="lang">Old High German</span> <i>hruod</i> 'fame' + <span class="lang">Old English</span> <i>beorht</i>, <span class="lang">Old German</span> <i>berhta</i> 'bright', cognate with <span class="lang">Old Saxon</span> <i>berht</i>, <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Norse</span> <i>bjartr</i>, <span class="lang">Gothic</span> <i>𐌱𐌰𐌹𐍂𐌷𐍄𐍃</i>.
+  <span class="etym"><span class="lang">Old Saxon</span> <i>hrōth</i>, <span class="lang">Old High German</span> <i>hruod</i> 'fame' + <span class="lang">Old English</span> <i>beorht</i>, <span class="lang">Old German</span> <i>berhta</i> 'bright', cognate with <span class="lang">Old Saxon</span> <i>berht</i>, <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Icelandic</span> <i>bjartr</i>, <span class="lang">Gothic</span> <i>𐌱𐌰𐌹𐍂𐌷𐍄𐍃</i>.
   </span>
   
 </p>
@@ -68,42 +68,84 @@
 <dd>
 <dl>
 <dt><span class="lang">Latin</span></dt>
-<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 77</span></a>,
+<dd><span class="dim">●</span> <span class="date">c1132</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/c1132/MemStMF"><span class="bib_key">MemStMF</span> <span class="bib_loc">II-I</span></a>;
+ <span class="date">c1145x1159</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/c1145x1159/EYC-3"><span class="bib_key">EYC-3</span> <span class="bib_loc">1666</span></a>;
+ <span class="date">1155</span> <span class="name">Rodbertus</span> (<span class="case">nom</span>) <a href="../cite/Rodbertus/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1189</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 77</span></a>,
  <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95</span></a>,
  <span class="name">Robertum</span> (<span class="case">acc</span>) <a href="../cite/Robertum/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 114</span></a>,
  <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 77</span></a>,
  <span class="name">Rodberti</span> (<span class="case">gen</span>) <a href="../cite/Rodberti/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90</span></a>,
  <span class="name">Rodbertus</span> (<span class="case">nom</span>) <a href="../cite/Rodbertus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 102</span></a>;
+ <span class="date">c1198</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/c1198/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 243</span></a>,
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/c1198/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 244</span></a>;
+ <span class="date">1256</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Robertum</span> (<span class="case">acc</span>) <a href="../cite/Robertum/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
  <span class="date">1279–80</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 39</span></a>,
  <span class="name">Roberto</span> (<span class="case">dat</span>) <a href="../cite/Roberto/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>,
  <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>,
  <span class="name">Roberus</span> (<span class="case">nom</span>) <a href="../cite/Roberus/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 64</span></a>;
  <span class="date">1290</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1290/POSDu"><span class="bib_key">POSDu</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1296</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 93a</span></a>,
+ <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93b</span></a>,
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 92b</span></a>;
  <span class="date">1298</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1298/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 2</span></a>;
  <span class="date">1299</span> <span class="name">Robert</span> (<span class="case">nom</span>) <a href="../cite/Robert/1299/ComWil-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
  <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1299/ComWil-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
  <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1299/ComWil-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
- <span class="date">1300</span> <span class="name">Roberti</span> <a href="../cite/Roberti/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 229</span></a>,
+ <span class="date">1300</span> <span class="name">Roberti</span> (<span class="case">nom</span>) <a href="../cite/Roberti/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 229</span></a>,
  <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1300/ProcSuf-vol3"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 231</span></a>;
  <span class="date">1301</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1301/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 3</span></a>;
  <span class="date">1302</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1302/ComWil-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1321</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1321/EL-2"><span class="bib_key">EL-2</span> <span class="bib_loc">p. 162</span></a>;
  <span class="date">1327</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1327/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 111</span></a>;
  <span class="date">1348</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1348/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 8</span></a>;
  <span class="date">1357</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1357/SocAntNor-3-3"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 22</span></a>;
- <span class="date">1381</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 90</span></a>,
+ <span class="date">1377</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1377/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1381</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1381/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Roberti/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 90</span></a>,
  <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 89</span></a>,
  <span class="name">Robertum</span> (<span class="case">acc</span>) <a href="../cite/Robertum/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 70</span></a>,
- <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Robertus/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 68</span></a>;
  <span class="date">1406</span> <span class="name">Roberto</span> (<span class="case">dat</span>) <a href="../cite/Roberto/1406/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 14</span></a>;
  <span class="date">1408</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1408/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>,
  <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1408/GCCYork"><span class="bib_key">GCCYork</span> <span class="bib_loc">p. 10</span></a>;
  <span class="date">1411</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1411/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 21</span></a>,
  <span class="name">Robertum</span> (<span class="case">acc</span>) <a href="../cite/Robertum/1411/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
- <span class="date">1426</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1426/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 68</span></a>,
+ <span class="date">1423</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1423/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">L</span></a>,
+ <span class="name">Robertum</span> (<span class="case">acc</span>) <a href="../cite/Robertum/1423/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">L</span></a>,
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1423/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">L</span></a>;
+ <span class="date">1426</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1426/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 68</span></a>,
  <span class="name">Robertum</span> (<span class="case">acc</span>) <a href="../cite/Robertum/1426/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 69</span></a>;
- <span class="date">1439</span> <span class="name">Robertum</span> (<span class="case">acc</span>) <a href="../cite/Robertum/1439/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 121</span></a>;
+ <span class="date">1427</span> <span class="name">Roberto</span> (<span class="case">dat</span>) <a href="../cite/Roberto/1427/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LIII</span></a>;
+ <span class="date">1431</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1431/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LVI</span></a>;
+ <span class="date">1435</span> <span class="name">Roberto</span> (<span class="case">dat</span>) <a href="../cite/Roberto/1435/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LVII</span></a>,
+ <span class="name">Robertum</span> (<span class="case">acc</span>) <a href="../cite/Robertum/1435/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LVII</span></a>,
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1435/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LVII</span></a>;
+ <span class="date">1436</span> <span class="name">Roberto</span> (<span class="case">dat</span>) <a href="../cite/Roberto/1436/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LIX</span></a>;
+ <span class="date">1439</span> <span class="name">Robertum</span> (<span class="case">acc</span>) <a href="../cite/Robertum/1439/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 121</span></a>;
+ <span class="date">1440</span> <span class="name">Robertem</span> (<span class="case">acc</span>) <a href="../cite/Robertem/1440/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LI</span></a>;
+ <span class="date">1442</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1442/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXII</span></a>;
+ <span class="date">1444</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1444/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXIII</span></a>;
+ <span class="date">1476</span> <span class="name">Roberto</span> (<span class="case">dat</span>) <a href="../cite/Roberto/1476/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXVII</span></a>;
  <span class="date">1485–1486</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 49</span></a>;
- <span class="date">1530</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 2</span></a></dd>
+ <span class="date">1489</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1489/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXX</span></a>;
+ <span class="date">1499</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1499/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXIII</span></a>;
+ <span class="date">1530</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1558/9</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="http://127.0.0.1:5000/cite/Robertus/1558/9/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1559</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1559/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1559/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1559/60</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="http://127.0.0.1:5000/cite/Robertus/1559/60/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1561</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1561/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1562</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1562/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1564</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1564/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1566</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1566/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1567</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1567/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1568</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1568/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1570</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1570/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a></dd>
 <dt><span class="lang">Middle English</span></dt>
 <dd><span class="dim">●</span> <span class="date">1381</span> <span class="name">Roberdes</span> (<span class="case">gen</span>) <a href="../cite/Roberdes/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 134</span></a>;
  <span class="date">1387</span> <span class="name">Robert</span> <a href="../cite/Robert/1387/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 1</span></a>;
@@ -122,8 +164,10 @@
  <span class="name">Robertis</span> (<span class="case">gen</span>) <a href="../cite/Robertis/1424–25/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57</span></a>;
  <span class="date">1425</span> <span class="name">Robert</span> <a href="../cite/Robert/1425/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 65</span></a>;
  <span class="date">1426</span> <span class="name">Roberd</span> <a href="../cite/Roberd/1426/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
- <span class="date">1428</span> <span class="name">Robert</span> <a href="../cite/Robert/1428/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 80</span></a>;
- <span class="date">1431</span> <span class="name">Robert</span> <a href="../cite/Robert/1431/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 88</span></a>;
+ <span class="date">1427</span> <span class="name">Robert</span> <a href="../cite/Robert/1427/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LII</span></a>;
+ <span class="date">1428</span> <span class="name">Robert</span> <a href="../cite/Robert/1428/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1429</span> <span class="name">Robert</span> <a href="../cite/Robert/1429/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LV</span></a>;
+ <span class="date">1431</span> <span class="name">Robert</span> <a href="../cite/Robert/1431/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 88</span></a>;
  <span class="date">1433</span> <span class="name">Robert</span> <a href="../cite/Robert/1433/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95</span></a>;
  <span class="date">1434</span> <span class="name">Robard</span> <a href="../cite/Robard/1434/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 102</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1434/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 101</span></a>;
@@ -132,19 +176,25 @@
  <span class="date">1439</span> <span class="name">Robert</span> <a href="../cite/Robert/1439/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 125</span></a></dd>
 <dd><span class="dim">◑</span> <span class="date">1417–18</span> <span class="name">Hopkyn</span> <a href="../cite/Hopkyn/1417–18/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 39</span></a>;
  <span class="date">1420</span> <span class="name">Robyn</span> <a href="../cite/Robyn/1420/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a></dd>
-<dt><span class="lang">English</span></dt>
-<dd><span class="dim">●</span> <span class="date">1503</span> <span class="name">Robert</span> <a href="../cite/Robert/1503/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 74</span></a>;
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1499</span> <span class="name">Robert</span> <a href="../cite/Robert/1499/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXII</span></a>;
+ <span class="date">1503</span> <span class="name">Robert</span> <a href="../cite/Robert/1503/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 74</span></a>;
  <span class="date">1511</span> <span class="name">Robert</span> <a href="../cite/Robert/1511/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 74</span></a>;
+ <span class="date">1516</span> <span class="name">Robert</span> <a href="../cite/Robert/1516/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXV</span></a>;
  <span class="date">1522</span> <span class="name">Robert</span> <a href="../cite/Robert/1522/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 114</span></a>;
  <span class="date">1525/6</span> <span class="name">Robert</span> <a href="http://127.0.0.1:5000/cite/Robert/1525/6/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1528</span> <span class="name">Robert</span> <a href="../cite/Robert/1528/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXVIII</span></a>;
  <span class="date">1529</span> <span class="name">Robert</span> <a href="../cite/Robert/1529/PP-HenV"><span class="bib_key">PP-HenV</span> <span class="bib_loc">p. 5</span></a>;
  <span class="date">1530</span> <span class="name">Robart</span> <a href="../cite/Robart/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 15</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
  <a href="../cite/Robert/1530/PP-HenV"><span class="bib_key">PP-HenV</span> <span class="bib_loc">p. 22</span></a>,
  <span class="name">Roberte</span> <a href="../cite/Roberte/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 36</span></a>,
  <span class="name">Robertes</span> (<span class="case">gen</span>) <a href="../cite/Robertes/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1533</span> <span class="name">Robert</span> <a href="../cite/Robert/1533/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXII</span></a>,
+ <span class="name">Roberte</span> <a href="../cite/Roberte/1533/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXII</span></a>;
  <span class="date">1538</span> <span class="name">Robart</span> <a href="../cite/Robart/1538/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 1</span></a>,
- <span class="name">Robert</span> <a href="../cite/Robert/1538/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="name">Robert</span> <a href="../cite/Robert/1538/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Roberte</span> <a href="../cite/Roberte/1538/Eastleach"><span class="bib_key">Eastleach</span></a>;
  <span class="date">1539</span> <span class="name">Robart</span> <a href="../cite/Robart/1539/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 1</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1539/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
  <a href="../cite/Robert/1539/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
@@ -152,12 +202,18 @@
  <a href="../cite/Robart/1540/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 1</span></a>;
  <span class="date">1541</span> <span class="name">Robart</span> <a href="../cite/Robart/1541/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>,
  <a href="../cite/Robart/1541/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 2</span></a>,
- <span class="name">Robert</span> <a href="../cite/Robert/1541/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>;
- <span class="date">1542</span> <span class="name">Robert</span> <a href="../cite/Robert/1542/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
- <span class="date">1543</span> <span class="name">Robart</span> <a href="../cite/Robart/1543/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Robert</span> <a href="../cite/Robert/1541/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Roberte</span> <a href="../cite/Roberte/1541/Eastleach"><span class="bib_key">Eastleach</span></a>,
+ <span class="name">robart</span> <a href="../cite/robart/1541/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXVII</span></a>,
+ <span class="name">robert</span> <a href="../cite/robert/1541/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXVII</span></a>,
+ <span class="name">roberts</span> (<span class="case">gen</span>) <a href="../cite/roberts/1541/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXVII</span></a>;
+ <span class="date">1542</span> <span class="name">Robert</span> <a href="../cite/Robert/1542/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1542/3</span> <span class="name">Robert</span> <a href="http://127.0.0.1:5000/cite/Robert/1542/3/SIAcc"><span class="bib_key">SIAcc</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1543</span> <span class="name">Robart</span> <a href="../cite/Robart/1543/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>,
  <a href="../cite/Robart/1543/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 3</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1543/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>,
- <a href="../cite/Robert/1543/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 75</span></a>;
+ <a href="../cite/Robert/1543/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 75</span></a>,
+ <a href="../cite/Robert/1543/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXIX</span></a>;
  <span class="date">1544</span> <span class="name">Robart</span> <a href="../cite/Robart/1544/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 4</span></a>,
  <a href="../cite/Robart/1544/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 4</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1544/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
@@ -165,7 +221,10 @@
  <span class="name">Roburt</span> <a href="../cite/Roburt/1545/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
  <span class="date">1546</span> <span class="name">Robart</span> <a href="../cite/Robart/1546/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
  <span class="date">1547</span> <span class="name">Robart</span> <a href="../cite/Robart/1547/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
- <a href="../cite/Robart/1547/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 6</span></a>;
+ <a href="../cite/Robart/1547/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Robart/1547/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCIV</span></a>,
+ <span class="name">Robert</span> <a href="../cite/Robert/1547/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">1b</span></a>,
+ <a href="../cite/Robert/1547/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCIII</span></a>;
  <span class="date">1548</span> <span class="name">Robart</span> <a href="../cite/Robart/1548/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>,
  <a href="../cite/Robart/1548/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 79</span></a>,
  <a href="../cite/Robart/1548/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 7</span></a>,
@@ -174,6 +233,7 @@
  <span class="date">1549</span> <span class="name">Robart</span> <a href="../cite/Robart/1549/DEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 79</span></a>,
  <a href="../cite/Robart/1549/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 7</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1549/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1550</span> <span class="name">Robert</span> <a href="../cite/Robert/1550/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2a</span></a>;
  <span class="date">1551</span> <span class="name">Robart</span> <a href="../cite/Robart/1551/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1551/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
  <a href="../cite/Robert/1551/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 79</span></a>;
@@ -194,29 +254,34 @@
  <span class="date">1555</span> <span class="name">Robart</span> <a href="../cite/Robart/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>,
  <a href="../cite/Robart/1555/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 10</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1555/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 5</span></a>,
- <a href="../cite/Robert/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>,
- <span class="name">Robertt</span> <a href="../cite/Robertt/1555/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 26</span></a>;
+ <a href="../cite/Robert/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1555/6</span> <span class="name">Robert</span> <a href="http://127.0.0.1:5000/cite/Robert/1555/6/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2a</span></a>;
+ <span class="date">1555</span> <span class="name">Robertt</span> <a href="../cite/Robertt/1555/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 26</span></a>;
  <span class="date">1556</span> <span class="name">Robart</span> <a href="../cite/Robart/1556/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>,
  <a href="../cite/Robart/1556/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>,
  <span class="name">Robarte</span> <a href="../cite/Robarte/1556/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
  <span class="date">1556/7</span> <span class="name">Robert</span> <a href="http://127.0.0.1:5000/cite/Robert/1556/7/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 5</span></a>;
  <span class="date">1556</span> <span class="name">Robert</span> <a href="../cite/Robert/1556/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>,
- <span class="name">Robertt</span> <a href="../cite/Robertt/1556/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 27</span></a>;
+ <a href="../cite/Robert/1556/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 108</span></a>,
+ <span class="name">Robertt</span> <a href="../cite/Robertt/1556/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
  <span class="date">1557</span> <span class="name">Robart</span> <a href="../cite/Robart/1557/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 12</span></a>,
- <span class="name">Robert</span> <a href="../cite/Robert/1557/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="name">Robert</span> <a href="../cite/Robert/1557/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/Robert/1557/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 109</span></a>;
  <span class="date">1558</span> <span class="name">Robart</span> <a href="../cite/Robart/1558/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 12</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1558/DU-DSMMar"><span class="bib_key">DU-DSMMar</span></a>,
  <a href="../cite/Robert/1558/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 67</span></a>,
  <a href="../cite/Robert/1558/SOmar-vol9"><span class="bib_key">SOmar-vol9</span> <span class="bib_loc">p. 1</span></a>,
  <a href="../cite/Robert/1558/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 12</span></a>,
- <span class="name">Robertt</span> <a href="../cite/Robertt/1558/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <a href="../cite/Robert/1558/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 109</span></a>,
+ <span class="name">Robertt</span> <a href="../cite/Robertt/1558/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
  <span class="date">1559</span> <span class="name">Robart</span> <a href="../cite/Robart/1559/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 13</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1559/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 60</span></a>,
  <a href="../cite/Robert/1559/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>,
  <a href="../cite/Robert/1559/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 1</span></a>,
  <a href="../cite/Robert/1559/DU-DSMMar"><span class="bib_key">DU-DSMMar</span></a>,
  <a href="../cite/Robert/1559/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 13</span></a>,
- <span class="name">Robertt</span> <a href="../cite/Robertt/1559/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <a href="../cite/Robert/1559/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 110</span></a>,
+ <span class="name">Robertt</span> <a href="../cite/Robertt/1559/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
  <span class="date">1560</span> <span class="name">Robart</span> <a href="../cite/Robart/1560/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>,
  <a href="../cite/Robart/1560/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 13</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1560/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 6</span></a>,
@@ -256,12 +321,14 @@
  <a href="../cite/Robert/1564/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 69</span></a>,
  <a href="../cite/Robert/1564/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>,
  <a href="../cite/Robert/1564/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 68</span></a>,
+ <a href="../cite/Robert/1564/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 111</span></a>,
  <span class="name">Roberte</span> <a href="../cite/Roberte/1564/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 2</span></a>,
  <span class="name">Robertt</span> <a href="../cite/Robertt/1564/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 4</span></a>;
  <span class="date">1565</span> <span class="name">Robart</span> <a href="../cite/Robart/1565/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 2</span></a>,
  <a href="../cite/Robart/1565/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 17</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1565/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>,
- <a href="../cite/Robert/1565/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 2</span></a>;
+ <a href="../cite/Robert/1565/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Robert/1565/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 111</span></a>;
  <span class="date">1565/6</span> <span class="name">Roberte</span> <a href="http://127.0.0.1:5000/cite/Roberte/1565/6/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 2</span></a>;
  <span class="date">1565</span> <span class="name">Robertt</span> <a href="../cite/Robertt/1565/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 4</span></a>;
  <span class="date">1566</span> <span class="name">Robart</span> <a href="../cite/Robart/1566/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 128</span></a>,
@@ -273,7 +340,8 @@
  <a href="../cite/Robart/1567/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 19</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1567/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 8</span></a>,
  <a href="../cite/Robert/1567/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>,
- <span class="name">Robertt</span> <a href="../cite/Robertt/1567/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <a href="../cite/Robert/1567/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 112</span></a>,
+ <span class="name">Robertt</span> <a href="../cite/Robertt/1567/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
  <span class="date">1568</span> <span class="name">Robart</span> <a href="../cite/Robart/1568/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>,
  <a href="../cite/Robart/1568/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 19</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1568/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 8</span></a>,
@@ -284,7 +352,8 @@
  <a href="../cite/Robart/1569/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 20</span></a>,
  <span class="name">Robarte</span> <a href="../cite/Robarte/1569/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 69</span></a>,
  <span class="name">Robert</span> <a href="../cite/Robert/1569/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 8</span></a>,
- <span class="name">Robertt</span> <a href="../cite/Robertt/1569/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 38</span></a>;
+ <a href="../cite/Robert/1569/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 112</span></a>,
+ <span class="name">Robertt</span> <a href="../cite/Robertt/1569/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>;
  <span class="date">1570</span> <span class="name">Robart</span> <a href="../cite/Robart/1570/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 128</span></a>,
  <a href="../cite/Robart/1570/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>,
  <a href="../cite/Robart/1570/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 21</span></a>,
@@ -506,7 +575,9 @@
 <dd>
 <dl>
 <dt><span class="lang">Latin</span></dt>
-<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Rotbertus</span> (<span class="case">nom</span>) <a href="../cite/Rotbertus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">51</span></a>;
+<dd><span class="dim">●</span> <span class="date">629</span> <span class="name">Chrodobertus</span> (<span class="case">nom</span>) <a href="../cite/Chrodobertus/629/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">CCXLVI</span></a>;
+ <span class="date">658</span> <span class="name">Chrodovertus</span> (<span class="case">nom</span>) <a href="../cite/Chrodovertus/658/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCXXXIII</span></a>;
+ <span class="date">c823</span> <span class="name">Rotbertus</span> (<span class="case">nom</span>) <a href="../cite/Rotbertus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">51</span></a>;
  <span class="date">c11thC</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/c11thC/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 91</span></a>;
  <span class="date">11thC</span> <span class="name">Rupertus</span> (<span class="case">nom</span>) <a href="../cite/Rupertus/11thC/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">711</span></a>;
  <span class="date">1015</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1015/NTDip-vol4"><span class="bib_key">NTDip-vol4</span> <span class="bib_loc">p. 225</span></a>,
@@ -568,9 +639,17 @@
  <a href="../cite/Robertus/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">99</span></a>;
  <span class="date">1163–64</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">115</span></a>,
  <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1163x1173</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1163x1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">156</span></a>;
  <span class="date">1164</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1164/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">C</span></a>,
  <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1164/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">121</span></a>,
  <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1170</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1170/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">137</span></a>;
+ <span class="date">1171</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">142</span></a>,
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">142</span></a>;
+ <span class="date">1178</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1178/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">167</span></a>;
+ <span class="date">1179</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">169</span></a>,
+ <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>;
  <span class="date">1180</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 3</span></a>,
  <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>,
  <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
@@ -607,14 +686,15 @@
  <span class="date">1301</span> <span class="name">Robert</span> (<span class="case">nom</span>) <a href="../cite/Robert/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 216</span></a>,
  <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 201</span></a>,
  <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 199</span></a>;
- <span class="date">1304</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1304/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXVI</span></a>;
- <span class="date">1310/11</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="http://127.0.0.1:5000/cite/Robertus/1310/11/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1304</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1304/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXVI</span></a>,
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1304/GasReg-A"><span class="bib_key">GasReg-A</span></a>;
+ <span class="date">1310/11</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="http://127.0.0.1:5000/cite/Robertus/1310/11/GasReg-A"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 100</span></a>;
  <span class="date">1310</span> <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1310/GasReg-A"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 217</span></a>;
  <span class="date">1378</span> <span class="name">Robert</span> (<span class="case">dat</span>) <a href="../cite/Robert/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">519</span></a>,
  <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>,
  <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">58</span></a>,
  <span class="name">Robertum</span> (<span class="case">acc</span>) <a href="../cite/Robertum/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">889</span></a>,
- <span class="name">Robertus</span> <a href="../cite/Robertus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">338</span></a>;
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">338</span></a>;
  <span class="date">1421</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">p. 194</span></a></dd>
 <dd><span class="dim">◑</span> <span class="date">1180</span> <span class="name">Robin</span> (<span class="case">gen</span>) <a href="../cite/Robin/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 12</span></a>;
  <span class="date">1256</span> <span class="name">Robini</span> (<span class="case">gen</span>) <a href="../cite/Robini/1256/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XIII, Candlemas</span></a>;
@@ -627,12 +707,12 @@
  <span class="date">1301</span> <span class="name">Robers</span> <a href="../cite/Robers/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 240</span></a>;
  <span class="date">1313</span> <span class="name">Robert</span> <a href="../cite/Robert/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 1</span></a>,
  <span class="name">Robertx</span> <a href="../cite/Robertx/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
- <span class="date">1327</span> <span class="name">Robert</span> <a href="../cite/Robert/1327/lecoy"><span class="bib_key">lecoy</span> <span class="bib_loc">p. 174</span></a></dd>
+ <span class="date">1327</span> <span class="name">Robert</span> <a href="../cite/Robert/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 174</span></a></dd>
 <dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Robin</span> <a href="../cite/Robin/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 7</span></a>;
  <span class="date">1301</span> <span class="name">Robin</span> (<span class="case">obl</span>) <a href="../cite/Robin/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 290</span></a>;
  <span class="date">1313</span> <span class="name">Robin</span> <a href="../cite/Robin/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 8</span></a>,
  <span class="name">Robinet</span> <a href="../cite/Robinet/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 107</span></a>;
- <span class="date">1327</span> <span class="name">Robin</span> <a href="../cite/Robin/1327/lecoy"><span class="bib_key">lecoy</span> <span class="bib_loc">p.181</span></a></dd>
+ <span class="date">1327</span> <span class="name">Robin</span> <a href="../cite/Robin/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p.181</span></a></dd>
 <dt><span class="lang">Middle French</span></dt>
 <dd><span class="dim">●</span> <span class="date">1388</span> <span class="name">Robert</span> <a href="../cite/Robert/1388/thierry"><span class="bib_key">thierry</span></a>;
  <span class="date">1392</span> <span class="name">Robert</span> <a href="../cite/Robert/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 600</span></a>;
@@ -658,7 +738,7 @@
 <dt><span class="lang">Latin</span></dt>
 <dd><span class="dim">●</span> <span class="date">855</span> <span class="name">Rothbertus</span> (<span class="case">nom</span>) <a href="../cite/Rothbertus/855/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">3</span></a>;
  <span class="date">947</span> <span class="name">Rodberti</span> (<span class="case">gen</span>) <a href="../cite/Rodberti/947/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
- <span class="date">948</span> <span class="name">Rodberti</span> (<span class="case">nom</span>) <a href="../cite/Rodberti/948/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">88</span></a>;
+ <span class="date">948</span> <span class="name">Rodberti</span> (<span class="case">gen</span>) <a href="../cite/Rodberti/948/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">88</span></a>;
  <span class="date">972</span> <span class="name">Rodberti</span> (<span class="case">gen</span>) <a href="../cite/Rodberti/972/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
  <span class="date">974</span> <span class="name">Rodtberti</span> (<span class="case">gen</span>) <a href="../cite/Rodtberti/974/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>;
  <span class="date">1076</span> <span class="name">Ruoberto</span> (<span class="case">abl</span>) <a href="../cite/Ruoberto/1076/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">47</span></a>;
@@ -689,7 +769,12 @@
 <dd>
 <dl>
 <dt><span class="lang">Latin</span></dt>
-<dd><span class="dim">●</span> <span class="date">1216x1272</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1216x1272/POSDu"><span class="bib_key">POSDu</span> <span class="bib_loc">VII</span></a></dd>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Robert</span> (<span class="case">nom</span>) <a href="../cite/Robert/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 6</span></a>,
+ <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 7</span></a>,
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 3</span></a>,
+ <span class="name">Rodberti</span> (<span class="case">gen</span>) <a href="../cite/Rodberti/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 22</span></a>,
+ <span class="name">Rodbertus</span> (<span class="case">nom</span>) <a href="../cite/Rodbertus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 5</span></a>;
+ <span class="date">1216x1272</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1216x1272/POSDu"><span class="bib_key">POSDu</span> <span class="bib_loc">VII</span></a></dd>
 </dl>
 </dd>
 <dt><span class="area">Italy</span></dt>
@@ -752,6 +837,41 @@
 <dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Roberto</span> (<span class="case">dat</span>) <a href="../cite/Roberto/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>;
  <span class="date">1495</span> <span class="name">Robert</span> <a href="../cite/Robert/1495/CrimTrials-I1"><span class="bib_key">CrimTrials-I1</span> <span class="bib_loc">p. 15</span></a></dd>
 <dd><span class="dim">◑</span> <span class="date">c1550</span> <span class="name">Robein</span> <a href="../cite/Robein/c1550/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">p. xxv</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1002</span> <span class="name">Radberto</span> (<span class="case">abl</span>) <a href="../cite/Radberto/1002/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCLXIV</span></a>;
+ <span class="date">1006</span> <span class="name">Radevertus</span> (<span class="case">nom</span>) <a href="../cite/Radevertus/1006/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXV</span></a>,
+ <span class="name">Rodberto</span> (<span class="case">abl</span>) <a href="../cite/Rodberto/1006/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXVI</span></a>;
+ <span class="date">1009</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1009/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXVIII</span></a>;
+ <span class="date">1010</span> <span class="name">Radevertus</span> (<span class="case">nom</span>) <a href="../cite/Radevertus/1010/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXIX</span></a>;
+ <span class="date">1011</span> <span class="name">Raudeberto</span> (<span class="case">abl</span>) <a href="../cite/Raudeberto/1011/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXX</span></a>;
+ <span class="date">1012</span> <span class="name">Rodberto</span> (<span class="case">abl</span>) <a href="../cite/Rodberto/1012/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXI</span></a>;
+ <span class="date">1014</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1014/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXII</span></a>;
+ <span class="date">1016</span> <span class="name">Raudebertus</span> (<span class="case">nom</span>) <a href="../cite/Raudebertus/1016/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXIII</span></a>;
+ <span class="date">1019</span> <span class="name">Rodberto</span> (<span class="case">abl</span>) <a href="../cite/Rodberto/1019/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXIV</span></a>;
+ <span class="date">1020</span> <span class="name">Rodberto</span> (<span class="case">abl</span>) <a href="../cite/Rodberto/1020/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXV</span></a>;
+ <span class="date">1491</span> <span class="name">Rubert</span> (<span class="case">nom</span>) <a href="../cite/Rubert/1491/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 60</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1166</span> <span class="name">Roberto</span> (<span class="case">abl</span>) <a href="../cite/Roberto/1166/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">18</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1454</span> <span class="name">Robertum</span> (<span class="case">acc</span>) <a href="../cite/Robertum/1454/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1497</span> <span class="name">Roberti</span> (<span class="case">gen</span>) <a href="../cite/Roberti/1497/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a>,
+ <span class="name">Robertus</span> (<span class="case">nom</span>) <a href="../cite/Robertus/1497/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 68</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1453</span> <span class="name">Hopkin</span> (<span class="case">nom</span>) <a href="../cite/Hopkin/1453/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 70</span></a></dd>
 </dl>
 </dd>
 </dl>

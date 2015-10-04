@@ -73,7 +73,7 @@
  <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>;
  <span class="date">1350</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">194</span></a>,
  <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">190</span></a>;
- <span class="date">1351</span> <span class="name">Stephanus</span> <a href="../cite/Stephanus/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1351</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
  <span class="date">1353</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">60</span></a>;
  <span class="date">1355</span> <span class="name">Stephano</span> (<span class="case">dat</span>) <a href="../cite/Stephano/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">116</span></a>,
  <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>;
@@ -89,41 +89,56 @@
  <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95</span></a>,
  <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 156</span></a>;
  <span class="date">1279–80</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1296</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 95a</span></a>,
+ <span class="name">Stephano</span> (<span class="case">dat</span>) <a href="../cite/Stephano/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95a</span></a>;
  <span class="date">1348</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1348/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 9</span></a>;
  <span class="date">1349</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1349/SocAntNor-3-3"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11</span></a>;
  <span class="date">1357</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1357/SocAntNor-3-3"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 22</span></a>;
+ <span class="date">1377</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1377/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
  <span class="date">1381</span> <span class="name">Steffano</span> (<span class="case">abl</span>) <a href="../cite/Steffano/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 100</span></a>,
  <span class="name">Stepanus</span> (<span class="case">nom</span>) <a href="../cite/Stepanus/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 113</span></a>,
  <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90</span></a>,
  <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 89</span></a>,
- <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 68</span></a>;
- <span class="date">1417–18</span> <span class="name">Stephanus</span> <a href="../cite/Stephanus/1417–18/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 37</span></a>;
- <span class="date">1430</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1430/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84</span></a></dd>
+ <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Stephanus/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1417–18</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1417–18/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1430</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1430/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84</span></a>;
+ <span class="date">1444</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1444/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXIII</span></a>,
+ <span class="name">Stephano</span> (<span class="case">dat</span>) <a href="../cite/Stephano/1444/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXIII</span></a></dd>
 <dt><span class="lang">Middle English</span></dt>
 <dd><span class="dim">●</span> <span class="date">1417–18</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1417–18/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 40</span></a>,
  <span class="name">Stephyn</span> <a href="../cite/Stephyn/1417–18/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a></dd>
-<dt><span class="lang">English</span></dt>
-<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Stephyn</span> <a href="../cite/Stephyn/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 34</span></a>,
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1485</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1485/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXIX</span></a>;
+ <span class="date">1530</span> <span class="name">Stephyn</span> <a href="../cite/Stephyn/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 34</span></a>,
  <span class="name">Steven</span> <a href="../cite/Steven/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>,
  <span class="name">Stevyn</span> <a href="../cite/Stevyn/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 76</span></a>;
  <span class="date">1540</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1540/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 78</span></a>;
+ <span class="date">1541</span> <span class="name">Stephan</span> <a href="../cite/Stephan/1541/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXVII</span></a>;
+ <span class="date">1542/3</span> <span class="name">Stephen</span> <a href="http://127.0.0.1:5000/cite/Stephen/1542/3/SIAcc"><span class="bib_key">SIAcc</span> <span class="bib_loc">2</span></a>;
  <span class="date">1545</span> <span class="name">Steven</span> <a href="../cite/Steven/1545/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 5</span></a>;
  <span class="date">1548</span> <span class="name">Steven</span> <a href="../cite/Steven/1548/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1550</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1550/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCV</span></a>;
  <span class="date">1551</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1551/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 2</span></a>;
  <span class="date">1554</span> <span class="name">Stephan</span> <a href="../cite/Stephan/1554/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 26</span></a>,
  <span class="name">Stephen</span> <a href="../cite/Stephen/1554/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
  <span class="name">Stephin</span> <a href="../cite/Stephin/1554/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 26</span></a>,
  <span class="name">Steven</span> <a href="../cite/Steven/1554/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
- <span class="date">1555</span> <span class="name">Stephin</span> <a href="../cite/Stephin/1555/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="date">1555</span> <span class="name">Stephan</span> <a href="../cite/Stephan/1555/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 108</span></a>,
+ <span class="name">Stephin</span> <a href="../cite/Stephin/1555/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>,
  <span class="name">Steven</span> <a href="../cite/Steven/1555/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
  <span class="name">Stevin</span> <a href="../cite/Stevin/1555/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
  <span class="date">1557</span> <span class="name">Steven</span> <a href="../cite/Steven/1557/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 12</span></a>;
- <span class="date">1559</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1559/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1559</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1559/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Steven</span> <a href="../cite/Steven/1559/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1561</span> <span class="name">Stphan</span> <a href="../cite/Stphan/1561/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 111</span></a>;
  <span class="date">1562</span> <span class="name">Steven</span> <a href="../cite/Steven/1562/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
  <span class="date">1565</span> <span class="name">Steven</span> <a href="../cite/Steven/1565/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>;
  <span class="date">1566</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1566/Redruth-Co"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
  <span class="date">1569</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1569/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>;
- <span class="date">1571</span> <span class="name">Steven</span> <a href="../cite/Steven/1571/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="date">1571</span> <span class="name">Stephen</span> (<span class="case">nom</span>) <a href="../cite/Stephen/1571/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Steven</span> <a href="../cite/Steven/1571/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 21</span></a>,
  <span class="name">Stevin</span> <a href="../cite/Stevin/1571/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 39</span></a>;
  <span class="date">1572</span> <span class="name">Steven</span> <a href="../cite/Steven/1572/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>;
  <span class="date">1573</span> <span class="name">Steven</span> <a href="../cite/Steven/1573/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
@@ -135,6 +150,7 @@
  <span class="date">1578</span> <span class="name">Steven</span> <a href="../cite/Steven/1578/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 96</span></a>,
  <a href="../cite/Steven/1578/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 26</span></a>;
  <span class="date">1579</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1579/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 63</span></a>,
+ <a href="../cite/Stephen/1579/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 71</span></a>,
  <span class="name">Steven</span> <a href="../cite/Steven/1579/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 27</span></a>;
  <span class="date">1580</span> <span class="name">Steven</span> <a href="../cite/Steven/1580/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
  <span class="date">1581</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1581/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 6</span></a>;
@@ -147,16 +163,19 @@
  <a href="../cite/Steven/1587/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>;
  <span class="date">1588</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1588/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 31</span></a>,
  <a href="../cite/Stephen/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 16</span></a>;
- <span class="date">1589</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1589/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1589</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1589/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 123</span></a>,
+ <a href="../cite/Stephen/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 20</span></a>;
  <span class="date">1589/90</span> <span class="name">Stephen</span> <a href="http://127.0.0.1:5000/cite/Stephen/1589/90/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 3</span></a>;
  <span class="date">1589</span> <span class="name">Steven</span> <a href="../cite/Steven/1589/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 57</span></a>;
  <span class="date">1590</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1590/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 4</span></a>;
  <span class="date">1592</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1592/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Stephen/1592/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>,
  <span class="name">Steven</span> <a href="../cite/Steven/1592/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 96</span></a>,
  <span class="name">Stevine</span> <a href="../cite/Stevine/1592/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 52</span></a>;
  <span class="date">1594</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 29</span></a>,
  <span class="name">Steven</span> <a href="../cite/Steven/1594/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 16</span></a>;
- <span class="date">1595</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1595</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1595/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 102</span></a>,
+ <a href="../cite/Stephen/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 32</span></a>;
  <span class="date">1596</span> <span class="name">Steven</span> <a href="../cite/Steven/1596/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 118</span></a>;
  <span class="date">1597/8</span> <span class="name">Stephen</span> <a href="http://127.0.0.1:5000/cite/Stephen/1597/8/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 17</span></a>;
  <span class="date">1597</span> <span class="name">Stephen</span> <a href="../cite/Stephen/1597/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 9</span></a>;
@@ -175,6 +194,20 @@
 <dt><span class="lang">Middle Low German</span></dt>
 <dd><span class="dim">●</span> <span class="date">1387</span> <span class="name">Sthepphan</span> <a href="../cite/Sthepphan/1387/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 339</span></a>;
  <span class="date">1592</span> <span class="name">Steffen</span> <a href="../cite/Steffen/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 286</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1524x1532</span> <span class="name">tehena</span> (<span class="case">gen</span>) <a href="../cite/tehena/1524x1532/Saareste1923b"><span class="bib_key">Saareste1923b</span> <span class="bib_loc">p. 138</span></a>;
+ <span class="date">1532</span> <span class="name">Steffan</span> (<span class="case">nom</span>) <a href="../cite/Steffan/1532/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 151</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1576</span> <span class="name">Steffan</span> (<span class="case">nom</span>) <a href="../cite/Steffan/1576/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 275</span></a>;
+ <span class="date">1577</span> <span class="name">Steffan</span> (<span class="case">nom</span>) <a href="../cite/Steffan/1577/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 275</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Staffan</span> (<span class="case">nom</span>) <a href="../cite/Staffan/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 169</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1582</span> <span class="name">Teppana</span> (<span class="case">nom</span>) <a href="../cite/Teppana/1582/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 172</span></a>,
+ <span class="name">Teppå</span> (<span class="case">nom</span>) <a href="../cite/Teppå/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 172</span></a></dd>
 </dl>
 </dd>
 <dt><span class="area">France</span></dt>
@@ -182,6 +215,9 @@
 <dl>
 <dt><span class="lang">Latin</span></dt>
 <dd><span class="dim">●</span> <span class="date">941x86</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/941x86/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 92</span></a>;
+ <span class="date">989</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/989/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">105</span></a>;
+ <span class="date">c1000</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/c1000/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>,
+ <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/c1000/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>;
  <span class="date">1044</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1044/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">659</span></a>;
  <span class="date">c1050</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/c1050/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">696</span></a>;
  <span class="date">1055</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1055/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">739</span></a>;
@@ -218,7 +254,8 @@
  <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
  <span class="date">1147x62</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1147x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">52</span></a>;
  <span class="date">1148</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1148/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXIV</span></a>;
- <span class="date">c1150</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/c1150/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXIII</span></a>;
+ <span class="date">c1150</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/c1150/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXIII</span></a>,
+ <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/c1150/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">200</span></a>;
  <span class="date">1151</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1151/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">23</span></a>,
  <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1151/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>;
  <span class="date">1162</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>;
@@ -227,9 +264,15 @@
  <span class="date">1164</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1164/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">C</span></a>,
  <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1164/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">122</span></a>;
  <span class="date">1167</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1167/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCII</span></a>;
- <span class="date">1193</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1193/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXLIX</span></a>;
+ <span class="date">1173</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1173/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">151</span></a>;
+ <span class="date">1177</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1177/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">165</span></a>;
+ <span class="date">1178</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1178/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">168</span></a>;
+ <span class="date">1179</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1193</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1193/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXLIX</span></a>;
  <span class="date">1197</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1197/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXL</span></a>;
- <span class="date">1203</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1203/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXV</span></a>,
+ <span class="date">c1200</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/c1200/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">201</span></a>;
+ <span class="date">1203</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1203/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXV</span></a>,
  <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1203/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXV</span></a>;
  <span class="date">1204</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1204/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVII</span></a>;
  <span class="date">1212</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1212/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVIII</span></a>;
@@ -264,7 +307,7 @@
 <dt><span class="lang">Old French</span></dt>
 <dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Estienne</span> <a href="../cite/Estienne/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 2</span></a>;
  <span class="date">1313</span> <span class="name">Estienne</span> <a href="../cite/Estienne/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 1</span></a>;
- <span class="date">1327</span> <span class="name">Etienne</span> <a href="../cite/Etienne/1327/lecoy"><span class="bib_key">lecoy</span> <span class="bib_loc">p. 191</span></a></dd>
+ <span class="date">1327</span> <span class="name">Etienne</span> <a href="../cite/Etienne/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 191</span></a></dd>
 <dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Estevenot</span> <a href="../cite/Estevenot/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 43</span></a>;
  <span class="date">1313</span> <span class="name">Estevenot</span> <a href="../cite/Estevenot/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 97</span></a>,
  <span class="name">Tevenin</span> <a href="../cite/Tevenin/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>,
@@ -301,6 +344,7 @@
  <span class="date">1173</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1173/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">99</span></a>;
  <span class="date">1174</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1174/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>;
  <span class="date">1189</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1189/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">82</span></a>;
+ <span class="date">1208</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1208/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">124</span></a>;
  <span class="date">1216</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1216/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">25</span></a>;
  <span class="date">1221</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">61</span></a>;
  <span class="date">1401</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 399</span></a>,
@@ -311,6 +355,15 @@
  <span class="date">1497</span> <span class="name">Steffan</span> <a href="../cite/Steffan/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">p. 1</span></a>,
  <span class="name">Steffann</span> <a href="../cite/Steffann/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
  <span class="name">Steffen</span> <a href="../cite/Steffen/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">2695</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Stefhanus</span> (<span class="case">nom</span>) <a href="../cite/Stefhanus/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 22</span></a>,
+ <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 9</span></a>,
+ <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 8</span></a></dd>
 </dl>
 </dd>
 <dt><span class="area">Italy</span></dt>
@@ -327,6 +380,8 @@
  <span class="date">1348</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">2</span></a>,
  <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1348/INP"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>,
  <span class="name">Stephanum</span> (<span class="case">acc</span>) <a href="../cite/Stephanum/1348/INP"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1376</span> <span class="name">Staffano</span> (<span class="case">abl</span>) <a href="../cite/Staffano/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 101</span></a>,
+ <span class="name">Steffano</span> (<span class="case">abl</span>) <a href="../cite/Steffano/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
  <span class="date">1522x1532</span> <span class="name">Stefanus</span> (<span class="case">nom</span>) <a href="../cite/Stefanus/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 56, 8</span></a>;
  <span class="date">1527</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 86</span></a>,
  <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83</span></a></dd>
@@ -351,12 +406,23 @@
 <dd><span class="dim">●</span> <span class="date">1228</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1228/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">p. 81</span></a></dd>
 </dl>
 </dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1211</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1211/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 6</span></a>;
+ <span class="date">1217</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1217/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 21</span></a>;
+ <span class="date">1256</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1256/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17</span></a>;
+ <span class="date">1269</span> <span class="name">Stephano</span> (<span class="case">abl</span>) <a href="../cite/Stephano/1269/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11</span></a></dd>
+</dl>
+</dd>
 <dt><span class="area">Spain</span></dt>
 <dd>
 <dl>
 <dt><span class="lang">Latin</span></dt>
 <dd><span class="dim">●</span> <span class="date">1487</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1487/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 11</span></a>;
- <span class="date">1488</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1488/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a></dd>
+ <span class="date">1488</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1488/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1491</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1491/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57</span></a></dd>
 <dt><span class="lang">Catalan</span></dt>
 <dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Steve</span> <a href="../cite/Steve/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3305</span></a>,
  <span class="name">Stheve</span> <a href="../cite/Stheve/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">86</span></a></dd>
@@ -368,7 +434,8 @@
 <dd>
 <dl>
 <dt><span class="lang">Latin</span></dt>
-<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1948</span></a></dd>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Staffen</span> (<span class="case">gen</span>) <a href="../cite/Staffen/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6014</span></a>;
+ <span class="date">1383</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1948</span></a></dd>
 <dt><span class="lang">Old Swedish</span></dt>
 <dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Staffan</span> <a href="../cite/Staffan/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1900</span></a>,
  <span class="name">Staffans</span> (<span class="case">gen</span>) <a href="../cite/Staffans/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1905</span></a></dd>
@@ -378,7 +445,18 @@
 <dd>
 <dl>
 <dt><span class="lang">Latin</span></dt>
-<dd><span class="dim">●</span> <span class="date">14thCx1478</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(210)</span></a></dd>
+<dd><span class="dim">●</span> <span class="date">1165</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1165/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1186</span> <span class="name">Stephani</span> (<span class="case">gen</span>) <a href="../cite/Stephani/1186/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">27</span></a>;
+ <span class="date">1188</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1188/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1220</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/1220/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">14thCx1478</span> <span class="name">Stephanus</span> (<span class="case">nom</span>) <a href="../cite/Stephanus/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(210)</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1479</span> <span class="name">Stepan</span> (<span class="case">nom</span>) <a href="../cite/Stepan/1479/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">CVIII-1310</span></a></dd>
 </dl>
 </dd>
 </dl>

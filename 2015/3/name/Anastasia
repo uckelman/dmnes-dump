@@ -65,12 +65,15 @@
 <dd>
 <dl>
 <dt><span class="lang">Latin</span></dt>
-<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Anastasia</span> (<span class="case">nom</span>) <a href="../cite/Anastasia/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 109</span></a></dd>
-<dt><span class="lang">English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Anastasia</span> (<span class="case">nom</span>) <a href="../cite/Anastasia/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1435</span> <span class="name">Anastasiæ</span> (<span class="case">dat</span>) <a href="../cite/Anastasiæ/1435/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LVII</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
 <dd><span class="dim">●</span> <span class="date">1547</span> <span class="name">Anstes</span> <a href="../cite/Anstes/1547/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>;
  <span class="date">1551</span> <span class="name">Anstes</span> <a href="../cite/Anstes/1551/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
- <span class="date">1555</span> <span class="name">Anstes</span> <a href="../cite/Anstes/1555/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
- <span class="date">1560</span> <span class="name">Anstayce</span> <a href="../cite/Anstayce/1560/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1555/6</span> <span class="name">Anastasia</span> <a href="http://127.0.0.1:5000/cite/Anastasia/1555/6/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2b</span></a>;
+ <span class="date">1555</span> <span class="name">Anstes</span> <a href="../cite/Anstes/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1558</span> <span class="name">Anastice</span> <a href="../cite/Anastice/1558/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 110</span></a>;
+ <span class="date">1560</span> <span class="name">Anstayce</span> <a href="../cite/Anstayce/1560/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>;
  <span class="date">1564</span> <span class="name">Anstice</span> <a href="../cite/Anstice/1564/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>;
  <span class="date">1573</span> <span class="name">Anastace</span> <a href="../cite/Anastace/1573/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 41</span></a>,
  <span class="name">Anstace</span> <a href="../cite/Anstace/1573/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 82</span></a>;
@@ -99,11 +102,26 @@
  <span class="date">1599</span> <span class="name">Anstice</span> <a href="../cite/Anstice/1599/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a></dd>
 </dl>
 </dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1287</span> <span class="name">Anastasia</span> (<span class="case">nom</span>) <a href="../cite/Anastasia/1287/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">LXVII</span></a></dd>
+</dl>
+</dd>
 <dt><span class="area">Italy</span></dt>
 <dd>
 <dl>
 <dt><span class="lang">Latin</span></dt>
 <dd><span class="dim">●</span> <span class="date">1527</span> <span class="name">Anastasia</span> (<span class="case">nom</span>) <a href="../cite/Anastasia/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 87</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1480</span> <span class="name">Anastasiam</span> (<span class="case">acc</span>) <a href="../cite/Anastasiam/1480/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">CIX-1313</span></a>,
+ <span class="name">Anastasie</span> (<span class="case">dat</span>) <a href="../cite/Anastasie/1480/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">CIX-1313</span></a></dd>
 </dl>
 </dd>
 </dl>

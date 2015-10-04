@@ -60,7 +60,9 @@
 <dt><span class="area">England</span></dt>
 <dd>
 <dl>
-<dt><span class="lang">English</span></dt>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1567</span> <span class="name">Brigitta</span> (<span class="case">nom</span>) <a href="../cite/Brigitta/1567/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 11</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
 <dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Brigyt</span> <a href="../cite/Brigyt/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 21</span></a>;
  <span class="date">1553</span> <span class="name">Bregyte</span> <a href="../cite/Bregyte/1553/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 8</span></a>,
  <span class="name">Briget</span> <a href="../cite/Briget/1553/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 10</span></a>;
@@ -70,6 +72,7 @@
  <span class="date">1558</span> <span class="name">Brigett</span> <a href="../cite/Brigett/1558/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 6</span></a>;
  <span class="date">1560/1</span> <span class="name">Brigett</span> <a href="http://127.0.0.1:5000/cite/Brigett/1560/1/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
  <span class="date">1562</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1562/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1568</span> <span class="name">Bridgett</span> <a href="../cite/Bridgett/1568/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2b</span></a>;
  <span class="date">1570</span> <span class="name">Brigett</span> <a href="../cite/Brigett/1570/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>;
  <span class="date">1571</span> <span class="name">Brigitta</span> <a href="../cite/Brigitta/1571/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>;
  <span class="date">1573/4</span> <span class="name">Bridgett</span> <a href="http://127.0.0.1:5000/cite/Bridgett/1573/4/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>;
@@ -107,6 +110,20 @@
  <span class="date">1598</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 39</span></a></dd>
 </dl>
 </dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1550</span> <span class="name">Byrgytte</span> (<span class="case">nom</span>) <a href="../cite/Byrgytte/1550/Kalakaupmees"><span class="bib_key">Kalakaupmees</span> <span class="bib_loc">p. 257</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Biritta</span> <a href="../cite/Biritta/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 168</span></a></dd>
+</dl>
+</dd>
 <dt><span class="area">Germany</span></dt>
 <dd>
 <dl>
@@ -125,9 +142,9 @@
 <dd>
 <dl>
 <dt><span class="lang">Middle Low German</span></dt>
-<dd><span class="dim">●</span> <span class="date">1463</span> <span class="name">Biritte</span> <a href="../cite/Biritte/1463/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 7</span></a></dd>
-<dd><span class="dim">◑</span> <span class="date">1461</span> <span class="name">Berrite</span> <a href="../cite/Berrite/1461/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 5</span></a>;
- <span class="date">1507</span> <span class="name">Britte</span> <a href="../cite/Britte/1507/Mettig1892"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a></dd>
+<dd><span class="dim">●</span> <span class="date">1461</span> <span class="name">Berrite</span> <a href="../cite/Berrite/1461/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1463</span> <span class="name">Biritte</span> <a href="../cite/Biritte/1463/Mettig1892"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1507</span> <span class="name">Britte</span> <a href="../cite/Britte/1507/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 5</span></a></dd>
 </dl>
 </dd>
 <dt><span class="area">Spain</span></dt>
@@ -138,6 +155,22 @@
  <span class="date">1488</span> <span class="name">Brigida</span> (<span class="case">nom</span>) <a href="../cite/Brigida/1488/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a></dd>
 <dt><span class="lang">Catalan</span></dt>
 <dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Brigida</span> <a href="../cite/Brigida/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3412</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Birghitte</span> (<span class="case">dat</span>) <a href="../cite/Birghitte/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6024</span></a>,
+ <span class="name">Birgitte</span> (<span class="case">dat</span>) <a href="../cite/Birgitte/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6037</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1469</span> <span class="name">Brigida</span> (<span class="case">abl</span>) <a href="../cite/Brigida/1469/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">12</span></a>,
+ <span class="name">Brigidam</span> (<span class="case">acc</span>) <a href="../cite/Brigidam/1469/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a></dd>
 </dl>
 </dd>
 </dl>

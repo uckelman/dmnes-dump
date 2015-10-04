@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Milo</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Milo</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A hypocoristic of any of various names beginning with <span class="lang">Proto-Germanic</span> *<i>mildijaz</i> 'mild; good, generous'.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>Often confused with <a class="nym" href="Miles">Miles</a>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 159</span></a>;
+ <span class="date">1279–80</span> <span class="name">Milonis</span> (<span class="case">gen</span>) <a href="../cite/Milonis/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 69</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">695</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/695/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">Add. VII</span></a>,
+ <span class="name">Milonis</span> (<span class="case">gen</span>) <a href="../cite/Milonis/695/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">Add. VII</span></a>;
+ <span class="date">1012</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1012/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">104</span></a>,
+ <span class="name">Miloni</span> (<span class="case">gen</span>) <a href="../cite/Miloni/1012/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">104</span></a>;
+ <span class="date">1107</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1107/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XVII</span></a>,
+ <span class="name">Miloni</span> (<span class="case">dat</span>) <a href="../cite/Miloni/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1135</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Milone</span> (<span class="case">abl</span>) <a href="../cite/Milone/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">58</span></a>,
+ <span class="name">Milone</span> (<span class="case">abl</span>) <a href="../cite/Milone/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">86</span></a>,
+ <span class="name">Milonis</span> (<span class="case">gen</span>) <a href="../cite/Milonis/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">74</span></a>;
+ <span class="date">1147</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Milone</span> (<span class="case">abl</span>) <a href="../cite/Milone/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Milonis</span> (<span class="case">gen</span>) <a href="../cite/Milonis/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1147x1158</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1147x1158/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">53</span></a>;
+ <span class="date">1158x1170</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1158x1170/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">138</span></a>;
+ <span class="date">1162</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">39</span></a>;
+ <span class="date">1162x1165</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1162x1165/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">127</span></a>;
+ <span class="date">a1163</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/a1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">96</span></a>;
+ <span class="date">1163</span> <span class="name">Milonis</span> (<span class="case">gen</span>) <a href="../cite/Milonis/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1163–64</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1164</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Milonis</span> (<span class="case">gen</span>) <a href="../cite/Milonis/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1171</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">140</span></a>;
+ <span class="date">1172</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1172/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">149</span></a>;
+ <span class="date">1173</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">157</span></a>;
+ <span class="date">1174</span> <span class="name">Milonis</span> (<span class="case">gen</span>) <a href="../cite/Milonis/1174/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">160</span></a>;
+ <span class="date">1179</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Milone</span> (<span class="case">abl</span>) <a href="../cite/Milone/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Milonis</span> (<span class="case">gen</span>) <a href="../cite/Milonis/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1205</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1205/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXV</span></a>,
+ <span class="name">Milonis</span> (<span class="case">gen</span>) <a href="../cite/Milonis/1205/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXV</span></a>;
+ <span class="date">1209</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1209/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XCV</span></a>;
+ <span class="date">1214</span> <span class="name">Milonis</span> (<span class="case">gen</span>) <a href="../cite/Milonis/1214/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXLI</span></a>;
+ <span class="date">1219</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1219/CartAub"><span class="bib_key">CartAub</span></a>;
+ <span class="date">1301</span> <span class="name">Milo</span> (<span class="case">nom</span>) <a href="../cite/Milo/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 218</span></a>,
+ <span class="name">Milonis</span> (<span class="case">gen</span>) <a href="../cite/Milonis/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 210</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">Milon</span> (<span class="case">obl</span>) <a href="../cite/Milon/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 238</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Milon</span> (<span class="case">abl</span>) <a href="../cite/Milon/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§33</span></a>;
+ <span class="date">1064</span> <span class="name">Miloni</span> (<span class="case">dat</span>) <a href="../cite/Miloni/1064/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">92</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, S.L. Uckelman. "Milo". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 3. http://dmnes.org/2015/3/name/Milo.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

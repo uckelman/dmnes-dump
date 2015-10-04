@@ -3,7 +3,7 @@
 <head>
 
   <meta charset="utf-8">
-  <title>Missing — Dictionary of Medieval Names from European Sources</title>
+  <title>Garet</title>
   <link rel="icon" type="image/png" href="../static/images/favicon.png" />
   <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
   <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
@@ -40,8 +40,42 @@
   </header>
   
   
-<h1>Missing Entry</h1>
-<p>The entry you seek, "Garet", does not exist yet.</p>
+<p>
+  <span class="nym">Garet</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A late development from both <a class="nym" href="Gerald">Gerald</a> and <a class="nym" href="Gerard">Gerard</a>.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>Without a liquid in the second syllable, it is in general impossible to tell which the root name is.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1545</span> <span class="name">Jarat</span> <a href="../cite/Jarat/1545/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXIV</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1490</span> <span class="name">Garret</span> (<span class="case">nom</span>) <a href="../cite/Garret/1490/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 42</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Garet". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 3. http://dmnes.org/2015/3/name/Garet.</cite></div>
+
 
   
   <footer>

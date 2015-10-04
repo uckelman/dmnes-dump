@@ -53,13 +53,26 @@
 
 
 <dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Egidie</span> (<span class="case">gen</span>) <a href="../cite/Egidie/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 93a</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1377</span> <span class="name">Giliota</span> (<span class="case">nom</span>) <a href="../cite/Giliota/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 5</span></a></dd>
+</dl>
+</dd>
 <dt><span class="area">France</span></dt>
 <dd>
 <dl>
 <dt><span class="lang">Latin</span></dt>
 <dd><span class="dim">●</span> <span class="date">1135</span> <span class="name">Gilia</span> (<span class="case">abl</span>) <a href="../cite/Gilia/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
- <span class="date">1147</span> <span class="name">Gilia</span> (<span class="case">abl</span>) <a href="../cite/Gilia/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1147</span> <span class="name">Gilia</span> (<span class="case">abl</span>) <a href="../cite/Gilia/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Gilla</span> (<span class="case">abl</span>) <a href="../cite/Gilla/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>;
  <span class="date">1147x62</span> <span class="name">Gilia</span> (<span class="case">nom</span>) <a href="../cite/Gilia/1147x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">53</span></a>;
+ <span class="date">1166</span> <span class="name">Gila</span> (<span class="case">nom</span>) <a href="../cite/Gila/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>,
+ <span class="name">Gile</span> (<span class="case">gen</span>) <a href="../cite/Gile/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>;
+ <span class="date">1179</span> <span class="name">Gelia</span> (<span class="case">abl</span>) <a href="../cite/Gelia/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>,
+ <span class="name">Gila</span> (<span class="case">abl</span>) <a href="../cite/Gila/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">178</span></a>;
  <span class="date">1301</span> <span class="name">Egidia</span> (<span class="case">nom</span>) <a href="../cite/Egidia/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 257</span></a></dd>
 <dd><span class="dim">◑</span> <span class="date">1301</span> <span class="name">Goillete</span> (<span class="case">gen</span>) <a href="../cite/Goillete/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 198</span></a></dd>
 <dt><span class="lang">Old French</span></dt>
@@ -73,7 +86,17 @@
 <dd>
 <dl>
 <dt><span class="lang">Latin</span></dt>
-<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Zillia</span> (<span class="case">nom</span>) <a href="../cite/Zillia/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">28</span></a></dd>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Zillia</span> (<span class="case">nom</span>) <a href="../cite/Zillia/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1285</span> <span class="name">Egidie</span> (<span class="case">gen</span>) <a href="../cite/Egidie/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 156</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Gelis</span> <a href="../cite/Gelis/1543/PGB"><span class="bib_key">PGB</span></a>;
+ <span class="date">1592</span> <span class="name">Gelis</span> <a href="../cite/Gelis/1592/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1594</span> <span class="name">Gelis</span> <a href="../cite/Gelis/1594/PGB"><span class="bib_key">ibid.</span></a></dd>
 </dl>
 </dd>
 </dl>

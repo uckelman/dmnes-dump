@@ -60,7 +60,11 @@
 <dt><span class="area">England</span></dt>
 <dd>
 <dl>
-<dt><span class="lang">English</span></dt>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1559/60</span> <span class="name">Grace</span> (<span class="case">nom</span>) <a href="http://127.0.0.1:5000/cite/Grace/1559/60/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1560</span> <span class="name">Gracia</span> (<span class="case">nom</span>) <a href="../cite/Gracia/1560/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1561</span> <span class="name">Grace</span> (<span class="case">nom</span>) <a href="../cite/Grace/1561/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
 <dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Grace</span> <a href="../cite/Grace/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 3</span></a>;
  <span class="date">1542</span> <span class="name">Grace</span> <a href="../cite/Grace/1542/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>;
  <span class="date">1543</span> <span class="name">Grace</span> <a href="../cite/Grace/1543/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 4</span></a>;
@@ -120,9 +124,18 @@
 <dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Gracia</span> (<span class="case">nom</span>) <a href="../cite/Gracia/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">42</span></a></dd>
 </dl>
 </dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1217</span> <span class="name">Gratiæ</span> (<span class="case">gen</span>) <a href="../cite/Gratiæ/1217/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 21</span></a></dd>
+</dl>
+</dd>
 <dt><span class="area">Spain</span></dt>
 <dd>
 <dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1492</span> <span class="name">Gratia</span> (<span class="case">nom</span>) <a href="../cite/Gratia/1492/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 66</span></a></dd>
 <dt><span class="lang">Catalan</span></dt>
 <dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Gracia</span> <a href="../cite/Gracia/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3428</span></a></dd>
 <dt><span class="lang">Spanish</span></dt>
