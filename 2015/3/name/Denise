@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Denise</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Denise</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Fem. of <a class="nym" href="Dennis">Dennis</a>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of two early saints.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1381</span> <span class="name">Denise</span> (<span class="case">nom</span>) <a href="../cite/Denise/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 104</span></a>,
+ <span class="name">Denisia</span> (<span class="case">nom</span>) <a href="../cite/Denisia/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 96</span></a>,
+ <span class="name">Dennis</span> (<span class="case">nom</span>) <a href="../cite/Dennis/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 113</span></a>,
+ <span class="name">Deonicia</span> (<span class="case">nom</span>) <a href="../cite/Deonicia/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>,
+ <span class="name">Deonisia</span> (<span class="case">abl</span>) <a href="../cite/Deonisia/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 92</span></a>,
+ <span class="name">Dionis</span> (<span class="case">nom</span>) <a href="../cite/Dionis/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a>,
+ <span class="name">Dionisia</span> (<span class="case">abl</span>) <a href="../cite/Dionisia/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1426</span> <span class="name">Denys</span> <a href="../cite/Denys/1426/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 74</span></a></dd>
+<dt><span class="lang">English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1503</span> <span class="name">Denys</span> <a href="../cite/Denys/1503/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1530</span> <span class="name">Dianes</span> <a href="../cite/Dianes/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1541</span> <span class="name">Dennys</span> <a href="../cite/Dennys/1541/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1560</span> <span class="name">Denys</span> <a href="../cite/Denys/1560/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1562</span> <span class="name">Dionise</span> <a href="../cite/Dionise/1562/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1564</span> <span class="name">Denis</span> <a href="../cite/Denis/1564/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1570</span> <span class="name">Dennis</span> <a href="../cite/Dennis/1570/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1573</span> <span class="name">Denis</span> <a href="../cite/Denis/1573/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1574</span> <span class="name">Denis</span> <a href="../cite/Denis/1574/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1576</span> <span class="name">Dennis</span> <a href="../cite/Dennis/1576/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1578</span> <span class="name">Dinnis</span> <a href="../cite/Dinnis/1578/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1579</span> <span class="name">Dennes</span> <a href="../cite/Dennes/1579/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 84</span></a>;
+ <span class="date">1585</span> <span class="name">Denys</span> <a href="../cite/Denys/1585/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1586</span> <span class="name">Denis</span> <a href="../cite/Denis/1586/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1587</span> <span class="name">Denis</span> <a href="../cite/Denis/1587/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Dinnis</span> <a href="../cite/Dinnis/1587/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1590</span> <span class="name">Dence</span> <a href="../cite/Dence/1590/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1593</span> <span class="name">Dennis</span> <a href="../cite/Dennis/1593/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1594</span> <span class="name">Denys</span> <a href="../cite/Denys/1594/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Dionis</span> <a href="../cite/Dionis/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 30</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Denise</span> <a href="../cite/Denise/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1313</span> <span class="name">Denise</span> <a href="../cite/Denise/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Denyse</span> <a href="../cite/Denyse/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1421</span> <span class="name">Denise</span> <a href="../cite/Denise/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1157</span></a>;
+ <span class="date">1438</span> <span class="name">Denise</span> <a href="../cite/Denise/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">211</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Denisette</span> <a href="../cite/Denisette/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">263</span></a>;
+ <span class="date">1423</span> <span class="name">Denisete</span> <a href="../cite/Denisete/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">194</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Dionisa</span> <a href="../cite/Dionisa/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3407</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Denise". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 3. http://dmnes.org/2015/3/name/Denise.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

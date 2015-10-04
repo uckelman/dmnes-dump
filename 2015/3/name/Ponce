@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Ponce</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Ponce</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Pontius</i>, the name of a Roman <i>gens</i>, used by the Samnites, an Italic tribe.  The <i>gens</i> name may derive from the region <i>Pontus</i> on the shores of the Black Sea.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a Roman prefect of Judea who presided over the trial of Jesus, a 3rd C Carthaginian saint, and a 12th C Spanish saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name was quite common in France throughout the Early Middle Ages.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1352</span> <span class="name">Poncio</span> (<span class="case">abl</span>) <a href="../cite/Poncio/1352/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 12</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c11thC</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/c11thC/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 91</span></a>;
+ <span class="date">11thC</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/11thC/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">677</span></a>,
+ <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/11thC/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">710</span></a>;
+ <span class="date">1018x1032</span> <span class="name">Poncii</span> (<span class="case">gen</span>) <a href="../cite/Poncii/1018x1032/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">666</span></a>;
+ <span class="date">1030</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1030/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">682</span></a>,
+ <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1030/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">678</span></a>;
+ <span class="date">1031</span> <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1031/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">684</span></a>;
+ <span class="date">1038</span> <span class="name">Pontius</span> <a href="../cite/Pontius/1038/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">719</span></a>;
+ <span class="date">c1040</span> <span class="name">Poncio</span> (<span class="case">abl</span>) <a href="../cite/Poncio/c1040/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">671</span></a>,
+ <span class="name">Pontio</span> (<span class="case">abl</span>) <a href="../cite/Pontio/c1040/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">724</span></a>,
+ <span class="name">Pontium</span> (<span class="case">acc</span>) <a href="../cite/Pontium/c1040/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">671</span></a>,
+ <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/c1040/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">725</span></a>;
+ <span class="date">1040x1080</span> <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1040x1080/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">664</span></a>;
+ <span class="date">1044</span> <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1044/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">659</span></a>;
+ <span class="date">1046</span> <span class="name">Poncii</span> (<span class="case">gen</span>) <a href="../cite/Poncii/1046/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">123</span></a>,
+ <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1046/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">123</span></a>;
+ <span class="date">1048</span> <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1048/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">737</span></a>;
+ <span class="date">1049x1061</span> <span class="name">Pontio</span> (<span class="case">abl</span>) <a href="../cite/Pontio/1049x1061/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">661</span></a>;
+ <span class="date">c1050</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/c1050/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">672</span></a>,
+ <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/c1050/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">672</span></a>;
+ <span class="date">1055</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1055/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">739</span></a>,
+ <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1055/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">739</span></a>;
+ <span class="date">1059</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1059/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">687</span></a>;
+ <span class="date">1060</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1060/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">730</span></a>,
+ <span class="name">Pontii</span> (<span class="case">gen</span>) <a href="../cite/Pontii/1060/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">730</span></a>;
+ <span class="date">c1060</span> <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/c1060/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">662</span></a>;
+ <span class="date">1060</span> <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1060/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">730</span></a>;
+ <span class="date">1062</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1062/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">692</span></a>,
+ <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1062/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">692</span></a>;
+ <span class="date">1064x1079</span> <span class="name">Poncio</span> (<span class="case">abl</span>) <a href="../cite/Poncio/1064x1079/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">690</span></a>,
+ <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1064x1079/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">690</span></a>;
+ <span class="date">1065x1079</span> <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1065x1079/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">663</span></a>;
+ <span class="date">1066</span> <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1066/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">698</span></a>;
+ <span class="date">1069</span> <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1069/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">717</span></a>;
+ <span class="date">1073</span> <span class="name">Pontii</span> (<span class="case">gen</span>) <a href="../cite/Pontii/1073/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">679</span></a>;
+ <span class="date">1075</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1075/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">731</span></a>,
+ <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1075/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">731</span></a>;
+ <span class="date">1082x1087</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1082x1087/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 120</span></a>;
+ <span class="date">1083</span> <span class="name">Poncii</span> (<span class="case">gen</span>) <a href="../cite/Poncii/1083/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 119</span></a>;
+ <span class="date">1094</span> <span class="name">Poncii</span> (<span class="case">gen</span>) <a href="../cite/Poncii/1094/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">686</span></a>;
+ <span class="date">1122–1126</span> <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1122–1126/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1129</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1129/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">735</span></a>;
+ <span class="date">1135</span> <span class="name">Pontii</span> (<span class="case">gen</span>) <a href="../cite/Pontii/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Pontio</span> (<span class="case">abl</span>) <a href="../cite/Pontio/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Poncii</span> (<span class="case">nom</span>) <a href="../cite/Poncii/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">73</span></a>,
+ <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">66</span></a>,
+ <span class="name">Pontii</span> (<span class="case">gen</span>) <a href="../cite/Pontii/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">73</span></a>,
+ <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">66</span></a>;
+ <span class="date">1143x1146</span> <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1143x1146/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1147</span> <span class="name">Poncii</span> (<span class="case">gen</span>) <a href="../cite/Poncii/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Pontii</span> (<span class="case">gen</span>) <a href="../cite/Pontii/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Poncii</span> (<span class="case">gen</span>) <a href="../cite/Poncii/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">47</span></a>,
+ <span class="name">Pontii</span> (<span class="case">gen</span>) <a href="../cite/Pontii/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">47</span></a>;
+ <span class="date">1155</span> <span class="name">Pontii</span> (<span class="case">gen</span>) <a href="../cite/Pontii/1155/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1158</span> <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1158/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">702</span></a>;
+ <span class="date">1163</span> <span class="name">Poncii</span> (<span class="case">gen</span>) <a href="../cite/Poncii/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">95</span></a>,
+ <span class="name">Pontii</span> (<span class="case">gen</span>) <a href="../cite/Pontii/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">95</span></a>;
+ <span class="date">1258</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1258/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1259</span> <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1259/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">VII, Pentecost</span></a>;
+ <span class="date">1261</span> <span class="name">Poncii</span> (<span class="case">gen</span>) <a href="../cite/Poncii/1261/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">VI, BMV</span></a>;
+ <span class="date">1273</span> <span class="name">Poncium</span> (<span class="case">acc</span>) <a href="../cite/Poncium/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Pontii</span> (<span class="case">gen</span>) <a href="../cite/Pontii/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Pontio</span> (<span class="case">abl</span>) <a href="../cite/Pontio/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1274</span> <span class="name">Poncii</span> (<span class="case">gen</span>) <a href="../cite/Poncii/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>,
+ <span class="name">Poncio</span> (<span class="case">abl</span>) <a href="../cite/Poncio/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a>,
+ <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>,
+ <span class="name">Pontii</span> (<span class="case">gen</span>) <a href="../cite/Pontii/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>,
+ <span class="name">Pontio</span> (<span class="case">abl</span>) <a href="../cite/Pontio/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>,
+ <span class="name">Pontium</span> (<span class="case">acc</span>) <a href="../cite/Pontium/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>,
+ <span class="name">Pontius</span> (<span class="case">nom</span>) <a href="../cite/Pontius/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1275</span> <span class="name">Pontio</span> (<span class="case">abl</span>) <a href="../cite/Pontio/1275/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1378</span> <span class="name">Poncio</span> (<span class="case">abl</span>) <a href="../cite/Poncio/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">32</span></a>,
+ <span class="name">Poncius</span> (<span class="case">nom</span>) <a href="../cite/Poncius/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Poince</span> <a href="../cite/Poince/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 76</span></a>,
+ <span class="name">Ponche</span> <a href="../cite/Ponche/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Poincet</span> <a href="../cite/Poincet/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 102</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Poncelet</span> <a href="../cite/Poncelet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">348</span></a>,
+ <span class="name">Poncellet</span> <a href="../cite/Poncellet/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">1202</span></a>;
+ <span class="date">1438</span> <span class="name">Poncet</span> <a href="../cite/Poncet/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">446</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Ponç</span> <a href="../cite/Ponç/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">2899</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">14thCx1478</span> <span class="name">Poncetus</span> (<span class="case">nom</span>) <a href="../cite/Poncetus/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(29)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Ponce". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 3. http://dmnes.org/2015/3/name/Ponce.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

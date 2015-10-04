@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Herbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Herbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>here</i>, <span class="lang">Old High German</span> <i>heri</i> 'host, army' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a number of early French and English saints.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 83</span></a>,
+ <span class="name">Herebertus</span> (<span class="case">nom</span>) <a href="../cite/Herebertus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1302</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1302/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1347</span> <span class="name">Herberti</span> (<span class="case">gen</span>) <a href="../cite/Herberti/1347/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 6</span></a>,
+ <span class="name">Herberto</span> (<span class="case">abl</span>) <a href="../cite/Herberto/1347/SocAntNor-3-3"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1426</span> <span class="name">Herbert</span> <a href="../cite/Herbert/1426/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1442</span> <span class="name">Herbert</span> <a href="../cite/Herbert/1442/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 365</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">693</span> <span class="name">Heriberti</span> (<span class="case">gen</span>) <a href="../cite/Heriberti/693/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">Add. V</span></a>;
+ <span class="date">696</span> <span class="name">Heriberti</span> (<span class="case">gen</span>) <a href="../cite/Heriberti/696/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">Add. VIII</span></a>,
+ <span class="name">Heribertus</span> (<span class="case">nom</span>) <a href="../cite/Heribertus/696/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">Add. VIII</span></a>;
+ <span class="date">c823</span> <span class="name">Hairbertus</span> (<span class="case">nom</span>) <a href="../cite/Hairbertus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">14, Gaugiacum</span></a>;
+ <span class="date">1029x1033</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1030</span> <span class="name">Aribertus</span> (<span class="case">nom</span>) <a href="../cite/Aribertus/1030/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">678</span></a>;
+ <span class="date">c1035</span> <span class="name">Ariberti</span> (<span class="case">gen</span>) <a href="../cite/Ariberti/c1035/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">668</span></a>,
+ <span class="name">Heriberti</span> (<span class="case">gen</span>) <a href="../cite/Heriberti/c1035/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">669</span></a>;
+ <span class="date">1067x1074</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1067x1074/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XLI</span></a>;
+ <span class="date">1107</span> <span class="name">Herberti</span> (<span class="case">gen</span>) <a href="../cite/Herberti/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">a1108</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">a1114</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/a1114/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1121</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1121/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1135</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Hirberto</span> (<span class="case">abl</span>) <a href="../cite/Hirberto/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x48</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1138x48/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>;
+ <span class="date">1138x62</span> <span class="name">Herberti</span> (<span class="case">gen</span>) <a href="../cite/Herberti/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">67</span></a>;
+ <span class="date">1138x1148</span> <span class="name">Herbertum</span> (<span class="case">acc</span>) <a href="../cite/Herbertum/1138x1148/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">74</span></a>;
+ <span class="date">1147</span> <span class="name">Erberto</span> (<span class="case">abl</span>) <a href="../cite/Erberto/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Erbertus</span> (<span class="case">nom</span>) <a href="../cite/Erbertus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Herberti</span> (<span class="case">gen</span>) <a href="../cite/Herberti/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Hirbertus</span> (<span class="case">nom</span>) <a href="../cite/Hirbertus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1147x62</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1147x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1153</span> <span class="name">Aribertus</span> (<span class="case">nom</span>) <a href="../cite/Aribertus/1153/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">c1156</span> <span class="name">Heberti</span> (<span class="case">gen</span>) <a href="../cite/Heberti/c1156/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1157</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1157/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1163</span> <span class="name">Herberti</span> (<span class="case">gen</span>) <a href="../cite/Herberti/1163/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCVI</span></a>,
+ <a href="../cite/Herberti/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1163–64</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1164</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1180</span> <span class="name">Herberto</span> (<span class="case">abl</span>) <a href="../cite/Herberto/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1301</span> <span class="name">Hebertus</span> (<span class="case">nom</span>) <a href="../cite/Hebertus/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 199</span></a>,
+ <span class="name">Herberti</span> (<span class="case">gen</span>) <a href="../cite/Herberti/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 198</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Hebert</span> <a href="../cite/Hebert/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1313</span> <span class="name">Hebert</span> <a href="../cite/Hebert/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 25</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Herbelot</span> <a href="../cite/Herbelot/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 22</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1421</span> <span class="name">Hebert</span> <a href="../cite/Hebert/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">21</span></a>;
+ <span class="date">1423</span> <span class="name">Hebert</span> <a href="../cite/Hebert/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">483</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1418</span> <span class="name">Herpin</span> <a href="../cite/Herpin/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 379</span></a>;
+ <span class="date">1423</span> <span class="name">Herbin</span> <a href="../cite/Herbin/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">57</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">963x1023</span> <span class="name">Heribert</span> (<span class="case">nom</span>) <a href="../cite/Heribert/963x1023/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§227</span></a>;
+ <span class="date">1000</span> <span class="name">Heribertus</span> (<span class="case">nom</span>) <a href="../cite/Heribertus/1000/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1001</span> <span class="name">Heribertus</span> (<span class="case">nom</span>) <a href="../cite/Heribertus/1001/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">LV</span></a>;
+ <span class="date">1100</span> <span class="name">Heribertus</span> (<span class="case">nom</span>) <a href="../cite/Heribertus/1100/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1108</span> <span class="name">Herbertus</span> (<span class="case">nom</span>) <a href="../cite/Herbertus/1108/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>,
+ <span class="name">Heriberto</span> (<span class="case">abl</span>) <a href="../cite/Heriberto/1108/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1147</span> <span class="name">Heribert</span> (<span class="case">nom</span>) <a href="../cite/Heribert/1147/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">XXVII</span></a>;
+ <span class="date">1185</span> <span class="name">Heribertus</span> (<span class="case">nom</span>) <a href="../cite/Heribertus/1185/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">37</span></a>;
+ <span class="date">1197</span> <span class="name">Heribertus</span> (<span class="case">nom</span>) <a href="../cite/Heribertus/1197/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">83</span></a>;
+ <span class="date">1222</span> <span class="name">Heribertus</span> (<span class="case">nom</span>) <a href="../cite/Heribertus/1222/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">74</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1120</span> <span class="name">Herberto</span> (<span class="case">abl</span>) <a href="../cite/Herberto/c1120/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XXXV</span></a>;
+ <span class="date">1123</span> <span class="name">Herberto</span> (<span class="case">abl</span>) <a href="../cite/Herberto/1123/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVII</span></a>;
+ <span class="date">1124</span> <span class="name">Herberto</span> (<span class="case">abl</span>) <a href="../cite/Herberto/1124/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVIII</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Herbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 3. http://dmnes.org/2015/3/name/Herbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

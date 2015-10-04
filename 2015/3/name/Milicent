@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Milicent</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Milicent</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Proto-Germanic</span> *<i>amal</i> 'vigor, bravery' + <span class="lang">Old Saxon</span> <i>swīth</i>, <span class="lang">Gothic</span> <i>swinþs</i> from <span class="lang">Proto-Germanic</span> *<i>swinþaz</i> 'strong'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 12th C queen of Jerusalem and a 13th C princess of Antioch.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1279–80</span> <span class="name">Mylicentia</span> (<span class="case">nom</span>) <a href="../cite/Mylicentia/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">Mylisenta</span> (<span class="case">nom</span>) <a href="../cite/Mylisenta/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56</span></a></dd>
+<dt><span class="lang">English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1549</span> <span class="name">Millisant</span> <a href="../cite/Millisant/1549/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1555</span> <span class="name">Millisant</span> <a href="../cite/Millisant/1555/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Millisent</span> <a href="../cite/Millisent/1555/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1562</span> <span class="name">Milsent</span> <a href="../cite/Milsent/1562/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1564</span> <span class="name">Millecentt</span> <a href="../cite/Millecentt/1564/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 34</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1107</span> <span class="name">Milesindim</span> (<span class="case">acc</span>) <a href="../cite/Milesindim/1107/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Milesende</span> (<span class="case">abl</span>) <a href="../cite/Milesende/1115x1149/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">Milesens</span> (<span class="case">obl</span>) <a href="../cite/Milesens/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 239</span></a>,
+ <span class="name">Milesent</span> (<span class="case">obl</span>) <a href="../cite/Milesent/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 239</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Milicent". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 3. http://dmnes.org/2015/3/name/Milicent.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

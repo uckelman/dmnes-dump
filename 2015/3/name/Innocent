@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Innocent</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Innocent</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>innocens</i> 'innocent, harmless; virtuous, upright'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of 9 popes, and one anti-pope, before 1600, as well as the name of various saints.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1132</span> <span class="name">Innocencius</span> (<span class="case">nom</span>) <a href="../cite/Innocencius/1132/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1141</span> <span class="name">Innocencius</span> (<span class="case">nom</span>) <a href="../cite/Innocencius/1141/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">VII</span></a>,
+ <span class="name">Innocentii</span> (<span class="case">gen</span>) <a href="../cite/Innocentii/1141/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">VII</span></a>,
+ <span class="name">Innocentius</span> (<span class="case">nom</span>) <a href="../cite/Innocentius/1141/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1245</span> <span class="name">Innocentius</span> (<span class="case">nom</span>) <a href="../cite/Innocentius/1245/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">114</span></a>;
+ <span class="date">1248</span> <span class="name">Innocentius</span> (<span class="case">nom</span>) <a href="../cite/Innocentius/1248/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">125</span></a>;
+ <span class="date">1251</span> <span class="name">Innocencius</span> (<span class="case">nom</span>) <a href="../cite/Innocencius/1251/POSDu"><span class="bib_key">POSDu</span> <span class="bib_loc">V</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Innocent</span> <a href="../cite/Innocent/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 373</span></a>;
+ <span class="date">1421</span> <span class="name">Innocent</span> <a href="../cite/Innocent/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1300</span></a>;
+ <span class="date">1423</span> <span class="name">Innocent</span> <a href="../cite/Innocent/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">247</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1142</span> <span class="name">Innocencio</span> (<span class="case">abl</span>) <a href="../cite/Innocencio/1142/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1143</span> <span class="name">Innocencius</span> (<span class="case">nom</span>) <a href="../cite/Innocencius/1143/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1198</span> <span class="name">Innocentius</span> (<span class="case">nom</span>) <a href="../cite/Innocentius/1198/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1210</span> <span class="name">Innocentius</span> (<span class="case">nom</span>) <a href="../cite/Innocentius/1210/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1248</span> <span class="name">Jnnocentius</span> (<span class="case">nom</span>) <a href="../cite/Jnnocentius/1248/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">111</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1203?</span> <span class="name">Innocencius</span> (<span class="case">nom</span>) <a href="../cite/Innocencius/1203?/POSDu"><span class="bib_key">POSDu</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1243</span> <span class="name">Innocentius</span> (<span class="case">nom</span>) <a href="../cite/Innocentius/1243/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">111</span></a>;
+ <span class="date">1244</span> <span class="name">Innocentius</span> (<span class="case">nom</span>) <a href="../cite/Innocentius/1244/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">113</span></a>;
+ <span class="date">1254</span> <span class="name">Innocentius</span> (<span class="case">nom</span>) <a href="../cite/Innocentius/1254/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">151</span></a>;
+ <span class="date">1276</span> <span class="name">Innocencii</span> (<span class="case">gen</span>) <a href="../cite/Innocencii/1276/POSDu"><span class="bib_key">POSDu</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Innocencius</span> (<span class="case">nom</span>) <a href="../cite/Innocencius/1276/POSDu"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1527</span> <span class="name">Innocentius</span> (<span class="case">nom</span>) <a href="../cite/Innocentius/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 83</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1489</span> <span class="name">Innocent</span> <a href="../cite/Innocent/1489/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 38</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Innocent". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 3. http://dmnes.org/2015/3/name/Innocent.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

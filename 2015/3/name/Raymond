@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Raymond</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Raymond</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Proto-Germanic</span> <i>*ragin</i> 'counsel, might' + <span class="lang">Old Saxon</span> <i>mund</i>, <span class="lang">Old High German</span> <i>munt</i> 'hand, protection'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 12th C prince of Antioch, a 13th C prince of Antioch, and two 13th C Catalan saints.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1029x1033</span> <span class="name">Raimundus</span> (<span class="case">nom</span>) <a href="../cite/Raimundus/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1040x1080</span> <span class="name">Raimundus</span> (<span class="case">nom</span>) <a href="../cite/Raimundus/1040x1080/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">664</span></a>;
+ <span class="date">1052</span> <span class="name">Ragmundi</span> (<span class="case">gen</span>) <a href="../cite/Ragmundi/1052/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 85</span></a>;
+ <span class="date">1065x1079</span> <span class="name">Raimundus</span> (<span class="case">nom</span>) <a href="../cite/Raimundus/1065x1079/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">663</span></a>;
+ <span class="date">1067x1086</span> <span class="name">Ragemundus</span> (<span class="case">nom</span>) <a href="../cite/Ragemundus/1067x1086/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1069</span> <span class="name">Raimundus</span> (<span class="case">nom</span>) <a href="../cite/Raimundus/1069/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">717</span></a>;
+ <span class="date">1094</span> <span class="name">Raimundi</span> (<span class="case">gen</span>) <a href="../cite/Raimundi/1094/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">686</span></a>,
+ <span class="name">Raimundus</span> (<span class="case">nom</span>) <a href="../cite/Raimundus/1094/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">686</span></a>;
+ <span class="date">1115</span> <span class="name">Raimundus</span> (<span class="case">nom</span>) <a href="../cite/Raimundus/1115/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">734</span></a>;
+ <span class="date">1129</span> <span class="name">Raimundi</span> (<span class="case">gen</span>) <a href="../cite/Raimundi/1129/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">735</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Raimundus</span> (<span class="case">nom</span>) <a href="../cite/Raimundus/1138x1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">58</span></a>;
+ <span class="date">1147</span> <span class="name">Raimundo</span> (<span class="case">abl</span>) <a href="../cite/Raimundo/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ (<span class="case">dat</span>) <a href="../cite/Raimundo/1147/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXV</span></a>,
+ <span class="name">Raimundus</span> (<span class="case">nom</span>) <a href="../cite/Raimundus/1147/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXV</span></a>;
+ <span class="date">1148</span> <span class="name">Raimundo</span> (<span class="case">abl</span>) <a href="../cite/Raimundo/1148/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIV</span></a>;
+ <span class="date">1158</span> <span class="name">Raimundi</span> (<span class="case">gen</span>) <a href="../cite/Raimundi/1158/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">702</span></a>,
+ <span class="name">Raimundo</span> (<span class="case">abl</span>) <a href="../cite/Raimundo/1158/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">702</span></a>,
+ <span class="name">Raimundum</span> (<span class="case">acc</span>) <a href="../cite/Raimundum/1158/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">702</span></a>;
+ <span class="date">a1163</span> <span class="name">Reimundus</span> (<span class="case">nom</span>) <a href="../cite/Reimundus/a1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1164</span> <span class="name">Reimundus</span> (<span class="case">nom</span>) <a href="../cite/Reimundus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1273</span> <span class="name">Raimundi</span> (<span class="case">gen</span>) <a href="../cite/Raimundi/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Raimundo</span> (<span class="case">abl</span>) <a href="../cite/Raimundo/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Raimundum</span> (<span class="case">acc</span>) <a href="../cite/Raimundum/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Raimundus</span> (<span class="case">nom</span>) <a href="../cite/Raimundus/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Raymundum</span> (<span class="case">acc</span>) <a href="../cite/Raymundum/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Raymundus</span> (<span class="case">nom</span>) <a href="../cite/Raymundus/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1274</span> <span class="name">Raimundi</span> (<span class="case">gen</span>) <a href="../cite/Raimundi/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">Raimundo</span> (<span class="case">dat</span>) <a href="../cite/Raimundo/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a>,
+ <span class="name">Raymundi</span> (<span class="case">gen</span>) <a href="../cite/Raymundi/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 55</span></a>,
+ <span class="name">Raymundo</span> (<span class="case">abl</span>) <a href="../cite/Raymundo/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a>,
+ <span class="name">Raymundus</span> (<span class="case">nom</span>) <a href="../cite/Raymundus/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1275</span> <span class="name">Raimundi</span> (<span class="case">gen</span>) <a href="../cite/Raimundi/1275/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>,
+ <span class="name">Raimundus</span> (<span class="case">nom</span>) <a href="../cite/Raimundus/1275/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1287</span> <span class="name">Raymundus</span> (<span class="case">nom</span>) <a href="../cite/Raymundus/1287/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 74</span></a>;
+ <span class="date">1301</span> <span class="name">Raimondi</span> (<span class="case">gen</span>) <a href="../cite/Raimondi/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 210</span></a>,
+ <span class="name">Remundi</span> (<span class="case">gen</span>) <a href="../cite/Remundi/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 200</span></a>;
+ <span class="date">1310/11</span> <span class="name">Ramundus</span> (<span class="case">nom</span>) <a href="http://127.0.0.1:5000/cite/Ramundus/1310/11/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1318</span> <span class="name">Raymundi</span> (<span class="case">abl</span>) <a href="../cite/Raymundi/1318/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">700</span></a>;
+ <span class="date">1378</span> <span class="name">Raymundi</span> (<span class="case">gen</span>) <a href="../cite/Raymundi/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">890</span></a>,
+ <span class="name">Raymundus</span> (<span class="case">nom</span>) <a href="../cite/Raymundus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">890</span></a>,
+ <span class="name">Remundo</span> (<span class="case">dat</span>) <a href="../cite/Remundo/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1282</span></a>,
+ <span class="name">Reymundo</span> (<span class="case">dat</span>) <a href="../cite/Reymundo/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2287</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Remon</span> <a href="../cite/Remon/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 105</span></a>,
+ <span class="name">Remont</span> <a href="../cite/Remont/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1368</span> <span class="name">Raymon</span> <a href="../cite/Raymon/1368/beauchet-vol1"><span class="bib_key">beauchet-vol1</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Raymond</span> <a href="../cite/Raymond/1368/beauchet-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1392</span> <span class="name">Remon</span> <a href="../cite/Remon/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 605</span></a>;
+ <span class="date">1418</span> <span class="name">Raymon</span> <a href="../cite/Raymon/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 378</span></a>,
+ <span class="name">Remon</span> <a href="../cite/Remon/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 384</span></a>;
+ <span class="date">1421</span> <span class="name">Raymon</span> <a href="../cite/Raymon/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1273</span></a>,
+ <span class="name">Remon</span> <a href="../cite/Remon/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">929</span></a>;
+ <span class="date">1423</span> <span class="name">Raymon</span> <a href="../cite/Raymon/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">236</span></a>;
+ <span class="date">1438</span> <span class="name">Remon</span> <a href="../cite/Remon/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">236</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1423</span> <span class="name">Raymondin</span> <a href="../cite/Raymondin/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">497</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Raymondi</span> (<span class="case">gen</span>) <a href="../cite/Raymondi/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">19</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1487</span> <span class="name">Raimundum</span> (<span class="case">acc</span>) <a href="../cite/Raimundum/1487/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1488</span> <span class="name">Raimundi</span> (<span class="case">gen</span>) <a href="../cite/Raimundi/1488/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Raimundus</span> (<span class="case">nom</span>) <a href="../cite/Raimundus/1488/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>,
+ <span class="name">Ramon</span> (<span class="case">nom</span>) <a href="../cite/Ramon/1488/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1489</span> <span class="name">Raimundi</span> (<span class="case">gen</span>) <a href="../cite/Raimundi/1489/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Raimundum</span> (<span class="case">acc</span>) <a href="../cite/Raimundum/1489/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1490</span> <span class="name">Raimundi</span> (<span class="case">gen</span>) <a href="../cite/Raimundi/1490/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Ramon</span> <a href="../cite/Ramon/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3184</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1345</span> <span class="name">Raymondi</span> (<span class="case">gen</span>) <a href="../cite/Raymondi/1345/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(253)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Raymond". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 3. http://dmnes.org/2015/3/name/Raymond.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

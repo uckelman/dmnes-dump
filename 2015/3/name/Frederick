@@ -1,0 +1,335 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Frederick</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Frederick</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>fridu</i>, <span class="lang">Old Saxon</span> <i>frithu</i> 'peace' + <span class="lang">Old High German</span> <i>rih</i> 'ruler'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 12th C Holy Roman Emperor, a 13th C Holy Roman Emperor, 13th-14th C king of the Romans, a 15th C Holy Roman Emperor, two 16th C kings of Denmark and Norway, and a 16th C king of Naples.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1237</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1237/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">96</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1237/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">96</span></a>;
+ <span class="date">1239</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1239/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">100</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1253</span> <span class="name">Frederico</span> (<span class="case">abl</span>) <a href="../cite/Frederico/1253/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">149</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1349</span> <span class="name">Bedrzich</span> (<span class="case">nom</span>) <a href="../cite/Bedrzich/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">62</span></a>,
+ <span class="name">Bedrzichoni</span> (<span class="case">dat</span>) <a href="../cite/Bedrzichoni/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1350</span> <span class="name">Fridrico</span> (<span class="case">abl</span>) <a href="../cite/Fridrico/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">199</span></a>;
+ <span class="date">1353</span> <span class="name">Beddrzich</span> (<span class="case">nom</span>) <a href="../cite/Beddrzich/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>,
+ <span class="name">Bedrzich</span> (<span class="case">nom</span>) <a href="../cite/Bedrzich/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">133</span></a>,
+ <span class="name">Bedrzichoni</span> (<span class="case">dat</span>) <a href="../cite/Bedrzichoni/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">145</span></a>;
+ <span class="date">1354</span> <span class="name">Fridricus</span> (<span class="case">nom</span>) <a href="../cite/Fridricus/1354/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>,
+ <span class="name">Fritrico</span> (<span class="case">dat</span>) <a href="../cite/Fritrico/1354/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">62</span></a>;
+ <span class="date">1355</span> <span class="name">Frytricus</span> (<span class="case">nom</span>) <a href="../cite/Frytricus/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">79</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1358</span> <span class="name">Frenczlino</span> (<span class="case">dat</span>) <a href="../cite/Frenczlino/1358/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">210, p. 30</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1586</span> <span class="name">Frederick</span> <a href="../cite/Frederick/1586/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 13</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1385</span> <span class="name">Vrederik</span> <a href="../cite/Vrederik/1385/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1412</span> <span class="name">Vrederik</span> <a href="../cite/Vrederik/1412/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1416</span> <span class="name">Vrederik</span> <a href="../cite/Vrederik/1416/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1434</span> <span class="name">Vrederik</span> <a href="../cite/Vrederik/1434/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>;
+ <span class="date">1435</span> <span class="name">Frederik</span> <a href="../cite/Frederik/1435/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>;
+ <span class="date">1437</span> <span class="name">Frederik</span> <a href="../cite/Frederik/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 361</span></a>,
+ <span class="name">Frederyck</span> <a href="../cite/Frederyck/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 360</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1047</span> <span class="name">Frederici</span> (<span class="case">gen</span>) <a href="../cite/Frederici/1047/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1121</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1121/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1135</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1136</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1136/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1138x62</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">83</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">84</span></a>;
+ <span class="date">1147</span> <span class="name">Frederici</span> (<span class="case">gen</span>) <a href="../cite/Frederici/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1159</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1159/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a>;
+ <span class="date">1162</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>;
+ <span class="date">1163</span> <span class="name">Frederici</span> (<span class="case">gen</span>) <a href="../cite/Frederici/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1180</span> <span class="name">Frederici</span> (<span class="case">gen</span>) <a href="../cite/Frederici/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1378</span> <span class="name">Frederici</span> (<span class="case">gen</span>) <a href="../cite/Frederici/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1264</span></a>,
+ <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1871</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Frederic</span> <a href="../cite/Frederic/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 5</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/814/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">86</span></a>;
+ <span class="date">822x875</span> <span class="name">Frederico</span> (<span class="case">abl</span>) <a href="../cite/Frederico/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§218</span></a>,
+ <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§40</span></a>;
+ <span class="date">937</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/937/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1103</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1103/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">62</span></a>;
+ <span class="date">1130</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1130/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">63</span></a>;
+ <span class="date">1137</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1137/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">102</span></a>;
+ <span class="date">1142</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1142/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1142/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII</span></a>,
+ <span class="name">Fridrich</span> (<span class="case">nom</span>) <a href="../cite/Fridrich/1142/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1145</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1145/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1147</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1147/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII</span></a>;
+ <span class="date">1149</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1149/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIII</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1149/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">1151</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1151/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIX</span></a>;
+ <span class="date">1153</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1153/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1155x1190</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1155x1190/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">52</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1155x1190/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">52</span></a>;
+ <span class="date">1165</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1165/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">31</span></a>,
+ <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1165/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">31</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1165/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">31</span></a>,
+ <span class="name">Fritherico</span> (<span class="case">abl</span>) <a href="../cite/Fritherico/1165/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1166</span> <span class="name">Frederici</span> (<span class="case">gen</span>) <a href="../cite/Frederici/1166/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">51</span></a>,
+ <span class="name">Frederico</span> (<span class="case">abl</span>) <a href="../cite/Frederico/1166/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">51</span></a>,
+ <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1166/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">51</span></a>;
+ <span class="date">1168</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1168/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">65</span></a>,
+ <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1168/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">65</span></a>;
+ <span class="date">1173</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1173/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">81</span></a>;
+ <span class="date">1174</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1174/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>,
+ <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1174/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1174/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1180</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1180/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1180/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1185</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1185/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a>;
+ <span class="date">1200</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1200/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1202</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1202/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1202/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1207</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1207/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>,
+ <span class="name">Fridhericus</span> (<span class="case">nom</span>) <a href="../cite/Fridhericus/1207/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1213</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1213/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1213/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1214</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1214/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1214/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1214x15</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1214x15/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1214x15/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1215</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1215/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1215/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1215/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1215/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>;
+ <span class="date">1216</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">20</span></a>;
+ <span class="date">1217</span> <span class="name">Frederico</span> (<span class="case">abl</span>) <a href="../cite/Frederico/1217/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>,
+ <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1217/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1217/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">71</span></a>;
+ <span class="date">1218</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1218/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">32</span></a>,
+ <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1218/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">31</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1218/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1219</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>,
+ <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1220</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>,
+ <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>;
+ <span class="date">1221</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>,
+ <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>;
+ <span class="date">1222</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1222/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">62</span></a>;
+ <span class="date">1223</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1223/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>;
+ <span class="date">1225</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1225/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1234</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1234/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>;
+ <span class="date">1236</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1236/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">94</span></a>,
+ <span class="name">Frithericus</span> (<span class="case">nom</span>) <a href="../cite/Frithericus/1236/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">94</span></a>;
+ <span class="date">1249</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">134</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">134</span></a>;
+ <span class="date">1253</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1253/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">147</span></a>;
+ <span class="date">1255</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1255/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">156</span></a>;
+ <span class="date">1256</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1256/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">159</span></a>;
+ <span class="date">1401</span> <span class="name">friderici</span> (<span class="case">gen</span>) <a href="../cite/friderici/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 101</span></a>,
+ <span class="name">friderico</span> (<span class="case">dat</span>) <a href="../cite/friderico/1401/HD1401"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 12</span></a>;
+ <span class="date">1408</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1408/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXXXIV</span></a>;
+ <span class="date">1415</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1415/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCC</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1415/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCIX</span></a>;
+ <span class="date">1425</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1425/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXI</span></a>,
+ <span class="name">Friderico</span> (<span class="case">dat</span>) <a href="../cite/Friderico/1425/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXI</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1425/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXI</span></a>;
+ <span class="date">1428</span> <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1428/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXVIII</span></a>,
+ <span class="name">Fridericum</span> (<span class="case">acc</span>) <a href="../cite/Fridericum/1428/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXVIII</span></a>;
+ <span class="date">1429</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXIX</span></a>,
+ <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXIX</span></a>,
+ <span class="name">Fridericum</span> (<span class="case">acc</span>) <a href="../cite/Fridericum/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXIX</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1403</span> <span class="name">Fridreichs</span> (<span class="case">gen</span>) <a href="../cite/Fridreichs/1403/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXXIV</span></a>;
+ <span class="date">1407</span> <span class="name">Fridreich</span> (<span class="case">nom</span>) <a href="../cite/Fridreich/1407/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXXI</span></a>;
+ <span class="date">1409</span> <span class="name">Fridreich</span> (<span class="case">nom</span>) <a href="../cite/Fridreich/1409/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXXVI</span></a>;
+ <span class="date">1411</span> <span class="name">Fridreich</span> (<span class="case">nom</span>) <a href="../cite/Fridreich/1411/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCII</span></a>;
+ <span class="date">1419</span> <span class="name">Fridreich</span> (<span class="case">nom</span>) <a href="../cite/Fridreich/1419/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCX</span></a>,
+ <span class="name">Fridreichs</span> (<span class="case">gen</span>) <a href="../cite/Fridreichs/1419/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCIX</span></a>;
+ <span class="date">1426</span> <span class="name">Fridreich</span> (<span class="case">nom</span>) <a href="../cite/Fridreich/1426/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXIV</span></a>;
+ <span class="date">1427</span> <span class="name">Fridreich</span> (<span class="case">nom</span>) <a href="../cite/Fridreich/1427/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXV</span></a>;
+ <span class="date">1429</span> <span class="name">Fridreich</span> (<span class="case">nom</span>) <a href="../cite/Fridreich/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXXIII</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1407</span> <span class="name">Fritz</span> (<span class="case">nom</span>) <a href="../cite/Fritz/1407/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXXXII</span></a>;
+ <span class="date">1410</span> <span class="name">Fritz</span> (<span class="case">nom</span>) <a href="../cite/Fritz/1410/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCI</span></a>;
+ <span class="date">1497</span> <span class="name">Fricz</span> <a href="../cite/Fricz/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">2636</span></a>,
+ <span class="name">Frietz</span> <a href="../cite/Frietz/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">1797</span></a>,
+ <span class="name">Fritz</span> <a href="../cite/Fritz/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1220</span> <span class="name">Fridericum</span> (<span class="case">abl</span>) <a href="../cite/Fridericum/1220/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">46</span></a>;
+ <span class="date">1224</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1224/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">65</span></a>,
+ <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1224/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">65</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1224/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">65</span></a>;
+ <span class="date">1226</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1226/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">70</span></a>,
+ <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1226/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">70</span></a>,
+ <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1226/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">70</span></a>;
+ <span class="date">1230</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1230/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1243</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1243/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">110</span></a>;
+ <span class="date">1245</span> <span class="name">Friderici</span> (<span class="case">gen</span>) <a href="../cite/Friderici/1245/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Friderico</span> (<span class="case">abl</span>) <a href="../cite/Friderico/1245/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1245/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Federici</span> (<span class="case">gen</span>) <a href="../cite/Federici/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">29</span></a>,
+ <span class="name">Frederici</span> (<span class="case">gen</span>) <a href="../cite/Frederici/1265x1339/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">181</span></a>;
+ <span class="date">1282</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1282/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVIII</span></a>,
+ <span class="name">Fredrericus</span> (<span class="case">nom</span>) <a href="../cite/Fredrericus/1282/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVII</span></a>;
+ <span class="date">1286</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1286/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIII</span></a>;
+ <span class="date">1297</span> <span class="name">Federicus</span> (<span class="case">nom</span>) <a href="../cite/Federicus/1297/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1326</span> <span class="name">Federici</span> (<span class="case">gen</span>) <a href="../cite/Federici/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 434</span></a>,
+ <span class="name">Federico</span> (<span class="case">abl</span>) <a href="../cite/Federico/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 427</span></a>,
+ <span class="name">Federicum</span> (<span class="case">acc</span>) <a href="../cite/Federicum/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 443</span></a>;
+ <span class="date">1327</span> <span class="name">Federico</span> (<span class="case">abl</span>) <a href="../cite/Federico/1327/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 449</span></a>;
+ <span class="date">1348</span> <span class="name">Frederici</span> (<span class="case">gen</span>) <a href="../cite/Frederici/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">33</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Federicus</span> (<span class="case">nom</span>) <a href="../cite/Federicus/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 58, 37</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1326</span> <span class="name">Fedregino</span> (<span class="case">dat</span>) <a href="../cite/Fedregino/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 421</span></a>;
+ <span class="date">1348</span> <span class="name">Freda</span> (<span class="case">nom</span>) <a href="../cite/Freda/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">29</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1286</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">383</span></a>;
+ <span class="date">1288</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">386</span></a>;
+ <span class="date">1289</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">389</span></a>;
+ <span class="date">1291</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1291/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">391</span></a>;
+ <span class="date">1292</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">393</span></a>;
+ <span class="date">1293</span> <span class="name">Frederico</span> (<span class="case">dat</span>) <a href="../cite/Frederico/1293/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">38</span></a>,
+ <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1293/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">397</span></a>;
+ <span class="date">1296</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1296/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">398</span></a>;
+ <span class="date">1297</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1297/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">399</span></a>;
+ <span class="date">1298</span> <span class="name">Fredericus</span> (<span class="case">nom</span>) <a href="../cite/Fredericus/1298/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">400</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1503</span> <span class="name">Friedrich</span> <a href="../cite/Friedrich/1503/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1505</span> <span class="name">Frederick</span> <a href="../cite/Frederick/1505/Mettig1892"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1565x1577</span> <span class="name">Frederich</span> <a href="../cite/Frederich/1565x1577/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 97</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1232</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1232/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">87</span></a>;
+ <span class="date">1251</span> <span class="name">Fridericus</span> (<span class="case">nom</span>) <a href="../cite/Fridericus/1251/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">141</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1326</span> <span class="name">Federicus</span> (<span class="case">nom</span>) <a href="../cite/Federicus/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 429</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, J. Uckelman, S.L. Uckelman. "Frederick". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2015, no. 3. http://dmnes.org/2015/3/name/Frederick.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>
