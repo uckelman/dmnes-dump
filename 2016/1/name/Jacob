@@ -1,0 +1,894 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Jacob</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Jacob</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>יעקב</i> from <span class="lang">Hebrew</span> <i>עקב</i> 'heel'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of one of the Biblical patriarchs of the Israelites, two of the 12 apostles, a 1st C saint, a 4th C Assyrian saint, a 5th C Persian saint, a 7th C Italian saint, a 9th C Spanish saint, two 13th C kings of Aragon, a 13th C king of Majorca, two 14th C kings of Majorca, three 15th C kings of Scotland, a 15th-16th C king of Scotland, a 16th C king of Scotland, and a 16th-17th C king of Scotland.  Wycliffite Bible (1395): <i>James</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The form <i>James</i>, which was pronounced with two syllables throughout the Middle Ages, developed in the British Isles from the Latinization <i>Jacomus</i>, which led in southern France to forms like <i>Jacme</i>.  Iberian forms <i>Diego</i>, <i>Diago</i> developed as contractions of <i>Santiago</i>, the Spanish name for St. James.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1212x1213</span> <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1212x1213/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">2</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 28</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1312</span> <span class="name">Jacqueminus</span> (<span class="case">nom</span>) <a href="../cite/Jacqueminus/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 8</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Croatia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1446</span> <span class="name">Iacob</span> (<span class="case">unc</span>) <a href="../cite/Iacob/1446/Brgles"><span class="bib_key">Brgles</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1544</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1544/Brgles"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6, fn. 18</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1349</span> <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">21</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">141</span></a>;
+ <span class="date">1350</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">193</span></a>;
+ <span class="date">1353</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">7, p. 21</span></a>;
+ <span class="date">1356</span> <span class="name">Jacob</span> (<span class="case">nom</span>) <a href="../cite/Jacob/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">149</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1349</span> <span class="name">Jaclinum</span> (<span class="case">acc</span>) <a href="../cite/Jaclinum/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">73</span></a>;
+ <span class="date">1353</span> <span class="name">Jaklini</span> (<span class="case">gen</span>) <a href="../cite/Jaklini/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">122</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 77</span></a>;
+ <span class="date">1296</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 92b</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 92b</span></a>;
+ <span class="date">1300</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 238</span></a>;
+ <span class="date">1321</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1321/EL-2"><span class="bib_key">EL-2</span> <span class="bib_loc">p. 162</span></a>;
+ <span class="date">1362</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1362/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 35</span></a>,
+ <span class="name">Jacobum</span> (<span class="case">acc</span>) <a href="../cite/Jacobum/1362/SocAntNor-3-3"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 35</span></a>;
+ <span class="date">1381</span> <span class="name">Jacobum</span> (<span class="case">acc</span>) <a href="../cite/Jacobum/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 114</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 76</span></a>;
+ <span class="date">1406</span> <span class="name">Jacobum</span> (<span class="case">acc</span>) <a href="../cite/Jacobum/1406/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1408</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1408/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1417–18</span> <span class="name">Iacobo</span> (<span class="case">dat</span>) <a href="../cite/Iacobo/1417–18/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>,
+ <span class="name">Iacobum</span> (<span class="case">acc</span>) <a href="../cite/Iacobum/1417–18/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1436</span> <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1436/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LIX</span></a>;
+ <span class="date">1476</span> <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1476/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXVII</span></a>;
+ <span class="date">1485–1486</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1499</span> <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1499/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXIII</span></a>;
+ <span class="date">1530</span> <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1552</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1552/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1553</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1553/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1558/9</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1558s9/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1558</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1558/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1559</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1559/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1561</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1561/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1562</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1562/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1574</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1574/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1575</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1575/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571</span> <span class="name">Jakes</span> <a href="../cite/Jakes/1571/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Bundren</span></a>;
+ <span class="date">1572</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1572/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Berdts</span></a>;
+ <span class="date">1573</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1573/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Aken</span></a>;
+ <span class="date">1574</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Abeele</span></a>,
+ <span class="name">Jacobus</span> <a href="../cite/Jacobus/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cueninck</span></a>;
+ <span class="date">1576</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Aken</span></a>,
+ <span class="name">Jacobus</span> <a href="../cite/Jacobus/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cueninck</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cocq</span></a>;
+ <span class="date">1577</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Blanck</span></a>,
+ <span class="name">Jacobus</span> <a href="../cite/Jacobus/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Boeije</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Buren</span></a>;
+ <span class="date">1578</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Aken</span></a>;
+ <span class="date">1579</span> <span class="name">Jacobus</span> <a href="../cite/Jacobus/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Blanckesteijn</span></a>;
+ <span class="date">1580</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bedbor</span></a>,
+ <span class="name">Jakes</span> <a href="../cite/Jakes/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Buven</span></a>;
+ <span class="date">1581</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1581/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Francken</span></a>,
+ <span class="name">Jacobus</span> <a href="../cite/Jacobus/1581/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Dottenij</span></a>;
+ <span class="date">1582</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clerckx</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Buren</span></a>;
+ <span class="date">1583</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Elsen</span></a>;
+ <span class="date">1584</span> <span class="name">Jacques</span> <a href="../cite/Jacques/1584/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">1584</span></a>;
+ <span class="date">1585</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Baert</span></a>,
+ <span class="name">Jacobus</span> <a href="../cite/Jacobus/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Artsz</span></a>;
+ <span class="date">1586</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Boudaen</span></a>,
+ <span class="name">Jacobus</span> <a href="../cite/Jacobus/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bouchijn</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bouchijn</span></a>;
+ <span class="date">1587</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Daele</span></a>,
+ <span class="name">Jocobus</span> <a href="../cite/Jocobus/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Colonels</span></a>;
+ <span class="date">1588</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Backer</span></a>,
+ <span class="name">Jacobus</span> <a href="../cite/Jacobus/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Caussenare</span></a>;
+ <span class="date">1589</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Balde</span></a>,
+ <span class="name">Jacobus</span> <a href="../cite/Jacobus/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Baert</span></a>,
+ <span class="name">Jacop</span> <a href="../cite/Jacop/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Drele</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bousij</span></a>,
+ <span class="name">Jacus</span> <a href="../cite/Jacus/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Eggerits</span></a>;
+ <span class="date">1590</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Berghe</span></a>,
+ <span class="name">Jacus</span> <a href="../cite/Jacus/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cohorst</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cousenaere</span></a>;
+ <span class="date">1591</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beck</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Garet</span></a>,
+ <span class="name">Jacus</span> <a href="../cite/Jacus/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cousenaere</span></a>;
+ <span class="date">1592</span> <span class="name">Jacobus</span> <a href="../cite/Jacobus/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Berchtgrave</span></a>,
+ <span class="name">Jacus</span> <a href="../cite/Jacus/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Biecke</span></a>;
+ <span class="date">1593</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Brant</span></a>,
+ <span class="name">Jacobus</span> <a href="../cite/Jacobus/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Backer</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Buren</span></a>;
+ <span class="date">1594</span> <span class="name">Jacobus</span> <a href="../cite/Jacobus/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Damme</span></a>,
+ <span class="name">Jacus</span> <a href="../cite/Jacus/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bulcke</span></a>;
+ <span class="date">1595</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Berck</span></a>,
+ <span class="name">Jacobus</span> <a href="../cite/Jacobus/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Backer</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bulcke</span></a>;
+ <span class="date">1596</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Busken</span></a>,
+ <span class="name">Jacobus</span> <a href="../cite/Jacobus/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Buesecom</span></a>,
+ <span class="name">Jacus</span> <a href="../cite/Jacus/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bie</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Biest</span></a>;
+ <span class="date">1597</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beijrents</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bie</span></a>;
+ <span class="date">1598</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Deuxvilles</span></a>,
+ <span class="name">Jacobus</span> <a href="../cite/Jacobus/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cerf</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bie</span></a>;
+ <span class="date">1599</span> <span class="name">Jacobus</span> <a href="../cite/Jacobus/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bulcke</span></a>,
+ <span class="name">Jacus</span> <a href="../cite/Jacus/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cousijn</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bie</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1417–18</span> <span class="name">Iacobbe</span> <a href="../cite/Iacobbe/1417–18/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 38</span></a>,
+ <span class="name">Iamys</span> <a href="../cite/Iamys/1417–18/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1422</span> <span class="name">Iames</span> <a href="../cite/Iames/1422/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1424–25</span> <span class="name">Iames</span> <a href="../cite/Iames/1424–25/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1425</span> <span class="name">Iames</span> <a href="../cite/Iames/1425/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 63</span></a>;
+ <span class="date">1436</span> <span class="name">Iacobo</span> <a href="../cite/Iacobo/1436/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 107</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1526</span> <span class="name">James</span> <a href="../cite/James/1526/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXVII</span></a>;
+ <span class="date">1530</span> <span class="name">Jamys</span> <a href="../cite/Jamys/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1539</span> <span class="name">James</span> <a href="../cite/James/1539/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/James/1539/Eastleach"><span class="bib_key">Eastleach</span></a>,
+ <span class="name">Jamys</span> <a href="../cite/Jamys/1539/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1540</span> <span class="name">James</span> <a href="../cite/James/1540/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1541</span> <span class="name">James</span> <a href="../cite/James/1541/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1542</span> <span class="name">James</span> <a href="../cite/James/1542/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1542/3</span> <span class="name">James</span> <a href="../cite/James/1542s3/SIAcc"><span class="bib_key">SIAcc</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1543</span> <span class="name">James</span> <a href="../cite/James/1543/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1544</span> <span class="name">James</span> <a href="../cite/James/1544/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1545</span> <span class="name">James</span> <a href="../cite/James/1545/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/James/1545/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1546</span> <span class="name">James</span> <a href="../cite/James/1546/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/James/1546/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1547</span> <span class="name">James</span> <a href="../cite/James/1547/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1548</span> <span class="name">James</span> <a href="../cite/James/1548/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/James/1548/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Jeames</span> <a href="../cite/Jeames/1548/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1549</span> <span class="name">James</span> <a href="../cite/James/1549/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1550</span> <span class="name">Jeames</span> <a href="../cite/Jeames/1550/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1551</span> <span class="name">James</span> <a href="../cite/James/1551/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1552</span> <span class="name">James</span> <a href="../cite/James/1552/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1553</span> <span class="name">James</span> <a href="../cite/James/1553/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1554</span> <span class="name">James</span> <a href="../cite/James/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/James/1554/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1555</span> <span class="name">James</span> <a href="../cite/James/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1556</span> <span class="name">James</span> <a href="../cite/James/1556/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1558</span> <span class="name">James</span> <a href="../cite/James/1558/SOmar-vol9"><span class="bib_key">SOmar-vol9</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1559</span> <span class="name">James</span> <a href="../cite/James/1559/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1560</span> <span class="name">James</span> <a href="../cite/James/1560/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/James/1560/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/James/1560/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1561</span> <span class="name">James</span> <a href="../cite/James/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/James/1561/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/James/1561/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Jamys</span> <a href="../cite/Jamys/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1562</span> <span class="name">James</span> <a href="../cite/James/1562/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/James/1562/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/James/1562/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/James/1562/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/James/1562/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1563</span> <span class="name">James</span> <a href="../cite/James/1563/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/James/1563/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1564</span> <span class="name">James</span> <a href="../cite/James/1564/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1565</span> <span class="name">James</span> <a href="../cite/James/1565/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/James/1565/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/James/1565/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1566</span> <span class="name">James</span> <a href="../cite/James/1566/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56</span></a>,
+ <a href="../cite/James/1566/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1567</span> <span class="name">Jacobus</span> <a href="../cite/Jacobus/1567/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1568</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1568/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1569</span> <span class="name">James</span> <a href="../cite/James/1569/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/James/1569/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1570</span> <span class="name">James</span> <a href="../cite/James/1570/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1571</span> <span class="name">James</span> <a href="../cite/James/1571/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 17</span></a>,
+ <a href="../cite/James/1571/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/James/1571/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 21</span></a>,
+ <a href="../cite/James/1571/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1572</span> <span class="name">James</span> <a href="../cite/James/1572/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1573</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1573/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">James</span> <a href="../cite/James/1573/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 22</span></a>,
+ <a href="../cite/James/1573/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 121</span></a>,
+ <a href="../cite/James/1573/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>,
+ <a href="../cite/James/1573/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1574</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1574/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 24</span></a>,
+ <span class="name">James</span> <a href="../cite/James/1574/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 23</span></a>,
+ <a href="../cite/James/1574/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1575</span> <span class="name">James</span> <a href="../cite/James/1575/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 122</span></a>,
+ <a href="../cite/James/1575/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/James/1575/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1576</span> <span class="name">James</span> <a href="../cite/James/1576/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/James/1576/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1577</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1577/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">James</span> <a href="../cite/James/1577/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/James/1577/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 122</span></a>,
+ <span class="name">Jeames</span> <a href="../cite/Jeames/1577/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 129</span></a>,
+ <a href="../cite/Jeames/1577/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1578</span> <span class="name">James</span> <a href="../cite/James/1578/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 122</span></a>,
+ <a href="../cite/James/1578/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1579</span> <span class="name">James</span> <a href="../cite/James/1579/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1580</span> <span class="name">James</span> <a href="../cite/James/1580/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1581</span> <span class="name">James</span> <a href="../cite/James/1581/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>,
+ <a href="../cite/James/1581/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 84</span></a>,
+ <a href="../cite/James/1581/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/James/1581/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. iv</span></a>;
+ <span class="date">1582</span> <span class="name">James</span> <a href="../cite/James/1582/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 84</span></a>,
+ <a href="../cite/James/1582/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1583</span> <span class="name">James</span> <a href="../cite/James/1583/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/James/1583/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Jams</span> <a href="../cite/Jams/1583/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1584</span> <span class="name">James</span> <a href="../cite/James/1584/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/James/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/James/1584/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/James/1584/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1586</span> <span class="name">James</span> <a href="../cite/James/1586/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 12</span></a>,
+ <a href="../cite/James/1586/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/James/1586/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1587</span> <span class="name">James</span> <a href="../cite/James/1587/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 12</span></a>,
+ <a href="../cite/James/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/James/1587/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>,
+ <a href="../cite/James/1587/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1588</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">James</span> <a href="../cite/James/1588/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 12</span></a>,
+ <a href="../cite/James/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 15</span></a>,
+ <a href="../cite/James/1588/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/James/1588/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1589</span> <span class="name">James</span> <a href="../cite/James/1589/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 54</span></a>,
+ <a href="../cite/James/1589/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/James/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 20</span></a>,
+ <a href="../cite/James/1589/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 50</span></a>,
+ <a href="../cite/James/1589/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1590</span> <span class="name">James</span> <a href="../cite/James/1590/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 130</span></a>,
+ <a href="../cite/James/1590/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 141</span></a>,
+ <a href="../cite/James/1590/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 28</span></a>,
+ <a href="../cite/James/1590/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/James/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 21</span></a>,
+ <a href="../cite/James/1590/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>,
+ <a href="../cite/James/1590/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1591</span> <span class="name">James</span> <a href="../cite/James/1591/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 14</span></a>,
+ <a href="../cite/James/1591/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/James/1591/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/James/1591/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 23</span></a>,
+ <a href="../cite/James/1591/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1592</span> <span class="name">James</span> <a href="../cite/James/1592/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 31</span></a>,
+ <a href="../cite/James/1592/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/James/1592/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/James/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 24</span></a>,
+ <a href="../cite/James/1592/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/James/1592/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 35</span></a>,
+ <a href="../cite/James/1592/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1593</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 28</span></a>,
+ <span class="name">James</span> <a href="../cite/James/1593/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 86</span></a>,
+ <a href="../cite/James/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 26</span></a>,
+ <a href="../cite/James/1593/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/James/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>,
+ <a href="../cite/James/1593/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1594</span> <span class="name">Diego</span> <a href="../cite/Diego/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">James</span> <a href="../cite/James/1594/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1595</span> <span class="name">James</span> <a href="../cite/James/1595/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 16</span></a>,
+ <a href="../cite/James/1595/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 87</span></a>,
+ <a href="../cite/James/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 32</span></a>,
+ <a href="../cite/James/1595/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 140</span></a>,
+ <a href="../cite/James/1595/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/James/1595/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 37</span></a>,
+ <a href="../cite/James/1595/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1596</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">James</span> <a href="../cite/James/1596/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1597</span> <span class="name">Geames</span> <a href="../cite/Geames/1597/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 38</span></a>,
+ <span class="name">James</span> <a href="../cite/James/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 36</span></a>,
+ <a href="../cite/James/1597/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1598</span> <span class="name">James</span> <a href="../cite/James/1598/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 17</span></a>,
+ <a href="../cite/James/1598/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/James/1598/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1599</span> <span class="name">James</span> <a href="../cite/James/1599/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 17</span></a>,
+ <a href="../cite/James/1599/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 57</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1378</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1378/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 335</span></a>;
+ <span class="date">1379x1383</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1379x1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1386</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1386/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1387</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1387/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 339</span></a>;
+ <span class="date">1405</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1405/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1406</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1406/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1409</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1409/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>;
+ <span class="date">1416</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1416/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1417</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1417/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 348</span></a>;
+ <span class="date">1425</span> <span class="name">Jakop</span> <a href="../cite/Jakop/1425/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1427</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1427/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1428</span> <span class="name">Jakop</span> <a href="../cite/Jakop/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a>;
+ <span class="date">1433</span> <span class="name">Jacop</span> <a href="../cite/Jacop/1433/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>;
+ <span class="date">1434</span> <span class="name">Jacop</span> <a href="../cite/Jacop/1434/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>;
+ <span class="date">1437</span> <span class="name">Jacop</span> <a href="../cite/Jacop/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 360</span></a>,
+ <span class="name">Jacopp</span> <a href="../cite/Jacopp/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 361</span></a>;
+ <span class="date">1440</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1440/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 362</span></a>;
+ <span class="date">1441</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1441/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 363</span></a>;
+ <span class="date">1442</span> <span class="name">Jachop</span> <a href="../cite/Jachop/1442/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 364</span></a>;
+ <span class="date">1443</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1443/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 365</span></a>;
+ <span class="date">1524x1532</span> <span class="name">Jacob</span> (<span class="case">nom</span>) <a href="../cite/Jacob/1524x1532/Saareste1923b"><span class="bib_key">Saareste1923b</span> <span class="bib_loc">p. 140</span></a>;
+ <span class="date">1592</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 288</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1524x1532</span> <span class="name">Chowpi</span> (<span class="case">gen</span>) <a href="../cite/Chowpi/1524x1532/Saareste1923b"><span class="bib_key">Saareste1923b</span> <span class="bib_loc">p. 137</span></a>,
+ <span class="name">Jacho</span> (<span class="case">nom</span>) <a href="../cite/Jacho/1524x1532/Saareste1923a"><span class="bib_key">Saareste1923a</span> <span class="bib_loc">p. 102</span></a>,
+ <span class="name">Jaco</span> (<span class="case">nom</span>) <a href="../cite/Jaco/1524x1532/Saareste1923b"><span class="bib_key">Saareste1923b</span> <span class="bib_loc">p. 137</span></a>,
+ <span class="name">Kowpy</span> (<span class="case">nom</span>) <a href="../cite/Kowpy/1524x1532/Saareste1923a"><span class="bib_key">Saareste1923a</span> <span class="bib_loc">p. 103</span></a>,
+ <span class="name">Kowypi</span> (<span class="case">gen</span>) <a href="../cite/Kowypi/1524x1532/Saareste1923b"><span class="bib_key">Saareste1923b</span> <span class="bib_loc">p. 137</span></a>,
+ <span class="name">Yaco</span> (<span class="case">nom</span>) <a href="../cite/Yaco/1524x1532/Saareste1923b"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 136</span></a>,
+ <span class="name">koup</span> (<span class="case">nom</span>) <a href="../cite/koup/1524x1532/Saareste1923a"><span class="bib_key">Saareste1923a</span> <span class="bib_loc">p. 103</span></a>;
+ <span class="date">1592</span> <span class="name">Jack</span> <a href="../cite/Jack/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 287</span></a>,
+ <span class="name">Jaeck</span> <a href="../cite/Jaeck/1592/Tiik1977"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 288</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1565</span> <span class="name">Jacob</span> (<span class="case">nom</span>) <a href="../cite/Jacob/1565/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 292</span></a>;
+ <span class="date">1583</span> <span class="name">Jacob</span> (<span class="case">nom</span>) <a href="../cite/Jacob/1583/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 182</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1564</span> <span class="name">Jaco</span> (<span class="case">nom</span>) <a href="../cite/Jaco/1564/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 281</span></a>;
+ <span class="date">1576</span> <span class="name">Jacke</span> (<span class="case">nom</span>) <a href="../cite/Jacke/1576/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 292</span></a>,
+ <span class="name">Jake</span> (<span class="case">nom</span>) <a href="../cite/Jake/1576/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 67</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Jacop</span> (<span class="case">nom</span>) <a href="../cite/Jacop/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 167</span></a>;
+ <span class="date">1559</span> <span class="name">Jacobs</span> (<span class="case">gen</span>) <a href="../cite/Jacobs/1559/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 166</span></a>;
+ <span class="date">1582</span> <span class="name">Jacob</span> (<span class="case">nom</span>) <a href="../cite/Jacob/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 171</span></a>,
+ <span class="name">Jacop</span> (<span class="case">nom</span>) <a href="../cite/Jacop/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 171</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1559</span> <span class="name">Åipe</span> (<span class="case">nom</span>) <a href="../cite/Åipe/1559/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 166</span></a>;
+ <span class="date">1582</span> <span class="name">Kauppe</span> (<span class="case">nom</span>) <a href="../cite/Kauppe/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 171</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Jacob</span> (<span class="case">nom</span>) <a href="../cite/Jacob/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">b, Palatiolum</span></a>,
+ <span class="name">Jagobus</span> (<span class="case">nom</span>) <a href="../cite/Jagobus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">111, Palatiolum</span></a>;
+ <span class="date">1138x1148</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1138x1148/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">21</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">60</span></a>;
+ <span class="date">1147</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1147x1158</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1147x1158/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1152x1156</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1152x1156/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">31</span></a>;
+ <span class="date">1163</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1163–64</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">118</span></a>;
+ <span class="date">1164</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1179</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">170</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">170</span></a>;
+ <span class="date">1200</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1200/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXVII</span></a>;
+ <span class="date">1206</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1206/CartNDdOurscamp"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1221</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1221/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXIII</span></a>;
+ <span class="date">1226</span> <span class="name">Jacobum</span> (<span class="case">acc</span>) <a href="../cite/Jacobum/1226/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LIX</span></a>;
+ <span class="date">1239</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1239/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">382b</span></a>;
+ <span class="date">1251</span> <span class="name">Iacobo</span> (<span class="case">dat</span>) <a href="../cite/Iacobo/1251/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">139</span></a>;
+ <span class="date">1255</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1255/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">I, Candlemas</span></a>;
+ <span class="date">1257</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1257/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI, Candlemas</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1257/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI, Candlemas</span></a>;
+ <span class="date">1258</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX, BMV</span></a>,
+ <span class="name">Jacobum</span> (<span class="case">acc</span>) <a href="../cite/Jacobum/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXV, Pentecost</span></a>;
+ <span class="date">1259</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">IX, Pentecost</span></a>;
+ <span class="date">1273</span> <span class="name">Iacobo</span> (<span class="case">abl</span>) <a href="../cite/Iacobo/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1300</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1300/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXIX</span></a>,
+ <a href="../cite/Jacobi/1300/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">382</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1300/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">382</span></a>;
+ <span class="date">1301</span> <span class="name">Iacobi</span> (<span class="case">gen</span>) <a href="../cite/Iacobi/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 200</span></a>,
+ <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 178</span></a>,
+ <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 207</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 176</span></a>;
+ <span class="date">1305</span> <span class="name">Jacobum</span> (<span class="case">acc</span>) <a href="../cite/Jacobum/1305/LibSenTou"><span class="bib_key">LibSenTou</span> <span class="bib_loc">fol. 118</span></a>;
+ <span class="date">1306</span> <span class="name">Jacobum</span> (<span class="case">acc</span>) <a href="../cite/Jacobum/1306/LibSenTou"><span class="bib_key">ibid.</span> <span class="bib_loc">fol. 118</span></a>;
+ <span class="date">1378</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">37</span></a>,
+ <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1421</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">p. 176</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1274</span> <span class="name">Jaquetus</span> (<span class="case">nom</span>) <a href="../cite/Jaquetus/1274/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1313</span> <span class="name">Jaquemino</span> (<span class="case">abl</span>) <a href="../cite/Jaquemino/1313/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXVIII</span></a>;
+ <span class="date">1376</span> <span class="name">Jacquemonus</span> (<span class="case">nom</span>) <a href="../cite/Jacquemonus/1376/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">383</span></a>;
+ <span class="date">1378</span> <span class="name">Coppini</span> (<span class="case">gen</span>) <a href="../cite/Coppini/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">295</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Jaques</span> <a href="../cite/Jaques/1292/1292paris"><span class="bib_key">1292paris</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1296</span> <span class="name">Jaques</span> <a href="../cite/Jaques/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1301</span> <span class="name">Iake</span> (<span class="case">obl</span>) <a href="../cite/Iake/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 268</span></a>,
+ <span class="name">Jake</span> (<span class="case">nom</span>) <a href="../cite/Jake/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 236</span></a>,
+ <span class="name">Jakes</span> (<span class="case">nom</span>) <a href="../cite/Jakes/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 236</span></a>;
+ <span class="date">1313</span> <span class="name">Jacques</span> <a href="../cite/Jacques/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1327</span> <span class="name">Jacques</span> <a href="../cite/Jacques/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 191</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Jaquet</span> <a href="../cite/Jaquet/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1301</span> <span class="name">Iakemon</span> (<span class="case">obl</span>) <a href="../cite/Iakemon/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 268</span></a>;
+ <span class="date">1313</span> <span class="name">Jacquet</span> <a href="../cite/Jacquet/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 44</span></a>,
+ <span class="name">Jaquelot</span> <a href="../cite/Jaquelot/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>,
+ <span class="name">Jaquemart</span> <a href="../cite/Jaquemart/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Jaquemin</span> <a href="../cite/Jaquemin/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>,
+ <span class="name">Jaquet</span> <a href="../cite/Jaquet/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1327</span> <span class="name">Jamet</span> <a href="../cite/Jamet/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 183</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1388</span> <span class="name">Jacques</span> <a href="../cite/Jacques/1388/thierry"><span class="bib_key">thierry</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1388/thierry"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1392</span> <span class="name">Jacques</span> <a href="../cite/Jacques/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 598</span></a>;
+ <span class="date">1418</span> <span class="name">Jaques</span> <a href="../cite/Jaques/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 372</span></a>;
+ <span class="date">1421</span> <span class="name">Jaques</span> <a href="../cite/Jaques/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1423</span> <span class="name">Jaques</span> <a href="../cite/Jaques/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1438</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1438/favier"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">168</span></a>,
+ <span class="name">Jaquob</span> <a href="../cite/Jaquob/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">379</span></a>;
+ <span class="date">1561</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1561/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1562</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1563</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1564</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 69</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1565</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 115</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 122</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1566</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 199</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 204</span></a>,
+ <span class="name">Jaques</span> <a href="../cite/Jaques/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 197</span></a>;
+ <span class="date">1588</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1588/raymond1588"><span class="bib_key">raymond1588</span> <span class="bib_loc">p. 567</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1588/raymond1588"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 569</span></a>;
+ <span class="date">1595</span> <span class="name">Jacques</span> <a href="../cite/Jacques/1595/Toureille"><span class="bib_key">Toureille</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1388</span> <span class="name">Jacquet</span> <a href="../cite/Jacquet/1388/thierry"><span class="bib_key">thierry</span></a>;
+ <span class="date">1392</span> <span class="name">Jacobtin</span> <a href="../cite/Jacobtin/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 613</span></a>,
+ <span class="name">Jacquemart</span> <a href="../cite/Jacquemart/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 614</span></a>,
+ <span class="name">Jacquet</span> <a href="../cite/Jacquet/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 599</span></a>,
+ <span class="name">Jamet</span> <a href="../cite/Jamet/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 611</span></a>,
+ <span class="name">Jaquemin</span> <a href="../cite/Jaquemin/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 613</span></a>;
+ <span class="date">1418</span> <span class="name">Copin</span> <a href="../cite/Copin/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 384</span></a>,
+ <span class="name">Jacot</span> <a href="../cite/Jacot/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 378</span></a>,
+ <span class="name">Jacquet</span> <a href="../cite/Jacquet/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 378</span></a>,
+ <span class="name">Jaquemin</span> <a href="../cite/Jaquemin/1418/HGParis"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jaquet</span> <a href="../cite/Jaquet/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 372</span></a>,
+ <span class="name">Jaquin</span> <a href="../cite/Jaquin/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 375</span></a>,
+ <span class="name">Jaquot</span> <a href="../cite/Jaquot/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 373</span></a>;
+ <span class="date">1421</span> <span class="name">Jacquet</span> <a href="../cite/Jacquet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">23</span></a>,
+ <span class="name">Jamet</span> <a href="../cite/Jamet/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">889</span></a>,
+ <span class="name">Jaquemin</span> <a href="../cite/Jaquemin/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">222</span></a>,
+ <span class="name">Jaquet</span> <a href="../cite/Jaquet/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Jaquin</span> <a href="../cite/Jaquin/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">180</span></a>;
+ <span class="date">1423</span> <span class="name">Jacotin</span> <a href="../cite/Jacotin/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>,
+ <span class="name">Jaquet</span> <a href="../cite/Jaquet/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a>,
+ <span class="name">Jaquin</span> <a href="../cite/Jaquin/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">241</span></a>,
+ <span class="name">Jaquinot</span> <a href="../cite/Jaquinot/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">174</span></a>,
+ <span class="name">Jaquot</span> <a href="../cite/Jaquot/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">138</span></a>;
+ <span class="date">1438</span> <span class="name">Jaquet</span> <a href="../cite/Jaquet/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1219</span> <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1219/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1259</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1259/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1260</span> <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1260/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">190</span></a>;
+ <span class="date">1401</span> <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 48</span></a>;
+ <span class="date">1414</span> <span class="name">Jacobum</span> (<span class="case">acc</span>) <a href="../cite/Jacobum/1414/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCXCVII</span></a>;
+ <span class="date">1415</span> <span class="name">Jacobum</span> (<span class="case">acc</span>) <a href="../cite/Jacobum/1415/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCI</span></a>;
+ <span class="date">1417</span> <span class="name">Jacobum</span> (<span class="case">acc</span>) <a href="../cite/Jacobum/1417/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCIV</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1417/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCIV</span></a>;
+ <span class="date">1429</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXIX</span></a>;
+ <span class="date">1540</span> <span class="name">jacobo</span> (<span class="case">abl</span>) <a href="../cite/jacobo/1540/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">93</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1404</span> <span class="name">Jacob</span> (<span class="case">nom</span>) <a href="../cite/Jacob/1404/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXXVII</span></a>;
+ <span class="date">1418</span> <span class="name">Jacob</span> (<span class="case">nom</span>) <a href="../cite/Jacob/1418/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCVII</span></a>;
+ <span class="date">1429</span> <span class="name">Jacob</span> (<span class="case">nom</span>) <a href="../cite/Jacob/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXXI</span></a>,
+ <span class="name">Jacoben</span> (<span class="case">gen</span>) <a href="../cite/Jacoben/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXXII</span></a>;
+ <span class="date">1497</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">p. 2</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Iacob</span> (<span class="case">nom</span>) <a href="../cite/Iacob/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 14</span></a>,
+ <span class="name">Iacobi</span> (<span class="case">gen</span>) <a href="../cite/Iacobi/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 9</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1224</span> <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1224/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">65</span></a>;
+ <span class="date">1235</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1235/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">1a</span></a>;
+ <span class="date">1236</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1236/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1237</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1237/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">581</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Iacobi</span> (<span class="case">gen</span>) <a href="../cite/Iacobi/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">41</span></a>;
+ <span class="date">1277</span> <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1277/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLII</span></a>;
+ <span class="date">1285</span> <span class="name">Iacobi</span> (<span class="case">gen</span>) <a href="../cite/Iacobi/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 154</span></a>,
+ <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1285/Perugia1285"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 154</span></a>;
+ <span class="date">1293</span> <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1293/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">p. XLIV</span></a>;
+ <span class="date">1294</span> <span class="name">Iacobi</span> (<span class="case">gen</span>) <a href="../cite/Iacobi/1294/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1298</span> <span class="name">Iacobi</span> (<span class="case">gen</span>) <a href="../cite/Iacobi/1298/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1300</span> <span class="name">Iacobo</span> (<span class="case">abl</span>) <a href="../cite/Iacobo/1300/ActDipVeneto-I-1"><span class="bib_key">ActDipVeneto-I-1</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1301</span> <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1301/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1303</span> <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1303/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVI</span></a>;
+ <span class="date">1310</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1310/MonRav-2"><span class="bib_key">MonRav-2</span> <span class="bib_loc">CCCL</span></a>,
+ <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1310/MonRav-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCL</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1310/MonRav-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCL</span></a>,
+ <span class="name">Jacomi</span> (<span class="case">gen</span>) <a href="../cite/Jacomi/1310/MonRav-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCL</span></a>,
+ <span class="name">Jacomo</span> (<span class="case">abl</span>) <a href="../cite/Jacomo/1310/MonRav-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCL</span></a>,
+ <span class="name">Jacomus</span> (<span class="case">nom</span>) <a href="../cite/Jacomus/1310/MonRav-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCL</span></a>;
+ <span class="date">1324</span> <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1324/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 46, 3694</span></a>;
+ <span class="date">1326</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 431</span></a>,
+ <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 423</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 428</span></a>;
+ <span class="date">1348</span> <span class="name">Iacobi</span> (<span class="case">gen</span>) <a href="../cite/Iacobi/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Iacobo</span> (<span class="case">dat</span>) <a href="../cite/Iacobo/1348/INP"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>,
+ <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1348/INP"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1376</span> <span class="name">Iacobi</span> (<span class="case">gen</span>) <a href="../cite/Iacobi/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 231</span></a>,
+ <span class="name">Iacobo</span> (<span class="case">abl</span>) <a href="../cite/Iacobo/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Iame</span> (<span class="case">gen</span>) <a href="../cite/Iame/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 216</span></a>;
+ <span class="date">1514</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1514/Rossi-StudiStoria"><span class="bib_key">Rossi-StudiStoria</span> <span class="bib_loc">p. 274</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Iacobi</span> (<span class="case">gen</span>) <a href="../cite/Iacobi/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 50</span></a>,
+ <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1522x1532/DSF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50, 1</span></a>;
+ <span class="date">1527</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 83</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1285</span> <span class="name">Iacopelli</span> (<span class="case">gen</span>) <a href="../cite/Iacopelli/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 158</span></a>,
+ <span class="name">Iacoputii</span> (<span class="case">gen</span>) <a href="../cite/Iacoputii/1285/Perugia1285"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 158</span></a>;
+ <span class="date">1300</span> <span class="name">Iacobino</span> (<span class="case">abl</span>) <a href="../cite/Iacobino/1300/ActDipVeneto-I-1"><span class="bib_key">ActDipVeneto-I-1</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1310</span> <span class="name">Jacominus</span> (<span class="case">nom</span>) <a href="../cite/Jacominus/1310/MonRav-2"><span class="bib_key">MonRav-2</span> <span class="bib_loc">CCCL</span></a>,
+ <span class="name">Jacopello</span> (<span class="case">dat</span>) <a href="../cite/Jacopello/1310/MonRav-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCL</span></a>;
+ <span class="date">1348</span> <span class="name">Iacobicti</span> (<span class="case">gen</span>) <a href="../cite/Iacobicti/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Iacobellus</span> (<span class="case">nom</span>) <a href="../cite/Iacobellus/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 53, 44</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1286</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">486</span></a>;
+ <span class="date">1287</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1287/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">461</span></a>;
+ <span class="date">1290</span> <span class="name">Jacob</span> (<span class="case">nom</span>) <a href="../cite/Jacob/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">227</span></a>;
+ <span class="date">1292</span> <span class="name">Jacob</span> (<span class="case">nom</span>) <a href="../cite/Jacob/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">235</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1453</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1453/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 97</span></a>,
+ <span class="name">Yacob</span> <a href="../cite/Yacob/1453/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 98</span></a>,
+ <span class="name">Yacobes</span> (<span class="case">gen</span>) <a href="../cite/Yacobes/1453/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 98</span></a>;
+ <span class="date">1460</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1460/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1461</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1461/Mettig1892"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1462</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1462/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 99</span></a>,
+ <a href="../cite/Jacob/1462/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1463</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1463/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 99</span></a>;
+ <span class="date">1464</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1464/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1510</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1510/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1511</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1511/Mettig1892"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1515</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1515/Mettig1892"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1522</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1522/Mettig1892"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1523</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1523/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 99</span></a>,
+ <span class="name">Jacup</span> <a href="../cite/Jacup/1523/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 98</span></a>,
+ <span class="name">Yacup</span> <a href="../cite/Yacup/1523/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1524</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1524/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 99</span></a>,
+ <span class="name">Jakob</span> <a href="../cite/Jakob/1524/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91</span></a>;
+ <span class="date">1532</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1532/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1540</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1540/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 98</span></a>;
+ <span class="date">1542</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1542/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 99</span></a>;
+ <span class="date">1549</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1549/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1558</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1558/Arbuzov1920"><span class="bib_key">Arbuzov1920</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">Jacobs</span> <a href="../cite/Jacobs/1558/Arbuzov1920"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1565x1577</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1565x1577/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 97</span></a>,
+ <span class="name">Jacop</span> <a href="../cite/Jacop/1565x1577/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1595</span> <span class="name">Jacop</span> <a href="../cite/Jacop/1595/Arbuzov1920"><span class="bib_key">Arbuzov1920</span> <span class="bib_loc">p. 48</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Lithuania</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Polish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1551x1555</span> <span class="name">Jakub</span> (<span class="case">gen</span>) <a href="../cite/Jakub/1551x1555/Kaunas2006"><span class="bib_key">Kaunas2006</span> <span class="bib_loc">p. 85</span></a>,
+ <span class="name">Jakuba</span> (<span class="case">gen</span>) <a href="../cite/Jakuba/1551x1555/Kaunas2006"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1561x1565</span> <span class="name">Jakub</span> (<span class="case">nom</span>) <a href="../cite/Jakub/1561x1565/Kaunas2006"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82, 84</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Malta</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1499</span> <span class="name">Jaymus</span> (<span class="case">nom</span>) <a href="../cite/Jaymus/1499/Attard1499"><span class="bib_key">Attard1499</span> <span class="bib_loc">p. 115</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1560</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1560/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1561</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1561/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1562</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1562/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacob</span> <a href="../cite/Jacob/1562/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1563</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1563/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1564</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1564/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1565</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1565/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1566</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1566/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1567</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1567/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1568</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1568/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1569</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1569/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1570</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1570/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1571</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1571/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1572</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1572/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1573</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1573/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1573/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1574</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1574/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacques</span> <a href="../cite/Jacques/1574/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1575</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1575/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacobs</span> (<span class="case">gen</span>) <a href="../cite/Jacobs/1575/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1576</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1576/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacob</span> <a href="../cite/Jacob/1576/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacobs</span> (<span class="case">gen</span>) <a href="../cite/Jacobs/1576/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1577</span> <span class="name">Iaco</span> <a href="../cite/Iaco/1577/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Iacob</span> <a href="../cite/Iacob/1577/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Iacobs</span> (<span class="case">gen</span>) <a href="../cite/Iacobs/1577/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1578</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1578/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Iacobs</span> (<span class="case">gen</span>) <a href="../cite/Iacobs/1578/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1579</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1579/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1580</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1580/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1581</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1581/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1582</span> <span class="name">Jacob</span> (<span class="case">gen</span>) <a href="../cite/Jacob/1582/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1583</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1583/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacobs</span> (<span class="case">gen</span>) <a href="../cite/Jacobs/1583/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1584</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1584/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Iacobs</span> (<span class="case">gen</span>) <a href="../cite/Iacobs/1584/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacob</span> <a href="../cite/Jacob/1584/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1585</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1585/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1586</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1586/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Iacobs</span> (<span class="case">gen</span>) <a href="../cite/Iacobs/1586/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1587</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1587/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Iacobs</span> (<span class="case">gen</span>) <a href="../cite/Iacobs/1587/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1588</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1588/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacobs</span> (<span class="case">gen</span>) <a href="../cite/Jacobs/1588/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1589</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1589/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacobs</span> (<span class="case">gen</span>) <a href="../cite/Jacobs/1589/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1590</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1590/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacobs</span> (<span class="case">gen</span>) <a href="../cite/Jacobs/1590/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1591</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1591/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacob</span> <a href="../cite/Jacob/1591/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Jacobs</span> (<span class="case">gen</span>) <a href="../cite/Jacobs/1591/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1592</span> <span class="name">Iacob</span> <a href="../cite/Iacob/1592/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1228</span> <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1228/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">p. 81</span></a>;
+ <span class="date">1333</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1333/SBGlatzer"><span class="bib_key">SBGlatzer</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1335x1336</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1335x1336/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1337</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1337/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1332</span> <span class="name">Jacobi</span> <a href="../cite/Jacobi/1332/SBGlatzer"><span class="bib_key">SBGlatzer</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1332x1333</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1332x1333/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Jocob</span> <a href="../cite/Jocob/1332x1333/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1228</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1228/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 14</span></a>;
+ <span class="date">1231</span> <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1231/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 12</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1231/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 12</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">c1377</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/c1377/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1381x1388</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1381x1388/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">[p. xxxvii]</span></a>;
+ <span class="date">1383</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1383/CartLevenax"><span class="bib_key">CartLevenax</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1385</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1385/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1388</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1388/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>,
+ <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1388/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>,
+ <span class="name">Jacobum</span> (<span class="case">acc</span>) <a href="../cite/Jacobum/1388/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1388/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1390–1406</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1390–1406/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1392</span> <span class="name">Jacobo</span> (<span class="case">abl</span>) <a href="../cite/Jacobo/1392/CartLevenax"><span class="bib_key">CartLevenax</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1424</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1424/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">13</span></a>,
+ <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1424/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1425</span> <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1425/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">20</span></a>;
+ <span class="date">1426</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1426/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">52</span></a>,
+ <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1426/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">42</span></a>;
+ <span class="date">1456</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1456/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1456/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1456/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1506</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1506/RegDunf"><span class="bib_key">RegDunf</span> <span class="bib_loc">496</span></a>;
+ <span class="date">1578</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1578/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">15</span></a></dd>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">●</span> <span class="date">1495</span> <span class="name">James</span> <a href="../cite/James/1495/CrimTrials-I1"><span class="bib_key">CrimTrials-I1</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1506</span> <span class="name">James</span> <a href="../cite/James/1506/RegDunf"><span class="bib_key">RegDunf</span> <span class="bib_loc">497</span></a>,
+ <span class="name">Jamis</span> <a href="../cite/Jamis/1506/RegDunf"><span class="bib_key">ibid.</span> <span class="bib_loc">497</span></a>;
+ <span class="date">c1550</span> <span class="name">James</span> <a href="../cite/James/c1550/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">p. xxii</span></a>;
+ <span class="date">1578</span> <span class="name">James</span> <a href="../cite/James/1578/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">15</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1145</span> <span class="name">Diego</span> (<span class="case">nom</span>) <a href="../cite/Diego/1145/AnnOPraem-2"><span class="bib_key">AnnOPraem-2</span> <span class="bib_loc">col. ccccxxvi</span></a>;
+ <span class="date">1487</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1487/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1488</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1488/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1489</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1489/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1489/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1490</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1490/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1490/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1491</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1491/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1491/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1492</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/1492/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 67</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1492/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Diego</span> <a href="../cite/Diego/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3203</span></a>,
+ <span class="name">Jacme</span> <a href="../cite/Jacme/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">4266</span></a>,
+ <span class="name">Jacobo</span> <a href="../cite/Jacobo/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3732</span></a>,
+ <span class="name">Jaume</span> <a href="../cite/Jaume/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3222</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1316</span> <span class="name">Diego</span> <a href="../cite/Diego/1316/deMoxo"><span class="bib_key">deMoxo</span></a>;
+ <span class="date">1328</span> <span class="name">Diego</span> <a href="../cite/Diego/1328/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1332</span> <span class="name">Diego</span> <a href="../cite/Diego/1332/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1333</span> <span class="name">Diego</span> <a href="../cite/Diego/1333/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1336</span> <span class="name">Diego</span> <a href="../cite/Diego/1336/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1348</span> <span class="name">Diago</span> <a href="../cite/Diago/1348/deMoxo"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Diego</span> <a href="../cite/Diego/1348/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1495</span> <span class="name">Jayme</span> <a href="../cite/Jayme/1495/montalvo"><span class="bib_key">montalvo</span></a>;
+ <span class="date">1540</span> <span class="name">Diego</span> <a href="../cite/Diego/1540/SanzSerrano"><span class="bib_key">SanzSerrano</span></a>;
+ <span class="date">1567</span> <span class="name">Diego</span> <a href="../cite/Diego/1567/SanzSerrano"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Jacobo</span> (<span class="case">dat</span>) <a href="../cite/Jacobo/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6023</span></a>,
+ <span class="name">Jacobs</span> (<span class="case">gen</span>) <a href="../cite/Jacobs/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6002</span></a>;
+ <span class="date">1383</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1908</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Jacob</span> <a href="../cite/Jacob/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1917</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1195</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1195/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1220</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1220/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">14thCx1478</span> <span class="name">Jacobi</span> (<span class="case">gen</span>) <a href="../cite/Jacobi/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(21)</span></a>,
+ <span class="name">Jacobum</span> (<span class="case">acc</span>) <a href="../cite/Jacobum/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(167)</span></a>,
+ <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(5)</span></a>;
+ <span class="date">1342</span> <span class="name">Jacobus</span> (<span class="case">nom</span>) <a href="../cite/Jacobus/1342/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(6)</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1179</span> <span class="name">Jacomed</span> (<span class="case">nom</span>) <a href="../cite/Jacomed/1179/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">24</span></a>;
+ <span class="date">14thCx1478</span> <span class="name">Jaqueriodi</span> (<span class="case">gen</span>) <a href="../cite/Jaqueriodi/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(65)</span></a>,
+ <span class="name">Jaquerius</span> (<span class="case">nom</span>) <a href="../cite/Jaquerius/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(198)</span></a>,
+ <span class="name">Jaquerodi</span> (<span class="case">gen</span>) <a href="../cite/Jaquerodi/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(182)</span></a>,
+ <span class="name">Jaquerodus</span> (<span class="case">nom</span>) <a href="../cite/Jaquerodus/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(226)</span></a>,
+ <span class="name">Jaqueti</span> (<span class="case">gen</span>) <a href="../cite/Jaqueti/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(13)</span></a>,
+ <span class="name">Jaqueto</span> (<span class="case">abl</span>) <a href="../cite/Jaqueto/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(110)</span></a>,
+ <span class="name">Jaquetum</span> (<span class="case">acc</span>) <a href="../cite/Jaquetum/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(13)</span></a>,
+ <span class="name">Jaquetus</span> (<span class="case">nom</span>) <a href="../cite/Jaquetus/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(38)</span></a>;
+ <span class="date">1343</span> <span class="name">Jaqueti</span> (<span class="case">gen</span>) <a href="../cite/Jaqueti/1343/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(159)</span></a>;
+ <span class="date">1442</span> <span class="name">Jaqueti</span> (<span class="case">gen</span>) <a href="../cite/Jaqueti/1442/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(93)</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1469</span> <span class="name">Iacobo</span> (<span class="case">dat</span>) <a href="../cite/Iacobo/1469/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">20</span></a>,
+ <span class="name">Iacobum</span> (<span class="case">acc</span>) <a href="../cite/Iacobum/1469/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Iacobus</span> (<span class="case">nom</span>) <a href="../cite/Iacobus/1469/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1469</span> <span class="name">Iaczko</span> (<span class="case">nom</span>) <a href="../cite/Iaczko/1469/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">37</span></a>,
+ <span class="name">Iaczkonem</span> (<span class="case">acc</span>) <a href="../cite/Iaczkonem/1469/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>;
+ <span class="date">1480</span> <span class="name">Iaczko</span> (<span class="case">nom</span>) <a href="../cite/Iaczko/1480/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">CIX-1317</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1143x1151</span> <span class="name">Iaco</span> (<span class="case">nom</span>) <a href="../cite/Iaco/1143x1151/Pryce-1st"><span class="bib_key">Pryce-1st</span> <span class="bib_loc">no. 1</span></a>;
+ <span class="date">1198</span> <span class="name">Iacob</span> (<span class="case">gen</span>) <a href="../cite/Iacob/1198/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 8</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, R. Le Get, J. Uckelman, S.L. Uckelman. "Jacob". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Jacob.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,488 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>DouGen1</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>DouGen1</dt>
+  <dd>John Day, editor. <em>Les Douanes de Gênes 1376-1377</em>, volume 1. Paris: S.E.V.P.E.N., 1963.</dd>
+</dl>
+
+
+  <a href="../cite/Acelino/1376/DouGen1">Acelino</a>
+
+  <a href="../cite/Acelinus/1376/DouGen1">Acelinus</a>
+
+  <a href="../cite/Adano/1376/DouGen1">Adano</a>
+
+  <a href="../cite/Adanus/1376/DouGen1">Adanus</a>
+
+  <a href="../cite/Alaono/1376/DouGen1">Alaono</a>
+
+  <a href="../cite/Alberto/1376/DouGen1">Alberto</a>
+
+  <a href="../cite/Allaono/1376/DouGen1">Allaono</a>
+
+  <a href="../cite/Allaonus/1376/DouGen1">Allaonus</a>
+
+  <a href="../cite/Ambroxio/1376/DouGen1">Ambroxio</a>
+
+  <a href="../cite/Ambroxius/1376/DouGen1">Ambroxius</a>
+
+  <a href="../cite/Amsaldo/1376/DouGen1">Amsaldo</a>
+
+  <a href="../cite/Amsaldus/1376/DouGen1">Amsaldus</a>
+
+  <a href="../cite/Andrea/1376/DouGen1">Andrea</a>
+
+  <a href="../cite/Andreas/1376/DouGen1">Andreas</a>
+
+  <a href="../cite/Andree/1376/DouGen1">Andree</a>
+
+  <a href="../cite/Andriolo/1376/DouGen1">Andriolo</a>
+
+  <a href="../cite/Andriolus/1376/DouGen1">Andriolus</a>
+
+  <a href="../cite/Angelino/1376/DouGen1">Angelino</a>
+
+  <a href="../cite/Ansaldo/1376/DouGen1">Ansaldo</a>
+
+  <a href="../cite/Anthonii/1376/DouGen1">Anthonii</a>
+
+  <a href="../cite/Anthonio/1376/DouGen1">Anthonio</a>
+
+  <a href="../cite/Anthonioto/1376/DouGen1">Anthonioto</a>
+
+  <a href="../cite/Anthoniotus/1376/DouGen1">Anthoniotus</a>
+
+  <a href="../cite/Anthonius/1376/DouGen1">Anthonius</a>
+
+  <a href="../cite/Augustini/1376/DouGen1">Augustini</a>
+
+  <a href="../cite/Augustino/1376/DouGen1">Augustino</a>
+
+  <a href="../cite/Augustinus/1376/DouGen1">Augustinus</a>
+
+  <a href="../cite/Aymono/1376/DouGen1">Aymono</a>
+
+  <a href="../cite/Bartholomei/1376/DouGen1">Bartholomei</a>
+
+  <a href="../cite/Bartholomeo/1376/DouGen1">Bartholomeo</a>
+
+  <a href="../cite/Bartholomeus/1376/DouGen1">Bartholomeus</a>
+
+  <a href="../cite/Bartolino/1376/DouGen1">Bartolino</a>
+
+  <a href="../cite/Bartoni/1376/DouGen1">Bartoni</a>
+
+  <a href="../cite/Batholomei/1376/DouGen1">Batholomei</a>
+
+  <a href="../cite/Batista/1376/DouGen1">Batista</a>
+
+  <a href="../cite/Belengerii/1376/DouGen1">Belengerii</a>
+
+  <a href="../cite/Benedicto/1376/DouGen1">Benedicto</a>
+
+  <a href="../cite/Beraldo/1376/DouGen1">Beraldo</a>
+
+  <a href="../cite/Bomffacio/1376/DouGen1">Bomffacio</a>
+
+  <a href="../cite/Bonamici/1376/DouGen1">Bonamici</a>
+
+  <a href="../cite/Carlo/1376/DouGen1">Carlo</a>
+
+  <a href="../cite/Carloto/1376/DouGen1">Carloto</a>
+
+  <a href="../cite/Conradi/1376/DouGen1">Conradi</a>
+
+  <a href="../cite/Conrado/1376/DouGen1">Conrado</a>
+
+  <a href="../cite/Constancii/1376/DouGen1">Constancii</a>
+
+  <a href="../cite/Constantini/1376/DouGen1">Constantini</a>
+
+  <a href="../cite/Constantino/1376/DouGen1">Constantino</a>
+
+  <a href="../cite/Crestiano/1376/DouGen1">Crestiano</a>
+
+  <a href="../cite/Cristiano/1376/DouGen1">Cristiano</a>
+
+  <a href="../cite/Cristofforo/1376/DouGen1">Cristofforo</a>
+
+  <a href="../cite/Cristoforo/1376/DouGen1">Cristoforo</a>
+
+  <a href="../cite/Daniel/1376/DouGen1">Daniel</a>
+
+  <a href="../cite/Daniele/1376/DouGen1">Daniele</a>
+
+  <a href="../cite/Danielem/1376/DouGen1">Danielem</a>
+
+  <a href="../cite/Domiges/1376/DouGen1">Domiges</a>
+
+  <a href="../cite/Dominicho/1376/DouGen1">Dominicho</a>
+
+  <a href="../cite/Dominici/1376/DouGen1">Dominici</a>
+
+  <a href="../cite/Doniges/1376/DouGen1">Doniges</a>
+
+  <a href="../cite/Egidio/1376/DouGen1">Egidio</a>
+
+  <a href="../cite/Enricho/1376/DouGen1">Enricho</a>
+
+  <a href="../cite/Ettor/1376/DouGen1">Ettor</a>
+
+  <a href="../cite/Fabiano/1376/DouGen1">Fabiano</a>
+
+  <a href="../cite/Feradi/1376/DouGen1">Feradi</a>
+
+  <a href="../cite/Ferandi/1376/DouGen1">Ferandi</a>
+
+  <a href="../cite/Filipono/1376/DouGen1">Filipono</a>
+
+  <a href="../cite/Filippo/1376/DouGen1">Filippo</a>
+
+  <a href="../cite/Francho/1376/DouGen1">Francho</a>
+
+  <a href="../cite/Francischo/1376/DouGen1">Francischo</a>
+
+  <a href="../cite/Francisci/1376/DouGen1">Francisci</a>
+
+  <a href="../cite/Fredericho/1376/DouGen1">Fredericho</a>
+
+  <a href="../cite/Frederici/1376/DouGen1">Frederici</a>
+
+  <a href="../cite/Gabriele/1376/DouGen1">Gabriele</a>
+
+  <a href="../cite/Gabrielle/1376/DouGen1">Gabrielle</a>
+
+  <a href="../cite/Galeacio/1376/DouGen1">Galeacio</a>
+
+  <a href="../cite/Galeoto/1376/DouGen1">Galeoto</a>
+
+  <a href="../cite/Gaspale/1376/DouGen1">Gaspale</a>
+
+  <a href="../cite/Gaspalini/1376/DouGen1">Gaspalini</a>
+
+  <a href="../cite/Gaspalino/1376/DouGen1">Gaspalino</a>
+
+  <a href="../cite/Gasparini/1376/DouGen1">Gasparini</a>
+
+  <a href="../cite/Georgii/1376/DouGen1">Georgii</a>
+
+  <a href="../cite/Georgio/1376/DouGen1">Georgio</a>
+
+  <a href="../cite/Geronimi/1376/DouGen1">Geronimi</a>
+
+  <a href="../cite/Giriberti/1376/DouGen1">Giriberti</a>
+
+  <a href="../cite/Gonsales/1376/DouGen1">Gonsales</a>
+
+  <a href="../cite/Gonsalles/1376/DouGen1">Gonsalles</a>
+
+  <a href="../cite/Gotiffredo/1376/DouGen1">Gotiffredo</a>
+
+  <a href="../cite/Grabiel/1376/DouGen1">Grabiel</a>
+
+  <a href="../cite/Gregorio/1376/DouGen1">Gregorio</a>
+
+  <a href="../cite/Guillelmi/1376/DouGen1">Guillelmi</a>
+
+  <a href="../cite/Guillelmo/1376/DouGen1">Guillelmo</a>
+
+  <a href="../cite/Guirardi/1376/DouGen1">Guirardi</a>
+
+  <a href="../cite/Guirardo/1376/DouGen1">Guirardo</a>
+
+  <a href="../cite/Homodey/1376/DouGen1">Homodey</a>
+
+  <a href="../cite/Iacobi/1376/DouGen1">Iacobi</a>
+
+  <a href="../cite/Iacobo/1376/DouGen1">Iacobo</a>
+
+  <a href="../cite/Iame/1376/DouGen1">Iame</a>
+
+  <a href="../cite/Iane/1376/DouGen1">Iane</a>
+
+  <a href="../cite/Ianono/1376/DouGen1">Ianono</a>
+
+  <a href="../cite/Ianoto/1376/DouGen1">Ianoto</a>
+
+  <a href="../cite/Ianuarii/1376/DouGen1">Ianuarii</a>
+
+  <a href="../cite/Ianuario/1376/DouGen1">Ianuario</a>
+
+  <a href="../cite/Ianui/1376/DouGen1">Ianui</a>
+
+  <a href="../cite/Ianus/1376/DouGen1">Ianus</a>
+
+  <a href="../cite/Illario/1376/DouGen1">Illario</a>
+
+  <a href="../cite/Ingo/1376/DouGen1">Ingo</a>
+
+  <a href="../cite/Ioffredi/1376/DouGen1">Ioffredi</a>
+
+  <a href="../cite/Ioffredo/1376/DouGen1">Ioffredo</a>
+
+  <a href="../cite/Iohanne/1376/DouGen1">Iohanne</a>
+
+  <a href="../cite/Iohannis/1376/DouGen1">Iohannis</a>
+
+  <a href="../cite/Iosepe/1376/DouGen1">Iosepe</a>
+
+  <a href="../cite/Iuliano/1376/DouGen1">Iuliano</a>
+
+  <a href="../cite/Iusto/1376/DouGen1">Iusto</a>
+
+  <a href="../cite/Lamffrancho/1376/DouGen1">Lamffrancho</a>
+
+  <a href="../cite/Landino/1376/DouGen1">Landino</a>
+
+  <a href="../cite/Lanffrancho/1376/DouGen1">Lanffrancho</a>
+
+  <a href="../cite/Lanfrancho/1376/DouGen1">Lanfrancho</a>
+
+  <a href="../cite/Laurencio/1376/DouGen1">Laurencio</a>
+
+  <a href="../cite/Lazarini/1376/DouGen1">Lazarini</a>
+
+  <a href="../cite/Lazarino/1376/DouGen1">Lazarino</a>
+
+  <a href="../cite/Lazaro/1376/DouGen1">Lazaro</a>
+
+  <a href="../cite/Leo/1376/DouGen1">Leo</a>
+
+  <a href="../cite/Leonardi/1376/DouGen1">Leonardi</a>
+
+  <a href="../cite/Leonardo/1376/DouGen1">Leonardo</a>
+
+  <a href="../cite/Leoncino/1376/DouGen1">Leoncino</a>
+
+  <a href="../cite/Leone/1376/DouGen1">Leone</a>
+
+  <a href="../cite/Lipo/1376/DouGen1">Lipo</a>
+
+  <a href="../cite/Lombardo/1376/DouGen1">Lombardo</a>
+
+  <a href="../cite/Lucha/1376/DouGen1">Lucha</a>
+
+  <a href="../cite/Luchino/1376/DouGen1">Luchino</a>
+
+  <a href="../cite/Lucho/1376/DouGen1">Lucho</a>
+
+  <a href="../cite/Luciani/1376/DouGen1">Luciani</a>
+
+  <a href="../cite/Luciano/1376/DouGen1">Luciano</a>
+
+  <a href="../cite/Lucianus/1376/DouGen1">Lucianus</a>
+
+  <a href="../cite/Mamffredo/1376/DouGen1">Mamffredo</a>
+
+  <a href="../cite/Manffredo/1376/DouGen1">Manffredo</a>
+
+  <a href="../cite/Manuel/1376/DouGen1">Manuel</a>
+
+  <a href="../cite/Manuele/1376/DouGen1">Manuele</a>
+
+  <a href="../cite/Manuelis/1376/DouGen1">Manuelis</a>
+
+  <a href="../cite/Marcelino/1376/DouGen1">Marcelino</a>
+
+  <a href="../cite/Marchi/1376/DouGen1">Marchi</a>
+
+  <a href="../cite/Marchio/1376/DouGen1">Marchio</a>
+
+  <a href="../cite/Marchixio/1376/DouGen1">Marchixio</a>
+
+  <a href="../cite/Marini/1376/DouGen1">Marini</a>
+
+  <a href="../cite/Martini/1376/DouGen1">Martini</a>
+
+  <a href="../cite/Martino/1376/DouGen1">Martino</a>
+
+  <a href="../cite/Mauro/1376/DouGen1">Mauro</a>
+
+  <a href="../cite/Meliorini/1376/DouGen1">Meliorini</a>
+
+  <a href="../cite/Meliorino/1376/DouGen1">Meliorino</a>
+
+  <a href="../cite/Michael/1376/DouGen1">Michael</a>
+
+  <a href="../cite/Michaele/1376/DouGen1">Michaele</a>
+
+  <a href="../cite/Michaelis/1376/DouGen1">Michaelis</a>
+
+  <a href="../cite/Moro/1376/DouGen1">Moro</a>
+
+  <a href="../cite/Nicolai/1376/DouGen1">Nicolai</a>
+
+  <a href="../cite/Nicolao/1376/DouGen1">Nicolao</a>
+
+  <a href="../cite/Nicolino/1376/DouGen1">Nicolino</a>
+
+  <a href="../cite/Nicolle/1376/DouGen1">Nicolle</a>
+
+  <a href="../cite/Novello/1376/DouGen1">Novello</a>
+
+  <a href="../cite/Obertho/1376/DouGen1">Obertho</a>
+
+  <a href="../cite/Oberti/1376/DouGen1">Oberti</a>
+
+  <a href="../cite/Oberto/1376/DouGen1">Oberto</a>
+
+  <a href="../cite/Odoardo/1376/DouGen1">Odoardo</a>
+
+  <a href="../cite/Olliverio/1376/DouGen1">Olliverio</a>
+
+  <a href="../cite/Parmerini/1376/DouGen1">Parmerini</a>
+
+  <a href="../cite/Pasquale/1376/DouGen1">Pasquale</a>
+
+  <a href="../cite/Pasqualino/1376/DouGen1">Pasqualino</a>
+
+  <a href="../cite/Pasqualis/1376/DouGen1">Pasqualis</a>
+
+  <a href="../cite/Pasquarino/1376/DouGen1">Pasquarino</a>
+
+  <a href="../cite/Pauli/1376/DouGen1">Pauli</a>
+
+  <a href="../cite/Paulo/1376/DouGen1">Paulo</a>
+
+  <a href="../cite/Pelegri/1376/DouGen1">Pelegri</a>
+
+  <a href="../cite/Percivale/1376/DouGen1">Percivale</a>
+
+  <a href="../cite/Petri/1376/DouGen1">Petri</a>
+
+  <a href="../cite/Petro/1376/DouGen1">Petro</a>
+
+  <a href="../cite/Philippo/1376/DouGen1">Philippo</a>
+
+  <a href="../cite/Poncii/1376/DouGen1">Poncii</a>
+
+  <a href="../cite/Prospero/1376/DouGen1">Prospero</a>
+
+  <a href="../cite/Raffael/1376/DouGen1">Raffael</a>
+
+  <a href="../cite/Raffaele/1376/DouGen1">Raffaele</a>
+
+  <a href="../cite/Raffaelis/1376/DouGen1">Raffaelis</a>
+
+  <a href="../cite/Raffo/1376/DouGen1">Raffo</a>
+
+  <a href="../cite/Raymondi/1376/DouGen1">Raymondi</a>
+
+  <a href="../cite/Raymondino/1376/DouGen1">Raymondino</a>
+
+  <a href="../cite/Ricardi/1376/DouGen1">Ricardi</a>
+
+  <a href="../cite/Ricardino/1376/DouGen1">Ricardino</a>
+
+  <a href="../cite/Rizardo/1376/DouGen1">Rizardo</a>
+
+  <a href="../cite/Rodulffi/1376/DouGen1">Rodulffi</a>
+
+  <a href="../cite/Rolando/1376/DouGen1">Rolando</a>
+
+  <a href="../cite/Rubeo/1376/DouGen1">Rubeo</a>
+
+  <a href="../cite/Salamono/1376/DouGen1">Salamono</a>
+
+  <a href="../cite/Samuele/1376/DouGen1">Samuele</a>
+
+  <a href="../cite/Sanches/1376/DouGen1">Sanches</a>
+
+  <a href="../cite/Sanchi/1376/DouGen1">Sanchi</a>
+
+  <a href="../cite/Sanchii/1376/DouGen1">Sanchii</a>
+
+  <a href="../cite/Sandrino/1376/DouGen1">Sandrino</a>
+
+  <a href="../cite/Sauli/1376/DouGen1">Sauli</a>
+
+  <a href="../cite/Saulo/1376/DouGen1">Saulo</a>
+
+  <a href="../cite/Staffano/1376/DouGen1">Staffano</a>
+
+  <a href="../cite/Steffano/1376/DouGen1">Steffano</a>
+
+  <a href="../cite/Symone/1376/DouGen1">Symone</a>
+
+  <a href="../cite/Symonis/1376/DouGen1">Symonis</a>
+
+  <a href="../cite/Thobia/1376/DouGen1">Thobia</a>
+
+  <a href="../cite/Thoma/1376/DouGen1">Thoma</a>
+
+  <a href="../cite/Thomas/1376/DouGen1">Thomas</a>
+
+  <a href="../cite/Thomaxio/1376/DouGen1">Thomaxio</a>
+
+  <a href="../cite/Tolomeo/1376/DouGen1">Tolomeo</a>
+
+  <a href="../cite/Tomaxii/1376/DouGen1">Tomaxii</a>
+
+  <a href="../cite/Ugeto/1376/DouGen1">Ugeto</a>
+
+  <a href="../cite/Ugolino/1376/DouGen1">Ugolino</a>
+
+  <a href="../cite/Valarano/1376/DouGen1">Valarano</a>
+
+  <a href="../cite/Vicencio/1376/DouGen1">Vicencio</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

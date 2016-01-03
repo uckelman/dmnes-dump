@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Winmar</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Winmar</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>wine</i>, <span class="lang">Old High German</span> <i>wini</i> 'friend' + <span class="lang">Old English</span> <i>mǣre</i>, <span class="lang">Old High German, Old Saxon</span> <i>māri</i> from <span class="lang">Proto-Germanic</span> <i>*mērijaz</i> 'famous'.
+</span>
+  
+</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Winemer</span> (<span class="case">nom</span>) <a href="../cite/Winemer/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 156</span></a>,
+ <span class="name">Winemerus</span> (<span class="case">nom</span>) <a href="../cite/Winemerus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 154</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1364</span> <span class="name">Wenemar</span> <a href="../cite/Wenemar/1364/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 334</span></a>;
+ <span class="date">1385</span> <span class="name">Wenemar</span> <a href="../cite/Wenemar/1385/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1387</span> <span class="name">Wenemar</span> <a href="../cite/Wenemar/1387/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 339</span></a>;
+ <span class="date">1390</span> <span class="name">Wenemar</span> <a href="../cite/Wenemar/1390/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 339</span></a>;
+ <span class="date">1405</span> <span class="name">Wenemar</span> <a href="../cite/Wenemar/1405/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1414</span> <span class="name">Wenemar</span> <a href="../cite/Wenemar/1414/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Winemarus</span> (<span class="case">nom</span>) <a href="../cite/Winemarus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">57-58</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1219</span> <span class="name">Winmarus</span> (<span class="case">nom</span>) <a href="../cite/Winmarus/1219/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">42</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1123</span> <span class="name">Winemerj</span> (<span class="case">gen</span>) <a href="../cite/Winemerj/1123/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XLVI</span></a>;
+ <span class="date">1124</span> <span class="name">Winemari</span> (<span class="case">gen</span>) <a href="../cite/Winemari/1124/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">L</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Winmar". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Winmar.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

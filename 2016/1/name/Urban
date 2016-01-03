@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Urban</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Urban</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>urbanus</i> 'of the city; courteous; witty, urbane'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of seven pre-1600 popes, including a 3rd C saint.  Wycliffite Bible (1395): <i>Vrban</i>.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1592</span> <span class="name">Vrban</span> <a href="../cite/Vrban/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 288</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1592</span> <span class="name">Vrry</span> <a href="../cite/Vrry/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 288</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1564</span> <span class="name">Urbas</span> (<span class="case">nom</span>) <a href="../cite/Urbas/1564/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 81</span></a>;
+ <span class="date">1565</span> <span class="name">Wrbanus</span> (<span class="case">nom</span>) <a href="../cite/Wrbanus/1565/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 81</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1095</span> <span class="name">Urbani</span> (<span class="case">gen</span>) <a href="../cite/Urbani/1095/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Urbanus</span> (<span class="case">nom</span>) <a href="../cite/Urbanus/1095/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1378</span> <span class="name">Urbani</span> (<span class="case">gen</span>) <a href="../cite/Urbani/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">369</span></a>,
+ <span class="name">Urbano</span> (<span class="case">abl</span>) <a href="../cite/Urbano/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">369</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Urban</span> <a href="../cite/Urban/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">810</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1186</span> <span class="name">Urbani</span> (<span class="case">gen</span>) <a href="../cite/Urbani/1186/POSDu"><span class="bib_key">POSDu</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Urbanus</span> (<span class="case">nom</span>) <a href="../cite/Urbanus/1186/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 1</span></a>,
+ <a href="../cite/Urbanus/1186/POSDu"><span class="bib_key">POSDu</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1262</span> <span class="name">Urbanus</span> (<span class="case">nom</span>) <a href="../cite/Urbanus/1262/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">194</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1479</span> <span class="name">Urban</span> <a href="../cite/Urban/1479/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 7</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">11thC</span> <span class="name">Urbanus</span> (<span class="case">nom</span>) <a href="../cite/Urbanus/11thC/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCCIV</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, S.L. Uckelman. "Urban". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Urban.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

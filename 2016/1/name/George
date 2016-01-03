@@ -1,0 +1,495 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>George</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">George</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Greek</span> <i>γεωργός</i> 'farmer'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 3rd-4th C saint, patron saint of many European countries and best known for having slain a dragon, an 8th C patriarch of Antioch, an 11th C Georgian saint, two 11th C kings of Georgia, a 12th C king of Georgia, a 12th C prince of Kiev, a 13th C prince of Vladimir, a 13th C king of Georgia, a 13th C emperor of Bulgaria, two 14th C kings of Georgia, a 14th C king of Imereti, a 14th C emperor of Bulgaria, a 14th-15th C king of Georgia, a 15th C king of Georgia, and a 15th C king of Bohemia.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1349</span> <span class="name">Georij</span> (<span class="case">gen</span>) <a href="../cite/Georij/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">17</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1358</span> <span class="name">Jurglino</span> (<span class="case">dat</span>) <a href="../cite/Jurglino/1358/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">204, p. 30</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1381</span> <span class="name">Georgii</span> (<span class="case">gen</span>) <a href="../cite/Georgii/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 120</span></a>;
+ <span class="date">1408</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1408/GCCYork"><span class="bib_key">GCCYork</span> <span class="bib_loc">p.11</span></a>;
+ <span class="date">1427</span> <span class="name">Georgio</span> (<span class="case">dat</span>) <a href="../cite/Georgio/1427/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LIV</span></a>;
+ <span class="date">1435</span> <span class="name">Georgio</span> (<span class="case">dat</span>) <a href="../cite/Georgio/1435/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LVII</span></a>;
+ <span class="date">1440</span> <span class="name">Georgio</span> (<span class="case">dat</span>) <a href="../cite/Georgio/1440/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LI</span></a>;
+ <span class="date">1553</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1553/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1554</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1554/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1555</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1555/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1556</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1556/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1557</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1557/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1558</span> <span class="name">Georgij</span> (<span class="case">gen</span>) <a href="../cite/Georgij/1558/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1558/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1559/60</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1559s60/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1560</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1560/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1562</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1562/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1567</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1567/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1573</span> <span class="name">georgii</span> (<span class="case">gen</span>) <a href="../cite/georgii/1573/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1573</span> <span class="name">Jooris</span> <a href="../cite/Jooris/1573/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Dobbelare</span></a>;
+ <span class="date">1576</span> <span class="name">Jooris</span> <a href="../cite/Jooris/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Dobbelaere</span></a>;
+ <span class="date">1577</span> <span class="name">Jooris</span> <a href="../cite/Jooris/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bauwens</span></a>;
+ <span class="date">1581</span> <span class="name">Jooris</span> <a href="../cite/Jooris/1581/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Daele</span></a>;
+ <span class="date">1586</span> <span class="name">Jooris</span> <a href="../cite/Jooris/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cox</span></a>;
+ <span class="date">1587</span> <span class="name">Joris</span> <a href="../cite/Joris/1587/AuFr"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1589</span> <span class="name">Joris</span> <a href="../cite/Joris/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cockx</span></a>;
+ <span class="date">1590</span> <span class="name">Jooris</span> <a href="../cite/Jooris/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cox</span></a>;
+ <span class="date">1592</span> <span class="name">Jooris</span> <a href="../cite/Jooris/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cocx</span></a>,
+ <span class="name">Joris</span> <a href="../cite/Joris/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cocx</span></a>;
+ <span class="date">1598</span> <span class="name">Jooris</span> <a href="../cite/Jooris/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bolle</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1417–18</span> <span class="name">George</span> <a href="../cite/George/1417–18/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1429</span> <span class="name">George</span> <a href="../cite/George/1429/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LV</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1485</span> <span class="name">George</span> <a href="../cite/George/1485/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXIX</span></a>;
+ <span class="date">1520</span> <span class="name">George</span> <a href="../cite/George/1520/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 128</span></a>;
+ <span class="date">1522</span> <span class="name">George</span> <a href="../cite/George/1522/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 114</span></a>;
+ <span class="date">1523</span> <span class="name">George</span> <a href="../cite/George/1523/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1528/9</span> <span class="name">George</span> <a href="../cite/George/1528s9/ExMar"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1529</span> <span class="name">george</span> <a href="../cite/george/1529/PP-HenV"><span class="bib_key">PP-HenV</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1530</span> <span class="name">George</span> <a href="../cite/George/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1531</span> <span class="name">George</span> <a href="../cite/George/1531/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXI</span></a>;
+ <span class="date">1538</span> <span class="name">George</span> <a href="../cite/George/1538/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1539</span> <span class="name">Georg</span> <a href="../cite/Georg/1539/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXV</span></a>,
+ <span class="name">George</span> <a href="../cite/George/1539/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXV</span></a>;
+ <span class="date">1540</span> <span class="name">George</span> <a href="../cite/George/1540/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/George/1540/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p.78</span></a>,
+ <a href="../cite/George/1540/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/George/1540/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXVI</span></a>,
+ <span class="name">Georgeh</span> <a href="../cite/Georgeh/1540/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1541</span> <span class="name">George</span> <a href="../cite/George/1541/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXVII</span></a>;
+ <span class="date">1542</span> <span class="name">Georg</span> <a href="../cite/Georg/1542/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1542/3</span> <span class="name">George</span> <a href="../cite/George/1542s3/SIAcc"><span class="bib_key">SIAcc</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1542</span> <span class="name">George</span> <a href="../cite/George/1542/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">george</span> <a href="../cite/george/1542/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXVIII</span></a>;
+ <span class="date">1543</span> <span class="name">George</span> <a href="../cite/George/1543/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/George/1543/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/George/1543/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXIX</span></a>;
+ <span class="date">1544</span> <span class="name">George</span> <a href="../cite/George/1544/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1545</span> <span class="name">George</span> <a href="../cite/George/1545/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/George/1545/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/George/1545/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXIV</span></a>;
+ <span class="date">1546</span> <span class="name">George</span> <a href="../cite/George/1546/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1547</span> <span class="name">George</span> <a href="../cite/George/1547/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/George/1547/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCIII</span></a>;
+ <span class="date">1548</span> <span class="name">George</span> <a href="../cite/George/1548/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/George/1548/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 79</span></a>;
+ <span class="date">1550</span> <span class="name">George</span> <a href="../cite/George/1550/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/George/1550/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCV</span></a>;
+ <span class="date">1552</span> <span class="name">George</span> <a href="../cite/George/1552/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1553</span> <span class="name">George</span> <a href="../cite/George/1553/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/George/1553/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1554</span> <span class="name">Georg</span> <a href="../cite/Georg/1554/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">George</span> <a href="../cite/George/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1555</span> <span class="name">Georg</span> <a href="../cite/Georg/1555/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">George</span> <a href="../cite/George/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/George/1555/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1556</span> <span class="name">George</span> <a href="../cite/George/1556/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/George/1556/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1557</span> <span class="name">George</span> <a href="../cite/George/1557/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/George/1557/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/George/1557/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1558</span> <span class="name">Georg</span> <a href="../cite/Georg/1558/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">George</span> <a href="../cite/George/1558/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 134</span></a>,
+ <a href="../cite/George/1558/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1559</span> <span class="name">George</span> <a href="../cite/George/1559/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 29</span></a>,
+ <a href="../cite/George/1559/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/George/1559/DU-DSMMar"><span class="bib_key">DU-DSMMar</span></a>,
+ <a href="../cite/George/1559/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1560</span> <span class="name">George</span> <a href="../cite/George/1560/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/George/1560/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 47</span></a>,
+ <a href="../cite/George/1560/DU-DSMMar"><span class="bib_key">DU-DSMMar</span></a>,
+ <a href="../cite/George/1560/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/George/1560/SOmar-vol9"><span class="bib_key">SOmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/George/1560/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/George/1560/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Gorge</span> <a href="../cite/Gorge/1560/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1561</span> <span class="name">George</span> <a href="../cite/George/1561/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/George/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/George/1561/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 14</span></a>,
+ <a href="../cite/George/1561/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 110</span></a>;
+ <span class="date">1562</span> <span class="name">Georg</span> <a href="../cite/Georg/1562/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">George</span> <a href="../cite/George/1562/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 12</span></a>,
+ <a href="../cite/George/1562/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/George/1562/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1563</span> <span class="name">George</span> <a href="../cite/George/1563/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 29</span></a>,
+ <a href="../cite/George/1563/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/George/1563/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/George/1563/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 56</span></a>,
+ <a href="../cite/George/1563/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1564</span> <span class="name">Georg</span> <a href="../cite/Georg/1564/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">George</span> <a href="../cite/George/1564/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/George/1564/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>,
+ <a href="../cite/George/1564/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/George/1564/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 17</span></a>,
+ <a href="../cite/George/1564/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1565</span> <span class="name">George</span> <a href="../cite/George/1565/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/George/1565/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/George/1565/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/George/1565/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/George/1565/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 17</span></a>,
+ <a href="../cite/George/1565/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/George/1565/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1566</span> <span class="name">George</span> <a href="../cite/George/1566/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 30</span></a>,
+ <a href="../cite/George/1566/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1567</span> <span class="name">Georg</span> <a href="../cite/Georg/1567/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">George</span> <a href="../cite/George/1567/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/George/1567/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1568</span> <span class="name">George</span> <a href="../cite/George/1568/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2b</span></a>,
+ <a href="../cite/George/1568/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 20</span></a>,
+ <a href="../cite/George/1568/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1569</span> <span class="name">George</span> <a href="../cite/George/1569/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 69</span></a>,
+ <a href="../cite/George/1569/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 82</span></a>,
+ <a href="../cite/George/1569/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 20</span></a>,
+ <a href="../cite/George/1569/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1570</span> <span class="name">George</span> <a href="../cite/George/1570/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/George/1570/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/George/1570/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 20</span></a>,
+ <a href="../cite/George/1570/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1571</span> <span class="name">George</span> <a href="../cite/George/1571/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 17</span></a>,
+ <a href="../cite/George/1571/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/George/1571/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/George/1571/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1572</span> <span class="name">Georg</span> <a href="../cite/Georg/1572/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">George</span> <a href="../cite/George/1572/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1573</span> <span class="name">George</span> <a href="../cite/George/1573/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/George/1573/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1574</span> <span class="name">George</span> <a href="../cite/George/1574/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>,
+ <a href="../cite/George/1574/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1576</span> <span class="name">George</span> <a href="../cite/George/1576/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/George/1576/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1576/7</span> <span class="name">George</span> <a href="../cite/George/1576s7/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1576</span> <span class="name">George</span> <a href="../cite/George/1576/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/George/1576/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1577</span> <span class="name">George</span> <a href="../cite/George/1577/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/George/1577/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1578</span> <span class="name">George</span> <a href="../cite/George/1578/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 30</span></a>,
+ <a href="../cite/George/1578/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/George/1578/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1579</span> <span class="name">George</span> <a href="../cite/George/1579/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/George/1579/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 79</span></a>,
+ <a href="../cite/George/1579/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/George/1579/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1580</span> <span class="name">George</span> <a href="../cite/George/1580/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1581</span> <span class="name">George</span> <a href="../cite/George/1581/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/George/1581/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1582</span> <span class="name">George</span> <a href="../cite/George/1582/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/George/1582/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1584</span> <span class="name">Georg</span> <a href="../cite/Georg/1584/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">George</span> <a href="../cite/George/1584/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 130</span></a>,
+ <a href="../cite/George/1584/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/George/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/George/1584/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/George/1584/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1585</span> <span class="name">Georg</span> <a href="../cite/Georg/1585/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Gorge</span> <a href="../cite/Gorge/1585/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1586</span> <span class="name">George</span> <a href="../cite/George/1586/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/George/1586/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 40</span></a>,
+ <a href="../cite/George/1586/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 47</span></a>,
+ <span class="name">Gorge</span> <a href="../cite/Gorge/1586/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1587</span> <span class="name">George</span> <a href="../cite/George/1587/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 12</span></a>,
+ <a href="../cite/George/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 14</span></a>,
+ <a href="../cite/George/1587/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/George/1587/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1588</span> <span class="name">George</span> <a href="../cite/George/1588/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1588/9</span> <span class="name">George</span> <a href="../cite/George/1588s9/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1588</span> <span class="name">George</span> <a href="../cite/George/1588/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/George/1588/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1589</span> <span class="name">George</span> <a href="../cite/George/1589/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1589/90</span> <span class="name">George</span> <a href="../cite/George/1589s90/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1589</span> <span class="name">George</span> <a href="../cite/George/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 18</span></a>,
+ <a href="../cite/George/1589/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/George/1589/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1590</span> <span class="name">George</span> <a href="../cite/George/1590/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 96</span></a>,
+ <a href="../cite/George/1590/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 30</span></a>,
+ <a href="../cite/George/1590/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 49</span></a>,
+ <a href="../cite/George/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 20</span></a>,
+ <a href="../cite/George/1590/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/George/1590/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/George/1590/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1591</span> <span class="name">George</span> <a href="../cite/George/1591/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 23</span></a>,
+ <a href="../cite/George/1591/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1592</span> <span class="name">George</span> <a href="../cite/George/1592/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/George/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 24</span></a>,
+ <a href="../cite/George/1592/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1593</span> <span class="name">George</span> <a href="../cite/George/1593/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 86</span></a>,
+ <a href="../cite/George/1593/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 76</span></a>,
+ <a href="../cite/George/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1594</span> <span class="name">George</span> <a href="../cite/George/1594/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 31</span></a>,
+ <a href="../cite/George/1594/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/George/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 28</span></a>,
+ <a href="../cite/George/1594/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1595</span> <span class="name">George</span> <a href="../cite/George/1595/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 16</span></a>,
+ <a href="../cite/George/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 31</span></a>,
+ <a href="../cite/George/1595/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1596</span> <span class="name">George</span> <a href="../cite/George/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1597</span> <span class="name">Georg</span> <a href="../cite/Georg/1597/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 38</span></a>,
+ <span class="name">George</span> <a href="../cite/George/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 35</span></a>,
+ <a href="../cite/George/1597/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/George/1597/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1598</span> <span class="name">George</span> <a href="../cite/George/1598/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/George/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1599</span> <span class="name">George</span> <a href="../cite/George/1599/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>,
+ <a href="../cite/George/1599/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/George/1599/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 39</span></a>,
+ <a href="../cite/George/1599/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 57</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1421</span> <span class="name">Jurien</span> <a href="../cite/Jurien/1421/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1426</span> <span class="name">Jurien</span> <a href="../cite/Jurien/1426/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1430</span> <span class="name">Iurgen</span> <a href="../cite/Iurgen/1430/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 354</span></a>;
+ <span class="date">1433</span> <span class="name">Jurgen</span> <a href="../cite/Jurgen/1433/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>;
+ <span class="date">1435</span> <span class="name">Joren</span> <a href="../cite/Joren/1435/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>;
+ <span class="date">1436</span> <span class="name">Yuryan</span> <a href="../cite/Yuryan/1436/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>;
+ <span class="date">1437</span> <span class="name">Jurghen</span> <a href="../cite/Jurghen/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 361</span></a>;
+ <span class="date">1524x1532</span> <span class="name">Jurge</span> (<span class="case">nom</span>) <a href="../cite/Jurge/1524x1532/Saareste1923b"><span class="bib_key">Saareste1923b</span> <span class="bib_loc">p. 139</span></a>;
+ <span class="date">1525</span> <span class="name">Jurghen</span> (<span class="case">nom</span>) <a href="../cite/Jurghen/1525/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 147</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1592</span> <span class="name">Jorgies</span> <a href="../cite/Jorgies/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 286</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1564</span> <span class="name">Jurgen</span> (<span class="case">nom</span>) <a href="../cite/Jurgen/1564/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 234</span></a>,
+ <span class="name">Jürgen</span> (<span class="case">nom</span>) <a href="../cite/Jürgen/1564/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 275</span></a>;
+ <span class="date">1565</span> <span class="name">Jurgen</span> (<span class="case">nom</span>) <a href="../cite/Jurgen/1565/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 194</span></a>,
+ <span class="name">Jürgen</span> (<span class="case">nom</span>) <a href="../cite/Jürgen/1565/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 262</span></a>;
+ <span class="date">1576</span> <span class="name">Jurgen</span> <a href="../cite/Jurgen/1576/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 282</span></a>;
+ <span class="date">1577</span> <span class="name">Jürgen</span> (<span class="case">nom</span>) <a href="../cite/Jürgen/1577/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 208</span></a>;
+ <span class="date">1583</span> <span class="name">Jürgen</span> (<span class="case">nom</span>) <a href="../cite/Jürgen/1583/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 67</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Jören</span> (<span class="case">nom</span>) <a href="../cite/Jören/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 167</span></a>,
+ <span class="name">Örijan</span> (<span class="case">nom</span>) <a href="../cite/Örijan/1548/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 168</span></a>;
+ <span class="date">1582</span> <span class="name">Jorgij</span> (<span class="case">nom</span>) <a href="../cite/Jorgij/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 171</span></a>,
+ <span class="name">Jyrgi</span> (<span class="case">nom</span>) <a href="../cite/Jyrgi/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 171</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1180</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1378</span> <span class="name">Georgio</span> (<span class="case">dat</span>) <a href="../cite/Georgio/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">2051</span></a>,
+ <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1416</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Jorge</span> <a href="../cite/Jorge/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1313</span> <span class="name">Jorge</span> <a href="../cite/Jorge/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 96</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">George</span> <a href="../cite/George/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 609</span></a>;
+ <span class="date">1421</span> <span class="name">George</span> <a href="../cite/George/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">895</span></a>;
+ <span class="date">1438</span> <span class="name">George</span> <a href="../cite/George/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">280</span></a>;
+ <span class="date">1562</span> <span class="name">Georges</span> <a href="../cite/Georges/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1563</span> <span class="name">Georges</span> <a href="../cite/Georges/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1564</span> <span class="name">Georges</span> <a href="../cite/Georges/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1565</span> <span class="name">Georges</span> <a href="../cite/Georges/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1566</span> <span class="name">Georges</span> <a href="../cite/Georges/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 197</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Georget</span> <a href="../cite/Georget/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 607</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1230</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1230/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">p. 91</span></a>;
+ <span class="date">1238</span> <span class="name">Georius</span> (<span class="case">nom</span>) <a href="../cite/Georius/1238/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1415</span> <span class="name">Georgium</span> (<span class="case">acc</span>) <a href="../cite/Georgium/1415/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCC</span></a>,
+ <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1415/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCC</span></a>,
+ <span class="name">Georius</span> (<span class="case">nom</span>) <a href="../cite/Georius/1415/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCII</span></a>;
+ <span class="date">1422</span> <span class="name">Georius</span> (<span class="case">nom</span>) <a href="../cite/Georius/1422/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXVIII</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1400</span> <span class="name">Geory</span> (<span class="case">nom</span>) <a href="../cite/Geory/1400/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXVIII</span></a>;
+ <span class="date">1401</span> <span class="name">Jörgen</span> (<span class="case">gen</span>) <a href="../cite/Jörgen/1401/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXIX</span></a>;
+ <span class="date">1405</span> <span class="name">Jörgen</span> (<span class="case">gen</span>) <a href="../cite/Jörgen/1405/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXIX</span></a>;
+ <span class="date">1407</span> <span class="name">Jörgen</span> (<span class="case">dat</span>) <a href="../cite/Jörgen/1407/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXXII</span></a>;
+ <span class="date">1411</span> <span class="name">Jörgen</span> (<span class="case">dat</span>) <a href="../cite/Jörgen/1411/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCIV</span></a>;
+ <span class="date">1413</span> <span class="name">Jörg</span> (<span class="case">nom</span>) <a href="../cite/Jörg/1413/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCVI</span></a>,
+ <span class="name">Jörgen</span> (<span class="case">dat</span>) <a href="../cite/Jörgen/1413/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCVI</span></a>;
+ <span class="date">1416</span> <span class="name">Jörg</span> (<span class="case">nom</span>) <a href="../cite/Jörg/1416/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCIII</span></a>,
+ <span class="name">Jörgen</span> (<span class="case">gen</span>) <a href="../cite/Jörgen/1416/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCIII</span></a>;
+ <span class="date">1419</span> <span class="name">Georius</span> (<span class="case">nom</span>) <a href="../cite/Georius/1419/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXII</span></a>,
+ <span class="name">Jörg</span> (<span class="case">nom</span>) <a href="../cite/Jörg/1419/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXII</span></a>;
+ <span class="date">1424</span> <span class="name">Jörge</span> (<span class="case">nom</span>) <a href="../cite/Jörge/1424/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXX</span></a>;
+ <span class="date">1428</span> <span class="name">Jörg</span> (<span class="case">nom</span>) <a href="../cite/Jörg/1428/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXVII</span></a>;
+ <span class="date">1429</span> <span class="name">Jörgen</span> (<span class="case">dat</span>) <a href="../cite/Jörgen/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXX</span></a>;
+ <span class="date">1497</span> <span class="name">Jorg</span> <a href="../cite/Jorg/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">74</span></a>,
+ <span class="name">Jörg</span> <a href="../cite/Jörg/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">1812</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Zorzi</span> (<span class="case">gen</span>) <a href="../cite/Zorzi/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">430</span></a>;
+ <span class="date">1285</span> <span class="name">Georgii</span> (<span class="case">gen</span>) <a href="../cite/Georgii/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 157</span></a>;
+ <span class="date">1324</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1324/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 46, 3695</span></a>;
+ <span class="date">1376</span> <span class="name">Georgii</span> (<span class="case">gen</span>) <a href="../cite/Georgii/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 223</span></a>,
+ <span class="name">Georgio</span> (<span class="case">abl</span>) <a href="../cite/Georgio/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Georgi</span> (<span class="case">gen</span>) <a href="../cite/Georgi/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 59, 55</span></a>,
+ <span class="name">Iorius</span> (<span class="case">nom</span>) <a href="../cite/Iorius/1522x1532/DSF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56, 11</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1310</span> <span class="name">Georgini</span> (<span class="case">gen</span>) <a href="../cite/Georgini/1310/MonRav-2"><span class="bib_key">MonRav-2</span> <span class="bib_loc">CCCL</span></a>;
+ <span class="date">1326</span> <span class="name">Zorzolo</span> (<span class="case">abl</span>) <a href="../cite/Zorzolo/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 423</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">Jurian</span> (<span class="case">nom</span>) <a href="../cite/Jurian/1301/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">312</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1463</span> <span class="name">Jurgen</span> <a href="../cite/Jurgen/1463/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1506</span> <span class="name">Jorge</span> <a href="../cite/Jorge/1506/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1521</span> <span class="name">Jurgen</span> <a href="../cite/Jurgen/1521/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 90</span></a>,
+ <a href="../cite/Jurgen/1521/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1522</span> <span class="name">Jurgen</span> <a href="../cite/Jurgen/1522/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1523</span> <span class="name">Jurgen</span> <a href="../cite/Jurgen/1523/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 98</span></a>;
+ <span class="date">1524</span> <span class="name">Jurgen</span> <a href="../cite/Jurgen/1524/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 99</span></a>;
+ <span class="date">1532</span> <span class="name">Jurgen</span> <a href="../cite/Jurgen/1532/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1549</span> <span class="name">Jurgen</span> <a href="../cite/Jurgen/1549/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1565x1577</span> <span class="name">Jurgen</span> <a href="../cite/Jurgen/1565x1577/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1573</span> <span class="name">Jurgen</span> <a href="../cite/Jurgen/1573/Arbuzov1920"><span class="bib_key">Arbuzov1920</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1582x1594</span> <span class="name">Jurgen</span> <a href="../cite/Jurgen/1582x1594/Arbuzov1920"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Lithuania</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Polish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1545</span> <span class="name">Jurgysa</span> (<span class="case">nom</span>) <a href="../cite/Jurgysa/1545/Kaunas2006"><span class="bib_key">Kaunas2006</span> <span class="bib_loc">p. 82, 86</span></a>;
+ <span class="date">1561x1565</span> <span class="name">Jurgia</span> (<span class="case">gen</span>) <a href="../cite/Jurgia/1561x1565/Kaunas2006"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1585</span> <span class="name">Ioris</span> <a href="../cite/Ioris/1585/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1586</span> <span class="name">Ioris</span> <a href="../cite/Ioris/1586/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1587</span> <span class="name">Ioris</span> <a href="../cite/Ioris/1587/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1588</span> <span class="name">Joris</span> <a href="../cite/Joris/1588/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1589</span> <span class="name">Joris</span> <a href="../cite/Joris/1589/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1425</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1425/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1506</span> <span class="name">Georgio</span> (<span class="case">dat</span>) <a href="../cite/Georgio/1506/RegDunf"><span class="bib_key">RegDunf</span> <span class="bib_loc">496</span></a>;
+ <span class="date">1555</span> <span class="name">Georgii</span> (<span class="case">gen</span>) <a href="../cite/Georgii/1555/RegDunf"><span class="bib_key">ibid.</span> <span class="bib_loc">577</span></a>,
+ <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1555/RegDunf"><span class="bib_key">ibid.</span> <span class="bib_loc">577</span></a>;
+ <span class="date">1578</span> <span class="name">Georgius</span> (<span class="case">nom</span>) <a href="../cite/Georgius/1578/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">15</span></a></dd>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1550</span> <span class="name">George</span> <a href="../cite/George/c1550/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">p. xxiii</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Jordi</span> <a href="../cite/Jordi/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3592</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Georgius</span> <a href="../cite/Georgius/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1918</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1469</span> <span class="name">Georgio</span> (<span class="case">abl</span>) <a href="../cite/Georgio/1469/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">19</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, N. Shiel, J. Uckelman, S.L. Uckelman. "George". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/George.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

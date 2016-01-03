@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Onofrio</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Onofrio</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Greek</span> <i>Ὀνούφριος</i> from <span class="lang">Egyptian</span> <i>Wnn-nfr</i> 'he who is always happy', an epithet of Osiris.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 4th or 5th C Egyptian saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1378</span> <span class="name">Onofrio</span> (<span class="case">dat</span>) <a href="../cite/Onofrio/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1811</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1300</span> <span class="name">Onufrio</span> (<span class="case">abl</span>) <a href="../cite/Onufrio/1300/ActDipVeneto-I-1"><span class="bib_key">ActDipVeneto-I-1</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1348</span> <span class="name">Nofrii</span> (<span class="case">gen</span>) <a href="../cite/Nofrii/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">32</span></a>,
+ <span class="name">Nofrius</span> (<span class="case">nom</span>) <a href="../cite/Nofrius/1348/INP"><span class="bib_key">ibid.</span> <span class="bib_loc">22</span></a>;
+ <span class="date">1527</span> <span class="name">Honofrij</span> (<span class="case">gen</span>) <a href="../cite/Honofrij/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 86</span></a>,
+ <span class="name">Honufrij</span> (<span class="case">gen</span>) <a href="../cite/Honufrij/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Noffre</span> <a href="../cite/Noffre/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">162</span></a>,
+ <span class="name">Nofre</span> <a href="../cite/Nofre/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">4342</span></a>,
+ <span class="name">Onofre</span> <a href="../cite/Onofre/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3265</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Onofrio". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Onofrio.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

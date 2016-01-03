@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Zachary</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Zachary</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>זְכַרְיָה</i> 'God has remembered'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of one of the Biblical prophets and of the father of John the Baptist, a 2nd C martyr, an 8th C Nubian king, an 8th C pope, a 9th C Nubian king, a 9th C khagan of the Khazars, and an 11th C saint. Wycliffite Bible (1395): <i>Sacarie</i>, <i>Sakarie</i>.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Acharias</span> (<span class="case">nom</span>) <a href="../cite/Acharias/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Zacharias</span> <a href="../cite/Zacharias/1572/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Asse</span></a>;
+ <span class="date">1573</span> <span class="name">Zacharias</span> <a href="../cite/Zacharias/1573/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Coen</span></a>;
+ <span class="date">1585</span> <span class="name">Sacharias</span> <a href="../cite/Sacharias/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Engels</span></a>;
+ <span class="date">1592</span> <span class="name">Sacharias</span> <a href="../cite/Sacharias/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Damme</span></a>;
+ <span class="date">1596</span> <span class="name">Sacharias</span> <a href="../cite/Sacharias/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Fudlix</span></a>;
+ <span class="date">1599</span> <span class="name">Zacharias</span> <a href="../cite/Zacharias/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Frederick</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1420</span> <span class="name">Acris</span> <a href="../cite/Acris/1420/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 53</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1584</span> <span class="name">Zachery</span> <a href="../cite/Zachery/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1589</span> <span class="name">Zachrie</span> <a href="../cite/Zachrie/1589/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1594</span> <span class="name">Sachery</span> <a href="../cite/Sachery/1594/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1595</span> <span class="name">Sachery</span> <a href="../cite/Sachery/1595/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1596</span> <span class="name">Zachary</span> <a href="../cite/Zachary/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1599</span> <span class="name">Zachary</span> <a href="../cite/Zachary/1599/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1115x1149</span> <span class="name">Zacharias</span> (<span class="case">nom</span>) <a href="../cite/Zacharias/1115x1149/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1126</span> <span class="name">Zacharias</span> (<span class="case">nom</span>) <a href="../cite/Zacharias/1126/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1561</span> <span class="name">Zacharie</span> <a href="../cite/Zacharie/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1562</span> <span class="name">Zacharie</span> <a href="../cite/Zacharie/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1564</span> <span class="name">Zacharie</span> <a href="../cite/Zacharie/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1565</span> <span class="name">Zacharie</span> <a href="../cite/Zacharie/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 107</span></a>;
+ <span class="date">1566</span> <span class="name">Zacharie</span> <a href="../cite/Zacharie/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 205</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">858</span> <span class="name">Zachariae</span> (<span class="case">gen</span>) <a href="../cite/Zachariae/858/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">865</span> <span class="name">Zachariae</span> (<span class="case">gen</span>) <a href="../cite/Zachariae/865/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1192</span> <span class="name">Zacharias</span> (<span class="case">nom</span>) <a href="../cite/Zacharias/1192/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">40</span></a>;
+ <span class="date">c1235</span> <span class="name">Zacharias</span> (<span class="case">nom</span>) <a href="../cite/Zacharias/c1235/UrkHan"><span class="bib_key">UrkHan</span> <span class="bib_loc">1</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Zacharias</span> <a href="../cite/Zacharias/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">1132</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1285</span> <span class="name">Çacharie</span> (<span class="case">gen</span>) <a href="../cite/Çacharie/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 154</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Zacharia</span> (<span class="case">nom</span>) <a href="../cite/Zacharia/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 59, 48</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1291</span> <span class="name">Zacharie</span> (<span class="case">nom</span>) <a href="../cite/Zacharie/1291/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">298</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Zachary". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Zachary.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

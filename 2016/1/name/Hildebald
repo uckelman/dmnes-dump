@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Hildebald</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Hildebald</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>hiltja</i> 'battle' + <span class="lang">Old High German</span> <i>bald</i> 'bold'.
+</span>
+  
+</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Hildeboldus</span> (<span class="case">nom</span>) <a href="../cite/Hildeboldus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">22, Palatiolum</span></a>,
+ <span class="name">Hildevoldus</span> (<span class="case">nom</span>) <a href="../cite/Hildevoldus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">23, CE</span></a>;
+ <span class="date">825</span> <span class="name">Hildebaldo</span> (<span class="case">abl</span>) <a href="../cite/Hildebaldo/825/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Hildebaldum</span> (<span class="case">acc</span>) <a href="../cite/Hildebaldum/825/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Hildebaldus</span> (<span class="case">nom</span>) <a href="../cite/Hildebaldus/825/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>;
+ <span class="date">862</span> <span class="name">Hildeboldus</span> (<span class="case">nom</span>) <a href="../cite/Hildeboldus/862/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">786</span> <span class="name">Hildebaldus</span> (<span class="case">nom</span>) <a href="../cite/Hildebaldus/786/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">I</span></a>;
+ <span class="date">788</span> <span class="name">Hildebaldus</span> (<span class="case">nom</span>) <a href="../cite/Hildebaldus/788/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>;
+ <span class="date">815</span> <span class="name">Hildebaldus</span> (<span class="case">nom</span>) <a href="../cite/Hildebaldus/815/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">III</span></a>;
+ <span class="date">816</span> <span class="name">Hildebaldo</span> (<span class="case">abl</span>) <a href="../cite/Hildebaldo/816/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>,
+ <span class="name">Hildebaldus</span> (<span class="case">nom</span>) <a href="../cite/Hildebaldus/816/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">983</span> <span class="name">Hildibaldus</span> (<span class="case">nom</span>) <a href="../cite/Hildibaldus/983/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XLVI</span></a>;
+ <span class="date">985</span> <span class="name">Hildiboldus</span> (<span class="case">nom</span>) <a href="../cite/Hildiboldus/985/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">90</span></a>;
+ <span class="date">988</span> <span class="name">Hildibaldus</span> (<span class="case">nom</span>) <a href="../cite/Hildibaldus/988/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XLIX</span></a>;
+ <span class="date">997</span> <span class="name">Hildebaldus</span> (<span class="case">nom</span>) <a href="../cite/Hildebaldus/997/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Hildibaldus</span> (<span class="case">nom</span>) <a href="../cite/Hildibaldus/997/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">46</span></a>;
+ <span class="date">998</span> <span class="name">Hildebaldus</span> (<span class="case">nom</span>) <a href="../cite/Hildebaldus/998/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>;
+ <span class="date">1020</span> <span class="name">Hildeboldus</span> (<span class="case">nom</span>) <a href="../cite/Hildeboldus/1020/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">58</span></a>;
+ <span class="date">1100</span> <span class="name">Hildeboldus</span> (<span class="case">nom</span>) <a href="../cite/Hildeboldus/1100/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">a1286</span> <span class="name">Hildeboldo</span> (<span class="case">dat</span>) <a href="../cite/Hildeboldo/a1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1287</span> <span class="name">Hildeboldo</span> (<span class="case">dat</span>) <a href="../cite/Hildeboldo/1287/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">493</span></a>;
+ <span class="date">1294</span> <span class="name">Hildeboldo</span> (<span class="case">dat</span>) <a href="../cite/Hildeboldo/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">302</span></a>;
+ <span class="date">1301</span> <span class="name">Hildeboldo</span> (<span class="case">dat</span>) <a href="../cite/Hildeboldo/1301/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">313</span></a>,
+ <span class="name">Hilleboldo</span> (<span class="case">dat</span>) <a href="../cite/Hilleboldo/1301/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">310</span></a>;
+ <span class="date">1302</span> <span class="name">Hilleboldo</span> (<span class="case">dat</span>) <a href="../cite/Hilleboldo/1302/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">370</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Hildebald". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Hildebald.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

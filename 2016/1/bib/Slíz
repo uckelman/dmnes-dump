@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Slíz</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>Slíz</dt>
+  <dd>Mariann Slíz. <em>Anjou-kori személynévtár (1301-1342)</em>. Budapest: Históriaantik, 2011.</dd>
+</dl>
+
+
+  <a href="../cite/Abraam/1332x1337/Slíz">Abraam</a>
+
+  <a href="../cite/Abraam/1341/Slíz">Abraam</a>
+
+  <a href="../cite/Abraam/1327/Slíz">Abraam</a>
+
+  <a href="../cite/Abraam/1335/Slíz">Abraam</a>
+
+  <a href="../cite/Abraam/1330/Slíz">Abraam</a>
+
+  <a href="../cite/Abraam/1311/Slíz">Abraam</a>
+
+  <a href="../cite/Abrache/1306/Slíz">Abrache</a>
+
+  <a href="../cite/Abrae/1342/Slíz">Abrae</a>
+
+  <a href="../cite/Abrae/1331/Slíz">Abrae</a>
+
+  <a href="../cite/Abraham/1324/Slíz">Abraham</a>
+
+  <a href="../cite/Abraham/1302/Slíz">Abraham</a>
+
+  <a href="../cite/Abraham/1320/Slíz">Abraham</a>
+
+  <a href="../cite/Abrahe/1302/Slíz">Abrahe</a>
+
+  <a href="../cite/Abram/1302/Slíz">Abram</a>
+
+  <a href="../cite/Abram/1329/Slíz">Abram</a>
+
+  <a href="../cite/Abram/1320/Slíz">Abram</a>
+
+  <a href="../cite/Abrank/1313/Slíz">Abrank</a>
+
+  <a href="../cite/Abych/1334/Slíz">Abych</a>
+
+  <a href="../cite/Achilles/1310/Slíz">Achilles</a>
+
+  <a href="../cite/Adolphi/1311/Slíz">Adolphi</a>
+
+  <a href="../cite/Adriani/1310/Slíz">Adriani</a>
+
+  <a href="../cite/Adriani/1342/Slíz">Adriani</a>
+
+  <a href="../cite/Adriani/1323/Slíz">Adriani</a>
+
+  <a href="../cite/Adriani/1326/Slíz">Adriani</a>
+
+  <a href="../cite/Adriano/1329/Slíz">Adriano</a>
+
+  <a href="../cite/Adriano/1337/Slíz">Adriano</a>
+
+  <a href="../cite/Adrianum/1304/Slíz">Adrianum</a>
+
+  <a href="../cite/Adrianus/1317/Slíz">Adrianus</a>
+
+  <a href="../cite/Adryanus/1309/Slíz">Adryanus</a>
+
+  <a href="../cite/Agata/1302/Slíz">Agata</a>
+
+  <a href="../cite/Aglent/1327/Slíz">Aglent</a>
+
+  <a href="../cite/Aglenth/1303/Slíz">Aglenth</a>
+
+  <a href="../cite/Agna/1323/Slíz">Agna</a>
+
+  <a href="../cite/Agnetem/1339/Slíz">Agnetem</a>
+
+  <a href="../cite/Aguch/1340/Slíz">Aguch</a>
+
+  <a href="../cite/Alardi/1313/Slíz">Alardi</a>
+
+  <a href="../cite/Apsolon/1313/Slíz">Apsolon</a>
+
+  <a href="../cite/Ehellei/1321/Slíz">Ehellei</a>
+
+  <a href="../cite/Ehelleus/1304/Slíz">Ehelleus</a>
+
+  <a href="../cite/Harbahe/1332x37/Slíz">Harbahe</a>
+
+  <a href="../cite/Odon/1321/Slíz">Odon</a>
+
+  <a href="../cite/Odun/1322/Slíz">Odun</a>
+
+  <a href="../cite/adriany/1313/Slíz">adriany</a>
+
+  <a href="../cite/agneti/1308/Slíz">agneti</a>
+
+  <a href="../cite/wyola/1321/Slíz">wyola</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Pagan</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Pagan</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>paganus</i> 'rustic, rural'.
+</span>
+  
+</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1189</span> <span class="name">Paen</span> (<span class="case">nom</span>) <a href="../cite/Paen/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 78</span></a>,
+ <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1299</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/1299/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1300</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 238</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1101x1129</span> <span class="name">Pagano</span> (<span class="case">abl</span>) <a href="../cite/Pagano/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXII</span></a>,
+ <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">1107</span> <span class="name">Pagano</span> (<span class="case">abl</span>) <a href="../cite/Pagano/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>,
+ <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>;
+ <span class="date">a1114</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/a1114/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1115</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1115x1149/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1120</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1120/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1124</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/1124/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1126</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1126/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1135</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x62</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">58</span></a>;
+ <span class="date">1147</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Pagano</span> (<span class="case">dat</span>) <a href="../cite/Pagano/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1147x62</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1147x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">51</span></a>;
+ <span class="date">c1156</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/c1156/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXXII</span></a>,
+ <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/c1156/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1163</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">99</span></a>,
+ <span class="name">Pagano</span> (<span class="case">abl</span>) <a href="../cite/Pagano/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">104</span></a>;
+ <span class="date">1163–64</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1164</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1179</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">170</span></a>,
+ <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>;
+ <span class="date">1180</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Pagano</span> (<span class="case">abl</span>) <a href="../cite/Pagano/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Pagan</span> <a href="../cite/Pagan/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 78</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Paien</span> <a href="../cite/Paien/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 600</span></a>,
+ <span class="name">Payen</span> <a href="../cite/Payen/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 597</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Paen</span> (<span class="case">nom</span>) <a href="../cite/Paen/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 25</span></a>,
+ <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 3</span></a>,
+ <span class="name">Pain</span> (<span class="case">gen</span>) <a href="../cite/Pain/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 5</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">135</span></a>;
+ <span class="date">1281</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1281/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIII</span></a>;
+ <span class="date">1282</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1282/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVII</span></a>;
+ <span class="date">1287</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1287/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIV</span></a>;
+ <span class="date">1298</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/1298/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1300</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1300/ActDipVeneto-I-1"><span class="bib_key">ActDipVeneto-I-1</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1326</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 438</span></a>,
+ <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 437</span></a>;
+ <span class="date">1327</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/1327/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 449</span></a>;
+ <span class="date">1527</span> <span class="name">Pagani</span> (<span class="case">gen</span>) <a href="../cite/Pagani/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 89</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1285</span> <span class="name">Paganelli</span> (<span class="case">gen</span>) <a href="../cite/Paganelli/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 159</span></a>,
+ <span class="name">Paganutii</span> (<span class="case">gen</span>) <a href="../cite/Paganutii/1285/Perugia1285"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 159</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1120</span> <span class="name">Pagano</span> (<span class="case">abl</span>) <a href="../cite/Pagano/c1120/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XXXV</span></a>;
+ <span class="date">1124</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1124/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">L</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1141</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1141/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1161</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1161/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1220</span> <span class="name">Paganus</span> (<span class="case">nom</span>) <a href="../cite/Paganus/1220/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Pagan". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Pagan.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

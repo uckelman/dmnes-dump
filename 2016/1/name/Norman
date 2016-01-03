@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Norman</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Norman</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Anglo-Norman</span> <i>Norman(d/t), Normon</i>, <span class="lang">Old French</span> <i>Normant</i>, <span class="lang">Old English</span> <i>Norman(n)</i> 'Norman, man from Normandy', from <span class="lang">Old High German</span> <i>Northman, Nordman</i> 'man from the north, Scandinavian'.  The French term was used to describe the Scandinavian settlers in Normandy.
+</span>
+  
+</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Norman</span> (<span class="case">nom</span>) <a href="../cite/Norman/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 172</span></a>,
+ <span class="name">Normannus</span> (<span class="case">nom</span>) <a href="../cite/Normannus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 89</span></a>;
+ <span class="date">1279–80</span> <span class="name">Normanus</span> (<span class="case">nom</span>) <a href="../cite/Normanus/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1296</span> <span class="name">Normanni</span> (<span class="case">gen</span>) <a href="../cite/Normanni/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 93b</span></a>,
+ <span class="name">Normannus</span> (<span class="case">nom</span>) <a href="../cite/Normannus/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93a</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1439</span> <span class="name">Norman</span> <a href="../cite/Norman/1439/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 118</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Nortmannus</span> (<span class="case">nom</span>) <a href="../cite/Nortmannus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">22, CE</span></a>;
+ <span class="date">1141</span> <span class="name">Normannus</span> (<span class="case">nom</span>) <a href="../cite/Normannus/1141/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXXI</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Norman". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Norman.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>
