@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Tobias</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Tobias</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Greek</span> <i>Τοβίας</i> from <span class="lang">Hebrew</span> <i>טוביה</i> 'the goodness of God'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The titular character in the apocryphal Book of Tobit. Wycliffite Bible (1395): <i>Thobie</i>, <i>Tobie</i>.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1353</span> <span class="name">Thobie</span> (<span class="case">dat</span>) <a href="../cite/Thobie/1353/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">131</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1572/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Bie</span></a>;
+ <span class="date">1573</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1573/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bije</span></a>;
+ <span class="date">1576</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gheeraerts</span></a>;
+ <span class="date">1577</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Capelle</span></a>;
+ <span class="date">1578</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Dregge</span></a>;
+ <span class="date">1579</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bolten</span></a>;
+ <span class="date">1585</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Dhamer</span></a>;
+ <span class="date">1586</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Burdts</span></a>;
+ <span class="date">1590</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bedler</span></a>;
+ <span class="date">1591</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Abeele</span></a>;
+ <span class="date">1592</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Abeele</span></a>;
+ <span class="date">1593</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bethburrie</span></a>;
+ <span class="date">1594</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Abeele</span></a>;
+ <span class="date">1595</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Baert</span></a>;
+ <span class="date">1596</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Abeele</span></a>;
+ <span class="date">1599</span> <span class="name">Tobias</span> <a href="../cite/Tobias/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Abeele</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1326</span> <span class="name">Tobia</span> (<span class="case">abl</span>) <a href="../cite/Tobia/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 437</span></a>;
+ <span class="date">1327</span> <span class="name">Tobia</span> (<span class="case">abl</span>) <a href="../cite/Tobia/1327/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 449</span></a>;
+ <span class="date">1376</span> <span class="name">Thobia</span> (<span class="case">abl</span>) <a href="../cite/Thobia/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 98</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Tobias". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Tobias.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

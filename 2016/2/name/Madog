@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Madog</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Madog</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A derivative of <span class="lang">Old Breton</span>, <span class="lang">Middle Welsh</span> <i>mat</i> 'good, fortunate'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a legendary 12th C Welsh explorer who purportedly reached America, two 12th C princes of Powys, and two 13th C princes of Powys.</p>
+</div>
+  
+  
+<div class="def">
+  <p>In early Arthurian literature, <i>Madoc</i> is the name of a son of Uther and brother of Arthur.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1198</span> <span class="name">Madocus</span> (<span class="case">nom</span>) <a href="../cite/Madocus/1198/Pryce-1st"><span class="bib_key">Pryce-1st</span> <span class="bib_loc">no. 8</span></a>,
+ <span class="name">Madog</span> (<span class="case">abl</span>) <a href="../cite/Madog/1198/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 5</span></a>;
+ <span class="date">1206</span> <span class="name">Madoco</span> (<span class="case">abl</span>) <a href="../cite/Madoco/1206/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 9</span></a>;
+ <span class="date">1216xc1226</span> <span class="name">Madocum</span> (<span class="case">acc</span>) <a href="../cite/Madocum/1216xc1226/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16</span></a>,
+ <span class="name">Madocus</span> (<span class="case">nom</span>) <a href="../cite/Madocus/1216xc1226/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16</span></a>;
+ <span class="date">1223</span> <span class="name">Maddoc</span> (<span class="case">gen</span>) <a href="../cite/Maddoc/1223/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 20</span></a>,
+ <span class="name">Maddoc'</span> (<span class="case">abl</span>) <a href="../cite/Maddoc'/1223/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 20</span></a>;
+ <span class="date">1247</span> <span class="name">Madoco</span> (<span class="case">abl</span>) <a href="../cite/Madoco/1247/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 228</span></a>,
+ <span class="name">Madocus</span> (<span class="case">nom</span>) <a href="../cite/Madocus/1247/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 228</span></a>,
+ <span class="name">madoci</span> (<span class="case">gen</span>) <a href="../cite/madoci/1247/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 228</span></a>;
+ <span class="date">1360</span> <span class="name">Madoc</span> (<span class="case">nom</span>) <a href="../cite/Madoc/1360/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 166</span></a>;
+ <span class="date">1453</span> <span class="name">Madoc</span> (<span class="case">nom</span>) <a href="../cite/Madoc/1453/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1454</span> <span class="name">Madoc</span> (<span class="case">nom</span>) <a href="../cite/Madoc/1454/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 70</span></a>;
+ <span class="date">1455</span> <span class="name">Madoc</span> (<span class="case">nom</span>) <a href="../cite/Madoc/1455/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1456</span> <span class="name">Madoc</span> (<span class="case">nom</span>) <a href="../cite/Madoc/1456/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 258</span></a>;
+ <span class="date">1497</span> <span class="name">Madoc</span> (<span class="case">nom</span>) <a href="../cite/Madoc/1497/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1360</span> <span class="name">Madyn</span> (<span class="case">nom</span>) <a href="../cite/Madyn/1360/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 166</span></a>;
+ <span class="date">1452</span> <span class="name">Madogyn</span> (<span class="case">nom</span>) <a href="../cite/Madogyn/1452/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1453</span> <span class="name">Madogyn</span> (<span class="case">nom</span>) <a href="../cite/Madogyn/1453/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 69</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Madog". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Madog.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Hedwig</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Hedwig</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>hadu</i> 'battle' + <span class="lang">Old Saxon, Old English</span> <i>wig</i>, <span class="lang">Old High German</span> <i>wīc</i> 'war, battle'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 13th C Silesian saint and a 14th C Polish saint who was also queen of Poland.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name was primarily used in Germany and Eastern Europe, though a few early examples in France can be found.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1349</span> <span class="name">Hedwika</span> (<span class="case">nom</span>) <a href="../cite/Hedwika/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">47</span></a>;
+ <span class="date">1350</span> <span class="name">Hedwigi</span> (<span class="case">dat</span>) <a href="../cite/Hedwigi/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">175</span></a>;
+ <span class="date">1351</span> <span class="name">Hedwyca</span> (<span class="case">nom</span>) <a href="../cite/Hedwyca/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1353</span> <span class="name">Heduigy</span> (<span class="case">dat</span>) <a href="../cite/Heduigy/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">46, p. 23</span></a>;
+ <span class="date">1356</span> <span class="name">Hedwice</span> (<span class="case">dat</span>) <a href="../cite/Hedwice/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">136</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1355</span> <span class="name">Hetwycze</span> (<span class="case">dat</span>) <a href="../cite/Hetwycze/1355/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">65</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Hedwig". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Hedwig.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

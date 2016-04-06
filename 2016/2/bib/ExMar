@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>ExMar</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>ExMar</dt>
+  <dd>J. L. Vivian, editor. <em>The Marriage Licenses of the Diocese of Exeter from the Bishop's Registers</em>. Exeter: William Pollard &amp; Co., Printers, 1889.</dd>
+</dl>
+
+
+  <a href="../cite/Agnes/1547/ExMar">Agnes</a>
+
+  <a href="../cite/Agnes/1550/ExMar">Agnes</a>
+
+  <a href="../cite/Agnes/1546s7/ExMar">Agnes</a>
+
+  <a href="../cite/Agnes/1568/ExMar">Agnes</a>
+
+  <a href="../cite/Alexander/1555s6/ExMar">Alexander</a>
+
+  <a href="../cite/Alice/1568/ExMar">Alice</a>
+
+  <a href="../cite/Alice/1547/ExMar">Alice</a>
+
+  <a href="../cite/Alice/1546s7/ExMar">Alice</a>
+
+  <a href="../cite/Alson/1547/ExMar">Alson</a>
+
+  <a href="../cite/Anastasia/1555s6/ExMar">Anastasia</a>
+
+  <a href="../cite/Anna/1568/ExMar">Anna</a>
+
+  <a href="../cite/Anna/1546s7/ExMar">Anna</a>
+
+  <a href="../cite/Beatrice/1546/ExMar">Beatrice</a>
+
+  <a href="../cite/Bridgett/1568/ExMar">Bridgett</a>
+
+  <a href="../cite/Clement/1568/ExMar">Clement</a>
+
+  <a href="../cite/Dorothy/1546s7/ExMar">Dorothy</a>
+
+  <a href="../cite/Edith/1548s9/ExMar">Edith</a>
+
+  <a href="../cite/Edmund/1568/ExMar">Edmund</a>
+
+  <a href="../cite/Edward/1528/ExMar">Edward</a>
+
+  <a href="../cite/Edward/1568/ExMar">Edward</a>
+
+  <a href="../cite/Elen/1553s4/ExMar">Elen</a>
+
+  <a href="../cite/Elen/1547/ExMar">Elen</a>
+
+  <a href="../cite/Elenor/1548s9/ExMar">Elenor</a>
+
+  <a href="../cite/Eliza./1555s6/ExMar">Eliza.</a>
+
+  <a href="../cite/Elizabeth/1547/ExMar">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1546s7/ExMar">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1528/ExMar">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1548/ExMar">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1568/ExMar">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1550/ExMar">Elizabeth</a>
+
+  <a href="../cite/Emma/1568/ExMar">Emma</a>
+
+  <a href="../cite/Frances/1550/ExMar">Frances</a>
+
+  <a href="../cite/George/1528s9/ExMar">George</a>
+
+  <a href="../cite/George/1568/ExMar">George</a>
+
+  <a href="../cite/George/1523/ExMar">George</a>
+
+  <a href="../cite/Gilbot/1550/ExMar">Gilbot</a>
+
+  <a href="../cite/Henry/1546s7/ExMar">Henry</a>
+
+  <a href="../cite/Henry/1568/ExMar">Henry</a>
+
+  <a href="../cite/Jane/1555s6/ExMar">Jane</a>
+
+  <a href="../cite/Jane/1546s7/ExMar">Jane</a>
+
+  <a href="../cite/Jeronimo/1546s7/ExMar">Jeronimo</a>
+
+  <a href="../cite/Joana/1550/ExMar">Joana</a>
+
+  <a href="../cite/Joane/1550/ExMar">Joane</a>
+
+  <a href="../cite/Joanna/1553s4/ExMar">Joanna</a>
+
+  <a href="../cite/Johana/1568/ExMar">Johana</a>
+
+  <a href="../cite/Johanna/1546s7/ExMar">Johanna</a>
+
+  <a href="../cite/Johanna/1523/ExMar">Johanna</a>
+
+  <a href="../cite/Johanna/1547/ExMar">Johanna</a>
+
+  <a href="../cite/Johanna/1568/ExMar">Johanna</a>
+
+  <a href="../cite/John/1548/ExMar">John</a>
+
+  <a href="../cite/John/1550/ExMar">John</a>
+
+  <a href="../cite/John/1524s5/ExMar">John</a>
+
+  <a href="../cite/John/1546/ExMar">John</a>
+
+  <a href="../cite/John/1546s7/ExMar">John</a>
+
+  <a href="../cite/John/1568/ExMar">John</a>
+
+  <a href="../cite/John/1548s9/ExMar">John</a>
+
+  <a href="../cite/John/1555s6/ExMar">John</a>
+
+  <a href="../cite/John/1553s4/ExMar">John</a>
+
+  <a href="../cite/Katherine/1546s7/ExMar">Katherine</a>
+
+  <a href="../cite/Katherine/1528s9/ExMar">Katherine</a>
+
+  <a href="../cite/Lewis/1547/ExMar">Lewis</a>
+
+  <a href="../cite/Margaret/1568/ExMar">Margaret</a>
+
+  <a href="../cite/Margaret/1555s6/ExMar">Margaret</a>
+
+  <a href="../cite/Margery/1568/ExMar">Margery</a>
+
+  <a href="../cite/Margery/1550/ExMar">Margery</a>
+
+  <a href="../cite/Maria/1546s7/ExMar">Maria</a>
+
+  <a href="../cite/Maria/1548s9/ExMar">Maria</a>
+
+  <a href="../cite/Marion/1546s7/ExMar">Marion</a>
+
+  <a href="../cite/Mary/1568/ExMar">Mary</a>
+
+  <a href="../cite/Mergaret/1526/ExMar">Mergaret</a>
+
+  <a href="../cite/Nicholas/1546s7/ExMar">Nicholas</a>
+
+  <a href="../cite/Nicholas/1568/ExMar">Nicholas</a>
+
+  <a href="../cite/Nicholas/1547/ExMar">Nicholas</a>
+
+  <a href="../cite/Philippa/1524s5/ExMar">Philippa</a>
+
+  <a href="../cite/Radigund/1553s4/ExMar">Radigund</a>
+
+  <a href="../cite/Richard/1568/ExMar">Richard</a>
+
+  <a href="../cite/Richard/1546s7/ExMar">Richard</a>
+
+  <a href="../cite/Robert/1547/ExMar">Robert</a>
+
+  <a href="../cite/Robert/1555s6/ExMar">Robert</a>
+
+  <a href="../cite/Robert/1550/ExMar">Robert</a>
+
+  <a href="../cite/Roger/1550/ExMar">Roger</a>
+
+  <a href="../cite/Roger/1546s7/ExMar">Roger</a>
+
+  <a href="../cite/Thomas/1555s6/ExMar">Thomas</a>
+
+  <a href="../cite/Thomas/1547/ExMar">Thomas</a>
+
+  <a href="../cite/Thomasine/1550/ExMar">Thomasine</a>
+
+  <a href="../cite/William/1548s9/ExMar">William</a>
+
+  <a href="../cite/William/1528s9/ExMar">William</a>
+
+  <a href="../cite/William/1550/ExMar">William</a>
+
+  <a href="../cite/William/1568/ExMar">William</a>
+
+  <a href="../cite/William/1553s4/ExMar">William</a>
+
+  <a href="../cite/William/1546s7/ExMar">William</a>
+
+  <a href="../cite/William/1555s6/ExMar">William</a>
+
+  <a href="../cite/Wilmot/1568/ExMar">Wilmot</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

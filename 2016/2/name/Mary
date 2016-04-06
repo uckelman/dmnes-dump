@@ -1,0 +1,765 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Mary</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Mary</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Aramaic</span> <i>מַרְיָם</i>, <span class="lang">Hebrew</span> <i>מִרְיָם</i>, of uncertain origin.  It is often derived from the root <i>מר</i> 'to be bitter', but others have suggested it derives from the root <i>מרי</i> 'mutiny, rebellion, disobedience'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a Biblical prophetess, the sister of Moses, the Biblical mother of Jesus; an 11th C dowager queen and regent of Georgia, a 16th C queen consort of France, and a 16th C queen of England and Ireland. Wycliffite Bible (1395): <i>Marie</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>Though nowadays <i>Mary</i> and <i>Miriam</i> are treated as distinct names, they derive from the same root, and both appear as <i>Marie</i> in the Wycliffite Bible, showing their identification medievally.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1238</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1238/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Mariam</span> (<span class="case">acc</span>) <a href="../cite/Mariam/1238/OvdFB"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1266</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1266/OvdFB"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1266/OvdFB"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 3</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1189</span> <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 224</span></a>;
+ <span class="date">1222</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 92</span></a>;
+ <span class="date">1279–80</span> <span class="name">Marie</span> (<span class="case">dat</span>) <a href="../cite/Marie/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1381</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 88</span></a>;
+ <span class="date">1529</span> <span class="name">Mariæ</span> (<span class="case">dat</span>) <a href="../cite/Mariæ/1529/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXIX</span></a>;
+ <span class="date">1553</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1553/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1556</span> <span class="name">Mariae</span> (<span class="case">gen</span>) <a href="../cite/Mariae/1556/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1558/9</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1558s9/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1559</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1559/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1560</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1560/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1561</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1561/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1573</span> <span class="name">maria</span> (<span class="case">nom</span>) <a href="../cite/maria/1573/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 12</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1222</span> <span class="name">Mariota</span> (<span class="case">nom</span>) <a href="../cite/Mariota/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1279–80</span> <span class="name">Mariota</span> (<span class="case">nom</span>) <a href="../cite/Mariota/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1296</span> <span class="name">Merote</span> (<span class="case">dat</span>) <a href="../cite/Merote/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 93b</span></a>;
+ <span class="date">1377</span> <span class="name">Mariona</span> (<span class="case">nom</span>) <a href="../cite/Mariona/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1381</span> <span class="name">Marion</span> (<span class="case">nom</span>) <a href="../cite/Marion/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 71</span></a>,
+ <span class="name">Mariona</span> (<span class="case">nom</span>) <a href="../cite/Mariona/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Mariota</span> (<span class="case">nom</span>) <a href="../cite/Mariota/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 82</span></a>;
+ <span class="date">1560</span> <span class="name">Marion</span> (<span class="case">nom</span>) <a href="../cite/Marion/1560/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Maria</span> <a href="../cite/Maria/1572/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Bends</span></a>;
+ <span class="date">1574</span> <span class="name">Maria</span> <a href="../cite/Maria/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bonnijnck</span></a>;
+ <span class="date">1575</span> <span class="name">Maria</span> <a href="../cite/Maria/1575/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Backereel</span></a>;
+ <span class="date">1576</span> <span class="name">Maria</span> <a href="../cite/Maria/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Ende</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bouckenohle</span></a>;
+ <span class="date">1577</span> <span class="name">Maria</span> <a href="../cite/Maria/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cruijce</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Dobbelare</span></a>;
+ <span class="date">1578</span> <span class="name">Maria</span> <a href="../cite/Maria/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Eversem</span></a>;
+ <span class="date">1581</span> <span class="name">Maria</span> <a href="../cite/Maria/1581/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Brekmans</span></a>;
+ <span class="date">1582</span> <span class="name">Maria</span> <a href="../cite/Maria/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Elst</span></a>,
+ <span class="name">Miriam</span> <a href="../cite/Miriam/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beijnens</span></a>;
+ <span class="date">1583</span> <span class="name">Maria</span> <a href="../cite/Maria/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Diericks</span></a>;
+ <span class="date">1584</span> <span class="name">Maria</span> <a href="../cite/Maria/1584/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gheerartsz</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1584/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gast</span></a>;
+ <span class="date">1585</span> <span class="name">Maria</span> <a href="../cite/Maria/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Capelle</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Boone</span></a>;
+ <span class="date">1586</span> <span class="name">Maria</span> <a href="../cite/Maria/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Biliet</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Boonen</span></a>;
+ <span class="date">1587</span> <span class="name">Maria</span> <a href="../cite/Maria/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Damen</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Daele</span></a>;
+ <span class="date">1588</span> <span class="name">Maria</span> <a href="../cite/Maria/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beke</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Enserinck</span></a>;
+ <span class="date">1589</span> <span class="name">Maria</span> <a href="../cite/Maria/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cromman</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Allnyt</span></a>;
+ <span class="date">1590</span> <span class="name">Maria</span> <a href="../cite/Maria/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cox</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Boterdroghe</span></a>;
+ <span class="date">1591</span> <span class="name">Maria</span> <a href="../cite/Maria/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beck</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Garet</span></a>;
+ <span class="date">1592</span> <span class="name">Maria</span> <a href="../cite/Maria/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Baert</span></a>;
+ <span class="date">1593</span> <span class="name">Maria</span> <a href="../cite/Maria/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Balen</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Baerman</span></a>;
+ <span class="date">1595</span> <span class="name">Maria</span> <a href="../cite/Maria/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Claeijsz</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Claisz</span></a>;
+ <span class="date">1597</span> <span class="name">Maria</span> <a href="../cite/Maria/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Berghe</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Geraerts</span></a>;
+ <span class="date">1598</span> <span class="name">Maria</span> <a href="../cite/Maria/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bil</span></a>;
+ <span class="date">1599</span> <span class="name">Maria</span> <a href="../cite/Maria/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cousijn</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1433</span> <span class="name">Marie</span> <a href="../cite/Marie/1433/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 93</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1429</span> <span class="name">Maryon</span> <a href="../cite/Maryon/1429/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LV</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Mare</span> <a href="../cite/Mare/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 65</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1538</span> <span class="name">Mare</span> <a href="../cite/Mare/1538/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1539</span> <span class="name">Mare</span> <a href="../cite/Mare/1539/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1540</span> <span class="name">Mare</span> <a href="../cite/Mare/1540/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1540/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1541</span> <span class="name">Mare</span> <a href="../cite/Mare/1541/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1541/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Mary/1541/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1542</span> <span class="name">Mare</span> <a href="../cite/Mare/1542/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1542/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 78</span></a>;
+ <span class="date">1543</span> <span class="name">Mary</span> <a href="../cite/Mary/1543/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1544</span> <span class="name">Mary</span> <a href="../cite/Mary/1544/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1545</span> <span class="name">Mary</span> <a href="../cite/Mary/1545/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1545/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1546/7</span> <span class="name">Maria</span> <a href="../cite/Maria/1546s7/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1546</span> <span class="name">Mary</span> <a href="../cite/Mary/1546/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 78</span></a>;
+ <span class="date">1547</span> <span class="name">Marie</span> <a href="../cite/Marie/1547/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1548/9</span> <span class="name">Maria</span> <a href="../cite/Maria/1548s9/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2a</span></a>;
+ <span class="date">1548</span> <span class="name">Marie</span> <a href="../cite/Marie/1548/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Marrie</span> <a href="../cite/Marrie/1548/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1548/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 79</span></a>,
+ <a href="../cite/Mary/1548/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1548/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1549</span> <span class="name">Marie</span> <a href="../cite/Marie/1549/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1550</span> <span class="name">Mary</span> <a href="../cite/Mary/1550/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1551</span> <span class="name">Mary</span> <a href="../cite/Mary/1551/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/Mary/1551/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1552</span> <span class="name">Mary</span> <a href="../cite/Mary/1552/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/Mary/1552/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 79</span></a>,
+ <a href="../cite/Mary/1552/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1552/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1553</span> <span class="name">Mare</span> <a href="../cite/Mare/1553/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1553/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1553/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1554</span> <span class="name">Mare</span> <a href="../cite/Mare/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Maria</span> <a href="../cite/Maria/1554/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1554/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Marre</span> <a href="../cite/Marre/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1555</span> <span class="name">Mare</span> <a href="../cite/Mare/1555/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Marey</span> <a href="../cite/Marey/1555/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Marie</span> <a href="../cite/Marie/1555/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Marie/1555/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1555/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 108</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1556/57</span> <span class="name">Mary</span> <a href="../cite/Mary/1556s57/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1556</span> <span class="name">Mary</span> <a href="../cite/Mary/1556/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Mary/1556/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 28</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1556/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1557</span> <span class="name">Marry</span> <a href="../cite/Marry/1557/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1557/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 265p. 265</span></a>,
+ <a href="../cite/Mary/1557/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 12</span></a>,
+ <a href="../cite/Mary/1557/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1558</span> <span class="name">Mary</span> <a href="../cite/Mary/1558/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Mary/1558/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 131</span></a>,
+ <a href="../cite/Mary/1558/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1558/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1559/60</span> <span class="name">Mary</span> <a href="../cite/Mary/1559s60/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1559</span> <span class="name">Mary</span> <a href="../cite/Mary/1559/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1559/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1560</span> <span class="name">Mary</span> <a href="../cite/Mary/1560/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Mary/1560/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/Mary/1560/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/Mary/1560/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/Mary/1560/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Mary/1560/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Mary/1560/bruton-vol1"><span class="bib_key">bruton-vol1</span></a>;
+ <span class="date">1561</span> <span class="name">Mary</span> <a href="../cite/Mary/1561/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 53</span></a>,
+ <a href="../cite/Mary/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Mary/1561/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1562</span> <span class="name">Mary</span> <a href="../cite/Mary/1562/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1562/3</span> <span class="name">Mary</span> <a href="../cite/Mary/1562s3/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1562</span> <span class="name">Mary</span> <a href="../cite/Mary/1562/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 39</span></a>,
+ <a href="../cite/Mary/1562/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 14</span></a>,
+ <a href="../cite/Mary/1562/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1562/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1563</span> <span class="name">Mary</span> <a href="../cite/Mary/1563/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>,
+ <a href="../cite/Mary/1563/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Mary/1563/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 15</span></a>,
+ <a href="../cite/Mary/1563/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1564</span> <span class="name">Mary</span> <a href="../cite/Mary/1564/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 60</span></a>,
+ <a href="../cite/Mary/1564/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>,
+ <a href="../cite/Mary/1564/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>,
+ <a href="../cite/Mary/1564/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Mary/1564/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1565</span> <span class="name">Mary</span> <a href="../cite/Mary/1565/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 116</span></a>,
+ <a href="../cite/Mary/1565/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Mary/1565/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Mary/1565/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Mary/1565/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1565/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1566</span> <span class="name">Mary</span> <a href="../cite/Mary/1566/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 61</span></a>,
+ <a href="../cite/Mary/1566/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>,
+ <a href="../cite/Mary/1566/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Mary/1566/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 18</span></a>,
+ <a href="../cite/Mary/1566/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 112</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1566/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1567</span> <span class="name">Mary</span> <a href="../cite/Mary/1567/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>,
+ <a href="../cite/Mary/1567/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Mary/1567/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 37</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1567/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1568</span> <span class="name">Mary</span> <a href="../cite/Mary/1568/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 61</span></a>,
+ <a href="../cite/Mary/1568/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 84</span></a>,
+ <a href="../cite/Mary/1568/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2b</span></a>,
+ <a href="../cite/Mary/1568/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Mary/1568/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 19</span></a>,
+ <a href="../cite/Mary/1568/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1568/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1569</span> <span class="name">Marie</span> <a href="../cite/Marie/1569/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1569/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 82</span></a>,
+ <a href="../cite/Mary/1569/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Mary/1569/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Maryan</span> <a href="../cite/Maryan/1569/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1569/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 126</span></a>,
+ <a href="../cite/Marye/1569/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1570</span> <span class="name">Mary</span> <a href="../cite/Mary/1570/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Mary/1570/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 38</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1570/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 128</span></a>;
+ <span class="date">1571</span> <span class="name">Maria</span> <a href="../cite/Maria/1571/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1571/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Mary/1571/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 82</span></a>,
+ <a href="../cite/Mary/1571/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 21</span></a>,
+ <a href="../cite/Mary/1571/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1571/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 91</span></a>;
+ <span class="date">1572</span> <span class="name">Mary</span> <a href="../cite/Mary/1572/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 61</span></a>,
+ <a href="../cite/Mary/1572/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 82</span></a>,
+ <a href="../cite/Mary/1572/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Mary/1572/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>,
+ <a href="../cite/Mary/1572/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1572/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1573</span> <span class="name">Marie</span> <a href="../cite/Marie/1573/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="name">Marriam</span> <a href="../cite/Marriam/1573/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 41</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1573/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>,
+ <a href="../cite/Mary/1573/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 23</span></a>,
+ <a href="../cite/Mary/1573/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1573/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 129</span></a>;
+ <span class="date">1574</span> <span class="name">Marie</span> <a href="../cite/Marie/1574/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 23</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1574/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Mary/1574/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 62</span></a>,
+ <a href="../cite/Mary/1574/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>,
+ <a href="../cite/Mary/1574/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 24</span></a>,
+ <a href="../cite/Mary/1574/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1575</span> <span class="name">Mary</span> <a href="../cite/Mary/1575/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Mary/1575/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 62</span></a>,
+ <a href="../cite/Mary/1575/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 70</span></a>,
+ <a href="../cite/Mary/1575/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>,
+ <a href="../cite/Mary/1575/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 24</span></a>,
+ <a href="../cite/Mary/1575/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 97</span></a>,
+ <a href="../cite/Mary/1575/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1576</span> <span class="name">Mary</span> <a href="../cite/Mary/1576/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 101</span></a>,
+ <a href="../cite/Mary/1576/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>,
+ <a href="../cite/Mary/1576/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Mary/1576/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Mary/1576/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 25</span></a>,
+ <a href="../cite/Mary/1576/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1576/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/Marye/1576/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 101</span></a>,
+ <a href="../cite/Marye/1576/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1577</span> <span class="name">Mary</span> <a href="../cite/Mary/1577/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 48</span></a>,
+ <a href="../cite/Mary/1577/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 84</span></a>,
+ <a href="../cite/Mary/1577/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 68</span></a>,
+ <a href="../cite/Mary/1577/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1577/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1578</span> <span class="name">Mary</span> <a href="../cite/Mary/1578/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 62</span></a>,
+ <a href="../cite/Mary/1578/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Mary/1578/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Mary/1578/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 27</span></a>,
+ <a href="../cite/Mary/1578/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 43</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1578/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 24</span></a>,
+ <a href="../cite/Marye/1578/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1579</span> <span class="name">Mary</span> <a href="../cite/Mary/1579/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 71</span></a>,
+ <a href="../cite/Mary/1579/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 84</span></a>,
+ <a href="../cite/Mary/1579/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1580</span> <span class="name">Marie</span> <a href="../cite/Marie/1580/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1580/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 84</span></a>,
+ <a href="../cite/Mary/1580/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Mary/1580/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 28</span></a>,
+ <a href="../cite/Mary/1580/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1580/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 127</span></a>;
+ <span class="date">1581</span> <span class="name">Mary</span> <a href="../cite/Mary/1581/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 129</span></a>,
+ <a href="../cite/Mary/1581/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 71</span></a>,
+ <a href="../cite/Mary/1581/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 84</span></a>,
+ <a href="../cite/Mary/1581/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Mary/1581/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1581/2</span> <span class="name">Marye</span> <a href="../cite/Marye/1581s2/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1582</span> <span class="name">Mary</span> <a href="../cite/Mary/1582/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 49</span></a>,
+ <a href="../cite/Mary/1582/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 84</span></a>,
+ <a href="../cite/Mary/1582/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/Mary/1582/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Mary/1582/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1583</span> <span class="name">Mary</span> <a href="../cite/Mary/1583/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 71</span></a>,
+ <a href="../cite/Mary/1583/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Mary/1583/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Mary/1583/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Mary/1583/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1583/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 130</span></a>,
+ <a href="../cite/Marye/1583/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 127</span></a>;
+ <span class="date">1584</span> <span class="name">Marie</span> <a href="../cite/Marie/1584/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1584/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 12</span></a>,
+ <a href="../cite/Mary/1584/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 128</span></a>,
+ <a href="../cite/Mary/1584/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Mary/1584/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1584/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 12</span></a>,
+ <a href="../cite/Marye/1584/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1585</span> <span class="name">Marie</span> <a href="../cite/Marie/1585/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/Marie/1585/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1585/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 14</span></a>,
+ <a href="../cite/Mary/1585/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 71</span></a>,
+ <a href="../cite/Mary/1585/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>,
+ <a href="../cite/Mary/1585/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Mary/1585/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1585/6</span> <span class="name">Mary</span> <a href="../cite/Mary/1585s6/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. iv</span></a>;
+ <span class="date">1585</span> <span class="name">Mary</span> <a href="../cite/Mary/1585/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 46</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1585/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 12</span></a>,
+ <a href="../cite/Marye/1585/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Marye/1585/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 129</span></a>,
+ <a href="../cite/Marye/1585/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 128</span></a>;
+ <span class="date">1586</span> <span class="name">Marie</span> <a href="../cite/Marie/1586/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 16</span></a>,
+ <a href="../cite/Marie/1586/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1586/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 64</span></a>,
+ <a href="../cite/Mary/1586/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>,
+ <a href="../cite/Mary/1586/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 12</span></a>,
+ <a href="../cite/Mary/1586/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1586/7</span> <span class="name">Mary</span> <a href="../cite/Mary/1586s7/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1586</span> <span class="name">Mary</span> <a href="../cite/Mary/1586/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>,
+ <a href="../cite/Mary/1586/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 46</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1586/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 123</span></a>,
+ <a href="../cite/Marye/1586/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1587</span> <span class="name">Marie</span> <a href="../cite/Marie/1587/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1587/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 71</span></a>,
+ <a href="../cite/Mary/1587/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>,
+ <a href="../cite/Mary/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 14</span></a>,
+ <a href="../cite/Mary/1587/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Mary/1587/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>,
+ <a href="../cite/Mary/1587/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 109</span></a>,
+ <a href="../cite/Mary/1587/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1588</span> <span class="name">Mary</span> <a href="../cite/Mary/1588/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Mary/1588/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 64</span></a>,
+ <a href="../cite/Mary/1588/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Mary/1588/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>,
+ <a href="../cite/Mary/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 15</span></a>,
+ <a href="../cite/Mary/1588/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 92</span></a>,
+ <a href="../cite/Mary/1588/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1588/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1589</span> <span class="name">Marie</span> <a href="../cite/Marie/1589/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1589/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 64</span></a>,
+ <a href="../cite/Mary/1589/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 148</span></a>,
+ <a href="../cite/Mary/1589/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 71</span></a>,
+ <a href="../cite/Mary/1589/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>,
+ <a href="../cite/Mary/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 17</span></a>,
+ <a href="../cite/Mary/1589/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 33</span></a>,
+ <a href="../cite/Mary/1589/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1589/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Marye/1589/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1590</span> <span class="name">Marie</span> <a href="../cite/Marie/1590/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/Marie/1590/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1590/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 14</span></a>,
+ <a href="../cite/Mary/1590/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/Mary/1590/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 30</span></a>,
+ <a href="../cite/Mary/1590/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Mary/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 20</span></a>,
+ <a href="../cite/Mary/1590/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 140</span></a>,
+ <a href="../cite/Mary/1590/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1590/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 27</span></a>,
+ <a href="../cite/Marye/1590/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1591</span> <span class="name">Marie</span> <a href="../cite/Marie/1591/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 109</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1591/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 65</span></a>,
+ <a href="../cite/Mary/1591/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Mary/1591/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Mary/1591/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 23</span></a>,
+ <a href="../cite/Mary/1591/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Mary/1591/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 22</span></a>,
+ <a href="../cite/Mary/1591/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1591/2</span> <span class="name">Marye</span> <a href="../cite/Marye/1591s2/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1591</span> <span class="name">Marye</span> <a href="../cite/Marye/1591/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 92</span></a>;
+ <span class="date">1592</span> <span class="name">Marie</span> <a href="../cite/Marie/1592/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1592/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 65</span></a>,
+ <a href="../cite/Mary/1592/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 24</span></a>,
+ <a href="../cite/Mary/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 24</span></a>,
+ <a href="../cite/Mary/1592/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Mary/1592/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Mary/1592/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 35</span></a>,
+ <a href="../cite/Mary/1592/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 51</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1592/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1593</span> <span class="name">Mary</span> <a href="../cite/Mary/1593/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 15</span></a>,
+ <a href="../cite/Mary/1593/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 65</span></a>,
+ <a href="../cite/Mary/1593/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Mary/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 26</span></a>,
+ <a href="../cite/Mary/1593/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Mary/1593/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Mary/1593/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Mary/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>,
+ <a href="../cite/Mary/1593/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 52</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1593/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 16</span></a>,
+ <a href="../cite/Marye/1593/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 131</span></a>,
+ <a href="../cite/Marye/1593/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 102</span></a>,
+ <a href="../cite/Marye/1593/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1594</span> <span class="name">Mary</span> <a href="../cite/Mary/1594/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 31</span></a>,
+ <a href="../cite/Mary/1594/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 65</span></a>,
+ <a href="../cite/Mary/1594/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Mary/1594/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 49</span></a>,
+ <a href="../cite/Mary/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 28</span></a>,
+ <a href="../cite/Mary/1594/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 40</span></a>,
+ <a href="../cite/Mary/1594/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 37</span></a>,
+ <a href="../cite/Mary/1594/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 53</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1594/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>,
+ <a href="../cite/Marye/1594/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 102</span></a>;
+ <span class="date">1595</span> <span class="name">Marie</span> <a href="../cite/Marie/1595/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 118</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1595/BUmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 118</span></a>,
+ <a href="../cite/Mary/1595/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>,
+ <a href="../cite/Mary/1595/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 87</span></a>,
+ <a href="../cite/Mary/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 31</span></a>,
+ <a href="../cite/Mary/1595/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 69</span></a>,
+ <a href="../cite/Mary/1595/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Mary/1595/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 37</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1595/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1596</span> <span class="name">Mary</span> <a href="../cite/Mary/1596/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 87</span></a>,
+ <a href="../cite/Mary/1596/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Mary/1596/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 38</span></a>,
+ <a href="../cite/Mary/1596/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 55</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1596/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 118</span></a>;
+ <span class="date">1597</span> <span class="name">Mary</span> <a href="../cite/Mary/1597/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Mary/1597/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 87</span></a>,
+ <a href="../cite/Mary/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 35</span></a>,
+ <a href="../cite/Mary/1597/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 51</span></a>,
+ <a href="../cite/Mary/1597/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 40</span></a>,
+ <a href="../cite/Mary/1597/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 38</span></a>,
+ <a href="../cite/Mary/1597/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 55</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1597/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 16</span></a>,
+ <a href="../cite/Marye/1597/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 129</span></a>;
+ <span class="date">1598</span> <span class="name">Marie</span> <a href="../cite/Marie/1598/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 118</span></a>,
+ <a href="../cite/Marie/1598/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1598/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 66</span></a>,
+ <a href="../cite/Mary/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 37</span></a>,
+ <a href="../cite/Mary/1598/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Mary/1598/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 39</span></a>,
+ <a href="../cite/Mary/1598/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 56</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1598/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Marye/1598/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 87</span></a>,
+ <a href="../cite/Marye/1598/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1599</span> <span class="name">Marie</span> <a href="../cite/Marie/1599/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 35</span></a>,
+ <a href="../cite/Marie/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 40</span></a>,
+ <a href="../cite/Marie/1599/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1599/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Mary/1599/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 123</span></a>,
+ <a href="../cite/Mary/1599/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Mary/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 42</span></a>,
+ <a href="../cite/Mary/1599/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 57</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1599/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 131</span></a>,
+ <a href="../cite/Marye/1599/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 40</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1530</span> <span class="name">Marion</span> <a href="../cite/Marion/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Maryon</span> <a href="../cite/Maryon/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1538</span> <span class="name">Maryan</span> <a href="../cite/Maryan/1538/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1540</span> <span class="name">Marrion</span> <a href="../cite/Marrion/1540/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1542</span> <span class="name">Marian</span> <a href="../cite/Marian/1542/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Maryan</span> <a href="../cite/Maryan/1542/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 78</span></a>;
+ <span class="date">1546</span> <span class="name">Marion</span> <a href="../cite/Marion/1546/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1546/7</span> <span class="name">Marion</span> <a href="../cite/Marion/1546s7/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">1b</span></a>;
+ <span class="date">1546</span> <span class="name">Maryan</span> <a href="../cite/Maryan/1546/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1551</span> <span class="name">Marian</span> <a href="../cite/Marian/1551/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Maryen</span> <a href="../cite/Maryen/1551/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1555</span> <span class="name">Maryan</span> <a href="../cite/Maryan/1555/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1559</span> <span class="name">Marrian</span> <a href="../cite/Marrian/1559/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1560</span> <span class="name">Maryan</span> <a href="../cite/Maryan/1560/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1562</span> <span class="name">Maryon</span> <a href="../cite/Maryon/1562/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1564/5</span> <span class="name">Malina</span> <a href="../cite/Malina/1564s5/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1564</span> <span class="name">Marryan</span> <a href="../cite/Marryan/1564/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>;
+ <span class="date">1567</span> <span class="name">Maryan</span> <a href="../cite/Maryan/1567/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1570</span> <span class="name">Maryon</span> <a href="../cite/Maryon/1570/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1573</span> <span class="name">Marian</span> <a href="../cite/Marian/1573/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>,
+ <span class="name">Marrian</span> <a href="../cite/Marrian/1573/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 70</span></a>;
+ <span class="date">1576</span> <span class="name">Marian</span> <a href="../cite/Marian/1576/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Marian/1576/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 50</span></a>,
+ <span class="name">Marion</span> <a href="../cite/Marion/1576/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1583</span> <span class="name">Maryan</span> <a href="../cite/Maryan/1583/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1585</span> <span class="name">Marian</span> <a href="../cite/Marian/1585/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1587</span> <span class="name">Marian</span> <a href="../cite/Marian/1587/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Marrian</span> <a href="../cite/Marrian/1587/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1590</span> <span class="name">Marian</span> <a href="../cite/Marian/1590/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 69</span></a>,
+ <a href="../cite/Marian/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1593</span> <span class="name">Marian</span> <a href="../cite/Marian/1593/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1595/6</span> <span class="name">Marian</span> <a href="../cite/Marian/1595s6/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1596</span> <span class="name">Maryan</span> <a href="../cite/Maryan/1596/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1599</span> <span class="name">Marian</span> <a href="../cite/Marian/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 41</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">72, Palatiolum</span></a>;
+ <span class="date">c1050</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/c1050/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">696</span></a>;
+ <span class="date">1060</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1060/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">730</span></a>,
+ <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1060/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1135</span> <span class="name">Maria</span> (<span class="case">abl</span>) <a href="../cite/Maria/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x62</span> <span class="name">Maria</span> (<span class="case">abl</span>) <a href="../cite/Maria/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">57</span></a>,
+ <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">92</span></a>;
+ <span class="date">1147</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>;
+ <span class="date">1147x62</span> <span class="name">Maria</span> (<span class="case">abl</span>) <a href="../cite/Maria/1147x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1162x1165</span> <span class="name">Marie</span> (<span class="case">abl</span>) <a href="../cite/Marie/1162x1165/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">127</span></a>;
+ <span class="date">1163–64</span> <span class="name">Maria</span> (<span class="case">abl</span>) <a href="../cite/Maria/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">113</span></a>;
+ <span class="date">1163x1173</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1163x1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">156</span></a>,
+ <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1163x1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">156</span></a>;
+ <span class="date">1164</span> <span class="name">Maria</span> (<span class="case">abl</span>) <a href="../cite/Maria/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1166</span> <span class="name">Maria</span> (<span class="case">abl</span>) <a href="../cite/Maria/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>,
+ <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>;
+ <span class="date">1173</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">157</span></a>,
+ <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">157</span></a>;
+ <span class="date">1179</span> <span class="name">Maria</span> (<span class="case">abl</span>) <a href="../cite/Maria/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>;
+ <span class="date">1180</span> <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1190</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1190/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXIX</span></a>;
+ <span class="date">1238</span> <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1238/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXLV</span></a>;
+ <span class="date">1257</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1257/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XII, St. Martin</span></a>;
+ <span class="date">1258</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVII, Candlemas</span></a>,
+ <span class="name">Mariam</span> (<span class="case">acc</span>) <a href="../cite/Mariam/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVII, Candlemas</span></a>;
+ <span class="date">1260</span> <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">II, St. Martin</span></a>;
+ <span class="date">1269</span> <span class="name">Marie</span> (<span class="case">dat</span>) <a href="../cite/Marie/1269/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXI</span></a>;
+ <span class="date">1273</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1273/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVI</span></a>;
+ <span class="date">1285</span> <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1285/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1287</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1287/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 74</span></a>;
+ <span class="date">1301</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 201</span></a>,
+ <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 201</span></a>;
+ <span class="date">1304</span> <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1304/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXXVI</span></a>;
+ <span class="date">1310/11</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1310s11/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1378</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">549</span></a>,
+ <span class="name">Mariam</span> (<span class="case">acc</span>) <a href="../cite/Mariam/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">748</span></a>,
+ <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">890</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1300</span> <span class="name">Mariete</span> (<span class="case">gen</span>) <a href="../cite/Mariete/1300/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">382</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Marie</span> <a href="../cite/Marie/1292/1292paris"><span class="bib_key">1292paris</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1296</span> <span class="name">Marie</span> <a href="../cite/Marie/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1301</span> <span class="name">Maroie</span> (<span class="case">obl</span>) <a href="../cite/Maroie/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 335 [p. 235]</span></a>;
+ <span class="date">1313</span> <span class="name">Marie</span> <a href="../cite/Marie/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 7</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Marote</span> <a href="../cite/Marote/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 104</span></a>,
+ <span class="name">Marotte</span> <a href="../cite/Marotte/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1421</span> <span class="name">Marie</span> <a href="../cite/Marie/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">165</span></a>;
+ <span class="date">1423</span> <span class="name">Marie</span> <a href="../cite/Marie/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">115</span></a>;
+ <span class="date">1561</span> <span class="name">Marie</span> <a href="../cite/Marie/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1562</span> <span class="name">Marie</span> <a href="../cite/Marie/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1563</span> <span class="name">Marie</span> <a href="../cite/Marie/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1564</span> <span class="name">Marie</span> <a href="../cite/Marie/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1565</span> <span class="name">Marie</span> <a href="../cite/Marie/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1566</span> <span class="name">Marie</span> <a href="../cite/Marie/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 197</span></a>;
+ <span class="date">1567</span> <span class="name">Marie</span> <a href="../cite/Marie/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 279</span></a>;
+ <span class="date">1568</span> <span class="name">Marie</span> <a href="../cite/Marie/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 363</span></a>,
+ <span class="name">Marye</span> <a href="../cite/Marye/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 405</span></a>;
+ <span class="date">1570</span> <span class="name">Marie</span> <a href="../cite/Marie/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 422</span></a>;
+ <span class="date">1571</span> <span class="name">Marie</span> <a href="../cite/Marie/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 436</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Marion</span> <a href="../cite/Marion/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">181</span></a>;
+ <span class="date">1423</span> <span class="name">Marion</span> <a href="../cite/Marion/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">260</span></a>;
+ <span class="date">1438</span> <span class="name">Marion</span> <a href="../cite/Marion/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">365</span></a>;
+ <span class="date">1562</span> <span class="name">Marion</span> <a href="../cite/Marion/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1563</span> <span class="name">Mariète</span> <a href="../cite/Mariète/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1564</span> <span class="name">Mariette</span> <a href="../cite/Mariette/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 62</span></a>,
+ <span class="name">Marion</span> <a href="../cite/Marion/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 64</span></a>,
+ <span class="name">Mariotte</span> <a href="../cite/Mariotte/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1565</span> <span class="name">Mariette</span> <a href="../cite/Mariette/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 121</span></a>,
+ <span class="name">Marion</span> <a href="../cite/Marion/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 117</span></a>;
+ <span class="date">1566</span> <span class="name">Mariette</span> <a href="../cite/Mariette/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 233</span></a>,
+ <span class="name">Marion</span> <a href="../cite/Marion/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 244</span></a>;
+ <span class="date">1567</span> <span class="name">Mariette</span> <a href="../cite/Mariette/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 280</span></a>;
+ <span class="date">1568</span> <span class="name">Mariette</span> <a href="../cite/Mariette/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 372</span></a>,
+ <span class="name">Marion</span> <a href="../cite/Marion/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 369</span></a>;
+ <span class="date">1570</span> <span class="name">Marion</span> <a href="../cite/Marion/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 428</span></a>;
+ <span class="date">1571</span> <span class="name">Mariette</span> <a href="../cite/Mariette/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 439</span></a>,
+ <span class="name">Marion</span> <a href="../cite/Marion/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 448</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1223</span> <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1223/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">136</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">915</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/915/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">2</span></a>,
+ <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/915/RCI-Cam1"><span class="bib_key">ibid.</span> <span class="bib_loc">2</span></a>;
+ <span class="date">966</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/966/skinner"><span class="bib_key">skinner</span> <span class="bib_loc">p. 120</span></a>;
+ <span class="date">974</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/974/skinner"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 115</span></a>;
+ <span class="date">1063</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1063/skinner"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 113</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1285</span> <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 158</span></a>;
+ <span class="date">1464</span> <span class="name">Maria</span> (<span class="case">abl</span>) <a href="../cite/Maria/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 52, 35</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1522x1532</span> <span class="name">Marella</span> (<span class="case">nom</span>) <a href="../cite/Marella/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 52, 35</span></a>,
+ <span class="name">Mariella</span> (<span class="case">nom</span>) <a href="../cite/Mariella/1522x1532/DSF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51, 19</span></a>,
+ <span class="name">Maruccia</span> (<span class="case">nom</span>) <a href="../cite/Maruccia/1522x1532/DSF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50, 2</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Maria</span> <a href="../cite/Maria/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 14</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1513x1521</span> <span class="name">Marieta</span> <a href="../cite/Marieta/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 14</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1209</span> <span class="name">Maria</span> (<span class="case">abl</span>) <a href="../cite/Maria/1209/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 10</span></a>,
+ <span class="name">Mariam</span> (<span class="case">acc</span>) <a href="../cite/Mariam/1209/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 10</span></a>,
+ <span class="name">Mariæ</span> (<span class="case">dat</span>) <a href="../cite/Mariæ/1209/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 10</span></a>;
+ <span class="date">1256</span> <span class="name">Mariæ</span> (<span class="case">gen</span>) <a href="../cite/Mariæ/1256/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17</span></a>;
+ <span class="date">1269</span> <span class="name">Mariæ</span> (<span class="case">dat</span>) <a href="../cite/Mariæ/1269/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1426</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1426/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">48</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1376</span> <span class="name">Mariote</span> (<span class="case">dat</span>) <a href="../cite/Mariote/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a></dd>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1543</span> <span class="name">Mariota</span> <a href="../cite/Mariota/1543/PGB"><span class="bib_key">PGB</span></a>;
+ <span class="date">1573</span> <span class="name">Mariota</span> <a href="../cite/Mariota/1573/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1594</span> <span class="name">Mariota</span> <a href="../cite/Mariota/1594/PGB"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">954</span> <span class="name">maria</span> (<span class="case">nom</span>) <a href="../cite/maria/954/CDGH"><span class="bib_key">CDGH</span> <span class="bib_loc">XLVII</span></a>;
+ <span class="date">1276</span> <span class="name">Marie</span> (<span class="case">gen</span>) <a href="../cite/Marie/1276/CDGH"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVI</span></a>,
+ <span class="name">maria</span> (<span class="case">abl</span>) <a href="../cite/maria/1276/CDGH"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVI</span></a>,
+ <span class="name">mariam</span> (<span class="case">acc</span>) <a href="../cite/mariam/1276/CDGH"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVI</span></a>;
+ <span class="date">1490</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1490/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1491</span> <span class="name">Maria</span> (<span class="case">nom</span>) <a href="../cite/Maria/1491/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 55</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1248</span> <span class="name">Maria</span> <a href="../cite/Maria/1248/RusGeb"><span class="bib_key">RusGeb</span> <span class="bib_loc">p. 271</span></a>;
+ <span class="date">1250</span> <span class="name">Maria</span> <a href="../cite/Maria/1250/RusGeb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 272</span></a>;
+ <span class="date">1510</span> <span class="name">Maria</span> <a href="../cite/Maria/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3178</span></a></dd>
+<dt><span class="lang">Old Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1225</span> <span class="name">Maria</span> <a href="../cite/Maria/1225/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 15</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1316</span> <span class="name">Maria</span> <a href="../cite/Maria/1316/deMoxo"><span class="bib_key">deMoxo</span></a>;
+ <span class="date">1318</span> <span class="name">Maria</span> <a href="../cite/Maria/1318/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1319</span> <span class="name">Maria</span> <a href="../cite/Maria/1319/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1323</span> <span class="name">Maria</span> <a href="../cite/Maria/1323/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1326</span> <span class="name">Maria</span> <a href="../cite/Maria/1326/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1328</span> <span class="name">Maria</span> <a href="../cite/Maria/1328/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1330</span> <span class="name">Maria</span> <a href="../cite/Maria/1330/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1331</span> <span class="name">Maria</span> <a href="../cite/Maria/1331/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1332</span> <span class="name">Maria</span> <a href="../cite/Maria/1332/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1333</span> <span class="name">Maria</span> <a href="../cite/Maria/1333/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1334</span> <span class="name">Maria</span> <a href="../cite/Maria/1334/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1336</span> <span class="name">Maria</span> <a href="../cite/Maria/1336/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1348</span> <span class="name">Maria</span> <a href="../cite/Maria/1348/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1575</span> <span class="name">Maria</span> <a href="../cite/Maria/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3796</span></a>;
+ <span class="date">1576</span> <span class="name">Maria</span> <a href="../cite/Maria/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3876</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1575</span> <span class="name">Mariana</span> <a href="../cite/Mariana/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3799</span></a>;
+ <span class="date">1576</span> <span class="name">Mariana</span> <a href="../cite/Mariana/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3929</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">14thCx1478</span> <span class="name">Mariola</span> (<span class="case">nom</span>) <a href="../cite/Mariola/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(105)</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1480</span> <span class="name">Maruscha</span> (<span class="case">nom</span>) <a href="../cite/Maruscha/1480/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">CIX-1314</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571</span> <span class="name">Mary</span> <a href="../cite/Mary/1571/RegLlantrithyd"><span class="bib_key">RegLlantrithyd</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1574</span> <span class="name">Mary</span> <a href="../cite/Mary/1574/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1576</span> <span class="name">Marye</span> <a href="../cite/Marye/1576/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1582</span> <span class="name">Mary</span> <a href="../cite/Mary/1582/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 62</span></a>;
+ <span class="date">1590</span> <span class="name">Mary</span> <a href="../cite/Mary/1590/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1591</span> <span class="name">Mary</span> <a href="../cite/Mary/1591/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1594</span> <span class="name">Mary</span> <a href="../cite/Mary/1594/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1597</span> <span class="name">Marie</span> <a href="../cite/Marie/1597/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1597/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1598</span> <span class="name">Marie</span> <a href="../cite/Marie/1598/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Mary</span> <a href="../cite/Mary/1598/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a></dd>
+<dt><span class="lang">Welsh</span></dt>
+<dd><span class="dim">●</span> <span class="date">1589</span> <span class="name">Marie</span> <a href="../cite/Marie/1589/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 56</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Mary". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Mary.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

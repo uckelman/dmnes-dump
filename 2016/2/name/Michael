@@ -1,0 +1,543 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Michael</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Michael</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>מי כאל</i> 'who is like God?'
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of one of the four archangels, venerated as a saint, and of a 10th C Byzantine saint. Wycliffite Bible (1395): <i>Miyhel, Mychael</i>.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 24</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1349</span> <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1356</span> <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">117</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1161x1184</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1161x1184/MDE"><span class="bib_key">MDE</span> <span class="bib_loc">p. 227, no. 1</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1189</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 206</span></a>;
+ <span class="date">1222</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1299</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1299/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1381</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 116</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 99</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">nom</span>) <a href="../cite/Michaelis/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 76</span></a>,
+ <span class="name">Michaelus</span> (<span class="case">nom</span>) <a href="../cite/Michaelus/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1552</span> <span class="name">Michaell</span> (<span class="case">nom</span>) <a href="../cite/Michaell/1552/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1568</span> <span class="name">Mighell</span> (<span class="case">nom</span>) <a href="../cite/Mighell/1568/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 11</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Michael</span> <a href="../cite/Michael/1572/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Bimmos</span></a>;
+ <span class="date">1574</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Courseles</span></a>;
+ <span class="date">1575</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1575/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Courselis</span></a>;
+ <span class="date">1578</span> <span class="name">Michiels</span> (<span class="case">gen</span>) <a href="../cite/Michiels/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Corselis</span></a>;
+ <span class="date">1580</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Capellen</span></a>;
+ <span class="date">1588</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Block</span></a>;
+ <span class="date">1594</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Corselis</span></a>;
+ <span class="date">1596</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Droeshout</span></a>;
+ <span class="date">1599</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Droussaut</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Michael</span> <a href="../cite/Michael/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 49</span></a>,
+ <span class="name">Michel</span> <a href="../cite/Michel/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Michell</span> <a href="../cite/Michell/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Myghell</span> <a href="../cite/Myghell/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1549</span> <span class="name">Mihill</span> <a href="../cite/Mihill/1549/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1553</span> <span class="name">Mihill</span> <a href="../cite/Mihill/1553/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1556</span> <span class="name">Michaell</span> <a href="../cite/Michaell/1556/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1557</span> <span class="name">Michaell</span> <a href="../cite/Michaell/1557/PRThirsk"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1562</span> <span class="name">Michael</span> <a href="../cite/Michael/1562/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 47</span></a>,
+ <span class="name">Mihill</span> <a href="../cite/Mihill/1562/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1563</span> <span class="name">Michaell</span> <a href="../cite/Michaell/1563/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1564</span> <span class="name">Michell</span> <a href="../cite/Michell/1564/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Mychell</span> <a href="../cite/Mychell/1564/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 83</span></a>;
+ <span class="date">1567</span> <span class="name">Mychell</span> <a href="../cite/Mychell/1567/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1568</span> <span class="name">Michael</span> <a href="../cite/Michael/1568/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Michaell</span> <a href="../cite/Michaell/1568/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Michel</span> <a href="../cite/Michel/1568/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1569</span> <span class="name">Michaell</span> <a href="../cite/Michaell/1569/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1571</span> <span class="name">Myckael</span> <a href="../cite/Myckael/1571/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1572</span> <span class="name">Michael</span> <a href="../cite/Michael/1572/BUmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1573</span> <span class="name">Michaell</span> <a href="../cite/Michaell/1573/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 82</span></a>,
+ <a href="../cite/Michaell/1573/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1574</span> <span class="name">Michaell</span> <a href="../cite/Michaell/1574/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1578</span> <span class="name">Mychaell</span> <a href="../cite/Mychaell/1578/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 129</span></a>;
+ <span class="date">1579</span> <span class="name">Michael</span> <a href="../cite/Michael/1579/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 122</span></a>,
+ <span class="name">Michaell</span> <a href="../cite/Michaell/1579/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1581</span> <span class="name">Michael</span> <a href="../cite/Michael/1581/BUmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 63</span></a>,
+ <span class="name">Michaell</span> <a href="../cite/Michaell/1581/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 28</span></a>,
+ <span class="name">Mychell</span> <a href="../cite/Mychell/1581/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Myghell</span> <a href="../cite/Myghell/1581/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 92</span></a>;
+ <span class="date">1582</span> <span class="name">Michaell</span> <a href="../cite/Michaell/1582/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1583/4</span> <span class="name">Michael</span> <a href="../cite/Michael/1583s4/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1584</span> <span class="name">Mychael</span> <a href="../cite/Mychael/1584/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 130</span></a>,
+ <span class="name">Mychaell</span> <a href="../cite/Mychaell/1584/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1585</span> <span class="name">Michael</span> <a href="../cite/Michael/1585/Bar-in-El"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>,
+ <a href="../cite/Michael/1585/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1586</span> <span class="name">Mychell</span> <a href="../cite/Mychell/1586/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1587</span> <span class="name">Michaell</span> <a href="../cite/Michaell/1587/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 117</span></a>;
+ <span class="date">1588</span> <span class="name">Mychaell</span> <a href="../cite/Mychaell/1588/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Mychall</span> <a href="../cite/Mychall/1588/Bar-in-El"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1589</span> <span class="name">Michael</span> <a href="../cite/Michael/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1590</span> <span class="name">Michael</span> <a href="../cite/Michael/1590/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>,
+ <span class="name">Mychaell</span> <a href="../cite/Mychaell/1590/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1591</span> <span class="name">Mychell</span> <a href="../cite/Mychell/1591/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1592</span> <span class="name">Michael</span> <a href="../cite/Michael/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593</span> <span class="name">Michael</span> <a href="../cite/Michael/1593/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1594</span> <span class="name">Michael</span> <a href="../cite/Michael/1594/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. iv</span></a>;
+ <span class="date">1595</span> <span class="name">Michael</span> <a href="../cite/Michael/1595/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Michael/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Mychell</span> <a href="../cite/Mychell/1595/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1597</span> <span class="name">Michael</span> <a href="../cite/Michael/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1598</span> <span class="name">Michael</span> <a href="../cite/Michael/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>,
+ <span class="name">Mychaell</span> <a href="../cite/Mychaell/1598/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1599</span> <span class="name">Michaell</span> <a href="../cite/Michaell/1599/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 35</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1378</span> <span class="name">Michel</span> <a href="../cite/Michel/1378/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 335</span></a>;
+ <span class="date">1413</span> <span class="name">Michel</span> <a href="../cite/Michel/1413/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1421</span> <span class="name">Michel</span> <a href="../cite/Michel/1421/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1425</span> <span class="name">Mychel</span> <a href="../cite/Mychel/1425/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1442</span> <span class="name">Mychgel</span> <a href="../cite/Mychgel/1442/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 364</span></a>;
+ <span class="date">1524x1532</span> <span class="name">Mihell</span> (<span class="case">nom</span>) <a href="../cite/Mihell/1524x1532/Saareste1923b"><span class="bib_key">Saareste1923b</span> <span class="bib_loc">p. 139</span></a>;
+ <span class="date">1592</span> <span class="name">Mickel</span> <a href="../cite/Mickel/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 287</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1524x1532</span> <span class="name">Micku</span> (<span class="case">nom</span>) <a href="../cite/Micku/1524x1532/Saareste1923b"><span class="bib_key">Saareste1923b</span> <span class="bib_loc">p. 145</span></a>,
+ <span class="name">Mickw</span> (<span class="case">unc</span>) <a href="../cite/Mickw/1524x1532/Saareste1923b"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 145</span></a>;
+ <span class="date">1592</span> <span class="name">Mick</span> <a href="../cite/Mick/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 286</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1565</span> <span class="name">Michill</span> (<span class="case">nom</span>) <a href="../cite/Michill/1565/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1576</span> <span class="name">Michell</span> (<span class="case">nom</span>) <a href="../cite/Michell/1576/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 218</span></a>;
+ <span class="date">1583</span> <span class="name">Michell</span> (<span class="case">nom</span>) <a href="../cite/Michell/1583/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1587</span> <span class="name">Micko</span> <a href="../cite/Micko/1587/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1564</span> <span class="name">Michel</span> (<span class="case">nom</span>) <a href="../cite/Michel/1564/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1576</span> <span class="name">Mick</span> (<span class="case">nom</span>) <a href="../cite/Mick/1576/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Micke</span> (<span class="case">nom</span>) <a href="../cite/Micke/1576/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1577</span> <span class="name">Miche</span> (<span class="case">nom</span>) <a href="../cite/Miche/1577/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Michill</span> (<span class="case">nom</span>) <a href="../cite/Michill/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 170</span></a>,
+ <span class="name">Michils</span> (<span class="case">gen</span>) <a href="../cite/Michils/1548/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 167</span></a>;
+ <span class="date">1582</span> <span class="name">Michil</span> (<span class="case">nom</span>) <a href="../cite/Michil/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 172</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1171</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1171/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">139</span></a>;
+ <span class="date">1179</span> <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>;
+ <span class="date">1180</span> <span class="name">Micaele</span> (<span class="case">abl</span>) <a href="../cite/Micaele/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1257</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1257/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XII, Candlemas</span></a>,
+ <span class="name">Michaelem</span> (<span class="case">acc</span>) <a href="../cite/Michaelem/1257/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XII, Candlemas</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1257/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XII, Candlemas</span></a>;
+ <span class="date">1258</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII, Candlemas</span></a>,
+ <span class="name">Michaelem</span> (<span class="case">acc</span>) <a href="../cite/Michaelem/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII, Candlemas</span></a>,
+ <span class="name">Michaeli</span> (<span class="case">dat</span>) <a href="../cite/Michaeli/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII, Candlemas</span></a>;
+ <span class="date">1273</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1300</span> <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1300/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">382</span></a>;
+ <span class="date">1301</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 207</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 224</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">nom</span>) <a href="../cite/Michaelis/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 200</span></a>,
+ <span class="name">Mychaelis</span> (<span class="case">gen</span>) <a href="../cite/Mychaelis/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 210</span></a>;
+ <span class="date">1378</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1215</span></a>,
+ <span class="name">Michaeli</span> (<span class="case">dat</span>) <a href="../cite/Michaeli/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">268</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">204</span></a>,
+ <span class="name">Mikaeli</span> (<span class="case">dat</span>) <a href="../cite/Mikaeli/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2170</span></a>;
+ <span class="date">1421</span> <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">p. 126</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1301</span> <span class="name">Mikiel</span> (<span class="case">obl</span>) <a href="../cite/Mikiel/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 287</span></a>;
+ <span class="date">1313</span> <span class="name">Michel</span> <a href="../cite/Michel/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Michiel</span> <a href="../cite/Michiel/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1292</span> <span class="name">Michelet</span> <a href="../cite/Michelet/1292/1292paris"><span class="bib_key">1292paris</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1296</span> <span class="name">Michelet</span> <a href="../cite/Michelet/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1313</span> <span class="name">Michelet</span> <a href="../cite/Michelet/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Michielet</span> <a href="../cite/Michielet/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1368</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1368/beauchet-vol1"><span class="bib_key">beauchet-vol1</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1392</span> <span class="name">Michel</span> <a href="../cite/Michel/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 601</span></a>;
+ <span class="date">1418</span> <span class="name">Michault</span> <a href="../cite/Michault/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 376</span></a>,
+ <span class="name">Michiel</span> <a href="../cite/Michiel/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 372</span></a>;
+ <span class="date">1421</span> <span class="name">Michault</span> <a href="../cite/Michault/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">344</span></a>,
+ <span class="name">Michiel</span> <a href="../cite/Michiel/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">253</span></a>;
+ <span class="date">1423</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">104</span></a>;
+ <span class="date">1438</span> <span class="name">Michault</span> <a href="../cite/Michault/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">87</span></a>,
+ <span class="name">Michiel</span> <a href="../cite/Michiel/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1561</span> <span class="name">Michel</span> <a href="../cite/Michel/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1562</span> <span class="name">Michel</span> <a href="../cite/Michel/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1563</span> <span class="name">Michel</span> <a href="../cite/Michel/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1564</span> <span class="name">Michel</span> <a href="../cite/Michel/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1565</span> <span class="name">Michel</span> <a href="../cite/Michel/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 110</span></a>;
+ <span class="date">1566</span> <span class="name">Michel</span> <a href="../cite/Michel/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 202</span></a>;
+ <span class="date">1567</span> <span class="name">Michault</span> <a href="../cite/Michault/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 341</span></a>,
+ <span class="name">Michel</span> <a href="../cite/Michel/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 281</span></a>;
+ <span class="date">1568</span> <span class="name">Michel</span> <a href="../cite/Michel/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 363</span></a>;
+ <span class="date">1570</span> <span class="name">Michel</span> <a href="../cite/Michel/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 422</span></a>;
+ <span class="date">1571</span> <span class="name">Michel</span> <a href="../cite/Michel/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 436</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Michelet</span> <a href="../cite/Michelet/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 611</span></a>;
+ <span class="date">1418</span> <span class="name">Michelet</span> <a href="../cite/Michelet/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 374</span></a>;
+ <span class="date">1421</span> <span class="name">Michelet</span> <a href="../cite/Michelet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">38</span></a>,
+ <span class="name">Michellet</span> <a href="../cite/Michellet/1421/favier"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1423</span> <span class="name">Michelet</span> <a href="../cite/Michelet/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">325</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1259</span> <span class="name">Michahelis</span> (<span class="case">gen</span>) <a href="../cite/Michahelis/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1401</span> <span class="name">Mychaeli</span> (<span class="case">dat</span>) <a href="../cite/Mychaeli/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 379</span></a>;
+ <span class="date">1408</span> <span class="name">Michahele</span> (<span class="case">abl</span>) <a href="../cite/Michahele/1408/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXXXIV</span></a>,
+ <span class="name">Michahelem</span> (<span class="case">acc</span>) <a href="../cite/Michahelem/1408/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXXIV</span></a>;
+ <span class="date">1426</span> <span class="name">Michahel</span> (<span class="case">nom</span>) <a href="../cite/Michahel/1426/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXIII</span></a>,
+ <span class="name">Michahele</span> (<span class="case">abl</span>) <a href="../cite/Michahele/1426/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXIII</span></a>,
+ <span class="name">Michahelem</span> (<span class="case">acc</span>) <a href="../cite/Michahelem/1426/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXIII</span></a>,
+ <span class="name">Michahelis</span> (<span class="case">gen</span>) <a href="../cite/Michahelis/1426/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXIII</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1400</span> <span class="name">Michel</span> (<span class="case">nom</span>) <a href="../cite/Michel/1400/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXVIII</span></a>;
+ <span class="date">1402</span> <span class="name">Michel</span> (<span class="case">nom</span>) <a href="../cite/Michel/1402/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXII</span></a>;
+ <span class="date">1403</span> <span class="name">Michels</span> (<span class="case">gen</span>) <a href="../cite/Michels/1403/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXIV</span></a>;
+ <span class="date">1410</span> <span class="name">Michel</span> (<span class="case">nom</span>) <a href="../cite/Michel/1410/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCI</span></a>;
+ <span class="date">1419</span> <span class="name">Michel</span> (<span class="case">nom</span>) <a href="../cite/Michel/1419/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXI</span></a>;
+ <span class="date">1428</span> <span class="name">Michel</span> (<span class="case">nom</span>) <a href="../cite/Michel/1428/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXVII</span></a>;
+ <span class="date">1429</span> <span class="name">Michel</span> (<span class="case">nom</span>) <a href="../cite/Michel/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXX</span></a>;
+ <span class="date">1497</span> <span class="name">Michel</span> <a href="../cite/Michel/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Michell</span> <a href="../cite/Michell/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1301/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 300, s.n. Michael</span></a>,
+ <span class="name">Michaeli</span> (<span class="case">dat</span>) <a href="../cite/Michaeli/1301/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 300, s.n. Michael</span></a>;
+ <span class="date">1302</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1302/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 300x301, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1302/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>;
+ <span class="date">1303</span> <span class="name">Micael</span> (<span class="case">nom</span>) <a href="../cite/Micael/1303/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 314, s.n. Michael</span></a>,
+ <span class="name">Micaelis</span> (<span class="case">gen</span>) <a href="../cite/Micaelis/1303/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 314, s.n. Michael</span></a>;
+ <span class="date">1304</span> <span class="name">Micaelem</span> (<span class="case">acc</span>) <a href="../cite/Micaelem/1304/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 314, s.n. Michael</span></a>,
+ <span class="name">Micaeli</span> (<span class="case">dat</span>) <a href="../cite/Micaeli/1304/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 314, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1304/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>;
+ <span class="date">1305</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1305/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>;
+ <span class="date">1306</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1306/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1306/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>;
+ <span class="date">1307</span> <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1307/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1307/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>;
+ <span class="date">1308</span> <span class="name">Micaele</span> (<span class="case">abl</span>) <a href="../cite/Micaele/1308/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 314, s.n. Michael</span></a>,
+ <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1308/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>;
+ <span class="date">1310</span> <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1310/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1310/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>;
+ <span class="date">1311</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1311/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1311/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>;
+ <span class="date">1313</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1313/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1313/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>;
+ <span class="date">1314</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1314/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1314/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1314/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>;
+ <span class="date">1315</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1315/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>;
+ <span class="date">1318</span> <span class="name">Micael</span> (<span class="case">nom</span>) <a href="../cite/Micael/1318/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 314, s.n. Michael</span></a>,
+ <span class="name">Micaeli</span> (<span class="case">dat</span>) <a href="../cite/Micaeli/1318/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 314, s.n. Michael</span></a>,
+ <span class="name">Micalis</span> (<span class="case">gen</span>) <a href="../cite/Micalis/1318/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 314, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1318/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>;
+ <span class="date">1319</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1319/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1319/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>;
+ <span class="date">1320</span> <span class="name">Michaelem</span> (<span class="case">acc</span>) <a href="../cite/Michaelem/1320/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1320/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>;
+ <span class="date">1321</span> <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1321/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>;
+ <span class="date">1322</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1322/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1322/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>,
+ <span class="name">Michaelem</span> (<span class="case">acc</span>) <a href="../cite/Michaelem/1322/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1322/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>;
+ <span class="date">1323</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1323/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1323/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1323/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>;
+ <span class="date">1324</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1324/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1324/CDH-VIII-II"><span class="bib_key">CDH-VIII-II</span> <span class="bib_loc">CCLXX</span></a>,
+ <a href="../cite/Michaele/1324/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>,
+ <span class="name">Michaeli</span> (<span class="case">dat</span>) <a href="../cite/Michaeli/1324/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1324/CDH-VIII-II"><span class="bib_key">CDH-VIII-II</span> <span class="bib_loc">CCLXX</span></a>,
+ <a href="../cite/Michaelis/1324/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>;
+ <span class="date">1325</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1325/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1325/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1325/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>;
+ <span class="date">1327</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1327/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1327/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>,
+ <span class="name">Michaelem</span> (<span class="case">acc</span>) <a href="../cite/Michaelem/1327/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1327/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>;
+ <span class="date">1328</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1328/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1328/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1328/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>;
+ <span class="date">1329</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1329/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1329/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>,
+ <span class="name">Michaelem</span> (<span class="case">acc</span>) <a href="../cite/Michaelem/1329/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1329/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>;
+ <span class="date">1330</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1330/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1330/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1330/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304, s.n. Michael</span></a>;
+ <span class="date">1331</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1331/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304, s.n. Michael</span></a>;
+ <span class="date">1332</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1332/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1332/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1332/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304, s.n. Michael</span></a>;
+ <span class="date">1332x1337</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304, s.n. Michael</span></a>;
+ <span class="date">1333</span> <span class="name">Michaelem</span> (<span class="case">acc</span>) <a href="../cite/Michaelem/1333/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 310, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1333/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 310, s.n. Michael</span></a>;
+ <span class="date">1334</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1334/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 311, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1334/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 311, s.n. Michael</span></a>;
+ <span class="date">1335</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1335/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 311, s.n. Michael</span></a>,
+ <span class="name">Michaelem</span> (<span class="case">acc</span>) <a href="../cite/Michaelem/1335/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 311, s.n. Michael</span></a>,
+ <span class="name">Michaeli</span> (<span class="case">dat</span>) <a href="../cite/Michaeli/1335/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 311, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1335/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 311, s.n. Michael</span></a>;
+ <span class="date">1336</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1336/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1336/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 311, s.n. Michael</span></a>,
+ <span class="name">Michaeli</span> (<span class="case">dat</span>) <a href="../cite/Michaeli/1336/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 311, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1336/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 311, s.n. Michael</span></a>;
+ <span class="date">1337</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 311, s.n. Michael</span></a>;
+ <span class="date">1338</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1338/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 311x312, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1338/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1338/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 312, s.n. Michael</span></a>;
+ <span class="date">1339</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1339/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 312, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1339/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 312, s.n. Michael</span></a>,
+ <span class="name">Michaelem</span> (<span class="case">acc</span>) <a href="../cite/Michaelem/1339/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 312, s.n. Michael</span></a>,
+ <span class="name">Michaeli</span> (<span class="case">dat</span>) <a href="../cite/Michaeli/1339/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 312, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1339/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 312, s.n. Michael</span></a>;
+ <span class="date">1340</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1340/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 312, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1340/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 312, s.n. Michael</span></a>;
+ <span class="date">1341</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1341/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1341/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 313, s.n. Michael</span></a>,
+ <span class="name">Michaeli</span> (<span class="case">dat</span>) <a href="../cite/Michaeli/1341/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 313, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1341/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 313, s.n. Michael</span></a>;
+ <span class="date">1342</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1342/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 311, s.n. Michael</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1342/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 313, s.n. Michael</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1342/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 313, s.n. Michael</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 20</span></a>,
+ <span class="name">Michel</span> (<span class="case">nom</span>) <a href="../cite/Michel/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 21</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1198</span> <span class="name">Micael</span> (<span class="case">nom</span>) <a href="../cite/Micael/1198/ChStBo1"><span class="bib_key">ChStBo1</span> <span class="bib_loc">IV</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1198/ChStBo1"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1310</span> <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1310/MonRav-2"><span class="bib_key">MonRav-2</span> <span class="bib_loc">CCCL</span></a>;
+ <span class="date">1376</span> <span class="name">Michael</span> (<span class="case">abl</span>) <a href="../cite/Michael/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 37</span></a>,
+ <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 242</span></a>;
+ <span class="date">1464</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>,
+ <span class="name">Michaël</span> (<span class="case">nom</span>) <a href="../cite/Michaël/1464/CUP-III-I"><span class="bib_key">ibid.</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1527</span> <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 83</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1285</span> <span class="name">Micheloctus</span> (<span class="case">nom</span>) <a href="../cite/Micheloctus/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 153</span></a>;
+ <span class="date">1310</span> <span class="name">Michelinus</span> (<span class="case">nom</span>) <a href="../cite/Michelinus/1310/MonRav-2"><span class="bib_key">MonRav-2</span> <span class="bib_loc">CCCL</span></a>,
+ <span class="name">Michelonus</span> (<span class="case">nom</span>) <a href="../cite/Michelonus/1310/MonRav-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCL</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Michaele</span> <a href="../cite/Michaele/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 14</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1464</span> <span class="name">Michel</span> <a href="../cite/Michel/1464/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1475</span> <span class="name">Mychel</span> <a href="../cite/Mychel/1475/Mettig1892"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1478</span> <span class="name">Michael</span> <a href="../cite/Michael/1478/Mettig1892"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1505</span> <span class="name">Michaelis</span> <a href="../cite/Michaelis/1505/Mettig1892"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1515</span> <span class="name">Mychahel</span> <a href="../cite/Mychahel/1515/Mettig1892"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1523</span> <span class="name">Michahel</span> <a href="../cite/Michahel/1523/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 98</span></a>,
+ <span class="name">Mychgel</span> <a href="../cite/Mychgel/1523/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1524</span> <span class="name">Michahel</span> <a href="../cite/Michahel/1524/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 99</span></a>;
+ <span class="date">1532</span> <span class="name">Michel</span> <a href="../cite/Michel/1532/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>,
+ <span class="name">Mickel</span> <a href="../cite/Mickel/1532/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 98</span></a>;
+ <span class="date">1558</span> <span class="name">Mickel</span> <a href="../cite/Mickel/1558/Arbuzov1920"><span class="bib_key">Arbuzov1920</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">Mickels</span> <a href="../cite/Mickels/1558/Arbuzov1920"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1582x1594</span> <span class="name">Michell</span> <a href="../cite/Michell/1582x1594/Arbuzov1920"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1569</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1569/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1570</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1570/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1571</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1571/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1573</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1573/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1577</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1577/NHG-Middelburg"><span class="bib_key">NHG-Middelburg</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1578</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1578/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1579</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1579/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1580</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1580/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1581</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1581/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1582</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1582/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1583</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1583/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1584</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1584/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1585</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1585/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1587</span> <span class="name">Michiel</span> <a href="../cite/Michiel/1587/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1228</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1228/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">p. 81</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1174x99</span> <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/1174x99/CartLevenax"><span class="bib_key">CartLevenax</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">a1177</span> <span class="name">Michaele</span> (<span class="case">abl</span>) <a href="../cite/Michaele/a1177/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1214–1226</span> <span class="name">Michel</span> (<span class="case">abl</span>) <a href="../cite/Michel/1214–1226/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1376</span> <span class="name">Michaeli</span> (<span class="case">dat</span>) <a href="../cite/Michaeli/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Mychaeli</span> (<span class="case">dat</span>) <a href="../cite/Mychaeli/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1424</span> <span class="name">Michaeli</span> (<span class="case">dat</span>) <a href="../cite/Michaeli/1424/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">18</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1276</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1276/CDGH"><span class="bib_key">CDGH</span> <span class="bib_loc">XLVI</span></a>,
+ <span class="name">michaele</span> (<span class="case">abl</span>) <a href="../cite/michaele/1276/CDGH"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVI</span></a>;
+ <span class="date">1487</span> <span class="name">Michaelem</span> (<span class="case">acc</span>) <a href="../cite/Michaelem/1487/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1488</span> <span class="name">Michaeli</span> (<span class="case">dat</span>) <a href="../cite/Michaeli/1488/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1488/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1489</span> <span class="name">Michaelem</span> (<span class="case">acc</span>) <a href="../cite/Michaelem/1489/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1490</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1490/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1490/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1491</span> <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1491/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 62</span></a>;
+ <span class="date">1492</span> <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1492/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 67</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Miquel</span> <a href="../cite/Miquel/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3259</span></a></dd>
+<dt><span class="lang">Old Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1225</span> <span class="name">Migael</span> <a href="../cite/Migael/1225/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 15</span></a>,
+ <span class="name">Miguel</span> <a href="../cite/Miguel/1225/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 15</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1495</span> <span class="name">Miguel</span> <a href="../cite/Miguel/1495/montalvo"><span class="bib_key">montalvo</span></a>;
+ <span class="date">1496</span> <span class="name">Mjguel</span> <a href="../cite/Mjguel/1496/olite1496"><span class="bib_key">olite1496</span> <span class="bib_loc">p. 175</span></a>;
+ <span class="date">1567</span> <span class="name">Miguel</span> <a href="../cite/Miguel/1567/SanzSerrano"><span class="bib_key">SanzSerrano</span></a>;
+ <span class="date">1575</span> <span class="name">Miguel</span> <a href="../cite/Miguel/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3793</span></a>;
+ <span class="date">1576</span> <span class="name">Miguel</span> <a href="../cite/Miguel/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3892</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6014</span></a>,
+ <span class="name">Michaeli</span> (<span class="case">dat</span>) <a href="../cite/Michaeli/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6037</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6037</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Michels</span> (<span class="case">gen</span>) <a href="../cite/Michels/1543/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 162</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">14thCx1478</span> <span class="name">Michael</span> (<span class="case">nom</span>) <a href="../cite/Michael/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(55)</span></a>,
+ <span class="name">Michaelis</span> (<span class="case">gen</span>) <a href="../cite/Michaelis/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(165)</span></a>,
+ <span class="name">Michaudi</span> (<span class="case">gen</span>) <a href="../cite/Michaudi/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(136)</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">14thCx1478</span> <span class="name">Michelon</span> (<span class="case">nom</span>) <a href="../cite/Michelon/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(195)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, R. Le Get, M. Slíz, J. Uckelman, S.L. Uckelman. "Michael". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Michael.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

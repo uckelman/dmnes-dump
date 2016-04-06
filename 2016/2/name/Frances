@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Frances</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Frances</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Francisca</i> 'Frankish, Frenchwoman'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 15th C Italian saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>Fem. of <a class="nym" href="Francis">Francis</a>, the name of an important saint.  Italian <i>Franzia</i> developed from the German and Dutch masculine form <i>Frans</i>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1554</span> <span class="name">Francisca</span> (<span class="case">nom</span>) <a href="../cite/Francisca/1554/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1559</span> <span class="name">Francisca</span> (<span class="case">nom</span>) <a href="../cite/Francisca/1559/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1568</span> <span class="name">ffrances</span> (<span class="case">nom</span>) <a href="../cite/ffrances/1568/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 11</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1538</span> <span class="name">Francis</span> <a href="../cite/Francis/1538/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1550</span> <span class="name">Frances</span> <a href="../cite/Frances/1550/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2a</span></a>;
+ <span class="date">1557</span> <span class="name">Frances</span> <a href="../cite/Frances/1557/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1558</span> <span class="name">ffraunces</span> <a href="../cite/ffraunces/1558/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1562</span> <span class="name">Franceyse</span> <a href="../cite/Franceyse/1562/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1565</span> <span class="name">Frances</span> <a href="../cite/Frances/1565/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1566</span> <span class="name">Frances</span> <a href="../cite/Frances/1566/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1568</span> <span class="name">Frances</span> <a href="../cite/Frances/1568/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1569</span> <span class="name">Frannces</span> <a href="../cite/Frannces/1569/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1570</span> <span class="name">Frawncys</span> <a href="../cite/Frawncys/1570/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1572</span> <span class="name">Francis</span> <a href="../cite/Francis/1572/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1573</span> <span class="name">Frances</span> <a href="../cite/Frances/1573/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1574</span> <span class="name">Frances</span> <a href="../cite/Frances/1574/Bar-in-El"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1582</span> <span class="name">Frances</span> <a href="../cite/Frances/1582/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Francis</span> <a href="../cite/Francis/1582/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1583</span> <span class="name">Frances</span> <a href="../cite/Frances/1583/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Francis</span> <a href="../cite/Francis/1583/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Frauncys</span> <a href="../cite/Frauncys/1583/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1586</span> <span class="name">Frances</span> <a href="../cite/Frances/1586/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1587</span> <span class="name">Frances</span> <a href="../cite/Frances/1587/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1588</span> <span class="name">Frances</span> <a href="../cite/Frances/1588/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 26</span></a>,
+ <a href="../cite/Frances/1588/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Francis</span> <a href="../cite/Francis/1588/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Francis/1588/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1589</span> <span class="name">Frances</span> <a href="../cite/Frances/1589/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 130</span></a>,
+ <a href="../cite/Frances/1589/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 48</span></a>,
+ <span class="name">Francis</span> <a href="../cite/Francis/1589/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Frawncys</span> <a href="../cite/Frawncys/1589/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1590</span> <span class="name">Frances</span> <a href="../cite/Frances/1590/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 65</span></a>,
+ <span class="name">Francis</span> <a href="../cite/Francis/1590/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Francis/1590/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1592</span> <span class="name">Frances</span> <a href="../cite/Frances/1592/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 65</span></a>,
+ <a href="../cite/Frances/1592/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1593</span> <span class="name">Frances</span> <a href="../cite/Frances/1593/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a>,
+ <span class="name">Franncis</span> <a href="../cite/Franncis/1593/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Frawncys</span> <a href="../cite/Frawncys/1593/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1594</span> <span class="name">Frances</span> <a href="../cite/Frances/1594/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Frances/1594/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1595</span> <span class="name">Frances</span> <a href="../cite/Frances/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Francis</span> <a href="../cite/Francis/1595/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1595/6</span> <span class="name">Fraunces</span> <a href="../cite/Fraunces/1595s6/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1596</span> <span class="name">Frances</span> <a href="../cite/Frances/1596/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1597</span> <span class="name">Frances</span> <a href="../cite/Frances/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1598</span> <span class="name">Frances</span> <a href="../cite/Frances/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1599</span> <span class="name">Frances</span> <a href="../cite/Frances/1599/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 142</span></a>,
+ <span class="name">Francis</span> <a href="../cite/Francis/1599/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Frauncis</span> <a href="../cite/Frauncis/1599/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 118</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1562</span> <span class="name">Françoise</span> <a href="../cite/Françoise/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1563</span> <span class="name">Françoise</span> <a href="../cite/Françoise/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>,
+ <span class="name">Françoyse</span> <a href="../cite/Françoyse/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1564</span> <span class="name">Françoise</span> <a href="../cite/Françoise/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>,
+ <span class="name">Françoyse</span> <a href="../cite/Françoyse/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1565</span> <span class="name">Françoise</span> <a href="../cite/Françoise/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 116</span></a>,
+ <span class="name">Françoyse</span> <a href="../cite/Françoyse/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 110</span></a>;
+ <span class="date">1566</span> <span class="name">Françoise</span> <a href="../cite/Françoise/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 211</span></a>,
+ <span class="name">Françoyse</span> <a href="../cite/Françoyse/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 204</span></a>;
+ <span class="date">1567</span> <span class="name">Françoyse</span> <a href="../cite/Françoyse/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 281</span></a>;
+ <span class="date">1568</span> <span class="name">Françoise</span> <a href="../cite/Françoise/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 366</span></a>,
+ <span class="name">Françoyse</span> <a href="../cite/Françoyse/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 375</span></a>;
+ <span class="date">1570</span> <span class="name">Françoyse</span> <a href="../cite/Françoyse/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 423</span></a>;
+ <span class="date">1571</span> <span class="name">Françoise</span> <a href="../cite/Françoise/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 448</span></a>,
+ <span class="name">Françoyse</span> <a href="../cite/Françoyse/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 443</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1310</span> <span class="name">Franzia</span> (<span class="case">nom</span>) <a href="../cite/Franzia/1310/MonRav-2"><span class="bib_key">MonRav-2</span> <span class="bib_loc">CCCL</span></a>;
+ <span class="date">1348</span> <span class="name">Francisca</span> (<span class="case">nom</span>) <a href="../cite/Francisca/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">22</span></a>,
+ <span class="name">Francisce</span> (<span class="case">gen</span>) <a href="../cite/Francisce/1348/INP"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Francesca</span> (<span class="case">nom</span>) <a href="../cite/Francesca/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 56, 13</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1265x1339</span> <span class="name">Franzina</span> (<span class="case">nom</span>) <a href="../cite/Franzina/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">92</span></a>;
+ <span class="date">1348</span> <span class="name">Cecchola</span> (<span class="case">abl</span>) <a href="../cite/Cecchola/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">24</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Cecha</span> (<span class="case">nom</span>) <a href="../cite/Cecha/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 53, 43</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1487</span> <span class="name">Franciscam</span> (<span class="case">acc</span>) <a href="../cite/Franciscam/1487/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 12</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1487</span> <span class="name">Francina</span> (<span class="case">nom</span>) <a href="../cite/Francina/1487/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Francoya</span> (<span class="case">nom</span>) <a href="../cite/Francoya/1487/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1488</span> <span class="name">Francina</span> (<span class="case">nom</span>) <a href="../cite/Francina/1488/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Francinae</span> (<span class="case">gen</span>) <a href="../cite/Francinae/1488/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1489</span> <span class="name">Francina</span> (<span class="case">nom</span>) <a href="../cite/Francina/1489/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1490</span> <span class="name">Francina</span> (<span class="case">nom</span>) <a href="../cite/Francina/1490/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1491</span> <span class="name">Francina</span> (<span class="case">nom</span>) <a href="../cite/Francina/1491/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 55</span></a>,
+ <span class="name">Francinæ</span> (<span class="case">gen</span>) <a href="../cite/Francinæ/1491/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57</span></a>,
+ <span class="name">Francoya</span> (<span class="case">nom</span>) <a href="../cite/Francoya/1491/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1492</span> <span class="name">Francina</span> (<span class="case">nom</span>) <a href="../cite/Francina/1492/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Francesca</span> <a href="../cite/Francesca/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3808</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1510</span> <span class="name">Francina</span> <a href="../cite/Francina/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3177</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1575</span> <span class="name">Francisca</span> <a href="../cite/Francisca/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3788</span></a>;
+ <span class="date">1576</span> <span class="name">Francisca</span> <a href="../cite/Francisca/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3884</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">14thCx1478</span> <span class="name">Francesia</span> (<span class="case">nom</span>) <a href="../cite/Francesia/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(47)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Frances". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Frances.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

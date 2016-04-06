@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Christiana</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Christiana</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>christiana</i> 'Christian (woman).
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>Often confused with <a class="nym" href="Christina">Christina</a>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Christiana</span> (<span class="case">nom</span>) <a href="../cite/Christiana/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 101</span></a>,
+ <span class="name">Cristiana</span> (<span class="case">nom</span>) <a href="../cite/Cristiana/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 218</span></a>;
+ <span class="date">1222</span> <span class="name">christiene</span> (<span class="case">gen</span>) <a href="../cite/christiene/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1256</span> <span class="name">Cristianæ</span> (<span class="case">gen</span>) <a href="../cite/Cristianæ/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1279–80</span> <span class="name">Christiana</span> (<span class="case">nom</span>) <a href="../cite/Christiana/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 62</span></a>;
+ <span class="date">1300</span> <span class="name">Cristiana</span> (<span class="case">nom</span>) <a href="../cite/Cristiana/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 243</span></a>;
+ <span class="date">1377</span> <span class="name">Christiana</span> (<span class="case">nom</span>) <a href="../cite/Christiana/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1381</span> <span class="name">Christiana</span> (<span class="case">nom</span>) <a href="../cite/Christiana/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1423</span> <span class="name">Cristianæ</span> (<span class="case">gen</span>) <a href="../cite/Cristianæ/1423/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">L</span></a>;
+ <span class="date">1530</span> <span class="name">Cristiane</span> (<span class="case">dat</span>) <a href="../cite/Cristiane/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1553</span> <span class="name">Christiana</span> (<span class="case">nom</span>) <a href="../cite/Christiana/1553/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1564</span> <span class="name">Christian</span> (<span class="case">nom</span>) <a href="../cite/Christian/1564/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 11</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1415</span> <span class="name">Cristian</span> <a href="../cite/Cristian/1415/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1434</span> <span class="name">Cristian</span> <a href="../cite/Cristian/1434/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 98</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Cristian</span> <a href="../cite/Cristian/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 72</span></a>,
+ <span class="name">Crystian</span> <a href="../cite/Crystian/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 70</span></a>,
+ <span class="name">Crystyan</span> <a href="../cite/Crystyan/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1540</span> <span class="name">Christian</span> <a href="../cite/Christian/1540/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1544</span> <span class="name">Christian</span> <a href="../cite/Christian/1544/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1545</span> <span class="name">Christian</span> <a href="../cite/Christian/1545/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1546</span> <span class="name">Christian</span> <a href="../cite/Christian/1546/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1549</span> <span class="name">Christian</span> <a href="../cite/Christian/1549/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1551</span> <span class="name">Christian</span> <a href="../cite/Christian/1551/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1552</span> <span class="name">Christian</span> <a href="../cite/Christian/1552/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Cristian</span> <a href="../cite/Cristian/1552/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1554/5</span> <span class="name">Cristian</span> <a href="../cite/Cristian/1554s5/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1559</span> <span class="name">Christian</span> <a href="../cite/Christian/1559/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 53</span></a>,
+ <span class="name">Christyan</span> <a href="../cite/Christyan/1559/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1560</span> <span class="name">Crystyan</span> <a href="../cite/Crystyan/1560/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1561</span> <span class="name">Christian</span> <a href="../cite/Christian/1561/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1562</span> <span class="name">Christian</span> <a href="../cite/Christian/1562/BEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95</span></a>;
+ <span class="date">1564</span> <span class="name">Christian</span> <a href="../cite/Christian/1564/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1565</span> <span class="name">Christian</span> <a href="../cite/Christian/1565/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 128</span></a>;
+ <span class="date">1567</span> <span class="name">Christian</span> <a href="../cite/Christian/1567/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1569</span> <span class="name">Christian</span> <a href="../cite/Christian/1569/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1570</span> <span class="name">Christian</span> <a href="../cite/Christian/1570/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1572</span> <span class="name">Crystyan</span> <a href="../cite/Crystyan/1572/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 91</span></a>;
+ <span class="date">1574</span> <span class="name">Christian</span> <a href="../cite/Christian/1574/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>;
+ <span class="date">1575</span> <span class="name">Christiana</span> <a href="../cite/Christiana/1575/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 62</span></a>;
+ <span class="date">1577</span> <span class="name">Christian</span> <a href="../cite/Christian/1577/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>;
+ <span class="date">1578</span> <span class="name">Christiana</span> <a href="../cite/Christiana/1578/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 62</span></a>;
+ <span class="date">1580</span> <span class="name">Christian</span> <a href="../cite/Christian/1580/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/Christian/1580/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1581</span> <span class="name">Christian</span> <a href="../cite/Christian/1581/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 122</span></a>,
+ <a href="../cite/Christian/1581/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1583</span> <span class="name">Christian</span> <a href="../cite/Christian/1583/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Chrystyan</span> <a href="../cite/Chrystyan/1583/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1584</span> <span class="name">Christian</span> <a href="../cite/Christian/1584/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/Christian/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1585</span> <span class="name">Christian</span> <a href="../cite/Christian/1585/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Christien</span> <a href="../cite/Christien/1585/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Christyan</span> <a href="../cite/Christyan/1585/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1586</span> <span class="name">Christian</span> <a href="../cite/Christian/1586/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1587</span> <span class="name">Christian</span> <a href="../cite/Christian/1587/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Christian/1587/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1588</span> <span class="name">Christian</span> <a href="../cite/Christian/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1589</span> <span class="name">Christian</span> <a href="../cite/Christian/1589/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Christian/1589/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 54</span></a>,
+ <a href="../cite/Christian/1589/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 123</span></a>,
+ <a href="../cite/Christian/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1590</span> <span class="name">Christian</span> <a href="../cite/Christian/1590/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Christyan</span> <a href="../cite/Christyan/1590/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1591</span> <span class="name">Christian</span> <a href="../cite/Christian/1591/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1592/3</span> <span class="name">Christian</span> <a href="../cite/Christian/1592s3/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1592</span> <span class="name">Christian</span> <a href="../cite/Christian/1592/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 17</span></a>,
+ <a href="../cite/Christian/1592/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 86</span></a>,
+ <a href="../cite/Christian/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1593</span> <span class="name">Christian</span> <a href="../cite/Christian/1593/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 131</span></a>,
+ <a href="../cite/Christian/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 27</span></a>,
+ <a href="../cite/Christian/1593/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Christian/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1594</span> <span class="name">Christian</span> <a href="../cite/Christian/1594/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1597</span> <span class="name">Christian</span> <a href="../cite/Christian/1597/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Christian/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1598</span> <span class="name">Christian</span> <a href="../cite/Christian/1598/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 102</span></a>,
+ <a href="../cite/Christian/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 38</span></a>,
+ <span class="name">Christyan</span> <a href="../cite/Christyan/1598/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 87</span></a>;
+ <span class="date">1599</span> <span class="name">Christian</span> <a href="../cite/Christian/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 40</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1138x1162</span> <span class="name">Christiana</span> (<span class="case">abl</span>) <a href="../cite/Christiana/1138x1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">66</span></a>;
+ <span class="date">1179</span> <span class="name">Christiana</span> (<span class="case">abl</span>) <a href="../cite/Christiana/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>,
+ <span class="name">Christiane</span> (<span class="case">gen</span>) <a href="../cite/Christiane/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">181</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Crestienne</span> <a href="../cite/Crestienne/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 74</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1423</span> <span class="name">Chrestienne</span> <a href="../cite/Chrestienne/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">186</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Cristiane</span> (<span class="case">dat</span>) <a href="../cite/Cristiane/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1426</span> <span class="name">Cristiane</span> (<span class="case">dat</span>) <a href="../cite/Cristiane/1426/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">42</span></a></dd>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">●</span> <span class="date">1477</span> <span class="name">Christian</span> <a href="../cite/Christian/1477/PGB"><span class="bib_key">PGB</span></a>;
+ <span class="date">1491</span> <span class="name">Christian</span> <a href="../cite/Christian/1491/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1556</span> <span class="name">Cristane</span> <a href="../cite/Cristane/1556/PGB"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1592</span> <span class="name">Christian</span> <a href="../cite/Christian/1592/RegLlantrithyd"><span class="bib_key">RegLlantrithyd</span> <span class="bib_loc">p. 34</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Christiana". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Christiana.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

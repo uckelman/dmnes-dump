@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>FRA-XXXL</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>FRA-XXXL</dt>
+  <dd>J. Zahn, editor. <em>Codex Diplomaticus Austriaco-Frisingensis</em>, volume XXXL of <em> Fontes Rerum Austriacarum: Oesterreichische Geschichts-Quellen, Zweite Abtheilung</em>. Wien: Aus der Kaiserlich-Königlichen Hof- und Staatsdruckerei, 1870.</dd>
+</dl>
+
+
+  <a href="../cite/Albero/1261/FRA-XXXL">Albero</a>
+
+  <a href="../cite/Alberti/1261/FRA-XXXL">Alberti</a>
+
+  <a href="../cite/Alberto/1261/FRA-XXXL">Alberto</a>
+
+  <a href="../cite/Albertum/1261/FRA-XXXL">Albertum</a>
+
+  <a href="../cite/Albertus/1261/FRA-XXXL">Albertus</a>
+
+  <a href="../cite/Artusio/1261/FRA-XXXL">Artusio</a>
+
+  <a href="../cite/Berchtoldo/1261/FRA-XXXL">Berchtoldo</a>
+
+  <a href="../cite/Chunradi/1261/FRA-XXXL">Chunradi</a>
+
+  <a href="../cite/Chunrado/1277/FRA-XXXL">Chunrado</a>
+
+  <a href="../cite/Chvnrado/1277?/FRA-XXXL">Chvnrado</a>
+
+  <a href="../cite/Chvnradus/1261/FRA-XXXL">Chvnradus</a>
+
+  <a href="../cite/Chvnradus/1277?/FRA-XXXL">Chvnradus</a>
+
+  <a href="../cite/Chvnradus/1277/FRA-XXXL">Chvnradus</a>
+
+  <a href="../cite/Ditricus/1261/FRA-XXXL">Ditricus</a>
+
+  <a href="../cite/Eberhardus/1261/FRA-XXXL">Eberhardus</a>
+
+  <a href="../cite/Friderico/1277/FRA-XXXL">Friderico</a>
+
+  <a href="../cite/Fridericus/1261/FRA-XXXL">Fridericus</a>
+
+  <a href="../cite/Gebhardi/1261/FRA-XXXL">Gebhardi</a>
+
+  <a href="../cite/Gotschalcus/1261/FRA-XXXL">Gotschalcus</a>
+
+  <a href="../cite/Gunthero/1277/FRA-XXXL">Gunthero</a>
+
+  <a href="../cite/Hartmannus/1261/FRA-XXXL">Hartmannus</a>
+
+  <a href="../cite/Hartwicus/1261/FRA-XXXL">Hartwicus</a>
+
+  <a href="../cite/Heinrico/1261/FRA-XXXL">Heinrico</a>
+
+  <a href="../cite/Heinrico/1277/FRA-XXXL">Heinrico</a>
+
+  <a href="../cite/Heinricus/1277/FRA-XXXL">Heinricus</a>
+
+  <a href="../cite/Heinricus/1261/FRA-XXXL">Heinricus</a>
+
+  <a href="../cite/Hermanno/1261/FRA-XXXL">Hermanno</a>
+
+  <a href="../cite/Hermanno/1277/FRA-XXXL">Hermanno</a>
+
+  <a href="../cite/Leupoldo/1277/FRA-XXXL">Leupoldo</a>
+
+  <a href="../cite/Mehthildim/1261/FRA-XXXL">Mehthildim</a>
+
+  <a href="../cite/Mertlinus/1261/FRA-XXXL">Mertlinus</a>
+
+  <a href="../cite/Nycolao/1261/FRA-XXXL">Nycolao</a>
+
+  <a href="../cite/Ortolfo/1261/FRA-XXXL">Ortolfo</a>
+
+  <a href="../cite/Otto/1261/FRA-XXXL">Otto</a>
+
+  <a href="../cite/Ottone/1277/FRA-XXXL">Ottone</a>
+
+  <a href="../cite/Ottone/1261/FRA-XXXL">Ottone</a>
+
+  <a href="../cite/Perhtam/1261/FRA-XXXL">Perhtam</a>
+
+  <a href="../cite/Pilgrimus/1261/FRA-XXXL">Pilgrimus</a>
+
+  <a href="../cite/Rvdegero/1261/FRA-XXXL">Rvdegero</a>
+
+  <a href="../cite/Rvdgerus/1261/FRA-XXXL">Rvdgerus</a>
+
+  <a href="../cite/Rvdolfo/1261/FRA-XXXL">Rvdolfo</a>
+
+  <a href="../cite/Rvdolfus/1277?/FRA-XXXL">Rvdolfus</a>
+
+  <a href="../cite/Sifrido/1277/FRA-XXXL">Sifrido</a>
+
+  <a href="../cite/Sifridus/1261/FRA-XXXL">Sifridus</a>
+
+  <a href="../cite/Vlricus/1261/FRA-XXXL">Vlricus</a>
+
+  <a href="../cite/Vrbanus/1261/FRA-XXXL">Vrbanus</a>
+
+  <a href="../cite/Wernhardus/1261/FRA-XXXL">Wernhardus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

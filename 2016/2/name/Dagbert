@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Dagbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Dagbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Saxon, Old Dutch</span> <i>dag</i>, <span class="lang">Old High German</span> <i>tag</i> 'day' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a number of 7th C Frankish kings.</p>
+</div>
+  
+  
+<div class="def">
+  <p>Spellings such as <i>Dambert</i> developed from the lengthening of <i>dag</i> to <i>dagin</i> which was then shortened to <i>dain</i>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">628</span> <span class="name">Dagobercthus</span> (<span class="case">nom</span>) <a href="../cite/Dagobercthus/628/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">CCXLV</span></a>,
+ <span class="name">Dagoberti</span> (<span class="case">gen</span>) <a href="../cite/Dagoberti/628/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCXLIV</span></a>;
+ <span class="date">629</span> <span class="name">Dagoberti</span> (<span class="case">gen</span>) <a href="../cite/Dagoberti/629/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCXLVI</span></a>,
+ <span class="name">Dagobertus</span> (<span class="case">nom</span>) <a href="../cite/Dagobertus/629/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCXLVI</span></a>;
+ <span class="date">1031</span> <span class="name">Daibertus</span> (<span class="case">nom</span>) <a href="../cite/Daibertus/1031/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">684</span></a>;
+ <span class="date">1147</span> <span class="name">Daimberti</span> (<span class="case">gen</span>) <a href="../cite/Daimberti/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Dainbertus</span> (<span class="case">nom</span>) <a href="../cite/Dainbertus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">634</span> <span class="name">Dagobertus</span> (<span class="case">nom</span>) <a href="../cite/Dagobertus/634/UrkPreu-1"><span class="bib_key">UrkPreu-1</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1137</span> <span class="name">Dagoberti</span> (<span class="case">gen</span>) <a href="../cite/Dagoberti/1137/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">102</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Dagbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Dagbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

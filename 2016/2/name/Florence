@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Florence</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Florence</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>florentia</i> 'blooming, flowery, in flowers'.  Fem. of <a class="nym" href="Florent">Florent</a>.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>Cf. also the closely related name <a class="nym" href="Floretia">Floretia</a>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1553</span> <span class="name">Florencia</span> (<span class="case">nom</span>) <a href="../cite/Florencia/1553/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1554</span> <span class="name">Florence</span> <a href="../cite/Florence/1554/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1555</span> <span class="name">Florence</span> <a href="../cite/Florence/1555/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1560</span> <span class="name">Florence</span> <a href="../cite/Florence/1560/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1561</span> <span class="name">Florence</span> <a href="../cite/Florence/1561/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1563</span> <span class="name">Florence</span> <a href="../cite/Florence/1563/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>;
+ <span class="date">1564</span> <span class="name">Florence</span> <a href="../cite/Florence/1564/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Florence/1564/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1566</span> <span class="name">Florans</span> <a href="../cite/Florans/1566/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1572</span> <span class="name">Flourence</span> <a href="../cite/Flourence/1572/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 96</span></a>;
+ <span class="date">1576</span> <span class="name">Florance</span> <a href="../cite/Florance/1576/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 101</span></a>;
+ <span class="date">1577</span> <span class="name">Flarance</span> <a href="../cite/Flarance/1577/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 127</span></a>;
+ <span class="date">1582</span> <span class="name">Florance</span> <a href="../cite/Florance/1582/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1586</span> <span class="name">Florence</span> <a href="../cite/Florence/1586/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1589</span> <span class="name">Florance</span> <a href="../cite/Florance/1589/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 130</span></a>,
+ <span class="name">Florence</span> <a href="../cite/Florence/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1591</span> <span class="name">Florence</span> <a href="../cite/Florence/1591/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1592</span> <span class="name">Florence</span> <a href="../cite/Florence/1592/DEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 86</span></a>,
+ <a href="../cite/Florence/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593</span> <span class="name">Florence</span> <a href="../cite/Florence/1593/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1594</span> <span class="name">Florence</span> <a href="../cite/Florence/1594/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 87</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Florence</span> <a href="../cite/Florence/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 33</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1562</span> <span class="name">Florence</span> <a href="../cite/Florence/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1563</span> <span class="name">Florence</span> <a href="../cite/Florence/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1565</span> <span class="name">Fleurence</span> <a href="../cite/Fleurence/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 154</span></a>,
+ <span class="name">Florence</span> <a href="../cite/Florence/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 159</span></a>;
+ <span class="date">1566</span> <span class="name">Florence</span> <a href="../cite/Florence/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 236</span></a>;
+ <span class="date">1568</span> <span class="name">Fleurence</span> <a href="../cite/Fleurence/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 419</span></a>;
+ <span class="date">1571</span> <span class="name">Florence</span> <a href="../cite/Florence/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 464</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1563</span> <span class="name">Florentine</span> <a href="../cite/Florentine/1563/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 23</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1488</span> <span class="name">Florentina</span> (<span class="case">nom</span>) <a href="../cite/Florentina/1488/carbonell"><span class="bib_key">carbonell</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1490</span> <span class="name">Florentina</span> (<span class="case">nom</span>) <a href="../cite/Florentina/1490/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>,
+ <span class="name">Florintinae</span> (<span class="case">gen</span>) <a href="../cite/Florintinae/1490/carbonell"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1491</span> <span class="name">Florentina</span> (<span class="case">nom</span>) <a href="../cite/Florentina/1491/carbonell"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Florence". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Florence.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

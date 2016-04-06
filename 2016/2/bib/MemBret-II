@@ -1,0 +1,488 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>MemBret-II</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>MemBret-II</dt>
+  <dd>Hyacinthe Morice, editor. <em>Memoires pour Servir de Preuves a l'Histoire Ecclesiastique et Civile de Bretagne</em>, volume II. :Paris: Charles Osmont, 1744.</dd>
+</dl>
+
+
+  <a href="../cite/Alain/1392/MemBret-II">Alain</a>
+
+  <a href="../cite/Albert/1392/MemBret-II">Albert</a>
+
+  <a href="../cite/Aleaume/1392/MemBret-II">Aleaume</a>
+
+  <a href="../cite/Allaume/1392/MemBret-II">Allaume</a>
+
+  <a href="../cite/Ambrois/1392/MemBret-II">Ambrois</a>
+
+  <a href="../cite/Ambroys/1392/MemBret-II">Ambroys</a>
+
+  <a href="../cite/Amelot/1392/MemBret-II">Amelot</a>
+
+  <a href="../cite/Anceau/1392/MemBret-II">Anceau</a>
+
+  <a href="../cite/Andre/1392/MemBret-II">Andre</a>
+
+  <a href="../cite/Andrieu/1392/MemBret-II">Andrieu</a>
+
+  <a href="../cite/Andry/1392/MemBret-II">Andry</a>
+
+  <a href="../cite/Anthoine/1392/MemBret-II">Anthoine</a>
+
+  <a href="../cite/Antoine/1392/MemBret-II">Antoine</a>
+
+  <a href="../cite/Antonin/1392/MemBret-II">Antonin</a>
+
+  <a href="../cite/Arnoul/1392/MemBret-II">Arnoul</a>
+
+  <a href="../cite/Artus/1392/MemBret-II">Artus</a>
+
+  <a href="../cite/Aubert/1392/MemBret-II">Aubert</a>
+
+  <a href="../cite/Baudouin/1392/MemBret-II">Baudouin</a>
+
+  <a href="../cite/Bernardin/1392/MemBret-II">Bernardin</a>
+
+  <a href="../cite/Bernart/1392/MemBret-II">Bernart</a>
+
+  <a href="../cite/Bertaud/1392/MemBret-II">Bertaud</a>
+
+  <a href="../cite/Berthelot/1392/MemBret-II">Berthelot</a>
+
+  <a href="../cite/Bertrain/1392/MemBret-II">Bertrain</a>
+
+  <a href="../cite/Bertran/1392/MemBret-II">Bertran</a>
+
+  <a href="../cite/Binet/1392/MemBret-II">Binet</a>
+
+  <a href="../cite/Blanchet/1392/MemBret-II">Blanchet</a>
+
+  <a href="../cite/Bouchart/1392/MemBret-II">Bouchart</a>
+
+  <a href="../cite/Bruneau/1392/MemBret-II">Bruneau</a>
+
+  <a href="../cite/Brunet/1392/MemBret-II">Brunet</a>
+
+  <a href="../cite/Cardinet/1392/MemBret-II">Cardinet</a>
+
+  <a href="../cite/Charles/1392/MemBret-II">Charles</a>
+
+  <a href="../cite/Charlot/1392/MemBret-II">Charlot</a>
+
+  <a href="../cite/Colart/1392/MemBret-II">Colart</a>
+
+  <a href="../cite/Colas/1392/MemBret-II">Colas</a>
+
+  <a href="../cite/Colin/1392/MemBret-II">Colin</a>
+
+  <a href="../cite/Colinet/1392/MemBret-II">Colinet</a>
+
+  <a href="../cite/Denis/1392/MemBret-II">Denis</a>
+
+  <a href="../cite/Denys/1392/MemBret-II">Denys</a>
+
+  <a href="../cite/Drouet/1392/MemBret-II">Drouet</a>
+
+  <a href="../cite/Eliot/1392/MemBret-II">Eliot</a>
+
+  <a href="../cite/Emery/1392/MemBret-II">Emery</a>
+
+  <a href="../cite/Enguerran/1392/MemBret-II">Enguerran</a>
+
+  <a href="../cite/Ernoul/1392/MemBret-II">Ernoul</a>
+
+  <a href="../cite/Estienne/1392/MemBret-II">Estienne</a>
+
+  <a href="../cite/Estiennot/1392/MemBret-II">Estiennot</a>
+
+  <a href="../cite/Fabien/1392/MemBret-II">Fabien</a>
+
+  <a href="../cite/Ferrandin/1392/MemBret-II">Ferrandin</a>
+
+  <a href="../cite/Ferrant/1392/MemBret-II">Ferrant</a>
+
+  <a href="../cite/Flamen/1392/MemBret-II">Flamen</a>
+
+  <a href="../cite/Fouquaut/1392/MemBret-II">Fouquaut</a>
+
+  <a href="../cite/Fouques/1392/MemBret-II">Fouques</a>
+
+  <a href="../cite/Fouquet/1392/MemBret-II">Fouquet</a>
+
+  <a href="../cite/Franc/1392/MemBret-II">Franc</a>
+
+  <a href="../cite/François/1392/MemBret-II">François</a>
+
+  <a href="../cite/Fremin/1392/MemBret-II">Fremin</a>
+
+  <a href="../cite/Gabriel/1392/MemBret-II">Gabriel</a>
+
+  <a href="../cite/Garnier/1392/MemBret-II">Garnier</a>
+
+  <a href="../cite/Gasce/1392/MemBret-II">Gasce</a>
+
+  <a href="../cite/Gauterin/1392/MemBret-II">Gauterin</a>
+
+  <a href="../cite/Gautier/1392/MemBret-II">Gautier</a>
+
+  <a href="../cite/Gauvain/1392/MemBret-II">Gauvain</a>
+
+  <a href="../cite/Gauvaing/1392/MemBret-II">Gauvaing</a>
+
+  <a href="../cite/Geffroi/1392/MemBret-II">Geffroi</a>
+
+  <a href="../cite/Geffroy/1392/MemBret-II">Geffroy</a>
+
+  <a href="../cite/George/1392/MemBret-II">George</a>
+
+  <a href="../cite/Georget/1392/MemBret-II">Georget</a>
+
+  <a href="../cite/Gerar/1392/MemBret-II">Gerar</a>
+
+  <a href="../cite/Gervaise/1392/MemBret-II">Gervaise</a>
+
+  <a href="../cite/Gibaut/1392/MemBret-II">Gibaut</a>
+
+  <a href="../cite/Gieuffroy/1392/MemBret-II">Gieuffroy</a>
+
+  <a href="../cite/Gilet/1392/MemBret-II">Gilet</a>
+
+  <a href="../cite/Gillebert/1392/MemBret-II">Gillebert</a>
+
+  <a href="../cite/Gilles/1392/MemBret-II">Gilles</a>
+
+  <a href="../cite/Gillet/1392/MemBret-II">Gillet</a>
+
+  <a href="../cite/Gilot/1392/MemBret-II">Gilot</a>
+
+  <a href="../cite/Girard/1392/MemBret-II">Girard</a>
+
+  <a href="../cite/Girart/1392/MemBret-II">Girart</a>
+
+  <a href="../cite/Guerart/1392/MemBret-II">Guerart</a>
+
+  <a href="../cite/Gueret/1392/MemBret-II">Gueret</a>
+
+  <a href="../cite/Gui/1392/MemBret-II">Gui</a>
+
+  <a href="../cite/Guichart/1392/MemBret-II">Guichart</a>
+
+  <a href="../cite/Guiet/1392/MemBret-II">Guiet</a>
+
+  <a href="../cite/Guillaum/1392/MemBret-II">Guillaum</a>
+
+  <a href="../cite/Guillaume/1392/MemBret-II">Guillaume</a>
+
+  <a href="../cite/Guillemet/1392/MemBret-II">Guillemet</a>
+
+  <a href="../cite/Guillemin/1392/MemBret-II">Guillemin</a>
+
+  <a href="../cite/Guillemot/1392/MemBret-II">Guillemot</a>
+
+  <a href="../cite/Guillot/1392/MemBret-II">Guillot</a>
+
+  <a href="../cite/Guion/1392/MemBret-II">Guion</a>
+
+  <a href="../cite/Guiot/1392/MemBret-II">Guiot</a>
+
+  <a href="../cite/Gullaume/1392/MemBret-II">Gullaume</a>
+
+  <a href="../cite/Guy/1392/MemBret-II">Guy</a>
+
+  <a href="../cite/Guyon/1392/MemBret-II">Guyon</a>
+
+  <a href="../cite/Hamelot/1392/MemBret-II">Hamelot</a>
+
+  <a href="../cite/Hannequin/1392/MemBret-II">Hannequin</a>
+
+  <a href="../cite/Harouart/1392/MemBret-II">Harouart</a>
+
+  <a href="../cite/Hennequin/1392/MemBret-II">Hennequin</a>
+
+  <a href="../cite/Henri/1392/MemBret-II">Henri</a>
+
+  <a href="../cite/Henry/1392/MemBret-II">Henry</a>
+
+  <a href="../cite/Herouart/1392/MemBret-II">Herouart</a>
+
+  <a href="../cite/Hetor/1392/MemBret-II">Hetor</a>
+
+  <a href="../cite/Hodouart/1392/MemBret-II">Hodouart</a>
+
+  <a href="../cite/Hubertus/1392/MemBret-II">Hubertus</a>
+
+  <a href="../cite/Hue/1392/MemBret-II">Hue</a>
+
+  <a href="../cite/Hues/1392/MemBret-II">Hues</a>
+
+  <a href="../cite/Huet/1392/MemBret-II">Huet</a>
+
+  <a href="../cite/Huguelin/1392/MemBret-II">Huguelin</a>
+
+  <a href="../cite/Huguenin/1392/MemBret-II">Huguenin</a>
+
+  <a href="../cite/Huguet/1392/MemBret-II">Huguet</a>
+
+  <a href="../cite/Huillaume/1392/MemBret-II">Huillaume</a>
+
+  <a href="../cite/Husson/1392/MemBret-II">Husson</a>
+
+  <a href="../cite/Imbert/1392/MemBret-II">Imbert</a>
+
+  <a href="../cite/Jacobtin/1392/MemBret-II">Jacobtin</a>
+
+  <a href="../cite/Jacquemart/1392/MemBret-II">Jacquemart</a>
+
+  <a href="../cite/Jacques/1392/MemBret-II">Jacques</a>
+
+  <a href="../cite/Jacquet/1392/MemBret-II">Jacquet</a>
+
+  <a href="../cite/Jamet/1392/MemBret-II">Jamet</a>
+
+  <a href="../cite/Jaquemin/1392/MemBret-II">Jaquemin</a>
+
+  <a href="../cite/Jean/1392/MemBret-II">Jean</a>
+
+  <a href="../cite/Jehamet/1392/MemBret-II">Jehamet</a>
+
+  <a href="../cite/Jehan/1392/MemBret-II">Jehan</a>
+
+  <a href="../cite/Jehannet/1392/MemBret-II">Jehannet</a>
+
+  <a href="../cite/Jennequin/1392/MemBret-II">Jennequin</a>
+
+  <a href="../cite/Jennin/1392/MemBret-II">Jennin</a>
+
+  <a href="../cite/Julien/1392/MemBret-II">Julien</a>
+
+  <a href="../cite/Lancelot/1392/MemBret-II">Lancelot</a>
+
+  <a href="../cite/Lansselot/1392/MemBret-II">Lansselot</a>
+
+  <a href="../cite/Lorens/1392/MemBret-II">Lorens</a>
+
+  <a href="../cite/Loup/1392/MemBret-II">Loup</a>
+
+  <a href="../cite/Loys/1392/MemBret-II">Loys</a>
+
+  <a href="../cite/Lucas/1392/MemBret-II">Lucas</a>
+
+  <a href="../cite/Lyenart/1392/MemBret-II">Lyenart</a>
+
+  <a href="../cite/Mace/1392/MemBret-II">Mace</a>
+
+  <a href="../cite/Mahieu/1392/MemBret-II">Mahieu</a>
+
+  <a href="../cite/Maillart/1392/MemBret-II">Maillart</a>
+
+  <a href="../cite/Marguerite/1392/MemBret-II">Marguerite</a>
+
+  <a href="../cite/Martel/1392/MemBret-II">Martel</a>
+
+  <a href="../cite/Martelet/1392/MemBret-II">Martelet</a>
+
+  <a href="../cite/Martin/1392/MemBret-II">Martin</a>
+
+  <a href="../cite/Michel/1392/MemBret-II">Michel</a>
+
+  <a href="../cite/Michelet/1392/MemBret-II">Michelet</a>
+
+  <a href="../cite/Nicolas/1392/MemBret-II">Nicolas</a>
+
+  <a href="../cite/Noel/1392/MemBret-II">Noel</a>
+
+  <a href="../cite/Ogier/1392/MemBret-II">Ogier</a>
+
+  <a href="../cite/Olivier/1392/MemBret-II">Olivier</a>
+
+  <a href="../cite/Oudart/1392/MemBret-II">Oudart</a>
+
+  <a href="../cite/Oudinet/1392/MemBret-II">Oudinet</a>
+
+  <a href="../cite/Paien/1392/MemBret-II">Paien</a>
+
+  <a href="../cite/Payen/1392/MemBret-II">Payen</a>
+
+  <a href="../cite/Perceval/1392/MemBret-II">Perceval</a>
+
+  <a href="../cite/Perreau/1392/MemBret-II">Perreau</a>
+
+  <a href="../cite/Perrenet/1392/MemBret-II">Perrenet</a>
+
+  <a href="../cite/Perret/1392/MemBret-II">Perret</a>
+
+  <a href="../cite/Perrin/1392/MemBret-II">Perrin</a>
+
+  <a href="../cite/Perrinet/1392/MemBret-II">Perrinet</a>
+
+  <a href="../cite/Perrot/1392/MemBret-II">Perrot</a>
+
+  <a href="../cite/Perrotin/1392/MemBret-II">Perrotin</a>
+
+  <a href="../cite/Petreman/1392/MemBret-II">Petreman</a>
+
+  <a href="../cite/Phelibert/1392/MemBret-II">Phelibert</a>
+
+  <a href="../cite/Phelipon/1392/MemBret-II">Phelipon</a>
+
+  <a href="../cite/Phelipot/1392/MemBret-II">Phelipot</a>
+
+  <a href="../cite/Phelippe/1392/MemBret-II">Phelippe</a>
+
+  <a href="../cite/Phelippot/1392/MemBret-II">Phelippot</a>
+
+  <a href="../cite/Philebert/1392/MemBret-II">Philebert</a>
+
+  <a href="../cite/Philipon/1392/MemBret-II">Philipon</a>
+
+  <a href="../cite/Pierre/1392/MemBret-II">Pierre</a>
+
+  <a href="../cite/Pierres/1392/MemBret-II">Pierres</a>
+
+  <a href="../cite/Pierrot/1392/MemBret-II">Pierrot</a>
+
+  <a href="../cite/Quentin/1392/MemBret-II">Quentin</a>
+
+  <a href="../cite/Regnaud/1392/MemBret-II">Regnaud</a>
+
+  <a href="../cite/Regnaudin/1392/MemBret-II">Regnaudin</a>
+
+  <a href="../cite/Regnaut/1392/MemBret-II">Regnaut</a>
+
+  <a href="../cite/Regnaux/1392/MemBret-II">Regnaux</a>
+
+  <a href="../cite/Regnier/1392/MemBret-II">Regnier</a>
+
+  <a href="../cite/Remon/1392/MemBret-II">Remon</a>
+
+  <a href="../cite/Renault/1392/MemBret-II">Renault</a>
+
+  <a href="../cite/Richard/1392/MemBret-II">Richard</a>
+
+  <a href="../cite/Richart/1392/MemBret-II">Richart</a>
+
+  <a href="../cite/Robert/1392/MemBret-II">Robert</a>
+
+  <a href="../cite/Robin/1392/MemBret-II">Robin</a>
+
+  <a href="../cite/Robinet/1392/MemBret-II">Robinet</a>
+
+  <a href="../cite/Roger/1392/MemBret-II">Roger</a>
+
+  <a href="../cite/Rogier/1392/MemBret-II">Rogier</a>
+
+  <a href="../cite/Rogues/1392/MemBret-II">Rogues</a>
+
+  <a href="../cite/Roguet/1392/MemBret-II">Roguet</a>
+
+  <a href="../cite/Rolant/1392/MemBret-II">Rolant</a>
+
+  <a href="../cite/Sanson/1392/MemBret-II">Sanson</a>
+
+  <a href="../cite/Sarrazin/1392/MemBret-II">Sarrazin</a>
+
+  <a href="../cite/Sauvage/1392/MemBret-II">Sauvage</a>
+
+  <a href="../cite/Sauvaige/1392/MemBret-II">Sauvaige</a>
+
+  <a href="../cite/Seguin/1392/MemBret-II">Seguin</a>
+
+  <a href="../cite/Sevestre/1392/MemBret-II">Sevestre</a>
+
+  <a href="../cite/Simon/1392/MemBret-II">Simon</a>
+
+  <a href="../cite/Simonet/1392/MemBret-II">Simonet</a>
+
+  <a href="../cite/Thebaut/1392/MemBret-II">Thebaut</a>
+
+  <a href="../cite/Thevenin/1392/MemBret-II">Thevenin</a>
+
+  <a href="../cite/Thibaud/1392/MemBret-II">Thibaud</a>
+
+  <a href="../cite/Thibaut/1392/MemBret-II">Thibaut</a>
+
+  <a href="../cite/Thomas/1392/MemBret-II">Thomas</a>
+
+  <a href="../cite/Thomassin/1392/MemBret-II">Thomassin</a>
+
+  <a href="../cite/Thomin/1392/MemBret-II">Thomin</a>
+
+  <a href="../cite/Thommasin/1392/MemBret-II">Thommasin</a>
+
+  <a href="../cite/Tommas/1392/MemBret-II">Tommas</a>
+
+  <a href="../cite/Watier/1392/MemBret-II">Watier</a>
+
+  <a href="../cite/Willaume/1392/MemBret-II">Willaume</a>
+
+  <a href="../cite/Willequin/1392/MemBret-II">Willequin</a>
+
+  <a href="../cite/Ysembert/1392/MemBret-II">Ysembert</a>
+
+  <a href="../cite/Yvain/1392/MemBret-II">Yvain</a>
+
+  <a href="../cite/Yvon/1392/MemBret-II">Yvon</a>
+
+  <a href="../cite/Yvonnet/1392/MemBret-II">Yvonnet</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Giles</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Giles</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Aegidius</i> from <span class="lang">Ancient Greek</span> <i>Αἰγίδιος</i>, a derivative of <span class="lang">Ancient Greek</span> <i>αἰγίδιον</i> 'kid, young goat'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C saint and a 10th C Italian saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1266</span> <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1266/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">6</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Egidii</span> (<span class="case">gen</span>) <a href="../cite/Egidii/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Egidio</span> (<span class="case">abl</span>) <a href="../cite/Egidio/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>,
+ <span class="name">Egidium</span> (<span class="case">acc</span>) <a href="../cite/Egidium/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Gielys</span> (<span class="case">gen</span>) <a href="../cite/Gielys/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Gile</span> (<span class="case">nom</span>) <a href="../cite/Gile/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 134</span></a>,
+ <span class="name">Giles</span> (<span class="case">nom</span>) <a href="../cite/Giles/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 102</span></a>;
+ <span class="date">1381</span> <span class="name">Egidio</span> (<span class="case">abl</span>) <a href="../cite/Egidio/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 91</span></a>;
+ <span class="date">1551</span> <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1551/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1571/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">s'Broeders</span></a>;
+ <span class="date">1572</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1572/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bontenaken</span></a>;
+ <span class="date">1574</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bontenaken</span></a>;
+ <span class="date">1575</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1575/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bode</span></a>;
+ <span class="date">1577</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Doornhove</span></a>;
+ <span class="date">1578</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bontenaken</span></a>;
+ <span class="date">1579</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bode</span></a>;
+ <span class="date">1580</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Booij</span></a>;
+ <span class="date">1583</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Ghele</span></a>;
+ <span class="date">1584</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1584/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bedalls</span></a>;
+ <span class="date">1585</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gele</span></a>;
+ <span class="date">1586</span> <span class="name">Gielis</span> <a href="../cite/Gielis/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Ghijsels</span></a>,
+ <span class="name">Gillis</span> <a href="../cite/Gillis/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beijdall</span></a>;
+ <span class="date">1587</span> <span class="name">Gielis</span> <a href="../cite/Gielis/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Eechout</span></a>;
+ <span class="date">1588</span> <span class="name">Gielis</span> <a href="../cite/Gielis/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beijdaels</span></a>;
+ <span class="date">1589</span> <span class="name">Gielis</span> <a href="../cite/Gielis/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Coster</span></a>;
+ <span class="date">1590</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Baert</span></a>;
+ <span class="date">1593</span> <span class="name">Aegidius</span> <a href="../cite/Aegidius/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bijlovoys</span></a>,
+ <span class="name">Gillis</span> <a href="../cite/Gillis/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Alaerts</span></a>;
+ <span class="date">1595</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Costere</span></a>;
+ <span class="date">1597</span> <span class="name">Gielis</span> <a href="../cite/Gielis/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Ackom</span></a>,
+ <span class="name">Gillis</span> <a href="../cite/Gillis/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Choor</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1438</span> <span class="name">Giles</span> <a href="../cite/Giles/1438/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 112</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1429</span> <span class="name">Gillot</span> <a href="../cite/Gillot/1429/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LV</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1529</span> <span class="name">Giles</span> <a href="../cite/Giles/1529/PP-HenV"><span class="bib_key">PP-HenV</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1530</span> <span class="name">Gyles</span> <a href="../cite/Gyles/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 87</span></a>,
+ <span class="name">Gylys</span> <a href="../cite/Gylys/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1539</span> <span class="name">Gylles</span> <a href="../cite/Gylles/1539/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 77</span></a>;
+ <span class="date">1559</span> <span class="name">Giles</span> <a href="../cite/Giles/1559/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 60</span></a>,
+ <a href="../cite/Giles/1559/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Gyles</span> <a href="../cite/Gyles/1559/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 110</span></a>;
+ <span class="date">1562</span> <span class="name">Giles</span> <a href="../cite/Giles/1562/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Giles/1562/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1563</span> <span class="name">Giles</span> <a href="../cite/Giles/1563/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Gyles</span> <a href="../cite/Gyles/1563/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1565</span> <span class="name">Gylyes</span> <a href="../cite/Gylyes/1565/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1567</span> <span class="name">Gyles</span> <a href="../cite/Gyles/1567/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1573</span> <span class="name">Giles</span> <a href="../cite/Giles/1573/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 70</span></a>;
+ <span class="date">1575</span> <span class="name">Giles</span> <a href="../cite/Giles/1575/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1580</span> <span class="name">Giles</span> <a href="../cite/Giles/1580/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1581</span> <span class="name">Giles</span> <a href="../cite/Giles/1581/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1582</span> <span class="name">Giles</span> <a href="../cite/Giles/1582/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1583</span> <span class="name">Giles</span> <a href="../cite/Giles/1583/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1584</span> <span class="name">Giles</span> <a href="../cite/Giles/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1585</span> <span class="name">Giles</span> <a href="../cite/Giles/1585/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1586</span> <span class="name">Giles</span> <a href="../cite/Giles/1586/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1587</span> <span class="name">Giles</span> <a href="../cite/Giles/1587/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1594</span> <span class="name">Giles</span> <a href="../cite/Giles/1594/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Gyles</span> <a href="../cite/Gyles/1594/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Gyles/1594/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1595</span> <span class="name">Giles</span> <a href="../cite/Giles/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Gyles</span> <a href="../cite/Gyles/1595/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 54</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">565</span> <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/565/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">Add. II</span></a>;
+ <span class="date">1147</span> <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1163</span> <span class="name">Egidii</span> (<span class="case">gen</span>) <a href="../cite/Egidii/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1179</span> <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">179</span></a>;
+ <span class="date">1239</span> <span class="name">Egidii</span> (<span class="case">gen</span>) <a href="../cite/Egidii/1239/CartAub"><span class="bib_key">CartAub</span></a>;
+ <span class="date">1260</span> <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1260/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XI, Pentecost</span></a>,
+ <a href="../cite/Egidius/1260/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXVII</span></a>;
+ <span class="date">1263</span> <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1263/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII</span></a>;
+ <span class="date">1301</span> <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 175</span></a>,
+ <span class="name">Egydius</span> (<span class="case">nom</span>) <a href="../cite/Egydius/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 202</span></a>;
+ <span class="date">1304</span> <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1304/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXVI</span></a>;
+ <span class="date">1313</span> <span class="name">Egidio</span> (<span class="case">abl</span>) <a href="../cite/Egidio/1313/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXVIII</span></a>;
+ <span class="date">1378</span> <span class="name">Egidii</span> (<span class="case">gen</span>) <a href="../cite/Egidii/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">162</span></a>,
+ <span class="name">Egidio</span> (<span class="case">dat</span>) <a href="../cite/Egidio/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">57</span></a>,
+ <span class="name">Egidium</span> (<span class="case">acc</span>) <a href="../cite/Egidium/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">736</span></a>,
+ <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">210</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1163–64</span> <span class="name">Gillenet</span> (<span class="case">nom</span>) <a href="../cite/Gillenet/1163–64/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">107</span></a>,
+ <span class="name">Gillenez</span> (<span class="case">nom</span>) <a href="../cite/Gillenez/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">107</span></a>;
+ <span class="date">1164</span> <span class="name">Gillentz</span> (<span class="case">nom</span>) <a href="../cite/Gillentz/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1260</span> <span class="name">Gileti</span> (<span class="case">gen</span>) <a href="../cite/Gileti/1260/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XXI, Ascension</span></a>;
+ <span class="date">1376</span> <span class="name">Gilletus</span> (<span class="case">nom</span>) <a href="../cite/Gilletus/1376/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">383</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Gile</span> <a href="../cite/Gile/1292/1292paris"><span class="bib_key">1292paris</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1296</span> <span class="name">Gile</span> <a href="../cite/Gile/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1301</span> <span class="name">Giles</span> (<span class="case">nom</span>) <a href="../cite/Giles/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 266</span></a>,
+ <span class="name">Gilles</span> (<span class="case">nom</span>) <a href="../cite/Gilles/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 335 [p. 235]</span></a>;
+ <span class="date">1303</span> <span class="name">Giles</span> (<span class="case">nom</span>) <a href="../cite/Giles/1303/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 153</span></a>;
+ <span class="date">1313</span> <span class="name">Gile</span> <a href="../cite/Gile/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 20</span></a>,
+ <span class="name">Giles</span> <a href="../cite/Giles/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Gilet</span> <a href="../cite/Gilet/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1301</span> <span class="name">Gillot</span> (<span class="case">obl</span>) <a href="../cite/Gillot/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 239</span></a>;
+ <span class="date">1313</span> <span class="name">Gilet</span> <a href="../cite/Gilet/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Gilot</span> <a href="../cite/Gilot/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1388</span> <span class="name">Gille</span> <a href="../cite/Gille/1388/thierry"><span class="bib_key">thierry</span></a>;
+ <span class="date">1392</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 609</span></a>;
+ <span class="date">1418</span> <span class="name">Giles</span> <a href="../cite/Giles/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 376</span></a>;
+ <span class="date">1421</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1423</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">384</span></a>;
+ <span class="date">1438</span> <span class="name">Giles</span> <a href="../cite/Giles/1438/favier"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1561</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1562</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1563</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1564</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1565</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 107</span></a>;
+ <span class="date">1566</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 200</span></a>;
+ <span class="date">1567</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 282</span></a>;
+ <span class="date">1568</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 365</span></a>;
+ <span class="date">1570</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 428</span></a>;
+ <span class="date">1571</span> <span class="name">Gilles</span> <a href="../cite/Gilles/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 439</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Gilet</span> <a href="../cite/Gilet/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 607</span></a>,
+ <span class="name">Gillet</span> <a href="../cite/Gillet/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 602</span></a>,
+ <span class="name">Gilot</span> <a href="../cite/Gilot/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 611</span></a>;
+ <span class="date">1418</span> <span class="name">Gilet</span> <a href="../cite/Gilet/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 374</span></a>;
+ <span class="date">1421</span> <span class="name">Gilet</span> <a href="../cite/Gilet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">p. 157</span></a>,
+ <span class="name">Gillet</span> <a href="../cite/Gillet/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>,
+ <span class="name">Gillot</span> <a href="../cite/Gillot/1421/favier"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1423</span> <span class="name">Gillet</span> <a href="../cite/Gillet/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">77</span></a>;
+ <span class="date">1438</span> <span class="name">Gilet</span> <a href="../cite/Gilet/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">203</span></a>,
+ <span class="name">Gillot</span> <a href="../cite/Gillot/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 295</span></a>,
+ <span class="name">Gilot</span> <a href="../cite/Gilot/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">521</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1212</span> <span class="name">Aegidii</span> (<span class="case">gen</span>) <a href="../cite/Aegidii/1212/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1219</span> <span class="name">Aegidii</span> (<span class="case">gen</span>) <a href="../cite/Aegidii/1219/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1223</span> <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1223/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">136</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1198</span> <span class="name">Egidii</span> (<span class="case">gen</span>) <a href="../cite/Egidii/1198/ChStBo1"><span class="bib_key">ChStBo1</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1198/ChStBo1"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Zilli</span> (<span class="case">gen</span>) <a href="../cite/Zilli/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">352</span></a>,
+ <span class="name">Zillii</span> (<span class="case">gen</span>) <a href="../cite/Zillii/1265x1339/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">415</span></a>;
+ <span class="date">1348</span> <span class="name">Egidio</span> (<span class="case">dat</span>) <a href="../cite/Egidio/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1376</span> <span class="name">Egidio</span> (<span class="case">abl</span>) <a href="../cite/Egidio/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 147</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1285</span> <span class="name">Gilioli</span> (<span class="case">gen</span>) <a href="../cite/Gilioli/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 158</span></a>,
+ <span class="name">Ziliollus</span> (<span class="case">nom</span>) <a href="../cite/Ziliollus/1285/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">p. XLIII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1254</span> <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1254/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 294</span></a>;
+ <span class="date">1288</span> <span class="name">Egidii</span> (<span class="case">gen</span>) <a href="../cite/Egidii/1288/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 296</span></a>,
+ <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1288/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 296</span></a>;
+ <span class="date">1324</span> <span class="name">Egidii</span> (<span class="case">gen</span>) <a href="../cite/Egidii/1324/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 298</span></a>,
+ <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1324/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 298</span></a>;
+ <span class="date">1361</span> <span class="name">Egidij</span> (<span class="case">gen</span>) <a href="../cite/Egidij/1361/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302</span></a>,
+ <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1361/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302</span></a>;
+ <span class="date">1387</span> <span class="name">Egidij</span> (<span class="case">gen</span>) <a href="../cite/Egidij/1387/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304</span></a>,
+ <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1387/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1560</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1560/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1561</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1561/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1562</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1562/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1563</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1563/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1564</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1564/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1565</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1565/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1566</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1566/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1567</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1567/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1568</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1568/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1577</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1577/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1579</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1579/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1580</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1580/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1581</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1581/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1582</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1582/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1585</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1585/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1586</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1586/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1587</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1587/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1589</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1589/NHG-Middelburg"><span class="bib_key">NHG-Middelburg</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1590</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1590/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1591</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1591/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1592</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1592/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1593</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1593/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1598</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1598/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1599</span> <span class="name">Gillis</span> <a href="../cite/Gillis/1599/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1209</span> <span class="name">Egidio</span> (<span class="case">dat</span>) <a href="../cite/Egidio/1209/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 10</span></a>;
+ <span class="date">1211</span> <span class="name">Gil</span> (<span class="case">nom</span>) <a href="../cite/Gil/1211/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Gylis</span> (<span class="case">gen</span>) <a href="../cite/Gylis/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1276</span> <span class="name">Egidio</span> (<span class="case">dat</span>) <a href="../cite/Egidio/1276/CDGH"><span class="bib_key">CDGH</span> <span class="bib_loc">XLVI</span></a>,
+ <span class="name">Egidius</span> (<span class="case">nom</span>) <a href="../cite/Egidius/1276/CDGH"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVI</span></a>,
+ <span class="name">egidii</span> (<span class="case">gen</span>) <a href="../cite/egidii/1276/CDGH"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVI</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1575</span> <span class="name">Gil</span> <a href="../cite/Gil/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3795</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1598</span> <span class="name">Giles</span> <a href="../cite/Giles/1598/RegLlantrithyd"><span class="bib_key">RegLlantrithyd</span> <span class="bib_loc">p. 1</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, J. Uckelman, S.L. Uckelman. "Giles". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Giles.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>ESC</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>ESC</dt>
+  <dd>Archibald C. Lawrie, editor. <em>Early Scottish Charters Prior to A.D. 1153</em>. Glasgow: James MacLehose and Sons, 1905.</dd>
+</dl>
+
+
+  <a href="../cite/Accard/1094/ESC">Accard</a>
+
+  <a href="../cite/Adam/c1120/ESC">Adam</a>
+
+  <a href="../cite/Adelualdo/c1120/ESC">Adelualdo</a>
+
+  <a href="../cite/Agulfi/1095/ESC">Agulfi</a>
+
+  <a href="../cite/Alanus/1124/ESC">Alanus</a>
+
+  <a href="../cite/Alcuinus/782x804/ESC">Alcuinus</a>
+
+  <a href="../cite/Alden/1124/ESC">Alden</a>
+
+  <a href="../cite/Aldeue/c1120/ESC">Aldeue</a>
+
+  <a href="../cite/Alexander/1118/ESC">Alexander</a>
+
+  <a href="../cite/Alexander/1093x1107/ESC">Alexander</a>
+
+  <a href="../cite/Alexander/c1120/ESC">Alexander</a>
+
+  <a href="../cite/Alexander/1123/ESC">Alexander</a>
+
+  <a href="../cite/Alexander/1124/ESC">Alexander</a>
+
+  <a href="../cite/Alexander/1115/ESC">Alexander</a>
+
+  <a href="../cite/Alexander/c1110/ESC">Alexander</a>
+
+  <a href="../cite/Alexander/1120/ESC">Alexander</a>
+
+  <a href="../cite/Alexandri/1107x1117/ESC">Alexandri</a>
+
+  <a href="../cite/Alexandri/c1120/ESC">Alexandri</a>
+
+  <a href="../cite/Alexandri/1122/ESC">Alexandri</a>
+
+  <a href="../cite/Alexandri/1095/ESC">Alexandri</a>
+
+  <a href="../cite/Alexandro/1124/ESC">Alexandro</a>
+
+  <a href="../cite/Alexandro/c1120/ESC">Alexandro</a>
+
+  <a href="../cite/Alexandro/1107/ESC">Alexandro</a>
+
+  <a href="../cite/Alexandro/1120/ESC">Alexandro</a>
+
+  <a href="../cite/Alexandro/1122/ESC">Alexandro</a>
+
+  <a href="../cite/Alexandro/1093x1097/ESC">Alexandro</a>
+
+  <a href="../cite/Alfricus/c1120/ESC">Alfricus</a>
+
+  <a href="../cite/Algaro/c1100/ESC">Algaro</a>
+
+  <a href="../cite/Algaro/c1117/ESC">Algaro</a>
+
+  <a href="../cite/Algaro/c1110/ESC">Algaro</a>
+
+  <a href="../cite/Alwyno/c1120/ESC">Alwyno</a>
+
+  <a href="../cite/Anselmus/1107/ESC">Anselmus</a>
+
+  <a href="../cite/Ansketillo/1095/ESC">Ansketillo</a>
+
+  <a href="../cite/Araldo/1070x1093/ESC">Araldo</a>
+
+  <a href="../cite/Augustini/1093x1107/ESC">Augustini</a>
+
+  <a href="../cite/Berengarius/1124/ESC">Berengarius</a>
+
+  <a href="../cite/Calixtus/1122/ESC">Calixtus</a>
+
+  <a href="../cite/Carl/c1100/ESC">Carl</a>
+
+  <a href="../cite/Cnut/c1100/ESC">Cnut</a>
+
+  <a href="../cite/Conchat/1093x1097/ESC">Conchat</a>
+
+  <a href="../cite/Constantini/1093x1107/ESC">Constantini</a>
+
+  <a href="../cite/Constantini/1095/ESC">Constantini</a>
+
+  <a href="../cite/Cormac/1093x1107/ESC">Cormac</a>
+
+  <a href="../cite/Cormaco/1124/ESC">Cormaco</a>
+
+  <a href="../cite/Cormacus/c1120/ESC">Cormacus</a>
+
+  <a href="../cite/Cospatric/1124/ESC">Cospatric</a>
+
+  <a href="../cite/Cospatrico/c1120/ESC">Cospatrico</a>
+
+  <a href="../cite/Cospatrico/c1118/ESC">Cospatrico</a>
+
+  <a href="../cite/Cospatrico/c1117/ESC">Cospatrico</a>
+
+  <a href="../cite/David/1107x1117/ESC">David</a>
+
+  <a href="../cite/David/1123/ESC">David</a>
+
+  <a href="../cite/David/1093x1097/ESC">David</a>
+
+  <a href="../cite/David/1117x1124/ESC">David</a>
+
+  <a href="../cite/David/c1118/ESC">David</a>
+
+  <a href="../cite/David/c1120/ESC">David</a>
+
+  <a href="../cite/David/c1117/ESC">David</a>
+
+  <a href="../cite/David/1124/ESC">David</a>
+
+  <a href="../cite/David/1093x1107/ESC">David</a>
+
+  <a href="../cite/David/c1110/ESC">David</a>
+
+  <a href="../cite/Doncani/1095/ESC">Doncani</a>
+
+  <a href="../cite/Douenald/1093x1097/ESC">Douenald</a>
+
+  <a href="../cite/Duncani/1095/ESC">Duncani</a>
+
+  <a href="../cite/Duncani/1040x1057/ESC">Duncani</a>
+
+  <a href="../cite/Duncano/1093x1097/ESC">Duncano</a>
+
+  <a href="../cite/Duncano/1070x1093/ESC">Duncano</a>
+
+  <a href="../cite/Dunecani/1094/ESC">Dunecani</a>
+
+  <a href="../cite/Dunecanus/1094/ESC">Dunecanus</a>
+
+  <a href="../cite/Eadgari/1094/ESC">Eadgari</a>
+
+  <a href="../cite/Eadgari/c1118/ESC">Eadgari</a>
+
+  <a href="../cite/Eadgari/1118/ESC">Eadgari</a>
+
+  <a href="../cite/Eadgari/c1110/ESC">Eadgari</a>
+
+  <a href="../cite/Eadgarus/c1117/ESC">Eadgarus</a>
+
+  <a href="../cite/Eadgarus/1107x1117/ESC">Eadgarus</a>
+
+  <a href="../cite/Eadgarus/1095x1100/ESC">Eadgarus</a>
+
+  <a href="../cite/Eadgarus/1118/ESC">Eadgarus</a>
+
+  <a href="../cite/Eadgarus/c1100/ESC">Eadgarus</a>
+
+  <a href="../cite/Eadiue/1124/ESC">Eadiue</a>
+
+  <a href="../cite/Eadmero/1120/ESC">Eadmero</a>
+
+  <a href="../cite/Eadmerum/1120/ESC">Eadmerum</a>
+
+  <a href="../cite/Eadmerus/1122/ESC">Eadmerus</a>
+
+  <a href="../cite/Earnulf/1094/ESC">Earnulf</a>
+
+  <a href="../cite/Edelradus/1093x1107/ESC">Edelradus</a>
+
+  <a href="../cite/Edgari/1095/ESC">Edgari</a>
+
+  <a href="../cite/Edgaro/1093x1097/ESC">Edgaro</a>
+
+  <a href="../cite/Edgarus/1095/ESC">Edgarus</a>
+
+  <a href="../cite/Edgarus/c1100/ESC">Edgarus</a>
+
+  <a href="../cite/Edgarus/c1098/ESC">Edgarus</a>
+
+  <a href="../cite/Edgarus/1097x1107/ESC">Edgarus</a>
+
+  <a href="../cite/Eduardo/1124/ESC">Eduardo</a>
+
+  <a href="../cite/Edwardi/1095/ESC">Edwardi</a>
+
+  <a href="../cite/Edwardus/c1120/ESC">Edwardus</a>
+
+  <a href="../cite/Egari/1095/ESC">Egari</a>
+
+  <a href="../cite/Galfrido/1095/ESC">Galfrido</a>
+
+  <a href="../cite/Galterio/c1120/ESC">Galterio</a>
+
+  <a href="../cite/Gervasius/1124/ESC">Gervasius</a>
+
+  <a href="../cite/Gilberto/1095/ESC">Gilberto</a>
+
+  <a href="../cite/Gillemichel/c1120/ESC">Gillemichel</a>
+
+  <a href="../cite/Goldewinum/1070x1089/ESC">Goldewinum</a>
+
+  <a href="../cite/Gospatricio/1124/ESC">Gospatricio</a>
+
+  <a href="../cite/Gospatricius/c1120/ESC">Gospatricius</a>
+
+  <a href="../cite/Gregorio/1124/ESC">Gregorio</a>
+
+  <a href="../cite/Gregorius/c1120/ESC">Gregorius</a>
+
+  <a href="../cite/Gualterio/c1120/ESC">Gualterio</a>
+
+  <a href="../cite/Guido/1124/ESC">Guido</a>
+
+  <a href="../cite/Haimonis/1095x1100/ESC">Haimonis</a>
+
+  <a href="../cite/Hedelradi/1093x1107/ESC">Hedelradi</a>
+
+  <a href="../cite/Henrici/1124/ESC">Henrici</a>
+
+  <a href="../cite/Henrici/c1120/ESC">Henrici</a>
+
+  <a href="../cite/Henrico/c1120/ESC">Henrico</a>
+
+  <a href="../cite/Herberto/c1120/ESC">Herberto</a>
+
+  <a href="../cite/Herberto/1124/ESC">Herberto</a>
+
+  <a href="../cite/Herberto/1123/ESC">Herberto</a>
+
+  <a href="../cite/Hugo/1124/ESC">Hugo</a>
+
+  <a href="../cite/Hugone/c1120/ESC">Hugone</a>
+
+  <a href="../cite/Hugonis/1123/ESC">Hugonis</a>
+
+  <a href="../cite/Hugonis/c1118/ESC">Hugonis</a>
+
+  <a href="../cite/Ilgero/1095/ESC">Ilgero</a>
+
+  <a href="../cite/Ivo/1070x1093/ESC">Ivo</a>
+
+  <a href="../cite/Johanne/1095/ESC">Johanne</a>
+
+  <a href="../cite/Johanne/c1120/ESC">Johanne</a>
+
+  <a href="../cite/Johannem/1124/ESC">Johannem</a>
+
+  <a href="../cite/Johanni/1117x1124/ESC">Johanni</a>
+
+  <a href="../cite/Johanni/c1117/ESC">Johanni</a>
+
+  <a href="../cite/Johanni/c1118/ESC">Johanni</a>
+
+  <a href="../cite/Johanni/1122/ESC">Johanni</a>
+
+  <a href="../cite/Johannis/c1117/ESC">Johannis</a>
+
+  <a href="../cite/Lanfrancus/1115/ESC">Lanfrancus</a>
+
+  <a href="../cite/Lanfrancus/1070x1089/ESC">Lanfrancus</a>
+
+  <a href="../cite/Macbeath/1093x1107/ESC">Macbeath</a>
+
+  <a href="../cite/Machbet/1040x1057/ESC">Machbet</a>
+
+  <a href="../cite/Mackduffe/1070x1093/ESC">Mackduffe</a>
+
+  <a href="../cite/Magdufe/1095/ESC">Magdufe</a>
+
+  <a href="../cite/Makbeth/1040x1057/ESC">Makbeth</a>
+
+  <a href="../cite/Malcolmi/1097x1107/ESC">Malcolmi</a>
+
+  <a href="../cite/Malcolmi/1095x1100/ESC">Malcolmi</a>
+
+  <a href="../cite/Malcolmi/1093x1107/ESC">Malcolmi</a>
+
+  <a href="../cite/Malcolmi/1095/ESC">Malcolmi</a>
+
+  <a href="../cite/Malcolmi/c1120/ESC">Malcolmi</a>
+
+  <a href="../cite/Malcolmus/1095x1100/ESC">Malcolmus</a>
+
+  <a href="../cite/Malcolmus/1011/ESC">Malcolmus</a>
+
+  <a href="../cite/Malcolmus/1070x1093/ESC">Malcolmus</a>
+
+  <a href="../cite/Malcolumb/1094/ESC">Malcolumb</a>
+
+  <a href="../cite/Maldunus/1055/ESC">Maldunus</a>
+
+  <a href="../cite/Malmykel/1093/ESC">Malmykel</a>
+
+  <a href="../cite/Margareta/1070x1093/ESC">Margareta</a>
+
+  <a href="../cite/Margaretae/1070x1093/ESC">Margaretae</a>
+
+  <a href="../cite/Margaretae/1095/ESC">Margaretae</a>
+
+  <a href="../cite/Margaretae/c1120/ESC">Margaretae</a>
+
+  <a href="../cite/Mathildis/c1117/ESC">Mathildis</a>
+
+  <a href="../cite/Mathildis/1107x1117/ESC">Mathildis</a>
+
+  <a href="../cite/Matilde/c1120/ESC">Matilde</a>
+
+  <a href="../cite/Matildis/1123/ESC">Matildis</a>
+
+  <a href="../cite/Matildis/1124/ESC">Matildis</a>
+
+  <a href="../cite/Odardo/c1120/ESC">Odardo</a>
+
+  <a href="../cite/Osberni/c1118/ESC">Osberni</a>
+
+  <a href="../cite/Osberno/c1100/ESC">Osberno</a>
+
+  <a href="../cite/Osbert/1124/ESC">Osbert</a>
+
+  <a href="../cite/Osberto/c1120/ESC">Osberto</a>
+
+  <a href="../cite/Pagano/c1120/ESC">Pagano</a>
+
+  <a href="../cite/Paganus/1124/ESC">Paganus</a>
+
+  <a href="../cite/Radulfo/1120/ESC">Radulfo</a>
+
+  <a href="../cite/Radulfo/1115/ESC">Radulfo</a>
+
+  <a href="../cite/Radulfo/c1120/ESC">Radulfo</a>
+
+  <a href="../cite/Radulfus/1122/ESC">Radulfus</a>
+
+  <a href="../cite/Radulfus/1120/ESC">Radulfus</a>
+
+  <a href="../cite/Reginaldo/c1120/ESC">Reginaldo</a>
+
+  <a href="../cite/Reinaldus/1124/ESC">Reinaldus</a>
+
+  <a href="../cite/Roberti/1095/ESC">Roberti</a>
+
+  <a href="../cite/Roberti/1123/ESC">Roberti</a>
+
+  <a href="../cite/Roberto/1124/ESC">Roberto</a>
+
+  <a href="../cite/Roberto/1095x1100/ESC">Roberto</a>
+
+  <a href="../cite/Roberto/c1120/ESC">Roberto</a>
+
+  <a href="../cite/Robertum/1095/ESC">Robertum</a>
+
+  <a href="../cite/Robertus/1124/ESC">Robertus</a>
+
+  <a href="../cite/Rodberti/1095/ESC">Rodberti</a>
+
+  <a href="../cite/Rodberto/c1117/ESC">Rodberto</a>
+
+  <a href="../cite/Rogerio/c1120/ESC">Rogerio</a>
+
+  <a href="../cite/Rothri/c1120/ESC">Rothri</a>
+
+  <a href="../cite/Scot/1124/ESC">Scot</a>
+
+  <a href="../cite/Scot/c1120/ESC">Scot</a>
+
+  <a href="../cite/Sibilla/c1120/ESC">Sibilla</a>
+
+  <a href="../cite/Swein/c1100/ESC">Swein</a>
+
+  <a href="../cite/Teodbold/1094/ESC">Teodbold</a>
+
+  <a href="../cite/Thomae/1095x1100/ESC">Thomae</a>
+
+  <a href="../cite/Thomae/1115/ESC">Thomae</a>
+
+  <a href="../cite/Thor/1117x1124/ESC">Thor</a>
+
+  <a href="../cite/Thor/1107x1117/ESC">Thor</a>
+
+  <a href="../cite/Thor/c1105/ESC">Thor</a>
+
+  <a href="../cite/Thor/c1100/ESC">Thor</a>
+
+  <a href="../cite/Thuadhel/1093x1107/ESC">Thuadhel</a>
+
+  <a href="../cite/Thurstini/1122/ESC">Thurstini</a>
+
+  <a href="../cite/Thurstino/1122/ESC">Thurstino</a>
+
+  <a href="../cite/Torfyny/1040x1057/ESC">Torfyny</a>
+
+  <a href="../cite/Tuadal/1055x1059/ESC">Tuadal</a>
+
+  <a href="../cite/Turstini/1122/ESC">Turstini</a>
+
+  <a href="../cite/Ulchel/1124/ESC">Ulchel</a>
+
+  <a href="../cite/Ulf/1094/ESC">Ulf</a>
+
+  <a href="../cite/Ulfkill/c1100/ESC">Ulfkill</a>
+
+  <a href="../cite/Walteri/1095/ESC">Walteri</a>
+
+  <a href="../cite/Walteri/1123/ESC">Walteri</a>
+
+  <a href="../cite/Waltero/1095/ESC">Waltero</a>
+
+  <a href="../cite/Walterus/1124/ESC">Walterus</a>
+
+  <a href="../cite/Wilfrido/1095/ESC">Wilfrido</a>
+
+  <a href="../cite/Willelmi/1095/ESC">Willelmi</a>
+
+  <a href="../cite/Willelmi/c1117/ESC">Willelmi</a>
+
+  <a href="../cite/Willelmi/1070x1093/ESC">Willelmi</a>
+
+  <a href="../cite/Willelmi/c1118/ESC">Willelmi</a>
+
+  <a href="../cite/Willelmo/1124/ESC">Willelmo</a>
+
+  <a href="../cite/Willelmo/1095/ESC">Willelmo</a>
+
+  <a href="../cite/Willelmo/1095x1100/ESC">Willelmo</a>
+
+  <a href="../cite/Willelmo/c1120/ESC">Willelmo</a>
+
+  <a href="../cite/Willelmus/1124/ESC">Willelmus</a>
+
+  <a href="../cite/Willelmus/1095/ESC">Willelmus</a>
+
+  <a href="../cite/Willelmus/1095x1100/ESC">Willelmus</a>
+
+  <a href="../cite/Willemus/c1120/ESC">Willemus</a>
+
+  <a href="../cite/Winemari/1124/ESC">Winemari</a>
+
+  <a href="../cite/Winemerj/1123/ESC">Winemerj</a>
+
+  <a href="../cite/Ædgari/c1105/ESC">Ædgari</a>
+
+  <a href="../cite/Ædgarus/c1105/ESC">Ædgarus</a>
+
+  <a href="../cite/Ælfrico/c1100/ESC">Ælfrico</a>
+
+  <a href="../cite/Ælfwino/c1100/ESC">Ælfwino</a>
+
+  <a href="../cite/Ætele/1095/ESC">Ætele</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Ava</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Ava</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Germanic</span> <i>avi</i>, of uncertain meaning.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 9th C Frankish saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1050</span> <span class="name">Ava</span> (<span class="case">nom</span>) <a href="../cite/Ava/1050/CRS-2-5"><span class="bib_key">CRS-2-5</span> <span class="bib_loc">p. 232</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1381</span> <span class="name">Avelina</span> (<span class="case">nom</span>) <a href="../cite/Avelina/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Avelina/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 119</span></a>;
+ <span class="date">1555</span> <span class="name">Avelen</span> (<span class="case">nom</span>) <a href="../cite/Avelen/1555/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 58</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1584</span> <span class="name">Avelin</span> <a href="../cite/Avelin/1584/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 117</span></a>;
+ <span class="date">1599</span> <span class="name">Avelin</span> <a href="../cite/Avelin/1599/BUmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 118</span></a>,
+ <span class="name">Avelyn</span> <a href="../cite/Avelyn/1599/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1138x1162</span> <span class="name">Avelina</span> (<span class="case">abl</span>) <a href="../cite/Avelina/1138x1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">63</span></a>;
+ <span class="date">1147</span> <span class="name">Avelina</span> (<span class="case">nom</span>) <a href="../cite/Avelina/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1179</span> <span class="name">Avelina</span> (<span class="case">nom</span>) <a href="../cite/Avelina/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1236</span> <span class="name">Avelina</span> (<span class="case">nom</span>) <a href="../cite/Avelina/1236/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">L</span></a>,
+ <span class="name">Avelinam</span> (<span class="case">acc</span>) <a href="../cite/Avelinam/1236/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">L</span></a>;
+ <span class="date">1258</span> <span class="name">Avelina</span> (<span class="case">nom</span>) <a href="../cite/Avelina/1258/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XIX, BMV</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Aveline</span> <a href="../cite/Aveline/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1313</span> <span class="name">Aveline</span> <a href="../cite/Aveline/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 64</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Ava". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Ava.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

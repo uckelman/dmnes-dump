@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>MDE</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>MDE</dt>
+  <dd>George Oliver, editor. <em>Monasticon Dioecesis Exoniensis, Being a Collection of Records and Instruments Illustrating the Ancient Conventual, Collegiate, and Eleemosynary Foundations, in the Counties of Cornwall and Devon, With Historical Notices, and a Supplement.</em> Exeter: P. A. Hannaford; London: Longman, Brown, Green, and Longmans, 1846.</dd>
+</dl>
+
+
+  <a href="../cite/Adeliza/1161x1184/MDE">Adeliza</a>
+
+  <a href="../cite/Agnes/1161x1184/MDE">Agnes</a>
+
+  <a href="../cite/Alexander/1161x1184/MDE">Alexander</a>
+
+  <a href="../cite/Arnaldus/1161x1184/MDE">Arnaldus</a>
+
+  <a href="../cite/Baldewinus/1161x1184/MDE">Baldewinus</a>
+
+  <a href="../cite/Bartholomeo/1161x1184/MDE">Bartholomeo</a>
+
+  <a href="../cite/Gilbertus/1161x1184/MDE">Gilbertus</a>
+
+  <a href="../cite/Hector/1161x1184/MDE">Hector</a>
+
+  <a href="../cite/Hugo/1161x1184/MDE">Hugo</a>
+
+  <a href="../cite/Johannes/1161x1184/MDE">Johannes</a>
+
+  <a href="../cite/Mabilia/1161x1184/MDE">Mabilia</a>
+
+  <a href="../cite/Michael/1161x1184/MDE">Michael</a>
+
+  <a href="../cite/Nicholaus/1161x1184/MDE">Nicholaus</a>
+
+  <a href="../cite/Radulphus/1161x1184/MDE">Radulphus</a>
+
+  <a href="../cite/Ricardus/1161x1184/MDE">Ricardus</a>
+
+  <a href="../cite/Roberti/1161x1184/MDE">Roberti</a>
+
+  <a href="../cite/Robertus/1161x1184/MDE">Robertus</a>
+
+  <a href="../cite/Rogeri/1161x1184/MDE">Rogeri</a>
+
+  <a href="../cite/Rogerus/1161x1184/MDE">Rogerus</a>
+
+  <a href="../cite/Simon/1161x1184/MDE">Simon</a>
+
+  <a href="../cite/Stephani/1161x1184/MDE">Stephani</a>
+
+  <a href="../cite/Stephanus/1161x1184/MDE">Stephanus</a>
+
+  <a href="../cite/Walterus/1161x1184/MDE">Walterus</a>
+
+  <a href="../cite/Willielmi/1161x1184/MDE">Willielmi</a>
+
+  <a href="../cite/Willielmus/1161x1184/MDE">Willielmus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

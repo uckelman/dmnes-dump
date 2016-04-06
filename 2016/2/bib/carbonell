@@ -1,0 +1,976 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>carbonell</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>carbonell</dt>
+  <dd>D. Manuel de Bofarull y de Sartorio, editor. <em>Opúsculos Inéditos del Cronista Catalan Pedro Miguel Carbonell</em>, volume II. Barcelona: en la Imprenta del Arguivo, 1865.</dd>
+</dl>
+
+
+  <a href="../cite/Agnes/1490/carbonell">Agnes</a>
+
+  <a href="../cite/Agnes/1491/carbonell">Agnes</a>
+
+  <a href="../cite/Agnes/1489/carbonell">Agnes</a>
+
+  <a href="../cite/Agnes/1488/carbonell">Agnes</a>
+
+  <a href="../cite/Alfonsi/1489/carbonell">Alfonsi</a>
+
+  <a href="../cite/Alfonsi/1491/carbonell">Alfonsi</a>
+
+  <a href="../cite/Alfonsi/1487/carbonell">Alfonsi</a>
+
+  <a href="../cite/Alfonsi/1488/carbonell">Alfonsi</a>
+
+  <a href="../cite/Alfonso/1491/carbonell">Alfonso</a>
+
+  <a href="../cite/Alfonso/1488/carbonell">Alfonso</a>
+
+  <a href="../cite/Alfonsum/1489/carbonell">Alfonsum</a>
+
+  <a href="../cite/Alfonsus/1487/carbonell">Alfonsus</a>
+
+  <a href="../cite/Alfonsus/1491/carbonell">Alfonsus</a>
+
+  <a href="../cite/Alfonsus/1490/carbonell">Alfonsus</a>
+
+  <a href="../cite/Alfonsus/1488/carbonell">Alfonsus</a>
+
+  <a href="../cite/Alfonsus/1489/carbonell">Alfonsus</a>
+
+  <a href="../cite/Amata/1488/carbonell">Amata</a>
+
+  <a href="../cite/Andreae/1488/carbonell">Andreae</a>
+
+  <a href="../cite/Andreae/1489/carbonell">Andreae</a>
+
+  <a href="../cite/Andreas/1491/carbonell">Andreas</a>
+
+  <a href="../cite/Andreas/1489/carbonell">Andreas</a>
+
+  <a href="../cite/Andreas/1487/carbonell">Andreas</a>
+
+  <a href="../cite/Andree/1491/carbonell">Andree</a>
+
+  <a href="../cite/Andreu/1491/carbonell">Andreu</a>
+
+  <a href="../cite/Andreu/1489/carbonell">Andreu</a>
+
+  <a href="../cite/Angel/1491/carbonell">Angel</a>
+
+  <a href="../cite/Angelina/1491/carbonell">Angelina</a>
+
+  <a href="../cite/Angelina/1489/carbonell">Angelina</a>
+
+  <a href="../cite/Angelina/1488/carbonell">Angelina</a>
+
+  <a href="../cite/Angelina/1490/carbonell">Angelina</a>
+
+  <a href="../cite/Angelina/1492/carbonell">Angelina</a>
+
+  <a href="../cite/Angelina/1487/carbonell">Angelina</a>
+
+  <a href="../cite/Angelinae/1490/carbonell">Angelinae</a>
+
+  <a href="../cite/Angelinæ/1491/carbonell">Angelinæ</a>
+
+  <a href="../cite/Angelus/1490/carbonell">Angelus</a>
+
+  <a href="../cite/Antonia/1490/carbonell">Antonia</a>
+
+  <a href="../cite/Antonii/1488/carbonell">Antonii</a>
+
+  <a href="../cite/Antonii/1489/carbonell">Antonii</a>
+
+  <a href="../cite/Antonii/1492/carbonell">Antonii</a>
+
+  <a href="../cite/Antonii/1491/carbonell">Antonii</a>
+
+  <a href="../cite/Antonii/1490/carbonell">Antonii</a>
+
+  <a href="../cite/Antonium/1489/carbonell">Antonium</a>
+
+  <a href="../cite/Antonius/1487/carbonell">Antonius</a>
+
+  <a href="../cite/Antonius/1488/carbonell">Antonius</a>
+
+  <a href="../cite/Antonius/1490/carbonell">Antonius</a>
+
+  <a href="../cite/Arnaldi/1487/carbonell">Arnaldi</a>
+
+  <a href="../cite/Arnaldus/1487/carbonell">Arnaldus</a>
+
+  <a href="../cite/Augustinus/1488/carbonell">Augustinus</a>
+
+  <a href="../cite/Aymerich/1491/carbonell">Aymerich</a>
+
+  <a href="../cite/Aymericus/1487/carbonell">Aymericus</a>
+
+  <a href="../cite/Baltasar/1491/carbonell">Baltasar</a>
+
+  <a href="../cite/Baltasar/1488/carbonell">Baltasar</a>
+
+  <a href="../cite/Baltasaris/1490/carbonell">Baltasaris</a>
+
+  <a href="../cite/Baltasaris/1488/carbonell">Baltasaris</a>
+
+  <a href="../cite/Baltasaris/1491/carbonell">Baltasaris</a>
+
+  <a href="../cite/Baltasaris/1492/carbonell">Baltasaris</a>
+
+  <a href="../cite/Balthasar/1487/carbonell">Balthasar</a>
+
+  <a href="../cite/Bartholomei/1488/carbonell">Bartholomei</a>
+
+  <a href="../cite/Bartholomei/1491/carbonell">Bartholomei</a>
+
+  <a href="../cite/Bartholomei/1489/carbonell">Bartholomei</a>
+
+  <a href="../cite/Bartholomei/1490/carbonell">Bartholomei</a>
+
+  <a href="../cite/Bartholomei/1487/carbonell">Bartholomei</a>
+
+  <a href="../cite/Bartholomeus/1487/carbonell">Bartholomeus</a>
+
+  <a href="../cite/Bartholomeva/1488/carbonell">Bartholomeva</a>
+
+  <a href="../cite/Beatrix/1488/carbonell">Beatrix</a>
+
+  <a href="../cite/Beatrix/1489/carbonell">Beatrix</a>
+
+  <a href="../cite/Beatrix/1491/carbonell">Beatrix</a>
+
+  <a href="../cite/Beatrix/1490/carbonell">Beatrix</a>
+
+  <a href="../cite/Beatrix/1492/carbonell">Beatrix</a>
+
+  <a href="../cite/Benedicta/1488/carbonell">Benedicta</a>
+
+  <a href="../cite/Benedicti/1491/carbonell">Benedicti</a>
+
+  <a href="../cite/Benedicti/1490/carbonell">Benedicti</a>
+
+  <a href="../cite/Benedicti/1488/carbonell">Benedicti</a>
+
+  <a href="../cite/Benedicti/1492/carbonell">Benedicti</a>
+
+  <a href="../cite/Benedictus/1491/carbonell">Benedictus</a>
+
+  <a href="../cite/Benedictus/1492/carbonell">Benedictus</a>
+
+  <a href="../cite/Benet/1491/carbonell">Benet</a>
+
+  <a href="../cite/Beneta/1490/carbonell">Beneta</a>
+
+  <a href="../cite/Beneta/1489/carbonell">Beneta</a>
+
+  <a href="../cite/Berengarii/1491/carbonell">Berengarii</a>
+
+  <a href="../cite/Berengarius/1490/carbonell">Berengarius</a>
+
+  <a href="../cite/Berengarius/1489/carbonell">Berengarius</a>
+
+  <a href="../cite/Bernardi/1490/carbonell">Bernardi</a>
+
+  <a href="../cite/Bernardi/1489/carbonell">Bernardi</a>
+
+  <a href="../cite/Bernardi/1488/carbonell">Bernardi</a>
+
+  <a href="../cite/Bernardi/1492/carbonell">Bernardi</a>
+
+  <a href="../cite/Bernardi/1491/carbonell">Bernardi</a>
+
+  <a href="../cite/Bernardi/1487/carbonell">Bernardi</a>
+
+  <a href="../cite/Bernardus/1490/carbonell">Bernardus</a>
+
+  <a href="../cite/Bernardus/1492/carbonell">Bernardus</a>
+
+  <a href="../cite/Bernardus/1491/carbonell">Bernardus</a>
+
+  <a href="../cite/Bernardus/1487/carbonell">Bernardus</a>
+
+  <a href="../cite/Bernardus/1491/carbonell">Bernardus</a>
+
+  <a href="../cite/Bertran/1490/carbonell">Bertran</a>
+
+  <a href="../cite/Bertran/1491/carbonell">Bertran</a>
+
+  <a href="../cite/Bertrandus/1491/carbonell">Bertrandus</a>
+
+  <a href="../cite/Blancha/1489/carbonell">Blancha</a>
+
+  <a href="../cite/Blanquina/1488/carbonell">Blanquina</a>
+
+  <a href="../cite/Blanquina/1491/carbonell">Blanquina</a>
+
+  <a href="../cite/Blanquina/1487/carbonell">Blanquina</a>
+
+  <a href="../cite/Blanquina/1489/carbonell">Blanquina</a>
+
+  <a href="../cite/Blanquina/1490/carbonell">Blanquina</a>
+
+  <a href="../cite/Blanquina/1492/carbonell">Blanquina</a>
+
+  <a href="../cite/Bonanata/1491/carbonell">Bonanata</a>
+
+  <a href="../cite/Brigida/1487/carbonell">Brigida</a>
+
+  <a href="../cite/Brigida/1488/carbonell">Brigida</a>
+
+  <a href="../cite/Catherina/1491/carbonell">Catherina</a>
+
+  <a href="../cite/Cattherina/1488/carbonell">Cattherina</a>
+
+  <a href="../cite/Chatherina/1487/carbonell">Chatherina</a>
+
+  <a href="../cite/Chatherina/1491/carbonell">Chatherina</a>
+
+  <a href="../cite/Chattherina/1488/carbonell">Chattherina</a>
+
+  <a href="../cite/Christofori/1490/carbonell">Christofori</a>
+
+  <a href="../cite/Christofori/1489/carbonell">Christofori</a>
+
+  <a href="../cite/Clara/1490/carbonell">Clara</a>
+
+  <a href="../cite/Clara/1487/carbonell">Clara</a>
+
+  <a href="../cite/Clara/1488/carbonell">Clara</a>
+
+  <a href="../cite/Clara/1492/carbonell">Clara</a>
+
+  <a href="../cite/Clara/1491/carbonell">Clara</a>
+
+  <a href="../cite/Clara/1489/carbonell">Clara</a>
+
+  <a href="../cite/Clarae/1489/carbonell">Clarae</a>
+
+  <a href="../cite/Clemens/1488/carbonell">Clemens</a>
+
+  <a href="../cite/Clementis/1489/carbonell">Clementis</a>
+
+  <a href="../cite/Coloma/1488/carbonell">Coloma</a>
+
+  <a href="../cite/Columba/1488/carbonell">Columba</a>
+
+  <a href="../cite/Columba/1490/carbonell">Columba</a>
+
+  <a href="../cite/Columba/1491/carbonell">Columba</a>
+
+  <a href="../cite/Constancia/1491/carbonell">Constancia</a>
+
+  <a href="../cite/Constancia/1490/carbonell">Constancia</a>
+
+  <a href="../cite/Constancia/1488/carbonell">Constancia</a>
+
+  <a href="../cite/Constancia/1489/carbonell">Constancia</a>
+
+  <a href="../cite/Constanciae/1490/carbonell">Constanciae</a>
+
+  <a href="../cite/Constantia/1488/carbonell">Constantia</a>
+
+  <a href="../cite/Dalmatii/1491/carbonell">Dalmatii</a>
+
+  <a href="../cite/Dalmatii/1488/carbonell">Dalmatii</a>
+
+  <a href="../cite/Dalmatii/1489/carbonell">Dalmatii</a>
+
+  <a href="../cite/Dalmatii/1490/carbonell">Dalmatii</a>
+
+  <a href="../cite/Dalmatius/1489/carbonell">Dalmatius</a>
+
+  <a href="../cite/Dalmatius/1491/carbonell">Dalmatius</a>
+
+  <a href="../cite/Dalmatius/1488/carbonell">Dalmatius</a>
+
+  <a href="../cite/Daniel/1491/carbonell">Daniel</a>
+
+  <a href="../cite/Daniel/1490/carbonell">Daniel</a>
+
+  <a href="../cite/Danieli/1491/carbonell">Danieli</a>
+
+  <a href="../cite/Danielis/1490/carbonell">Danielis</a>
+
+  <a href="../cite/Danielis/1491/carbonell">Danielis</a>
+
+  <a href="../cite/Danielis/1488/carbonell">Danielis</a>
+
+  <a href="../cite/Domenech/1488/carbonell">Domenech</a>
+
+  <a href="../cite/Domenech/1490/carbonell">Domenech</a>
+
+  <a href="../cite/Domenega/1491/carbonell">Domenega</a>
+
+  <a href="../cite/Dominici/1489/carbonell">Dominici</a>
+
+  <a href="../cite/Dominicus/1488/carbonell">Dominicus</a>
+
+  <a href="../cite/Elionor/1490/carbonell">Elionor</a>
+
+  <a href="../cite/Elionor/1487/carbonell">Elionor</a>
+
+  <a href="../cite/Elionor/1488/carbonell">Elionor</a>
+
+  <a href="../cite/Elionor/1492/carbonell">Elionor</a>
+
+  <a href="../cite/Elionor/1489/carbonell">Elionor</a>
+
+  <a href="../cite/Elionor/1491/carbonell">Elionor</a>
+
+  <a href="../cite/Elionoris/1489/carbonell">Elionoris</a>
+
+  <a href="../cite/Eulalia/1487/carbonell">Eulalia</a>
+
+  <a href="../cite/Eulalia/1488/carbonell">Eulalia</a>
+
+  <a href="../cite/Eulalia/1491/carbonell">Eulalia</a>
+
+  <a href="../cite/Eulalia/1490/carbonell">Eulalia</a>
+
+  <a href="../cite/Eulalia/1489/carbonell">Eulalia</a>
+
+  <a href="../cite/Eulaliæ/1491/carbonell">Eulaliæ</a>
+
+  <a href="../cite/Euphrosina/1488/carbonell">Euphrosina</a>
+
+  <a href="../cite/Euphrosina/1490/carbonell">Euphrosina</a>
+
+  <a href="../cite/Euphrosina/1491/carbonell">Euphrosina</a>
+
+  <a href="../cite/Euphrosyna/1488/carbonell">Euphrosyna</a>
+
+  <a href="../cite/Euphrosyna/1492/carbonell">Euphrosyna</a>
+
+  <a href="../cite/Euphrosyna/1487/carbonell">Euphrosyna</a>
+
+  <a href="../cite/Euphrosyna/1490/carbonell">Euphrosyna</a>
+
+  <a href="../cite/Euphrosyna/1491/carbonell">Euphrosyna</a>
+
+  <a href="../cite/Falcona/1491/carbonell">Falcona</a>
+
+  <a href="../cite/Ferrandi/1490/carbonell">Ferrandi</a>
+
+  <a href="../cite/Ferrandi/1492/carbonell">Ferrandi</a>
+
+  <a href="../cite/Ferrando/1488/carbonell">Ferrando</a>
+
+  <a href="../cite/Florentina/1490/carbonell">Florentina</a>
+
+  <a href="../cite/Florentina/1491/carbonell">Florentina</a>
+
+  <a href="../cite/Florentina/1488/carbonell">Florentina</a>
+
+  <a href="../cite/Florintinae/1490/carbonell">Florintinae</a>
+
+  <a href="../cite/Franci/1488/carbonell">Franci</a>
+
+  <a href="../cite/Francina/1491/carbonell">Francina</a>
+
+  <a href="../cite/Francina/1489/carbonell">Francina</a>
+
+  <a href="../cite/Francina/1488/carbonell">Francina</a>
+
+  <a href="../cite/Francina/1490/carbonell">Francina</a>
+
+  <a href="../cite/Francina/1492/carbonell">Francina</a>
+
+  <a href="../cite/Francina/1487/carbonell">Francina</a>
+
+  <a href="../cite/Francinae/1488/carbonell">Francinae</a>
+
+  <a href="../cite/Francinæ/1491/carbonell">Francinæ</a>
+
+  <a href="../cite/Franciscam/1487/carbonell">Franciscam</a>
+
+  <a href="../cite/Francisci/1492/carbonell">Francisci</a>
+
+  <a href="../cite/Francisci/1489/carbonell">Francisci</a>
+
+  <a href="../cite/Francisci/1490/carbonell">Francisci</a>
+
+  <a href="../cite/Francisci/1487/carbonell">Francisci</a>
+
+  <a href="../cite/Francisci/1491/carbonell">Francisci</a>
+
+  <a href="../cite/Francisci/1488/carbonell">Francisci</a>
+
+  <a href="../cite/Franciscum/1488/carbonell">Franciscum</a>
+
+  <a href="../cite/Franciscus/1488/carbonell">Franciscus</a>
+
+  <a href="../cite/Franciscus/1492/carbonell">Franciscus</a>
+
+  <a href="../cite/Franciscus/1490/carbonell">Franciscus</a>
+
+  <a href="../cite/Franciscus/1489/carbonell">Franciscus</a>
+
+  <a href="../cite/Franciscus/1491/carbonell">Franciscus</a>
+
+  <a href="../cite/Franciscus/1487/carbonell">Franciscus</a>
+
+  <a href="../cite/Francoya/1487/carbonell">Francoya</a>
+
+  <a href="../cite/Francoya/1491/carbonell">Francoya</a>
+
+  <a href="../cite/Gabriel/1492/carbonell">Gabriel</a>
+
+  <a href="../cite/Gabriel/1491/carbonell">Gabriel</a>
+
+  <a href="../cite/Gabriel/1487/carbonell">Gabriel</a>
+
+  <a href="../cite/Gabriel/1490/carbonell">Gabriel</a>
+
+  <a href="../cite/Gabriel/1489/carbonell">Gabriel</a>
+
+  <a href="../cite/Gabriel/1488/carbonell">Gabriel</a>
+
+  <a href="../cite/Gabriela/1492/carbonell">Gabriela</a>
+
+  <a href="../cite/Gabrielam/1487/carbonell">Gabrielam</a>
+
+  <a href="../cite/Gabrielis/1488/carbonell">Gabrielis</a>
+
+  <a href="../cite/Gabrielis/1492/carbonell">Gabrielis</a>
+
+  <a href="../cite/Gabrielis/1490/carbonell">Gabrielis</a>
+
+  <a href="../cite/Gabrielis/1489/carbonell">Gabrielis</a>
+
+  <a href="../cite/Gabrielis/1487/carbonell">Gabrielis</a>
+
+  <a href="../cite/Gabrielis/1491/carbonell">Gabrielis</a>
+
+  <a href="../cite/Gabrielæ/1491/carbonell">Gabrielæ</a>
+
+  <a href="../cite/Gabriol/1487/carbonell">Gabriol</a>
+
+  <a href="../cite/Gaillelmus/1488/carbonell">Gaillelmus</a>
+
+  <a href="../cite/Garret/1490/carbonell">Garret</a>
+
+  <a href="../cite/Gaspar/1488/carbonell">Gaspar</a>
+
+  <a href="../cite/Gaspar/1487/carbonell">Gaspar</a>
+
+  <a href="../cite/Gaspar/1491/carbonell">Gaspar</a>
+
+  <a href="../cite/Gaspar/1490/carbonell">Gaspar</a>
+
+  <a href="../cite/Gasparis/1489/carbonell">Gasparis</a>
+
+  <a href="../cite/Gasparis/1490/carbonell">Gasparis</a>
+
+  <a href="../cite/Gasparis/1488/carbonell">Gasparis</a>
+
+  <a href="../cite/Gasparis/1491/carbonell">Gasparis</a>
+
+  <a href="../cite/Gispertus/1490/carbonell">Gispertus</a>
+
+  <a href="../cite/Gonçalbo/1490/carbonell">Gonçalbo</a>
+
+  <a href="../cite/Gonçalvi/1491/carbonell">Gonçalvi</a>
+
+  <a href="../cite/Gondisalvi/1489/carbonell">Gondisalvi</a>
+
+  <a href="../cite/Gratia/1492/carbonell">Gratia</a>
+
+  <a href="../cite/Gratiosa/1490/carbonell">Gratiosa</a>
+
+  <a href="../cite/Gratiosa/1491/carbonell">Gratiosa</a>
+
+  <a href="../cite/Griselda/1488/carbonell">Griselda</a>
+
+  <a href="../cite/Guerret/1488/carbonell">Guerret</a>
+
+  <a href="../cite/Guillelmi/1490/carbonell">Guillelmi</a>
+
+  <a href="../cite/Guillelmi/1488/carbonell">Guillelmi</a>
+
+  <a href="../cite/Guillelmi/1491/carbonell">Guillelmi</a>
+
+  <a href="../cite/Guillelmi/1489/carbonell">Guillelmi</a>
+
+  <a href="../cite/Guillelmus/1491/carbonell">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1488/carbonell">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1489/carbonell">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1492/carbonell">Guillelmus</a>
+
+  <a href="../cite/Hieronymi/1488/carbonell">Hieronymi</a>
+
+  <a href="../cite/Hieronymus/1488/carbonell">Hieronymus</a>
+
+  <a href="../cite/Hugo/1490/carbonell">Hugo</a>
+
+  <a href="../cite/Hugueti/1491/carbonell">Hugueti</a>
+
+  <a href="../cite/Innocent/1489/carbonell">Innocent</a>
+
+  <a href="../cite/Isabel/1489/carbonell">Isabel</a>
+
+  <a href="../cite/Isabel/1492/carbonell">Isabel</a>
+
+  <a href="../cite/Isabel/1491/carbonell">Isabel</a>
+
+  <a href="../cite/Isabel/1490/carbonell">Isabel</a>
+
+  <a href="../cite/Isabel/1488/carbonell">Isabel</a>
+
+  <a href="../cite/Isabel/1487/carbonell">Isabel</a>
+
+  <a href="../cite/Isabelis/1491/carbonell">Isabelis</a>
+
+  <a href="../cite/Isabelis/1490/carbonell">Isabelis</a>
+
+  <a href="../cite/Jacobi/1491/carbonell">Jacobi</a>
+
+  <a href="../cite/Jacobi/1488/carbonell">Jacobi</a>
+
+  <a href="../cite/Jacobi/1489/carbonell">Jacobi</a>
+
+  <a href="../cite/Jacobi/1490/carbonell">Jacobi</a>
+
+  <a href="../cite/Jacobi/1492/carbonell">Jacobi</a>
+
+  <a href="../cite/Jacobi/1487/carbonell">Jacobi</a>
+
+  <a href="../cite/Jacobus/1489/carbonell">Jacobus</a>
+
+  <a href="../cite/Jacobus/1490/carbonell">Jacobus</a>
+
+  <a href="../cite/Jacobus/1492/carbonell">Jacobus</a>
+
+  <a href="../cite/Jacobus/1491/carbonell">Jacobus</a>
+
+  <a href="../cite/Jaufridis/1490/carbonell">Jaufridis</a>
+
+  <a href="../cite/Joan/1491/carbonell">Joan</a>
+
+  <a href="../cite/Joanna/1491/carbonell">Joanna</a>
+
+  <a href="../cite/Joanna/1490/carbonell">Joanna</a>
+
+  <a href="../cite/Joanna/1489/carbonell">Joanna</a>
+
+  <a href="../cite/Joanna/1487/carbonell">Joanna</a>
+
+  <a href="../cite/Joanna/1488/carbonell">Joanna</a>
+
+  <a href="../cite/Joanna/1492/carbonell">Joanna</a>
+
+  <a href="../cite/Joannae/1489/carbonell">Joannae</a>
+
+  <a href="../cite/Joannae/1490/carbonell">Joannae</a>
+
+  <a href="../cite/Joannam/1489/carbonell">Joannam</a>
+
+  <a href="../cite/Joannam/1488/carbonell">Joannam</a>
+
+  <a href="../cite/Joannem/1487/carbonell">Joannem</a>
+
+  <a href="../cite/Joannes/1490/carbonell">Joannes</a>
+
+  <a href="../cite/Joannes/1487/carbonell">Joannes</a>
+
+  <a href="../cite/Joannes/1489/carbonell">Joannes</a>
+
+  <a href="../cite/Joannes/1488/carbonell">Joannes</a>
+
+  <a href="../cite/Joannes/1491/carbonell">Joannes</a>
+
+  <a href="../cite/Joannis/1492/carbonell">Joannis</a>
+
+  <a href="../cite/Joannis/1487/carbonell">Joannis</a>
+
+  <a href="../cite/Joannis/1489/carbonell">Joannis</a>
+
+  <a href="../cite/Joannis/1488/carbonell">Joannis</a>
+
+  <a href="../cite/Joannis/1491/carbonell">Joannis</a>
+
+  <a href="../cite/Joannis/1490/carbonell">Joannis</a>
+
+  <a href="../cite/Juliani/1490/carbonell">Juliani</a>
+
+  <a href="../cite/Karoli/1491/carbonell">Karoli</a>
+
+  <a href="../cite/Laurentii/1492/carbonell">Laurentii</a>
+
+  <a href="../cite/Laurentii/1491/carbonell">Laurentii</a>
+
+  <a href="../cite/Laurentii/1490/carbonell">Laurentii</a>
+
+  <a href="../cite/Laurentii/1487/carbonell">Laurentii</a>
+
+  <a href="../cite/Laurentii/1488/carbonell">Laurentii</a>
+
+  <a href="../cite/Laurentius/1490/carbonell">Laurentius</a>
+
+  <a href="../cite/Laurentius/1492/carbonell">Laurentius</a>
+
+  <a href="../cite/Laurentius/1487/carbonell">Laurentius</a>
+
+  <a href="../cite/Laurentius/1491/carbonell">Laurentius</a>
+
+  <a href="../cite/Leonardi/1490/carbonell">Leonardi</a>
+
+  <a href="../cite/Leonardi/1488/carbonell">Leonardi</a>
+
+  <a href="../cite/Lodovici/1491/carbonell">Lodovici</a>
+
+  <a href="../cite/Lodovici/1487/carbonell">Lodovici</a>
+
+  <a href="../cite/Lodovici/1489/carbonell">Lodovici</a>
+
+  <a href="../cite/Lodovici/1488/carbonell">Lodovici</a>
+
+  <a href="../cite/Lodovici/1490/carbonell">Lodovici</a>
+
+  <a href="../cite/Lodovicus/1491/carbonell">Lodovicus</a>
+
+  <a href="../cite/Lodovicus/1487/carbonell">Lodovicus</a>
+
+  <a href="../cite/Lodovicus/1490/carbonell">Lodovicus</a>
+
+  <a href="../cite/Lodovicus/1489/carbonell">Lodovicus</a>
+
+  <a href="../cite/Ludovicus/1488/carbonell">Ludovicus</a>
+
+  <a href="../cite/Manuel/1491/carbonell">Manuel</a>
+
+  <a href="../cite/Manuel/1487/carbonell">Manuel</a>
+
+  <a href="../cite/Manuel/1488/carbonell">Manuel</a>
+
+  <a href="../cite/Manuel/1489/carbonell">Manuel</a>
+
+  <a href="../cite/Manuel/1490/carbonell">Manuel</a>
+
+  <a href="../cite/Manuelis/1491/carbonell">Manuelis</a>
+
+  <a href="../cite/Manuelis/1487/carbonell">Manuelis</a>
+
+  <a href="../cite/Manuelis/1490/carbonell">Manuelis</a>
+
+  <a href="../cite/Manuelis/1488/carbonell">Manuelis</a>
+
+  <a href="../cite/Manuelis/1492/carbonell">Manuelis</a>
+
+  <a href="../cite/Marci/1490/carbonell">Marci</a>
+
+  <a href="../cite/Marci/1491/carbonell">Marci</a>
+
+  <a href="../cite/Marcus/1488/carbonell">Marcus</a>
+
+  <a href="../cite/Marcus/1491/carbonell">Marcus</a>
+
+  <a href="../cite/Marcus/1490/carbonell">Marcus</a>
+
+  <a href="../cite/Margarita/1490/carbonell">Margarita</a>
+
+  <a href="../cite/Margarita/1488/carbonell">Margarita</a>
+
+  <a href="../cite/Margarita/1491/carbonell">Margarita</a>
+
+  <a href="../cite/Maria/1491/carbonell">Maria</a>
+
+  <a href="../cite/Maria/1490/carbonell">Maria</a>
+
+  <a href="../cite/Marques/1490/carbonell">Marques</a>
+
+  <a href="../cite/Marquesia/1488/carbonell">Marquesia</a>
+
+  <a href="../cite/Marquesia/1490/carbonell">Marquesia</a>
+
+  <a href="../cite/Marquesia/1492/carbonell">Marquesia</a>
+
+  <a href="../cite/Martines/1490/carbonell">Martines</a>
+
+  <a href="../cite/Martini/1491/carbonell">Martini</a>
+
+  <a href="../cite/Matthei/1491/carbonell">Matthei</a>
+
+  <a href="../cite/Mattheus/1491/carbonell">Mattheus</a>
+
+  <a href="../cite/Matthiae/1488/carbonell">Matthiae</a>
+
+  <a href="../cite/Melchior/1491/carbonell">Melchior</a>
+
+  <a href="../cite/Melchioris/1491/carbonell">Melchioris</a>
+
+  <a href="../cite/Melchioris/1490/carbonell">Melchioris</a>
+
+  <a href="../cite/Michael/1490/carbonell">Michael</a>
+
+  <a href="../cite/Michaela/1491/carbonell">Michaela</a>
+
+  <a href="../cite/Michaela/1490/carbonell">Michaela</a>
+
+  <a href="../cite/Michaela/1488/carbonell">Michaela</a>
+
+  <a href="../cite/Michaelem/1489/carbonell">Michaelem</a>
+
+  <a href="../cite/Michaelem/1487/carbonell">Michaelem</a>
+
+  <a href="../cite/Michaeli/1488/carbonell">Michaeli</a>
+
+  <a href="../cite/Michaelis/1491/carbonell">Michaelis</a>
+
+  <a href="../cite/Michaelis/1492/carbonell">Michaelis</a>
+
+  <a href="../cite/Michaelis/1488/carbonell">Michaelis</a>
+
+  <a href="../cite/Michaelis/1490/carbonell">Michaelis</a>
+
+  <a href="../cite/Nadal/1491/carbonell">Nadal</a>
+
+  <a href="../cite/Narcisa/1487/carbonell">Narcisa</a>
+
+  <a href="../cite/Narcissi/1488/carbonell">Narcissi</a>
+
+  <a href="../cite/Narcisus/1488/carbonell">Narcisus</a>
+
+  <a href="../cite/Nicolai/1488/carbonell">Nicolai</a>
+
+  <a href="../cite/Nicolai/1489/carbonell">Nicolai</a>
+
+  <a href="../cite/Nicolaus/1489/carbonell">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1488/carbonell">Nicolaus</a>
+
+  <a href="../cite/Oliva/1488/carbonell">Oliva</a>
+
+  <a href="../cite/Olivarii/1487/carbonell">Olivarii</a>
+
+  <a href="../cite/Oliver/1491/carbonell">Oliver</a>
+
+  <a href="../cite/Pau/1488/carbonell">Pau</a>
+
+  <a href="../cite/Paula/1491/carbonell">Paula</a>
+
+  <a href="../cite/Pauli/1492/carbonell">Pauli</a>
+
+  <a href="../cite/Pauli/1489/carbonell">Pauli</a>
+
+  <a href="../cite/Pauli/1490/carbonell">Pauli</a>
+
+  <a href="../cite/Pauli/1487/carbonell">Pauli</a>
+
+  <a href="../cite/Pauli/1491/carbonell">Pauli</a>
+
+  <a href="../cite/Pauli/1488/carbonell">Pauli</a>
+
+  <a href="../cite/Paulus/1489/carbonell">Paulus</a>
+
+  <a href="../cite/Paulus/1490/carbonell">Paulus</a>
+
+  <a href="../cite/Paulus/1487/carbonell">Paulus</a>
+
+  <a href="../cite/Paulus/1491/carbonell">Paulus</a>
+
+  <a href="../cite/Paulus/1488/carbonell">Paulus</a>
+
+  <a href="../cite/Petri/1487/carbonell">Petri</a>
+
+  <a href="../cite/Petri/1490/carbonell">Petri</a>
+
+  <a href="../cite/Petri/1491/carbonell">Petri</a>
+
+  <a href="../cite/Petri/1489/carbonell">Petri</a>
+
+  <a href="../cite/Petri/1492/carbonell">Petri</a>
+
+  <a href="../cite/Petri/1488/carbonell">Petri</a>
+
+  <a href="../cite/Petro/1488/carbonell">Petro</a>
+
+  <a href="../cite/Petrus/1489/carbonell">Petrus</a>
+
+  <a href="../cite/Petrus/1487/carbonell">Petrus</a>
+
+  <a href="../cite/Petrus/1491/carbonell">Petrus</a>
+
+  <a href="../cite/Petrus/1488/carbonell">Petrus</a>
+
+  <a href="../cite/Petrus/1492/carbonell">Petrus</a>
+
+  <a href="../cite/Petrus/1490/carbonell">Petrus</a>
+
+  <a href="../cite/Philippi/1490/carbonell">Philippi</a>
+
+  <a href="../cite/Philippi/1488/carbonell">Philippi</a>
+
+  <a href="../cite/Philippus/1488/carbonell">Philippus</a>
+
+  <a href="../cite/Raimundi/1491/carbonell">Raimundi</a>
+
+  <a href="../cite/Raimundi/1488/carbonell">Raimundi</a>
+
+  <a href="../cite/Raimundi/1489/carbonell">Raimundi</a>
+
+  <a href="../cite/Raimundi/1490/carbonell">Raimundi</a>
+
+  <a href="../cite/Raimundum/1489/carbonell">Raimundum</a>
+
+  <a href="../cite/Raimundum/1487/carbonell">Raimundum</a>
+
+  <a href="../cite/Raimundus/1488/carbonell">Raimundus</a>
+
+  <a href="../cite/Raimundus/1491/carbonell">Raimundus</a>
+
+  <a href="../cite/Ramon/1488/carbonell">Ramon</a>
+
+  <a href="../cite/Raphael/1490/carbonell">Raphael</a>
+
+  <a href="../cite/Raphael/1488/carbonell">Raphael</a>
+
+  <a href="../cite/Raphael/1492/carbonell">Raphael</a>
+
+  <a href="../cite/Raphaela/1488/carbonell">Raphaela</a>
+
+  <a href="../cite/Raphaelis/1488/carbonell">Raphaelis</a>
+
+  <a href="../cite/Raphaelis/1490/carbonell">Raphaelis</a>
+
+  <a href="../cite/Raphaelis/1487/carbonell">Raphaelis</a>
+
+  <a href="../cite/Raphaelis/1492/carbonell">Raphaelis</a>
+
+  <a href="../cite/Rhothlandus/1490/carbonell">Rhothlandus</a>
+
+  <a href="../cite/Rodrigo/1491/carbonell">Rodrigo</a>
+
+  <a href="../cite/Rodrigues/1487/carbonell">Rodrigues</a>
+
+  <a href="../cite/Roger/1488/carbonell">Roger</a>
+
+  <a href="../cite/Roger/1491/carbonell">Roger</a>
+
+  <a href="../cite/Rubert/1491/carbonell">Rubert</a>
+
+  <a href="../cite/Salvator/1491/carbonell">Salvator</a>
+
+  <a href="../cite/Salvatoris/1491/carbonell">Salvatoris</a>
+
+  <a href="../cite/Serena/1491/carbonell">Serena</a>
+
+  <a href="../cite/Serena/1488/carbonell">Serena</a>
+
+  <a href="../cite/Serventa/1489/carbonell">Serventa</a>
+
+  <a href="../cite/Simon/1490/carbonell">Simon</a>
+
+  <a href="../cite/Simon/1489/carbonell">Simon</a>
+
+  <a href="../cite/Simon/1491/carbonell">Simon</a>
+
+  <a href="../cite/Simonis/1491/carbonell">Simonis</a>
+
+  <a href="../cite/Sperantia/1491/carbonell">Sperantia</a>
+
+  <a href="../cite/Stephani/1491/carbonell">Stephani</a>
+
+  <a href="../cite/Stephani/1488/carbonell">Stephani</a>
+
+  <a href="../cite/Stephani/1487/carbonell">Stephani</a>
+
+  <a href="../cite/Tecla/1489/carbonell">Tecla</a>
+
+  <a href="../cite/Thomas/1487/carbonell">Thomas</a>
+
+  <a href="../cite/Ursola/1491/carbonell">Ursola</a>
+
+  <a href="../cite/Ursolæ/1491/carbonell">Ursolæ</a>
+
+  <a href="../cite/Valentina/1488/carbonell">Valentina</a>
+
+  <a href="../cite/Valentinae/1490/carbonell">Valentinae</a>
+
+  <a href="../cite/Valentinus/1490/carbonell">Valentinus</a>
+
+  <a href="../cite/Vincentii/1491/carbonell">Vincentii</a>
+
+  <a href="../cite/Vincentius/1491/carbonell">Vincentius</a>
+
+  <a href="../cite/Violans/1490/carbonell">Violans</a>
+
+  <a href="../cite/Violans/1491/carbonell">Violans</a>
+
+  <a href="../cite/Violans/1489/carbonell">Violans</a>
+
+  <a href="../cite/Violans/1487/carbonell">Violans</a>
+
+  <a href="../cite/Violans/1488/carbonell">Violans</a>
+
+  <a href="../cite/Violant/1488/carbonell">Violant</a>
+
+  <a href="../cite/Violantem/1488/carbonell">Violantem</a>
+
+  <a href="../cite/Violentem/1488/carbonell">Violentem</a>
+
+  <a href="../cite/Vitalis/1491/carbonell">Vitalis</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

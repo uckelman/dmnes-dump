@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Wenceslas</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Wenceslas</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Slavic</span> <i>veli, vyache, więce</i> 'great, more, large' + <span class="lang">Slavic</span> <i>sława, slava</i> 'glory, fame'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 10th C duke of Bohemia and saint, a 13th C king of Bohemia, a 13th-14th C king of Bohemia, a 14th C king of Bohemia, the birth name of a 14th C king of Bohemia and Holy Roman Emperor, and a 14th-15th C king of Bohemia.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1345</span> <span class="name">Wenceslavs</span> (<span class="case">nom</span>) <a href="../cite/Wenceslavs/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">614</span></a>;
+ <span class="date">1349</span> <span class="name">Wenceslaus</span> (<span class="case">nom</span>) <a href="../cite/Wenceslaus/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">34</span></a>,
+ <span class="name">Wencezlao</span> (<span class="case">dat</span>) <a href="../cite/Wencezlao/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">112</span></a>,
+ <span class="name">Wencezslaus</span> (<span class="case">nom</span>) <a href="../cite/Wencezslaus/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">112</span></a>;
+ <span class="date">1350</span> <span class="name">Wenceslao</span> (<span class="case">dat</span>) <a href="../cite/Wenceslao/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">165</span></a>,
+ <span class="name">Wenceslaus</span> (<span class="case">nom</span>) <a href="../cite/Wenceslaus/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">157</span></a>;
+ <span class="date">1351</span> <span class="name">Wenczeslao</span> (<span class="case">dat</span>) <a href="../cite/Wenczeslao/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>;
+ <span class="date">1353</span> <span class="name">Wenczeslaus</span> (<span class="case">nom</span>) <a href="../cite/Wenczeslaus/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">112</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1592</span> <span class="name">Wentz</span> <a href="../cite/Wentz/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 288</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1225</span> <span class="name">Wentzlaus</span> (<span class="case">nom</span>) <a href="../cite/Wentzlaus/1225/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1401</span> <span class="name">Wentzelao</span> (<span class="case">dat</span>) <a href="../cite/Wentzelao/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 256</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1497</span> <span class="name">Wentzel</span> <a href="../cite/Wentzel/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">1493</span></a>,
+ <span class="name">Wentzell</span> <a href="../cite/Wentzell/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">556</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1304</span> <span class="name">Vencezlaus</span> (<span class="case">nom</span>) <a href="../cite/Vencezlaus/1304/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 501, s.n. Wynzlow</span></a>;
+ <span class="date">1317</span> <span class="name">venchezlao</span> (<span class="case">dat</span>) <a href="../cite/venchezlao/1317/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 501, s.n. Wynzlow</span></a>;
+ <span class="date">1332x1337</span> <span class="name">Wenceslaus</span> (<span class="case">nom</span>) <a href="../cite/Wenceslaus/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 502, s.n. Wynzlow</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, M. Slíz, J. Uckelman, S.L. Uckelman. "Wenceslas". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Wenceslas.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

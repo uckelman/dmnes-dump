@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Walbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Walbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Frankish</span>, <span class="lang">Old German</span> <i>walh</i> 'foreigner, stranger; slave' from <span class="lang">Proto-Germanic</span> <i>*walhaz</i>, from a Celtic tribal name or <span class="lang">Old Saxon</span> <i>wald</i>, <span class="lang">Old High German</span> <i>walt</i> 'power, authority' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">657</span> <span class="name">Vualibertus</span> (<span class="case">nom</span>) <a href="../cite/Vualibertus/657/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">CCCXXVIII</span></a>;
+ <span class="date">909</span> <span class="name">Vualbertus</span> (<span class="case">nom</span>) <a href="../cite/Vualbertus/909/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 77</span></a>;
+ <span class="date">1162</span> <span class="name">Galberti</span> (<span class="case">gen</span>) <a href="../cite/Galberti/1162/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXIII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Walberto</span> (<span class="case">abl</span>) <a href="../cite/Walberto/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§112</span></a>,
+ <span class="name">Walbertus</span> (<span class="case">nom</span>) <a href="../cite/Walbertus/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§130</span></a>,
+ <span class="name">Walhberctus</span> (<span class="case">nom</span>) <a href="../cite/Walhberctus/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§117</span></a>,
+ <span class="name">Waltberktus</span> (<span class="case">nom</span>) <a href="../cite/Waltberktus/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§13</span></a>;
+ <span class="date">1135</span> <span class="name">Walbertus</span> (<span class="case">nom</span>) <a href="../cite/Walbertus/1135/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">95</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Valperti</span> (<span class="case">gen</span>) <a href="../cite/Valperti/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">204</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Walbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Walbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

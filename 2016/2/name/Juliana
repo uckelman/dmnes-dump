@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Juliana</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Juliana</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Fem. of <a class="nym" href="Julian">Julian</a>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 3rd C martyr, a 4th C saint, a 13th C French saint, a 14th C Italian saint, a 14th C English mystic, a 14th C grand duchess consort of Lithuania, and a 16th C Russian saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Juliana</span> (<span class="case">abl</span>) <a href="../cite/Juliana/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 23</span></a>,
+ <span class="name">Juliane</span> (<span class="case">gen</span>) <a href="../cite/Juliane/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1189</span> <span class="name">Giliana</span> (<span class="case">nom</span>) <a href="../cite/Giliana/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 111</span></a>,
+ <span class="name">Juliana</span> (<span class="case">nom</span>) <a href="../cite/Juliana/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 78</span></a>;
+ <span class="date">1222</span> <span class="name">Juliana</span> (<span class="case">nom</span>) <a href="../cite/Juliana/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Juliane</span> (<span class="case">gen</span>) <a href="../cite/Juliane/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">iuliane</span> (<span class="case">gen</span>) <a href="../cite/iuliane/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1279–80</span> <span class="name">Juliana</span> (<span class="case">nom</span>) <a href="../cite/Juliana/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Juliane</span> (<span class="case">gen</span>) <a href="../cite/Juliane/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 65</span></a>;
+ <span class="date">1327</span> <span class="name">Juliana</span> (<span class="case">abl</span>) <a href="../cite/Juliana/1327/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1377</span> <span class="name">Juliana</span> (<span class="case">nom</span>) <a href="../cite/Juliana/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1381</span> <span class="name">Juliana</span> (<span class="case">nom</span>) <a href="../cite/Juliana/1381/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/Juliana/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 83</span></a>,
+ <span class="name">Julianna</span> (<span class="case">nom</span>) <a href="../cite/Julianna/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 106</span></a>;
+ <span class="date">1408</span> <span class="name">Juliana</span> (<span class="case">nom</span>) <a href="../cite/Juliana/1408/GCCYork"><span class="bib_key">GCCYork</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1553</span> <span class="name">Gilliana</span> (<span class="case">nom</span>) <a href="../cite/Gilliana/1553/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1561</span> <span class="name">Jeliana</span> (<span class="case">nom</span>) <a href="../cite/Jeliana/1561/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1395</span> <span class="name">Iuliane</span> <a href="../cite/Iuliane/1395/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 8</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Julyan</span> <a href="../cite/Julyan/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 63</span></a>;
+ <span class="date">1538</span> <span class="name">Jellyan</span> <a href="../cite/Jellyan/1538/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1539</span> <span class="name">Jellyan</span> <a href="../cite/Jellyan/1539/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1541</span> <span class="name">Jelyan</span> <a href="../cite/Jelyan/1541/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1542</span> <span class="name">Jelian</span> <a href="../cite/Jelian/1542/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1543</span> <span class="name">Jelian</span> <a href="../cite/Jelian/1543/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Jelyan</span> <a href="../cite/Jelyan/1543/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1544</span> <span class="name">Jelyan</span> <a href="../cite/Jelyan/1544/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1545</span> <span class="name">Jelyan</span> <a href="../cite/Jelyan/1545/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1546</span> <span class="name">Jelyan</span> <a href="../cite/Jelyan/1546/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1548</span> <span class="name">Jelyan</span> <a href="../cite/Jelyan/1548/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Julyan</span> <a href="../cite/Julyan/1548/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 79</span></a>;
+ <span class="date">1549</span> <span class="name">Julian</span> <a href="../cite/Julian/1549/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1551</span> <span class="name">Jelyan</span> <a href="../cite/Jelyan/1551/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1552</span> <span class="name">Jelian</span> <a href="../cite/Jelian/1552/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1553</span> <span class="name">Jelian</span> <a href="../cite/Jelian/1553/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Julyan</span> <a href="../cite/Julyan/1553/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1555</span> <span class="name">Julyan</span> <a href="../cite/Julyan/1555/DEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1556</span> <span class="name">Julian</span> <a href="../cite/Julian/1556/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1558</span> <span class="name">Julian</span> <a href="../cite/Julian/1558/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1558–9</span> <span class="name">Julian-f</span> <a href="../cite/Julian-f/1558–9/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1560</span> <span class="name">Jelyan</span> <a href="../cite/Jelyan/1560/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1561</span> <span class="name">Julyan</span> <a href="../cite/Julyan/1561/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1562</span> <span class="name">Jelyan</span> <a href="../cite/Jelyan/1562/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Julyan</span> <a href="../cite/Julyan/1562/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1564</span> <span class="name">Jellian</span> <a href="../cite/Jellian/1564/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Julian</span> <a href="../cite/Julian/1564/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 29</span></a>,
+ <a href="../cite/Julian/1564/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1565</span> <span class="name">Julyan</span> <a href="../cite/Julyan/1565/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>;
+ <span class="date">1566</span> <span class="name">Gilliant</span> <a href="../cite/Gilliant/1566/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Julyan</span> <a href="../cite/Julyan/1566/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>;
+ <span class="date">1567</span> <span class="name">Julian</span> <a href="../cite/Julian/1567/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1569</span> <span class="name">Julian</span> <a href="../cite/Julian/1569/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Julyan</span> <a href="../cite/Julyan/1569/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1571</span> <span class="name">Julyan</span> <a href="../cite/Julyan/1571/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 82</span></a>;
+ <span class="date">1572</span> <span class="name">Julyan</span> <a href="../cite/Julyan/1572/DEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82</span></a>;
+ <span class="date">1576</span> <span class="name">Jellian</span> <a href="../cite/Jellian/1576/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1577</span> <span class="name">Jellyan</span> <a href="../cite/Jellyan/1577/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1579</span> <span class="name">Julyan</span> <a href="../cite/Julyan/1579/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 84</span></a>;
+ <span class="date">1580</span> <span class="name">Gyllyane</span> <a href="../cite/Gyllyane/1580/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1582</span> <span class="name">Gellian</span> <a href="../cite/Gellian/1582/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 141</span></a>,
+ <span class="name">Juliana</span> <a href="../cite/Juliana/1582/BUmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 63</span></a>;
+ <span class="date">1583</span> <span class="name">Jellian</span> <a href="../cite/Jellian/1583/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 85</span></a>,
+ <span class="name">Julian</span> <a href="../cite/Julian/1583/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1585</span> <span class="name">Jellyan</span> <a href="../cite/Jellyan/1585/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 128</span></a>,
+ <span class="name">Jillian</span> <a href="../cite/Jillian/1585/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Julian</span> <a href="../cite/Julian/1585/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1586</span> <span class="name">Gilian</span> <a href="../cite/Gilian/1586/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Julian</span> <a href="../cite/Julian/1586/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1587</span> <span class="name">Julian</span> <a href="../cite/Julian/1587/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>,
+ <a href="../cite/Julian/1587/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1588</span> <span class="name">Julian</span> <a href="../cite/Julian/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1589</span> <span class="name">Gillyan</span> <a href="../cite/Gillyan/1589/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>,
+ <span class="name">Julian</span> <a href="../cite/Julian/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1590</span> <span class="name">Gilian</span> <a href="../cite/Gilian/1590/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Julian</span> <a href="../cite/Julian/1590/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 96</span></a>,
+ <a href="../cite/Julian/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 21</span></a>,
+ <a href="../cite/Julian/1590/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Juliane</span> <a href="../cite/Juliane/1590/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Juliane/1590/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1591</span> <span class="name">Julian</span> <a href="../cite/Julian/1591/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1593</span> <span class="name">Julian</span> <a href="../cite/Julian/1593/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Julyan</span> <a href="../cite/Julyan/1593/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 24</span></a>,
+ <a href="../cite/Julyan/1593/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1594</span> <span class="name">Julian</span> <a href="../cite/Julian/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1595</span> <span class="name">Julian</span> <a href="../cite/Julian/1595/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1596</span> <span class="name">Julian</span> <a href="../cite/Julian/1596/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1598</span> <span class="name">Julian</span> <a href="../cite/Julian/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>,
+ <span class="name">Julyan</span> <a href="../cite/Julyan/1598/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1599</span> <span class="name">Julian</span> <a href="../cite/Julian/1599/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 17</span></a>,
+ <a href="../cite/Julian/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 42</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1127</span> <span class="name">Juliane</span> (<span class="case">gen</span>) <a href="../cite/Juliane/1127/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1179</span> <span class="name">Juliana</span> (<span class="case">abl</span>) <a href="../cite/Juliana/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">177</span></a>;
+ <span class="date">1180</span> <span class="name">Juliane</span> (<span class="case">gen</span>) <a href="../cite/Juliane/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1301</span> <span class="name">Juliana</span> (<span class="case">nom</span>) <a href="../cite/Juliana/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 245</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Julienne</span> <a href="../cite/Julienne/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1301</span> <span class="name">Juliane</span> (<span class="case">nom</span>) <a href="../cite/Juliane/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 237</span></a>;
+ <span class="date">1313</span> <span class="name">Juliane</span> <a href="../cite/Juliane/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Julienne</span> <a href="../cite/Julienne/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1563</span> <span class="name">Juliane</span> <a href="../cite/Juliane/1563/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1564</span> <span class="name">Julienne</span> <a href="../cite/Julienne/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1565</span> <span class="name">Julienne</span> <a href="../cite/Julienne/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 113</span></a>;
+ <span class="date">1566</span> <span class="name">Juliane</span> <a href="../cite/Juliane/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 264</span></a>,
+ <span class="name">Julienne</span> <a href="../cite/Julienne/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 244</span></a>;
+ <span class="date">1567</span> <span class="name">Julienne</span> <a href="../cite/Julienne/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 288</span></a>;
+ <span class="date">1568</span> <span class="name">Julienne</span> <a href="../cite/Julienne/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 370</span></a>;
+ <span class="date">1571</span> <span class="name">Juliane</span> <a href="../cite/Juliane/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 439</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1285</span> <span class="name">Iuliane</span> (<span class="case">gen</span>) <a href="../cite/Iuliane/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 156</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Iuliana</span> <a href="../cite/Iuliana/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 11</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>N. Shiel, J. Uckelman, S.L. Uckelman. "Juliana". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Juliana.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

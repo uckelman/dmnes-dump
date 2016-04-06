@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Reg-KirkElla</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>Reg-KirkElla</dt>
+  <dd>James Foord and A. B. Wilson-Barkworth, editors. <em>The Register of Kirk Ella, Co. York</em>, volume Xi. London: Privately printed for the Parish Register Society, 1897.</dd>
+</dl>
+
+
+  <a href="../cite/Bryanni/1558/Reg-KirkElla">Bryanni</a>
+
+  <a href="../cite/Bryanus/1558/Reg-KirkElla">Bryanus</a>
+
+  <a href="../cite/Dorethea/1558/Reg-KirkElla">Dorethea</a>
+
+  <a href="../cite/Edwardus/1559/Reg-KirkElla">Edwardus</a>
+
+  <a href="../cite/Elizabetha/1559/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Helina/1559/Reg-KirkElla">Helina</a>
+
+  <a href="../cite/Henrici/1558/Reg-KirkElla">Henrici</a>
+
+  <a href="../cite/Joanna/1558/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Johanna/1559/Reg-KirkElla">Johanna</a>
+
+  <a href="../cite/Johannes/1559/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Petri/1558/Reg-KirkElla">Petri</a>
+
+  <a href="../cite/Petrus/1558/Reg-KirkElla">Petrus</a>
+
+  <a href="../cite/Petrus/1559/Reg-KirkElla">Petrus</a>
+
+  <a href="../cite/Radulphus/1559/Reg-KirkElla">Radulphus</a>
+
+  <a href="../cite/Richardi/1559/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardus/1558/Reg-KirkElla">Richardus</a>
+
+  <a href="../cite/Robertus/1558/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Sibilla/1558/Reg-KirkElla">Sibilla</a>
+
+  <a href="../cite/Simon/1558/Reg-KirkElla">Simon</a>
+
+  <a href="../cite/Simon/1559/Reg-KirkElla">Simon</a>
+
+  <a href="../cite/Thoma/1558/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1559/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thomas/1559/Reg-KirkElla">Thomas</a>
+
+  <a href="../cite/Thomæ/1559/Reg-KirkElla">Thomæ</a>
+
+  <a href="../cite/Willelmus/1559/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1558/Reg-KirkElla">Willelmus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

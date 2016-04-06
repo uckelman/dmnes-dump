@@ -1,0 +1,454 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Ralph</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Ralph</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Saxon</span> <i>rād</i>, <span class="lang">Old High German</span> <i>rāt</i> 'counsel, advice' + <span class="lang">Old High German</span> <i>wolf</i>, <span class="lang">Gothic</span> <i>wulf</i> 'wolf'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C king of Thuringia.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The same root gave rise to <a class="nym" href="Raoul">Raoul</a> in France.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1106</span> <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/1106/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1212x1213</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1212x1213/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">2</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1155/FPD"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1161x1184</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1161x1184/MDE"><span class="bib_key">MDE</span> <span class="bib_loc">p. 227, no. 1</span></a>;
+ <span class="date">1181</span> <span class="name">Radulfum</span> (<span class="case">acc</span>) <a href="../cite/Radulfum/1181/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 109</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1181/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 115</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Radulfum</span> (<span class="case">acc</span>) <a href="../cite/Radulfum/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 192</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1189</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 94</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 80</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 119</span></a>,
+ <span class="name">Rodulphus</span> (<span class="case">nom</span>) <a href="../cite/Rodulphus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">c1198</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/c1198/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 246</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/c1198/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 244</span></a>;
+ <span class="date">1246</span> <span class="name">Radulfum</span> (<span class="case">acc</span>) <a href="../cite/Radulfum/1246/PSS-II"><span class="bib_key">PSS-II</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1256</span> <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1279–80</span> <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Radulpho</span> (<span class="case">abl</span>) <a href="../cite/Radulpho/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1298</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1298/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1300</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 245</span></a>;
+ <span class="date">1317</span> <span class="name">Radulphum</span> (<span class="case">acc</span>) <a href="../cite/Radulphum/1317/PSS-CXIV"><span class="bib_key">PSS-CXIV</span> <span class="bib_loc">4a</span></a>;
+ <span class="date">1318</span> <span class="name">Radulphum</span> (<span class="case">acc</span>) <a href="../cite/Radulphum/1318/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">4b</span></a>;
+ <span class="date">1327</span> <span class="name">Radulpho</span> (<span class="case">abl</span>) <a href="../cite/Radulpho/1327/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1341</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1341/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1348</span> <span class="name">Radulpho</span> (<span class="case">abl</span>) <a href="../cite/Radulpho/1348/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 9</span></a>;
+ <span class="date">1377</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1377/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1377/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1381</span> <span class="name">Radulffo</span> (<span class="case">abl</span>) <a href="../cite/Radulffo/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 100</span></a>,
+ <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 100</span></a>,
+ <span class="name">Radulfum</span> (<span class="case">acc</span>) <a href="../cite/Radulfum/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 135</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 78</span></a>,
+ <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91</span></a>,
+ <span class="name">Radulpho</span> (<span class="case">abl</span>) <a href="../cite/Radulpho/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 89</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Radulphus/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 129</span></a>,
+ <span class="name">Raf</span> (<span class="case">nom</span>) <a href="../cite/Raf/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 96</span></a>;
+ <span class="date">1408</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1408/GCCYork"><span class="bib_key">GCCYork</span> <span class="bib_loc">p.11</span></a>;
+ <span class="date">1424–25</span> <span class="name">Radulphum</span> (<span class="case">acc</span>) <a href="../cite/Radulphum/1424–25/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1436</span> <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1436/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LVIII</span></a>,
+ <span class="name">Radulpho</span> (<span class="case">dat</span>) <a href="../cite/Radulpho/1436/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LVIII</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1436/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LVIII</span></a>;
+ <span class="date">1439</span> <span class="name">Radulpho</span> (<span class="case">dat</span>) <a href="../cite/Radulpho/1439/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 120</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1439/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 120</span></a>;
+ <span class="date">1440</span> <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1440/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LI</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1440/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LI</span></a>;
+ <span class="date">1558/9</span> <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1558s9/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1558</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1558/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1559</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1559/Reg-KirkElla"><span class="bib_key">Reg-KirkElla</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1561</span> <span class="name">Radolphus</span> (<span class="case">nom</span>) <a href="../cite/Radolphus/1561/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 60</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1561/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1575</span> <span class="name">Radolphus</span> (<span class="case">nom</span>) <a href="../cite/Radolphus/1575/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1417</span> <span class="name">Raufe</span> <a href="../cite/Raufe/1417/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1426</span> <span class="name">Rolf</span> <a href="../cite/Rolf/1426/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1434</span> <span class="name">Rauf</span> <a href="../cite/Rauf/1434/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 99</span></a>;
+ <span class="date">1439</span> <span class="name">Rauf</span> <a href="../cite/Rauf/1439/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 121</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1485</span> <span class="name">Ralph</span> <a href="../cite/Ralph/1485/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXIX</span></a>,
+ <span class="name">Rauff</span> <a href="../cite/Rauff/1485/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXIX</span></a>;
+ <span class="date">1522</span> <span class="name">Ralf</span> <a href="../cite/Ralf/1522/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 114</span></a>;
+ <span class="date">1528</span> <span class="name">Rauf</span> <a href="../cite/Rauf/1528/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXVIII</span></a>;
+ <span class="date">1529</span> <span class="name">Raulf</span> <a href="../cite/Raulf/1529/PP-HenV"><span class="bib_key">PP-HenV</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1530</span> <span class="name">Ralffe</span> <a href="../cite/Ralffe/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Rauff</span> <a href="../cite/Rauff/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">Raulf</span> <a href="../cite/Raulf/1530/PP-HenV"><span class="bib_key">PP-HenV</span> <span class="bib_loc">p. 23</span></a>,
+ <span class="name">Rawff</span> <a href="../cite/Rawff/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">Rawffe</span> <a href="../cite/Rawffe/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>,
+ <span class="name">Rayff</span> <a href="../cite/Rayff/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1531</span> <span class="name">Rauff</span> <a href="../cite/Rauff/1531/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXI</span></a>;
+ <span class="date">1533</span> <span class="name">Raiphe</span> <a href="../cite/Raiphe/1533/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXII</span></a>,
+ <span class="name">Raufe</span> <a href="../cite/Raufe/1533/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXIII</span></a>;
+ <span class="date">1539</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1539/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1540</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1540/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1541</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1541/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1542/3</span> <span class="name">Raaffe</span> <a href="../cite/Raaffe/1542s3/SIAcc"><span class="bib_key">SIAcc</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1542</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1542/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1543</span> <span class="name">Raffe</span> <a href="../cite/Raffe/1543/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Rauffe</span> <a href="../cite/Rauffe/1543/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 75</span></a>,
+ <span class="name">Rawfe</span> <a href="../cite/Rawfe/1543/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 75</span></a>;
+ <span class="date">1545</span> <span class="name">Raffe</span> <a href="../cite/Raffe/1545/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCI</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1545/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1546</span> <span class="name">Raffe</span> <a href="../cite/Raffe/1546/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1547</span> <span class="name">Raf</span> <a href="../cite/Raf/1547/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCIV</span></a>,
+ <span class="name">Raff</span> <a href="../cite/Raff/1547/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">XCIV</span></a>,
+ <span class="name">Raffe</span> <a href="../cite/Raffe/1547/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Rauff</span> <a href="../cite/Rauff/1547/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCIV</span></a>,
+ <span class="name">Rawff</span> <a href="../cite/Rawff/1547/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">XCIII</span></a>;
+ <span class="date">1548</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1548/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1551</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1551/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1552</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1552/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1553</span> <span class="name">Raffe</span> <a href="../cite/Raffe/1553/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1553/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1554</span> <span class="name">Rooffe</span> <a href="../cite/Rooffe/1554/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1555</span> <span class="name">Rafe</span> <a href="../cite/Rafe/1555/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Raffe</span> <a href="../cite/Raffe/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1555/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1557</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1557/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1558</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1558/SOmar-vol9"><span class="bib_key">SOmar-vol9</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1559</span> <span class="name">Ralph</span> <a href="../cite/Ralph/1559/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1560</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1560/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1561</span> <span class="name">Raff</span> <a href="../cite/Raff/1561/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 125</span></a>,
+ <span class="name">Raph</span> <a href="../cite/Raph/1561/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1561/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1562</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1562/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1563</span> <span class="name">Raffe</span> <a href="../cite/Raffe/1563/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1563/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1565</span> <span class="name">Raffe</span> <a href="../cite/Raffe/1565/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1565/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>,
+ <a href="../cite/Raphe/1565/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1566</span> <span class="name">Radulphe</span> <a href="../cite/Radulphe/1566/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 35</span></a>,
+ <span class="name">Raufe</span> <a href="../cite/Raufe/1566/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1568</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1568/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Rauf</span> <a href="../cite/Rauf/1568/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1570</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1570/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1571</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1571/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1572</span> <span class="name">Raife</span> <a href="../cite/Raife/1572/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1572/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1573</span> <span class="name">Raffe</span> <a href="../cite/Raffe/1573/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Raife</span> <a href="../cite/Raife/1573/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1573/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1574</span> <span class="name">Radulphe</span> <a href="../cite/Radulphe/1574/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1574/5</span> <span class="name">Raffa</span> <a href="../cite/Raffa/1574s5/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1575</span> <span class="name">Radulph</span> <a href="../cite/Radulph/1575/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1576</span> <span class="name">Ralphe</span> <a href="../cite/Ralphe/1576/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 84</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1576/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1577</span> <span class="name">Rafe</span> <a href="../cite/Rafe/1577/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1577/8</span> <span class="name">Raph</span> <a href="../cite/Raph/1577s8/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1577</span> <span class="name">Raph</span> <a href="../cite/Raph/1577/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1579</span> <span class="name">Rafe</span> <a href="../cite/Rafe/1579/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1580</span> <span class="name">Raphe</span> <a href="../cite/Raphe/1580/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Rawe</span> <a href="../cite/Rawe/1580/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1581</span> <span class="name">Rafe</span> <a href="../cite/Rafe/1581/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1582</span> <span class="name">Ralph</span> <a href="../cite/Ralph/1582/DEmar-vol2"><span class="bib_key">DEmar-vol2</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1582/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1583</span> <span class="name">Ralph</span> <a href="../cite/Ralph/1583/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1583/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1584</span> <span class="name">Radulphe</span> <a href="../cite/Radulphe/1584/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">Raffe</span> <a href="../cite/Raffe/1584/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1585</span> <span class="name">Radulphe</span> <a href="../cite/Radulphe/1585/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1586</span> <span class="name">Ralf</span> <a href="../cite/Ralf/1586/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 96</span></a>,
+ <span class="name">Ralfe</span> <a href="../cite/Ralfe/1586/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Ralpe</span> <a href="../cite/Ralpe/1586/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Raph</span> <a href="../cite/Raph/1586/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1587</span> <span class="name">Raffe</span> <a href="../cite/Raffe/1587/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1588</span> <span class="name">Radulfe</span> <a href="../cite/Radulfe/1588/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Rafe</span> <a href="../cite/Rafe/1588/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Raffe</span> <a href="../cite/Raffe/1588/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Ralfe</span> <a href="../cite/Ralfe/1588/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Ralph</span> <a href="../cite/Ralph/1588/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 23</span></a>,
+ <span class="name">Rauf</span> <a href="../cite/Rauf/1588/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1589</span> <span class="name">Radulph</span> <a href="../cite/Radulph/1589/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 49</span></a>,
+ <span class="name">Rafe</span> <a href="../cite/Rafe/1589/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Rafe/1589/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Raffe</span> <a href="../cite/Raffe/1589/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Ralfe</span> <a href="../cite/Ralfe/1589/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1589/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1590</span> <span class="name">Raffe</span> <a href="../cite/Raffe/1590/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1591</span> <span class="name">Raff</span> <a href="../cite/Raff/1591/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 128</span></a>,
+ <span class="name">Ralph</span> <a href="../cite/Ralph/1591/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 23</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1591/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1592</span> <span class="name">Ralfe</span> <a href="../cite/Ralfe/1592/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1593</span> <span class="name">Ralph</span> <a href="../cite/Ralph/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1593/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Rauffe</span> <a href="../cite/Rauffe/1593/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 92</span></a>;
+ <span class="date">1594</span> <span class="name">Ralfe</span> <a href="../cite/Ralfe/1594/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 37</span></a>,
+ <span class="name">Ralph</span> <a href="../cite/Ralph/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1595</span> <span class="name">Ralph</span> <a href="../cite/Ralph/1595/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1595/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 37</span></a>,
+ <span class="name">Raufe</span> <a href="../cite/Raufe/1595/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 92</span></a>;
+ <span class="date">1596</span> <span class="name">Rafe</span> <a href="../cite/Rafe/1596/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1597</span> <span class="name">Rafe</span> <a href="../cite/Rafe/1597/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Raphe</span> <a href="../cite/Raphe/1597/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 38</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">3, CE</span></a>;
+ <span class="date">862x876</span> <span class="name">Ranulfi</span> (<span class="case">gen</span>) <a href="../cite/Ranulfi/862x876/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">X</span></a>;
+ <span class="date">932</span> <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/932/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">2</span></a>;
+ <span class="date">994</span> <span class="name">Rodulfo</span> (<span class="case">abl</span>) <a href="../cite/Rodulfo/994/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">c996</span> <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/c996/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1015</span> <span class="name">Radulphum</span> (<span class="case">acc</span>) <a href="../cite/Radulphum/1015/NTDip-vol4"><span class="bib_key">NTDip-vol4</span> <span class="bib_loc">p. 225</span></a>;
+ <span class="date">1047x1061</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1047x1061/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1067</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1067/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1067x1074</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1067x1074/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1067x1086</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1067x1086/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1083</span> <span class="name">Raulphus</span> (<span class="case">nom</span>) <a href="../cite/Raulphus/1083/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXXVI</span></a>,
+ <span class="name">Radulfum</span> (<span class="case">acc</span>) <a href="../cite/Radulfum/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVI</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII</span></a>;
+ <span class="date">a1108</span> <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">1112</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1112/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">I</span></a>;
+ <span class="date">a1114</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/a1114/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1115</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1115x1149/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">X</span></a>;
+ <span class="date">a1116</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/a1116/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1119</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1119/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1120</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1120/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1123</span> <span class="name">Rannulphi</span> (<span class="case">gen</span>) <a href="../cite/Rannulphi/1123/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1127</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1127/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1135</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1138</span> <span class="name">Raudulfus</span> (<span class="case">nom</span>) <a href="../cite/Raudulfus/1138/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIX</span></a>;
+ <span class="date">1138x62</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1138x62/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">81</span></a>,
+ <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">84</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">74</span></a>;
+ <span class="date">c1140</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/c1140/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIII</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/c1140/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXIII</span></a>,
+ <span class="name">Raudulfi</span> (<span class="case">gen</span>) <a href="../cite/Raudulfi/c1140/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XCIX</span></a>;
+ <span class="date">1141</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1141/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXXI</span></a>;
+ <span class="date">1143</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1143/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">10</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1143/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1143x1146</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1143x1146/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1144x1153</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1144x1153/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1146</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1146/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXII</span></a>;
+ <span class="date">1147</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1147/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCVII</span></a>,
+ <a href="../cite/Radulfus/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Raudulfo</span> (<span class="case">abl</span>) <a href="../cite/Raudulfo/1147/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCVII</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1147x1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">44</span></a>;
+ <span class="date">c1150</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/c1150/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXIII</span></a>;
+ <span class="date">1152x1167</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1152x1167/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">131</span></a>;
+ <span class="date">1154</span> <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1154/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">27</span></a>;
+ <span class="date">c1156</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/c1156/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1160</span> <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1160/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXIV</span></a>;
+ <span class="date">1162</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1162/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXIII</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">40</span></a>;
+ <span class="date">1163</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1163/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCVI</span></a>,
+ <a href="../cite/Radulfi/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">99</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1163/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCVI</span></a>;
+ <span class="date">1163–64</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1163–64/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">108</span></a>;
+ <span class="date">1163x1173</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1163x1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">156</span></a>;
+ <span class="date">1164</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1166</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1166/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XC</span></a>;
+ <span class="date">c1170</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/c1170/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXIV</span></a>,
+ <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/c1170/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XCIII</span></a>;
+ <span class="date">1170</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1170/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">137</span></a>;
+ <span class="date">1171</span> <span class="name">Raduffus</span> (<span class="case">nom</span>) <a href="../cite/Raduffus/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">145</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">142</span></a>;
+ <span class="date">1172</span> <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/1172/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">149</span></a>;
+ <span class="date">1173</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">157</span></a>;
+ <span class="date">1175</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1175/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">162</span></a>;
+ <span class="date">1178</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1178/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">167</span></a>;
+ <span class="date">1179</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">169</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1187</span> <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/1187/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LVII</span></a>;
+ <span class="date">1199</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1199/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXVII</span></a>;
+ <span class="date">1207</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1207/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XLII</span></a>,
+ <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/1207/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXIX</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1207/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXIX</span></a>;
+ <span class="date">1209</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1209/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LII</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1209/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LII</span></a>;
+ <span class="date">1214</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1214/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXLI</span></a>;
+ <span class="date">1221</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1221/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXIII</span></a>;
+ <span class="date">1236</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1236/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">L</span></a>;
+ <span class="date">1243</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1243/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVIII</span></a>;
+ <span class="date">1257</span> <span class="name">Radulpho</span> (<span class="case">abl</span>) <a href="../cite/Radulpho/1257/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XXII, Pentecost</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1257/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">VI, St. Martin</span></a>;
+ <span class="date">1258</span> <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXX, Candlemas</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVII, Pentecost</span></a>;
+ <span class="date">1260</span> <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII, Ascension</span></a>,
+ <span class="name">Radulpho</span> (<span class="case">abl</span>) <a href="../cite/Radulpho/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">X, Ascension</span></a>,
+ <span class="name">Radulphum</span> (<span class="case">acc</span>) <a href="../cite/Radulphum/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">V, Ascension</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">X, Ascension</span></a>;
+ <span class="date">1261</span> <span class="name">Radulphum</span> (<span class="case">acc</span>) <a href="../cite/Radulphum/1261/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">VI, BMV</span></a>;
+ <span class="date">1273</span> <span class="name">Raduphi</span> (<span class="case">gen</span>) <a href="../cite/Raduphi/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1275</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1275/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XLIV</span></a>;
+ <span class="date">1281</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1281/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CLII</span></a>,
+ <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1281/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CLII</span></a>;
+ <span class="date">1285</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1285/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">VII</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1285/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1285/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1300</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1300/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXX</span></a>,
+ <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1300/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXIX</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1300/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXIX</span></a>;
+ <span class="date">1301</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 209</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 218</span></a>,
+ <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 176</span></a>,
+ <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 178</span></a>;
+ <span class="date">1378</span> <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">58</span></a>,
+ <span class="name">Radulpho</span> (<span class="case">dat</span>) <a href="../cite/Radulpho/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1100</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1100/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1108</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1108/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1122</span> <span class="name">Radolfi</span> (<span class="case">gen</span>) <a href="../cite/Radolfi/1122/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">27</span></a>;
+ <span class="date">1130</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1130/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">63</span></a>;
+ <span class="date">1135</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1135/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>;
+ <span class="date">1147</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1147/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1180</span> <span class="name">Radolfus</span> (<span class="case">nom</span>) <a href="../cite/Radolfus/1180/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1191</span> <span class="name">Radulphus</span> (<span class="case">nom</span>) <a href="../cite/Radulphus/1191/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">38</span></a>;
+ <span class="date">1192</span> <span class="name">Radolphus</span> (<span class="case">nom</span>) <a href="../cite/Radolphus/1192/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>;
+ <span class="date">1208</span> <span class="name">Radolfus</span> (<span class="case">nom</span>) <a href="../cite/Radolfus/1208/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">124</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 7</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 3</span></a>;
+ <span class="date">1216x1272</span> <span class="name">Radulpho</span> (<span class="case">abl</span>) <a href="../cite/Radulpho/1216x1272/POSDu"><span class="bib_key">POSDu</span> <span class="bib_loc">VII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1251</span> <span class="name">Radolphus</span> (<span class="case">nom</span>) <a href="../cite/Radolphus/1251/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">141</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1115</span> <span class="name">Radulfo</span> (<span class="case">dat</span>) <a href="../cite/Radulfo/1115/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XXVIII</span></a>;
+ <span class="date">c1120</span> <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/c1120/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXV</span></a>;
+ <span class="date">1120</span> <span class="name">Radulfo</span> (<span class="case">dat</span>) <a href="../cite/Radulfo/1120/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVII</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1120/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVIII</span></a>;
+ <span class="date">1122</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1122/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLII</span></a>;
+ <span class="date">1376</span> <span class="name">Radulpho</span> (<span class="case">dat</span>) <a href="../cite/Radulpho/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1424</span> <span class="name">Radulphi</span> (<span class="case">gen</span>) <a href="../cite/Radulphi/1424/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">3</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1192</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1192/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCCVIII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1155/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1161</span> <span class="name">Radulfi</span> (<span class="case">gen</span>) <a href="../cite/Radulfi/1161/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1166</span> <span class="name">Radulfo</span> (<span class="case">abl</span>) <a href="../cite/Radulfo/1166/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1166/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>;
+ <span class="date">1188</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1188/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1215</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1215/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1220</span> <span class="name">Radulfus</span> (<span class="case">nom</span>) <a href="../cite/Radulfus/1220/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>N. Shiel, J. Uckelman, S.L. Uckelman. "Ralph". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Ralph.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

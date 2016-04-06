@@ -1,0 +1,480 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>MunDocIr</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>MunDocIr</dt>
+  <dd>J. T. Gilbert, editor. <em>Historic and Municipal Documents of Ireland, A.D. 1172-1320. From the Archives of the City of Dublin, etc.</em> London: Longmans, Green, and Co., 1870. Cambridge Library Collection facsimile, 2012.</dd>
+</dl>
+
+
+  <a href="../cite/Ace/fin12thC/MunDocIr">Ace</a>
+
+  <a href="../cite/Ada/fin12thC/MunDocIr">Ada</a>
+
+  <a href="../cite/Adam/fin12thC/MunDocIr">Adam</a>
+
+  <a href="../cite/Ade/fin12thC/MunDocIr">Ade</a>
+
+  <a href="../cite/Adlard/fin12thC/MunDocIr">Adlard</a>
+
+  <a href="../cite/Adlardus/fin12thC/MunDocIr">Adlardus</a>
+
+  <a href="../cite/Ailwardus/fin12thC/MunDocIr">Ailwardus</a>
+
+  <a href="../cite/Alan/fin12thC/MunDocIr">Alan</a>
+
+  <a href="../cite/Alanus/fin12thC/MunDocIr">Alanus</a>
+
+  <a href="../cite/Alewi/fin12thC/MunDocIr">Alewi</a>
+
+  <a href="../cite/Alexander/fin12thC/MunDocIr">Alexander</a>
+
+  <a href="../cite/Alexandri/fin12thC/MunDocIr">Alexandri</a>
+
+  <a href="../cite/Alfredus/fin12thC/MunDocIr">Alfredus</a>
+
+  <a href="../cite/Allardus/fin12thC/MunDocIr">Allardus</a>
+
+  <a href="../cite/Alured/fin12thC/MunDocIr">Alured</a>
+
+  <a href="../cite/Aluredus/fin12thC/MunDocIr">Aluredus</a>
+
+  <a href="../cite/Alwini/fin12thC/MunDocIr">Alwini</a>
+
+  <a href="../cite/Andreas/fin12thC/MunDocIr">Andreas</a>
+
+  <a href="../cite/Andree/fin12thC/MunDocIr">Andree</a>
+
+  <a href="../cite/Arnaldus/fin12thC/MunDocIr">Arnaldus</a>
+
+  <a href="../cite/Arnoldus/fin12thC/MunDocIr">Arnoldus</a>
+
+  <a href="../cite/Asilini/fin12thC/MunDocIr">Asilini</a>
+
+  <a href="../cite/Augerus/fin12thC/MunDocIr">Augerus</a>
+
+  <a href="../cite/Augustinus/fin12thC/MunDocIr">Augustinus</a>
+
+  <a href="../cite/Austini/fin12thC/MunDocIr">Austini</a>
+
+  <a href="../cite/Baldwinus/fin12thC/MunDocIr">Baldwinus</a>
+
+  <a href="../cite/Balwini/fin12thC/MunDocIr">Balwini</a>
+
+  <a href="../cite/Balwinus/fin12thC/MunDocIr">Balwinus</a>
+
+  <a href="../cite/Bartholomeus/fin12thC/MunDocIr">Bartholomeus</a>
+
+  <a href="../cite/Bastianus/fin12thC/MunDocIr">Bastianus</a>
+
+  <a href="../cite/Bearnardi/fin12thC/MunDocIr">Bearnardi</a>
+
+  <a href="../cite/Bearnardus/fin12thC/MunDocIr">Bearnardus</a>
+
+  <a href="../cite/Benedictus/fin12thC/MunDocIr">Benedictus</a>
+
+  <a href="../cite/Bernard/fin12thC/MunDocIr">Bernard</a>
+
+  <a href="../cite/Bernardi/fin12thC/MunDocIr">Bernardi</a>
+
+  <a href="../cite/Brian/fin12thC/MunDocIr">Brian</a>
+
+  <a href="../cite/Bricius/fin12thC/MunDocIr">Bricius</a>
+
+  <a href="../cite/Ceappmann/fin12thC/MunDocIr">Ceappmann</a>
+
+  <a href="../cite/Clemens/fin12thC/MunDocIr">Clemens</a>
+
+  <a href="../cite/Daniel/fin12thC/MunDocIr">Daniel</a>
+
+  <a href="../cite/Danielis/fin12thC/MunDocIr">Danielis</a>
+
+  <a href="../cite/Dauid/fin12thC/MunDocIr">Dauid</a>
+
+  <a href="../cite/David/fin12thC/MunDocIr">David</a>
+
+  <a href="../cite/Driu/fin12thC/MunDocIr">Driu</a>
+
+  <a href="../cite/Dunstani/fin12thC/MunDocIr">Dunstani</a>
+
+  <a href="../cite/Durant/fin12thC/MunDocIr">Durant</a>
+
+  <a href="../cite/Edrich/fin12thC/MunDocIr">Edrich</a>
+
+  <a href="../cite/Edrici/fin12thC/MunDocIr">Edrici</a>
+
+  <a href="../cite/Edwardus/fin12thC/MunDocIr">Edwardus</a>
+
+  <a href="../cite/Edwinus/fin12thC/MunDocIr">Edwinus</a>
+
+  <a href="../cite/Eilric/fin12thC/MunDocIr">Eilric</a>
+
+  <a href="../cite/Eilwardus/fin12thC/MunDocIr">Eilwardus</a>
+
+  <a href="../cite/Elias/fin12thC/MunDocIr">Elias</a>
+
+  <a href="../cite/Emme/fin12thC/MunDocIr">Emme</a>
+
+  <a href="../cite/Ernaldus/fin12thC/MunDocIr">Ernaldus</a>
+
+  <a href="../cite/Euerardus/fin12thC/MunDocIr">Euerardus</a>
+
+  <a href="../cite/Filippus/fin12thC/MunDocIr">Filippus</a>
+
+  <a href="../cite/Fin/fin12thC/MunDocIr">Fin</a>
+
+  <a href="../cite/Fulco/fin12thC/MunDocIr">Fulco</a>
+
+  <a href="../cite/Galfridus/fin12thC/MunDocIr">Galfridus</a>
+
+  <a href="../cite/Gerardus/fin12thC/MunDocIr">Gerardus</a>
+
+  <a href="../cite/Germein/fin12thC/MunDocIr">Germein</a>
+
+  <a href="../cite/Germundi/fin12thC/MunDocIr">Germundi</a>
+
+  <a href="../cite/Gerrardi/fin12thC/MunDocIr">Gerrardi</a>
+
+  <a href="../cite/Geruasius/fin12thC/MunDocIr">Geruasius</a>
+
+  <a href="../cite/Gilibertus/fin12thC/MunDocIr">Gilibertus</a>
+
+  <a href="../cite/Gillamori/fin12thC/MunDocIr">Gillamori</a>
+
+  <a href="../cite/Gillibertus/fin12thC/MunDocIr">Gillibertus</a>
+
+  <a href="../cite/Gocelinus/fin12thC/MunDocIr">Gocelinus</a>
+
+  <a href="../cite/Godafridi/fin12thC/MunDocIr">Godafridi</a>
+
+  <a href="../cite/Godafridus/fin12thC/MunDocIr">Godafridus</a>
+
+  <a href="../cite/Godrich/fin12thC/MunDocIr">Godrich</a>
+
+  <a href="../cite/Godwini/fin12thC/MunDocIr">Godwini</a>
+
+  <a href="../cite/Godwinus/fin12thC/MunDocIr">Godwinus</a>
+
+  <a href="../cite/Goldiue/fin12thC/MunDocIr">Goldiue</a>
+
+  <a href="../cite/Gregorius/fin12thC/MunDocIr">Gregorius</a>
+
+  <a href="../cite/Gudmundi/fin12thC/MunDocIr">Gudmundi</a>
+
+  <a href="../cite/Hadolf/fin12thC/MunDocIr">Hadolf</a>
+
+  <a href="../cite/Hadolfi/fin12thC/MunDocIr">Hadolfi</a>
+
+  <a href="../cite/Haraldi/fin12thC/MunDocIr">Haraldi</a>
+
+  <a href="../cite/Haraldus/fin12thC/MunDocIr">Haraldus</a>
+
+  <a href="../cite/Helias/fin12thC/MunDocIr">Helias</a>
+
+  <a href="../cite/Henricus/fin12thC/MunDocIr">Henricus</a>
+
+  <a href="../cite/Herbertus/fin12thC/MunDocIr">Herbertus</a>
+
+  <a href="../cite/Herbolot/fin12thC/MunDocIr">Herbolot</a>
+
+  <a href="../cite/Herebertus/fin12thC/MunDocIr">Herebertus</a>
+
+  <a href="../cite/Hernoldus/fin12thC/MunDocIr">Hernoldus</a>
+
+  <a href="../cite/Hubertus/fin12thC/MunDocIr">Hubertus</a>
+
+  <a href="../cite/Hugo/fin12thC/MunDocIr">Hugo</a>
+
+  <a href="../cite/Hugonis/fin12thC/MunDocIr">Hugonis</a>
+
+  <a href="../cite/Hunfridus/fin12thC/MunDocIr">Hunfridus</a>
+
+  <a href="../cite/Iacob/fin12thC/MunDocIr">Iacob</a>
+
+  <a href="../cite/Iacobi/fin12thC/MunDocIr">Iacobi</a>
+
+  <a href="../cite/Ingelram/fin12thC/MunDocIr">Ingelram</a>
+
+  <a href="../cite/Ingeramus/fin12thC/MunDocIr">Ingeramus</a>
+
+  <a href="../cite/Ingream/fin12thC/MunDocIr">Ingream</a>
+
+  <a href="../cite/Iohannes/fin12thC/MunDocIr">Iohannes</a>
+
+  <a href="../cite/Iohannis/fin12thC/MunDocIr">Iohannis</a>
+
+  <a href="../cite/Iosep/fin12thC/MunDocIr">Iosep</a>
+
+  <a href="../cite/Isaac/fin12thC/MunDocIr">Isaac</a>
+
+  <a href="../cite/Iuo/fin12thC/MunDocIr">Iuo</a>
+
+  <a href="../cite/Iuor/fin12thC/MunDocIr">Iuor</a>
+
+  <a href="../cite/Johannes/fin12thC/MunDocIr">Johannes</a>
+
+  <a href="../cite/Lambertus/fin12thC/MunDocIr">Lambertus</a>
+
+  <a href="../cite/Laurentius/fin12thC/MunDocIr">Laurentius</a>
+
+  <a href="../cite/Mainer/fin12thC/MunDocIr">Mainer</a>
+
+  <a href="../cite/Malger/fin12thC/MunDocIr">Malger</a>
+
+  <a href="../cite/Marci/fin12thC/MunDocIr">Marci</a>
+
+  <a href="../cite/Marcus/fin12thC/MunDocIr">Marcus</a>
+
+  <a href="../cite/Martinus/fin12thC/MunDocIr">Martinus</a>
+
+  <a href="../cite/Mathei/fin12thC/MunDocIr">Mathei</a>
+
+  <a href="../cite/Mathias/fin12thC/MunDocIr">Mathias</a>
+
+  <a href="../cite/Mauricius/fin12thC/MunDocIr">Mauricius</a>
+
+  <a href="../cite/Michaelis/fin12thC/MunDocIr">Michaelis</a>
+
+  <a href="../cite/Michel/fin12thC/MunDocIr">Michel</a>
+
+  <a href="../cite/Moricius/fin12thC/MunDocIr">Moricius</a>
+
+  <a href="../cite/Moriz/fin12thC/MunDocIr">Moriz</a>
+
+  <a href="../cite/Nichol/fin12thC/MunDocIr">Nichol</a>
+
+  <a href="../cite/Nicholaus/fin12thC/MunDocIr">Nicholaus</a>
+
+  <a href="../cite/Nicol/fin12thC/MunDocIr">Nicol</a>
+
+  <a href="../cite/Nicolaus/fin12thC/MunDocIr">Nicolaus</a>
+
+  <a href="../cite/Norber/fin12thC/MunDocIr">Norber</a>
+
+  <a href="../cite/Odo/fin12thC/MunDocIr">Odo</a>
+
+  <a href="../cite/Oen/fin12thC/MunDocIr">Oen</a>
+
+  <a href="../cite/Oliueri/fin12thC/MunDocIr">Oliueri</a>
+
+  <a href="../cite/Oliuerus/fin12thC/MunDocIr">Oliuerus</a>
+
+  <a href="../cite/Osbern/fin12thC/MunDocIr">Osbern</a>
+
+  <a href="../cite/Osberti/fin12thC/MunDocIr">Osberti</a>
+
+  <a href="../cite/Osbertus/fin12thC/MunDocIr">Osbertus</a>
+
+  <a href="../cite/Osebertus/fin12thC/MunDocIr">Osebertus</a>
+
+  <a href="../cite/Osmundus/fin12thC/MunDocIr">Osmundus</a>
+
+  <a href="../cite/Oun/fin12thC/MunDocIr">Oun</a>
+
+  <a href="../cite/Padin/fin12thC/MunDocIr">Padin</a>
+
+  <a href="../cite/Padinus/fin12thC/MunDocIr">Padinus</a>
+
+  <a href="../cite/Paen/fin12thC/MunDocIr">Paen</a>
+
+  <a href="../cite/Pagani/fin12thC/MunDocIr">Pagani</a>
+
+  <a href="../cite/Pain/fin12thC/MunDocIr">Pain</a>
+
+  <a href="../cite/Pere/fin12thC/MunDocIr">Pere</a>
+
+  <a href="../cite/Peres/fin12thC/MunDocIr">Peres</a>
+
+  <a href="../cite/Perus/fin12thC/MunDocIr">Perus</a>
+
+  <a href="../cite/Petrinus/fin12thC/MunDocIr">Petrinus</a>
+
+  <a href="../cite/Petrus/fin12thC/MunDocIr">Petrus</a>
+
+  <a href="../cite/Philipi/fin12thC/MunDocIr">Philipi</a>
+
+  <a href="../cite/Philippus/fin12thC/MunDocIr">Philippus</a>
+
+  <a href="../cite/Pilippus/fin12thC/MunDocIr">Pilippus</a>
+
+  <a href="../cite/Radulfi/fin12thC/MunDocIr">Radulfi</a>
+
+  <a href="../cite/Radulfus/fin12thC/MunDocIr">Radulfus</a>
+
+  <a href="../cite/Reginaldus/fin12thC/MunDocIr">Reginaldus</a>
+
+  <a href="../cite/Regnaldus/fin12thC/MunDocIr">Regnaldus</a>
+
+  <a href="../cite/Reignaldus/fin12thC/MunDocIr">Reignaldus</a>
+
+  <a href="../cite/Reimboldi/fin12thC/MunDocIr">Reimboldi</a>
+
+  <a href="../cite/Reimundi/fin12thC/MunDocIr">Reimundi</a>
+
+  <a href="../cite/Reinaldi/fin12thC/MunDocIr">Reinaldi</a>
+
+  <a href="../cite/Reiner/fin12thC/MunDocIr">Reiner</a>
+
+  <a href="../cite/Remundus/fin12thC/MunDocIr">Remundus</a>
+
+  <a href="../cite/Ricard/fin12thC/MunDocIr">Ricard</a>
+
+  <a href="../cite/Ricardi/fin12thC/MunDocIr">Ricardi</a>
+
+  <a href="../cite/Ricardus/fin12thC/MunDocIr">Ricardus</a>
+
+  <a href="../cite/Robert/fin12thC/MunDocIr">Robert</a>
+
+  <a href="../cite/Roberti/fin12thC/MunDocIr">Roberti</a>
+
+  <a href="../cite/Robertus/fin12thC/MunDocIr">Robertus</a>
+
+  <a href="../cite/Rodberti/fin12thC/MunDocIr">Rodberti</a>
+
+  <a href="../cite/Rodbertus/fin12thC/MunDocIr">Rodbertus</a>
+
+  <a href="../cite/Rodulfus/fin12thC/MunDocIr">Rodulfus</a>
+
+  <a href="../cite/Roger/fin12thC/MunDocIr">Roger</a>
+
+  <a href="../cite/Rogeri/fin12thC/MunDocIr">Rogeri</a>
+
+  <a href="../cite/Rogerus/fin12thC/MunDocIr">Rogerus</a>
+
+  <a href="../cite/Salamonis/fin12thC/MunDocIr">Salamonis</a>
+
+  <a href="../cite/Samson/fin12thC/MunDocIr">Samson</a>
+
+  <a href="../cite/Samsun/fin12thC/MunDocIr">Samsun</a>
+
+  <a href="../cite/Serle/fin12thC/MunDocIr">Serle</a>
+
+  <a href="../cite/Sigar/fin12thC/MunDocIr">Sigar</a>
+
+  <a href="../cite/Simon/fin12thC/MunDocIr">Simon</a>
+
+  <a href="../cite/Simonis/fin12thC/MunDocIr">Simonis</a>
+
+  <a href="../cite/Simund/fin12thC/MunDocIr">Simund</a>
+
+  <a href="../cite/Simundi/fin12thC/MunDocIr">Simundi</a>
+
+  <a href="../cite/Simundus/fin12thC/MunDocIr">Simundus</a>
+
+  <a href="../cite/Stefhanus/fin12thC/MunDocIr">Stefhanus</a>
+
+  <a href="../cite/Stephani/fin12thC/MunDocIr">Stephani</a>
+
+  <a href="../cite/Stephanus/fin12thC/MunDocIr">Stephanus</a>
+
+  <a href="../cite/Swein/fin12thC/MunDocIr">Swein</a>
+
+  <a href="../cite/Teubold/fin12thC/MunDocIr">Teubold</a>
+
+  <a href="../cite/Thomas/fin12thC/MunDocIr">Thomas</a>
+
+  <a href="../cite/Tilaman/fin12thC/MunDocIr">Tilaman</a>
+
+  <a href="../cite/Tomas/fin12thC/MunDocIr">Tomas</a>
+
+  <a href="../cite/Torkaill/fin12thC/MunDocIr">Torkaill</a>
+
+  <a href="../cite/Torsten/fin12thC/MunDocIr">Torsten</a>
+
+  <a href="../cite/Turbeorn/fin12thC/MunDocIr">Turbeorn</a>
+
+  <a href="../cite/Turchel/fin12thC/MunDocIr">Turchel</a>
+
+  <a href="../cite/Turstein/fin12thC/MunDocIr">Turstein</a>
+
+  <a href="../cite/Turstin/fin12thC/MunDocIr">Turstin</a>
+
+  <a href="../cite/Turstini/fin12thC/MunDocIr">Turstini</a>
+
+  <a href="../cite/Turstinus/fin12thC/MunDocIr">Turstinus</a>
+
+  <a href="../cite/Unfri/fin12thC/MunDocIr">Unfri</a>
+
+  <a href="../cite/Vincentius/fin12thC/MunDocIr">Vincentius</a>
+
+  <a href="../cite/Viuianus/fin12thC/MunDocIr">Viuianus</a>
+
+  <a href="../cite/Vnfrei/fin12thC/MunDocIr">Vnfrei</a>
+
+  <a href="../cite/Waci/fin12thC/MunDocIr">Waci</a>
+
+  <a href="../cite/Walter/fin12thC/MunDocIr">Walter</a>
+
+  <a href="../cite/Walteri/fin12thC/MunDocIr">Walteri</a>
+
+  <a href="../cite/Walterus/fin12thC/MunDocIr">Walterus</a>
+
+  <a href="../cite/Warin/fin12thC/MunDocIr">Warin</a>
+
+  <a href="../cite/Warinus/fin12thC/MunDocIr">Warinus</a>
+
+  <a href="../cite/Willekin/fin12thC/MunDocIr">Willekin</a>
+
+  <a href="../cite/Willielmi/fin12thC/MunDocIr">Willielmi</a>
+
+  <a href="../cite/Willielmus/fin12thC/MunDocIr">Willielmus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

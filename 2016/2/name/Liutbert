@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Liutbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Liutbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>liut</i> 'people' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C king of the Lombards.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1212x1213</span> <span class="name">Liebertus</span> (<span class="case">nom</span>) <a href="../cite/Liebertus/1212x1213/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">2</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1405</span> <span class="name">Lubberd</span> <a href="../cite/Lubberd/1405/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1413</span> <span class="name">Lubberd</span> <a href="../cite/Lubberd/1413/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1415</span> <span class="name">Lubberd</span> <a href="../cite/Lubberd/1415/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1429</span> <span class="name">Lubert</span> <a href="../cite/Lubert/1429/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 354</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Leutbertus</span> (<span class="case">nom</span>) <a href="../cite/Leutbertus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">36, CE</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Liutberth</span> (<span class="case">nom</span>) <a href="../cite/Liutberth/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§28</span></a>;
+ <span class="date">842</span> <span class="name">Liutberti</span> (<span class="case">gen</span>) <a href="../cite/Liutberti/842/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">X</span></a>;
+ <span class="date">871</span> <span class="name">Luitberti</span> (<span class="case">gen</span>) <a href="../cite/Luitberti/871/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">45</span></a>;
+ <span class="date">882</span> <span class="name">Liutberti</span> (<span class="case">gen</span>) <a href="../cite/Liutberti/882/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">96</span></a>;
+ <span class="date">887</span> <span class="name">Luiberti</span> (<span class="case">nom</span>) <a href="../cite/Luiberti/887/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1100</span> <span class="name">Lubertus</span> (<span class="case">nom</span>) <a href="../cite/Lubertus/1100/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1108</span> <span class="name">Lietbertus</span> (<span class="case">nom</span>) <a href="../cite/Lietbertus/1108/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1151</span> <span class="name">Leupreht</span> (<span class="case">nom</span>) <a href="../cite/Leupreht/1151/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">XXXVII</span></a>;
+ <span class="date">1197</span> <span class="name">Lutbertus</span> (<span class="case">nom</span>) <a href="../cite/Lutbertus/1197/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1229</span> <span class="name">Lutbertus</span> (<span class="case">nom</span>) <a href="../cite/Lutbertus/1229/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1259</span> <span class="name">Lutbertus</span> (<span class="case">nom</span>) <a href="../cite/Lutbertus/1259/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1401</span> <span class="name">liberto</span> (<span class="case">dat</span>) <a href="../cite/liberto/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 402</span></a>,
+ <span class="name">lieberto</span> (<span class="case">dat</span>) <a href="../cite/lieberto/1401/HD1401"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 381</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1287</span> <span class="name">Lubberto</span> (<span class="case">dat</span>) <a href="../cite/Lubberto/1287/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">122</span></a>;
+ <span class="date">1289</span> <span class="name">Luberto</span> (<span class="case">dat</span>) <a href="../cite/Luberto/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">128</span></a>;
+ <span class="date">1293</span> <span class="name">Ludbertus</span> (<span class="case">nom</span>) <a href="../cite/Ludbertus/1293/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">241</span></a>;
+ <span class="date">1294</span> <span class="name">Ludberto</span> (<span class="case">dat</span>) <a href="../cite/Ludberto/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">164</span></a>;
+ <span class="date">1297</span> <span class="name">Luberto</span> (<span class="case">dat</span>) <a href="../cite/Luberto/1297/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">259</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1288</span> <span class="name">Lubbert</span> (<span class="case">nom</span>) <a href="../cite/Lubbert/1288/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 296</span></a>,
+ <span class="name">luberti</span> (<span class="case">gen</span>) <a href="../cite/luberti/1288/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 296</span></a>;
+ <span class="date">1330</span> <span class="name">Lubbertus</span> (<span class="case">nom</span>) <a href="../cite/Lubbertus/1330/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 299</span></a>;
+ <span class="date">1373</span> <span class="name">lubbertus</span> (<span class="case">nom</span>) <a href="../cite/lubbertus/1373/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303</span></a>;
+ <span class="date">1387</span> <span class="name">lubbertus</span> (<span class="case">nom</span>) <a href="../cite/lubbertus/1387/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1284</span> <span class="name">lubekini</span> (<span class="case">gen</span>) <a href="../cite/lubekini/1284/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 296</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Liutbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Liutbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

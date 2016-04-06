@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Honora</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Honora</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>honor</i> 'honor; esteem, regard'.
+</span>
+  
+</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1542</span> <span class="name">Honor</span> <a href="../cite/Honor/1542/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1543</span> <span class="name">Honor</span> <a href="../cite/Honor/1543/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1556</span> <span class="name">Honor</span> <a href="../cite/Honor/1556/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1564</span> <span class="name">Honor</span> <a href="../cite/Honor/1564/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1578</span> <span class="name">Honor</span> <a href="../cite/Honor/1578/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 92</span></a>;
+ <span class="date">1583</span> <span class="name">Honour</span> <a href="../cite/Honour/1583/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1584</span> <span class="name">Honer</span> <a href="../cite/Honer/1584/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 128</span></a>,
+ <span class="name">Honour</span> <a href="../cite/Honour/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1586</span> <span class="name">Honer</span> <a href="../cite/Honer/1586/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 128</span></a>;
+ <span class="date">1588</span> <span class="name">Honour</span> <a href="../cite/Honour/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1590</span> <span class="name">Honor</span> <a href="../cite/Honor/1590/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>,
+ <a href="../cite/Honor/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1591</span> <span class="name">Honor</span> <a href="../cite/Honor/1591/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1592</span> <span class="name">Honour</span> <a href="../cite/Honour/1592/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1593</span> <span class="name">Honor</span> <a href="../cite/Honor/1593/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1594</span> <span class="name">Honour</span> <a href="../cite/Honour/1594/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1595</span> <span class="name">Honour</span> <a href="../cite/Honour/1595/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1596</span> <span class="name">Honour</span> <a href="../cite/Honour/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1597</span> <span class="name">Honour</span> <a href="../cite/Honour/1597/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 102</span></a>,
+ <a href="../cite/Honour/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1598</span> <span class="name">Honor</span> <a href="../cite/Honor/1598/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 73</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1179</span> <span class="name">Honors</span> (<span class="case">abl</span>) <a href="../cite/Honors/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">179</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Honor</span> (<span class="case">nom</span>) <a href="../cite/Honor/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">24</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Honora". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Honora.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

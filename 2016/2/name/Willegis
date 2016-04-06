@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Willegis</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Willegis</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>willo</i> 'will' + <span class="lang">Old High German</span> <i>gīsal</i> 'pledge, hostage'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an 11th C German saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">974</span> <span class="name">Vuilligisus</span> (<span class="case">nom</span>) <a href="../cite/Vuilligisus/974/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">89</span></a>;
+ <span class="date">983</span> <span class="name">Uuilligisi</span> (<span class="case">gen</span>) <a href="../cite/Uuilligisi/983/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XLVI</span></a>;
+ <span class="date">985</span> <span class="name">Willigisi</span> (<span class="case">gen</span>) <a href="../cite/Willigisi/985/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">90</span></a>;
+ <span class="date">988</span> <span class="name">Uuilligisi</span> (<span class="case">gen</span>) <a href="../cite/Uuilligisi/988/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">LI</span></a>,
+ <span class="name">Willigisi</span> (<span class="case">gen</span>) <a href="../cite/Willigisi/988/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XLIX</span></a>;
+ <span class="date">997</span> <span class="name">Wiligisi</span> (<span class="case">gen</span>) <a href="../cite/Wiligisi/997/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">91</span></a>,
+ <span class="name">Willegisi</span> (<span class="case">gen</span>) <a href="../cite/Willegisi/997/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Willigisi</span> (<span class="case">gen</span>) <a href="../cite/Willigisi/997/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>;
+ <span class="date">1000</span> <span class="name">Willigisi</span> (<span class="case">gen</span>) <a href="../cite/Willigisi/1000/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1001</span> <span class="name">Uuilligisi</span> (<span class="case">gen</span>) <a href="../cite/Uuilligisi/1001/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">LV</span></a>;
+ <span class="date">1003</span> <span class="name">Willigisi</span> (<span class="case">gen</span>) <a href="../cite/Willigisi/1003/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">LVI</span></a>;
+ <span class="date">1005</span> <span class="name">Uuillegisi</span> (<span class="case">gen</span>) <a href="../cite/Uuillegisi/1005/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">56</span></a>,
+ <span class="name">Wilsegisi</span> (<span class="case">gen</span>) <a href="../cite/Wilsegisi/1005/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">20</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Willegis". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 1. http://dmnes.org/2016/1/name/Willegis.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>
