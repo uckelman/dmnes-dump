@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'FreeSerif';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/FreeSerifSubset.eot?') format('embedded-opentype'),
+       url('../fonts/FreeSerifSubset.woff') format('woff'),
+       url('../fonts/FreeSerifSubset.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FreeSerif';
+  font-style: italic;
+  font-weight: normal;
+  src: url('../fonts/FreeSerifItalicSubset.eot?') format('embedded-opentype'),
+       url('../fonts/FreeSerifItalicSubset.woff') format('woff'),
+       url('../fonts/FreeSerifItalicSubset.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FreeSans';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/FreeSansSubset.eot?') format('embedded-opentype'),
+       url('../fonts/FreeSansSubset.woff') format('woff'),
+       url('../fonts/FreeSansSubset.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FreeMono';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/FreeMonoSubset.eot?') format('embedded-opentype'),
+       url('../fonts/FreeMonoSubset.woff') format('woff'),
+       url('../fonts/FreeMonoSubset.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FreeSerifNoItalicFallback';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/FreeSerifSubset.eot?') format('embedded-opentype'),
+       url('../fonts/FreeSerifSubset.woff') format('woff'),
+       url('../fonts/FreeSerifSubset.ttf') format('truetype');
+}

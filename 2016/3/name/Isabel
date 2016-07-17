@@ -1,0 +1,377 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Isabel</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Isabel</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Old Provençal</span> <i>Elisabel</i> '<a class="nym" href="Elizabeth">Elizabeth</a>'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 12th C queen of France, a 12th-13th C queen of Jerusalem, a 13th C French saint, a 13th C queen of Navarre, a 13th C queen consort of Aragon, a 13th C queen consort of France, a 13th C queen consort of England, a 13th C queen of Jerusalem, a 13th C Holy Roman empress, a 13th c queen of Armenia, two 13th C queens of Cyprus, a 13th C Hungarian saint, two 14th C queens consort of England, a 14th C queen consort of Germany, a 14th C queen consort of Portugal and saint, a 14th-15th C queen consort of Castile, Leon, and Aragon, a 14th-15th C queen consort of France, a 15th C queen consort of Portugal, a 15th C queen consort of Castile and Leon, a 16th C queen consort of Sweden, Denmark, and Norway, a 16th C queen consort of Hungary, and a 16th C Holy Roman empress and queen of Spain and Italy.</p>
+</div>
+  
+  
+<div class="def">
+  <p>Though in origin a form of <a class="nym" href="Elizabeth">Elizabeth</a>, and sometimes even by the 17th C still used as a pet name of it in England, it very quickly became considered a distinct name.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Isabel</span> (<span class="case">nom</span>) <a href="../cite/Isabel/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 118</span></a>,
+ <span class="name">Isabele</span> (<span class="case">nom</span>) <a href="../cite/Isabele/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 138</span></a>,
+ <span class="name">Ysabel</span> (<span class="case">nom</span>) <a href="../cite/Ysabel/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 156</span></a>;
+ <span class="date">1222</span> <span class="name">Isabella</span> (<span class="case">nom</span>) <a href="../cite/Isabella/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1256</span> <span class="name">Isabella</span> (<span class="case">nom</span>) <a href="../cite/Isabella/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1279–80</span> <span class="name">Isabella</span> (<span class="case">nom</span>) <a href="../cite/Isabella/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Isabelle</span> (<span class="case">gen</span>) <a href="../cite/Isabelle/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1296</span> <span class="name">Isabellam</span> (<span class="case">acc</span>) <a href="../cite/Isabellam/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 94b</span></a>,
+ <span class="name">Isabelli</span> (<span class="case">gen</span>) <a href="../cite/Isabelli/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94b</span></a>;
+ <span class="date">1300</span> <span class="name">Isabella</span> (<span class="case">nom</span>) <a href="../cite/Isabella/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 240</span></a>;
+ <span class="date">1329</span> <span class="name">Isabella</span> (<span class="case">nom</span>) <a href="../cite/Isabella/1329/PSS-CXIV"><span class="bib_key">PSS-CXIV</span> <span class="bib_loc">4c</span></a>;
+ <span class="date">1331</span> <span class="name">Isabella</span> (<span class="case">nom</span>) <a href="../cite/Isabella/1331/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">4e</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Isabel</span> (<span class="case">nom</span>) <a href="../cite/Isabel/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Isabell</span> (<span class="case">nom</span>) <a href="../cite/Isabell/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Isabella</span> (<span class="case">nom</span>) <a href="../cite/Isabella/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Isabelle</span> (<span class="case">nom</span>) <a href="../cite/Isabelle/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Issabella</span> (<span class="case">nom</span>) <a href="../cite/Issabella/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1377</span> <span class="name">Isabella</span> (<span class="case">nom</span>) <a href="../cite/Isabella/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Isabelle</span> (<span class="case">gen</span>) <a href="../cite/Isabelle/1377/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1381</span> <span class="name">Hesabel</span> (<span class="case">nom</span>) <a href="../cite/Hesabel/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 96</span></a>,
+ <span class="name">Hisabella</span> (<span class="case">nom</span>) <a href="../cite/Hisabella/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 96</span></a>,
+ <span class="name">Hissabel</span> (<span class="case">nom</span>) <a href="../cite/Hissabel/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 96</span></a>,
+ <span class="name">Isabell</span> (<span class="case">nom</span>) <a href="../cite/Isabell/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 119</span></a>,
+ <span class="name">Isabella</span> (<span class="case">nom</span>) <a href="../cite/Isabella/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Isabella/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 68</span></a>,
+ <span class="name">Issabella</span> (<span class="case">abl</span>) <a href="../cite/Issabella/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 89</span></a>;
+ <span class="date">1431</span> <span class="name">Isabellæ</span> (<span class="case">dat</span>) <a href="../cite/Isabellæ/1431/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LVI</span></a>;
+ <span class="date">1435</span> <span class="name">Isabellæ</span> (<span class="case">dat</span>) <a href="../cite/Isabellæ/1435/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LVII</span></a>;
+ <span class="date">1553</span> <span class="name">Isabella</span> (<span class="case">nom</span>) <a href="../cite/Isabella/1553/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1559</span> <span class="name">Isabell</span> (<span class="case">nom</span>) <a href="../cite/Isabell/1559/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1559/60</span> <span class="name">Isabella</span> (<span class="case">nom</span>) <a href="../cite/Isabella/1559s60/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1572</span> <span class="name">Izabella</span> (<span class="case">nom</span>) <a href="../cite/Izabella/1572/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1377</span> <span class="name">Ibota</span> (<span class="case">nom</span>) <a href="../cite/Ibota/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1411</span> <span class="name">ysabell</span> <a href="../cite/ysabell/1411/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1415</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1415/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>,
+ <span class="name">Isabelle</span> <a href="../cite/Isabelle/1415/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1419–20</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1419–20/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1420</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1420/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1431–32</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1431–32/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91</span></a>;
+ <span class="date">1434–35</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1434–35/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 103</span></a>;
+ <span class="date">1439</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1439/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 116</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1475</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1475/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1516</span> <span class="name">Esebell</span> <a href="../cite/Esebell/1516/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXV</span></a>;
+ <span class="date">1524</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1524/SRS-XXI"><span class="bib_key">SRS-XXI</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1530</span> <span class="name">Esabell</span> <a href="../cite/Esabell/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Issabell</span> <a href="../cite/Issabell/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1531</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1531/SRS-XXI"><span class="bib_key">SRS-XXI</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1531/SRS-XXI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1532–1533</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1532–1533/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1533</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1533/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXII</span></a>;
+ <span class="date">1534</span> <span class="name">Isabella</span> <a href="../cite/Isabella/1534/DU-DSMMar"><span class="bib_key">DU-DSMMar</span></a>;
+ <span class="date">1540</span> <span class="name">Esbel</span> <a href="../cite/Esbel/1540/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Esbell</span> <a href="../cite/Esbell/1540/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1540/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXVI</span></a>;
+ <span class="date">1543</span> <span class="name">Essabell</span> <a href="../cite/Essabell/1543/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Isabel</span> <a href="../cite/Isabel/1543/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XC</span></a>;
+ <span class="date">1544</span> <span class="name">Esbell</span> <a href="../cite/Esbell/1544/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1545</span> <span class="name">Esbell</span> <a href="../cite/Esbell/1545/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1546</span> <span class="name">Esbell</span> <a href="../cite/Esbell/1546/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1547</span> <span class="name">Esbell</span> <a href="../cite/Esbell/1547/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Isbell</span> <a href="../cite/Isbell/1547/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 115</span></a>,
+ <span class="name">Ysabel</span> <a href="../cite/Ysabel/1547/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Yssabyll</span> <a href="../cite/Yssabyll/1547/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCIV</span></a>;
+ <span class="date">1548</span> <span class="name">Esbell</span> <a href="../cite/Esbell/1548/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1549</span> <span class="name">Issable</span> <a href="../cite/Issable/1549/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1550</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1550/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCV</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1550/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 108</span></a>,
+ <a href="../cite/Isabell/1550/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCV</span></a>;
+ <span class="date">1551</span> <span class="name">Esbell</span> <a href="../cite/Esbell/1551/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1551/2</span> <span class="name">Issabell</span> <a href="../cite/Issabell/1551s2/RegIng"><span class="bib_key">RegIng</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1552</span> <span class="name">Esbell</span> <a href="../cite/Esbell/1552/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1552/RegIng"><span class="bib_key">RegIng</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1553</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1553/RegIng"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Isbell</span> <a href="../cite/Isbell/1553/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1555</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1555/RegIng"><span class="bib_key">RegIng</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Isbell</span> <a href="../cite/Isbell/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1555/6</span> <span class="name">Issabell</span> <a href="../cite/Issabell/1555s6/RegIng"><span class="bib_key">RegIng</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1555</span> <span class="name">Izabell</span> <a href="../cite/Izabell/1555/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1556</span> <span class="name">Issable</span> <a href="../cite/Issable/1556/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1557</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1557/PRThirsk"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Issabell</span> <a href="../cite/Issabell/1557/PRThirsk"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1558</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1558/DU-DSMMar"><span class="bib_key">DU-DSMMar</span></a>,
+ <span class="name">Isbell</span> <a href="../cite/Isbell/1558/SOmar-vol9"><span class="bib_key">SOmar-vol9</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/Isbell/1558/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1559</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1559/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 60</span></a>,
+ <a href="../cite/Isabell/1559/DU-DSMMar"><span class="bib_key">DU-DSMMar</span></a>,
+ <span class="name">Isobell</span> <a href="../cite/Isobell/1559/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 147</span></a>;
+ <span class="date">1560</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1560/DU-DSMMar"><span class="bib_key">DU-DSMMar</span></a>,
+ <a href="../cite/Isabell/1560/SOmar-vol9"><span class="bib_key">SOmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Isbell</span> <a href="../cite/Isbell/1560/DU-DSMMar"><span class="bib_key">DU-DSMMar</span></a>,
+ <a href="../cite/Isbell/1560/SOmar-vol9"><span class="bib_key">SOmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Isobell</span> <a href="../cite/Isobell/1560/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1561</span> <span class="name">Esbell</span> <a href="../cite/Esbell/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1562</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1562/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1563</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1563/RegIng"><span class="bib_key">RegIng</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Isobell</span> <a href="../cite/Isobell/1563/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p.3</span></a>;
+ <span class="date">1564</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1564/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1565</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1565/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Isabell/1565/RegIng"><span class="bib_key">RegIng</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1565/6</span> <span class="name">Isbell</span> <a href="../cite/Isbell/1565s6/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1565</span> <span class="name">Isbell</span> <a href="../cite/Isbell/1565/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1569</span> <span class="name">Esabel</span> <a href="../cite/Esabel/1569/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 61</span></a>,
+ <span class="name">Isobell</span> <a href="../cite/Isobell/1569/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1571</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1571/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1572</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1572/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p.61</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1572/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Isabell/1572/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 97</span></a>,
+ <span class="name">Isobell</span> <a href="../cite/Isobell/1572/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1574</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1574/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1575</span> <span class="name">Isabill</span> <a href="../cite/Isabill/1575/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 91</span></a>;
+ <span class="date">1577</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1577/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 62</span></a>,
+ <span class="name">Isobell</span> <a href="../cite/Isobell/1577/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1578</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1578/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 131</span></a>,
+ <span class="name">Isobell</span> <a href="../cite/Isobell/1578/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1580</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1580/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 63</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1580/BUmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 117</span></a>;
+ <span class="date">1581</span> <span class="name">Isbell</span> <a href="../cite/Isbell/1581/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Issable</span> <a href="../cite/Issable/1581/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1583</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1583/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 63</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1583/BUmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 117</span></a>,
+ <span class="name">Izabell</span> <a href="../cite/Izabell/1583/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1585</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1585/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 64</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1585/BUmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 117</span></a>,
+ <a href="../cite/Isabell/1585/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 14</span></a>,
+ <a href="../cite/Isabell/1585/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 129</span></a>;
+ <span class="date">1586</span> <span class="name">Ezabell</span> <a href="../cite/Ezabell/1586/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Isabele</span> <a href="../cite/Isabele/1586/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1586/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1588</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1588/Bar-in-El"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1590</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1590/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 65</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1590/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Isbell</span> <a href="../cite/Isbell/1590/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1591</span> <span class="name">Isbell</span> <a href="../cite/Isbell/1591/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 50</span></a>,
+ <span class="name">Isobell</span> <a href="../cite/Isobell/1591/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1592</span> <span class="name">Esbell</span> <a href="../cite/Esbell/1592/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1592/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p.3</span></a>,
+ <a href="../cite/Isabell/1592/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Isbell</span> <a href="../cite/Isbell/1592/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 35</span></a>,
+ <span class="name">Isobell</span> <a href="../cite/Isobell/1592/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1593</span> <span class="name">Isbell</span> <a href="../cite/Isbell/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1594</span> <span class="name">Esabell</span> <a href="../cite/Esabell/1594/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Isabel</span> <a href="../cite/Isabel/1594/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 65</span></a>,
+ <span class="name">Isabell</span> <a href="../cite/Isabell/1594/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 131</span></a>,
+ <span class="name">Isobell</span> <a href="../cite/Isobell/1594/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1595</span> <span class="name">Isobell</span> <a href="../cite/Isobell/1595/BUmar-vol9"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1596</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1597</span> <span class="name">Isbell</span> <a href="../cite/Isbell/1597/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Izabell</span> <a href="../cite/Izabell/1597/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1598</span> <span class="name">Issabell</span> <a href="../cite/Issabell/1598/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p.76</span></a>;
+ <span class="date">1599</span> <span class="name">Isabell</span> <a href="../cite/Isabell/1599/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 50</span></a>,
+ <span class="name">Isbell</span> <a href="../cite/Isbell/1599/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Isobell</span> <a href="../cite/Isobell/1599/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 10</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1539</span> <span class="name">Bayll</span> <a href="../cite/Bayll/1539/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXV</span></a>,
+ <span class="name">Bell</span> <a href="../cite/Bell/1539/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXV</span></a>,
+ <span class="name">Beyll</span> <a href="../cite/Beyll/1539/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXV</span></a>;
+ <span class="date">1565</span> <span class="name">Ebbatt</span> <a href="../cite/Ebbatt/1565/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 126</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1345–1346</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1345–1346/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 141</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1135</span> <span class="name">Ysabel</span> (<span class="case">nom</span>) <a href="../cite/Ysabel/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">a1147</span> <span class="name">Ysabel</span> (<span class="case">abl</span>) <a href="../cite/Ysabel/a1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1147</span> <span class="name">Isabel</span> (<span class="case">abl</span>) <a href="../cite/Isabel/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Isabels</span> (<span class="case">nom</span>) <a href="../cite/Isabels/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Isabel</span> (<span class="case">abl</span>) <a href="../cite/Isabel/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>,
+ <span class="name">Isabele</span> (<span class="case">abl</span>) <a href="../cite/Isabele/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>,
+ <span class="name">Ysabel</span> (<span class="case">nom</span>) <a href="../cite/Ysabel/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">52</span></a>,
+ <span class="name">Ysabele</span> (<span class="case">abl</span>) <a href="../cite/Ysabele/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1169</span> <span class="name">Hisabel</span> (<span class="case">nom</span>) <a href="../cite/Hisabel/1169/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">136</span></a>;
+ <span class="date">1238</span> <span class="name">Isabellis</span> (<span class="case">gen</span>) <a href="../cite/Isabellis/1238/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXLV</span></a>;
+ <span class="date">1241</span> <span class="name">Ysabella</span> (<span class="case">abl</span>) <a href="../cite/Ysabella/1241/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XVIII</span></a>,
+ <span class="name">Ysabellam</span> (<span class="case">acc</span>) <a href="../cite/Ysabellam/1241/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XVIII</span></a>,
+ <span class="name">Ysabelle</span> (<span class="case">gen</span>) <a href="../cite/Ysabelle/1241/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XVIII</span></a>;
+ <span class="date">1258</span> <span class="name">Ysabella</span> (<span class="case">nom</span>) <a href="../cite/Ysabella/1258/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XIX, Candlemas</span></a>;
+ <span class="date">1260</span> <span class="name">Ysabelle</span> (<span class="case">gen</span>) <a href="../cite/Ysabelle/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII, Ascension</span></a>;
+ <span class="date">1277</span> <span class="name">Ysabella</span> (<span class="case">nom</span>) <a href="../cite/Ysabella/1277/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXII</span></a>;
+ <span class="date">1301</span> <span class="name">Isabelle</span> (<span class="case">gen</span>) <a href="../cite/Isabelle/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 253</span></a>,
+ <span class="name">Ysabeau</span> (<span class="case">nom</span>) <a href="../cite/Ysabeau/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 200</span></a>,
+ <span class="name">Ysabella</span> (<span class="case">nom</span>) <a href="../cite/Ysabella/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 200</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Ysabel</span> <a href="../cite/Ysabel/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Yzabel</span> <a href="../cite/Yzabel/1296/paris1296"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Yzabiau</span> <a href="../cite/Yzabiau/1296/paris1296"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1301</span> <span class="name">Ysabel</span> (<span class="case">obl</span>) <a href="../cite/Ysabel/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 335 [p. 235]</span></a>,
+ <span class="name">Ysabiaus</span> (<span class="case">nom</span>) <a href="../cite/Ysabiaus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 237</span></a>;
+ <span class="date">1303</span> <span class="name">Ysabel</span> (<span class="case">nom</span>) <a href="../cite/Ysabel/1303/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 153</span></a>,
+ <span class="name">Yssabel</span> (<span class="case">nom</span>) <a href="../cite/Yssabel/1303/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 152</span></a>;
+ <span class="date">1313</span> <span class="name">Isabiau</span> <a href="../cite/Isabiau/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="name">Ysabel</span> <a href="../cite/Ysabel/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a>,
+ <span class="name">Ysabiau</span> <a href="../cite/Ysabiau/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1421</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">268</span></a>,
+ <span class="name">Ysabeau</span> <a href="../cite/Ysabeau/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">481</span></a>,
+ <span class="name">Ysabel</span> <a href="../cite/Ysabel/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">833</span></a>;
+ <span class="date">1423</span> <span class="name">Ysabeau</span> <a href="../cite/Ysabeau/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">51</span></a>;
+ <span class="date">1438</span> <span class="name">Ysabeau</span> <a href="../cite/Ysabeau/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">148</span></a>;
+ <span class="date">1455</span> <span class="name">Isabeau</span> <a href="../cite/Isabeau/1455/HRAVP-3"><span class="bib_key">HRAVP-3</span> <span class="bib_loc">p. 354</span></a>,
+ <span class="name">Isabelle</span> <a href="../cite/Isabelle/1455/HRAVP-3"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 353</span></a>;
+ <span class="date">1562</span> <span class="name">Isabeau</span> <a href="../cite/Isabeau/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1563</span> <span class="name">Isabeau</span> <a href="../cite/Isabeau/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>,
+ <span class="name">Ysabeau</span> <a href="../cite/Ysabeau/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1564</span> <span class="name">Ysabeau</span> <a href="../cite/Ysabeau/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1565</span> <span class="name">Ysabeau</span> <a href="../cite/Ysabeau/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1566</span> <span class="name">Isabeau</span> <a href="../cite/Isabeau/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 264</span></a>,
+ <span class="name">Ysabeau</span> <a href="../cite/Ysabeau/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 197</span></a>;
+ <span class="date">1567</span> <span class="name">Isabeau</span> <a href="../cite/Isabeau/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 289</span></a>,
+ <span class="name">Ysabeau</span> <a href="../cite/Ysabeau/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 279</span></a>;
+ <span class="date">1568</span> <span class="name">Ysabeau</span> <a href="../cite/Ysabeau/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 369</span></a>;
+ <span class="date">1570</span> <span class="name">Ysabeau</span> <a href="../cite/Ysabeau/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 425</span></a>;
+ <span class="date">1571</span> <span class="name">Ysabeau</span> <a href="../cite/Ysabeau/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 438</span></a>;
+ <span class="date">1595</span> <span class="name">Yzabeau</span> <a href="../cite/Yzabeau/1595/Toureille"><span class="bib_key">Toureille</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Bellon</span> <a href="../cite/Bellon/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">988</span></a>,
+ <span class="name">Ysabelet</span> <a href="../cite/Ysabelet/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">603</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Yçabelli</span> (<span class="case">gen</span>) <a href="../cite/Yçabelli/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">390</span></a>;
+ <span class="date">1269</span> <span class="name">Ysabelli</span> (<span class="case">gen</span>) <a href="../cite/Ysabelli/1269/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLI</span></a>;
+ <span class="date">1285</span> <span class="name">Ysabelle</span> (<span class="case">gen</span>) <a href="../cite/Ysabelle/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 156</span></a>;
+ <span class="date">1514</span> <span class="name">Isabella</span> (<span class="case">nom</span>) <a href="../cite/Isabella/1514/Rossi-StudiStoria"><span class="bib_key">Rossi-StudiStoria</span> <span class="bib_loc">p. 274</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Ysabella</span> (<span class="case">nom</span>) <a href="../cite/Ysabella/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 51, 12</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Isabelle</span> (<span class="case">dat</span>) <a href="../cite/Isabelle/1392/CartLevenax"><span class="bib_key">CartLevenax</span> <span class="bib_loc">p. 11</span></a></dd>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1543/PGB"><span class="bib_key">PGB</span></a>;
+ <span class="date">1546</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1546/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1548</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1548/PGB"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Issabella</span> <a href="../cite/Issabella/1548/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1550</span> <span class="name">Isabella</span> <a href="../cite/Isabella/1550/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">c1550</span> <span class="name">Isbell</span> <a href="../cite/Isbell/c1550/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">p. xxv</span></a>;
+ <span class="date">1552</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1552/PGB"><span class="bib_key">PGB</span></a>;
+ <span class="date">1559</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1559/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1564</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1564/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1565</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1565/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1567</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1567/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1572</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1572/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1574</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1574/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1575</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1575/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1576</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1576/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1577</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1577/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1578</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1578/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1594</span> <span class="name">Isobella</span> <a href="../cite/Isobella/1594/PGB"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1487</span> <span class="name">Isabel</span> (<span class="case">nom</span>) <a href="../cite/Isabel/1487/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1488</span> <span class="name">Isabel</span> (<span class="case">nom</span>) <a href="../cite/Isabel/1488/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1489</span> <span class="name">Isabel</span> (<span class="case">nom</span>) <a href="../cite/Isabel/1489/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1490</span> <span class="name">Isabel</span> (<span class="case">nom</span>) <a href="../cite/Isabel/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Isabelis</span> (<span class="case">gen</span>) <a href="../cite/Isabelis/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1491</span> <span class="name">Isabel</span> (<span class="case">nom</span>) <a href="../cite/Isabel/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a>,
+ <span class="name">Isabelis</span> (<span class="case">gen</span>) <a href="../cite/Isabelis/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1492</span> <span class="name">Isabel</span> (<span class="case">nom</span>) <a href="../cite/Isabel/1492/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 67</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Ysabel</span> <a href="../cite/Ysabel/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3151</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1510</span> <span class="name">Ysabet</span> <a href="../cite/Ysabet/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3402</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1575</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3790</span></a>;
+ <span class="date">1576</span> <span class="name">Isabel</span> <a href="../cite/Isabel/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3872</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">14thCx1478</span> <span class="name">Ysabella</span> (<span class="case">nom</span>) <a href="../cite/Ysabella/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(49)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Isabel". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Isabel.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

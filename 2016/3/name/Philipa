@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Philipa</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Philipa</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Fem. of <a class="nym" href="Philip">Philip</a>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 3rd C martyr, a 14th C queen consort of England, and a 14th-15th C queen consort of Portugal.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name was most commonly found in England and France, and rare elsewhere.  In England, the vernacular form was usually identical with the masculine form, until the latter half of the 16th C when it became increasingly popular to adopt Latinized forms as vernaculars (cf. <a class="nym" href="Isabel">Isabel</a>).</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1279–80</span> <span class="name">Philippa</span> (<span class="case">nom</span>) <a href="../cite/Philippa/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Philippa</span> (<span class="case">nom</span>) <a href="../cite/Philippa/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1381</span> <span class="name">Philyppa</span> (<span class="case">nom</span>) <a href="../cite/Philyppa/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 92</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1524/5</span> <span class="name">Philippa</span> <a href="../cite/Philippa/1524s5/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1547</span> <span class="name">Phillipp</span> <a href="../cite/Phillipp/1547/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1548</span> <span class="name">Phelyppe</span> <a href="../cite/Phelyppe/1548/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1552</span> <span class="name">Phillipp</span> <a href="../cite/Phillipp/1552/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1558</span> <span class="name">Phillipp</span> <a href="../cite/Phillipp/1558/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1559</span> <span class="name">Phylyp</span> <a href="../cite/Phylyp/1559/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1560</span> <span class="name">Philype</span> <a href="../cite/Philype/1560/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1562</span> <span class="name">Phelype</span> <a href="../cite/Phelype/1562/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1563</span> <span class="name">Phillip</span> <a href="../cite/Phillip/1563/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>;
+ <span class="date">1567</span> <span class="name">Philip</span> <a href="../cite/Philip/1567/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1570</span> <span class="name">Philippa</span> <a href="../cite/Philippa/1570/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1572</span> <span class="name">Phillip</span> <a href="../cite/Phillip/1572/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 70</span></a>;
+ <span class="date">1574</span> <span class="name">Phelipe</span> <a href="../cite/Phelipe/1574/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Philipa</span> <a href="../cite/Philipa/1574/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1575</span> <span class="name">Philippa</span> <a href="../cite/Philippa/1575/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 48</span></a>,
+ <span class="name">Philyp</span> <a href="../cite/Philyp/1575/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1576</span> <span class="name">Phillip</span> <a href="../cite/Phillip/1576/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 70</span></a>,
+ <span class="name">Phillipe</span> <a href="../cite/Phillipe/1576/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1577</span> <span class="name">Phillip</span> <a href="../cite/Phillip/1577/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 54</span></a>,
+ <span class="name">Phylipe</span> <a href="../cite/Phylipe/1577/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1582</span> <span class="name">Philip</span> <a href="../cite/Philip/1582/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Philippa</span> <a href="../cite/Philippa/1582/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Phillip</span> <a href="../cite/Phillip/1582/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1583</span> <span class="name">Phelype</span> <a href="../cite/Phelype/1583/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1585</span> <span class="name">Philippa</span> <a href="../cite/Philippa/1585/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Phillip</span> <a href="../cite/Phillip/1585/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1586</span> <span class="name">Phelipp</span> <a href="../cite/Phelipp/1586/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 85</span></a>,
+ <span class="name">Philippa</span> <a href="../cite/Philippa/1586/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1588</span> <span class="name">Philippa</span> <a href="../cite/Philippa/1588/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1589</span> <span class="name">Phillippe</span> <a href="../cite/Phillippe/1589/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1590</span> <span class="name">Phelipp</span> <a href="../cite/Phelipp/1590/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 86</span></a>,
+ <span class="name">Phelype</span> <a href="../cite/Phelype/1590/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Philippa</span> <a href="../cite/Philippa/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1591</span> <span class="name">Philippa</span> <a href="../cite/Philippa/1591/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1592</span> <span class="name">Philippa</span> <a href="../cite/Philippa/1592/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Phillip</span> <a href="../cite/Phillip/1592/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1593</span> <span class="name">Phelype</span> <a href="../cite/Phelype/1593/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1594</span> <span class="name">Philippa</span> <a href="../cite/Philippa/1594/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 50</span></a>,
+ <a href="../cite/Philippa/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1595</span> <span class="name">Phillipa</span> <a href="../cite/Phillipa/1595/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Phillipp</span> <a href="../cite/Phillipp/1595/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 140</span></a>;
+ <span class="date">1597</span> <span class="name">Philippa</span> <a href="../cite/Philippa/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1598</span> <span class="name">Philip</span> <a href="../cite/Philip/1598/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 102</span></a>;
+ <span class="date">1599</span> <span class="name">Phelyp</span> <a href="../cite/Phelyp/1599/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Philippa</span> <a href="../cite/Philippa/1599/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 50</span></a>,
+ <a href="../cite/Philippa/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 42</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1131</span> <span class="name">Philippa</span> (<span class="case">nom</span>) <a href="../cite/Philippa/1131/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXIII</span></a>,
+ <span class="name">Philippe</span> (<span class="case">gen</span>) <a href="../cite/Philippe/1131/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII</span></a>;
+ <span class="date">1274</span> <span class="name">Philippa</span> (<span class="case">nom</span>) <a href="../cite/Philippa/1274/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 46</span></a>,
+ <span class="name">Philippam</span> (<span class="case">acc</span>) <a href="../cite/Philippam/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">Philippe</span> (<span class="case">gen</span>) <a href="../cite/Philippe/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Phelippe</span> <a href="../cite/Phelippe/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 53</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Phelippote</span> <a href="../cite/Phelippote/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1313</span> <span class="name">Phelippote</span> <a href="../cite/Phelippote/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 96</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1564</span> <span class="name">Phlippe</span> <a href="../cite/Phlippe/1564/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 89</span></a>;
+ <span class="date">1565</span> <span class="name">Phlippes</span> <a href="../cite/Phlippes/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 195</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Phlippote</span> <a href="../cite/Phlippote/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">172</span></a>;
+ <span class="date">1562</span> <span class="name">Philippine</span> <a href="../cite/Philippine/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1563</span> <span class="name">Philippine</span> <a href="../cite/Philippine/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Phlippine</span> <a href="../cite/Phlippine/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1564</span> <span class="name">Philippine</span> <a href="../cite/Philippine/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 70</span></a>,
+ <span class="name">Phlipine</span> <a href="../cite/Phlipine/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>,
+ <span class="name">Phlippine</span> <a href="../cite/Phlippine/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1565</span> <span class="name">Phlippine</span> <a href="../cite/Phlippine/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1566</span> <span class="name">Phlippin</span> <a href="../cite/Phlippin/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 218</span></a>,
+ <span class="name">Phlippine</span> <a href="../cite/Phlippine/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 198</span></a>;
+ <span class="date">1567</span> <span class="name">Phlippine</span> <a href="../cite/Phlippine/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 278</span></a>;
+ <span class="date">1568</span> <span class="name">Phlippine</span> <a href="../cite/Phlippine/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 367</span></a>;
+ <span class="date">1570</span> <span class="name">Phlippine</span> <a href="../cite/Phlippine/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 435</span></a>;
+ <span class="date">1571</span> <span class="name">Phlippine</span> <a href="../cite/Phlippine/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 436</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1576</span> <span class="name">Felipa</span> <a href="../cite/Felipa/1576/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3928</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Philipa". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Philipa.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

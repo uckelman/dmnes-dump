@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Winifred</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Winifred</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Welsh</span> <i>Gwenfrewi</i> from <span class="lang">Welsh</span> <i>gwen</i> 'white' + an uncertain element, <span class="lang">Latinized</span> <i>Winefrida</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C Welsh saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1556</span> <span class="name">Winefrid</span> <a href="../cite/Winefrid/1556/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Winifrid</span> <a href="../cite/Winifrid/1556/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1558</span> <span class="name">Winefrid</span> <a href="../cite/Winefrid/1558/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1562</span> <span class="name">Wenefred</span> <a href="../cite/Wenefred/1562/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1563</span> <span class="name">Wenefred</span> <a href="../cite/Wenefred/1563/Redruth-Co"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Winifrid</span> <a href="../cite/Winifrid/1563/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1564</span> <span class="name">Wenefred</span> <a href="../cite/Wenefred/1564/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1565</span> <span class="name">Winefrid</span> <a href="../cite/Winefrid/1565/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Winifrid</span> <a href="../cite/Winifrid/1565/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1567</span> <span class="name">Winefrid</span> <a href="../cite/Winefrid/1567/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Winifrid</span> <a href="../cite/Winifrid/1567/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1571</span> <span class="name">Wrinyfrid</span> <a href="../cite/Wrinyfrid/1571/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 82</span></a>;
+ <span class="date">1572</span> <span class="name">Winifride</span> <a href="../cite/Winifride/1572/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1573</span> <span class="name">Winifrid</span> <a href="../cite/Winifrid/1573/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1574</span> <span class="name">Winefrid</span> <a href="../cite/Winefrid/1574/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1575</span> <span class="name">Wynfred</span> <a href="../cite/Wynfred/1575/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 129</span></a>;
+ <span class="date">1578</span> <span class="name">Winithrid</span> <a href="../cite/Winithrid/1578/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1581</span> <span class="name">Winfrid</span> <a href="../cite/Winfrid/1581/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 117</span></a>,
+ <span class="name">Winifred</span> <a href="../cite/Winifred/1581/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 28</span></a>,
+ <span class="name">Winifrid</span> <a href="../cite/Winifrid/1581/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1586</span> <span class="name">Winifred</span> <a href="../cite/Winifred/1586/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 64</span></a>,
+ <a href="../cite/Winifred/1586/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1587</span> <span class="name">Winifred</span> <a href="../cite/Winifred/1587/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1589</span> <span class="name">Winifred</span> <a href="../cite/Winifred/1589/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 65</span></a>;
+ <span class="date">1591?</span> <span class="name">Winifred</span> <a href="../cite/Winifred/1591?/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1598</span> <span class="name">Winifred</span> <a href="../cite/Winifred/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1599</span> <span class="name">Wenefryd</span> <a href="../cite/Wenefryd/1599/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Winifred". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Winifred.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

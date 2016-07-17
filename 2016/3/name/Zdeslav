@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Zdeslav</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Zdeslav</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Slavic <i>zdzie, zde</i> 'to do, make' + <span class="lang">Slavic</span> <i>sława, slava</i> 'glory, fame'.</span>
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 9th C duke of Croatia.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The diminutive <i>Zdenko</i> is also sometimes a form of <a class="nym" href="Sidonius">Sidonius</a>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1349</span> <span class="name">Sdyslaus</span> (<span class="case">nom</span>) <a href="../cite/Sdyslaus/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">117</span></a>;
+ <span class="date">1350</span> <span class="name">Zdyslaus</span> (<span class="case">nom</span>) <a href="../cite/Zdyslaus/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">205</span></a>;
+ <span class="date">1353</span> <span class="name">Sdyslaus</span> (<span class="case">nom</span>) <a href="../cite/Sdyslaus/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>;
+ <span class="date">1355</span> <span class="name">Sdyslaus</span> (<span class="case">nom</span>) <a href="../cite/Sdyslaus/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">71</span></a>;
+ <span class="date">1356</span> <span class="name">Sdislaus</span> (<span class="case">nom</span>) <a href="../cite/Sdislaus/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">150</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1343</span> <span class="name">Zdenko</span> (<span class="case">nom</span>) <a href="../cite/Zdenko/1343/Rössler2"><span class="bib_key">Rössler2</span> <span class="bib_loc">326, p. 149</span></a>,
+ <span class="name">Zdenkonem</span> (<span class="case">acc</span>) <a href="../cite/Zdenkonem/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">326, p. 150</span></a>,
+ <span class="name">Zdenkonis</span> (<span class="case">gen</span>) <a href="../cite/Zdenkonis/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">326, p. 149</span></a>;
+ <span class="date">1351</span> <span class="name">Zdenco</span> (<span class="case">nom</span>) <a href="../cite/Zdenco/1351/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">46</span></a>,
+ <span class="name">Zdencone</span> (<span class="case">abl</span>) <a href="../cite/Zdencone/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">46</span></a>;
+ <span class="date">1353</span> <span class="name">Sdenyck</span> (<span class="case">nom</span>) <a href="../cite/Sdenyck/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">41, p. 23</span></a>,
+ <span class="name">Sdenyek</span> (<span class="case">nom</span>) <a href="../cite/Sdenyek/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">41, p. 23</span></a>;
+ <span class="date">1358</span> <span class="name">Sdichoni</span> (<span class="case">dat</span>) <a href="../cite/Sdichoni/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">219, p. 31</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Zdeslav". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Zdeslav.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

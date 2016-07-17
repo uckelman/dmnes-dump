@@ -1,0 +1,670 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Walter</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Walter</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>walt</i> 'power, authority' + <span class="lang">Old English</span> <i>here</i>, <span class="lang">Old High German</span> <i>heri</i> 'host, army'.
+</span>
+  
+</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1116</span> <span class="name">Gualteri</span> (<span class="case">gen</span>) <a href="../cite/Gualteri/1116/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1119</span> <span class="name">Gualteri</span> (<span class="case">gen</span>) <a href="../cite/Gualteri/1119/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">c1130</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/c1130/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1133</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1133/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1212x1213</span> <span class="name">Walterum</span> (<span class="case">acc</span>) <a href="../cite/Walterum/1212x1213/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1238</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1238/OvdFB"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1238/OvdFB"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Walterum</span> (<span class="case">acc</span>) <a href="../cite/Walterum/1238/OvdFB"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1238/OvdFB"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1262</span> <span class="name">Wautier</span> (<span class="case">obl</span>) <a href="../cite/Wautier/1262/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1267</span> <span class="name">Watier</span> (<span class="case">obl</span>) <a href="../cite/Watier/1267/OvdFB"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Watiers</span> (<span class="case">nom</span>) <a href="../cite/Watiers/1267/OvdFB"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1377</span> <span class="name">Wouter</span> (<span class="case">nom</span>) <a href="../cite/Wouter/1377/RSG1376-89"><span class="bib_key">RSG1376-89</span> <span class="bib_loc">p. 77</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Walterum</span> (<span class="case">acc</span>) <a href="../cite/Walterum/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1358</span> <span class="name">Walthero</span> (<span class="case">dat</span>) <a href="../cite/Walthero/1358/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">229, p. 31</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1370</span> <span class="name">Walther</span> (<span class="case">nom</span>) <a href="../cite/Walther/1370/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">62</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1132</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/c1132/MemStMF"><span class="bib_key">MemStMF</span> <span class="bib_loc">II-I</span></a>;
+ <span class="date">1155</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>,
+ <span class="name">Walterius</span> (<span class="case">nom</span>) <a href="../cite/Walterius/1155/FPD"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1161x1184</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1161x1184/MDE"><span class="bib_key">MDE</span> <span class="bib_loc">p. 226, no. 1</span></a>;
+ <span class="date">1181</span> <span class="name">Galtero</span> (<span class="case">abl</span>) <a href="../cite/Galtero/1181/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 111</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1181/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 115</span></a>;
+ <span class="date">1183</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1183/BoldonBuke"><span class="bib_key">BoldonBuke</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1183/BoldonBuke"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1189</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 82</span></a>,
+ <span class="name">Gualterus</span> (<span class="case">nom</span>) <a href="../cite/Gualterus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 110</span></a>,
+ <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 78</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 77</span></a>;
+ <span class="date">c1198</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/c1198/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 245</span></a>;
+ <span class="date">1222</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1240</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1240/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 120</span></a>;
+ <span class="date">1246</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1246/PSS-II"><span class="bib_key">PSS-II</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1256</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Walterum</span> (<span class="case">acc</span>) <a href="../cite/Walterum/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1279–80</span> <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1296</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 92b</span></a>,
+ <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93a</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93a</span></a>;
+ <span class="date">1297</span> <span class="name">Walter</span> (<span class="case">nom</span>) <a href="../cite/Walter/1297/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1298</span> <span class="name">Walter</span> (<span class="case">nom</span>) <a href="../cite/Walter/1298/ComWil-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1298/ComWil-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1299</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1299/ComWil-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1300</span> <span class="name">Walter</span> (<span class="case">nom</span>) <a href="../cite/Walter/1300/ComWil-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 239</span></a>;
+ <span class="date">1301</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1301/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1302</span> <span class="name">Walter</span> (<span class="case">nom</span>) <a href="../cite/Walter/1302/ComWil-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1306</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1306/PSS-CXIV"><span class="bib_key">PSS-CXIV</span> <span class="bib_loc">2</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1306/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1317</span> <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/1317/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">4a</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1317/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">4a</span></a>;
+ <span class="date">1318</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1318/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">4b</span></a>,
+ <span class="name">Walterum</span> (<span class="case">acc</span>) <a href="../cite/Walterum/1318/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">4b</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1318/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">4b</span></a>;
+ <span class="date">1319</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1319/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">5a</span></a>;
+ <span class="date">1330</span> <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/1330/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">4d</span></a>;
+ <span class="date">1331</span> <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/1331/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">4e</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Water</span> (<span class="case">nom</span>) <a href="../cite/Water/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93</span></a>;
+ <span class="date">1377</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1381</span> <span class="name">Walterum</span> (<span class="case">acc</span>) <a href="../cite/Walterum/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 72</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Walterus/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1387</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1387/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1395</span> <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/1395/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1408</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1408/GCCYork"><span class="bib_key">GCCYork</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1436</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1436/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LVIII</span></a>;
+ <span class="date">1446</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1446/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXIV</span></a>;
+ <span class="date">1530/31</span> <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/1530s31/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 94</span></a>,
+ <span class="name">Walterum</span> (<span class="case">acc</span>) <a href="../cite/Walterum/1530s31/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1530s31/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95</span></a>;
+ <span class="date">1557</span> <span class="name">Gualterus</span> (<span class="case">nom</span>) <a href="../cite/Gualterus/1557/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 59</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1585</span> <span class="name">Wouters</span> (<span class="case">gen</span>) <a href="../cite/Wouters/1585/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Artsz</span></a>;
+ <span class="date">1588</span> <span class="name">Wouter</span> <a href="../cite/Wouter/1588/AuFr"><span class="bib_key">ibid.</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1417–18</span> <span class="name">Water</span> <a href="../cite/Water/1417–18/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1428</span> <span class="name">Water</span> <a href="../cite/Water/1428/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83</span></a>;
+ <span class="date">1430</span> <span class="name">Water</span> <a href="../cite/Water/1430/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1433</span> <span class="name">Walter</span> <a href="../cite/Walter/1433/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94</span></a>;
+ <span class="date">1438</span> <span class="name">Water</span> <a href="../cite/Water/1438/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1387</span> <span class="name">Watkyn</span> <a href="../cite/Watkyn/1387/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1433</span> <span class="name">Watkyn</span> <a href="../cite/Watkyn/1433/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95</span></a>;
+ <span class="date">1438</span> <span class="name">Watkyn</span> <a href="../cite/Watkyn/1438/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1439</span> <span class="name">Watkyn</span> <a href="../cite/Watkyn/1439/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 114</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1503</span> <span class="name">Water</span> <a href="../cite/Water/1503/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1529</span> <span class="name">Walter</span> <a href="../cite/Walter/1529/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 81</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1529/PP-HenV"><span class="bib_key">PP-HenV</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1530</span> <span class="name">Walter</span> <a href="../cite/Walter/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1534</span> <span class="name">Walter</span> <a href="../cite/Walter/1534/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 127</span></a>;
+ <span class="date">1539</span> <span class="name">Walter</span> <a href="../cite/Walter/1539/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1540</span> <span class="name">Walter</span> <a href="../cite/Walter/1540/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1540/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1541</span> <span class="name">Walter</span> <a href="../cite/Walter/1541/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1542</span> <span class="name">Walter</span> <a href="../cite/Walter/1542/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1543</span> <span class="name">Walter</span> <a href="../cite/Walter/1543/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1544</span> <span class="name">Walter</span> <a href="../cite/Walter/1544/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1545</span> <span class="name">Walter</span> <a href="../cite/Walter/1545/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1545/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1546</span> <span class="name">Walter</span> <a href="../cite/Walter/1546/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1547</span> <span class="name">Walter</span> <a href="../cite/Walter/1547/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Walter/1547/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 79</span></a>;
+ <span class="date">1549</span> <span class="name">Walter</span> <a href="../cite/Walter/1549/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1551</span> <span class="name">Walter</span> <a href="../cite/Walter/1551/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1553</span> <span class="name">Walter</span> <a href="../cite/Walter/1553/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1554</span> <span class="name">Walter</span> <a href="../cite/Walter/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1555</span> <span class="name">Walter</span> <a href="../cite/Walter/1555/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1555/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1556</span> <span class="name">Walter</span> <a href="../cite/Walter/1556/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 108</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1556/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Water/1556/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1557</span> <span class="name">Walter</span> <a href="../cite/Walter/1557/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1557/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1558</span> <span class="name">Water</span> <a href="../cite/Water/1558/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1559</span> <span class="name">Walter</span> <a href="../cite/Walter/1559/SOmar-vol9"><span class="bib_key">SOmar-vol9</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1559/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1560</span> <span class="name">Walter</span> <a href="../cite/Walter/1560/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Walter/1560/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1560/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/Water/1560/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1561</span> <span class="name">Walter</span> <a href="../cite/Walter/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Walter/1561/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Walter/1561/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Water/1561/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1562</span> <span class="name">Walter</span> <a href="../cite/Walter/1562/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1562/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1563</span> <span class="name">Walter</span> <a href="../cite/Walter/1563/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1563/4</span> <span class="name">Walter</span> <a href="../cite/Walter/1563s4/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1563</span> <span class="name">Walter</span> <a href="../cite/Walter/1563/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>,
+ <a href="../cite/Walter/1563/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1563/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1564</span> <span class="name">Walter</span> <a href="../cite/Walter/1564/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Walter/1564/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1566</span> <span class="name">Walter</span> <a href="../cite/Walter/1566/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1567</span> <span class="name">Walter</span> <a href="../cite/Walter/1567/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1567/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1568</span> <span class="name">Walter</span> <a href="../cite/Walter/1568/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 37</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1568/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 84</span></a>,
+ <a href="../cite/Water/1568/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1569</span> <span class="name">Walter</span> <a href="../cite/Walter/1569/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1569/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Water/1569/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1571</span> <span class="name">Walter</span> <a href="../cite/Walter/1571/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1571/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1572</span> <span class="name">Walter</span> <a href="../cite/Walter/1572/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 70</span></a>,
+ <a href="../cite/Walter/1572/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1573</span> <span class="name">Walter</span> <a href="../cite/Walter/1573/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1573/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1574</span> <span class="name">Walter</span> <a href="../cite/Walter/1574/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1575</span> <span class="name">Walter</span> <a href="../cite/Walter/1575/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1576</span> <span class="name">Water</span> <a href="../cite/Water/1576/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 101</span></a>,
+ <a href="../cite/Water/1576/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1577</span> <span class="name">Walter</span> <a href="../cite/Walter/1577/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/Walter/1577/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1577/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1578</span> <span class="name">Walter</span> <a href="../cite/Walter/1578/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1578/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1581</span> <span class="name">Walter</span> <a href="../cite/Walter/1581/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1582</span> <span class="name">Walter</span> <a href="../cite/Walter/1582/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1583</span> <span class="name">Walter</span> <a href="../cite/Walter/1583/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1584</span> <span class="name">Walter</span> <a href="../cite/Walter/1584/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1585</span> <span class="name">Walter</span> <a href="../cite/Walter/1585/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 31</span></a>,
+ <a href="../cite/Walter/1585/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1585/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/Water/1585/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1586</span> <span class="name">Walter</span> <a href="../cite/Walter/1586/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/Walter/1586/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Water</span> <a href="../cite/Water/1586/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1587</span> <span class="name">Walter</span> <a href="../cite/Walter/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Walter/1587/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1588</span> <span class="name">Walter</span> <a href="../cite/Walter/1588/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>,
+ <a href="../cite/Walter/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1589</span> <span class="name">Walter</span> <a href="../cite/Walter/1589/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Walter/1589/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 23</span></a>,
+ <a href="../cite/Walter/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 17</span></a>,
+ <a href="../cite/Walter/1589/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1590</span> <span class="name">Walter</span> <a href="../cite/Walter/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1591</span> <span class="name">Walter</span> <a href="../cite/Walter/1591/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 31</span></a>,
+ <a href="../cite/Walter/1591/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 23</span></a>,
+ <a href="../cite/Walter/1591/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1592</span> <span class="name">Walter</span> <a href="../cite/Walter/1592/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 15</span></a>,
+ <a href="../cite/Walter/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 24</span></a>,
+ <a href="../cite/Walter/1592/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1593</span> <span class="name">Walter</span> <a href="../cite/Walter/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 27</span></a>,
+ <a href="../cite/Walter/1593/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1594</span> <span class="name">Walter</span> <a href="../cite/Walter/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 29</span></a>,
+ <a href="../cite/Walter/1594/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1595</span> <span class="name">Walter</span> <a href="../cite/Walter/1595/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 117</span></a>,
+ <a href="../cite/Walter/1595/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1596</span> <span class="name">Walter</span> <a href="../cite/Walter/1596/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 87</span></a>,
+ <a href="../cite/Walter/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 33</span></a>,
+ <a href="../cite/Walter/1596/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1597</span> <span class="name">Walter</span> <a href="../cite/Walter/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 35</span></a>,
+ <a href="../cite/Walter/1597/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1598</span> <span class="name">Walter</span> <a href="../cite/Walter/1598/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 50</span></a>,
+ <a href="../cite/Walter/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1599</span> <span class="name">Walter</span> <a href="../cite/Walter/1599/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>,
+ <a href="../cite/Walter/1599/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 140</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1364</span> <span class="name">Wolter</span> <a href="../cite/Wolter/1364/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 334</span></a>;
+ <span class="date">1401</span> <span class="name">Wolter</span> <a href="../cite/Wolter/1401/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1426</span> <span class="name">Wolter</span> <a href="../cite/Wolter/1426/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1427</span> <span class="name">Wolter</span> <a href="../cite/Wolter/1427/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1429</span> <span class="name">Wolter</span> <a href="../cite/Wolter/1429/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 354</span></a>;
+ <span class="date">1432</span> <span class="name">Wolter</span> <a href="../cite/Wolter/1432/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">693</span> <span class="name">Waltharii</span> (<span class="case">gen</span>) <a href="../cite/Waltharii/693/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">Add. V</span></a>;
+ <span class="date">c823</span> <span class="name">Waltarius</span> (<span class="case">nom</span>) <a href="../cite/Waltarius/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">6, CE</span></a>;
+ <span class="date">952</span> <span class="name">Valterii</span> (<span class="case">gen</span>) <a href="../cite/Valterii/952/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 108</span></a>;
+ <span class="date">c11thC</span> <span class="name">Galterio</span> (<span class="case">abl</span>) <a href="../cite/Galterio/c11thC/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 91</span></a>;
+ <span class="date">11thC</span> <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/11thC/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">677</span></a>;
+ <span class="date">1012</span> <span class="name">Valterii</span> (<span class="case">gen</span>) <a href="../cite/Valterii/1012/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">104</span></a>;
+ <span class="date">1029x1033</span> <span class="name">Gualterius</span> (<span class="case">nom</span>) <a href="../cite/Gualterius/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1031</span> <span class="name">Gualterii</span> (<span class="case">gen</span>) <a href="../cite/Gualterii/1031/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">684</span></a>;
+ <span class="date">1040x1080</span> <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1040x1080/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">664</span></a>;
+ <span class="date">1047</span> <span class="name">Galterii</span> (<span class="case">gen</span>) <a href="../cite/Galterii/1047/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1047x1061</span> <span class="name">Gauterius</span> (<span class="case">nom</span>) <a href="../cite/Gauterius/1047x1061/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1060</span> <span class="name">Gauterii</span> (<span class="case">gen</span>) <a href="../cite/Gauterii/1060/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1067</span> <span class="name">Gauterius</span> (<span class="case">nom</span>) <a href="../cite/Gauterius/1067/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1079x1101</span> <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1079x1101/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">IX</span></a>,
+ <span class="name">Gualterio</span> (<span class="case">abl</span>) <a href="../cite/Gualterio/1079x1101/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVII</span></a>;
+ <span class="date">1101x1120</span> <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1101x1120/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIV</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Gualterius</span> (<span class="case">nom</span>) <a href="../cite/Gualterius/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">1102x1144</span> <span class="name">Gualterius</span> (<span class="case">nom</span>) <a href="../cite/Gualterius/1102x1144/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLV</span></a>;
+ <span class="date">1107</span> <span class="name">Galterio</span> (<span class="case">abl</span>) <a href="../cite/Galterio/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>,
+ <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>,
+ <span class="name">Gauterio</span> (<span class="case">abl</span>) <a href="../cite/Gauterio/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>,
+ <span class="name">Gualterius</span> (<span class="case">nom</span>) <a href="../cite/Gualterius/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>,
+ <span class="name">Walterius</span> (<span class="case">nom</span>) <a href="../cite/Walterius/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>;
+ <span class="date">a1108</span> <span class="name">Gualterius</span> (<span class="case">nom</span>) <a href="../cite/Gualterius/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">a1114</span> <span class="name">Galterii</span> (<span class="case">gen</span>) <a href="../cite/Galterii/a1114/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1115</span> <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Gauterii</span> (<span class="case">gen</span>) <a href="../cite/Gauterii/1115x1149/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">X</span></a>,
+ <span class="name">Gauterio</span> (<span class="case">abl</span>) <a href="../cite/Gauterio/1115x1149/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>,
+ <span class="name">Gauterius</span> (<span class="case">nom</span>) <a href="../cite/Gauterius/1115x1149/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>,
+ <span class="name">Gualterius</span> (<span class="case">nom</span>) <a href="../cite/Gualterius/1115x1149/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">a1116</span> <span class="name">Gualterius</span> (<span class="case">nom</span>) <a href="../cite/Gualterius/a1116/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>,
+ <span class="name">Walterius</span> (<span class="case">nom</span>) <a href="../cite/Walterius/a1116/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1126</span> <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1126/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1127</span> <span class="name">Gualterio</span> (<span class="case">abl</span>) <a href="../cite/Gualterio/1127/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1129</span> <span class="name">Gauterius</span> (<span class="case">nom</span>) <a href="../cite/Gauterius/1129/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">735</span></a>;
+ <span class="date">1131</span> <span class="name">Galterii</span> (<span class="case">gen</span>) <a href="../cite/Galterii/1131/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1133</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1133/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXX</span></a>;
+ <span class="date">1135</span> <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Gauterio</span> (<span class="case">abl</span>) <a href="../cite/Gauterio/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Gauterius</span> (<span class="case">nom</span>) <a href="../cite/Gauterius/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Gualterius</span> (<span class="case">nom</span>) <a href="../cite/Gualterius/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1135/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXVIII</span></a>,
+ <span class="name">Walterius</span> (<span class="case">nom</span>) <a href="../cite/Walterius/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1138/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIX</span></a>;
+ <span class="date">1138x62</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1138x62/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">57</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">72</span></a>;
+ <span class="date">c1140</span> <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/c1140/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIII</span></a>,
+ <span class="name">Walterum</span> (<span class="case">acc</span>) <a href="../cite/Walterum/c1140/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXIII</span></a>;
+ <span class="date">1141</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1141/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXXI</span></a>;
+ <span class="date">1142</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1142/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1143</span> <span class="name">Gauterius</span> (<span class="case">nom</span>) <a href="../cite/Gauterius/1143/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1143x1146</span> <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1143x1146/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1145</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1145/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXXIII</span></a>,
+ <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1145/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXXIII</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1145/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1146</span> <span class="name">Gualtero</span> (<span class="case">abl</span>) <a href="../cite/Gualtero/1146/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXII</span></a>;
+ <span class="date">a1147</span> <span class="name">Walterii</span> (<span class="case">gen</span>) <a href="../cite/Walterii/a1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">13</span></a>,
+ <span class="name">Walterius</span> (<span class="case">nom</span>) <a href="../cite/Walterius/a1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1147</span> <span class="name">Galterius</span> (<span class="case">gen</span>) <a href="../cite/Galterius/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Gauterio</span> (<span class="case">abl</span>) <a href="../cite/Gauterio/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Gauterius</span> (<span class="case">nom</span>) <a href="../cite/Gauterius/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Walterii</span> (<span class="case">gen</span>) <a href="../cite/Walterii/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Walterio</span> (<span class="case">abl</span>) <a href="../cite/Walterio/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Walterius</span> (<span class="case">nom</span>) <a href="../cite/Walterius/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1147/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCVII</span></a>;
+ <span class="date">1147x58</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1147x58/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1147x62</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1147x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1151</span> <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1151/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>;
+ <span class="date">1154</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1154/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1155</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1155/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1156</span> <span class="name">Galteri</span> (<span class="case">gen</span>) <a href="../cite/Galteri/1156/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CCCLXXXIII</span></a>;
+ <span class="date">c1156</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/c1156/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1158</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1158/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">33</span></a>,
+ <span class="name">Walterius</span> (<span class="case">nom</span>) <a href="../cite/Walterius/1158/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">33</span></a>;
+ <span class="date">1158x1170</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1158x1170/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">138</span></a>;
+ <span class="date">c1160</span> <span class="name">Galteri</span> (<span class="case">gen</span>) <a href="../cite/Galteri/c1160/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">1162</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1162/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXIII</span></a>;
+ <span class="date">a1163</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/a1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">96</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/a1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">96</span></a>;
+ <span class="date">1163</span> <span class="name">Galteri</span> (<span class="case">gen</span>) <a href="../cite/Galteri/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>,
+ <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>,
+ <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">95</span></a>,
+ <span class="name">Gualteri</span> (<span class="case">gen</span>) <a href="../cite/Gualteri/1163/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XV</span></a>,
+ <span class="name">Gualterio</span> (<span class="case">abl</span>) <a href="../cite/Gualterio/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">104</span></a>,
+ <span class="name">Gualterius</span> (<span class="case">nom</span>) <a href="../cite/Gualterius/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">94</span></a>,
+ <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1163/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCVI</span></a>,
+ <span class="name">Walterii</span> (<span class="case">gen</span>) <a href="../cite/Walterii/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1163–64</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1163x1173</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1163x1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">156</span></a>;
+ <span class="date">1164</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Gauterius</span> (<span class="case">nom</span>) <a href="../cite/Gauterius/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">122</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Walthrus</span> (<span class="case">nom</span>) <a href="../cite/Walthrus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1165</span> <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1165/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1166</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>,
+ <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1166/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XC</span></a>,
+ <span class="name">Walterum</span> (<span class="case">acc</span>) <a href="../cite/Walterum/1166/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XCI</span></a>;
+ <span class="date">1167</span> <span class="name">Gualterius</span> (<span class="case">nom</span>) <a href="../cite/Gualterius/1167/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1168</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1168/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">133</span></a>;
+ <span class="date">c1170</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/c1170/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIV</span></a>;
+ <span class="date">1171</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1171/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">139</span></a>;
+ <span class="date">1172</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1172/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">146</span></a>;
+ <span class="date">1173</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">153</span></a>;
+ <span class="date">1174</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1174/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">158</span></a>;
+ <span class="date">1178</span> <span class="name">Galterio</span> (<span class="case">abl</span>) <a href="../cite/Galterio/1178/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">168</span></a>,
+ <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1178/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">166</span></a>;
+ <span class="date">1179</span> <span class="name">Galterii</span> (<span class="case">gen</span>) <a href="../cite/Galterii/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>,
+ <span class="name">Galtero</span> (<span class="case">abl</span>) <a href="../cite/Galtero/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">173</span></a>,
+ <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>,
+ <span class="name">Gualterii</span> (<span class="case">gen</span>) <a href="../cite/Gualterii/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">170</span></a>,
+ <span class="name">Gualtero</span> (<span class="case">abl</span>) <a href="../cite/Gualtero/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">178</span></a>,
+ <span class="name">Gualterus</span> (<span class="case">nom</span>) <a href="../cite/Gualterus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">171</span></a>,
+ <span class="name">Walterii</span> (<span class="case">gen</span>) <a href="../cite/Walterii/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>,
+ <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>;
+ <span class="date">1180</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 35</span></a>,
+ <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1190</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1190/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CV</span></a>;
+ <span class="date">1206</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1206/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1209</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1209/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIV</span></a>;
+ <span class="date">1256</span> <span class="name">Walthero</span> (<span class="case">abl</span>) <a href="../cite/Walthero/1256/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">161</span></a>,
+ <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1256/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">161</span></a>;
+ <span class="date">1257</span> <span class="name">Galteri</span> (<span class="case">gen</span>) <a href="../cite/Galteri/1257/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">II, Pentecost</span></a>,
+ <span class="name">Galtero</span> (<span class="case">dat</span>) <a href="../cite/Galtero/1257/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">II, Pentecost</span></a>,
+ <span class="name">Gualterus</span> (<span class="case">nom</span>) <a href="../cite/Gualterus/1257/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XII, St. Martin</span></a>;
+ <span class="date">1259</span> <span class="name">Galtero</span> (<span class="case">abl</span>) <a href="../cite/Galtero/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVIII, Pentecost</span></a>,
+ <span class="name">Galterum</span> (<span class="case">acc</span>) <a href="../cite/Galterum/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVIII, Pentecost</span></a>,
+ <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVIII, Pentecost</span></a>;
+ <span class="date">1260</span> <span class="name">Galterum</span> (<span class="case">acc</span>) <a href="../cite/Galterum/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XII, Ascension</span></a>;
+ <span class="date">1261</span> <span class="name">Galtero</span> (<span class="case">abl</span>) <a href="../cite/Galtero/1261/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">VI, BMV</span></a>;
+ <span class="date">1301</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 176</span></a>,
+ <span class="name">Walterii</span> (<span class="case">gen</span>) <a href="../cite/Walterii/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 260</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 176</span></a>,
+ <span class="name">Wautiers</span> (<span class="case">nom</span>) <a href="../cite/Wautiers/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 207</span></a>;
+ <span class="date">1378</span> <span class="name">Galteri</span> (<span class="case">gen</span>) <a href="../cite/Galteri/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1710</span></a>,
+ <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">909</span></a>,
+ <span class="name">Galtero</span> (<span class="case">dat</span>) <a href="../cite/Galtero/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">328</span></a>,
+ <span class="name">Gaulteri</span> (<span class="case">gen</span>) <a href="../cite/Gaulteri/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1623</span></a>,
+ <span class="name">Gautherii</span> (<span class="case">gen</span>) <a href="../cite/Gautherii/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">499</span></a>,
+ <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">713</span></a>,
+ <span class="name">Walterii</span> (<span class="case">gen</span>) <a href="../cite/Walterii/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">519</span></a>,
+ <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">683</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1362</span></a>,
+ <span class="name">Waltheri</span> (<span class="case">gen</span>) <a href="../cite/Waltheri/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">169</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1378</span> <span class="name">Wolterkin</span> (<span class="case">nom</span>) <a href="../cite/Wolterkin/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1108</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1133</span> <span class="name">Guatier</span> (<span class="case">obl</span>) <a href="../cite/Guatier/1133/tailliar"><span class="bib_key">tailliar</span> <span class="bib_loc">no. 1</span></a>,
+ <span class="name">Watiers</span> (<span class="case">nom</span>) <a href="../cite/Watiers/1133/tailliar"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1</span></a>;
+ <span class="date">1280</span> <span class="name">Gautiers</span> (<span class="case">nom</span>) <a href="../cite/Gautiers/1280/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXVII</span></a>;
+ <span class="date">1296</span> <span class="name">Gautier</span> <a href="../cite/Gautier/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1301</span> <span class="name">Wautier</span> (<span class="case">obl</span>) <a href="../cite/Wautier/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 238</span></a>;
+ <span class="date">1313</span> <span class="name">Gautier</span> <a href="../cite/Gautier/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 3</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1388</span> <span class="name">Watier</span> <a href="../cite/Watier/1388/thierry"><span class="bib_key">thierry</span></a>;
+ <span class="date">1392</span> <span class="name">Gautier</span> <a href="../cite/Gautier/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 613</span></a>,
+ <span class="name">Watier</span> <a href="../cite/Watier/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 613</span></a>;
+ <span class="date">1418</span> <span class="name">Gaulthier</span> <a href="../cite/Gaulthier/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 384</span></a>,
+ <span class="name">Gaultier</span> <a href="../cite/Gaultier/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 374</span></a>;
+ <span class="date">1421</span> <span class="name">Gaultier</span> <a href="../cite/Gaultier/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">544</span></a>,
+ <span class="name">Gauthier</span> <a href="../cite/Gauthier/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 174</span></a>;
+ <span class="date">1423</span> <span class="name">Gaultier</span> <a href="../cite/Gaultier/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 264</span></a>,
+ <span class="name">Gautier</span> <a href="../cite/Gautier/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">115</span></a>;
+ <span class="date">1438</span> <span class="name">Gaultier</span> <a href="../cite/Gaultier/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">131</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Gauterin</span> <a href="../cite/Gauterin/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 602</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Walther</span> (<span class="case">nom</span>) <a href="../cite/Walther/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§29</span></a>;
+ <span class="date">1108</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1108/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1135</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1135/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">95</span></a>;
+ <span class="date">1136</span> <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/1136/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>,
+ <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1136/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1142</span> <span class="name">Walther</span> (<span class="case">nom</span>) <a href="../cite/Walther/1142/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Walthere</span> (<span class="case">nom</span>) <a href="../cite/Walthere/1142/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1145</span> <span class="name">Walthero</span> (<span class="case">dat</span>) <a href="../cite/Walthero/1145/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">LXI[XXI]</span></a>,
+ <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1145/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1147</span> <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1147/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII</span></a>;
+ <span class="date">1148</span> <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1148/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVIII</span></a>;
+ <span class="date">1149</span> <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1149/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">1151</span> <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1151/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVII</span></a>;
+ <span class="date">1186</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1186/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">123</span></a>;
+ <span class="date">1197</span> <span class="name">Galtero</span> (<span class="case">abl</span>) <a href="../cite/Galtero/1197/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">1</span></a>,
+ <span class="name">Gualterio</span> (<span class="case">abl</span>) <a href="../cite/Gualterio/1197/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1212</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1212/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">103</span></a>;
+ <span class="date">1214</span> <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1214/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1215</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1215/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1216</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1216/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">24</span></a>,
+ <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">22</span></a>;
+ <span class="date">1217</span> <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1217/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">71</span></a>;
+ <span class="date">1219</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1219/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">73</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1219/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">42</span></a>;
+ <span class="date">1223</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1223/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">136</span></a>;
+ <span class="date">1225</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1225/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1234</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1234/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">105</span></a>;
+ <span class="date">1237</span> <span class="name">Walthero</span> (<span class="case">abl</span>) <a href="../cite/Walthero/1237/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1248</span> <span class="name">Waltheri</span> (<span class="case">gen</span>) <a href="../cite/Waltheri/1248/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">127</span></a>,
+ <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1248/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1249</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">131</span></a>;
+ <span class="date">1253</span> <span class="name">Waltheri</span> (<span class="case">gen</span>) <a href="../cite/Waltheri/1253/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">145</span></a>,
+ <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1253/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">145</span></a>;
+ <span class="date">1254</span> <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1254/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">154</span></a>;
+ <span class="date">1258</span> <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1258/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1273x1291</span> <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1273x1291/UrkRott-1"><span class="bib_key">UrkRott-1</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1401</span> <span class="name">waltheri</span> (<span class="case">gen</span>) <a href="../cite/waltheri/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 166</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1149</span> <span class="name">Walte</span> (<span class="case">nom</span>) <a href="../cite/Walte/1149/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">XXXI</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Walther</span> <a href="../cite/Walther/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">p. 21</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Walter</span> (<span class="case">nom</span>) <a href="../cite/Walter/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 24</span></a>,
+ <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 18</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 3</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1521/2</span> <span class="name">Walter</span> <a href="../cite/Walter/1521s2/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1526</span> <span class="name">Walter</span> <a href="../cite/Walter/1526/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1535</span> <span class="name">Walter</span> <a href="../cite/Walter/1535/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">43</span></a>;
+ <span class="date">1535/6</span> <span class="name">Walter</span> <a href="../cite/Walter/1535s6/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">50</span></a>;
+ <span class="date">1537</span> <span class="name">Walter</span> <a href="../cite/Walter/1537/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">61</span></a>;
+ <span class="date">1539/40</span> <span class="name">Walter</span> <a href="../cite/Walter/1539s40/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1539</span> <span class="name">Water</span> <a href="../cite/Water/1539/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">75</span></a>;
+ <span class="date">1540</span> <span class="name">Walter</span> <a href="../cite/Walter/1540/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">122</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1285</span> <span class="name">Gualterii</span> (<span class="case">gen</span>) <a href="../cite/Gualterii/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 159</span></a>;
+ <span class="date">1326</span> <span class="name">Valterius</span> (<span class="case">nom</span>) <a href="../cite/Valterius/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 441</span></a>,
+ <span class="name">Valterus</span> (<span class="case">nom</span>) <a href="../cite/Valterus/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 441</span></a>,
+ <span class="name">Walterum</span> (<span class="case">acc</span>) <a href="../cite/Walterum/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 424</span></a>;
+ <span class="date">1348</span> <span class="name">Gualterii</span> (<span class="case">gen</span>) <a href="../cite/Gualterii/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">40</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1293</span> <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/1293/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">354</span></a>;
+ <span class="date">1301</span> <span class="name">Waltherus</span> (<span class="case">nom</span>) <a href="../cite/Waltherus/1301/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">311</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1324</span> <span class="name">wolterri</span> (<span class="case">gen</span>) <a href="../cite/wolterri/1324/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 299</span></a>;
+ <span class="date">1334</span> <span class="name">walteri</span> (<span class="case">gen</span>) <a href="../cite/walteri/1334/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 299</span></a>;
+ <span class="date">1361</span> <span class="name">Woltori</span> (<span class="case">gen</span>) <a href="../cite/Woltori/1361/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302</span></a>,
+ <span class="name">wolterus</span> (<span class="case">nom</span>) <a href="../cite/wolterus/1361/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301</span></a>;
+ <span class="date">1364</span> <span class="name">wolterus</span> (<span class="case">nom</span>) <a href="../cite/wolterus/1364/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302</span></a>;
+ <span class="date">1373</span> <span class="name">wolterus</span> (<span class="case">nom</span>) <a href="../cite/wolterus/1373/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1577</span> <span class="name">Wouter</span> <a href="../cite/Wouter/1577/NHG-Middelburg"><span class="bib_key">NHG-Middelburg</span> <span class="bib_loc">p. 69</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1324x1332</span> <span class="name">Walther</span> <a href="../cite/Walther/1324x1332/SBGlatzer"><span class="bib_key">SBGlatzer</span> <span class="bib_loc">p. 1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1121</span> <span class="name">Gualtero</span> (<span class="case">dat</span>) <a href="../cite/Gualtero/1121/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 2</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1095</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1095/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XVII</span></a>,
+ <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1095/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XV</span></a>;
+ <span class="date">c1120</span> <span class="name">Galterio</span> (<span class="case">abl</span>) <a href="../cite/Galterio/c1120/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXV</span></a>,
+ <span class="name">Gualterio</span> (<span class="case">abl</span>) <a href="../cite/Gualterio/c1120/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXV</span></a>;
+ <span class="date">1123</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1123/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVI</span></a>;
+ <span class="date">1124</span> <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1124/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">L</span></a>;
+ <span class="date">a1177</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/a1177/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">3</span></a>;
+ <span class="date">a1199</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/a1199/CartNBer"><span class="bib_key">ibid.</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1214–26</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1214–26/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1235</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1235/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1238</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1238/CartStAndrew"><span class="bib_key">CartStAndrew</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1272x1360</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1272x1360/CartStAndrew"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1376</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Waltero</span> (<span class="case">dat</span>) <a href="../cite/Waltero/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1383</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1383/CartLevenax"><span class="bib_key">CartLevenax</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1383/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1384</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1384/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1384/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Walterum</span> (<span class="case">acc</span>) <a href="../cite/Walterum/1384/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1384/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1387</span> <span class="name">Walteri</span> (<span class="case">gen</span>) <a href="../cite/Walteri/1387/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1387/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Walterus</span> (<span class="case">nom</span>) <a href="../cite/Walterus/1387/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1392</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1392/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a></dd>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1550</span> <span class="name">Walter</span> <a href="../cite/Walter/c1550/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">p. xxv</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">875</span> <span class="name">Qualtario</span> (<span class="case">abl</span>) <a href="../cite/Qualtario/875/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMXVI</span></a>;
+ <span class="date">1145</span> <span class="name">Guter</span> (<span class="case">nom</span>) <a href="../cite/Guter/1145/AnnOPraem-2"><span class="bib_key">AnnOPraem-2</span> <span class="bib_loc">col. ccccxxvi</span></a>;
+ <span class="date">1192</span> <span class="name">Gualtario</span> (<span class="case">abl</span>) <a href="../cite/Gualtario/1192/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCCVIII</span></a></dd>
+<dt><span class="lang">Old Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1225</span> <span class="name">Gutierres</span> (<span class="case">gen</span>) <a href="../cite/Gutierres/1225/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 15</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Gutierre</span> <a href="../cite/Gutierre/1376/SanzSerrano"><span class="bib_key">SanzSerrano</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1134</span> <span class="name">Gautherius</span> (<span class="case">nom</span>) <a href="../cite/Gautherius/1134/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1163</span> <span class="name">Waltero</span> (<span class="case">abl</span>) <a href="../cite/Waltero/1163/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1215</span> <span class="name">Gauterus</span> (<span class="case">nom</span>) <a href="../cite/Gauterus/1215/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">33</span></a>;
+ <span class="date">1220</span> <span class="name">Galterus</span> (<span class="case">nom</span>) <a href="../cite/Galterus/1220/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a>;
+ <span class="date">14thCx1478</span> <span class="name">Galterius</span> (<span class="case">nom</span>) <a href="../cite/Galterius/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(112)</span></a>,
+ <span class="name">Valterius</span> (<span class="case">nom</span>) <a href="../cite/Valterius/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(134)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>N. Shiel, J. Uckelman, S.L. Uckelman. "Walter". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Walter.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

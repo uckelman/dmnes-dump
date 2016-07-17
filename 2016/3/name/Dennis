@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Dennis</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Dennis</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Dyonisius</i>, from <span class="lang">Greek</span> <i>Διόνυσιος</i> 'of Dionisos'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 3rd C saint, the patron of Paris, and a 12th-13th C king of Portugal.</p>
+</div>
+  
+  
+<div class="def">
+  <p><i>Dionysius</i> was sometimes used as a latinization or anglicization of <span class="lang">Irish</span> <i>Donnchad</i> (cf. <a class="nym" href="Duncan">Duncan</a>).</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Denijs</span> (<span class="case">nom</span>) <a href="../cite/Denijs/1376/RSG1376-89"><span class="bib_key">RSG1376-89</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1377</span> <span class="name">Denijs</span> (<span class="case">nom</span>) <a href="../cite/Denijs/1377/RSG1376-89"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 78</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Dyonisii</span> (<span class="case">gen</span>) <a href="../cite/Dyonisii/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Dyonisius</span> (<span class="case">nom</span>) <a href="../cite/Dyonisius/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Croatia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1544</span> <span class="name">Dyanes</span> <a href="../cite/Dyanes/1544/Brgles"><span class="bib_key">Brgles</span> <span class="bib_loc">p. 6, fn. 18</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1300</span> <span class="name">Dyonisius</span> (<span class="case">nom</span>) <a href="../cite/Dyonisius/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 243</span></a>;
+ <span class="date">1357</span> <span class="name">Dionisii</span> (<span class="case">gen</span>) <a href="../cite/Dionisii/1357/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 23</span></a>,
+ <span class="name">Dionisio</span> (<span class="case">abl</span>) <a href="../cite/Dionisio/1357/SocAntNor-3-3"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 23</span></a>;
+ <span class="date">1381</span> <span class="name">Dionis</span> (<span class="case">nom</span>) <a href="../cite/Dionis/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 85</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1189</span> <span class="name">Denisel</span> (<span class="case">nom</span>) <a href="../cite/Denisel/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 140</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1577</span> <span class="name">Dionijs</span> <a href="../cite/Dionijs/1577/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Blanck</span></a>;
+ <span class="date">1578</span> <span class="name">Dionijs</span> <a href="../cite/Dionijs/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Blancke</span></a>;
+ <span class="date">1582</span> <span class="name">Dionijsius</span> <a href="../cite/Dionijsius/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Blanck</span></a>,
+ <span class="name">Dionysius</span> <a href="../cite/Dionysius/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Blanck</span></a>;
+ <span class="date">1585</span> <span class="name">Denijs</span> <a href="../cite/Denijs/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Blancq</span></a>;
+ <span class="date">1588</span> <span class="name">Dionisius</span> <a href="../cite/Dionisius/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Blanc</span></a>;
+ <span class="date">1596</span> <span class="name">Dionysius</span> <a href="../cite/Dionysius/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Boombinder</span></a>;
+ <span class="date">1597</span> <span class="name">Denijs</span> <a href="../cite/Denijs/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bertholomeus</span></a>;
+ <span class="date">1599</span> <span class="name">Denijs</span> <a href="../cite/Denijs/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bartholomeus</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Diones</span> <a href="../cite/Diones/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1539</span> <span class="name">Denys</span> <a href="../cite/Denys/1539/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1540</span> <span class="name">Denes</span> <a href="../cite/Denes/1540/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Denys</span> <a href="../cite/Denys/1540/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1541</span> <span class="name">Dennis</span> <a href="../cite/Dennis/1541/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 78</span></a>,
+ <a href="../cite/Dennis/1541/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1542</span> <span class="name">Denys</span> <a href="../cite/Denys/1542/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1543</span> <span class="name">Denes</span> <a href="../cite/Denes/1543/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Denys</span> <a href="../cite/Denys/1543/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1544</span> <span class="name">Denys</span> <a href="../cite/Denys/1544/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1547</span> <span class="name">Denys</span> <a href="../cite/Denys/1547/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1551</span> <span class="name">Denys</span> <a href="../cite/Denys/1551/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1561</span> <span class="name">Dennes</span> <a href="../cite/Dennes/1561/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1583</span> <span class="name">Dennis</span> <a href="../cite/Dennis/1583/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1585</span> <span class="name">Dennis</span> <a href="../cite/Dennis/1585/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1589</span> <span class="name">Dennis</span> <a href="../cite/Dennis/1589/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1590</span> <span class="name">Dennis</span> <a href="../cite/Dennis/1590/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1591</span> <span class="name">Dennis</span> <a href="../cite/Dennis/1591/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1593</span> <span class="name">Dennis</span> <a href="../cite/Dennis/1593/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 52</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1592</span> <span class="name">Nissa</span> <a href="../cite/Nissa/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 285</span></a>,
+ <span class="name">Thio</span> <a href="../cite/Thio/1592/Tiik1977"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 285</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Denisnlij</span> <a href="../cite/Denisnlij/1582/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 171</span></a>,
+ <span class="name">Denisze</span> <a href="../cite/Denisze/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 171</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1258</span> <span class="name">Dyonisium</span> (<span class="case">acc</span>) <a href="../cite/Dyonisium/1258/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">IV, Candlemas</span></a>;
+ <span class="date">1301</span> <span class="name">Dyonisius</span> (<span class="case">nom</span>) <a href="../cite/Dyonisius/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 212</span></a>;
+ <span class="date">1304</span> <span class="name">Dyonisium</span> (<span class="case">acc</span>) <a href="../cite/Dyonisium/1304/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXVI</span></a>;
+ <span class="date">1378</span> <span class="name">Dionisii</span> (<span class="case">gen</span>) <a href="../cite/Dionisii/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">206</span></a>,
+ <span class="name">Dionisio</span> (<span class="case">dat</span>) <a href="../cite/Dionisio/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">247</span></a>,
+ <span class="name">Dyonisius</span> (<span class="case">nom</span>) <a href="../cite/Dyonisius/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2479</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Denyse</span> <a href="../cite/Denyse/1292/1292paris"><span class="bib_key">1292paris</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1296</span> <span class="name">Denise</span> <a href="../cite/Denise/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1313</span> <span class="name">Denise-m</span> <a href="../cite/Denise-m/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 73</span></a>,
+ <span class="name">Denys</span> <a href="../cite/Denys/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Denisot</span> <a href="../cite/Denisot/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 26</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Denis</span> <a href="../cite/Denis/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 602</span></a>,
+ <span class="name">Denys</span> <a href="../cite/Denys/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 608</span></a>;
+ <span class="date">1418</span> <span class="name">Denis</span> <a href="../cite/Denis/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 373</span></a>;
+ <span class="date">1421</span> <span class="name">Denis</span> <a href="../cite/Denis/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1423</span> <span class="name">Denis</span> <a href="../cite/Denis/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">383</span></a>;
+ <span class="date">1438</span> <span class="name">Denis</span> <a href="../cite/Denis/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">186</span></a>;
+ <span class="date">1455</span> <span class="name">Denys</span> <a href="../cite/Denys/1455/HRAVP-3"><span class="bib_key">HRAVP-3</span> <span class="bib_loc">p. 353</span></a>;
+ <span class="date">1493</span> <span class="name">Denis</span> <a href="../cite/Denis/1493/MSR1838"><span class="bib_key">MSR1838</span> <span class="bib_loc">p. 379</span></a>;
+ <span class="date">1561</span> <span class="name">Denys</span> <a href="../cite/Denys/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1562</span> <span class="name">Denys</span> <a href="../cite/Denys/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1563</span> <span class="name">Denis</span> <a href="../cite/Denis/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Denys</span> <a href="../cite/Denys/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1564</span> <span class="name">Denys</span> <a href="../cite/Denys/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1565</span> <span class="name">Denis</span> <a href="../cite/Denis/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 172</span></a>,
+ <span class="name">Denys</span> <a href="../cite/Denys/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 115</span></a>;
+ <span class="date">1566</span> <span class="name">Denis</span> <a href="../cite/Denis/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 219</span></a>,
+ <span class="name">Denys</span> <a href="../cite/Denys/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 198</span></a>;
+ <span class="date">1567</span> <span class="name">Denys</span> <a href="../cite/Denys/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 289</span></a>;
+ <span class="date">1568</span> <span class="name">Denys</span> <a href="../cite/Denys/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 363</span></a>;
+ <span class="date">1570</span> <span class="name">Denys</span> <a href="../cite/Denys/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 426</span></a>;
+ <span class="date">1571</span> <span class="name">Denys</span> <a href="../cite/Denys/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 437</span></a>;
+ <span class="date">1588</span> <span class="name">Denis</span> <a href="../cite/Denis/1588/raymond1588"><span class="bib_key">raymond1588</span> <span class="bib_loc">p. 564</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1418</span> <span class="name">Denisot</span> <a href="../cite/Denisot/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 374</span></a>;
+ <span class="date">1421</span> <span class="name">Denisot</span> <a href="../cite/Denisot/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">59</span></a>,
+ <span class="name">Denixost</span> <a href="../cite/Denixost/1421/favier"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1423</span> <span class="name">Denisot</span> <a href="../cite/Denisot/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">53</span></a>;
+ <span class="date">1438</span> <span class="name">Denisot</span> <a href="../cite/Denisot/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">415</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1351</span> <span class="name">Dionisio</span> (<span class="case">abl</span>) <a href="../cite/Dionisio/1351/CDH-IX-II"><span class="bib_key">CDH-IX-II</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Diyonisio</span> (<span class="case">abl</span>) <a href="../cite/Diyonisio/1351/CDH-IX-II"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Dyonisio</span> (<span class="case">abl</span>) <a href="../cite/Dyonisio/1351/CDH-IX-II"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1540</span> <span class="name">Dionysius</span> <a href="../cite/Dionysius/1540/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">110</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1235</span> <span class="name">Dionisii</span> (<span class="case">gen</span>) <a href="../cite/Dionisii/1235/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">5</span></a>,
+ <span class="name">Dionisium</span> (<span class="case">acc</span>) <a href="../cite/Dionisium/1235/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1527</span> <span class="name">Dionisij</span> (<span class="case">gen</span>) <a href="../cite/Dionisij/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 83</span></a>,
+ <span class="name">Dionisius</span> (<span class="case">nom</span>) <a href="../cite/Dionisius/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1576</span> <span class="name">Denys</span> <a href="../cite/Denys/1576/NHG-Middelburg"><span class="bib_key">NHG-Middelburg</span> <span class="bib_loc">p. 69</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1269</span> <span class="name">Dyonisium</span> (<span class="case">acc</span>) <a href="../cite/Dyonisium/1269/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 11</span></a>,
+ <span class="name">Dyonisius</span> (<span class="case">nom</span>) <a href="../cite/Dyonisius/1269/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Dionis</span> <a href="../cite/Dionis/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3287</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1575</span> <span class="name">Dionisio</span> <a href="../cite/Dionisio/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3812</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, J. Uckelman, S.L. Uckelman. "Dennis". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Dennis.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

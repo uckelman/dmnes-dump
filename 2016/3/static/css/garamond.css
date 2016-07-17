@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'EBG12-Re';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/EBGaramond12-RegularSubset.eot?') format('embedded-opentype'),
+       url('../fonts/EBGaramond12-RegularSubset.woff') format('woff'),
+       url('../fonts/EBGaramond12-RegularSubset.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'EBG12-Re';
+  font-style: italic;
+  font-weight: normal;
+  src: url('../fonts/EBGaramond12-ItalicSubset.eot?') format('embedded-opentype'),
+       url('../fonts/EBGaramond12-ItalicSubset.woff') format('woff'),
+       url('../fonts/EBGaramond12-ItalicSubset.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'EBG12-ReNoItalicFallback';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/EBGaramond12-RegularSubset.eot?') format('embedded-opentype'),
+       url('../fonts/EBGaramond12-RegularSubset.woff') format('woff'),
+       url('../fonts/EBGaramond12-RegularSubset.ttf') format('truetype');
+}

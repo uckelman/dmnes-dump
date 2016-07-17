@@ -1,0 +1,546 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Theodoric</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Theodoric</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Gothic</span> <i>þiuda</i> 'people, folk' + <span class="lang">Old High German</span> <i>rih</i> 'ruler'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of various early kings of the Visigoths, kings of the Ostrogoths, and Frankish kings, a 6th C Anglo-Saxon king, a 7th C Welsh king, and a 12th C antipope.</p>
+</div>
+  
+  
+<div class="def">
+  <p>This name gave rise to a wide variety of modern forms which are not obviously connected if the origins of the names are not known: English <i>Derek</i> influenced by Dutch <i>Derrick</i>, Low German <i>Diderik</i>; French <i>T(h)ierry</i>; German <i>Dietrich</i>.  Often confused with <a class="nym" href="Theodore">Theodore</a>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1237</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1237/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">96</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1110</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1110/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">4</span></a>;
+ <span class="date">c1130</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/c1130/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1133</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1133/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>,
+ <span class="name">Theodorico</span> (<span class="case">abl</span>) <a href="../cite/Theodorico/1133/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1212x1213</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1212x1213/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">2</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1246</span> <span class="name">Thiery</span> (<span class="case">obl</span>) <a href="../cite/Thiery/1246/AnNam"><span class="bib_key">AnNam</span> <span class="bib_loc">p. 144</span></a>;
+ <span class="date">1267</span> <span class="name">Thieris</span> (<span class="case">nom</span>) <a href="../cite/Thieris/1267/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">9</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1371</span> <span class="name">Diederic</span> <a href="../cite/Diederic/1371/NotComDest"><span class="bib_key">NotComDest</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Diedericx</span> (<span class="case">gen</span>) <a href="../cite/Diedericx/1371/NotComDest"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Terrici</span> (<span class="case">gen</span>) <a href="../cite/Terrici/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="name">Theoderici</span> (<span class="case">gen</span>) <a href="../cite/Theoderici/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Theodericum</span> (<span class="case">acc</span>) <a href="../cite/Theodericum/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>,
+ <span class="name">Theodirici</span> (<span class="case">gen</span>) <a href="../cite/Theodirici/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Theodorici</span> (<span class="case">gen</span>) <a href="../cite/Theodorici/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Theodoricus</span> (<span class="case">nom</span>) <a href="../cite/Theodoricus/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1312</span> <span class="name">Diddokinus</span> (<span class="case">nom</span>) <a href="../cite/Diddokinus/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 33</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1287</span> <span class="name">Theodrico</span> (<span class="case">dat</span>) <a href="../cite/Theodrico/1287/RTT-1.1"><span class="bib_key">RTT-1.1</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1331</span> <span class="name">Theodrici</span> (<span class="case">gen</span>) <a href="../cite/Theodrici/1331/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1337</span> <span class="name">Theodrici</span> (<span class="case">gen</span>) <a href="../cite/Theodrici/1337/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1348</span> <span class="name">Theodrico</span> (<span class="case">abl</span>) <a href="../cite/Theodrico/1348/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1349</span> <span class="name">Theodrico</span> (<span class="case">dat</span>) <a href="../cite/Theodrico/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1350</span> <span class="name">Theodrico</span> (<span class="case">abl</span>) <a href="../cite/Theodrico/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">194</span></a>;
+ <span class="date">1351</span> <span class="name">Theodrico</span> (<span class="case">abl</span>) <a href="../cite/Theodrico/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1353</span> <span class="name">Theodrico</span> (<span class="case">abl</span>) <a href="../cite/Theodrico/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">60</span></a>,
+ <span class="name">Theodricum</span> (<span class="case">acc</span>) <a href="../cite/Theodricum/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">1, p. 21</span></a>;
+ <span class="date">1354</span> <span class="name">Theoderico</span> (<span class="case">abl</span>) <a href="../cite/Theoderico/1354/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">50</span></a>;
+ <span class="date">1355</span> <span class="name">Theoderico</span> (<span class="case">abl</span>) <a href="../cite/Theoderico/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">63</span></a>,
+ <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">83</span></a>;
+ <span class="date">1356</span> <span class="name">Dietrzich</span> (<span class="case">nom</span>) <a href="../cite/Dietrzich/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">166</span></a>,
+ <span class="name">Dyetrico</span> (<span class="case">dat</span>) <a href="../cite/Dyetrico/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">130</span></a>;
+ <span class="date">1358</span> <span class="name">Theodrico</span> (<span class="case">dat</span>) <a href="../cite/Theodrico/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">276, p. 32</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1343</span> <span class="name">Ditlini</span> (<span class="case">gen</span>) <a href="../cite/Ditlini/1343/Rössler2"><span class="bib_key">Rössler2</span> <span class="bib_loc">41, p. 23</span></a>,
+ <span class="name">Ditlinum</span> (<span class="case">acc</span>) <a href="../cite/Ditlinum/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">42, p. 24</span></a>,
+ <span class="name">Ditlinus</span> (<span class="case">nom</span>) <a href="../cite/Ditlinus/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">41, p. 23</span></a>,
+ <span class="name">Dittlino</span> (<span class="case">dat</span>) <a href="../cite/Dittlino/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">383, p. 174</span></a>,
+ <span class="name">Dittlinus</span> (<span class="case">nom</span>) <a href="../cite/Dittlinus/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">383, p. 175</span></a>;
+ <span class="date">1348</span> <span class="name">Dytlinus</span> (<span class="case">nom</span>) <a href="../cite/Dytlinus/1348/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1349</span> <span class="name">Dytlinus</span> (<span class="case">nom</span>) <a href="../cite/Dytlinus/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>;
+ <span class="date">1350</span> <span class="name">Ditlinus</span> (<span class="case">nom</span>) <a href="../cite/Ditlinus/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">186</span></a>;
+ <span class="date">1351</span> <span class="name">Dytlinus</span> (<span class="case">nom</span>) <a href="../cite/Dytlinus/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1353</span> <span class="name">Dytlini</span> (<span class="case">gen</span>) <a href="../cite/Dytlini/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">115</span></a>,
+ <span class="name">Dytlinus</span> (<span class="case">nom</span>) <a href="../cite/Dytlinus/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">88</span></a>;
+ <span class="date">1356</span> <span class="name">Dyetlino</span> (<span class="case">dat</span>) <a href="../cite/Dyetlino/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">131</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1339</span> <span class="name">Ditreichs</span> (<span class="case">gen</span>) <a href="../cite/Ditreichs/c1339/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">93</span></a>;
+ <span class="date">c1361</span> <span class="name">Ditreichs</span> (<span class="case">gen</span>) <a href="../cite/Ditreichs/c1361/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">84</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1318</span> <span class="name">Dityl</span> (<span class="case">nom</span>) <a href="../cite/Dityl/1318/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">45</span></a>;
+ <span class="date">c1339</span> <span class="name">Dytil</span> (<span class="case">nom</span>) <a href="../cite/Dytil/c1339/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1344</span> <span class="name">Dytel</span> (<span class="case">nom</span>) <a href="../cite/Dytel/1344/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">c1361</span> <span class="name">Ditel</span> (<span class="case">nom</span>) <a href="../cite/Ditel/c1361/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">84</span></a>;
+ <span class="date">1364</span> <span class="name">Ditel</span> (<span class="case">nom</span>) <a href="../cite/Ditel/1364/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">59</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Theodorici</span> (<span class="case">gen</span>) <a href="../cite/Theodorici/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1181</span> <span class="name">Theodoricus</span> (<span class="case">nom</span>) <a href="../cite/Theodoricus/1181/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 115</span></a>,
+ <span class="name">theodorico</span> (<span class="case">abl</span>) <a href="../cite/theodorico/1181/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1189</span> <span class="name">Tedricus</span> (<span class="case">nom</span>) <a href="../cite/Tedricus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 234</span></a>,
+ <span class="name">Teodricus</span> (<span class="case">nom</span>) <a href="../cite/Teodricus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 231</span></a>,
+ <span class="name">Theodricus</span> (<span class="case">nom</span>) <a href="../cite/Theodricus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 226</span></a>;
+ <span class="date">1222</span> <span class="name">Theodoricus</span> (<span class="case">nom</span>) <a href="../cite/Theodoricus/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 63</span></a>,
+ <span class="name">thedricus</span> (<span class="case">nom</span>) <a href="../cite/thedricus/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">theodorici</span> (<span class="case">gen</span>) <a href="../cite/theodorici/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571</span> <span class="name">Dierick</span> <a href="../cite/Dierick/1571/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Cornelis</span></a>;
+ <span class="date">1575</span> <span class="name">Dierick</span> <a href="../cite/Dierick/1575/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Eijcke</span></a>;
+ <span class="date">1580</span> <span class="name">Theodoricq</span> <a href="../cite/Theodoricq/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Diericks</span></a>;
+ <span class="date">1586</span> <span class="name">Dierick</span> <a href="../cite/Dierick/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Aelbertinck</span></a>;
+ <span class="date">1587</span> <span class="name">Dierick</span> <a href="../cite/Dierick/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clopperijs</span></a>;
+ <span class="date">1589</span> <span class="name">Dierick</span> <a href="../cite/Dierick/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Alensone</span></a>;
+ <span class="date">1590</span> <span class="name">Didier</span> <a href="../cite/Didier/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bierman</span></a>;
+ <span class="date">1591</span> <span class="name">Dierick</span> <a href="../cite/Dierick/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Burman</span></a>;
+ <span class="date">1593</span> <span class="name">Dierick</span> <a href="../cite/Dierick/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Baerman</span></a>;
+ <span class="date">1594</span> <span class="name">Dierick</span> <a href="../cite/Dierick/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Coster</span></a>;
+ <span class="date">1596</span> <span class="name">Dierick</span> <a href="../cite/Dierick/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Coster</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1596</span> <span class="name">Tielman</span> <a href="../cite/Tielman/1596/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Brun</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1532–1533</span> <span class="name">Derike</span> <a href="../cite/Derike/1532–1533/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1549</span> <span class="name">Dirick</span> <a href="../cite/Dirick/1549/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1584</span> <span class="name">Derick</span> <a href="../cite/Derick/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 10</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1385</span> <span class="name">Diderik</span> <a href="../cite/Diderik/1385/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1387</span> <span class="name">Diderik</span> <a href="../cite/Diderik/1387/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 339</span></a>;
+ <span class="date">1400</span> <span class="name">Diderik</span> <a href="../cite/Diderik/1400/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1404</span> <span class="name">Diderik</span> <a href="../cite/Diderik/1404/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1405</span> <span class="name">Diderik</span> <a href="../cite/Diderik/1405/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1409</span> <span class="name">Tijderik</span> <a href="../cite/Tijderik/1409/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>;
+ <span class="date">1411</span> <span class="name">Diderik</span> <a href="../cite/Diderik/1411/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1416</span> <span class="name">Diderik</span> <a href="../cite/Diderik/1416/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1419</span> <span class="name">Diderik</span> <a href="../cite/Diderik/1419/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 348</span></a>;
+ <span class="date">1421</span> <span class="name">Diderik</span> <a href="../cite/Diderik/1421/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1422</span> <span class="name">Diderik</span> <a href="../cite/Diderik/1422/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1424</span> <span class="name">Diderik</span> <a href="../cite/Diderik/1424/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1425</span> <span class="name">Dyderik</span> <a href="../cite/Dyderik/1425/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1426</span> <span class="name">Diderik</span> <a href="../cite/Diderik/1426/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1427</span> <span class="name">Dyderik</span> <a href="../cite/Dyderik/1427/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a>;
+ <span class="date">1428</span> <span class="name">Dyderyk</span> <a href="../cite/Dyderyk/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a>,
+ <span class="name">Dyderynk</span> <a href="../cite/Dyderynk/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 353</span></a>;
+ <span class="date">1431</span> <span class="name">Dyderik</span> <a href="../cite/Dyderik/1431/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 355</span></a>,
+ <span class="name">Dyderyk</span> <a href="../cite/Dyderyk/1431/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 355</span></a>;
+ <span class="date">1432</span> <span class="name">Dyderik</span> <a href="../cite/Dyderik/1432/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 355</span></a>;
+ <span class="date">1434</span> <span class="name">Dyderik</span> <a href="../cite/Dyderik/1434/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>;
+ <span class="date">1435</span> <span class="name">Deyttert</span> <a href="../cite/Deyttert/1435/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>;
+ <span class="date">1436</span> <span class="name">Dyderick</span> <a href="../cite/Dyderick/1436/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>;
+ <span class="date">1437</span> <span class="name">Dyderick</span> <a href="../cite/Dyderick/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 360</span></a>,
+ <span class="name">Dyderik</span> <a href="../cite/Dyderik/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 361</span></a>,
+ <span class="name">Dyderyck</span> <a href="../cite/Dyderyck/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 359</span></a>;
+ <span class="date">1438</span> <span class="name">Dyderyk</span> <a href="../cite/Dyderyk/1438/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 361</span></a>;
+ <span class="date">1440</span> <span class="name">Dyderyk</span> <a href="../cite/Dyderyk/1440/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 362</span></a>;
+ <span class="date">1441</span> <span class="name">Dyderyk</span> <a href="../cite/Dyderyk/1441/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 363</span></a>;
+ <span class="date">1442</span> <span class="name">Diderk</span> <a href="../cite/Diderk/1442/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 364</span></a>;
+ <span class="date">1592</span> <span class="name">Diterich</span> <a href="../cite/Diterich/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 288</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1376</span> <span class="name">Tideman</span> <a href="../cite/Tideman/1376/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 335</span></a>;
+ <span class="date">1377</span> <span class="name">Tideman</span> <a href="../cite/Tideman/1377/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 335</span></a>,
+ <span class="name">Tydiken</span> <a href="../cite/Tydiken/1377/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 335</span></a>;
+ <span class="date">1378</span> <span class="name">Tydike</span> <a href="../cite/Tydike/1378/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 335</span></a>;
+ <span class="date">1383</span> <span class="name">Tideman</span> <a href="../cite/Tideman/1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 337</span></a>,
+ <span class="name">Tidike</span> <a href="../cite/Tidike/1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 337</span></a>,
+ <span class="name">Tydeman</span> <a href="../cite/Tydeman/1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 337</span></a>,
+ <span class="name">Tydike</span> <a href="../cite/Tydike/1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 337</span></a>;
+ <span class="date">1384</span> <span class="name">Tidike</span> <a href="../cite/Tidike/1384/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1385</span> <span class="name">Tideman</span> <a href="../cite/Tideman/1385/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>,
+ <span class="name">Tydeman</span> <a href="../cite/Tydeman/1385/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>,
+ <span class="name">Tydike</span> <a href="../cite/Tydike/1385/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1386</span> <span class="name">Tydike</span> <a href="../cite/Tydike/1386/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1387</span> <span class="name">Tydeman</span> <a href="../cite/Tydeman/1387/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 339</span></a>;
+ <span class="date">1390</span> <span class="name">Tideman</span> <a href="../cite/Tideman/1390/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 340</span></a>,
+ <span class="name">Tydeke</span> <a href="../cite/Tydeke/1390/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 340</span></a>,
+ <span class="name">Tydeman</span> <a href="../cite/Tydeman/1390/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 339</span></a>,
+ <span class="name">Tydike</span> <a href="../cite/Tydike/1390/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 339</span></a>;
+ <span class="date">1391</span> <span class="name">Tideke</span> <a href="../cite/Tideke/1391/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 340</span></a>,
+ <span class="name">Tidike</span> <a href="../cite/Tidike/1391/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 340</span></a>;
+ <span class="date">1394</span> <span class="name">Tydeman</span> <a href="../cite/Tydeman/1394/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 341</span></a>;
+ <span class="date">1397</span> <span class="name">Tydeke</span> <a href="../cite/Tydeke/1397/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 340</span></a>,
+ <span class="name">Tydike</span> <a href="../cite/Tydike/1397/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 341</span></a>;
+ <span class="date">1398</span> <span class="name">Tydike</span> <a href="../cite/Tydike/1398/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1400</span> <span class="name">Tydeman</span> <a href="../cite/Tydeman/1400/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>,
+ <span class="name">Tydike</span> <a href="../cite/Tydike/1400/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1403</span> <span class="name">Tijdike</span> <a href="../cite/Tijdike/1403/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1404</span> <span class="name">Tijdike</span> <a href="../cite/Tijdike/1404/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1405</span> <span class="name">Tijdeke</span> <a href="../cite/Tijdeke/1405/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1406</span> <span class="name">Tideman</span> <a href="../cite/Tideman/1406/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>,
+ <span class="name">Tijdeman</span> <a href="../cite/Tijdeman/1406/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1407</span> <span class="name">Tijdike</span> <a href="../cite/Tijdike/1407/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1408</span> <span class="name">Tijdeman</span> <a href="../cite/Tijdeman/1408/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>;
+ <span class="date">1409</span> <span class="name">Tidike</span> <a href="../cite/Tidike/1409/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>,
+ <span class="name">Tijdike</span> <a href="../cite/Tijdike/1409/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>;
+ <span class="date">1411</span> <span class="name">Tijdike</span> <a href="../cite/Tijdike/1411/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1412</span> <span class="name">Tijdike</span> <a href="../cite/Tijdike/1412/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1414</span> <span class="name">Tideman</span> <a href="../cite/Tideman/1414/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>,
+ <span class="name">Tijdeman</span> <a href="../cite/Tijdeman/1414/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1415</span> <span class="name">Tijdeke</span> <a href="../cite/Tijdeke/1415/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1416</span> <span class="name">Tideke</span> <a href="../cite/Tideke/1416/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1419</span> <span class="name">Tijdike</span> <a href="../cite/Tijdike/1419/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 348</span></a>;
+ <span class="date">1420</span> <span class="name">Tidike</span> <a href="../cite/Tidike/1420/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>,
+ <span class="name">Tijdeman</span> <a href="../cite/Tijdeman/1420/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1421</span> <span class="name">Tijdike</span> <a href="../cite/Tijdike/1421/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1426</span> <span class="name">Tideman</span> <a href="../cite/Tideman/1426/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>,
+ <span class="name">Tydeke</span> <a href="../cite/Tydeke/1426/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1427</span> <span class="name">Tideke</span> <a href="../cite/Tideke/1427/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1428</span> <span class="name">Tydedeynk</span> <a href="../cite/Tydedeynk/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 353</span></a>,
+ <span class="name">Tydek</span> <a href="../cite/Tydek/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a>;
+ <span class="date">1429</span> <span class="name">Tidike</span> <a href="../cite/Tidike/1429/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 354</span></a>;
+ <span class="date">1430</span> <span class="name">Tydeman</span> <a href="../cite/Tydeman/1430/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 354</span></a>;
+ <span class="date">1431</span> <span class="name">Tydeke</span> <a href="../cite/Tydeke/1431/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 355</span></a>,
+ <span class="name">Tydeman</span> <a href="../cite/Tydeman/1431/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 355</span></a>;
+ <span class="date">1432</span> <span class="name">Tideken</span> <a href="../cite/Tideken/1432/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 355</span></a>;
+ <span class="date">1434</span> <span class="name">Tydeke</span> <a href="../cite/Tydeke/1434/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>;
+ <span class="date">1435</span> <span class="name">Tydeken</span> <a href="../cite/Tydeken/1435/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>;
+ <span class="date">1437</span> <span class="name">Tydeman</span> <a href="../cite/Tydeman/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 360</span></a>;
+ <span class="date">1438</span> <span class="name">Tydeke</span> <a href="../cite/Tydeke/1438/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 361</span></a>,
+ <span class="name">Tydeman</span> <a href="../cite/Tydeman/1438/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 361</span></a>;
+ <span class="date">1439</span> <span class="name">Tydeke</span> <a href="../cite/Tydeke/1439/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 362</span></a>;
+ <span class="date">1440</span> <span class="name">Tideman</span> <a href="../cite/Tideman/1440/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 362</span></a>;
+ <span class="date">1441</span> <span class="name">Tydeman</span> <a href="../cite/Tydeman/1441/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 363</span></a>;
+ <span class="date">1442</span> <span class="name">Tyman</span> <a href="../cite/Tyman/1442/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 364</span></a>;
+ <span class="date">1443</span> <span class="name">Tideman</span> <a href="../cite/Tideman/1443/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 365</span></a>,
+ <span class="name">Tile</span> <a href="../cite/Tile/1443/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 365</span></a>,
+ <span class="name">Tydeman</span> <a href="../cite/Tydeman/1443/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 365</span></a>;
+ <span class="date">1444</span> <span class="name">Tydeman</span> <a href="../cite/Tydeman/1444/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 365</span></a>;
+ <span class="date">1592</span> <span class="name">Tous</span> <a href="../cite/Tous/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 288</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1565</span> <span class="name">Dirich</span> (<span class="case">nom</span>) <a href="../cite/Dirich/1565/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 292</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Teudricus</span> (<span class="case">nom</span>) <a href="../cite/Teudricus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">27, Palatiolum</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Teodericus</span> (<span class="case">nom</span>) <a href="../cite/Teodericus/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">1138</span> <span class="name">Theodoricus</span> (<span class="case">nom</span>) <a href="../cite/Theodoricus/1138/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIX</span></a>;
+ <span class="date">1138x62</span> <span class="name">Terrici</span> (<span class="case">gen</span>) <a href="../cite/Terrici/1138x62/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">67</span></a>,
+ <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">59</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Didirs</span> (<span class="case">nom</span>) <a href="../cite/Didirs/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">69</span></a>;
+ <span class="date">1141</span> <span class="name">Theodorico</span> (<span class="case">abl</span>) <a href="../cite/Theodorico/1141/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXI</span></a>;
+ <span class="date">1142</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1142/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1147</span> <span class="name">Theoderico</span> (<span class="case">abl</span>) <a href="../cite/Theoderico/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Teodericus</span> (<span class="case">nom</span>) <a href="../cite/Teodericus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">42</span></a>,
+ <span class="name">Terricus</span> (<span class="case">nom</span>) <a href="../cite/Terricus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1162</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>;
+ <span class="date">1163</span> <span class="name">Theodorico</span> (<span class="case">abl</span>) <a href="../cite/Theodorico/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">104</span></a>;
+ <span class="date">1163–64</span> <span class="name">Thedericus</span> (<span class="case">nom</span>) <a href="../cite/Thedericus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">118</span></a>;
+ <span class="date">1164</span> <span class="name">Thedericus</span> (<span class="case">nom</span>) <a href="../cite/Thedericus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>,
+ <span class="name">Theodoricus</span> (<span class="case">nom</span>) <a href="../cite/Theodoricus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">122</span></a>;
+ <span class="date">1166</span> <span class="name">Theodoricus</span> (<span class="case">nom</span>) <a href="../cite/Theodoricus/1166/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCI</span></a>;
+ <span class="date">1178</span> <span class="name">Teodericus</span> (<span class="case">nom</span>) <a href="../cite/Teodericus/1178/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">168</span></a>;
+ <span class="date">1179</span> <span class="name">Teodericus</span> (<span class="case">nom</span>) <a href="../cite/Teodericus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">171</span></a>,
+ <span class="name">Terrico</span> (<span class="case">abl</span>) <a href="../cite/Terrico/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">181</span></a>,
+ <span class="name">Terricus</span> (<span class="case">nom</span>) <a href="../cite/Terricus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">179</span></a>,
+ <span class="name">Tierree</span> (<span class="case">gen</span>) <a href="../cite/Tierree/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">181</span></a>;
+ <span class="date">1180</span> <span class="name">Teoderici</span> (<span class="case">gen</span>) <a href="../cite/Teoderici/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1238</span> <span class="name">Tierrici</span> (<span class="case">gen</span>) <a href="../cite/Tierrici/1238/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXX</span></a>;
+ <span class="date">1251</span> <span class="name">Theoderico</span> (<span class="case">abl</span>) <a href="../cite/Theoderico/1251/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">139</span></a>;
+ <span class="date">1259</span> <span class="name">Therricum</span> (<span class="case">acc</span>) <a href="../cite/Therricum/1259/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">III, BMV</span></a>;
+ <span class="date">1260</span> <span class="name">Therricum</span> (<span class="case">acc</span>) <a href="../cite/Therricum/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">V, Candlemas</span></a>;
+ <span class="date">1378</span> <span class="name">Theoderici</span> (<span class="case">gen</span>) <a href="../cite/Theoderici/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">160</span></a>,
+ <span class="name">Theoderico</span> (<span class="case">dat</span>) <a href="../cite/Theoderico/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">548</span></a>,
+ <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">948</span></a>,
+ <span class="name">Theodorici</span> (<span class="case">gen</span>) <a href="../cite/Theodorici/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">583</span></a>,
+ <span class="name">Theodorico</span> (<span class="case">dat</span>) <a href="../cite/Theodorico/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">266</span></a>,
+ <span class="name">Theodrico</span> (<span class="case">dat</span>) <a href="../cite/Theodrico/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">862</span></a>,
+ <span class="name">Tierri</span> (<span class="case">nom</span>) <a href="../cite/Tierri/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2090</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1350</span> <span class="name">Thidemanni</span> (<span class="case">gen</span>) <a href="../cite/Thidemanni/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6017</span></a>;
+ <span class="date">1378</span> <span class="name">Tidemanni</span> (<span class="case">gen</span>) <a href="../cite/Tidemanni/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">322</span></a>,
+ <span class="name">Tielmanni</span> (<span class="case">gen</span>) <a href="../cite/Tielmanni/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">41</span></a>,
+ <span class="name">Tilemani</span> (<span class="case">gen</span>) <a href="../cite/Tilemani/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1525</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Tierri</span> <a href="../cite/Tierri/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1301</span> <span class="name">Terri</span> (<span class="case">obl</span>) <a href="../cite/Terri/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 232</span></a>;
+ <span class="date">1313</span> <span class="name">Thierri</span> <a href="../cite/Thierri/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 37</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Thierrion</span> <a href="../cite/Thierrion/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 29</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Thierry</span> <a href="../cite/Thierry/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 386</span></a>;
+ <span class="date">1421</span> <span class="name">Thierry</span> <a href="../cite/Thierry/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1074</span></a>;
+ <span class="date">1423</span> <span class="name">Thierry</span> <a href="../cite/Thierry/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">434</span></a>;
+ <span class="date">1438</span> <span class="name">Thierry</span> <a href="../cite/Thierry/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">199</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§37</span></a>,
+ <span class="name">Theodoricus</span> (<span class="case">nom</span>) <a href="../cite/Theodoricus/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§37</span></a>,
+ <span class="name">Thiadric</span> (<span class="case">abl</span>) <a href="../cite/Thiadric/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§28</span></a>,
+ <span class="name">Thiadrico</span> (<span class="case">abl</span>) <a href="../cite/Thiadrico/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§68</span></a>,
+ <span class="name">Thiadricus</span> (<span class="case">nom</span>) <a href="../cite/Thiadricus/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§40</span></a>;
+ <span class="date">966</span> <span class="name">Theoterici</span> (<span class="case">gen</span>) <a href="../cite/Theoterici/966/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1064</span> <span class="name">Theodoricus</span> (<span class="case">nom</span>) <a href="../cite/Theodoricus/1064/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">92</span></a>;
+ <span class="date">1100</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1100/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1103</span> <span class="name">Theoderici</span> (<span class="case">gen</span>) <a href="../cite/Theoderici/1103/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">62</span></a>;
+ <span class="date">1122</span> <span class="name">Teoderici</span> (<span class="case">gen</span>) <a href="../cite/Teoderici/1122/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">27</span></a>;
+ <span class="date">1137</span> <span class="name">Theodorici</span> (<span class="case">gen</span>) <a href="../cite/Theodorici/1137/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">102</span></a>;
+ <span class="date">1173</span> <span class="name">Teoderico</span> (<span class="case">abl</span>) <a href="../cite/Teoderico/1173/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">81</span></a>;
+ <span class="date">1174</span> <span class="name">Teodericus</span> (<span class="case">nom</span>) <a href="../cite/Teodericus/1174/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1180</span> <span class="name">Teodericus</span> (<span class="case">nom</span>) <a href="../cite/Teodericus/1180/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1185</span> <span class="name">Teodericus</span> (<span class="case">nom</span>) <a href="../cite/Teodericus/1185/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1194</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1194/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>;
+ <span class="date">1197</span> <span class="name">Theoderici</span> (<span class="case">gen</span>) <a href="../cite/Theoderici/1197/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">83</span></a>,
+ <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1197/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">83</span></a>,
+ <span class="name">Theudericus</span> (<span class="case">nom</span>) <a href="../cite/Theudericus/1197/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">2</span></a>,
+ <span class="name">Thidericus</span> (<span class="case">nom</span>) <a href="../cite/Thidericus/1197/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1200</span> <span class="name">Dietricus</span> (<span class="case">nom</span>) <a href="../cite/Dietricus/1200/UrkRott-1"><span class="bib_key">UrkRott-1</span> <span class="bib_loc">9</span></a>,
+ <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1200/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1206</span> <span class="name">Didericus</span> (<span class="case">nom</span>) <a href="../cite/Didericus/1206/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1206/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1208</span> <span class="name">Tiricus</span> (<span class="case">nom</span>) <a href="../cite/Tiricus/1208/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">124</span></a>;
+ <span class="date">1210</span> <span class="name">Thiderico</span> (<span class="case">abl</span>) <a href="../cite/Thiderico/1210/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1212</span> <span class="name">Theoderico</span> (<span class="case">abl</span>) <a href="../cite/Theoderico/1212/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">125</span></a>,
+ <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1212/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1214</span> <span class="name">Theoderici</span> (<span class="case">gen</span>) <a href="../cite/Theoderici/1214/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1214/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Tidericus</span> (<span class="case">nom</span>) <a href="../cite/Tidericus/1214/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1214x15</span> <span class="name">Diedricus</span> (<span class="case">nom</span>) <a href="../cite/Diedricus/1214x15/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1215</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1215/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1216</span> <span class="name">Ditericus</span> (<span class="case">nom</span>) <a href="../cite/Ditericus/1216/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">24</span></a>,
+ <span class="name">Theoderico</span> (<span class="case">abl</span>) <a href="../cite/Theoderico/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a>,
+ <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">22</span></a>;
+ <span class="date">1218</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1218/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1219</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">41</span></a>,
+ <span class="name">Thiedericus</span> (<span class="case">nom</span>) <a href="../cite/Thiedericus/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a>;
+ <span class="date">1220</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">47</span></a>;
+ <span class="date">1221</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">58</span></a>;
+ <span class="date">1222?</span> <span class="name">Theodericum</span> (<span class="case">acc</span>) <a href="../cite/Theodericum/1222?/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">133</span></a>;
+ <span class="date">1222</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1222/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">74</span></a>,
+ <a href="../cite/Theodericus/1222/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">134</span></a>;
+ <span class="date">1222?</span> <span class="name">Theodoricus</span> (<span class="case">nom</span>) <a href="../cite/Theodoricus/1222?/quix-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">133</span></a>;
+ <span class="date">1222</span> <span class="name">Tidericus</span> (<span class="case">nom</span>) <a href="../cite/Tidericus/1222/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">74</span></a>,
+ <span class="name">Tiricus</span> (<span class="case">nom</span>) <a href="../cite/Tiricus/1222/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">132</span></a>;
+ <span class="date">1225</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1225/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1229</span> <span class="name">Tydericus</span> (<span class="case">nom</span>) <a href="../cite/Tydericus/1229/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1231</span> <span class="name">Thidericus</span> (<span class="case">nom</span>) <a href="../cite/Thidericus/1231/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XI</span></a>;
+ <span class="date">1233</span> <span class="name">Teodericus</span> (<span class="case">nom</span>) <a href="../cite/Teodericus/1233/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>,
+ <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1233/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">88</span></a>;
+ <span class="date">c1235</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/c1235/UrkHan"><span class="bib_key">UrkHan</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1236</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1236/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">94</span></a>;
+ <span class="date">1240</span> <span class="name">Theoderici</span> (<span class="case">gen</span>) <a href="../cite/Theoderici/1240/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">103</span></a>;
+ <span class="date">1241</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1241/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">107</span></a>;
+ <span class="date">1242</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1242/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">109</span></a>;
+ <span class="date">1245</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1245/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1251</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1251/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">140</span></a>;
+ <span class="date">1258</span> <span class="name">Theoderico</span> (<span class="case">dat</span>) <a href="../cite/Theoderico/1258/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>;
+ <span class="date">1259</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>,
+ <span class="name">Thidericus</span> (<span class="case">nom</span>) <a href="../cite/Thidericus/1259/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1310</span> <span class="name">Thiderico</span> (<span class="case">abl</span>) <a href="../cite/Thiderico/1310/UrkHan"><span class="bib_key">UrkHan</span> <span class="bib_loc">4</span></a>,
+ <span class="name">Thidericus</span> (<span class="case">nom</span>) <a href="../cite/Thidericus/1310/UrkHan"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1351</span> <span class="name">Thidericum</span> (<span class="case">acc</span>) <a href="../cite/Thidericum/1351/UrkHan"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1401</span> <span class="name">Theoderico</span> (<span class="case">dat</span>) <a href="../cite/Theoderico/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 29</span></a>,
+ <span class="name">detheri</span> (<span class="case">gen</span>) <a href="../cite/detheri/1401/HD1401"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 388</span></a>,
+ <span class="name">dyderico</span> (<span class="case">dat</span>) <a href="../cite/dyderico/1401/HD1401"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 86</span></a>;
+ <span class="date">1408</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1408/UrkJen2"><span class="bib_key">UrkJen2</span> <span class="bib_loc">13</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1214</span> <span class="name">Dietherus</span> (<span class="case">nom</span>) <a href="../cite/Dietherus/1214/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1225</span> <span class="name">Dietherus</span> (<span class="case">nom</span>) <a href="../cite/Dietherus/1225/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1233</span> <span class="name">Dietho</span> (<span class="case">nom</span>) <a href="../cite/Dietho/1233/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">88</span></a>;
+ <span class="date">1259</span> <span class="name">Thidemannus</span> (<span class="case">nom</span>) <a href="../cite/Thidemannus/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1401</span> <span class="name">Tilmanno</span> (<span class="case">dat</span>) <a href="../cite/Tilmanno/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 57</span></a>,
+ <span class="name">tylmanno</span> (<span class="case">dat</span>) <a href="../cite/tylmanno/1401/HD1401"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 103</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1293</span> <span class="name">Ditrich</span> (<span class="case">acc</span>) <a href="../cite/Ditrich/1293/UrkWitt-II"><span class="bib_key">UrkWitt-II</span> <span class="bib_loc">187</span></a>;
+ <span class="date">1339</span> <span class="name">Dietrichen</span> (<span class="case">acc</span>) <a href="../cite/Dietrichen/1339/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">151</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1406</span> <span class="name">Ditterich</span> (<span class="case">nom</span>) <a href="../cite/Ditterich/1406/UrkJen2"><span class="bib_key">UrkJen2</span> <span class="bib_loc">5</span></a>,
+ <span class="name">Ditteriche</span> (<span class="case">dat</span>) <a href="../cite/Ditteriche/1406/UrkJen2"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1408</span> <span class="name">Ditterich</span> (<span class="case">nom</span>) <a href="../cite/Ditterich/1408/UrkJen2"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1409</span> <span class="name">Dietrich</span> (<span class="case">nom</span>) <a href="../cite/Dietrich/1409/UrkJen2"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Ditterich</span> (<span class="case">nom</span>) <a href="../cite/Ditterich/1409/UrkJen2"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>,
+ <span class="name">Ditteriche</span> (<span class="case">dat</span>) <a href="../cite/Ditteriche/1409/UrkJen2"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1410</span> <span class="name">Ditherich</span> (<span class="case">nom</span>) <a href="../cite/Ditherich/1410/UrkJen2"><span class="bib_key">ibid.</span> <span class="bib_loc">20</span></a>;
+ <span class="date">1424</span> <span class="name">Dietrich</span> (<span class="case">nom</span>) <a href="../cite/Dietrich/1424/UrkRott-1"><span class="bib_key">UrkRott-1</span> <span class="bib_loc">891</span></a>;
+ <span class="date">1497</span> <span class="name">Dieterich</span> <a href="../cite/Dieterich/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">853</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1497</span> <span class="name">Dietz</span> <a href="../cite/Dietz/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">p. 1</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1347</span> <span class="name">Diderickes</span> (<span class="case">gen</span>) <a href="../cite/Diderickes/1347/UrkHan"><span class="bib_key">UrkHan</span> <span class="bib_loc">7</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">fin12thC</span> <span class="name">Tilaman</span> (<span class="case">gen</span>) <a href="../cite/Tilaman/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 16</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1237</span> <span class="name">Diatricus</span> (<span class="case">nom</span>) <a href="../cite/Diatricus/1237/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">580</span></a>;
+ <span class="date">1257</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1257/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">165</span></a>;
+ <span class="date">1261</span> <span class="name">Ditricus</span> (<span class="case">nom</span>) <a href="../cite/Ditricus/1261/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">209</span></a>;
+ <span class="date">1285</span> <span class="name">Tederici</span> (<span class="case">gen</span>) <a href="../cite/Tederici/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 159</span></a>;
+ <span class="date">1326</span> <span class="name">Dyetrico</span> (<span class="case">abl</span>) <a href="../cite/Dyetrico/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 446</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1286</span> <span class="name">Thidericus</span> (<span class="case">nom</span>) <a href="../cite/Thidericus/1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">484</span></a>;
+ <span class="date">1287</span> <span class="name">Teoderico</span> (<span class="case">dat</span>) <a href="../cite/Teoderico/1287/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">216</span></a>,
+ <span class="name">Thiderico</span> (<span class="case">dat</span>) <a href="../cite/Thiderico/1287/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">213</span></a>;
+ <span class="date">1289</span> <span class="name">Tiderici</span> (<span class="case">gen</span>) <a href="../cite/Tiderici/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">389</span></a>,
+ <span class="name">Tiderico</span> (<span class="case">dat</span>) <a href="../cite/Tiderico/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Tidericus</span> (<span class="case">nom</span>) <a href="../cite/Tidericus/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">339</span></a>;
+ <span class="date">1292</span> <span class="name">Thiderico</span> (<span class="case">dat</span>) <a href="../cite/Thiderico/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">145</span></a>;
+ <span class="date">1293</span> <span class="name">Thiderico</span> (<span class="case">dat</span>) <a href="../cite/Thiderico/1293/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">245</span></a>;
+ <span class="date">1294</span> <span class="name">Thiderici</span> (<span class="case">gen</span>) <a href="../cite/Thiderici/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">155</span></a>;
+ <span class="date">1295</span> <span class="name">Thiderici</span> (<span class="case">gen</span>) <a href="../cite/Thiderici/1295/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">358</span></a>;
+ <span class="date">1298</span> <span class="name">Thidericus</span> (<span class="case">nom</span>) <a href="../cite/Thidericus/1298/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">402</span></a>;
+ <span class="date">1302</span> <span class="name">Theoderico</span> (<span class="case">dat</span>) <a href="../cite/Theoderico/1302/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">196</span></a>;
+ <span class="date">1303</span> <span class="name">Thiderico</span> (<span class="case">dat</span>) <a href="../cite/Thiderico/1303/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">100</span></a>;
+ <span class="date">1307</span> <span class="name">Theoderico</span> (<span class="case">dat</span>) <a href="../cite/Theoderico/1307/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">107</span></a>,
+ <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1307/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">113</span></a>;
+ <span class="date">1315</span> <span class="name">Theoderico</span> (<span class="case">dat</span>) <a href="../cite/Theoderico/1315/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">315</span></a>;
+ <span class="date">1342</span> <span class="name">Tydericus</span> (<span class="case">nom</span>) <a href="../cite/Tydericus/1342/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">381</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1286</span> <span class="name">Thidemanno</span> (<span class="case">dat</span>) <a href="../cite/Thidemanno/1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">475</span></a>,
+ <span class="name">Thiderico</span> (<span class="case">dat</span>) <a href="../cite/Thiderico/1286/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">477</span></a>;
+ <span class="date">1302</span> <span class="name">Tidemanno</span> (<span class="case">dat</span>) <a href="../cite/Tidemanno/1302/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">92</span></a>;
+ <span class="date">1303</span> <span class="name">Thidemanno</span> (<span class="case">dat</span>) <a href="../cite/Thidemanno/1303/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>,
+ <span class="name">Tidemanno</span> (<span class="case">dat</span>) <a href="../cite/Tidemanno/1303/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">460</span></a>;
+ <span class="date">1332</span> <span class="name">Tidemanni</span> (<span class="case">dat</span>) <a href="../cite/Tidemanni/1332/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">118</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1452</span> <span class="name">Didericus</span> <a href="../cite/Didericus/1452/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1523</span> <span class="name">Dyryck</span> <a href="../cite/Dyryck/1523/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1565x1577</span> <span class="name">Dirick</span> <a href="../cite/Dirick/1565x1577/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 98</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1254</span> <span class="name">thiderici</span> (<span class="case">gen</span>) <a href="../cite/thiderici/1254/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 294</span></a>,
+ <span class="name">thidericus</span> (<span class="case">nom</span>) <a href="../cite/thidericus/1254/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 293</span></a>;
+ <span class="date">1268</span> <span class="name">Thedericus</span> (<span class="case">nom</span>) <a href="../cite/Thedericus/1268/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 295</span></a>;
+ <span class="date">1288</span> <span class="name">Tidericus</span> (<span class="case">nom</span>) <a href="../cite/Tidericus/1288/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 296</span></a>;
+ <span class="date">1291</span> <span class="name">tiderici</span> (<span class="case">gen</span>) <a href="../cite/tiderici/1291/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 297</span></a>;
+ <span class="date">1297</span> <span class="name">thidericus</span> (<span class="case">nom</span>) <a href="../cite/thidericus/1297/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 297</span></a>;
+ <span class="date">1330</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1330/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 299</span></a>;
+ <span class="date">1347</span> <span class="name">theodericus</span> (<span class="case">nom</span>) <a href="../cite/theodericus/1347/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 300</span></a>;
+ <span class="date">1349</span> <span class="name">theoderici</span> (<span class="case">gen</span>) <a href="../cite/theoderici/1349/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 300</span></a>,
+ <span class="name">theodericus</span> (<span class="case">nom</span>) <a href="../cite/theodericus/1349/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 300</span></a>;
+ <span class="date">1356</span> <span class="name">theoderici</span> (<span class="case">gen</span>) <a href="../cite/theoderici/1356/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301</span></a>,
+ <span class="name">theodericus</span> (<span class="case">nom</span>) <a href="../cite/theodericus/1356/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301</span></a>;
+ <span class="date">1364</span> <span class="name">theodericus</span> (<span class="case">nom</span>) <a href="../cite/theodericus/1364/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302</span></a>;
+ <span class="date">1369</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1369/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303</span></a>;
+ <span class="date">1387</span> <span class="name">theodericus</span> (<span class="case">nom</span>) <a href="../cite/theodericus/1387/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1284</span> <span class="name">tydemannus</span> (<span class="case">nom</span>) <a href="../cite/tydemannus/1284/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 296</span></a>;
+ <span class="date">1288</span> <span class="name">tidemanni</span> (<span class="case">gen</span>) <a href="../cite/tidemanni/1288/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 296</span></a>;
+ <span class="date">1291</span> <span class="name">Tidemannus</span> (<span class="case">nom</span>) <a href="../cite/Tidemannus/1291/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 297</span></a>;
+ <span class="date">1297</span> <span class="name">thidemannus</span> (<span class="case">nom</span>) <a href="../cite/thidemannus/1297/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 297</span></a>;
+ <span class="date">1311</span> <span class="name">thijdemannus</span> (<span class="case">nom</span>) <a href="../cite/thijdemannus/1311/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 298</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1573</span> <span class="name">Dirck</span> <a href="../cite/Dirck/1573/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1574</span> <span class="name">Dirck</span> <a href="../cite/Dirck/1574/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1232</span> <span class="name">Theodericus</span> (<span class="case">nom</span>) <a href="../cite/Theodericus/1232/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">87</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1324x1332</span> <span class="name">Diterich</span> <a href="../cite/Diterich/1324x1332/SBGlatzer"><span class="bib_key">SBGlatzer</span> <span class="bib_loc">p. 1</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, J. Uckelman, S.L. Uckelman. "Theodoric". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Theodoric.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

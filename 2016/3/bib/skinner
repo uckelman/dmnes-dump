@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>skinner</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>skinner</dt>
+  <dd>Patricia Skinner. <em>Health and Medicine in Early Medieval Southern Italy</em>. E. J. Brill, 1997.</dd>
+</dl>
+
+
+  <a href="../cite/Adelghisa/1090/skinner">Adelghisa</a>
+
+  <a href="../cite/Adelghisa/1089/skinner">Adelghisa</a>
+
+  <a href="../cite/Adelghisa/1013/skinner">Adelghisa</a>
+
+  <a href="../cite/Anna/964/skinner">Anna</a>
+
+  <a href="../cite/Bona/1073/skinner">Bona</a>
+
+  <a href="../cite/Calomaria/1003/skinner">Calomaria</a>
+
+  <a href="../cite/Cara/1028/skinner">Cara</a>
+
+  <a href="../cite/Ermeperga/853/skinner">Ermeperga</a>
+
+  <a href="../cite/Eufimia/1034/skinner">Eufimia</a>
+
+  <a href="../cite/Eupraxia/1030/skinner">Eupraxia</a>
+
+  <a href="../cite/Gemma/954/skinner">Gemma</a>
+
+  <a href="../cite/Gemma/1089/skinner">Gemma</a>
+
+  <a href="../cite/Gervisa/1034/skinner">Gervisa</a>
+
+  <a href="../cite/Iaquinta/999/skinner">Iaquinta</a>
+
+  <a href="../cite/Leni/1010/skinner">Leni</a>
+
+  <a href="../cite/Maria/966/skinner">Maria</a>
+
+  <a href="../cite/Maria/974/skinner">Maria</a>
+
+  <a href="../cite/Maria/1063/skinner">Maria</a>
+
+  <a href="../cite/Marinus/1036/skinner">Marinus</a>
+
+  <a href="../cite/Maroccia/1008/skinner">Maroccia</a>
+
+  <a href="../cite/Matrona/1002/skinner">Matrona</a>
+
+  <a href="../cite/Mira/1001/skinner">Mira</a>
+
+  <a href="../cite/Muscata/1031/skinner">Muscata</a>
+
+  <a href="../cite/Orsa/882/skinner">Orsa</a>
+
+  <a href="../cite/Regalis/1068/skinner">Regalis</a>
+
+  <a href="../cite/Sassa/973/skinner">Sassa</a>
+
+  <a href="../cite/Sica/996/skinner">Sica</a>
+
+  <a href="../cite/Theodonanda/996/skinner">Theodonanda</a>
+
+  <a href="../cite/Wiseltruda/848/skinner">Wiseltruda</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

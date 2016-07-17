@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Willelma</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Willelma</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Fem. of <a class="nym" href="William">William</a>.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>In England, diminutive forms are almost exclusively found.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1580</span> <span class="name">William</span> <a href="../cite/William/1580/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 85</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1540</span> <span class="name">Wylmott</span> <a href="../cite/Wylmott/1540/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1542</span> <span class="name">Wylmot</span> <a href="../cite/Wylmot/1542/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1544</span> <span class="name">Wylmot</span> <a href="../cite/Wylmot/1544/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1545</span> <span class="name">Wylmott</span> <a href="../cite/Wylmott/1545/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1547</span> <span class="name">Wilmot</span> <a href="../cite/Wilmot/1547/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Wylmot</span> <a href="../cite/Wylmot/1547/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1551</span> <span class="name">Wyllmott</span> <a href="../cite/Wyllmott/1551/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1552</span> <span class="name">Wylmet</span> <a href="../cite/Wylmet/1552/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1559</span> <span class="name">Wilmote</span> <a href="../cite/Wilmote/1559/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1568</span> <span class="name">Wilmot</span> <a href="../cite/Wilmot/1568/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2b</span></a>;
+ <span class="date">1579</span> <span class="name">Wilmoute</span> <a href="../cite/Wilmoute/1579/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 84</span></a>;
+ <span class="date">1582</span> <span class="name">Wilmott</span> <a href="../cite/Wilmott/1582/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1583</span> <span class="name">Wylmett</span> <a href="../cite/Wylmett/1583/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1584</span> <span class="name">Willmot</span> <a href="../cite/Willmot/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1586</span> <span class="name">Willmot</span> <a href="../cite/Willmot/1586/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Wilmote</span> <a href="../cite/Wilmote/1586/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1587</span> <span class="name">Willmot</span> <a href="../cite/Willmot/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1588</span> <span class="name">Willmet</span> <a href="../cite/Willmet/1588/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 23</span></a>,
+ <span class="name">Willmot</span> <a href="../cite/Willmot/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1589</span> <span class="name">Willmot</span> <a href="../cite/Willmot/1589/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>,
+ <span class="name">Wylmot</span> <a href="../cite/Wylmot/1589/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1590</span> <span class="name">Wilmot</span> <a href="../cite/Wilmot/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 20</span></a>,
+ <span class="name">Wylmet</span> <a href="../cite/Wylmet/1590/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1592</span> <span class="name">Willmot</span> <a href="../cite/Willmot/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 24</span></a>,
+ <span class="name">Wilmott</span> <a href="../cite/Wilmott/1592/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1593</span> <span class="name">Willmot</span> <a href="../cite/Willmot/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Wilmot</span> <a href="../cite/Wilmot/1593/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1594</span> <span class="name">Willmot</span> <a href="../cite/Willmot/1594/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Wilmott</span> <a href="../cite/Wilmott/1594/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1597</span> <span class="name">Wilmot</span> <a href="../cite/Wilmot/1597/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1598</span> <span class="name">Wilmot</span> <a href="../cite/Wilmot/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>,
+ <span class="name">Wilmott</span> <a href="../cite/Wilmott/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1273</span> <span class="name">Guillelma</span> (<span class="case">nom</span>) <a href="../cite/Guillelma/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Guillelmam</span> (<span class="case">acc</span>) <a href="../cite/Guillelmam/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>,
+ <span class="name">Guillelme</span> (<span class="case">gen</span>) <a href="../cite/Guillelme/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Wilellme</span> (<span class="case">gen</span>) <a href="../cite/Wilellme/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1274</span> <span class="name">Guilelma</span> (<span class="case">nom</span>) <a href="../cite/Guilelma/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>,
+ <span class="name">Guillelma</span> (<span class="case">nom</span>) <a href="../cite/Guillelma/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1287</span> <span class="name">Guillelma</span> (<span class="case">nom</span>) <a href="../cite/Guillelma/1287/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 74</span></a>;
+ <span class="date">1310/11</span> <span class="name">Guillelma</span> (<span class="case">nom</span>) <a href="../cite/Guillelma/1310s11/GasReg-A"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 100</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Guillaume</span> <a href="../cite/Guillaume/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 96</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Guillemete</span> <a href="../cite/Guillemete/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Guillemette</span> <a href="../cite/Guillemette/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 106</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Guillemette</span> <a href="../cite/Guillemette/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">117</span></a>;
+ <span class="date">1455</span> <span class="name">Guillemette</span> <a href="../cite/Guillemette/1455/HRAVP-3"><span class="bib_key">HRAVP-3</span> <span class="bib_loc">p. 353</span></a>;
+ <span class="date">1562</span> <span class="name">Guillemette</span> <a href="../cite/Guillemette/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1563</span> <span class="name">Guillemette</span> <a href="../cite/Guillemette/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="name">Guillemine</span> <a href="../cite/Guillemine/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1564</span> <span class="name">Guillemette</span> <a href="../cite/Guillemette/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>,
+ <span class="name">Guillemine</span> <a href="../cite/Guillemine/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1565</span> <span class="name">Guillemette</span> <a href="../cite/Guillemette/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 121</span></a>,
+ <span class="name">Guillemine</span> <a href="../cite/Guillemine/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1566</span> <span class="name">Guillemette</span> <a href="../cite/Guillemette/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 200</span></a>,
+ <span class="name">Guillemine</span> <a href="../cite/Guillemine/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 206</span></a>;
+ <span class="date">1567</span> <span class="name">Guillemette</span> <a href="../cite/Guillemette/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 279</span></a>,
+ <span class="name">Guillemine</span> <a href="../cite/Guillemine/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 293</span></a>;
+ <span class="date">1568</span> <span class="name">Guillemette</span> <a href="../cite/Guillemette/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 368</span></a>,
+ <span class="name">Guillemine</span> <a href="../cite/Guillemine/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 371</span></a>;
+ <span class="date">1570</span> <span class="name">Guillemette</span> <a href="../cite/Guillemette/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 422</span></a>;
+ <span class="date">1571</span> <span class="name">Guillemette</span> <a href="../cite/Guillemette/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 457</span></a>,
+ <span class="name">Guillemine</span> <a href="../cite/Guillemine/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 443</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Guillelma</span> (<span class="case">nom</span>) <a href="../cite/Guillelma/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">36</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1250</span> <span class="name">Guialma</span> <a href="../cite/Guialma/1250/RusGeb"><span class="bib_key">RusGeb</span> <span class="bib_loc">p. 274</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1218</span> <span class="name">Willelma</span> (<span class="case">nom</span>) <a href="../cite/Willelma/1218/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">35</span></a>;
+ <span class="date">14thCx1478</span> <span class="name">Vuillerma</span> (<span class="case">nom</span>) <a href="../cite/Vuillerma/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(5)</span></a>,
+ <span class="name">Vuillierma</span> (<span class="case">nom</span>) <a href="../cite/Vuillierma/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(71)</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">14thCx1478</span> <span class="name">Guillermeta</span> (<span class="case">nom</span>) <a href="../cite/Guillermeta/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(63)</span></a>,
+ <span class="name">Guillermete</span> (<span class="case">gen</span>) <a href="../cite/Guillermete/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(63)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Willelma". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Willelma.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

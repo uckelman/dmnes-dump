@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>About — Dictionary of Medieval Names from European Sources</title>
+  <link rel="icon" type="image/png" href="static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="about">About</a></li>
+        <li><a href="names">Browse</a></li>
+        <li><a href="guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<h1>About</h1>
+
+<h2>About the <i>Dictionary</i></h2>
+
+<p>The <i>Dictionary</i> aims to contain all given (fore, Christian) names recorded in European sources written between 500 and 1600, less the names of historical/non-contemporary people and names occurring only in fictional literature or poetry. Development of the <i>Dictionary</i> is planned in two phases:
+<ul>
+  <li>First phase: Sources from Great Britain, Ireland, Iceland, Scandinavia, Iberia, Italy, France, Germany, Hungary</li>
+  <li>Second phase: Sources from Eastern Europe (Romania, Greece, Poland, Russia, Ukraine, the Baltic states, etc.)</li>
+</ul>
+
+Editions are published quarterly.
+</p>
+
+<h2>What's new?</h2>
+
+<p>We published the first edition in 2015, containing over 20,000 citations of more than 1,000 different names from Portugal, Spain, Ireland, England, Scotland, France, Italy, Norway, Sweden, Germany, Switzerland, Estonia, Latvia, the Czech Republic, Hungary, and Malta. For regular updates, please follow our <a href="https://dmnes.wordpress.com/">blog</a>.
+
+<h2 id="masthead">Masthead</h2>
+
+<div class="masthead">
+<table>
+  <tr>
+    <td class="mast_left">Editor-in-Chief</td>
+    <td class="mast_right"><a href="http://community.dur.ac.uk/s.l.uckelman/">Dr. Sara L. Uckelman</a>, <a href="https://www.dur.ac.uk/">Durham University</a></td>
+  </tr>
+  <tr>
+    <td class="mast_left">Editorial Assistants</td>
+    <td class="mast_right">
+      Nicholas Adams, independent scholar<br/>
+      Genora Grim, University College London<br/>
+      <a href="https://dcu.academia.edu/NinaShiel/">Dr. Nina Shiel</a>, Dublin City University<br/>
+      Rebecca Le Get, La Trobe University</br>
+      Dr. J.A. MacGowan, Oxford<br/>
+      <a href="https://elte.academia.edu/MariannSl%C3%ADz">Dr. Mariann Slíz</a>, Eötvös Loránd University<br/>
+      Rachel Steffensen, independent scholar<br/>
+      Christine Woodhams, independent scholar
+    </td>
+  </tr>
+  <tr>
+    <td class="mast_left">Social Media Design and Development</td>
+    <td class="mast_right">Arnfríður Ingvarsdóttir</td>
+  </tr>
+  <tr>
+    <td class="mast_left">Systems Design and Development</td>
+    <td class="mast_right">Dr. Joel Uckelman</td>
+  </tr>
+  <tr>
+    <td class="mast_left">Email Correspondence</td>
+    <td class="mast_right"><a href="mailto:eic@dmnes.org">EiC@dmnes.org</a></td>
+  </tr>
+</table>
+</div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="archives">Archives</a></li>
+        <li><a href="contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

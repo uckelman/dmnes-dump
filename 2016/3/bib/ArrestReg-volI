@@ -1,0 +1,866 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>ArrestReg-volI</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>ArrestReg-volI</dt>
+  <dd><em>Les Olim ou Registres des Arrêts rendus par la Cour du Roi sous les Règnes de Saint Louis, de Philippe le Hardi, de Philippe le Bel, de Louis le Hutin, et de Philippe le Long, publiés par le Comte Beugnot, membre de l'Institut</em>, volume I: 1254-1273 of <em>Collection de Documents Inédits sur l'Histoire de France publiés par ordre du Roi et par les soins du Ministre de l'Instruction Publique.</em> Paris: Imprimerie Royale, 1839.</dd>
+</dl>
+
+
+  <a href="../cite/Aalais/1260/ArrestReg-volI">Aalais</a>
+
+  <a href="../cite/Aalidis/1260/ArrestReg-volI">Aalidis</a>
+
+  <a href="../cite/Adam/1258/ArrestReg-volI">Adam</a>
+
+  <a href="../cite/Adam/1257/ArrestReg-volI">Adam</a>
+
+  <a href="../cite/Adam/1255/ArrestReg-volI">Adam</a>
+
+  <a href="../cite/Adame/1257/ArrestReg-volI">Adame</a>
+
+  <a href="../cite/Ade/1260/ArrestReg-volI">Ade</a>
+
+  <a href="../cite/Ade/1258/ArrestReg-volI">Ade</a>
+
+  <a href="../cite/Adelina/1260/ArrestReg-volI">Adelina</a>
+
+  <a href="../cite/Adelinam/1260/ArrestReg-volI">Adelinam</a>
+
+  <a href="../cite/Agnes/1258/ArrestReg-volI">Agnes</a>
+
+  <a href="../cite/Albini/1258/ArrestReg-volI">Albini</a>
+
+  <a href="../cite/Almauricum/1259/ArrestReg-volI">Almauricum</a>
+
+  <a href="../cite/Amalrico/1261/ArrestReg-volI">Amalrico</a>
+
+  <a href="../cite/Amalrico/1260/ArrestReg-volI">Amalrico</a>
+
+  <a href="../cite/Amalricum/1258/ArrestReg-volI">Amalricum</a>
+
+  <a href="../cite/Amalricus/1258/ArrestReg-volI">Amalricus</a>
+
+  <a href="../cite/Amalricus/1261/ArrestReg-volI">Amalricus</a>
+
+  <a href="../cite/Amalricus/1260/ArrestReg-volI">Amalricus</a>
+
+  <a href="../cite/Andrea/1259/ArrestReg-volI">Andrea</a>
+
+  <a href="../cite/Andream/1259/ArrestReg-volI">Andream</a>
+
+  <a href="../cite/Andream/1257/ArrestReg-volI">Andream</a>
+
+  <a href="../cite/Andreas/1259/ArrestReg-volI">Andreas</a>
+
+  <a href="../cite/Anselinus/1260/ArrestReg-volI">Anselinus</a>
+
+  <a href="../cite/Ansello/1257/ArrestReg-volI">Ansello</a>
+
+  <a href="../cite/Ansellum/1261/ArrestReg-volI">Ansellum</a>
+
+  <a href="../cite/Ansellus/1258/ArrestReg-volI">Ansellus</a>
+
+  <a href="../cite/Anselmus/1257/ArrestReg-volI">Anselmus</a>
+
+  <a href="../cite/Arnulpho/1260/ArrestReg-volI">Arnulpho</a>
+
+  <a href="../cite/Arnulphum/1260/ArrestReg-volI">Arnulphum</a>
+
+  <a href="../cite/Auberti/1260/ArrestReg-volI">Auberti</a>
+
+  <a href="../cite/Aubertum/1258/ArrestReg-volI">Aubertum</a>
+
+  <a href="../cite/Aude/1257/ArrestReg-volI">Aude</a>
+
+  <a href="../cite/Avelina/1258/ArrestReg-volI">Avelina</a>
+
+  <a href="../cite/Avicia/1260/ArrestReg-volI">Avicia</a>
+
+  <a href="../cite/Avicie/1260/ArrestReg-volI">Avicie</a>
+
+  <a href="../cite/Aymericum/1260/ArrestReg-volI">Aymericum</a>
+
+  <a href="../cite/Aymericum/1258/ArrestReg-volI">Aymericum</a>
+
+  <a href="../cite/Bartholomei/1259/ArrestReg-volI">Bartholomei</a>
+
+  <a href="../cite/Bartholomei/1258/ArrestReg-volI">Bartholomei</a>
+
+  <a href="../cite/Bartholomeo/1260/ArrestReg-volI">Bartholomeo</a>
+
+  <a href="../cite/Bartholomeus/1260/ArrestReg-volI">Bartholomeus</a>
+
+  <a href="../cite/Bartholomeus/1258/ArrestReg-volI">Bartholomeus</a>
+
+  <a href="../cite/Bernardo/1261/ArrestReg-volI">Bernardo</a>
+
+  <a href="../cite/Bernardo/1258/ArrestReg-volI">Bernardo</a>
+
+  <a href="../cite/Bernardus/1260/ArrestReg-volI">Bernardus</a>
+
+  <a href="../cite/Bernardus/1261/ArrestReg-volI">Bernardus</a>
+
+  <a href="../cite/Bertaudus/1259/ArrestReg-volI">Bertaudus</a>
+
+  <a href="../cite/Blancha/1257/ArrestReg-volI">Blancha</a>
+
+  <a href="../cite/Blanche/1259/ArrestReg-volI">Blanche</a>
+
+  <a href="../cite/Bochardi/1260/ArrestReg-volI">Bochardi</a>
+
+  <a href="../cite/Bochardum/1260/ArrestReg-volI">Bochardum</a>
+
+  <a href="../cite/Bourchardo/1258/ArrestReg-volI">Bourchardo</a>
+
+  <a href="../cite/Briani/1258/ArrestReg-volI">Briani</a>
+
+  <a href="../cite/Brianum/1258/ArrestReg-volI">Brianum</a>
+
+  <a href="../cite/Brianus/1258/ArrestReg-volI">Brianus</a>
+
+  <a href="../cite/Brunello/1260/ArrestReg-volI">Brunello</a>
+
+  <a href="../cite/Brunellus/1260/ArrestReg-volI">Brunellus</a>
+
+  <a href="../cite/Clementi/1260/ArrestReg-volI">Clementi</a>
+
+  <a href="../cite/Colardus/1258/ArrestReg-volI">Colardus</a>
+
+  <a href="../cite/Colinus/1259/ArrestReg-volI">Colinus</a>
+
+  <a href="../cite/Droco/1259/ArrestReg-volI">Droco</a>
+
+  <a href="../cite/Droco/1258/ArrestReg-volI">Droco</a>
+
+  <a href="../cite/Droco/1260/ArrestReg-volI">Droco</a>
+
+  <a href="../cite/Drocone/1260/ArrestReg-volI">Drocone</a>
+
+  <a href="../cite/Droconem/1260/ArrestReg-volI">Droconem</a>
+
+  <a href="../cite/Droconem/1259/ArrestReg-volI">Droconem</a>
+
+  <a href="../cite/Droconis/1258/ArrestReg-volI">Droconis</a>
+
+  <a href="../cite/Droconis/1257/ArrestReg-volI">Droconis</a>
+
+  <a href="../cite/Durandi/1258/ArrestReg-volI">Durandi</a>
+
+  <a href="../cite/Durandus/1258/ArrestReg-volI">Durandus</a>
+
+  <a href="../cite/Dyonisium/1258/ArrestReg-volI">Dyonisium</a>
+
+  <a href="../cite/Egidius/1260/ArrestReg-volI">Egidius</a>
+
+  <a href="../cite/Elisabeth/1257/ArrestReg-volI">Elisabeth</a>
+
+  <a href="../cite/Emelina/1258/ArrestReg-volI">Emelina</a>
+
+  <a href="../cite/Emelina/1260/ArrestReg-volI">Emelina</a>
+
+  <a href="../cite/Emengarda/1260/ArrestReg-volI">Emengarda</a>
+
+  <a href="../cite/Emengardam/1260/ArrestReg-volI">Emengardam</a>
+
+  <a href="../cite/Enricus/1255/ArrestReg-volI">Enricus</a>
+
+  <a href="../cite/Eudo/1257/ArrestReg-volI">Eudo</a>
+
+  <a href="../cite/Eustachius/1257/ArrestReg-volI">Eustachius</a>
+
+  <a href="../cite/Eustachius/1259/ArrestReg-volI">Eustachius</a>
+
+  <a href="../cite/Evrardo/1260/ArrestReg-volI">Evrardo</a>
+
+  <a href="../cite/Evrardum/1260/ArrestReg-volI">Evrardum</a>
+
+  <a href="../cite/Fulconis/1259/ArrestReg-volI">Fulconis</a>
+
+  <a href="../cite/Galteri/1257/ArrestReg-volI">Galteri</a>
+
+  <a href="../cite/Galtero/1261/ArrestReg-volI">Galtero</a>
+
+  <a href="../cite/Galtero/1257/ArrestReg-volI">Galtero</a>
+
+  <a href="../cite/Galtero/1259/ArrestReg-volI">Galtero</a>
+
+  <a href="../cite/Galterum/1259/ArrestReg-volI">Galterum</a>
+
+  <a href="../cite/Galterum/1260/ArrestReg-volI">Galterum</a>
+
+  <a href="../cite/Galterus/1259/ArrestReg-volI">Galterus</a>
+
+  <a href="../cite/Garinum/1259/ArrestReg-volI">Garinum</a>
+
+  <a href="../cite/Garinus/1259/ArrestReg-volI">Garinus</a>
+
+  <a href="../cite/Garinus/1257/ArrestReg-volI">Garinus</a>
+
+  <a href="../cite/Garinus/1258/ArrestReg-volI">Garinus</a>
+
+  <a href="../cite/Garneri/1260/ArrestReg-volI">Garneri</a>
+
+  <a href="../cite/Gaufridi/1260/ArrestReg-volI">Gaufridi</a>
+
+  <a href="../cite/Gaufrido/1258/ArrestReg-volI">Gaufrido</a>
+
+  <a href="../cite/Gaufrido/1256/ArrestReg-volI">Gaufrido</a>
+
+  <a href="../cite/Gaufrido/1260/ArrestReg-volI">Gaufrido</a>
+
+  <a href="../cite/Gaufridum/1261/ArrestReg-volI">Gaufridum</a>
+
+  <a href="../cite/Gaufridum/1260/ArrestReg-volI">Gaufridum</a>
+
+  <a href="../cite/Gaufridum/1258/ArrestReg-volI">Gaufridum</a>
+
+  <a href="../cite/Gaufridus/1260/ArrestReg-volI">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1258/ArrestReg-volI">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1256/ArrestReg-volI">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1259/ArrestReg-volI">Gaufridus</a>
+
+  <a href="../cite/Gerardus/1257/ArrestReg-volI">Gerardus</a>
+
+  <a href="../cite/Gervasii/1255/ArrestReg-volI">Gervasii</a>
+
+  <a href="../cite/Gervasium/1259/ArrestReg-volI">Gervasium</a>
+
+  <a href="../cite/Gervasius/1258/ArrestReg-volI">Gervasius</a>
+
+  <a href="../cite/Gervasius/1260/ArrestReg-volI">Gervasius</a>
+
+  <a href="../cite/Gileti/1260/ArrestReg-volI">Gileti</a>
+
+  <a href="../cite/Gillo/1260/ArrestReg-volI">Gillo</a>
+
+  <a href="../cite/Gilo/1258/ArrestReg-volI">Gilo</a>
+
+  <a href="../cite/Gilo/1261/ArrestReg-volI">Gilo</a>
+
+  <a href="../cite/Gilo/1260/ArrestReg-volI">Gilo</a>
+
+  <a href="../cite/Gilone/1261/ArrestReg-volI">Gilone</a>
+
+  <a href="../cite/Gilone/1258/ArrestReg-volI">Gilone</a>
+
+  <a href="../cite/Gilonem/1258/ArrestReg-volI">Gilonem</a>
+
+  <a href="../cite/Girardo/1258/ArrestReg-volI">Girardo</a>
+
+  <a href="../cite/Giraudum/1259/ArrestReg-volI">Giraudum</a>
+
+  <a href="../cite/Gualterus/1257/ArrestReg-volI">Gualterus</a>
+
+  <a href="../cite/Guerricus/1257/ArrestReg-volI">Guerricus</a>
+
+  <a href="../cite/Guido/1260/ArrestReg-volI">Guido</a>
+
+  <a href="../cite/Guido/1259/ArrestReg-volI">Guido</a>
+
+  <a href="../cite/Guido/1257/ArrestReg-volI">Guido</a>
+
+  <a href="../cite/Guido/1258/ArrestReg-volI">Guido</a>
+
+  <a href="../cite/Guidonem/1261/ArrestReg-volI">Guidonem</a>
+
+  <a href="../cite/Guidonem/1259/ArrestReg-volI">Guidonem</a>
+
+  <a href="../cite/Guidonis/1260/ArrestReg-volI">Guidonis</a>
+
+  <a href="../cite/Guilebertus/1260/ArrestReg-volI">Guilebertus</a>
+
+  <a href="../cite/Guilleberti/1260/ArrestReg-volI">Guilleberti</a>
+
+  <a href="../cite/Guillelmi/1261/ArrestReg-volI">Guillelmi</a>
+
+  <a href="../cite/Guillelmi/1258/ArrestReg-volI">Guillelmi</a>
+
+  <a href="../cite/Guillelmi/1260/ArrestReg-volI">Guillelmi</a>
+
+  <a href="../cite/Guillelmi/1259/ArrestReg-volI">Guillelmi</a>
+
+  <a href="../cite/Guillelmi/1256/ArrestReg-volI">Guillelmi</a>
+
+  <a href="../cite/Guillelmi/1257/ArrestReg-volI">Guillelmi</a>
+
+  <a href="../cite/Guillelmo/1257/ArrestReg-volI">Guillelmo</a>
+
+  <a href="../cite/Guillelmo/1258/ArrestReg-volI">Guillelmo</a>
+
+  <a href="../cite/Guillelmo/1261/ArrestReg-volI">Guillelmo</a>
+
+  <a href="../cite/Guillelmo/1256/ArrestReg-volI">Guillelmo</a>
+
+  <a href="../cite/Guillelmo/1259/ArrestReg-volI">Guillelmo</a>
+
+  <a href="../cite/Guillelmo/1260/ArrestReg-volI">Guillelmo</a>
+
+  <a href="../cite/Guillelmum/1256/ArrestReg-volI">Guillelmum</a>
+
+  <a href="../cite/Guillelmum/1261/ArrestReg-volI">Guillelmum</a>
+
+  <a href="../cite/Guillelmum/1258/ArrestReg-volI">Guillelmum</a>
+
+  <a href="../cite/Guillelmum/1259/ArrestReg-volI">Guillelmum</a>
+
+  <a href="../cite/Guillelmum/1260/ArrestReg-volI">Guillelmum</a>
+
+  <a href="../cite/Guillelmum/1257/ArrestReg-volI">Guillelmum</a>
+
+  <a href="../cite/Guillelmus/1256/ArrestReg-volI">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1260/ArrestReg-volI">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1257/ArrestReg-volI">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1261/ArrestReg-volI">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1258/ArrestReg-volI">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1255/ArrestReg-volI">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1259/ArrestReg-volI">Guillelmus</a>
+
+  <a href="../cite/Guioti/1260/ArrestReg-volI">Guioti</a>
+
+  <a href="../cite/Guoberti/1260/ArrestReg-volI">Guoberti</a>
+
+  <a href="../cite/Guodinus/1260/ArrestReg-volI">Guodinus</a>
+
+  <a href="../cite/Haymericus/1261/ArrestReg-volI">Haymericus</a>
+
+  <a href="../cite/Henrici/1257/ArrestReg-volI">Henrici</a>
+
+  <a href="../cite/Henrici/1258/ArrestReg-volI">Henrici</a>
+
+  <a href="../cite/Henrici/1260/ArrestReg-volI">Henrici</a>
+
+  <a href="../cite/Henrico/1260/ArrestReg-volI">Henrico</a>
+
+  <a href="../cite/Henricum/1260/ArrestReg-volI">Henricum</a>
+
+  <a href="../cite/Henricum/1257/ArrestReg-volI">Henricum</a>
+
+  <a href="../cite/Henricus/1257/ArrestReg-volI">Henricus</a>
+
+  <a href="../cite/Henricus/1258/ArrestReg-volI">Henricus</a>
+
+  <a href="../cite/Henricus/1260/ArrestReg-volI">Henricus</a>
+
+  <a href="../cite/Huberti/1258/ArrestReg-volI">Huberti</a>
+
+  <a href="../cite/Hubertus/1258/ArrestReg-volI">Hubertus</a>
+
+  <a href="../cite/Hueti/1258/ArrestReg-volI">Hueti</a>
+
+  <a href="../cite/Hueti/1257/ArrestReg-volI">Hueti</a>
+
+  <a href="../cite/Hueto/1257/ArrestReg-volI">Hueto</a>
+
+  <a href="../cite/Huetum/1258/ArrestReg-volI">Huetum</a>
+
+  <a href="../cite/Huetus/1258/ArrestReg-volI">Huetus</a>
+
+  <a href="../cite/Hugo/1257/ArrestReg-volI">Hugo</a>
+
+  <a href="../cite/Hugo/1259/ArrestReg-volI">Hugo</a>
+
+  <a href="../cite/Hugonem/1257/ArrestReg-volI">Hugonem</a>
+
+  <a href="../cite/Hugonem/1258/ArrestReg-volI">Hugonem</a>
+
+  <a href="../cite/Hugoni/1258/ArrestReg-volI">Hugoni</a>
+
+  <a href="../cite/Hugoni/1259/ArrestReg-volI">Hugoni</a>
+
+  <a href="../cite/Hugonis/1257/ArrestReg-volI">Hugonis</a>
+
+  <a href="../cite/Hugonis/1259/ArrestReg-volI">Hugonis</a>
+
+  <a href="../cite/Jacobi/1258/ArrestReg-volI">Jacobi</a>
+
+  <a href="../cite/Jacobo/1257/ArrestReg-volI">Jacobo</a>
+
+  <a href="../cite/Jacobum/1258/ArrestReg-volI">Jacobum</a>
+
+  <a href="../cite/Jacobus/1259/ArrestReg-volI">Jacobus</a>
+
+  <a href="../cite/Jacobus/1257/ArrestReg-volI">Jacobus</a>
+
+  <a href="../cite/Jacobus/1255/ArrestReg-volI">Jacobus</a>
+
+  <a href="../cite/Johanna/1259/ArrestReg-volI">Johanna</a>
+
+  <a href="../cite/Johanna/1258/ArrestReg-volI">Johanna</a>
+
+  <a href="../cite/Johanna/1257/ArrestReg-volI">Johanna</a>
+
+  <a href="../cite/Johannam/1258/ArrestReg-volI">Johannam</a>
+
+  <a href="../cite/Johanne/1259/ArrestReg-volI">Johanne</a>
+
+  <a href="../cite/Johanne/1257/ArrestReg-volI">Johanne</a>
+
+  <a href="../cite/Johanne/1260/ArrestReg-volI">Johanne</a>
+
+  <a href="../cite/Johanne/1258/ArrestReg-volI">Johanne</a>
+
+  <a href="../cite/Johannem/1261/ArrestReg-volI">Johannem</a>
+
+  <a href="../cite/Johannem/1259/ArrestReg-volI">Johannem</a>
+
+  <a href="../cite/Johannem/1258/ArrestReg-volI">Johannem</a>
+
+  <a href="../cite/Johannem/1260/ArrestReg-volI">Johannem</a>
+
+  <a href="../cite/Johannes/1255/ArrestReg-volI">Johannes</a>
+
+  <a href="../cite/Johannes/1256/ArrestReg-volI">Johannes</a>
+
+  <a href="../cite/Johannes/1259/ArrestReg-volI">Johannes</a>
+
+  <a href="../cite/Johannes/1260/ArrestReg-volI">Johannes</a>
+
+  <a href="../cite/Johannes/1258/ArrestReg-volI">Johannes</a>
+
+  <a href="../cite/Johannes/1261/ArrestReg-volI">Johannes</a>
+
+  <a href="../cite/Johanni/1258/ArrestReg-volI">Johanni</a>
+
+  <a href="../cite/Johanni/1257/ArrestReg-volI">Johanni</a>
+
+  <a href="../cite/Johanni/1260/ArrestReg-volI">Johanni</a>
+
+  <a href="../cite/Johannis/1258/ArrestReg-volI">Johannis</a>
+
+  <a href="../cite/Johannis/1260/ArrestReg-volI">Johannis</a>
+
+  <a href="../cite/Johannis/1259/ArrestReg-volI">Johannis</a>
+
+  <a href="../cite/Jouberti/1259/ArrestReg-volI">Jouberti</a>
+
+  <a href="../cite/Joubertus/1259/ArrestReg-volI">Joubertus</a>
+
+  <a href="../cite/Juliani/1260/ArrestReg-volI">Juliani</a>
+
+  <a href="../cite/Juliano/1260/ArrestReg-volI">Juliano</a>
+
+  <a href="../cite/Julianum/1260/ArrestReg-volI">Julianum</a>
+
+  <a href="../cite/Julianus/1258/ArrestReg-volI">Julianus</a>
+
+  <a href="../cite/Julianus/1260/ArrestReg-volI">Julianus</a>
+
+  <a href="../cite/Justa/1258/ArrestReg-volI">Justa</a>
+
+  <a href="../cite/Juste/1258/ArrestReg-volI">Juste</a>
+
+  <a href="../cite/Lambertum/1260/ArrestReg-volI">Lambertum</a>
+
+  <a href="../cite/Lambertus/1260/ArrestReg-volI">Lambertus</a>
+
+  <a href="../cite/Lambertus/1255/ArrestReg-volI">Lambertus</a>
+
+  <a href="../cite/Laurencio/1258/ArrestReg-volI">Laurencio</a>
+
+  <a href="../cite/Laurentius/1258/ArrestReg-volI">Laurentius</a>
+
+  <a href="../cite/Leonardo/1260/ArrestReg-volI">Leonardo</a>
+
+  <a href="../cite/Leonardum/1260/ArrestReg-volI">Leonardum</a>
+
+  <a href="../cite/Leonardus/1260/ArrestReg-volI">Leonardus</a>
+
+  <a href="../cite/Luce/1260/ArrestReg-volI">Luce</a>
+
+  <a href="../cite/Lucham/1260/ArrestReg-volI">Lucham</a>
+
+  <a href="../cite/Luchas/1260/ArrestReg-volI">Luchas</a>
+
+  <a href="../cite/Lucia/1260/ArrestReg-volI">Lucia</a>
+
+  <a href="../cite/Lucie/1260/ArrestReg-volI">Lucie</a>
+
+  <a href="../cite/Mainnardo/1258/ArrestReg-volI">Mainnardo</a>
+
+  <a href="../cite/Manasserum/1260/ArrestReg-volI">Manasserum</a>
+
+  <a href="../cite/Maria/1258/ArrestReg-volI">Maria</a>
+
+  <a href="../cite/Maria/1257/ArrestReg-volI">Maria</a>
+
+  <a href="../cite/Mariam/1258/ArrestReg-volI">Mariam</a>
+
+  <a href="../cite/Marie/1260/ArrestReg-volI">Marie</a>
+
+  <a href="../cite/Martinus/1255/ArrestReg-volI">Martinus</a>
+
+  <a href="../cite/Matheo/1261/ArrestReg-volI">Matheo</a>
+
+  <a href="../cite/Matheum/1260/ArrestReg-volI">Matheum</a>
+
+  <a href="../cite/Matheus/1258/ArrestReg-volI">Matheus</a>
+
+  <a href="../cite/Matheus/1257/ArrestReg-volI">Matheus</a>
+
+  <a href="../cite/Matheus/1260/ArrestReg-volI">Matheus</a>
+
+  <a href="../cite/Matheus/1261/ArrestReg-volI">Matheus</a>
+
+  <a href="../cite/Mathildis/1258/ArrestReg-volI">Mathildis</a>
+
+  <a href="../cite/Matildim/1258/ArrestReg-volI">Matildim</a>
+
+  <a href="../cite/Matildis/1258/ArrestReg-volI">Matildis</a>
+
+  <a href="../cite/Matildis/1260/ArrestReg-volI">Matildis</a>
+
+  <a href="../cite/Matilla/1260/ArrestReg-volI">Matilla</a>
+
+  <a href="../cite/Menardo/1258/ArrestReg-volI">Menardo</a>
+
+  <a href="../cite/Michael/1258/ArrestReg-volI">Michael</a>
+
+  <a href="../cite/Michael/1257/ArrestReg-volI">Michael</a>
+
+  <a href="../cite/Michaelem/1258/ArrestReg-volI">Michaelem</a>
+
+  <a href="../cite/Michaelem/1257/ArrestReg-volI">Michaelem</a>
+
+  <a href="../cite/Michaeli/1258/ArrestReg-volI">Michaeli</a>
+
+  <a href="../cite/Michaelis/1257/ArrestReg-volI">Michaelis</a>
+
+  <a href="../cite/Nicholao/1260/ArrestReg-volI">Nicholao</a>
+
+  <a href="../cite/Nicholaum/1258/ArrestReg-volI">Nicholaum</a>
+
+  <a href="../cite/Nicholaum/1260/ArrestReg-volI">Nicholaum</a>
+
+  <a href="../cite/Nicholaum/1259/ArrestReg-volI">Nicholaum</a>
+
+  <a href="../cite/Nicholaus/1260/ArrestReg-volI">Nicholaus</a>
+
+  <a href="../cite/Nicholaus/1258/ArrestReg-volI">Nicholaus</a>
+
+  <a href="../cite/Odardum/1258/ArrestReg-volI">Odardum</a>
+
+  <a href="../cite/Odardus/1258/ArrestReg-volI">Odardus</a>
+
+  <a href="../cite/Odinus/1260/ArrestReg-volI">Odinus</a>
+
+  <a href="../cite/Odo/1258/ArrestReg-volI">Odo</a>
+
+  <a href="../cite/Odo/1255/ArrestReg-volI">Odo</a>
+
+  <a href="../cite/Odo/1260/ArrestReg-volI">Odo</a>
+
+  <a href="../cite/Odone/1257/ArrestReg-volI">Odone</a>
+
+  <a href="../cite/Odonem/1259/ArrestReg-volI">Odonem</a>
+
+  <a href="../cite/Odonis/1259/ArrestReg-volI">Odonis</a>
+
+  <a href="../cite/Ogerii/1257/ArrestReg-volI">Ogerii</a>
+
+  <a href="../cite/Oliverius/1258/ArrestReg-volI">Oliverius</a>
+
+  <a href="../cite/Oliverus/1258/ArrestReg-volI">Oliverus</a>
+
+  <a href="../cite/Perroto/1256/ArrestReg-volI">Perroto</a>
+
+  <a href="../cite/Petri/1257/ArrestReg-volI">Petri</a>
+
+  <a href="../cite/Petri/1258/ArrestReg-volI">Petri</a>
+
+  <a href="../cite/Petri/1259/ArrestReg-volI">Petri</a>
+
+  <a href="../cite/Petri/1260/ArrestReg-volI">Petri</a>
+
+  <a href="../cite/Petro/1258/ArrestReg-volI">Petro</a>
+
+  <a href="../cite/Petro/1260/ArrestReg-volI">Petro</a>
+
+  <a href="../cite/Petro/1257/ArrestReg-volI">Petro</a>
+
+  <a href="../cite/Petronilla/1259/ArrestReg-volI">Petronilla</a>
+
+  <a href="../cite/Petronillam/1259/ArrestReg-volI">Petronillam</a>
+
+  <a href="../cite/Petronille/1259/ArrestReg-volI">Petronille</a>
+
+  <a href="../cite/Petrum/1259/ArrestReg-volI">Petrum</a>
+
+  <a href="../cite/Petrum/1260/ArrestReg-volI">Petrum</a>
+
+  <a href="../cite/Petrum/1257/ArrestReg-volI">Petrum</a>
+
+  <a href="../cite/Petrum/1258/ArrestReg-volI">Petrum</a>
+
+  <a href="../cite/Petrus/1258/ArrestReg-volI">Petrus</a>
+
+  <a href="../cite/Petrus/1260/ArrestReg-volI">Petrus</a>
+
+  <a href="../cite/Petrus/1255/ArrestReg-volI">Petrus</a>
+
+  <a href="../cite/Petrus/1259/ArrestReg-volI">Petrus</a>
+
+  <a href="../cite/Petrus/1257/ArrestReg-volI">Petrus</a>
+
+  <a href="../cite/Philippi/1257/ArrestReg-volI">Philippi</a>
+
+  <a href="../cite/Philippi/1259/ArrestReg-volI">Philippi</a>
+
+  <a href="../cite/Philippi/1260/ArrestReg-volI">Philippi</a>
+
+  <a href="../cite/Philippo/1257/ArrestReg-volI">Philippo</a>
+
+  <a href="../cite/Philippo/1259/ArrestReg-volI">Philippo</a>
+
+  <a href="../cite/Philippo/1260/ArrestReg-volI">Philippo</a>
+
+  <a href="../cite/Philippum/1258/ArrestReg-volI">Philippum</a>
+
+  <a href="../cite/Philippum/1259/ArrestReg-volI">Philippum</a>
+
+  <a href="../cite/Philippus/1259/ArrestReg-volI">Philippus</a>
+
+  <a href="../cite/Philippus/1257/ArrestReg-volI">Philippus</a>
+
+  <a href="../cite/Philippus/1258/ArrestReg-volI">Philippus</a>
+
+  <a href="../cite/Philippus/1255/ArrestReg-volI">Philippus</a>
+
+  <a href="../cite/Philippus/1260/ArrestReg-volI">Philippus</a>
+
+  <a href="../cite/Philippus/1261/ArrestReg-volI">Philippus</a>
+
+  <a href="../cite/Poncii/1261/ArrestReg-volI">Poncii</a>
+
+  <a href="../cite/Poncius/1259/ArrestReg-volI">Poncius</a>
+
+  <a href="../cite/Raboudi/1260/ArrestReg-volI">Raboudi</a>
+
+  <a href="../cite/Radulphi/1260/ArrestReg-volI">Radulphi</a>
+
+  <a href="../cite/Radulphi/1258/ArrestReg-volI">Radulphi</a>
+
+  <a href="../cite/Radulpho/1257/ArrestReg-volI">Radulpho</a>
+
+  <a href="../cite/Radulpho/1260/ArrestReg-volI">Radulpho</a>
+
+  <a href="../cite/Radulphum/1261/ArrestReg-volI">Radulphum</a>
+
+  <a href="../cite/Radulphum/1260/ArrestReg-volI">Radulphum</a>
+
+  <a href="../cite/Radulphus/1258/ArrestReg-volI">Radulphus</a>
+
+  <a href="../cite/Radulphus/1260/ArrestReg-volI">Radulphus</a>
+
+  <a href="../cite/Radulphus/1257/ArrestReg-volI">Radulphus</a>
+
+  <a href="../cite/Renaudi/1259/ArrestReg-volI">Renaudi</a>
+
+  <a href="../cite/Renaudi/1257/ArrestReg-volI">Renaudi</a>
+
+  <a href="../cite/Renaudo/1259/ArrestReg-volI">Renaudo</a>
+
+  <a href="../cite/Renaudum/1257/ArrestReg-volI">Renaudum</a>
+
+  <a href="../cite/Renaudus/1259/ArrestReg-volI">Renaudus</a>
+
+  <a href="../cite/Renaudus/1256/ArrestReg-volI">Renaudus</a>
+
+  <a href="../cite/Renerus/1258/ArrestReg-volI">Renerus</a>
+
+  <a href="../cite/Richardi/1261/ArrestReg-volI">Richardi</a>
+
+  <a href="../cite/Richardo/1259/ArrestReg-volI">Richardo</a>
+
+  <a href="../cite/Richardo/1257/ArrestReg-volI">Richardo</a>
+
+  <a href="../cite/Richardus/1261/ArrestReg-volI">Richardus</a>
+
+  <a href="../cite/Richardus/1256/ArrestReg-volI">Richardus</a>
+
+  <a href="../cite/Richardus/1259/ArrestReg-volI">Richardus</a>
+
+  <a href="../cite/Roberti/1259/ArrestReg-volI">Roberti</a>
+
+  <a href="../cite/Roberto/1260/ArrestReg-volI">Roberto</a>
+
+  <a href="../cite/Robertum/1261/ArrestReg-volI">Robertum</a>
+
+  <a href="../cite/Robertum/1259/ArrestReg-volI">Robertum</a>
+
+  <a href="../cite/Robertum/1260/ArrestReg-volI">Robertum</a>
+
+  <a href="../cite/Robertus/1257/ArrestReg-volI">Robertus</a>
+
+  <a href="../cite/Robertus/1255/ArrestReg-volI">Robertus</a>
+
+  <a href="../cite/Robertus/1258/ArrestReg-volI">Robertus</a>
+
+  <a href="../cite/Robertus/1260/ArrestReg-volI">Robertus</a>
+
+  <a href="../cite/Robertus/1261/ArrestReg-volI">Robertus</a>
+
+  <a href="../cite/Robini/1256/ArrestReg-volI">Robini</a>
+
+  <a href="../cite/Robinus/1260/ArrestReg-volI">Robinus</a>
+
+  <a href="../cite/Rogeri/1260/ArrestReg-volI">Rogeri</a>
+
+  <a href="../cite/Rogerii/1260/ArrestReg-volI">Rogerii</a>
+
+  <a href="../cite/Rogero/1259/ArrestReg-volI">Rogero</a>
+
+  <a href="../cite/Rogerus/1259/ArrestReg-volI">Rogerus</a>
+
+  <a href="../cite/Rogerus/1260/ArrestReg-volI">Rogerus</a>
+
+  <a href="../cite/Rogerus/1258/ArrestReg-volI">Rogerus</a>
+
+  <a href="../cite/Sedilia/1260/ArrestReg-volI">Sedilia</a>
+
+  <a href="../cite/Sedilie/1260/ArrestReg-volI">Sedilie</a>
+
+  <a href="../cite/Sibillam/1258/ArrestReg-volI">Sibillam</a>
+
+  <a href="../cite/Simon/1260/ArrestReg-volI">Simon</a>
+
+  <a href="../cite/Simon/1257/ArrestReg-volI">Simon</a>
+
+  <a href="../cite/Simonem/1258/ArrestReg-volI">Simonem</a>
+
+  <a href="../cite/Simonem/1259/ArrestReg-volI">Simonem</a>
+
+  <a href="../cite/Simonem/1260/ArrestReg-volI">Simonem</a>
+
+  <a href="../cite/Simonis/1258/ArrestReg-volI">Simonis</a>
+
+  <a href="../cite/Simonis/1259/ArrestReg-volI">Simonis</a>
+
+  <a href="../cite/Simonis/1260/ArrestReg-volI">Simonis</a>
+
+  <a href="../cite/Stephani/1256/ArrestReg-volI">Stephani</a>
+
+  <a href="../cite/Stephani/1258/ArrestReg-volI">Stephani</a>
+
+  <a href="../cite/Stephano/1258/ArrestReg-volI">Stephano</a>
+
+  <a href="../cite/Stephanum/1260/ArrestReg-volI">Stephanum</a>
+
+  <a href="../cite/Stephanum/1256/ArrestReg-volI">Stephanum</a>
+
+  <a href="../cite/Stephanum/1259/ArrestReg-volI">Stephanum</a>
+
+  <a href="../cite/Stephanum/1261/ArrestReg-volI">Stephanum</a>
+
+  <a href="../cite/Stephanus/1260/ArrestReg-volI">Stephanus</a>
+
+  <a href="../cite/Stephanus/1258/ArrestReg-volI">Stephanus</a>
+
+  <a href="../cite/Symon/1258/ArrestReg-volI">Symon</a>
+
+  <a href="../cite/Symonem/1257/ArrestReg-volI">Symonem</a>
+
+  <a href="../cite/Symonem/1260/ArrestReg-volI">Symonem</a>
+
+  <a href="../cite/Symonem/1258/ArrestReg-volI">Symonem</a>
+
+  <a href="../cite/Symonis/1258/ArrestReg-volI">Symonis</a>
+
+  <a href="../cite/Theobaldi/1258/ArrestReg-volI">Theobaldi</a>
+
+  <a href="../cite/Theobaldo/1258/ArrestReg-volI">Theobaldo</a>
+
+  <a href="../cite/Theobaldum/1258/ArrestReg-volI">Theobaldum</a>
+
+  <a href="../cite/Theobaldum/1259/ArrestReg-volI">Theobaldum</a>
+
+  <a href="../cite/Theobaldus/1258/ArrestReg-volI">Theobaldus</a>
+
+  <a href="../cite/Therricum/1260/ArrestReg-volI">Therricum</a>
+
+  <a href="../cite/Therricum/1259/ArrestReg-volI">Therricum</a>
+
+  <a href="../cite/Thomam/1260/ArrestReg-volI">Thomam</a>
+
+  <a href="../cite/Thomam/1258/ArrestReg-volI">Thomam</a>
+
+  <a href="../cite/Thomas/1260/ArrestReg-volI">Thomas</a>
+
+  <a href="../cite/Wermundo/1258/ArrestReg-volI">Wermundo</a>
+
+  <a href="../cite/Ysabella/1258/ArrestReg-volI">Ysabella</a>
+
+  <a href="../cite/Ysabelle/1260/ArrestReg-volI">Ysabelle</a>
+
+  <a href="../cite/Ysembardus/1261/ArrestReg-volI">Ysembardus</a>
+
+  <a href="../cite/Yvonetus/1260/ArrestReg-volI">Yvonetus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

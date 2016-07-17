@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>MemStMF</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>MemStMF</dt>
+  <dd>John Richard Walbran, editor. <em>Memorials of the Abbey of St. Mary of Fountains</em>, volume 42 of <em>Publications of the Surtees Society</em>. Durham: Andrews &amp; Co.; London: Whittaker &amp; Co, T. &amp; W. Boone, Bernard Quaritch, David Nutt; Edinburgh: William Blackwood and Sons, 1863.</dd>
+</dl>
+
+
+  <a href="../cite/Achardo/c1132/MemStMF">Achardo</a>
+
+  <a href="../cite/Fulcone/c1132/MemStMF">Fulcone</a>
+
+  <a href="../cite/Garfrido/c1132/MemStMF">Garfrido</a>
+
+  <a href="../cite/Gilleberto/c1132/MemStMF">Gilleberto</a>
+
+  <a href="../cite/Hugone/c1132/MemStMF">Hugone</a>
+
+  <a href="../cite/Hulrici/c1132/MemStMF">Hulrici</a>
+
+  <a href="../cite/Osberto/c1132/MemStMF">Osberto</a>
+
+  <a href="../cite/Ricardo/c1132/MemStMF">Ricardo</a>
+
+  <a href="../cite/Roberto/c1132/MemStMF">Roberto</a>
+
+  <a href="../cite/Serlone/c1132/MemStMF">Serlone</a>
+
+  <a href="../cite/Simone/c1132/MemStMF">Simone</a>
+
+  <a href="../cite/Turstinus/c1132/MemStMF">Turstinus</a>
+
+  <a href="../cite/Waltero/c1132/MemStMF">Waltero</a>
+
+  <a href="../cite/Willielmo/c1132/MemStMF">Willielmo</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

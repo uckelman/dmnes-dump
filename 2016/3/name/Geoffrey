@@ -1,0 +1,397 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Geoffrey</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Geoffrey</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">Tribal name <i>Gaut</i> 'Geat, Goth' or <span class="lang">Old Frankish</span>, <span class="lang">Old German</span> <i>walh</i> 'foreigner, stranger; slave' from <span class="lang">Proto-Germanic</span> <i>*walhaz</i>, from a Celtic tribal name, or <span class="lang">Proto-Germanic</span> <i>*gaisa, *gaiza</i> 'arrow' + <span class="lang">Old High German</span> <i>fridu</i>, <span class="lang">Old Saxon</span> <i>frithu</i> 'peace'.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>Many different origins all developed into <span class="lang">Middle French</span> <i>Geoffrey</i>.  Spellings in <i>Gaucio-</i> are influenced by Latin <i>gaudium</i> 'joy, delight'.  This name is often confused with <a class="nym" href="Godfrey">Godfrey</a>.  
+.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1183</span> <span class="name">Galfridus</span> (<span class="case">nom</span>) <a href="../cite/Galfridus/1183/BoldonBuke"><span class="bib_key">BoldonBuke</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Galfridi</span> (<span class="case">gen</span>) <a href="../cite/Galfridi/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Galfrido</span> (<span class="case">abl</span>) <a href="../cite/Galfrido/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Galfridum</span> (<span class="case">acc</span>) <a href="../cite/Galfridum/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Galfridus</span> (<span class="case">nom</span>) <a href="../cite/Galfridus/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1189</span> <span class="name">Galfridi</span> (<span class="case">gen</span>) <a href="../cite/Galfridi/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 128</span></a>,
+ <span class="name">Galfridus</span> (<span class="case">nom</span>) <a href="../cite/Galfridus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 79</span></a>;
+ <span class="date">c1198</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/c1198/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 244</span></a>;
+ <span class="date">1222</span> <span class="name">Galfridi</span> (<span class="case">gen</span>) <a href="../cite/Galfridi/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1279–80</span> <span class="name">Galfridi</span> (<span class="case">gen</span>) <a href="../cite/Galfridi/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 28</span></a>,
+ <span class="name">Galfrido</span> (<span class="case">abl</span>) <a href="../cite/Galfrido/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Galfridus</span> (<span class="case">nom</span>) <a href="../cite/Galfridus/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1296</span> <span class="name">Galfridi</span> (<span class="case">gen</span>) <a href="../cite/Galfridi/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 96a</span></a>,
+ <span class="name">Galfridus</span> (<span class="case">nom</span>) <a href="../cite/Galfridus/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 96a</span></a>;
+ <span class="date">1300</span> <span class="name">Galfridi</span> (<span class="case">gen</span>) <a href="../cite/Galfridi/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 248</span></a>,
+ <span class="name">Galfridus</span> (<span class="case">nom</span>) <a href="../cite/Galfridus/1300/ProcSuf-vol3"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 240</span></a>,
+ <span class="name">Geffrey</span> (<span class="case">gen</span>) <a href="../cite/Geffrey/1300/ProcSuf-vol3"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 248</span></a>;
+ <span class="date">1330</span> <span class="name">Galfridum</span> (<span class="case">acc</span>) <a href="../cite/Galfridum/1330/PSS-CXIV"><span class="bib_key">PSS-CXIV</span> <span class="bib_loc">4d</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Galffridi</span> (<span class="case">gen</span>) <a href="../cite/Galffridi/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Galfridi</span> (<span class="case">gen</span>) <a href="../cite/Galfridi/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Galfridus</span> (<span class="case">nom</span>) <a href="../cite/Galfridus/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1348</span> <span class="name">Galfrido</span> (<span class="case">abl</span>) <a href="../cite/Galfrido/1348/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 10</span></a>;
+ <span class="date">1381</span> <span class="name">Galfridi</span> (<span class="case">gen</span>) <a href="../cite/Galfridi/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Galfridi/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 130</span></a>,
+ <span class="name">Galfrido</span> (<span class="case">abl</span>) <a href="../cite/Galfrido/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93</span></a>,
+ <span class="name">Galfridum</span> (<span class="case">acc</span>) <a href="../cite/Galfridum/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 76</span></a>,
+ <span class="name">Galfridus</span> (<span class="case">nom</span>) <a href="../cite/Galfridus/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Galfridus/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 69</span></a>,
+ <span class="name">Geffrius</span> (<span class="case">nom</span>) <a href="../cite/Geffrius/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1427</span> <span class="name">Galfrido</span> (<span class="case">abl</span>) <a href="../cite/Galfrido/1427/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LIII</span></a>;
+ <span class="date">1485–1486</span> <span class="name">Galfrido</span> (<span class="case">abl</span>) <a href="../cite/Galfrido/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1559</span> <span class="name">Galfrydus</span> (<span class="case">nom</span>) <a href="../cite/Galfrydus/1559/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 59</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1427</span> <span class="name">Geffray</span> <a href="../cite/Geffray/1427/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LII</span></a>;
+ <span class="date">1428</span> <span class="name">Gefori</span> <a href="../cite/Gefori/1428/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 80</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Geffrey</span> <a href="../cite/Geffrey/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1532–1533</span> <span class="name">Jeffrey</span> <a href="../cite/Jeffrey/1532–1533/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 107</span></a>;
+ <span class="date">1534</span> <span class="name">Jeffrey</span> <a href="../cite/Jeffrey/1534/CovGuild-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 131</span></a>;
+ <span class="date">1538</span> <span class="name">Jeffrey</span> <a href="../cite/Jeffrey/1538/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1554</span> <span class="name">Geffery</span> <a href="../cite/Geffery/1554/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1562</span> <span class="name">Jeffery</span> <a href="../cite/Jeffery/1562/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1563</span> <span class="name">Jeffery</span> <a href="../cite/Jeffery/1563/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1564</span> <span class="name">Geffery</span> <a href="../cite/Geffery/1564/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Geoffery</span> <a href="../cite/Geoffery/1564/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1565</span> <span class="name">Jeffery</span> <a href="../cite/Jeffery/1565/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1567</span> <span class="name">Geffry</span> <a href="../cite/Geffry/1567/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Jeffrey</span> <a href="../cite/Jeffrey/1567/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Jeffry</span> <a href="../cite/Jeffry/1567/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1568</span> <span class="name">Geoffery</span> <a href="../cite/Geoffery/1568/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Jeffery</span> <a href="../cite/Jeffery/1568/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 112</span></a>,
+ <span class="name">Jeffrey</span> <a href="../cite/Jeffrey/1568/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1572</span> <span class="name">Jeffery</span> <a href="../cite/Jeffery/1572/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Jeffry</span> <a href="../cite/Jeffry/1572/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 21</span></a>,
+ <a href="../cite/Jeffry/1572/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1573</span> <span class="name">Geoffrey</span> <a href="../cite/Geoffrey/1573/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1580</span> <span class="name">Geffery</span> <a href="../cite/Geffery/1580/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Jeffery</span> <a href="../cite/Jeffery/1580/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. iv</span></a>;
+ <span class="date">1581</span> <span class="name">Geferi</span> <a href="../cite/Geferi/1581/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 57</span></a>,
+ <span class="name">Jeffery</span> <a href="../cite/Jeffery/1581/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. iv</span></a>;
+ <span class="date">1582</span> <span class="name">Gefery</span> <a href="../cite/Gefery/1582/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Jeffery</span> <a href="../cite/Jeffery/1582/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. iv</span></a>,
+ <span class="name">Jeffry</span> <a href="../cite/Jeffry/1582/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1584</span> <span class="name">Jeffery</span> <a href="../cite/Jeffery/1584/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. iv</span></a>,
+ <span class="name">Jeffry</span> <a href="../cite/Jeffry/1584/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1585</span> <span class="name">Jefferie</span> <a href="../cite/Jefferie/1585/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1585/6</span> <span class="name">Jeffery</span> <a href="../cite/Jeffery/1585s6/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. iv</span></a>;
+ <span class="date">1586</span> <span class="name">Jefferie</span> <a href="../cite/Jefferie/1586/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 57</span></a>,
+ <span class="name">Jeffry</span> <a href="../cite/Jeffry/1586/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1587</span> <span class="name">Jefferie</span> <a href="../cite/Jefferie/1587/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1588/9</span> <span class="name">Jeffery</span> <a href="../cite/Jeffery/1588s9/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. iv</span></a>;
+ <span class="date">1588</span> <span class="name">Jeffry</span> <a href="../cite/Jeffry/1588/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1590</span> <span class="name">Jefferie</span> <a href="../cite/Jefferie/1590/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Jeffery</span> <a href="../cite/Jeffery/1590/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. iv</span></a>,
+ <a href="../cite/Jeffery/1590/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1591</span> <span class="name">Jefferie</span> <a href="../cite/Jefferie/1591/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Jeffry</span> <a href="../cite/Jeffry/1591/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 14</span></a>,
+ <a href="../cite/Jeffry/1591/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1592</span> <span class="name">Jeffery</span> <a href="../cite/Jeffery/1592/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1593</span> <span class="name">Jeffery</span> <a href="../cite/Jeffery/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Jeffrey</span> <a href="../cite/Jeffrey/1593/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Jeffry</span> <a href="../cite/Jeffry/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Jeffrye</span> <a href="../cite/Jeffrye/1593/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1594</span> <span class="name">Jeffery</span> <a href="../cite/Jeffery/1594/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Jeffery/1594/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. iv</span></a>;
+ <span class="date">1597/8</span> <span class="name">Geffree</span> <a href="../cite/Geffree/1597s8/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Jeffery</span> <a href="../cite/Jeffery/1597s8/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1597</span> <span class="name">Jeffrey</span> <a href="../cite/Jeffrey/1597/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1598</span> <span class="name">Geoffrey</span> <a href="../cite/Geoffrey/1598/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Jeffrey</span> <a href="../cite/Jeffrey/1598/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 57</span></a>,
+ <span class="name">Jeoffrey</span> <a href="../cite/Jeoffrey/1598/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1599</span> <span class="name">Geoffrey</span> <a href="../cite/Geoffrey/1599/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 10</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1029x1033</span> <span class="name">Gaufredus</span> (<span class="case">nom</span>) <a href="../cite/Gaufredus/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1030</span> <span class="name">Jofredus</span> (<span class="case">nom</span>) <a href="../cite/Jofredus/1030/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">682</span></a>;
+ <span class="date">1044</span> <span class="name">Gauzfredus</span> (<span class="case">nom</span>) <a href="../cite/Gauzfredus/1044/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">659</span></a>;
+ <span class="date">1047</span> <span class="name">Goffredi</span> (<span class="case">gen</span>) <a href="../cite/Goffredi/1047/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Goffridi</span> (<span class="case">gen</span>) <a href="../cite/Goffridi/1047/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Goffrido</span> (<span class="case">abl</span>) <a href="../cite/Goffrido/1047/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Goffridus</span> (<span class="case">nom</span>) <a href="../cite/Goffridus/1047/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1047x1061</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1047x1061/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1047x1061/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1048</span> <span class="name">Gosfredus</span> (<span class="case">nom</span>) <a href="../cite/Gosfredus/1048/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">737</span></a>;
+ <span class="date">1049</span> <span class="name">Goffridus</span> (<span class="case">nom</span>) <a href="../cite/Goffridus/1049/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">III</span></a>;
+ <span class="date">c1050</span> <span class="name">Jofredus</span> (<span class="case">nom</span>) <a href="../cite/Jofredus/c1050/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">675</span></a>;
+ <span class="date">1060</span> <span class="name">Goffredi</span> (<span class="case">gen</span>) <a href="../cite/Goffredi/1060/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1061</span> <span class="name">Goffrido</span> (<span class="case">abl</span>) <a href="../cite/Goffrido/1061/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>,
+ <span class="name">Goffridus</span> (<span class="case">nom</span>) <a href="../cite/Goffridus/1061/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1065x1079</span> <span class="name">Gofredus</span> (<span class="case">nom</span>) <a href="../cite/Gofredus/1065x1079/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">663</span></a>;
+ <span class="date">1066</span> <span class="name">Gosfredus</span> (<span class="case">nom</span>) <a href="../cite/Gosfredus/1066/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">698</span></a>;
+ <span class="date">1067</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1067/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XII</span></a>,
+ <span class="name">Gaufridum</span> (<span class="case">acc</span>) <a href="../cite/Gaufridum/1067/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XI</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1067/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>,
+ <span class="name">Goffridus</span> (<span class="case">nom</span>) <a href="../cite/Goffridus/1067/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XI</span></a>;
+ <span class="date">1067x1074</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1067x1074/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1075</span> <span class="name">Gauzfredus</span> (<span class="case">nom</span>) <a href="../cite/Gauzfredus/1075/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">732</span></a>;
+ <span class="date">1079x1081</span> <span class="name">Gaufredus</span> (<span class="case">nom</span>) <a href="../cite/Gaufredus/1079x1081/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">1079x1101</span> <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1079x1101/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1094</span> <span class="name">Gaufredus</span> (<span class="case">nom</span>) <a href="../cite/Gaufredus/1094/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">686</span></a>;
+ <span class="date">1095</span> <span class="name">Goffredus</span> (<span class="case">nom</span>) <a href="../cite/Goffredus/1095/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXVIII</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVIII</span></a>,
+ <span class="name">Gausfrido</span> (<span class="case">abl</span>) <a href="../cite/Gausfrido/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">1102x1144</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1102x1144/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLV</span></a>;
+ <span class="date">1107</span> <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>,
+ <span class="name">Gausfridus</span> (<span class="case">nom</span>) <a href="../cite/Gausfridus/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">a1108</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1115x1149/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">a1116</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/a1116/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/a1116/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1117</span> <span class="name">Gaufrido</span> (<span class="case">dat</span>) <a href="../cite/Gaufrido/1117/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XI</span></a>;
+ <span class="date">1122–1126</span> <span class="name">Gaufredi</span> (<span class="case">gen</span>) <a href="../cite/Gaufredi/1122–1126/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1123</span> <span class="name">Gaufredi</span> (<span class="case">gen</span>) <a href="../cite/Gaufredi/1123/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1126</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1126/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1127</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1127/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Gaufrido</span> (<span class="case">dat</span>) <a href="../cite/Gaufrido/1127/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1127/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1130</span> <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1130/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1135</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x62</span> <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">56</span></a>;
+ <span class="date">1146</span> <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1146/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1147</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Gaufridum</span> (<span class="case">acc</span>) <a href="../cite/Gaufridum/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1147/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXV</span></a>,
+ <a href="../cite/Gaufridus/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1148</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1148/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXIV</span></a>;
+ <span class="date">1151</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1151/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">23</span></a>;
+ <span class="date">1153</span> <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1153/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1156</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1156/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CCCLXXXIII</span></a>;
+ <span class="date">1157</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1157/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1158</span> <span class="name">Gaufredi</span> (<span class="case">gen</span>) <a href="../cite/Gaufredi/1158/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">702</span></a>,
+ <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1158/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">702</span></a>,
+ <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1158/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">702</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1158/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">702</span></a>,
+ <a href="../cite/Gaufridus/1158/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">33</span></a>;
+ <span class="date">1158x1170</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1158x1170/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">138</span></a>;
+ <span class="date">1160</span> <span class="name">Jofridi</span> (<span class="case">gen</span>) <a href="../cite/Jofridi/1160/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXIV</span></a>;
+ <span class="date">1162</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">39</span></a>;
+ <span class="date">a1163</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/a1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">96</span></a>;
+ <span class="date">1163</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>,
+ <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">94</span></a>,
+ <span class="name">Giffredo</span> (<span class="case">dat</span>) <a href="../cite/Giffredo/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">94</span></a>;
+ <span class="date">1163–64</span> <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1164</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1164/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">C</span></a>,
+ <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1164/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1166</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>;
+ <span class="date">1167</span> <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1167/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1168</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1168/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">134</span></a>;
+ <span class="date">1172</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1172/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">147</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1172/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">147</span></a>;
+ <span class="date">1174</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1174/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">160</span></a>;
+ <span class="date">1179</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>,
+ <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1196</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1196/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXXIX</span></a>;
+ <span class="date">1207</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1207/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXIX</span></a>;
+ <span class="date">1256</span> <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1256/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XII, Candlemas</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1256/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XII, Candlemas</span></a>;
+ <span class="date">1258</span> <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX, Candlemas</span></a>,
+ <span class="name">Gaufridum</span> (<span class="case">acc</span>) <a href="../cite/Gaufridum/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">V, Pentecost</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">V, Pentecost</span></a>;
+ <span class="date">1259</span> <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVIII, Pentecost</span></a>;
+ <span class="date">1260</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII, St. Martin</span></a>,
+ <span class="name">Gaufrido</span> (<span class="case">abl</span>) <a href="../cite/Gaufrido/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XII, Candlemas</span></a>,
+ <span class="name">Gaufridum</span> (<span class="case">acc</span>) <a href="../cite/Gaufridum/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XV, Ascension</span></a>,
+ <span class="name">Gaufridus</span> (<span class="case">nom</span>) <a href="../cite/Gaufridus/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">X, Ascension</span></a>;
+ <span class="date">1261</span> <span class="name">Gaufridum</span> (<span class="case">acc</span>) <a href="../cite/Gaufridum/1261/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">IX, BMV</span></a>;
+ <span class="date">1301</span> <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 179</span></a>,
+ <span class="name">Guiffridi</span> (<span class="case">gen</span>) <a href="../cite/Guiffridi/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 210</span></a>,
+ <span class="name">Guifridi</span> (<span class="case">gen</span>) <a href="../cite/Guifridi/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 230</span></a>;
+ <span class="date">1318</span> <span class="name">Gaufridum</span> (<span class="case">acc</span>) <a href="../cite/Gaufridum/1318/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">700</span></a>;
+ <span class="date">1376</span> <span class="name">Guiffredi</span> (<span class="case">gen</span>) <a href="../cite/Guiffredi/1376/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">383</span></a>;
+ <span class="date">1378</span> <span class="name">Gauffrido</span> (<span class="case">dat</span>) <a href="../cite/Gauffrido/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">357</span></a>,
+ <span class="name">Gaufridi</span> (<span class="case">gen</span>) <a href="../cite/Gaufridi/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">405</span></a>,
+ <span class="name">Gaufrido</span> (<span class="case">dat</span>) <a href="../cite/Gaufrido/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">128</span></a>,
+ <span class="name">Geffrido</span> (<span class="case">dat</span>) <a href="../cite/Geffrido/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">784</span></a>,
+ <span class="name">Joffridi</span> (<span class="case">gen</span>) <a href="../cite/Joffridi/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">864</span></a>,
+ <span class="name">Joffrido</span> (<span class="case">dat</span>) <a href="../cite/Joffrido/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">864</span></a>,
+ <span class="name">Jofridi</span> (<span class="case">gen</span>) <a href="../cite/Jofridi/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">677</span></a>,
+ <span class="name">Juffridi</span> (<span class="case">gen</span>) <a href="../cite/Juffridi/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1341</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Gefroi</span> <a href="../cite/Gefroi/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1301</span> <span class="name">Guiffroy</span> (<span class="case">obl</span>) <a href="../cite/Guiffroy/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 286</span></a>;
+ <span class="date">1313</span> <span class="name">Geffroy</span> <a href="../cite/Geffroy/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Geoffroy</span> <a href="../cite/Geoffroy/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1327</span> <span class="name">Geffroy</span> <a href="../cite/Geffroy/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 189</span></a>,
+ <span class="name">Geoffroy</span> <a href="../cite/Geoffroy/1327/MemDocMan-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p.183</span></a>,
+ <span class="name">Gieffroy</span> <a href="../cite/Gieffroy/1327/MemDocMan-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 175</span></a>,
+ <span class="name">Guiffroy</span> <a href="../cite/Guiffroy/1327/MemDocMan-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 179</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Gefrin</span> <a href="../cite/Gefrin/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1313</span> <span class="name">Geffrin</span> <a href="../cite/Geffrin/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 28</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Geffroi</span> <a href="../cite/Geffroi/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 614</span></a>,
+ <span class="name">Geffroy</span> <a href="../cite/Geffroy/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 599</span></a>,
+ <span class="name">Gieuffroy</span> <a href="../cite/Gieuffroy/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 600</span></a>;
+ <span class="date">1418</span> <span class="name">Gieffroy</span> <a href="../cite/Gieffroy/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 379</span></a>,
+ <span class="name">Gieuffroy</span> <a href="../cite/Gieuffroy/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 376</span></a>;
+ <span class="date">1421</span> <span class="name">Gieffroy</span> <a href="../cite/Gieffroy/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">202</span></a>,
+ <span class="name">Gyeffroy</span> <a href="../cite/Gyeffroy/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 246</span></a>;
+ <span class="date">1438</span> <span class="name">Gieffroy</span> <a href="../cite/Gieffroy/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">498</span></a>;
+ <span class="date">1562</span> <span class="name">Guefrot</span> <a href="../cite/Guefrot/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1564</span> <span class="name">Gieffroy</span> <a href="../cite/Gieffroy/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82</span></a>,
+ <span class="name">Jeffroy</span> <a href="../cite/Jeffroy/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 75</span></a>;
+ <span class="date">1565</span> <span class="name">Geffroy</span> <a href="../cite/Geffroy/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 163</span></a>,
+ <span class="name">Gieffroy</span> <a href="../cite/Gieffroy/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 170</span></a>,
+ <span class="name">Jeffroy</span> <a href="../cite/Jeffroy/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 124</span></a>;
+ <span class="date">1566</span> <span class="name">Geffroy</span> <a href="../cite/Geffroy/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 213</span></a>,
+ <span class="name">Gieffroy</span> <a href="../cite/Gieffroy/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 204</span></a>;
+ <span class="date">1567</span> <span class="name">Gieffroy</span> <a href="../cite/Gieffroy/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 307</span></a>;
+ <span class="date">1568</span> <span class="name">Gieffroy</span> <a href="../cite/Gieffroy/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 373</span></a>;
+ <span class="date">1571</span> <span class="name">Gieffroy</span> <a href="../cite/Gieffroy/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 440</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1418</span> <span class="name">Gieffrin</span> <a href="../cite/Gieffrin/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 388</span></a>,
+ <span class="name">Gieuffrin</span> <a href="../cite/Gieuffrin/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 372</span></a>;
+ <span class="date">1421</span> <span class="name">Gieffrin</span> <a href="../cite/Gieffrin/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">375</span></a>;
+ <span class="date">1438</span> <span class="name">Gieffrin</span> <a href="../cite/Gieffrin/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 285</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1219</span> <span class="name">Goffridi</span> (<span class="case">gen</span>) <a href="../cite/Goffridi/1219/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">36</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Galfridus</span> (<span class="case">nom</span>) <a href="../cite/Galfridus/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 5</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1539/40</span> <span class="name">Galfrid</span> <a href="../cite/Galfrid/1539s40/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">105</span></a>;
+ <span class="date">1539</span> <span class="name">Geffre</span> <a href="../cite/Geffre/1539/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">75</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">967</span> <span class="name">Gausfredo</span> (<span class="case">dat</span>) <a href="../cite/Gausfredo/967/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1285</span> <span class="name">Iofredi</span> (<span class="case">gen</span>) <a href="../cite/Iofredi/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 156</span></a>;
+ <span class="date">1326</span> <span class="name">Giufredi</span> (<span class="case">gen</span>) <a href="../cite/Giufredi/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 442</span></a>;
+ <span class="date">1376</span> <span class="name">Ioffredi</span> (<span class="case">gen</span>) <a href="../cite/Ioffredi/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 218</span></a>,
+ <span class="name">Ioffredo</span> (<span class="case">abl</span>) <a href="../cite/Ioffredo/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1095</span> <span class="name">Galfrido</span> (<span class="case">abl</span>) <a href="../cite/Galfrido/1095/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XV</span></a>;
+ <span class="date">1376</span> <span class="name">Galfrido</span> (<span class="case">dat</span>) <a href="../cite/Galfrido/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1006</span> <span class="name">Gaucefredo</span> (<span class="case">abl</span>) <a href="../cite/Gaucefredo/1006/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCLXVI</span></a>;
+ <span class="date">1016</span> <span class="name">Gotcefredus</span> (<span class="case">nom</span>) <a href="../cite/Gotcefredus/1016/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXIII</span></a>,
+ <span class="name">Gothcefredus</span> (<span class="case">nom</span>) <a href="../cite/Gothcefredus/1016/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXIII</span></a>;
+ <span class="date">1022</span> <span class="name">Guifret</span> (<span class="case">abl</span>) <a href="../cite/Guifret/1022/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXVI</span></a>;
+ <span class="date">1087</span> <span class="name">Gauzfredum</span> (<span class="case">nom</span>) <a href="../cite/Gauzfredum/1087/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCV</span></a>,
+ <span class="name">Gauzfret</span> (<span class="case">nom</span>) <a href="../cite/Gauzfret/1087/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCV</span></a>;
+ <span class="date">1192</span> <span class="name">Gaucefredi</span> (<span class="case">gen</span>) <a href="../cite/Gaucefredi/1192/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVIII</span></a>,
+ <span class="name">Guifredi</span> (<span class="case">gen</span>) <a href="../cite/Guifredi/1192/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVIII</span></a>;
+ <span class="date">1490</span> <span class="name">Jaufridis</span> (<span class="case">nom</span>) <a href="../cite/Jaufridis/1490/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 48</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Jofre</span> <a href="../cite/Jofre/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3217</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1345</span> <span class="name">Joffredus</span> (<span class="case">nom</span>) <a href="../cite/Joffredus/1345/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(253)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Geoffrey". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Geoffrey.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>
