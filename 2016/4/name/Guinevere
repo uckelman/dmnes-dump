@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Guinevere</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Guinevere</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Proto-Celtic</span> *<i>windo</i> 'white' + <span class="lang">Proto-Celtic</span> *<i>sēbro</i> 'demon, spectre'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of the beloved of Arthur in the Arthurian legends which were extremely popular in many forms in the Middle Ages.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1340xc1450</span> <span class="name">Guenhowar</span> (<span class="case">nom</span>) <a href="../cite/Guenhowar/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1559</span> <span class="name">Gwenhwyvar</span> <a href="../cite/Gwenhwyvar/1559/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1560</span> <span class="name">Gwenhwyvar</span> <a href="../cite/Gwenhwyvar/1560/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1522x1532</span> <span class="name">Genefra</span> (<span class="case">nom</span>) <a href="../cite/Genefra/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 51, 24</span></a>;
+ <span class="date">1527</span> <span class="name">Ginevra</span> (<span class="case">nom</span>) <a href="../cite/Ginevra/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 86</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Welsh</span></dt>
+<dd><span class="dim">●</span> <span class="date">1560</span> <span class="name">Gwenhoyver</span> <a href="../cite/Gwenhoyver/1560/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1582</span> <span class="name">Gaynor</span> <a href="../cite/Gaynor/1582/RegCon1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1590</span> <span class="name">Gainor</span> <a href="../cite/Gainor/1590/RegCon1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1595</span> <span class="name">Gainor</span> <a href="../cite/Gainor/1595/RegCon1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 73</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Guinevere". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Guinevere.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

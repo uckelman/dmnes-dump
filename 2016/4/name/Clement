@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Clement</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Clement</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>clemens</i> 'merciful, loving; mild, gentle'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 1st C saint, a 1st C pope and saint, a 2nd C saint and church father, a 9th C Irish saint, a 9th C Bulgarian saint, an 11th C pope, an 11th C antipope, a 12th C pope, a 13th C pope, two 14th C popes, a 14th C antipope, a 15th C antipope, and two 16th C popes.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1351</span> <span class="name">Climent</span> (<span class="case">nom</span>) <a href="../cite/Climent/1351/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">17</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1189</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 110</span></a>;
+ <span class="date">1321</span> <span class="name">Clementis</span> (<span class="case">gen</span>) <a href="../cite/Clementis/1321/CTG-6"><span class="bib_key">CTG-6</span> <span class="bib_loc">78, p. 302</span></a>;
+ <span class="date">1327</span> <span class="name">Clemente</span> (<span class="case">abl</span>) <a href="../cite/Clemente/1327/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1381</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1532–1533</span> <span class="name">Clement</span> <a href="../cite/Clement/1532–1533/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 99</span></a>;
+ <span class="date">1534</span> <span class="name">Clement</span> <a href="../cite/Clement/1534/CovGuild-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 127</span></a>;
+ <span class="date">1540</span> <span class="name">Clement</span> <a href="../cite/Clement/1540/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1558</span> <span class="name">Clement</span> <a href="../cite/Clement/1558/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1560</span> <span class="name">Clement</span> <a href="../cite/Clement/1560/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1568</span> <span class="name">Clement</span> <a href="../cite/Clement/1568/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2b</span></a>;
+ <span class="date">1581</span> <span class="name">Clement</span> <a href="../cite/Clement/1581/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1582</span> <span class="name">Clement</span> <a href="../cite/Clement/1582/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Clement/1582/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1587</span> <span class="name">Clement</span> <a href="../cite/Clement/1587/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1588</span> <span class="name">Clemens</span> <a href="../cite/Clemens/1588/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Clemet</span> <a href="../cite/Clemet/1588/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1589</span> <span class="name">Clement</span> <a href="../cite/Clement/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1591</span> <span class="name">Clemence</span> <a href="../cite/Clemence/1591/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1592</span> <span class="name">Clemence</span> <a href="../cite/Clemence/1592/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1593</span> <span class="name">Clemence</span> <a href="../cite/Clemence/1593/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1594</span> <span class="name">Clemence</span> <a href="../cite/Clemence/1594/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1595</span> <span class="name">Clemens</span> <a href="../cite/Clemens/1595/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1596</span> <span class="name">Clement</span> <a href="../cite/Clement/1596/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 141</span></a>;
+ <span class="date">1597</span> <span class="name">Clemmant</span> <a href="../cite/Clemmant/1597/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1599</span> <span class="name">Clement</span> <a href="../cite/Clement/1599/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1420</span> <span class="name">Clement</span> <a href="../cite/Clement/1420/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1592</span> <span class="name">Clement</span> <a href="../cite/Clement/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 288</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1599</span> <span class="name">Clemett</span> (<span class="case">nom</span>) <a href="../cite/Clemett/1599/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 282</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1101x1129</span> <span class="name">Clemente</span> (<span class="case">abl</span>) <a href="../cite/Clemente/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XLI</span></a>;
+ <span class="date">1135</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Clementis</span> (<span class="case">gen</span>) <a href="../cite/Clementis/1135/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXVIII</span></a>,
+ <a href="../cite/Clementis/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>,
+ <span class="name">Clemente</span> (<span class="case">abl</span>) <a href="../cite/Clemente/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">59</span></a>,
+ <span class="name">Clementis</span> (<span class="case">gen</span>) <a href="../cite/Clementis/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>;
+ <span class="date">1146</span> <span class="name">Clemente</span> (<span class="case">abl</span>) <a href="../cite/Clemente/1146/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXII</span></a>;
+ <span class="date">1147</span> <span class="name">Clemente</span> (<span class="case">dat</span>) <a href="../cite/Clemente/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>;
+ <span class="date">c1156</span> <span class="name">Clementis</span> (<span class="case">gen</span>) <a href="../cite/Clementis/c1156/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1162</span> <span class="name">Clementis</span> (<span class="case">gen</span>) <a href="../cite/Clementis/1162/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXIII</span></a>;
+ <span class="date">1163</span> <span class="name">Clemente</span> (<span class="case">abl</span>) <a href="../cite/Clemente/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">104</span></a>,
+ <span class="name">Clementis</span> (<span class="case">gen</span>) <a href="../cite/Clementis/1163/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCVI</span></a>,
+ <a href="../cite/Clementis/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">104</span></a>;
+ <span class="date">1179</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Clemente</span> (<span class="case">abl</span>) <a href="../cite/Clemente/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>,
+ <span class="name">Clementi</span> (<span class="case">gen</span>) <a href="../cite/Clementi/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">178</span></a>;
+ <span class="date">1180</span> <span class="name">Clemente</span> (<span class="case">abl</span>) <a href="../cite/Clemente/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1201</span> <span class="name">Clementis</span> (<span class="case">gen</span>) <a href="../cite/Clementis/1201/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XLVIII</span></a>;
+ <span class="date">1249</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1249/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-CIX</span></a>;
+ <span class="date">1260</span> <span class="name">Clementi</span> (<span class="case">gen</span>) <a href="../cite/Clementi/1260/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XXIII, Ascension</span></a>;
+ <span class="date">1274</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1274/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LV</span></a>;
+ <span class="date">1301</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 250</span></a>;
+ <span class="date">1345</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">613</span></a>;
+ <span class="date">1378</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">2370</span></a>,
+ <span class="name">Clementi</span> (<span class="case">dat</span>) <a href="../cite/Clementi/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">508</span></a>,
+ <span class="name">Clementis</span> (<span class="case">abl</span>) <a href="../cite/Clementis/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1319</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Climent</span> <a href="../cite/Climent/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1301</span> <span class="name">Climens</span> (<span class="case">nom</span>) <a href="../cite/Climens/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 233</span></a>;
+ <span class="date">1313</span> <span class="name">Clement</span> <a href="../cite/Clement/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 64</span></a>,
+ <span class="name">Climent</span> <a href="../cite/Climent/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1327</span> <span class="name">Clement</span> <a href="../cite/Clement/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 174</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Clement</span> <a href="../cite/Clement/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 375</span></a>,
+ <span class="name">Climent</span> <a href="../cite/Climent/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 376</span></a>;
+ <span class="date">1421</span> <span class="name">Clamens</span> <a href="../cite/Clamens/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">239</span></a>,
+ <span class="name">Climent</span> <a href="../cite/Climent/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">39</span></a>;
+ <span class="date">1423</span> <span class="name">Clement</span> <a href="../cite/Clement/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">280</span></a>;
+ <span class="date">1438</span> <span class="name">Clement</span> <a href="../cite/Clement/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1564</span> <span class="name">Clément</span> <a href="../cite/Clément/1564/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1565</span> <span class="name">Clément</span> <a href="../cite/Clément/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1566</span> <span class="name">Clément</span> <a href="../cite/Clément/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 204</span></a>;
+ <span class="date">1567</span> <span class="name">Clément</span> <a href="../cite/Clément/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 288</span></a>;
+ <span class="date">1571</span> <span class="name">Clément</span> <a href="../cite/Clément/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 456</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Iceland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Icelandic</span></dt>
+<dd><span class="dim">●</span> <span class="date">1500</span> <span class="name">Clemens</span> (<span class="case">gen</span>) <a href="../cite/Clemens/1500/DipIs-7"><span class="bib_key">DipIs-7</span> <span class="bib_loc">489</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 12</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1539</span> <span class="name">Clement</span> <a href="../cite/Clement/1539/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">77</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1527</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 85</span></a>,
+ <span class="name">Clemente</span> (<span class="case">abl</span>) <a href="../cite/Clemente/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1289</span> <span class="name">Clemente</span> (<span class="case">nom</span>) <a href="../cite/Clemente/1289/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">222</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1488</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1488/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1489</span> <span class="name">Clementis</span> (<span class="case">gen</span>) <a href="../cite/Clementis/1489/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Climent</span> <a href="../cite/Climent/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">4417</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6053</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Clemets</span> (<span class="case">gen</span>) <a href="../cite/Clemets/1543/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 162</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1469</span> <span class="name">Clemens</span> (<span class="case">nom</span>) <a href="../cite/Clemens/1469/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">4</span></a>,
+ <span class="name">Clementi</span> (<span class="case">dat</span>) <a href="../cite/Clementi/1469/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, J. Uckelman, S.L. Uckelman. "Clement". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Clement.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

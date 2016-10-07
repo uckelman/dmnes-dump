@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>SDE3</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>SDE3</dt>
+  <dd>Giambatista Vergi. <em>Storia degli Ecelini</em>, volume 3. Venezia: Tommaso Fontana Tipografo Edit., 1841.</dd>
+</dl>
+
+
+  <a href="../cite/Alberti/1164/SDE3">Alberti</a>
+
+  <a href="../cite/Albertini/1173/SDE3">Albertini</a>
+
+  <a href="../cite/Albertinus/1169/SDE3">Albertinus</a>
+
+  <a href="../cite/Alberto/1164/SDE3">Alberto</a>
+
+  <a href="../cite/Albertum/1164/SDE3">Albertum</a>
+
+  <a href="../cite/Almerici/1173/SDE3">Almerici</a>
+
+  <a href="../cite/Almericum/1173/SDE3">Almericum</a>
+
+  <a href="../cite/Almericus/1173/SDE3">Almericus</a>
+
+  <a href="../cite/Armani/1173/SDE3">Armani</a>
+
+  <a href="../cite/Artuicus/1169/SDE3">Artuicus</a>
+
+  <a href="../cite/Azotto/1164/SDE3">Azotto</a>
+
+  <a href="../cite/Azottum/1164/SDE3">Azottum</a>
+
+  <a href="../cite/Bartholomeus/1169/SDE3">Bartholomeus</a>
+
+  <a href="../cite/Benedicto/1164/SDE3">Benedicto</a>
+
+  <a href="../cite/Cononis/1169/SDE3">Cononis</a>
+
+  <a href="../cite/Conrado/1164/SDE3">Conrado</a>
+
+  <a href="../cite/Costantinus/1169/SDE3">Costantinus</a>
+
+  <a href="../cite/Drudo/1171/SDE3">Drudo</a>
+
+  <a href="../cite/Egidii/1169/SDE3">Egidii</a>
+
+  <a href="../cite/Franciscus/1169/SDE3">Franciscus</a>
+
+  <a href="../cite/Frederico/1164/SDE3">Frederico</a>
+
+  <a href="../cite/Jacobi/1171/SDE3">Jacobi</a>
+
+  <a href="../cite/Joannes/1169/SDE3">Joannes</a>
+
+  <a href="../cite/Johannis/1164/SDE3">Johannis</a>
+
+  <a href="../cite/Leonardelli/1173/SDE3">Leonardelli</a>
+
+  <a href="../cite/Leonardello/1173/SDE3">Leonardello</a>
+
+  <a href="../cite/Mabilia/1164/SDE3">Mabilia</a>
+
+  <a href="../cite/Paganum/1164/SDE3">Paganum</a>
+
+  <a href="../cite/Paganus/1164/SDE3">Paganus</a>
+
+  <a href="../cite/Petro/1164/SDE3">Petro</a>
+
+  <a href="../cite/Rambaldo/1164/SDE3">Rambaldo</a>
+
+  <a href="../cite/Rolandi/1164/SDE3">Rolandi</a>
+
+  <a href="../cite/Ubertus/1169/SDE3">Ubertus</a>
+
+  <a href="../cite/Udalrici/1173/SDE3">Udalrici</a>
+
+  <a href="../cite/Vivianus/1169/SDE3">Vivianus</a>
+
+  <a href="../cite/Walperti/1173/SDE3">Walperti</a>
+
+  <a href="../cite/Walpertus/1169/SDE3">Walpertus</a>
+
+  <a href="../cite/Wibertus/1169/SDE3">Wibertus</a>
+
+  <a href="../cite/Wifredinum/1169/SDE3">Wifredinum</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

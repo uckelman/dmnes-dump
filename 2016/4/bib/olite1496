@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>olite1496</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>olite1496</dt>
+  <dd>Inventario de bienes de olite (1496): Continuación. <em>Boletín de la Real Academia de la Historia</em>, 175:171-190, 1978.</dd>
+</dl>
+
+
+  <a href="../cite/Catalina/1496/olite1496">Catalina</a>
+
+  <a href="../cite/Catallina/1496/olite1496">Catallina</a>
+
+  <a href="../cite/Fernando/1496/olite1496">Fernando</a>
+
+  <a href="../cite/Gratia/1496/olite1496">Gratia</a>
+
+  <a href="../cite/Guarcy/1496/olite1496">Guarcy</a>
+
+  <a href="../cite/Guillemet/1496/olite1496">Guillemet</a>
+
+  <a href="../cite/Johan/1496/olite1496">Johan</a>
+
+  <a href="../cite/Johana/1496/olite1496">Johana</a>
+
+  <a href="../cite/Lope/1496/olite1496">Lope</a>
+
+  <a href="../cite/Martin/1496/olite1496">Martin</a>
+
+  <a href="../cite/Martinus/1496/olite1496">Martinus</a>
+
+  <a href="../cite/Mjguel/1496/olite1496">Mjguel</a>
+
+  <a href="../cite/Pero/1496/olite1496">Pero</a>
+
+  <a href="../cite/Petri/1496/olite1496">Petri</a>
+
+  <a href="../cite/Sancho/1496/olite1496">Sancho</a>
+
+  <a href="../cite/Theresa/1496/olite1496">Theresa</a>
+
+  <a href="../cite/Ximon/1496/olite1496">Ximon</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

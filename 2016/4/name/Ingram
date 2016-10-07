@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Ingram</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Ingram</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>engil</i> 'angel' + <span class="lang">Old Saxon</span> <i>hram</i> 'raven'.
+</span>
+  
+</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1348</span> <span class="name">Ingramus</span> (<span class="case">nom</span>) <a href="../cite/Ingramus/1348/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1349</span> <span class="name">Ingramo</span> (<span class="case">dat</span>) <a href="../cite/Ingramo/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>,
+ <span class="name">Ingramus</span> (<span class="case">nom</span>) <a href="../cite/Ingramus/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">109</span></a>;
+ <span class="date">1350</span> <span class="name">Ingramo</span> (<span class="case">dat</span>) <a href="../cite/Ingramo/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">151</span></a>,
+ <span class="name">Ingramus</span> (<span class="case">nom</span>) <a href="../cite/Ingramus/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">159</span></a>;
+ <span class="date">1351</span> <span class="name">Imgramo</span> (<span class="case">dat</span>) <a href="../cite/Imgramo/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">57</span></a>,
+ <span class="name">Imgramus</span> (<span class="case">nom</span>) <a href="../cite/Imgramus/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>,
+ <span class="name">Ingramo</span> (<span class="case">dat</span>) <a href="../cite/Ingramo/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Ingramy</span> (<span class="case">gen</span>) <a href="../cite/Ingramy/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1353</span> <span class="name">Gymram</span> (<span class="case">nom</span>) <a href="../cite/Gymram/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">107</span></a>,
+ <span class="name">Imgramo</span> (<span class="case">dat</span>) <a href="../cite/Imgramo/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">20, p. 22</span></a>,
+ <span class="name">Ymram</span> (<span class="case">nom</span>) <a href="../cite/Ymram/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">116</span></a>,
+ <span class="name">Ymramo</span> (<span class="case">dat</span>) <a href="../cite/Ymramo/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1356</span> <span class="name">Igramo</span> (<span class="case">dat</span>) <a href="../cite/Igramo/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">166</span></a>,
+ <span class="name">Ingramo</span> (<span class="case">dat</span>) <a href="../cite/Ingramo/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">166</span></a>;
+ <span class="date">1358</span> <span class="name">Ingramus</span> (<span class="case">nom</span>) <a href="../cite/Ingramus/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">194, p. 29</span></a>,
+ <span class="name">Ymramo</span> (<span class="case">dat</span>) <a href="../cite/Ymramo/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">233, p. 31</span></a>,
+ <span class="name">Yngrami</span> (<span class="case">gen</span>) <a href="../cite/Yngrami/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">194, p. 29</span></a>,
+ <span class="name">Yngramo</span> (<span class="case">dat</span>) <a href="../cite/Yngramo/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">197, p. 30</span></a>,
+ <span class="name">Yngramus</span> (<span class="case">nom</span>) <a href="../cite/Yngramus/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">194, p. 29</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1351</span> <span class="name">Ingramus</span> (<span class="case">nom</span>) <a href="../cite/Ingramus/1351/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Engelram</span> (<span class="case">nom</span>) <a href="../cite/Engelram/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Engelranno</span> (<span class="case">abl</span>) <a href="../cite/Engelranno/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1256</span> <span class="name">Ingrami</span> (<span class="case">gen</span>) <a href="../cite/Ingrami/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1296</span> <span class="name">Ingelrami</span> (<span class="case">gen</span>) <a href="../cite/Ingelrami/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 95a</span></a>;
+ <span class="date">1408</span> <span class="name">Ingelleramus</span> (<span class="case">nom</span>) <a href="../cite/Ingelleramus/1408/GCCYork"><span class="bib_key">GCCYork</span> <span class="bib_loc">p.11</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Yngram</span> <a href="../cite/Yngram/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1580</span> <span class="name">Ingram</span> <a href="../cite/Ingram/1580/MemStGiles"><span class="bib_key">MemStGiles</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1589</span> <span class="name">Ingram</span> <a href="../cite/Ingram/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 19</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814</span> <span class="name">Ingiliramnus</span> (<span class="case">nom</span>) <a href="../cite/Ingiliramnus/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">H3</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Ingelranno</span> (<span class="case">dat</span>) <a href="../cite/Ingelranno/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXXII</span></a>,
+ <span class="name">Ingelrannus</span> (<span class="case">nom</span>) <a href="../cite/Ingelrannus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1131</span> <span class="name">Enjorranni</span> (<span class="case">gen</span>) <a href="../cite/Enjorranni/1131/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1139x47</span> <span class="name">Ingelrannus</span> (<span class="case">nom</span>) <a href="../cite/Ingelrannus/1139x47/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">20</span></a>;
+ <span class="date">1147</span> <span class="name">Engelranni</span> (<span class="case">gen</span>) <a href="../cite/Engelranni/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Engelranno</span> (<span class="case">abl</span>) <a href="../cite/Engelranno/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1166</span> <span class="name">Ingerrannus</span> (<span class="case">nom</span>) <a href="../cite/Ingerrannus/1166/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XC</span></a>;
+ <span class="date">1167</span> <span class="name">Ingeranno</span> (<span class="case">abl</span>) <a href="../cite/Ingeranno/1167/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XCII</span></a>,
+ <span class="name">Ingerannus</span> (<span class="case">nom</span>) <a href="../cite/Ingerannus/1167/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XCII</span></a>;
+ <span class="date">1170</span> <span class="name">Ingelranni</span> (<span class="case">gen</span>) <a href="../cite/Ingelranni/1170/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">137</span></a>;
+ <span class="date">c1170</span> <span class="name">Ingerannus</span> (<span class="case">nom</span>) <a href="../cite/Ingerannus/c1170/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCIII</span></a>;
+ <span class="date">1174</span> <span class="name">Ingeranni</span> (<span class="case">gen</span>) <a href="../cite/Ingeranni/1174/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXX</span></a>;
+ <span class="date">1178</span> <span class="name">Ingelranni</span> (<span class="case">gen</span>) <a href="../cite/Ingelranni/1178/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">167</span></a>;
+ <span class="date">1190</span> <span class="name">Ingerrannus</span> (<span class="case">nom</span>) <a href="../cite/Ingerrannus/1190/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CV</span></a>;
+ <span class="date">1238</span> <span class="name">Ingerannum</span> (<span class="case">acc</span>) <a href="../cite/Ingerannum/1238/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CIV</span></a>;
+ <span class="date">1301</span> <span class="name">Enguerrani</span> (<span class="case">gen</span>) <a href="../cite/Enguerrani/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 226</span></a>,
+ <span class="name">Ingerani</span> (<span class="case">gen</span>) <a href="../cite/Ingerani/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 253</span></a>,
+ <span class="name">Ingeranni</span> (<span class="case">gen</span>) <a href="../cite/Ingeranni/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 205</span></a>,
+ <span class="name">Ingerannus</span> (<span class="case">nom</span>) <a href="../cite/Ingerannus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 217</span></a>,
+ <span class="name">Ingeranus</span> (<span class="case">nom</span>) <a href="../cite/Ingeranus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 254</span></a>,
+ <span class="name">Ingerrani</span> (<span class="case">gen</span>) <a href="../cite/Ingerrani/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 205</span></a>,
+ <span class="name">Ingerranni</span> (<span class="case">gen</span>) <a href="../cite/Ingerranni/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 197</span></a>,
+ <span class="name">Ingerrannus</span> (<span class="case">nom</span>) <a href="../cite/Ingerrannus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 219</span></a>,
+ <span class="name">Ingerrano</span> (<span class="case">abl</span>) <a href="../cite/Ingerrano/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 257</span></a>,
+ <span class="name">Ingerranus</span> (<span class="case">nom</span>) <a href="../cite/Ingerranus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 204</span></a>;
+ <span class="date">1378</span> <span class="name">Enguerranno</span> (<span class="case">dat</span>) <a href="../cite/Enguerranno/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">123</span></a>,
+ <span class="name">Ingerannio</span> (<span class="case">dat</span>) <a href="../cite/Ingerannio/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1599</span></a>,
+ <span class="name">Ingerranno</span> (<span class="case">dat</span>) <a href="../cite/Ingerranno/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1086</span></a>,
+ <span class="name">Inghelramo</span> (<span class="case">dat</span>) <a href="../cite/Inghelramo/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">796</span></a>,
+ <span class="name">Ingheranno</span> (<span class="case">dat</span>) <a href="../cite/Ingheranno/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">485</span></a>,
+ <span class="name">Inguerramus</span> (<span class="case">nom</span>) <a href="../cite/Inguerramus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">655</span></a>,
+ <span class="name">Inguerrano</span> (<span class="case">dat</span>) <a href="../cite/Inguerrano/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1815</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">Engerant</span> (<span class="case">obl</span>) <a href="../cite/Engerant/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 271</span></a>,
+ <span class="name">Engerrans</span> <a href="../cite/Engerrans/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 233</span></a>,
+ <span class="name">Enguerran</span> (<span class="case">obl</span>) <a href="../cite/Enguerran/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 292</span></a>;
+ <span class="date">1313</span> <span class="name">Anjorran</span> <a href="../cite/Anjorran/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 102</span></a>,
+ <span class="name">Enjoranz</span> <a href="../cite/Enjoranz/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Enjorrant</span> <a href="../cite/Enjorrant/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94</span></a>;
+ <span class="date">1327</span> <span class="name">Enguerran</span> <a href="../cite/Enguerran/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 184</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Enguerran</span> <a href="../cite/Enguerran/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 598</span></a>;
+ <span class="date">1415[1469x1471]</span> <span class="name">Enguerand</span> <a href="../cite/Enguerand/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 226</span></a>;
+ <span class="date">1421</span> <span class="name">Enguerran</span> <a href="../cite/Enguerran/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1188</span></a>;
+ <span class="date">1423</span> <span class="name">Enguerran</span> <a href="../cite/Enguerran/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1438</span> <span class="name">Enguerran</span> <a href="../cite/Enguerran/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">414</span></a>;
+ <span class="date">1561</span> <span class="name">Enguerrand</span> <a href="../cite/Enguerrand/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1565</span> <span class="name">Anguerran</span> <a href="../cite/Anguerran/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 114</span></a>,
+ <span class="name">Anguerren</span> <a href="../cite/Anguerren/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 181</span></a>,
+ <span class="name">Enguerren</span> <a href="../cite/Enguerren/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 113</span></a>;
+ <span class="date">1566</span> <span class="name">Anguerran</span> <a href="../cite/Anguerran/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 206</span></a>;
+ <span class="date">1567</span> <span class="name">Anguerran</span> <a href="../cite/Anguerran/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>,
+ <span class="name">Enguerran</span> <a href="../cite/Enguerran/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 279</span></a>;
+ <span class="date">1571</span> <span class="name">Enguerran</span> <a href="../cite/Enguerran/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 441</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1142</span> <span class="name">Ingrami</span> (<span class="case">gen</span>) <a href="../cite/Ingrami/1142/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Ingrammus</span> (<span class="case">nom</span>) <a href="../cite/Ingrammus/1142/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Ingelram</span> (<span class="case">gen</span>) <a href="../cite/Ingelram/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 3</span></a>,
+ <span class="name">Ingeramus</span> (<span class="case">nom</span>) <a href="../cite/Ingeramus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 13</span></a>,
+ <span class="name">Ingream</span> (<span class="case">gen</span>) <a href="../cite/Ingream/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 9</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Ingramo</span> (<span class="case">dat</span>) <a href="../cite/Ingramo/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>N. Shiel, S.L. Uckelman. "Ingram". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Ingram.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

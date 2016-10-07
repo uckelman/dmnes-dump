@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>RusGeb</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>RusGeb</dt>
+  <dd>Paul S. N. Russell-Gebbett. Mossèn pere pujol's documents en vulgar dels segles xi, xii, & xiii ... (barcelona, 1913): A partial retranscription and commentary. In W. Rothwell, W. R. J. Barron, David Blamires, and Lewis Thorpe, editors, <em>Studies in Medieval Literature and Languages: In Memory of Frederick Whitehead</em>, pages 257-277. Manchester University Press, 1973.</dd>
+</dl>
+
+
+  <a href="../cite/Adalet/1107/RusGeb">Adalet</a>
+
+  <a href="../cite/Adalez/1131/RusGeb">Adalez</a>
+
+  <a href="../cite/Azalet/1107/RusGeb">Azalet</a>
+
+  <a href="../cite/Brunissen/1248/RusGeb">Brunissen</a>
+
+  <a href="../cite/Ermengod/1107/RusGeb">Ermengod</a>
+
+  <a href="../cite/Ermesen/1250/RusGeb">Ermesen</a>
+
+  <a href="../cite/Gauceran/1107/RusGeb">Gauceran</a>
+
+  <a href="../cite/Golceran/1131/RusGeb">Golceran</a>
+
+  <a href="../cite/Guialma/1250/RusGeb">Guialma</a>
+
+  <a href="../cite/Guiem/1250/RusGeb">Guiem</a>
+
+  <a href="../cite/Guilelmo/1036x1079/RusGeb">Guilelmo</a>
+
+  <a href="../cite/Guilem/13thC/RusGeb">Guilem</a>
+
+  <a href="../cite/Guitard/1131/RusGeb">Guitard</a>
+
+  <a href="../cite/Lorenz/1250/RusGeb">Lorenz</a>
+
+  <a href="../cite/Loucia/1131/RusGeb">Loucia</a>
+
+  <a href="../cite/Maria/1248/RusGeb">Maria</a>
+
+  <a href="../cite/Maria/1250/RusGeb">Maria</a>
+
+  <a href="../cite/Ponç/13thC/RusGeb">Ponç</a>
+
+  <a href="../cite/Ponz/1250/RusGeb">Ponz</a>
+
+  <a href="../cite/Raimun/1036x1079/RusGeb">Raimun</a>
+
+  <a href="../cite/Raimundo/1036x1079/RusGeb">Raimundo</a>
+
+  <a href="../cite/Ramona/1250/RusGeb">Ramona</a>
+
+  <a href="../cite/Remon/1107/RusGeb">Remon</a>
+
+  <a href="../cite/Remon/1036x1079/RusGeb">Remon</a>
+
+  <a href="../cite/Stefania/1131/RusGeb">Stefania</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

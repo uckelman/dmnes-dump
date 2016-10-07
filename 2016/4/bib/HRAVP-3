@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>HRAVP-3</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>HRAVP-3</dt>
+  <dd>Henri Sauval, editor. <em>Histoire et Recherches des Antiquite's de la Ville de Paris</em>, volume 3. Paris: Charles Moette &amp; Jacques Chardon, 1724.</dd>
+</dl>
+
+
+  <a href="../cite/Alixandre/1455/HRAVP-3">Alixandre</a>
+
+  <a href="../cite/Denys/1455/HRAVP-3">Denys</a>
+
+  <a href="../cite/Denyse/1455/HRAVP-3">Denyse</a>
+
+  <a href="../cite/Estienne/1455/HRAVP-3">Estienne</a>
+
+  <a href="../cite/Genevieve/1455/HRAVP-3">Genevieve</a>
+
+  <a href="../cite/Gillette/1455/HRAVP-3">Gillette</a>
+
+  <a href="../cite/Guillaume/1455/HRAVP-3">Guillaume</a>
+
+  <a href="../cite/Guillemette/1455/HRAVP-3">Guillemette</a>
+
+  <a href="../cite/Guillemin/1455/HRAVP-3">Guillemin</a>
+
+  <a href="../cite/Guy/1455/HRAVP-3">Guy</a>
+
+  <a href="../cite/Isabeau/1455/HRAVP-3">Isabeau</a>
+
+  <a href="../cite/Isabelle/1455/HRAVP-3">Isabelle</a>
+
+  <a href="../cite/Jaques/1455/HRAVP-3">Jaques</a>
+
+  <a href="../cite/Jean/1455/HRAVP-3">Jean</a>
+
+  <a href="../cite/Jehan/1455/HRAVP-3">Jehan</a>
+
+  <a href="../cite/Jehanne/1455/HRAVP-3">Jehanne</a>
+
+  <a href="../cite/Marguerite/1455/HRAVP-3">Marguerite</a>
+
+  <a href="../cite/Marie/1455/HRAVP-3">Marie</a>
+
+  <a href="../cite/Nicolas/1455/HRAVP-3">Nicolas</a>
+
+  <a href="../cite/Pierre/1455/HRAVP-3">Pierre</a>
+
+  <a href="../cite/Robinette/1455/HRAVP-3">Robinette</a>
+
+  <a href="../cite/Thomas/1455/HRAVP-3">Thomas</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

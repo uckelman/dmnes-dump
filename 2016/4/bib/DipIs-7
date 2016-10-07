@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>DipIs-7</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>DipIs-7</dt>
+  <dd>Hinu Íslenzka Bómentafélagi, editor. <em>Diplomatarium Islandicum: Íslenzkt Fornbréfasafn, sem hefir inni að halda Bréf og Gjörninga, Dóma og Máldaga, og Adðrar Skrár er snerta Ísland eða Íslenzka Menn</em>. Reyjavík: Í Félagsprentsmiðju, 1903-1907.</dd>
+</dl>
+
+
+  <a href="../cite/Andries/1500/DipIs-7">Andries</a>
+
+  <a href="../cite/Biorn/1495/DipIs-7">Biorn</a>
+
+  <a href="../cite/Biorn/1500/DipIs-7">Biorn</a>
+
+  <a href="../cite/Biỏrns/1495/DipIs-7">Biỏrns</a>
+
+  <a href="../cite/Biorns/1500/DipIs-7">Biorns</a>
+
+  <a href="../cite/Biorns/1495/DipIs-7">Biorns</a>
+
+  <a href="../cite/Clemens/1500/DipIs-7">Clemens</a>
+
+  <a href="../cite/Eijriks/1495/DipIs-7">Eijriks</a>
+
+  <a href="../cite/Einar/1504/DipIs-7">Einar</a>
+
+  <a href="../cite/Einars/1504/DipIs-7">Einars</a>
+
+  <a href="../cite/Gudmundur/1500/DipIs-7">Gudmundur</a>
+
+  <a href="../cite/Halldor/1504/DipIs-7">Halldor</a>
+
+  <a href="../cite/Halldorz/1504/DipIs-7">Halldorz</a>
+
+  <a href="../cite/Helgi/1504/DipIs-7">Helgi</a>
+
+  <a href="../cite/Jon/1500/DipIs-7">Jon</a>
+
+  <a href="../cite/Jon/1504/DipIs-7">Jon</a>
+
+  <a href="../cite/Jon/1495/DipIs-7">Jon</a>
+
+  <a href="../cite/Jone/1500/DipIs-7">Jone</a>
+
+  <a href="../cite/Jons/1504/DipIs-7">Jons</a>
+
+  <a href="../cite/Jons/1500/DipIs-7">Jons</a>
+
+  <a href="../cite/Kietill/1495/DipIs-7">Kietill</a>
+
+  <a href="../cite/Nichulas/1504/DipIs-7">Nichulas</a>
+
+  <a href="../cite/Olafs/1500/DipIs-7">Olafs</a>
+
+  <a href="../cite/Salomon/1504/DipIs-7">Salomon</a>
+
+  <a href="../cite/Snorra/1504/DipIs-7">Snorra</a>
+
+  <a href="../cite/augmundz/1500/DipIs-7">augmundz</a>
+
+  <a href="../cite/einar/1500/DipIs-7">einar</a>
+
+  <a href="../cite/finnbogi/1500/DipIs-7">finnbogi</a>
+
+  <a href="../cite/gudmundar/1500/DipIs-7">gudmundar</a>
+
+  <a href="../cite/gudmundz/1500/DipIs-7">gudmundz</a>
+
+  <a href="../cite/hilldebrandur/1500/DipIs-7">hilldebrandur</a>
+
+  <a href="../cite/kietill/1500/DipIs-7">kietill</a>
+
+  <a href="../cite/konradz/1500/DipIs-7">konradz</a>
+
+  <a href="../cite/magnus/1500/DipIs-7">magnus</a>
+
+  <a href="../cite/niculas/1500/DipIs-7">niculas</a>
+
+  <a href="../cite/tumas/1500/DipIs-7">tumas</a>
+
+  <a href="../cite/Þordur/1495/DipIs-7">Þordur</a>
+
+  <a href="../cite/þorsteins/1500/DipIs-7">þorsteins</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

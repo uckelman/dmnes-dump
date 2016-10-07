@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Gwenllian</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Gwenllian</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Welsh</span> <i>gwen</i> 'fair, white; blessed' + <span class="lang">Welsh</span> <i>llian</i> 'flaxen (cloth)'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 12th C princess consort of Wales and the 14th C daughter of the last Prince of Wales.</p>
+</div>
+  
+  
+<div class="def">
+  <p>Unlike many native Welsh names which succombed to the pressure of the invading Englishmen, <i>Gwenllian</i> remained a popular name in Wales, and even moved outside of the country and spread into England.  The Welsh form <i>Gwenllian</i> was pronounced with three syllables, the stress on the second one.  The English tendancy to stress the first syllable led English forms of the name to have just two syllables.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1560</span> <span class="name">Gwenllian</span> <a href="../cite/Gwenllian/1560/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1589</span> <span class="name">Gwenllian</span> <a href="../cite/Gwenllian/1589/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1593</span> <span class="name">Welthin</span> <a href="../cite/Welthin/1593/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1594</span> <span class="name">Welthin</span> <a href="../cite/Welthin/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1596</span> <span class="name">Welthan</span> <a href="../cite/Welthan/1596/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1598</span> <span class="name">Welthin</span> <a href="../cite/Welthin/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1452</span> <span class="name">Gwenllian</span> (<span class="case">nom</span>) <a href="../cite/Gwenllian/1452/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 72</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1575</span> <span class="name">Wenllian</span> <a href="../cite/Wenllian/1575/RegLlantrithyd"><span class="bib_key">RegLlantrithyd</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1579</span> <span class="name">Wenllian</span> <a href="../cite/Wenllian/1579/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1583</span> <span class="name">Wenllian</span> <a href="../cite/Wenllian/1583/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1592</span> <span class="name">Wenllian</span> <a href="../cite/Wenllian/1592/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1597</span> <span class="name">Wenllian</span> <a href="../cite/Wenllian/1597/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a></dd>
+<dt><span class="lang">Welsh</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Gwenllyen</span> <a href="../cite/Gwenllyen/1543/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1596</span> <span class="name">Gwenllian</span> <a href="../cite/Gwenllian/1596/RegCon1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 77</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Gwenllian". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Gwenllian.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

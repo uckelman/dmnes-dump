@@ -1,0 +1,776 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>GesOIJ-1</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>GesOIJ-1</dt>
+  <dd>J. I. van Doorninck and J. Nanninga Uitterdijk, editors. <em>Bijdragen tot de Geschiednis van Overijssel</em>, volume 1. Zwolle: De Erven J. J. Tijl, 1874.</dd>
+</dl>
+
+
+  <a href="../cite/Albertus/1274/GesOIJ-1">Albertus</a>
+
+  <a href="../cite/Albertus/1349/GesOIJ-1">Albertus</a>
+
+  <a href="../cite/Albertus/1356/GesOIJ-1">Albertus</a>
+
+  <a href="../cite/Aldericus/1254/GesOIJ-1">Aldericus</a>
+
+  <a href="../cite/Aluerici/1297/GesOIJ-1">Aluerici</a>
+
+  <a href="../cite/Alvericus/1254/GesOIJ-1">Alvericus</a>
+
+  <a href="../cite/Andreas/1254/GesOIJ-1">Andreas</a>
+
+  <a href="../cite/Andree/1387/GesOIJ-1">Andree</a>
+
+  <a href="../cite/Andries/1387/GesOIJ-1">Andries</a>
+
+  <a href="../cite/Anselmus/1288/GesOIJ-1">Anselmus</a>
+
+  <a href="../cite/Arnoldus/1373/GesOIJ-1">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1369/GesOIJ-1">Arnoldus</a>
+
+  <a href="../cite/Bernardus/1254/GesOIJ-1">Bernardus</a>
+
+  <a href="../cite/Berte/1254/GesOIJ-1">Berte</a>
+
+  <a href="../cite/Conradi/1270/GesOIJ-1">Conradi</a>
+
+  <a href="../cite/Conradi/1364/GesOIJ-1">Conradi</a>
+
+  <a href="../cite/Conradi/1387/GesOIJ-1">Conradi</a>
+
+  <a href="../cite/Conradus/1330/GesOIJ-1">Conradus</a>
+
+  <a href="../cite/Conradus/1311/GesOIJ-1">Conradus</a>
+
+  <a href="../cite/Ecbertus/1254/GesOIJ-1">Ecbertus</a>
+
+  <a href="../cite/Egidii/1288/GesOIJ-1">Egidii</a>
+
+  <a href="../cite/Egidii/1324/GesOIJ-1">Egidii</a>
+
+  <a href="../cite/Egidij/1361/GesOIJ-1">Egidij</a>
+
+  <a href="../cite/Egidij/1387/GesOIJ-1">Egidij</a>
+
+  <a href="../cite/Egidius/1254/GesOIJ-1">Egidius</a>
+
+  <a href="../cite/Egidius/1288/GesOIJ-1">Egidius</a>
+
+  <a href="../cite/Egidius/1324/GesOIJ-1">Egidius</a>
+
+  <a href="../cite/Egidius/1387/GesOIJ-1">Egidius</a>
+
+  <a href="../cite/Egidius/1361/GesOIJ-1">Egidius</a>
+
+  <a href="../cite/Engelbertus/1387/GesOIJ-1">Engelbertus</a>
+
+  <a href="../cite/Enghelbertus/1356/GesOIJ-1">Enghelbertus</a>
+
+  <a href="../cite/Euerard/1288/GesOIJ-1">Euerard</a>
+
+  <a href="../cite/Euerardi/1254/GesOIJ-1">Euerardi</a>
+
+  <a href="../cite/Euerardus/1330/GesOIJ-1">Euerardus</a>
+
+  <a href="../cite/Euerardus/1291/GesOIJ-1">Euerardus</a>
+
+  <a href="../cite/Gerardi/1347/GesOIJ-1">Gerardi</a>
+
+  <a href="../cite/Gerardi/1361/GesOIJ-1">Gerardi</a>
+
+  <a href="../cite/Gerardi/1288/GesOIJ-1">Gerardi</a>
+
+  <a href="../cite/Gerardi/1324/GesOIJ-1">Gerardi</a>
+
+  <a href="../cite/Gerardi/1270/GesOIJ-1">Gerardi</a>
+
+  <a href="../cite/Gerardi/1387/GesOIJ-1">Gerardi</a>
+
+  <a href="../cite/Gerardi/1373/GesOIJ-1">Gerardi</a>
+
+  <a href="../cite/Gerardo/1300/GesOIJ-1">Gerardo</a>
+
+  <a href="../cite/Gerardus/1349/GesOIJ-1">Gerardus</a>
+
+  <a href="../cite/Gerardus/1387/GesOIJ-1">Gerardus</a>
+
+  <a href="../cite/Gerardus/1297/GesOIJ-1">Gerardus</a>
+
+  <a href="../cite/Gerardus/1334/GesOIJ-1">Gerardus</a>
+
+  <a href="../cite/Gerardus/1361/GesOIJ-1">Gerardus</a>
+
+  <a href="../cite/Gerardus/1254/GesOIJ-1">Gerardus</a>
+
+  <a href="../cite/Gerardus/1324/GesOIJ-1">Gerardus</a>
+
+  <a href="../cite/Gerardus/1288/GesOIJ-1">Gerardus</a>
+
+  <a href="../cite/Gerardus/1373/GesOIJ-1">Gerardus</a>
+
+  <a href="../cite/Gerardus/1270/GesOIJ-1">Gerardus</a>
+
+  <a href="../cite/Gerlacus/1274/GesOIJ-1">Gerlacus</a>
+
+  <a href="../cite/Gerlacus/1268/GesOIJ-1">Gerlacus</a>
+
+  <a href="../cite/Gherhardi/1311/GesOIJ-1">Gherhardi</a>
+
+  <a href="../cite/Gherlacus/1334/GesOIJ-1">Gherlacus</a>
+
+  <a href="../cite/Ghijselberti/1330/GesOIJ-1">Ghijselberti</a>
+
+  <a href="../cite/Ghijselbertus/1361/GesOIJ-1">Ghijselbertus</a>
+
+  <a href="../cite/Godefridi/1268/GesOIJ-1">Godefridi</a>
+
+  <a href="../cite/Godefridi/1291/GesOIJ-1">Godefridi</a>
+
+  <a href="../cite/Godefridus/1297/GesOIJ-1">Godefridus</a>
+
+  <a href="../cite/Godescalcum/1311/GesOIJ-1">Godescalcum</a>
+
+  <a href="../cite/Godescalcum/1324/GesOIJ-1">Godescalcum</a>
+
+  <a href="../cite/Godescalcus/1254/GesOIJ-1">Godescalcus</a>
+
+  <a href="../cite/Gosuinus/1284/GesOIJ-1">Gosuinus</a>
+
+  <a href="../cite/Gosuinus/1291/GesOIJ-1">Gosuinus</a>
+
+  <a href="../cite/Gosvini/1330/GesOIJ-1">Gosvini</a>
+
+  <a href="../cite/Gosvini/1361/GesOIJ-1">Gosvini</a>
+
+  <a href="../cite/Gosvini/1364/GesOIJ-1">Gosvini</a>
+
+  <a href="../cite/Gosvini/1369/GesOIJ-1">Gosvini</a>
+
+  <a href="../cite/Gosvino/1366/GesOIJ-1">Gosvino</a>
+
+  <a href="../cite/Gosvinus/1387/GesOIJ-1">Gosvinus</a>
+
+  <a href="../cite/Gosvinus/1356/GesOIJ-1">Gosvinus</a>
+
+  <a href="../cite/Gosvinus/1330/GesOIJ-1">Gosvinus</a>
+
+  <a href="../cite/Goswini/1349/GesOIJ-1">Goswini</a>
+
+  <a href="../cite/Goswinus/1344/GesOIJ-1">Goswinus</a>
+
+  <a href="../cite/Gotscalci/1274/GesOIJ-1">Gotscalci</a>
+
+  <a href="../cite/Gozwini/1311/GesOIJ-1">Gozwini</a>
+
+  <a href="../cite/Gozwinus/1311/GesOIJ-1">Gozwinus</a>
+
+  <a href="../cite/Guijdone/1311/GesOIJ-1">Guijdone</a>
+
+  <a href="../cite/Harmannus/1291/GesOIJ-1">Harmannus</a>
+
+  <a href="../cite/Harmannus/1254/GesOIJ-1">Harmannus</a>
+
+  <a href="../cite/Henrici/1356/GesOIJ-1">Henrici</a>
+
+  <a href="../cite/Henrici/1373/GesOIJ-1">Henrici</a>
+
+  <a href="../cite/Henrici/1364/GesOIJ-1">Henrici</a>
+
+  <a href="../cite/Henrico/1356/GesOIJ-1">Henrico</a>
+
+  <a href="../cite/Henricus/1274/GesOIJ-1">Henricus</a>
+
+  <a href="../cite/Henricus/1349/GesOIJ-1">Henricus</a>
+
+  <a href="../cite/Henricus/1297/GesOIJ-1">Henricus</a>
+
+  <a href="../cite/Henricus/1291/GesOIJ-1">Henricus</a>
+
+  <a href="../cite/Henricus/1311/GesOIJ-1">Henricus</a>
+
+  <a href="../cite/Henricus/1356/GesOIJ-1">Henricus</a>
+
+  <a href="../cite/Henricus/1288/GesOIJ-1">Henricus</a>
+
+  <a href="../cite/Henricus/1344/GesOIJ-1">Henricus</a>
+
+  <a href="../cite/Henricus/1270/GesOIJ-1">Henricus</a>
+
+  <a href="../cite/Herberdus/1291/GesOIJ-1">Herberdus</a>
+
+  <a href="../cite/Herman/1288/GesOIJ-1">Herman</a>
+
+  <a href="../cite/Hermanni/1387/GesOIJ-1">Hermanni</a>
+
+  <a href="../cite/Hermanni/1349/GesOIJ-1">Hermanni</a>
+
+  <a href="../cite/Hermanni/1356/GesOIJ-1">Hermanni</a>
+
+  <a href="../cite/Hermanno/1330/GesOIJ-1">Hermanno</a>
+
+  <a href="../cite/Hermannus/1300/GesOIJ-1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1311/GesOIJ-1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1364/GesOIJ-1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1324/GesOIJ-1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1330/GesOIJ-1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1361/GesOIJ-1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1274/GesOIJ-1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1277/GesOIJ-1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1349/GesOIJ-1">Hermannus</a>
+
+  <a href="../cite/Hermanus/1387/GesOIJ-1">Hermanus</a>
+
+  <a href="../cite/Hermanus/1324/GesOIJ-1">Hermanus</a>
+
+  <a href="../cite/Hermanus/1330/GesOIJ-1">Hermanus</a>
+
+  <a href="../cite/Hertwicus/1268/GesOIJ-1">Hertwicus</a>
+
+  <a href="../cite/Heymannus/1284/GesOIJ-1">Heymannus</a>
+
+  <a href="../cite/Hildebrand/1284/GesOIJ-1">Hildebrand</a>
+
+  <a href="../cite/Hugo/1291/GesOIJ-1">Hugo</a>
+
+  <a href="../cite/Iacobus/1284/GesOIJ-1">Iacobus</a>
+
+  <a href="../cite/Iohan/1288/GesOIJ-1">Iohan</a>
+
+  <a href="../cite/Iohannes/1334/GesOIJ-1">Iohannes</a>
+
+  <a href="../cite/Iohannes/1349/GesOIJ-1">Iohannes</a>
+
+  <a href="../cite/Iohannes/1311/GesOIJ-1">Iohannes</a>
+
+  <a href="../cite/Iohannes/1324/GesOIJ-1">Iohannes</a>
+
+  <a href="../cite/Iohannes/1330/GesOIJ-1">Iohannes</a>
+
+  <a href="../cite/Iohannes/1356/GesOIJ-1">Iohannes</a>
+
+  <a href="../cite/Iohannes/1288/GesOIJ-1">Iohannes</a>
+
+  <a href="../cite/Iohannis/1288/GesOIJ-1">Iohannis</a>
+
+  <a href="../cite/Jacobi/1288/GesOIJ-1">Jacobi</a>
+
+  <a href="../cite/Jacobo/1324/GesOIJ-1">Jacobo</a>
+
+  <a href="../cite/Jacobus/1356/GesOIJ-1">Jacobus</a>
+
+  <a href="../cite/Jacobus/1311/GesOIJ-1">Jacobus</a>
+
+  <a href="../cite/Jacobus/1369/GesOIJ-1">Jacobus</a>
+
+  <a href="../cite/Johanis/1300/GesOIJ-1">Johanis</a>
+
+  <a href="../cite/Johann/1575/GesOIJ-1">Johann</a>
+
+  <a href="../cite/Johannes/1324/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1352/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1270/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1349/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1334/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1268/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1364/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1277/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1369/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1356/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1347/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1254/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1387/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1344/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1373/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannes/1361/GesOIJ-1">Johannes</a>
+
+  <a href="../cite/Johannis/1277/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1330/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1349/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1352/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1369/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1291/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1311/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1356/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1361/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1324/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1364/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1387/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1334/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Johannis/1344/GesOIJ-1">Johannis</a>
+
+  <a href="../cite/Lubbert/1288/GesOIJ-1">Lubbert</a>
+
+  <a href="../cite/Lubbertus/1330/GesOIJ-1">Lubbertus</a>
+
+  <a href="../cite/Ludolfus/1254/GesOIJ-1">Ludolfus</a>
+
+  <a href="../cite/Martini/1270/GesOIJ-1">Martini</a>
+
+  <a href="../cite/Martinus/1311/GesOIJ-1">Martinus</a>
+
+  <a href="../cite/Martinus/1284/GesOIJ-1">Martinus</a>
+
+  <a href="../cite/Milo/1270/GesOIJ-1">Milo</a>
+
+  <a href="../cite/Nanno/1291/GesOIJ-1">Nanno</a>
+
+  <a href="../cite/Nannonis/1330/GesOIJ-1">Nannonis</a>
+
+  <a href="../cite/Nannonis/1324/GesOIJ-1">Nannonis</a>
+
+  <a href="../cite/Nicholaus/1268/GesOIJ-1">Nicholaus</a>
+
+  <a href="../cite/Nicolai/1297/GesOIJ-1">Nicolai</a>
+
+  <a href="../cite/Nicolai/1254/GesOIJ-1">Nicolai</a>
+
+  <a href="../cite/Nicolaus/1254/GesOIJ-1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1288/GesOIJ-1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1291/GesOIJ-1">Nicolaus</a>
+
+  <a href="../cite/Nycolai/1361/GesOIJ-1">Nycolai</a>
+
+  <a href="../cite/Odo/1288/GesOIJ-1">Odo</a>
+
+  <a href="../cite/Odo/1311/GesOIJ-1">Odo</a>
+
+  <a href="../cite/Odomis/1288/GesOIJ-1">Odomis</a>
+
+  <a href="../cite/Odonis/1349/GesOIJ-1">Odonis</a>
+
+  <a href="../cite/Odonis/1311/GesOIJ-1">Odonis</a>
+
+  <a href="../cite/Otto/1291/GesOIJ-1">Otto</a>
+
+  <a href="../cite/Ottonis/1291/GesOIJ-1">Ottonis</a>
+
+  <a href="../cite/Pelegrimus/1284/GesOIJ-1">Pelegrimus</a>
+
+  <a href="../cite/Pelegrimus/1254/GesOIJ-1">Pelegrimus</a>
+
+  <a href="../cite/Pelgrinus/1268/GesOIJ-1">Pelgrinus</a>
+
+  <a href="../cite/Philippus/1369/GesOIJ-1">Philippus</a>
+
+  <a href="../cite/Reijneri/1349/GesOIJ-1">Reijneri</a>
+
+  <a href="../cite/Reijneri/1387/GesOIJ-1">Reijneri</a>
+
+  <a href="../cite/Reijneri/1369/GesOIJ-1">Reijneri</a>
+
+  <a href="../cite/Reijneri/1364/GesOIJ-1">Reijneri</a>
+
+  <a href="../cite/Reijnerus/1349/GesOIJ-1">Reijnerus</a>
+
+  <a href="../cite/Reijnheri/1311/GesOIJ-1">Reijnheri</a>
+
+  <a href="../cite/Reijnheri/1324/GesOIJ-1">Reijnheri</a>
+
+  <a href="../cite/Reinerus/1277/GesOIJ-1">Reinerus</a>
+
+  <a href="../cite/Renboldus/1254/GesOIJ-1">Renboldus</a>
+
+  <a href="../cite/Reyneri/1361/GesOIJ-1">Reyneri</a>
+
+  <a href="../cite/Reynerus/1288/GesOIJ-1">Reynerus</a>
+
+  <a href="../cite/Rodolfi/1356/GesOIJ-1">Rodolfi</a>
+
+  <a href="../cite/Rodolphi/1311/GesOIJ-1">Rodolphi</a>
+
+  <a href="../cite/Rodolphus/1361/GesOIJ-1">Rodolphus</a>
+
+  <a href="../cite/Rodolphus/1288/GesOIJ-1">Rodolphus</a>
+
+  <a href="../cite/Rodolphus/1311/GesOIJ-1">Rodolphus</a>
+
+  <a href="../cite/Rolandus/1324/GesOIJ-1">Rolandus</a>
+
+  <a href="../cite/Rotbertus/1268/GesOIJ-1">Rotbertus</a>
+
+  <a href="../cite/Rotgheri/1349/GesOIJ-1">Rotgheri</a>
+
+  <a href="../cite/Stephanus/1369/GesOIJ-1">Stephanus</a>
+
+  <a href="../cite/Stephanus/1387/GesOIJ-1">Stephanus</a>
+
+  <a href="../cite/Thedericus/1268/GesOIJ-1">Thedericus</a>
+
+  <a href="../cite/Theodericus/1369/GesOIJ-1">Theodericus</a>
+
+  <a href="../cite/Theodericus/1330/GesOIJ-1">Theodericus</a>
+
+  <a href="../cite/Thomas/1274/GesOIJ-1">Thomas</a>
+
+  <a href="../cite/Tidemannus/1291/GesOIJ-1">Tidemannus</a>
+
+  <a href="../cite/Tidericus/1288/GesOIJ-1">Tidericus</a>
+
+  <a href="../cite/Wernerus/1254/GesOIJ-1">Wernerus</a>
+
+  <a href="../cite/Wernerus/1291/GesOIJ-1">Wernerus</a>
+
+  <a href="../cite/Wilhelmi/1268/GesOIJ-1">Wilhelmi</a>
+
+  <a href="../cite/Wilhelmus/1349/GesOIJ-1">Wilhelmus</a>
+
+  <a href="../cite/Wilhelmus/1330/GesOIJ-1">Wilhelmus</a>
+
+  <a href="../cite/Woltori/1361/GesOIJ-1">Woltori</a>
+
+  <a href="../cite/aernts/1387/GesOIJ-1">aernts</a>
+
+  <a href="../cite/alberti/1268/GesOIJ-1">alberti</a>
+
+  <a href="../cite/andree/1373/GesOIJ-1">andree</a>
+
+  <a href="../cite/andrees/1387/GesOIJ-1">andrees</a>
+
+  <a href="../cite/arnoldus/1387/GesOIJ-1">arnoldus</a>
+
+  <a href="../cite/bernardi/1254/GesOIJ-1">bernardi</a>
+
+  <a href="../cite/bernardus/1288/GesOIJ-1">bernardus</a>
+
+  <a href="../cite/bernardus/1334/GesOIJ-1">bernardus</a>
+
+  <a href="../cite/bernardus/1361/GesOIJ-1">bernardus</a>
+
+  <a href="../cite/bernardus/1364/GesOIJ-1">bernardus</a>
+
+  <a href="../cite/bernhardus/1347/GesOIJ-1">bernhardus</a>
+
+  <a href="../cite/bernhardus/1324/GesOIJ-1">bernhardus</a>
+
+  <a href="../cite/bertoldi/1311/GesOIJ-1">bertoldi</a>
+
+  <a href="../cite/bertoldus/1356/GesOIJ-1">bertoldus</a>
+
+  <a href="../cite/bertoldus/1364/GesOIJ-1">bertoldus</a>
+
+  <a href="../cite/berwoldus/1387/GesOIJ-1">berwoldus</a>
+
+  <a href="../cite/brunonis/1387/GesOIJ-1">brunonis</a>
+
+  <a href="../cite/conradus/1387/GesOIJ-1">conradus</a>
+
+  <a href="../cite/conradus/1369/GesOIJ-1">conradus</a>
+
+  <a href="../cite/conradus/1324/GesOIJ-1">conradus</a>
+
+  <a href="../cite/erenboldi/1268/GesOIJ-1">erenboldi</a>
+
+  <a href="../cite/euerardi/1324/GesOIJ-1">euerardi</a>
+
+  <a href="../cite/euerardi/1334/GesOIJ-1">euerardi</a>
+
+  <a href="../cite/fridericus/1349/GesOIJ-1">fridericus</a>
+
+  <a href="../cite/gerardus/1356/GesOIJ-1">gerardus</a>
+
+  <a href="../cite/gerlaci/1297/GesOIJ-1">gerlaci</a>
+
+  <a href="../cite/ghijselberti/1356/GesOIJ-1">ghijselberti</a>
+
+  <a href="../cite/godefridus/1324/GesOIJ-1">godefridus</a>
+
+  <a href="../cite/gosswini/1334/GesOIJ-1">gosswini</a>
+
+  <a href="../cite/harmanni/1291/GesOIJ-1">harmanni</a>
+
+  <a href="../cite/heijdenrici/1268/GesOIJ-1">heijdenrici</a>
+
+  <a href="../cite/heijdenricus/1268/GesOIJ-1">heijdenricus</a>
+
+  <a href="../cite/heijnemanni/1268/GesOIJ-1">heijnemanni</a>
+
+  <a href="../cite/henrici/1300/GesOIJ-1">henrici</a>
+
+  <a href="../cite/henrici/1311/GesOIJ-1">henrici</a>
+
+  <a href="../cite/henrici/1288/GesOIJ-1">henrici</a>
+
+  <a href="../cite/henrici/1369/GesOIJ-1">henrici</a>
+
+  <a href="../cite/henrici/1387/GesOIJ-1">henrici</a>
+
+  <a href="../cite/henrici/1330/GesOIJ-1">henrici</a>
+
+  <a href="../cite/henrici/1324/GesOIJ-1">henrici</a>
+
+  <a href="../cite/henricus/1361/GesOIJ-1">henricus</a>
+
+  <a href="../cite/henricus/1300/GesOIJ-1">henricus</a>
+
+  <a href="../cite/henricus/1268/GesOIJ-1">henricus</a>
+
+  <a href="../cite/henricus/1324/GesOIJ-1">henricus</a>
+
+  <a href="../cite/henricus/1373/GesOIJ-1">henricus</a>
+
+  <a href="../cite/henricus/1387/GesOIJ-1">henricus</a>
+
+  <a href="../cite/herberdi/1387/GesOIJ-1">herberdi</a>
+
+  <a href="../cite/herberdus/1387/GesOIJ-1">herberdus</a>
+
+  <a href="../cite/hermani/1330/GesOIJ-1">hermani</a>
+
+  <a href="../cite/hermanni/1268/GesOIJ-1">hermanni</a>
+
+  <a href="../cite/hermanni/1347/GesOIJ-1">hermanni</a>
+
+  <a href="../cite/hermanni/1361/GesOIJ-1">hermanni</a>
+
+  <a href="../cite/hermanni/1284/GesOIJ-1">hermanni</a>
+
+  <a href="../cite/hermanni/1324/GesOIJ-1">hermanni</a>
+
+  <a href="../cite/hermanni/1330/GesOIJ-1">hermanni</a>
+
+  <a href="../cite/hermannii/1387/GesOIJ-1">hermannii</a>
+
+  <a href="../cite/hermannus/1334/GesOIJ-1">hermannus</a>
+
+  <a href="../cite/hermannus/1297/GesOIJ-1">hermannus</a>
+
+  <a href="../cite/hermannus/1369/GesOIJ-1">hermannus</a>
+
+  <a href="../cite/hermannus/1373/GesOIJ-1">hermannus</a>
+
+  <a href="../cite/hertwici/1268/GesOIJ-1">hertwici</a>
+
+  <a href="../cite/hillebrandus/1361/GesOIJ-1">hillebrandus</a>
+
+  <a href="../cite/iohannes/1373/GesOIJ-1">iohannes</a>
+
+  <a href="../cite/iohannes/1387/GesOIJ-1">iohannes</a>
+
+  <a href="../cite/iohannis/1387/GesOIJ-1">iohannis</a>
+
+  <a href="../cite/iohannis/1297/GesOIJ-1">iohannis</a>
+
+  <a href="../cite/iohannis/1373/GesOIJ-1">iohannis</a>
+
+  <a href="../cite/lamberti/1373/GesOIJ-1">lamberti</a>
+
+  <a href="../cite/lamberti/1291/GesOIJ-1">lamberti</a>
+
+  <a href="../cite/lamberti/1387/GesOIJ-1">lamberti</a>
+
+  <a href="../cite/lamberti/1268/GesOIJ-1">lamberti</a>
+
+  <a href="../cite/lambertus/1297/GesOIJ-1">lambertus</a>
+
+  <a href="../cite/lambertus/1387/GesOIJ-1">lambertus</a>
+
+  <a href="../cite/lubbertus/1387/GesOIJ-1">lubbertus</a>
+
+  <a href="../cite/lubbertus/1373/GesOIJ-1">lubbertus</a>
+
+  <a href="../cite/lubekini/1284/GesOIJ-1">lubekini</a>
+
+  <a href="../cite/luberti/1288/GesOIJ-1">luberti</a>
+
+  <a href="../cite/ludekinus/1334/GesOIJ-1">ludekinus</a>
+
+  <a href="../cite/martini/1284/GesOIJ-1">martini</a>
+
+  <a href="../cite/martini/1387/GesOIJ-1">martini</a>
+
+  <a href="../cite/martinus/1387/GesOIJ-1">martinus</a>
+
+  <a href="../cite/martinus/1254/GesOIJ-1">martinus</a>
+
+  <a href="../cite/mechthyldis/1324/GesOIJ-1">mechthyldis</a>
+
+  <a href="../cite/nicolai/1311/GesOIJ-1">nicolai</a>
+
+  <a href="../cite/nicolai/1284/GesOIJ-1">nicolai</a>
+
+  <a href="../cite/oelrici/1387/GesOIJ-1">oelrici</a>
+
+  <a href="../cite/otto/1347/GesOIJ-1">otto</a>
+
+  <a href="../cite/pelegrimi/1288/GesOIJ-1">pelegrimi</a>
+
+  <a href="../cite/pelegrimus/1373/GesOIJ-1">pelegrimus</a>
+
+  <a href="../cite/pelegrinus/1268/GesOIJ-1">pelegrinus</a>
+
+  <a href="../cite/pelerimus/1369/GesOIJ-1">pelerimus</a>
+
+  <a href="../cite/petri/1291/GesOIJ-1">petri</a>
+
+  <a href="../cite/pilegrimi/1254/GesOIJ-1">pilegrimi</a>
+
+  <a href="../cite/reijbaldi/1254/GesOIJ-1">reijbaldi</a>
+
+  <a href="../cite/reijneri/1373/GesOIJ-1">reijneri</a>
+
+  <a href="../cite/rodolfus/1387/GesOIJ-1">rodolfus</a>
+
+  <a href="../cite/rodolphus/1297/GesOIJ-1">rodolphus</a>
+
+  <a href="../cite/rotgherus/1324/GesOIJ-1">rotgherus</a>
+
+  <a href="../cite/theoderici/1356/GesOIJ-1">theoderici</a>
+
+  <a href="../cite/theoderici/1349/GesOIJ-1">theoderici</a>
+
+  <a href="../cite/theodericus/1349/GesOIJ-1">theodericus</a>
+
+  <a href="../cite/theodericus/1347/GesOIJ-1">theodericus</a>
+
+  <a href="../cite/theodericus/1387/GesOIJ-1">theodericus</a>
+
+  <a href="../cite/theodericus/1356/GesOIJ-1">theodericus</a>
+
+  <a href="../cite/theodericus/1364/GesOIJ-1">theodericus</a>
+
+  <a href="../cite/thidemannus/1297/GesOIJ-1">thidemannus</a>
+
+  <a href="../cite/thiderici/1254/GesOIJ-1">thiderici</a>
+
+  <a href="../cite/thidericus/1254/GesOIJ-1">thidericus</a>
+
+  <a href="../cite/thidericus/1297/GesOIJ-1">thidericus</a>
+
+  <a href="../cite/thijdemannus/1311/GesOIJ-1">thijdemannus</a>
+
+  <a href="../cite/thomas/1324/GesOIJ-1">thomas</a>
+
+  <a href="../cite/tidemanni/1288/GesOIJ-1">tidemanni</a>
+
+  <a href="../cite/tiderici/1291/GesOIJ-1">tiderici</a>
+
+  <a href="../cite/tydemannus/1284/GesOIJ-1">tydemannus</a>
+
+  <a href="../cite/volkerus/1277/GesOIJ-1">volkerus</a>
+
+  <a href="../cite/walteri/1334/GesOIJ-1">walteri</a>
+
+  <a href="../cite/wenemari/1324/GesOIJ-1">wenemari</a>
+
+  <a href="../cite/werneri/1387/GesOIJ-1">werneri</a>
+
+  <a href="../cite/werneri/1334/GesOIJ-1">werneri</a>
+
+  <a href="../cite/werneri/1364/GesOIJ-1">werneri</a>
+
+  <a href="../cite/wernerus/1387/GesOIJ-1">wernerus</a>
+
+  <a href="../cite/wilhelmus/1364/GesOIJ-1">wilhelmus</a>
+
+  <a href="../cite/wilhelmus/1387/GesOIJ-1">wilhelmus</a>
+
+  <a href="../cite/willam/1373/GesOIJ-1">willam</a>
+
+  <a href="../cite/wolterri/1324/GesOIJ-1">wolterri</a>
+
+  <a href="../cite/wolterus/1373/GesOIJ-1">wolterus</a>
+
+  <a href="../cite/wolterus/1364/GesOIJ-1">wolterus</a>
+
+  <a href="../cite/wolterus/1361/GesOIJ-1">wolterus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

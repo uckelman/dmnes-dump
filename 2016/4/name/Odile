@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Odile</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Odile</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>uodal</i> 'heritage, homestead'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>Then name of a 4th C saint and a 7th-8th C saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1574</span> <span class="name">Ottilia</span> <a href="../cite/Ottilia/1574/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Demetrij</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Odila</span> (<span class="case">nom</span>) <a href="../cite/Odila/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">38, Wan</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Odolia</span> (<span class="case">nom</span>) <a href="../cite/Odolia/1138x1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">61</span></a>;
+ <span class="date">1188</span> <span class="name">Odila</span> (<span class="case">nom</span>) <a href="../cite/Odila/1188/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCIV</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">c823</span> <span class="name">Odelina</span> (<span class="case">nom</span>) <a href="../cite/Odelina/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">94, Ved</span></a>;
+ <span class="date">1079x1101</span> <span class="name">Odelina</span> (<span class="case">abl</span>) <a href="../cite/Odelina/1079x1101/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">IX</span></a>,
+ <span class="name">Odelinam</span> (<span class="case">acc</span>) <a href="../cite/Odelinam/1079x1101/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>,
+ <span class="name">Odeline</span> (<span class="case">gen</span>) <a href="../cite/Odeline/1079x1101/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Odelina</span> (<span class="case">dat</span>) <a href="../cite/Odelina/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Odeline</span> (<span class="case">gen</span>) <a href="../cite/Odeline/1115x1149/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Udelina</span> (<span class="case">nom</span>) <a href="../cite/Udelina/1138x1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1147</span> <span class="name">Odelina</span> (<span class="case">abl</span>) <a href="../cite/Odelina/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1163–64</span> <span class="name">Odelina</span> (<span class="case">abl</span>) <a href="../cite/Odelina/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1164</span> <span class="name">Odelina</span> (<span class="case">abl</span>) <a href="../cite/Odelina/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1179</span> <span class="name">Odelina</span> (<span class="case">abl</span>) <a href="../cite/Odelina/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">178</span></a>,
+ <span class="name">Odoleta</span> (<span class="case">obl</span>) <a href="../cite/Odoleta/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">178</span></a>,
+ <span class="name">Udeleta</span> (<span class="case">abl</span>) <a href="../cite/Udeleta/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">181</span></a>;
+ <span class="date">1204</span> <span class="name">Odelinam</span> (<span class="case">acc</span>) <a href="../cite/Odelinam/1204/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LXXXVI</span></a>;
+ <span class="date">1214</span> <span class="name">Odelina</span> (<span class="case">nom</span>) <a href="../cite/Odelina/1214/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXIV</span></a>,
+ <span class="name">Odelinam</span> (<span class="case">acc</span>) <a href="../cite/Odelinam/1214/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXIV</span></a>;
+ <span class="date">1225</span> <span class="name">Odelina</span> (<span class="case">nom</span>) <a href="../cite/Odelina/1225/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LXXXIX</span></a>,
+ <span class="name">Odelinam</span> (<span class="case">acc</span>) <a href="../cite/Odelinam/1225/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-LXXXIX</span></a>;
+ <span class="date">1241</span> <span class="name">Odeline</span> (<span class="case">gen</span>) <a href="../cite/Odeline/1241/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-CXII</span></a>;
+ <span class="date">1268</span> <span class="name">Odelina</span> (<span class="case">nom</span>) <a href="../cite/Odelina/1268/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-V</span></a>,
+ <span class="name">Odeline</span> (<span class="case">gen</span>) <a href="../cite/Odeline/1268/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-V</span></a>;
+ <span class="date">1269</span> <span class="name">Odelina</span> (<span class="case">nom</span>) <a href="../cite/Odelina/1269/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-III</span></a>,
+ <span class="name">Odeline</span> (<span class="case">gen</span>) <a href="../cite/Odeline/1269/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-III</span></a>;
+ <span class="date">1270</span> <span class="name">Odelina</span> (<span class="case">nom</span>) <a href="../cite/Odelina/1270/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLI</span></a>,
+ <span class="name">Odelota</span> (<span class="case">nom</span>) <a href="../cite/Odelota/1270/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLI</span></a>;
+ <span class="date">1301</span> <span class="name">Odeline</span> (<span class="case">gen</span>) <a href="../cite/Odeline/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 210</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Ottilg</span> <a href="../cite/Ottilg/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">2055</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">889</span> <span class="name">Odulina</span> (<span class="case">nom</span>) <a href="../cite/Odulina/889/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMXVII</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Odile". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Odile.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

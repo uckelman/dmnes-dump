@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Julia</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Julia</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Fem. of <a class="nym" href="Julius">Julius</a>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of two 1st C empresses consort of the Roman Empire, a 1st C Jewish client queen of the Roman empire, a 1st C Berber queen of Mauretania, a 1st C queen of Commagene, a 1st C queen of Cetis, a 4th C empress consort of the Roman empire and saint, a 4th C Iberian saint, and a 5th C martyr.</p>
+</div>
+  
+  
+<div class="def">
+  <p><span class="xr">Withycombe s.n. Julia</span> says the name did not come into use in England until the 18th C (despite the appearance of a Shakespearean character with the name); however, English examples can be found as early aas the 13th C.  The name was rare throughout Europe before the Renaissance.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1256</span> <span class="name">Julia</span> (<span class="case">nom</span>) <a href="../cite/Julia/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Juliæ</span> (<span class="case">dat</span>) <a href="../cite/Juliæ/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1377</span> <span class="name">Julia</span> (<span class="case">nom</span>) <a href="../cite/Julia/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1381</span> <span class="name">Julia</span> (<span class="case">nom</span>) <a href="../cite/Julia/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 71</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1578</span> <span class="name">Jellia</span> <a href="../cite/Jellia/1578/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 85</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Julia</span> (<span class="case">nom</span>) <a href="../cite/Julia/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">34, Ved</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1423</span> <span class="name">Juliote</span> <a href="../cite/Juliote/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">318</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Guilia</span> (<span class="case">nom</span>) <a href="../cite/Guilia/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Iulia</span> (<span class="case">nom</span>) <a href="../cite/Iulia/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 56, 13</span></a>;
+ <span class="date">1527</span> <span class="name">Julia</span> (<span class="case">nom</span>) <a href="../cite/Julia/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 83</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Iulia</span> <a href="../cite/Iulia/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 14</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">954</span> <span class="name">julia</span> (<span class="case">nom</span>) <a href="../cite/julia/954/CDGH"><span class="bib_key">CDGH</span> <span class="bib_loc">XLVII</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Julia</span> <a href="../cite/Julia/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3852</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Julia". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Julia.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

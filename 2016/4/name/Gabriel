@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Gabriel</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Gabriel</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>גֶּבֶר</i> 'man' + <span class="lang">Hebrew</span> <i>אֵל</i> 'God'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a Biblical archangel and a 7th C Turkish saint. Wycliffite Bible (1395): <i>Gabriel</i>.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1557</span> <span class="name">Gabriell</span> (<span class="case">nom</span>) <a href="../cite/Gabriell/1557/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1561</span> <span class="name">Gabriell</span> (<span class="case">nom</span>) <a href="../cite/Gabriell/1561/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1572/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Berdts</span></a>;
+ <span class="date">1575</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1575/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Berts</span></a>;
+ <span class="date">1583</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Ariaanssen</span></a>;
+ <span class="date">1590</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Caluwe</span></a>;
+ <span class="date">1593</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Caluwe</span></a>;
+ <span class="date">1594</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Caluwe</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Gabrell</span> <a href="../cite/Gabrell/1548/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1555</span> <span class="name">Gabriell</span> <a href="../cite/Gabriell/1555/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1568</span> <span class="name">Gabryell</span> <a href="../cite/Gabryell/1568/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1583</span> <span class="name">Gabriell</span> <a href="../cite/Gabriell/1583/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 63</span></a>;
+ <span class="date">1584</span> <span class="name">Gabriell</span> <a href="../cite/Gabriell/1584/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1590</span> <span class="name">Gaberell</span> <a href="../cite/Gaberell/1590/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1593</span> <span class="name">Gabriell</span> <a href="../cite/Gabriell/1593/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1594</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1594/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1596</span> <span class="name">Gabriell</span> <a href="../cite/Gabriell/1596/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Gabryell</span> <a href="../cite/Gabryell/1596/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1598</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1599</span> <span class="name">Gabyell</span> <a href="../cite/Gabyell/1599/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Gabriell</span> <a href="../cite/Gabriell/1582/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 171</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 94</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 615</span></a>;
+ <span class="date">1418</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 373</span></a>;
+ <span class="date">1421</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">897</span></a>;
+ <span class="date">1423</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1562</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1563</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1564</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1565</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1566</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 198</span></a>;
+ <span class="date">1567</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1568</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 372</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Gabriel</span> (<span class="case">nom</span>) <a href="../cite/Gabriel/1418/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCCVII</span></a>;
+ <span class="date">1497</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">401</span></a>,
+ <span class="name">Gabriell</span> <a href="../cite/Gabriell/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">717</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1300</span> <span class="name">Gabrielem</span> (<span class="case">acc</span>) <a href="../cite/Gabrielem/1300/ActDipVeneto-I-1"><span class="bib_key">ActDipVeneto-I-1</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1326</span> <span class="name">Gabriele</span> (<span class="case">abl</span>) <a href="../cite/Gabriele/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 434</span></a>,
+ <span class="name">Gabrielem</span> (<span class="case">acc</span>) <a href="../cite/Gabrielem/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 437</span></a>,
+ <span class="name">Gabrielis</span> (<span class="case">gen</span>) <a href="../cite/Gabrielis/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 431</span></a>;
+ <span class="date">1327</span> <span class="name">Gabriele</span> (<span class="case">abl</span>) <a href="../cite/Gabriele/1327/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 449</span></a>;
+ <span class="date">1376</span> <span class="name">Gabriele</span> (<span class="case">abl</span>) <a href="../cite/Gabriele/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 85</span></a>,
+ <span class="name">Gabrielle</span> (<span class="case">abl</span>) <a href="../cite/Gabrielle/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Grabiel</span> (<span class="case">abl</span>) <a href="../cite/Grabiel/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 194</span></a>;
+ <span class="date">1464</span> <span class="name">Gabriel</span> (<span class="case">nom</span>) <a href="../cite/Gabriel/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1527</span> <span class="name">Gabriel</span> (<span class="case">nom</span>) <a href="../cite/Gabriel/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 85</span></a>,
+ <span class="name">Gabrielis</span> (<span class="case">gen</span>) <a href="../cite/Gabrielis/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Gabriele</span> <a href="../cite/Gabriele/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1487</span> <span class="name">Gabriel</span> (<span class="case">nom</span>) <a href="../cite/Gabriel/1487/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Gabrielis</span> (<span class="case">gen</span>) <a href="../cite/Gabrielis/1487/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Gabriol</span> (<span class="case">nom</span>) <a href="../cite/Gabriol/1487/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1488</span> <span class="name">Gabriel</span> (<span class="case">nom</span>) <a href="../cite/Gabriel/1488/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="name">Gabrielis</span> (<span class="case">gen</span>) <a href="../cite/Gabrielis/1488/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1489</span> <span class="name">Gabriel</span> (<span class="case">nom</span>) <a href="../cite/Gabriel/1489/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Gabrielis</span> (<span class="case">gen</span>) <a href="../cite/Gabrielis/1489/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1490</span> <span class="name">Gabriel</span> (<span class="case">nom</span>) <a href="../cite/Gabriel/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Gabrielis</span> (<span class="case">gen</span>) <a href="../cite/Gabrielis/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1491</span> <span class="name">Gabriel</span> (<span class="case">nom</span>) <a href="../cite/Gabriel/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a>,
+ <span class="name">Gabrielis</span> (<span class="case">gen</span>) <a href="../cite/Gabrielis/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1492</span> <span class="name">Gabriel</span> (<span class="case">nom</span>) <a href="../cite/Gabriel/1492/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 67</span></a>,
+ <span class="name">Gabrielis</span> (<span class="case">gen</span>) <a href="../cite/Gabrielis/1492/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3165</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1576</span> <span class="name">Gabriel</span> <a href="../cite/Gabriel/1576/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3880</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, J. Uckelman, S.L. Uckelman. "Gabriel". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Gabriel.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

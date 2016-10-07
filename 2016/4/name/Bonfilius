@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Bonfilius</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Bonfilius</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>bonus</i> 'good' + <span class="lang">Latin</span> <i>filius</i> 'son'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 12th C Italian saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1075</span> <span class="name">Bonifilius</span> (<span class="case">nom</span>) <a href="../cite/Bonifilius/1075/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">731</span></a>;
+ <span class="date">1115</span> <span class="name">Bonifilii</span> (<span class="case">gen</span>) <a href="../cite/Bonifilii/1115/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">734</span></a></dd>
+<dt><span class="lang">French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1368</span> <span class="name">Bon Fillot</span> <a href="../cite/Bon&#32;Fillot/1368/beauchet-vol1"><span class="bib_key">beauchet-vol1</span> <span class="bib_loc">p. 13</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1006</span> <span class="name">Bonefilius</span> (<span class="case">nom</span>) <a href="../cite/Bonefilius/1006/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCLXVI</span></a>;
+ <span class="date">1014</span> <span class="name">Bonefilio</span> (<span class="case">abl</span>) <a href="../cite/Bonefilio/1014/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXII</span></a>;
+ <span class="date">1019</span> <span class="name">Bonefilius</span> (<span class="case">nom</span>) <a href="../cite/Bonefilius/1019/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXIV</span></a>,
+ <span class="name">Bonifilio</span> (<span class="case">nom</span>) <a href="../cite/Bonifilio/1019/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXIV</span></a>;
+ <span class="date">1020</span> <span class="name">Benefilio</span> (<span class="case">nom</span>) <a href="../cite/Benefilio/1020/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXV</span></a>,
+ <span class="name">Bonefilio</span> (<span class="case">nom</span>) <a href="../cite/Bonefilio/1020/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXV</span></a>;
+ <span class="date">1022</span> <span class="name">Bonefilio</span> (<span class="case">abl</span>) <a href="../cite/Bonefilio/1022/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXVI</span></a>;
+ <span class="date">1192</span> <span class="name">Bonifilio</span> (<span class="case">abl</span>) <a href="../cite/Bonifilio/1192/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVIII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1134</span> <span class="name">Bonus-filius</span> (<span class="case">nom</span>) <a href="../cite/Bonus-filius/1134/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1141</span> <span class="name">Bono filio</span> (<span class="case">abl</span>) <a href="../cite/Bono&#32;filio/1141/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Bonus filius</span> (<span class="case">nom</span>) <a href="../cite/Bonus&#32;filius/1141/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1154</span> <span class="name">Bonifilii</span> (<span class="case">gen</span>) <a href="../cite/Bonifilii/1154/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>,
+ <span class="name">Bonus filius</span> (<span class="case">nom</span>) <a href="../cite/Bonus&#32;filius/1154/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1155</span> <span class="name">Boni filii</span> (<span class="case">gen</span>) <a href="../cite/Boni&#32;filii/1155/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Bono filio</span> (<span class="case">abl</span>) <a href="../cite/Bono&#32;filio/1155/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1180</span> <span class="name">Bonus filius</span> (<span class="case">nom</span>) <a href="../cite/Bonus&#32;filius/1180/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Bonfilius". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Bonfilius.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

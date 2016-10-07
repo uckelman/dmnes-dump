@@ -1,0 +1,323 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Lambert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Lambert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>lant</i>, <span class="lang">Old Saxon</span> <i>land</i> 'land' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C saint, a 9th C king of Italy and Holy Roman Emperor, the birth name of an 11th C pope, the name of an 11th C French saint, and the 12th C founder of the Beguines.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1050</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1050/CRS-2-5"><span class="bib_key">CRS-2-5</span> <span class="bib_loc">p. 232</span></a>;
+ <span class="date">1106</span> <span class="name">Lamberto</span> (<span class="case">dat</span>) <a href="../cite/Lamberto/1106/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1107</span> <span class="name">Lambertum</span> (<span class="case">acc</span>) <a href="../cite/Lambertum/1107/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1107/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1116</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1116/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1116/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1119</span> <span class="name">Lamberte</span> (<span class="case">voc</span>) <a href="../cite/Lamberte/1119/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>,
+ <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1119/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1119/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1120</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1120/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1120/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>;
+ <span class="date">c1130</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/c1130/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1133</span> <span class="name">Lamberto</span> (<span class="case">abl</span>) <a href="../cite/Lamberto/1133/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1351</span> <span class="name">Lambert</span> <a href="../cite/Lambert/1351/AnNam"><span class="bib_key">AnNam</span> <span class="bib_loc">p. 144</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 33</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1181</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1181/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 114</span></a>;
+ <span class="date">1189</span> <span class="name">Lambert</span> (<span class="case">nom</span>) <a href="../cite/Lambert/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 174</span></a>,
+ <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 174</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 172</span></a>;
+ <span class="date">1222</span> <span class="name">lamberti</span> (<span class="case">gen</span>) <a href="../cite/lamberti/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1240</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1240/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 120</span></a>;
+ <span class="date">1381</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1381/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1599</span> <span class="name">Lambert</span> <a href="../cite/Lambert/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 40</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1378</span> <span class="name">Lamberd</span> <a href="../cite/Lamberd/1378/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 335</span></a>;
+ <span class="date">1383</span> <span class="name">Lambrecht</span> <a href="../cite/Lambrecht/1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 337</span></a>;
+ <span class="date">1397</span> <span class="name">Lamberd</span> <a href="../cite/Lamberd/1397/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 340</span></a>;
+ <span class="date">1400</span> <span class="name">Lamberd</span> <a href="../cite/Lamberd/1400/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1409</span> <span class="name">Lamberd</span> <a href="../cite/Lamberd/1409/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>;
+ <span class="date">1411</span> <span class="name">Lammerd</span> <a href="../cite/Lammerd/1411/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1419</span> <span class="name">Lambert</span> <a href="../cite/Lambert/1419/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 348</span></a>;
+ <span class="date">1420</span> <span class="name">Lamberd</span> <a href="../cite/Lamberd/1420/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1421</span> <span class="name">Lamberd</span> <a href="../cite/Lamberd/1421/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1438</span> <span class="name">Lambert</span> <a href="../cite/Lambert/1438/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 361</span></a>;
+ <span class="date">1440</span> <span class="name">Lambart</span> <a href="../cite/Lambart/1440/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 362</span></a>;
+ <span class="date">1441</span> <span class="name">Lammert</span> <a href="../cite/Lammert/1441/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 363</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">657</span> <span class="name">Landebertus</span> (<span class="case">nom</span>) <a href="../cite/Landebertus/657/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">CCCXXVIII</span></a>;
+ <span class="date">c823</span> <span class="name">Lantbertus</span> (<span class="case">nom</span>) <a href="../cite/Lantbertus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">5, Gaugiacum</span></a>;
+ <span class="date">876</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/876/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">XI</span></a>;
+ <span class="date">878</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/878/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">937x93</span> <span class="name">Lanberti</span> (<span class="case">gen</span>) <a href="../cite/Lanberti/937x93/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 80</span></a>;
+ <span class="date">941x86</span> <span class="name">Lanberto</span> (<span class="case">abl</span>) <a href="../cite/Lanberto/941x86/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 92</span></a>,
+ <span class="name">Lanbertus</span> (<span class="case">nom</span>) <a href="../cite/Lanbertus/941x86/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 92</span></a>;
+ <span class="date">1030</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1030/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">712</span></a>;
+ <span class="date">1058</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1058/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">694</span></a>;
+ <span class="date">1060</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1060/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">730</span></a>;
+ <span class="date">1082x87</span> <span class="name">Lanbertus</span> (<span class="case">nom</span>) <a href="../cite/Lanbertus/1082x87/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 120</span></a>;
+ <span class="date">1101x1120</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1101x1120/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXIV</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLI</span></a>;
+ <span class="date">1115</span> <span class="name">Lamberto</span> (<span class="case">abl</span>) <a href="../cite/Lamberto/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VI</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1115/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">a1116</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/a1116/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1120</span> <span class="name">Lamberto</span> (<span class="case">abl</span>) <a href="../cite/Lamberto/1120/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VIII</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1120/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1125</span> <span class="name">Lamberto</span> (<span class="case">abl</span>) <a href="../cite/Lamberto/1125/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1135</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1135/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXVIII</span></a>,
+ <a href="../cite/Lamberti/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x62</span> <span class="name">Lamberto</span> (<span class="case">abl</span>) <a href="../cite/Lamberto/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">60</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">60</span></a>;
+ <span class="date">c1140</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/c1140/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIII</span></a>;
+ <span class="date">1143</span> <span class="name">Labertus</span> (<span class="case">nom</span>) <a href="../cite/Labertus/1143/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">10</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1143/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1147</span> <span class="name">Lamberto</span> (<span class="case">abl</span>) <a href="../cite/Lamberto/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1147x1158</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1147x1158/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">42</span></a>;
+ <span class="date">c1150</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/c1150/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXIII</span></a>;
+ <span class="date">a1163</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/a1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1163–64</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1164</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1168</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1168/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">133</span></a>;
+ <span class="date">c1170</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/c1170/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIV</span></a>;
+ <span class="date">1171</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1171/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">140</span></a>;
+ <span class="date">1172</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1172/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">148</span></a>;
+ <span class="date">1174</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1174/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">160</span></a>;
+ <span class="date">1179</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Lamberto</span> (<span class="case">abl</span>) <a href="../cite/Lamberto/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Lambertum</span> (<span class="case">acc</span>) <a href="../cite/Lambertum/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">175</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">174</span></a>;
+ <span class="date">c1200</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/c1200/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">201</span></a>;
+ <span class="date">1202</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1202/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXXVII</span></a>;
+ <span class="date">1205</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1205/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">1209</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1209/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIV</span></a>;
+ <span class="date">1214</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1214/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXX</span></a>;
+ <span class="date">1255</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1255/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">I, Candlemas</span></a>;
+ <span class="date">1260</span> <span class="name">Lambertum</span> (<span class="case">acc</span>) <a href="../cite/Lambertum/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">IV, Pentecost</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">IV, Pentecost</span></a>;
+ <span class="date">1263</span> <span class="name">Lamberto</span> (<span class="case">abl</span>) <a href="../cite/Lamberto/1263/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">1-V</span></a>;
+ <span class="date">1267</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1267/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-II</span></a>;
+ <span class="date">1273</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1273/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLIII</span></a>;
+ <span class="date">1301</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 199</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 208</span></a>;
+ <span class="date">1378</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">181</span></a>,
+ <span class="name">Lamberto</span> (<span class="case">dat</span>) <a href="../cite/Lamberto/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">762</span></a>;
+ <span class="date">1421</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">p. 141</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Lambert</span> <a href="../cite/Lambert/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1313</span> <span class="name">Lambert</span> <a href="../cite/Lambert/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 38</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Lambelin</span> <a href="../cite/Lambelin/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 107</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Lambert</span> <a href="../cite/Lambert/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 372</span></a>;
+ <span class="date">1421</span> <span class="name">Lambert</span> <a href="../cite/Lambert/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">417</span></a>;
+ <span class="date">1423</span> <span class="name">Lambert</span> <a href="../cite/Lambert/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">306</span></a>;
+ <span class="date">1563</span> <span class="name">Lambert</span> <a href="../cite/Lambert/1563/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 41</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1418</span> <span class="name">Lambin</span> <a href="../cite/Lambin/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 373</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">802</span> <span class="name">Lantperht</span> (<span class="case">nom</span>) <a href="../cite/Lantperht/802/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1086</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1086/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">61</span></a>;
+ <span class="date">1135</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1135/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>;
+ <span class="date">1136</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1136/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1168</span> <span class="name">Lamberto</span> (<span class="case">abl</span>) <a href="../cite/Lamberto/1168/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">65</span></a>;
+ <span class="date">1173</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1173/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">81</span></a>;
+ <span class="date">1186</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1186/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">123</span></a>;
+ <span class="date">1197</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1197/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1216</span> <span class="name">Lampertus</span> (<span class="case">nom</span>) <a href="../cite/Lampertus/1216/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">26</span></a>;
+ <span class="date">1222</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1222/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">134</span></a>;
+ <span class="date">1225</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1225/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">69</span></a>;
+ <span class="date">1229</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1229/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1238</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1238/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">1259</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1259/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>,
+ <span class="name">Lampertus</span> (<span class="case">nom</span>) <a href="../cite/Lampertus/1259/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1401</span> <span class="name">lamberto</span> (<span class="case">dat</span>) <a href="../cite/lamberto/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 10</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Lamprecht</span> <a href="../cite/Lamprecht/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">355</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1317</span> <span class="name">Lamperti</span> (<span class="case">gen</span>) <a href="../cite/Lamperti/1317/CDH-VIII-II"><span class="bib_key">CDH-VIII-II</span> <span class="bib_loc">X</span></a>,
+ <span class="name">Lamperto</span> (<span class="case">abl</span>) <a href="../cite/Lamperto/1317/CDH-VIII-II"><span class="bib_key">ibid.</span> <span class="bib_loc">XV</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 9</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1285</span> <span class="name">Lamberti</span> (<span class="case">gen</span>) <a href="../cite/Lamberti/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 153</span></a>;
+ <span class="date">1464</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1198</span> <span class="name">Lambertini</span> (<span class="case">gen</span>) <a href="../cite/Lambertini/1198/ChStBo1"><span class="bib_key">ChStBo1</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Lambertino</span> (<span class="case">abl</span>) <a href="../cite/Lambertino/1198/ChStBo1"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Lambertucio</span> (<span class="case">abl</span>) <a href="../cite/Lambertucio/1198/ChStBo1"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1286</span> <span class="name">Lamberto</span> (<span class="case">dat</span>) <a href="../cite/Lamberto/1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1287</span> <span class="name">Lamberto</span> (<span class="case">dat</span>) <a href="../cite/Lamberto/1287/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">491</span></a>;
+ <span class="date">1292</span> <span class="name">Lamberto</span> (<span class="case">dat</span>) <a href="../cite/Lamberto/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">236</span></a>;
+ <span class="date">1295</span> <span class="name">Lamberto</span> (<span class="case">dat</span>) <a href="../cite/Lamberto/1295/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">173</span></a>;
+ <span class="date">1296</span> <span class="name">Lamberto</span> (<span class="case">dat</span>) <a href="../cite/Lamberto/1296/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">257</span></a>;
+ <span class="date">1299</span> <span class="name">Lamberto</span> (<span class="case">dat</span>) <a href="../cite/Lamberto/1299/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">368</span></a>;
+ <span class="date">1301</span> <span class="name">Lamberto</span> (<span class="case">dat</span>) <a href="../cite/Lamberto/1301/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">306</span></a>;
+ <span class="date">1303</span> <span class="name">Lamberto</span> (<span class="case">dat</span>) <a href="../cite/Lamberto/1303/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">449</span></a>,
+ <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1303/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">449</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1463</span> <span class="name">Lambrech</span> <a href="../cite/Lambrech/1463/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 99</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1268</span> <span class="name">lamberti</span> (<span class="case">gen</span>) <a href="../cite/lamberti/1268/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 295</span></a>;
+ <span class="date">1291</span> <span class="name">lamberti</span> (<span class="case">gen</span>) <a href="../cite/lamberti/1291/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 297</span></a>;
+ <span class="date">1297</span> <span class="name">lambertus</span> (<span class="case">nom</span>) <a href="../cite/lambertus/1297/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 297</span></a>;
+ <span class="date">1373</span> <span class="name">lamberti</span> (<span class="case">gen</span>) <a href="../cite/lamberti/1373/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303</span></a>;
+ <span class="date">1387</span> <span class="name">lamberti</span> (<span class="case">gen</span>) <a href="../cite/lamberti/1387/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304</span></a>,
+ <span class="name">lambertus</span> (<span class="case">nom</span>) <a href="../cite/lambertus/1387/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1251</span> <span class="name">Lampertus</span> (<span class="case">nom</span>) <a href="../cite/Lampertus/1251/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">141</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6045</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1163</span> <span class="name">Lambertus</span> (<span class="case">nom</span>) <a href="../cite/Lambertus/1163/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1179</span> <span class="name">Lanbertus</span> (<span class="case">nom</span>) <a href="../cite/Lanbertus/1179/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, S.L. Uckelman. "Lambert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Lambert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>
