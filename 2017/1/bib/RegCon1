@@ -1,0 +1,326 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>RegCon1</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>RegCon1</dt>
+  <dd><em>the First Volume of the Conway Parish Registers in the Rural Deanery of Arllechwedd, Diocese of Bangor, Caernarvonshire, 1541 to 1793</em>. London: Chas. J. Clark, 1900.</dd>
+</dl>
+
+
+  <a href="../cite/Agnes/1543/RegCon1">Agnes</a>
+
+  <a href="../cite/Alis/1560/RegCon1">Alis</a>
+
+  <a href="../cite/Alis/1543/RegCon1">Alis</a>
+
+  <a href="../cite/Arthyr/1543/RegCon1">Arthyr</a>
+
+  <a href="../cite/Blanch/1582/RegCon1">Blanch</a>
+
+  <a href="../cite/Bumffre/1543/RegCon1">Bumffre</a>
+
+  <a href="../cite/Catherina/1581/RegCon1">Catherina</a>
+
+  <a href="../cite/Catherine/1589/RegCon1">Catherine</a>
+
+  <a href="../cite/Catherine/1543/RegCon1">Catherine</a>
+
+  <a href="../cite/Catherine/1583/RegCon1">Catherine</a>
+
+  <a href="../cite/David/1560/RegCon1">David</a>
+
+  <a href="../cite/David/1583/RegCon1">David</a>
+
+  <a href="../cite/Dorothea/1581/RegCon1">Dorothea</a>
+
+  <a href="../cite/Edmund/1543/RegCon1">Edmund</a>
+
+  <a href="../cite/Edward/1582/RegCon1">Edward</a>
+
+  <a href="../cite/Edward/1583/RegCon1">Edward</a>
+
+  <a href="../cite/Edwardi/1582/RegCon1">Edwardi</a>
+
+  <a href="../cite/Elen/1589/RegCon1">Elen</a>
+
+  <a href="../cite/Elen/1583/RegCon1">Elen</a>
+
+  <a href="../cite/Elena/1581/RegCon1">Elena</a>
+
+  <a href="../cite/Eline/1543/RegCon1">Eline</a>
+
+  <a href="../cite/Eliza/1593/RegCon1">Eliza</a>
+
+  <a href="../cite/Elizabeth/1560/RegCon1">Elizabeth</a>
+
+  <a href="../cite/Elyn/1543/RegCon1">Elyn</a>
+
+  <a href="../cite/Elyza/1593/RegCon1">Elyza</a>
+
+  <a href="../cite/Evani/1583/RegCon1">Evani</a>
+
+  <a href="../cite/Gainor/1590/RegCon1">Gainor</a>
+
+  <a href="../cite/Gainor/1595/RegCon1">Gainor</a>
+
+  <a href="../cite/Gaynor/1582/RegCon1">Gaynor</a>
+
+  <a href="../cite/Gruffith/1589/RegCon1">Gruffith</a>
+
+  <a href="../cite/Gwen/1556/RegCon1">Gwen</a>
+
+  <a href="../cite/Gwen/1595/RegCon1">Gwen</a>
+
+  <a href="../cite/Gwen/1560/RegCon1">Gwen</a>
+
+  <a href="../cite/Gwen/1590/RegCon1">Gwen</a>
+
+  <a href="../cite/Gwen/1573/RegCon1">Gwen</a>
+
+  <a href="../cite/Gwen/1597/RegCon1">Gwen</a>
+
+  <a href="../cite/Gwen/1583/RegCon1">Gwen</a>
+
+  <a href="../cite/Gwen/1593/RegCon1">Gwen</a>
+
+  <a href="../cite/Gwen/1580/RegCon1">Gwen</a>
+
+  <a href="../cite/Gwenhoyver/1560/RegCon1">Gwenhoyver</a>
+
+  <a href="../cite/Gwenllian/1596/RegCon1">Gwenllian</a>
+
+  <a href="../cite/Gwenllyen/1543/RegCon1">Gwenllyen</a>
+
+  <a href="../cite/Gwenne/1589/RegCon1">Gwenne</a>
+
+  <a href="../cite/Gwenne/1593/RegCon1">Gwenne</a>
+
+  <a href="../cite/Harry/1544/RegCon1">Harry</a>
+
+  <a href="../cite/Henry/1560/RegCon1">Henry</a>
+
+  <a href="../cite/Henry/1583/RegCon1">Henry</a>
+
+  <a href="../cite/Hugh/1543/RegCon1">Hugh</a>
+
+  <a href="../cite/Hugh/1544/RegCon1">Hugh</a>
+
+  <a href="../cite/Hugo/1581/RegCon1">Hugo</a>
+
+  <a href="../cite/Hugo/1582/RegCon1">Hugo</a>
+
+  <a href="../cite/Hugonis/1581/RegCon1">Hugonis</a>
+
+  <a href="../cite/Ithel/1544/RegCon1">Ithel</a>
+
+  <a href="../cite/Jacobous/1582/RegCon1">Jacobous</a>
+
+  <a href="../cite/James/1544/RegCon1">James</a>
+
+  <a href="../cite/Jane/1544/RegCon1">Jane</a>
+
+  <a href="../cite/Jane/1560/RegCon1">Jane</a>
+
+  <a href="../cite/Jane/1543/RegCon1">Jane</a>
+
+  <a href="../cite/Johannes/1581/RegCon1">Johannes</a>
+
+  <a href="../cite/John/1581/RegCon1">John</a>
+
+  <a href="../cite/John/1582/RegCon1">John</a>
+
+  <a href="../cite/John/1544/RegCon1">John</a>
+
+  <a href="../cite/John/1560/RegCon1">John</a>
+
+  <a href="../cite/John/1583/RegCon1">John</a>
+
+  <a href="../cite/Jonett/1544/RegCon1">Jonett</a>
+
+  <a href="../cite/Jonne/1544/RegCon1">Jonne</a>
+
+  <a href="../cite/Katherin/1543/RegCon1">Katherin</a>
+
+  <a href="../cite/Katherine/1560/RegCon1">Katherine</a>
+
+  <a href="../cite/Katherine/1543/RegCon1">Katherine</a>
+
+  <a href="../cite/Katherine/1544/RegCon1">Katherine</a>
+
+  <a href="../cite/Lewis/1543/RegCon1">Lewis</a>
+
+  <a href="../cite/Llyckie/1583/RegCon1">Llyckie</a>
+
+  <a href="../cite/Margaret/1582/RegCon1">Margaret</a>
+
+  <a href="../cite/Margaret/1543/RegCon1">Margaret</a>
+
+  <a href="../cite/Margaret/1544/RegCon1">Margaret</a>
+
+  <a href="../cite/Margery/1544/RegCon1">Margery</a>
+
+  <a href="../cite/Margery/1560/RegCon1">Margery</a>
+
+  <a href="../cite/Margot/1560/RegCon1">Margot</a>
+
+  <a href="../cite/Marie/1589/RegCon1">Marie</a>
+
+  <a href="../cite/Moris/1583/RegCon1">Moris</a>
+
+  <a href="../cite/Moryce/1560/RegCon1">Moryce</a>
+
+  <a href="../cite/Nicholai/1581/RegCon1">Nicholai</a>
+
+  <a href="../cite/Nicholaws/1582/RegCon1">Nicholaws</a>
+
+  <a href="../cite/Owens/1589/RegCon1">Owens</a>
+
+  <a href="../cite/Owinus/1582/RegCon1">Owinus</a>
+
+  <a href="../cite/Peeter/1582/RegCon1">Peeter</a>
+
+  <a href="../cite/Rees/1589/RegCon1">Rees</a>
+
+  <a href="../cite/Rees/1544/RegCon1">Rees</a>
+
+  <a href="../cite/Reignald/1582/RegCon1">Reignald</a>
+
+  <a href="../cite/Res/1544/RegCon1">Res</a>
+
+  <a href="../cite/Richard/1582/RegCon1">Richard</a>
+
+  <a href="../cite/Richard/1544/RegCon1">Richard</a>
+
+  <a href="../cite/Richarde/1581/RegCon1">Richarde</a>
+
+  <a href="../cite/Richardi/1581/RegCon1">Richardi</a>
+
+  <a href="../cite/Ris/1582/RegCon1">Ris</a>
+
+  <a href="../cite/Ris/1544/RegCon1">Ris</a>
+
+  <a href="../cite/Ris/1583/RegCon1">Ris</a>
+
+  <a href="../cite/Ris/1589/RegCon1">Ris</a>
+
+  <a href="../cite/Ris/1560/RegCon1">Ris</a>
+
+  <a href="../cite/Robert/1581/RegCon1">Robert</a>
+
+  <a href="../cite/Robert/1589/RegCon1">Robert</a>
+
+  <a href="../cite/Robert/1543/RegCon1">Robert</a>
+
+  <a href="../cite/Roberti/1581/RegCon1">Roberti</a>
+
+  <a href="../cite/Rodulphus/1582/RegCon1">Rodulphus</a>
+
+  <a href="../cite/Roger/1560/RegCon1">Roger</a>
+
+  <a href="../cite/Rowlandi/1582/RegCon1">Rowlandi</a>
+
+  <a href="../cite/Thomas/1581/RegCon1">Thomas</a>
+
+  <a href="../cite/Thomas/1583/RegCon1">Thomas</a>
+
+  <a href="../cite/Thomas/1544/RegCon1">Thomas</a>
+
+  <a href="../cite/Thomas/1543/RegCon1">Thomas</a>
+
+  <a href="../cite/Thomas/1560/RegCon1">Thomas</a>
+
+  <a href="../cite/Tydir/1581/RegCon1">Tydir</a>
+
+  <a href="../cite/William/1581/RegCon1">William</a>
+
+  <a href="../cite/William/1560/RegCon1">William</a>
+
+  <a href="../cite/Williemus/1596/RegCon1">Williemus</a>
+
+  <a href="../cite/Willimi/1582/RegCon1">Willimi</a>
+
+  <a href="../cite/Williumus/1581/RegCon1">Williumus</a>
+
+  <a href="../cite/Zuzanna/1589/RegCon1">Zuzanna</a>
+
+  <a href="../cite/david/1581/RegCon1">david</a>
+
+  <a href="../cite/davidi/1582/RegCon1">davidi</a>
+
+  <a href="../cite/davidi/1581/RegCon1">davidi</a>
+
+  <a href="../cite/ffoulke/1582/RegCon1">ffoulke</a>
+
+  <a href="../cite/ffoulke/1583/RegCon1">ffoulke</a>
+
+  <a href="../cite/harry/1582/RegCon1">harry</a>
+
+  <a href="../cite/henrici/1582/RegCon1">henrici</a>
+
+  <a href="../cite/hugh/1581/RegCon1">hugh</a>
+
+  <a href="../cite/hugh/1582/RegCon1">hugh</a>
+
+  <a href="../cite/hugh/1560/RegCon1">hugh</a>
+
+  <a href="../cite/hugonis/1582/RegCon1">hugonis</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

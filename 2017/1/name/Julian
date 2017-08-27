@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Julian</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Julian</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Julian</i> 'belonging to <a class="nym" href="Julius">Julius</a>'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of 2nd C Roman emperor, a 3rd-4th C French saint, two 4th C martyrs, a 4th C Roman emperor, a 6th C partriarch of Antioch, and a 7th C Spanish saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>In England, the feminine form <a class="nym" href="Juliana">Juliana</a> was much more common than the masculine form.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1558–9</span> <span class="name">Julian</span> <a href="../cite/Julian/1558–9/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1563/4</span> <span class="name">Jolyan</span> <a href="../cite/Jolyan/1563s4/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 27</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814</span> <span class="name">Juliani</span> (<span class="case">gen</span>) <a href="../cite/Juliani/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">C21</span></a>;
+ <span class="date">1030</span> <span class="name">Julianus</span> (<span class="case">nom</span>) <a href="../cite/Julianus/1030/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">712</span></a>;
+ <span class="date">1179</span> <span class="name">Juliani</span> (<span class="case">gen</span>) <a href="../cite/Juliani/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">169</span></a>;
+ <span class="date">1258</span> <span class="name">Julianus</span> (<span class="case">nom</span>) <a href="../cite/Julianus/1258/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XXIX, Candlemas</span></a>;
+ <span class="date">1260</span> <span class="name">Juliani</span> (<span class="case">gen</span>) <a href="../cite/Juliani/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI, St. Martin</span></a>,
+ <span class="name">Juliano</span> (<span class="case">abl</span>) <a href="../cite/Juliano/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV, St. Martin</span></a>,
+ <span class="name">Julianum</span> (<span class="case">acc</span>) <a href="../cite/Julianum/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XV, St. Martin</span></a>,
+ <span class="name">Julianus</span> (<span class="case">nom</span>) <a href="../cite/Julianus/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">VI, Candlemas</span></a>;
+ <span class="date">1273</span> <span class="name">Iuliano</span> (<span class="case">abl</span>) <a href="../cite/Iuliano/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1300</span> <span class="name">Juliani</span> (<span class="case">gen</span>) <a href="../cite/Juliani/1300/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">382</span></a>,
+ <span class="name">Julianus</span> (<span class="case">nom</span>) <a href="../cite/Julianus/1300/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">382</span></a>;
+ <span class="date">1378</span> <span class="name">Juliano</span> (<span class="case">dat</span>) <a href="../cite/Juliano/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">951</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1268</span> <span class="name">Julian</span> <a href="../cite/Julian/1268/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 104</span></a>;
+ <span class="date">1313</span> <span class="name">Julian</span> <a href="../cite/Julian/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 96</span></a>,
+ <span class="name">Julien</span> <a href="../cite/Julien/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Julien</span> <a href="../cite/Julien/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 601</span></a>;
+ <span class="date">1418</span> <span class="name">Julien</span> <a href="../cite/Julien/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 214</span></a>,
+ <a href="../cite/Julien/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 389</span></a>;
+ <span class="date">1423</span> <span class="name">Julien</span> <a href="../cite/Julien/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">416</span></a>;
+ <span class="date">1438</span> <span class="name">Julien</span> <a href="../cite/Julien/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">180</span></a>;
+ <span class="date">1561</span> <span class="name">Jullien</span> <a href="../cite/Jullien/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1562</span> <span class="name">Julien</span> <a href="../cite/Julien/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1563</span> <span class="name">Julian</span> <a href="../cite/Julian/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Julien</span> <a href="../cite/Julien/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1564</span> <span class="name">Julien</span> <a href="../cite/Julien/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 74</span></a>;
+ <span class="date">1565</span> <span class="name">Julien</span> <a href="../cite/Julien/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1566</span> <span class="name">Julien</span> <a href="../cite/Julien/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 200</span></a>;
+ <span class="date">1567</span> <span class="name">Julien</span> <a href="../cite/Julien/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 285</span></a>;
+ <span class="date">1568</span> <span class="name">Julien</span> <a href="../cite/Julien/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 370</span></a>;
+ <span class="date">1570</span> <span class="name">Julien</span> <a href="../cite/Julien/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 426</span></a>;
+ <span class="date">1571</span> <span class="name">Julien</span> <a href="../cite/Julien/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 436</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1186</span> <span class="name">Julianus</span> (<span class="case">nom</span>) <a href="../cite/Julianus/1186/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">123</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1235</span> <span class="name">Zulianni</span> (<span class="case">gen</span>) <a href="../cite/Zulianni/1235/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">1a</span></a>,
+ <span class="name">Zulianum</span> (<span class="case">acc</span>) <a href="../cite/Zulianum/1235/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">1a</span></a>,
+ <span class="name">Zulianus</span> (<span class="case">nom</span>) <a href="../cite/Zulianus/1235/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">1b</span></a>;
+ <span class="date">1285</span> <span class="name">Iuliani</span> (<span class="case">gen</span>) <a href="../cite/Iuliani/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 159</span></a>;
+ <span class="date">1324</span> <span class="name">Iullano</span> (<span class="case">abl</span>) <a href="../cite/Iullano/1324/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 48, 3732</span></a>;
+ <span class="date">1326</span> <span class="name">Zuliani</span> (<span class="case">gen</span>) <a href="../cite/Zuliani/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 439</span></a>;
+ <span class="date">1348</span> <span class="name">Iuliani</span> (<span class="case">gen</span>) <a href="../cite/Iuliani/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">24</span></a>;
+ <span class="date">1376</span> <span class="name">Iuliano</span> (<span class="case">abl</span>) <a href="../cite/Iuliano/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 158</span></a>;
+ <span class="date">1449</span> <span class="name">Iuliani</span> (<span class="case">gen</span>) <a href="../cite/Iuliani/1449/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1464</span> <span class="name">Julianus</span> (<span class="case">nom</span>) <a href="../cite/Julianus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Iugliano</span> (<span class="case">abl</span>) <a href="../cite/Iugliano/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 53, 49</span></a>,
+ <span class="name">Iulianus</span> (<span class="case">nom</span>) <a href="../cite/Iulianus/1522x1532/DSF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54, 51</span></a>;
+ <span class="date">1527</span> <span class="name">Juliani</span> (<span class="case">gen</span>) <a href="../cite/Juliani/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 83</span></a>,
+ <span class="name">Julianus</span> (<span class="case">nom</span>) <a href="../cite/Julianus/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1429–1430</span> <span class="name">Giuliano</span> <a href="../cite/Giuliano/1429–1430/DiaryLMA"><span class="bib_key">DiaryLMA</span> <span class="bib_loc">p. 228</span></a>;
+ <span class="date">1513x1521</span> <span class="name">Iuliano</span> <a href="../cite/Iuliano/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 13</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1162</span> <span class="name">Julianus</span> (<span class="case">nom</span>) <a href="../cite/Julianus/1162/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 7</span></a>;
+ <span class="date">1190</span> <span class="name">Julianus</span> (<span class="case">nom</span>) <a href="../cite/Julianus/1190/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 8</span></a>;
+ <span class="date">1211</span> <span class="name">Julianus</span> (<span class="case">nom</span>) <a href="../cite/Julianus/1211/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1490</span> <span class="name">Juliani</span> (<span class="case">gen</span>) <a href="../cite/Juliani/1490/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 43</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1163</span> <span class="name">Julianus</span> (<span class="case">nom</span>) <a href="../cite/Julianus/1163/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1166</span> <span class="name">Julianus</span> (<span class="case">nom</span>) <a href="../cite/Julianus/1166/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Julian". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Julian.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

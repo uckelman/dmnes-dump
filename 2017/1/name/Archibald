@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Archibald</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Archibald</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>erchan</i> 'sublime, special; chief; ge
+nuine, true' + <span class="lang">Old High German</span> <i>bald</i> 'bold'.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>The Old German form of the name is <i>Erchambold</i>, but the <i>m</i> was retained only in French and Italian.  In Scotland, <i>Archibald</i> was a common name amongst the earls and dukes of Douglas, Moray, Argyll, and Angus, and was often used as a translation of the Gaelic name <a class="nym" href="Giolla&#32;Easpuig">Giolla Easpuig</a>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1050</span> <span class="name">Erchanpolt</span> (<span class="case">nom</span>) <a href="../cite/Erchanpolt/c1050/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">57</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1529</span> <span class="name">Archebolt</span> <a href="../cite/Archebolt/1529/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 88</span></a>;
+ <span class="date">1532–1533</span> <span class="name">Archepole</span> <a href="../cite/Archepole/1532–1533/CovGuild-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 107</span></a>;
+ <span class="date">1534</span> <span class="name">Archepole</span> <a href="../cite/Archepole/1534/CovGuild-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 131</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Ercamboldus</span> (<span class="case">nom</span>) <a href="../cite/Ercamboldus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">3, Gaugiacum</span></a>;
+ <span class="date">994</span> <span class="name">Archimboldi</span> (<span class="case">gen</span>) <a href="../cite/Archimboldi/994/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1047</span> <span class="name">Archembaudus</span> (<span class="case">nom</span>) <a href="../cite/Archembaudus/1047/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1133</span> <span class="name">Herchembaldi</span> (<span class="case">gen</span>) <a href="../cite/Herchembaldi/1133/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXX</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">855</span> <span class="name">Ercamboldus</span> (<span class="case">nom</span>) <a href="../cite/Ercamboldus/855/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1016</span> <span class="name">Ercamboldi</span> (<span class="case">gen</span>) <a href="../cite/Ercamboldi/1016/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">37</span></a>,
+ <span class="name">Ercanbaldi</span> (<span class="case">gen</span>) <a href="../cite/Ercanbaldi/1016/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">38</span></a>;
+ <span class="date">1018</span> <span class="name">Erckenbaldi</span> (<span class="case">gen</span>) <a href="../cite/Erckenbaldi/1018/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">57</span></a>;
+ <span class="date">1020</span> <span class="name">Ercanboldi</span> (<span class="case">gen</span>) <a href="../cite/Ercanboldi/1020/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>,
+ <span class="name">Erkanpaldi</span> (<span class="case">gen</span>) <a href="../cite/Erkanpaldi/1020/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">39</span></a>,
+ <span class="name">Erkenbaldi</span> (<span class="case">gen</span>) <a href="../cite/Erkenbaldi/1020/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1214–1226</span> <span class="name">Archebaldo</span> (<span class="case">abl</span>) <a href="../cite/Archebaldo/1214–1226/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">1</span></a>,
+ <span class="name">Arkebaldo</span> (<span class="case">abl</span>) <a href="../cite/Arkebaldo/1214–1226/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1385</span> <span class="name">Archebaldo</span> (<span class="case">abl</span>) <a href="../cite/Archebaldo/1385/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1387</span> <span class="name">Archibaldo</span> (<span class="case">abl</span>) <a href="../cite/Archibaldo/1387/CartLevenax"><span class="bib_key">CartLevenax</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1392</span> <span class="name">Archibaldo</span> (<span class="case">abl</span>) <a href="../cite/Archibaldo/1392/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1424</span> <span class="name">Archebaldi</span> (<span class="case">gen</span>) <a href="../cite/Archebaldi/1424/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">12</span></a>,
+ <span class="name">Archibaldi</span> (<span class="case">gen</span>) <a href="../cite/Archibaldi/1424/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1425</span> <span class="name">Archibaldo</span> (<span class="case">dat</span>) <a href="../cite/Archibaldo/1425/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1426</span> <span class="name">Archibaldus</span> (<span class="case">nom</span>) <a href="../cite/Archibaldus/1426/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">49</span></a>;
+ <span class="date">1578</span> <span class="name">Archibaldus</span> (<span class="case">nom</span>) <a href="../cite/Archibaldus/1578/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">15</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Archibald". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Archibald.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

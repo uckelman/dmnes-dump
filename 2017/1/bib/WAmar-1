@@ -1,0 +1,786 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>WAmar-1</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>WAmar-1</dt>
+  <dd>W. P. W. Phillimore and J. Harvey Bloom, editors. <em>Warwick Parish Registers: Marriages</em>, volume I. London: Phillimore &amp; Co.</dd>
+</dl>
+
+
+  <a href="../cite/Agnes/1579/WAmar-1">Agnes</a>
+
+  <a href="../cite/Agnes/1576/WAmar-1">Agnes</a>
+
+  <a href="../cite/Agnes/1582/WAmar-1">Agnes</a>
+
+  <a href="../cite/Alce/1592/WAmar-1">Alce</a>
+
+  <a href="../cite/Alce/1574/WAmar-1">Alce</a>
+
+  <a href="../cite/Alce/1594/WAmar-1">Alce</a>
+
+  <a href="../cite/Ales/1571/WAmar-1">Ales</a>
+
+  <a href="../cite/Ales/1593/WAmar-1">Ales</a>
+
+  <a href="../cite/Ales/1567/WAmar-1">Ales</a>
+
+  <a href="../cite/Ales/1573/WAmar-1">Ales</a>
+
+  <a href="../cite/Alice/1560/WAmar-1">Alice</a>
+
+  <a href="../cite/Alice/1566/WAmar-1">Alice</a>
+
+  <a href="../cite/Alice/1592/WAmar-1">Alice</a>
+
+  <a href="../cite/Alice/1595/WAmar-1">Alice</a>
+
+  <a href="../cite/Allyse/1539/WAmar-1">Allyse</a>
+
+  <a href="../cite/Allyse/1547/WAmar-1">Allyse</a>
+
+  <a href="../cite/Allyse/1544/WAmar-1">Allyse</a>
+
+  <a href="../cite/Alyce/1598/WAmar-1">Alyce</a>
+
+  <a href="../cite/Alyse/1569/WAmar-1">Alyse</a>
+
+  <a href="../cite/Amye/1583/WAmar-1">Amye</a>
+
+  <a href="../cite/Ann/1599/WAmar-1">Ann</a>
+
+  <a href="../cite/Ann/1580/WAmar-1">Ann</a>
+
+  <a href="../cite/Ann/1573/WAmar-1">Ann</a>
+
+  <a href="../cite/Ann/1589/WAmar-1">Ann</a>
+
+  <a href="../cite/Anne/1573/WAmar-1">Anne</a>
+
+  <a href="../cite/Anne/1565/WAmar-1">Anne</a>
+
+  <a href="../cite/Anne/1592/WAmar-1">Anne</a>
+
+  <a href="../cite/Anne/1593/WAmar-1">Anne</a>
+
+  <a href="../cite/Anne/1577/WAmar-1">Anne</a>
+
+  <a href="../cite/Anne/1572/WAmar-1">Anne</a>
+
+  <a href="../cite/Anne/1571/WAmar-1">Anne</a>
+
+  <a href="../cite/Anne/1574/WAmar-1">Anne</a>
+
+  <a href="../cite/Anne/1599/WAmar-1">Anne</a>
+
+  <a href="../cite/Anne/1563/WAmar-1">Anne</a>
+
+  <a href="../cite/Anne/1570/WAmar-1">Anne</a>
+
+  <a href="../cite/Anne/1596/WAmar-1">Anne</a>
+
+  <a href="../cite/Annes/1570/WAmar-1">Annes</a>
+
+  <a href="../cite/Annye/1597/WAmar-1">Annye</a>
+
+  <a href="../cite/Annye/1599/WAmar-1">Annye</a>
+
+  <a href="../cite/Annyes/1597/WAmar-1">Annyes</a>
+
+  <a href="../cite/Annys/1563/WAmar-1">Annys</a>
+
+  <a href="../cite/Annys/1548/WAmar-1">Annys</a>
+
+  <a href="../cite/Annys/1574/WAmar-1">Annys</a>
+
+  <a href="../cite/Annys/1540/WAmar-1">Annys</a>
+
+  <a href="../cite/Annys/1550/WAmar-1">Annys</a>
+
+  <a href="../cite/Annys/1562/WAmar-1">Annys</a>
+
+  <a href="../cite/Annys/1575/WAmar-1">Annys</a>
+
+  <a href="../cite/Annyse/1548/WAmar-1">Annyse</a>
+
+  <a href="../cite/Annyse/1564/WAmar-1">Annyse</a>
+
+  <a href="../cite/Annyse/1570/WAmar-1">Annyse</a>
+
+  <a href="../cite/Annyse/1571/WAmar-1">Annyse</a>
+
+  <a href="../cite/Annyse/1562/WAmar-1">Annyse</a>
+
+  <a href="../cite/Annyse/1561/WAmar-1">Annyse</a>
+
+  <a href="../cite/Annyse/1540/WAmar-1">Annyse</a>
+
+  <a href="../cite/Bryget/1562/WAmar-1">Bryget</a>
+
+  <a href="../cite/Cateryne/1571/WAmar-1">Cateryne</a>
+
+  <a href="../cite/Catherine/1588/WAmar-1">Catherine</a>
+
+  <a href="../cite/Christopher/1596/WAmar-1">Christopher</a>
+
+  <a href="../cite/Dorothan/1586/WAmar-1">Dorothan</a>
+
+  <a href="../cite/Dorothy/1571/WAmar-1">Dorothy</a>
+
+  <a href="../cite/Dorothy/1594/WAmar-1">Dorothy</a>
+
+  <a href="../cite/Edith/1577/WAmar-1">Edith</a>
+
+  <a href="../cite/Edmund/1583/WAmar-1">Edmund</a>
+
+  <a href="../cite/Edmund/1562/WAmar-1">Edmund</a>
+
+  <a href="../cite/Edmund/1548/WAmar-1">Edmund</a>
+
+  <a href="../cite/Edward/1593/WAmar-1">Edward</a>
+
+  <a href="../cite/Edward/1599/WAmar-1">Edward</a>
+
+  <a href="../cite/Edward/1596/WAmar-1">Edward</a>
+
+  <a href="../cite/Edward/1592/WAmar-1">Edward</a>
+
+  <a href="../cite/Edward/1573/WAmar-1">Edward</a>
+
+  <a href="../cite/Edward/1577/WAmar-1">Edward</a>
+
+  <a href="../cite/Edward/1574/WAmar-1">Edward</a>
+
+  <a href="../cite/Edwarde/1574/WAmar-1">Edwarde</a>
+
+  <a href="../cite/Edyth/1550/WAmar-1">Edyth</a>
+
+  <a href="../cite/Elianor/1580/WAmar-1">Elianor</a>
+
+  <a href="../cite/Eliza/1574/WAmar-1">Eliza</a>
+
+  <a href="../cite/Elizabeth/1568/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1589/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1581/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1593/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1587/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1584/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1583/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1558/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1564/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1599/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1570/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1596/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1579/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1595/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1567/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1573/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1578/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1547/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1574/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1546/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1540/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1586/WAmar-1">Elizabeth</a>
+
+  <a href="../cite/Ellen/1584/WAmar-1">Ellen</a>
+
+  <a href="../cite/Ellyn/1592/WAmar-1">Ellyn</a>
+
+  <a href="../cite/Ellyn/1539/WAmar-1">Ellyn</a>
+
+  <a href="../cite/Ellyn/1572/WAmar-1">Ellyn</a>
+
+  <a href="../cite/Elyzabethe/1564/WAmar-1">Elyzabethe</a>
+
+  <a href="../cite/Eme/1565/WAmar-1">Eme</a>
+
+  <a href="../cite/Emme/1547/WAmar-1">Emme</a>
+
+  <a href="../cite/Emme/1551/WAmar-1">Emme</a>
+
+  <a href="../cite/Franceyse/1562/WAmar-1">Franceyse</a>
+
+  <a href="../cite/Francis/1577/WAmar-1">Francis</a>
+
+  <a href="../cite/Francys/1599/WAmar-1">Francys</a>
+
+  <a href="../cite/Fraunceys/1587/WAmar-1">Fraunceys</a>
+
+  <a href="../cite/Frysed/1571/WAmar-1">Frysed</a>
+
+  <a href="../cite/George/1588/WAmar-1">George</a>
+
+  <a href="../cite/George/1547/WAmar-1">George</a>
+
+  <a href="../cite/George/1580/WAmar-1">George</a>
+
+  <a href="../cite/George/1599/WAmar-1">George</a>
+
+  <a href="../cite/Grace/1592/WAmar-1">Grace</a>
+
+  <a href="../cite/Grace/1599/WAmar-1">Grace</a>
+
+  <a href="../cite/Guy/1580/WAmar-1">Guy</a>
+
+  <a href="../cite/Gylbert/1594/WAmar-1">Gylbert</a>
+
+  <a href="../cite/Gyllyane/1580/WAmar-1">Gyllyane</a>
+
+  <a href="../cite/Henry/1592/WAmar-1">Henry</a>
+
+  <a href="../cite/Henry/1540/WAmar-1">Henry</a>
+
+  <a href="../cite/Henry/1578/WAmar-1">Henry</a>
+
+  <a href="../cite/Henry/1572/WAmar-1">Henry</a>
+
+  <a href="../cite/Henry/1539/WAmar-1">Henry</a>
+
+  <a href="../cite/Henry/1571/WAmar-1">Henry</a>
+
+  <a href="../cite/Henry/1596/WAmar-1">Henry</a>
+
+  <a href="../cite/Henry/1546/WAmar-1">Henry</a>
+
+  <a href="../cite/Henry/1575/WAmar-1">Henry</a>
+
+  <a href="../cite/Henry/1589/WAmar-1">Henry</a>
+
+  <a href="../cite/Henrye/1578/WAmar-1">Henrye</a>
+
+  <a href="../cite/Henrye/1577/WAmar-1">Henrye</a>
+
+  <a href="../cite/Isabell/1572/WAmar-1">Isabell</a>
+
+  <a href="../cite/Isabell/1550/WAmar-1">Isabell</a>
+
+  <a href="../cite/Isabell/1578/WAmar-1">Isabell</a>
+
+  <a href="../cite/Issabell/1598/WAmar-1">Issabell</a>
+
+  <a href="../cite/James/1544/WAmar-1">James</a>
+
+  <a href="../cite/James/1592/WAmar-1">James</a>
+
+  <a href="../cite/James/1596/WAmar-1">James</a>
+
+  <a href="../cite/James/1551/WAmar-1">James</a>
+
+  <a href="../cite/Jane/1580/WAmar-1">Jane</a>
+
+  <a href="../cite/Jane/1598/WAmar-1">Jane</a>
+
+  <a href="../cite/Jane/1594/WAmar-1">Jane</a>
+
+  <a href="../cite/Jane/1568/WAmar-1">Jane</a>
+
+  <a href="../cite/Jarame/1564/WAmar-1">Jarame</a>
+
+  <a href="../cite/Jhoane/1597/WAmar-1">Jhoane</a>
+
+  <a href="../cite/Jhon/1557/WAmar-1">Jhon</a>
+
+  <a href="../cite/Jhon/1598/WAmar-1">Jhon</a>
+
+  <a href="../cite/Joan/1559/WAmar-1">Joan</a>
+
+  <a href="../cite/Joane/1588/WAmar-1">Joane</a>
+
+  <a href="../cite/Joane/1577/WAmar-1">Joane</a>
+
+  <a href="../cite/Joane/1591/WAmar-1">Joane</a>
+
+  <a href="../cite/Joane/1594/WAmar-1">Joane</a>
+
+  <a href="../cite/Joane/1574/WAmar-1">Joane</a>
+
+  <a href="../cite/Joane/1592/WAmar-1">Joane</a>
+
+  <a href="../cite/Johan/1568/WAmar-1">Johan</a>
+
+  <a href="../cite/Johan/1577/WAmar-1">Johan</a>
+
+  <a href="../cite/John/1591/WAmar-1">John</a>
+
+  <a href="../cite/John/1571/WAmar-1">John</a>
+
+  <a href="../cite/John/1574/WAmar-1">John</a>
+
+  <a href="../cite/John/1576/WAmar-1">John</a>
+
+  <a href="../cite/John/1584/WAmar-1">John</a>
+
+  <a href="../cite/John/1565/WAmar-1">John</a>
+
+  <a href="../cite/John/1597/WAmar-1">John</a>
+
+  <a href="../cite/John/1540/WAmar-1">John</a>
+
+  <a href="../cite/John/1580/WAmar-1">John</a>
+
+  <a href="../cite/John/1583/WAmar-1">John</a>
+
+  <a href="../cite/John/1548/WAmar-1">John</a>
+
+  <a href="../cite/John/1579/WAmar-1">John</a>
+
+  <a href="../cite/John/1592/WAmar-1">John</a>
+
+  <a href="../cite/John/1538/WAmar-1">John</a>
+
+  <a href="../cite/John/1587/WAmar-1">John</a>
+
+  <a href="../cite/John/1564/WAmar-1">John</a>
+
+  <a href="../cite/John/1550/WAmar-1">John</a>
+
+  <a href="../cite/John/1577/WAmar-1">John</a>
+
+  <a href="../cite/John/1539/WAmar-1">John</a>
+
+  <a href="../cite/John/1551/WAmar-1">John</a>
+
+  <a href="../cite/John/1582/WAmar-1">John</a>
+
+  <a href="../cite/John/1563/WAmar-1">John</a>
+
+  <a href="../cite/John/1595/WAmar-1">John</a>
+
+  <a href="../cite/John/1588/WAmar-1">John</a>
+
+  <a href="../cite/John/1589/WAmar-1">John</a>
+
+  <a href="../cite/John/1546/WAmar-1">John</a>
+
+  <a href="../cite/John/1568/WAmar-1">John</a>
+
+  <a href="../cite/John/1573/WAmar-1">John</a>
+
+  <a href="../cite/Jone/1590/WAmar-1">Jone</a>
+
+  <a href="../cite/Jone/1573/WAmar-1">Jone</a>
+
+  <a href="../cite/Jone/1538/WAmar-1">Jone</a>
+
+  <a href="../cite/Jone/1548/WAmar-1">Jone</a>
+
+  <a href="../cite/Jone/1551/WAmar-1">Jone</a>
+
+  <a href="../cite/Jone/1574/WAmar-1">Jone</a>
+
+  <a href="../cite/Jone/1599/WAmar-1">Jone</a>
+
+  <a href="../cite/Jone/1597/WAmar-1">Jone</a>
+
+  <a href="../cite/Jone/1562/WAmar-1">Jone</a>
+
+  <a href="../cite/Jone/1592/WAmar-1">Jone</a>
+
+  <a href="../cite/Jone/1563/WAmar-1">Jone</a>
+
+  <a href="../cite/Joone/1597/WAmar-1">Joone</a>
+
+  <a href="../cite/Joone/1596/WAmar-1">Joone</a>
+
+  <a href="../cite/Jordan/1579/WAmar-1">Jordan</a>
+
+  <a href="../cite/Judyth/1580/WAmar-1">Judyth</a>
+
+  <a href="../cite/Judythe/1585/WAmar-1">Judythe</a>
+
+  <a href="../cite/Kath/1595/WAmar-1">Kath</a>
+
+  <a href="../cite/Katherine/1558/WAmar-1">Katherine</a>
+
+  <a href="../cite/Katherine/1563/WAmar-1">Katherine</a>
+
+  <a href="../cite/Katherine/1593/WAmar-1">Katherine</a>
+
+  <a href="../cite/Katherine/1599/WAmar-1">Katherine</a>
+
+  <a href="../cite/Katherine/1594/WAmar-1">Katherine</a>
+
+  <a href="../cite/Katherine/1573/WAmar-1">Katherine</a>
+
+  <a href="../cite/Leonard/1561/WAmar-1">Leonard</a>
+
+  <a href="../cite/Leonarde/1562/WAmar-1">Leonarde</a>
+
+  <a href="../cite/Margaret/1563/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1596/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1572/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1592/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1560/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1590/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1595/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1573/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1599/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1568/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1584/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1582/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1574/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1593/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1585/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margaret/1583/WAmar-1">Margaret</a>
+
+  <a href="../cite/Margarett/1562/WAmar-1">Margarett</a>
+
+  <a href="../cite/Margery/1561/WAmar-1">Margery</a>
+
+  <a href="../cite/Margery/1593/WAmar-1">Margery</a>
+
+  <a href="../cite/Margery/1581/WAmar-1">Margery</a>
+
+  <a href="../cite/Margery/1557/WAmar-1">Margery</a>
+
+  <a href="../cite/Margery/1562/WAmar-1">Margery</a>
+
+  <a href="../cite/Margery/1573/WAmar-1">Margery</a>
+
+  <a href="../cite/Margery/1551/WAmar-1">Margery</a>
+
+  <a href="../cite/Margery/1571/WAmar-1">Margery</a>
+
+  <a href="../cite/Margerye/1564/WAmar-1">Margerye</a>
+
+  <a href="../cite/Margerye/1573/WAmar-1">Margerye</a>
+
+  <a href="../cite/Margerye/1563/WAmar-1">Margerye</a>
+
+  <a href="../cite/Marie/1591/WAmar-1">Marie</a>
+
+  <a href="../cite/Marjory/1576/WAmar-1">Marjory</a>
+
+  <a href="../cite/Mary/1587/WAmar-1">Mary</a>
+
+  <a href="../cite/Mary/1575/WAmar-1">Mary</a>
+
+  <a href="../cite/Mary/1569/WAmar-1">Mary</a>
+
+  <a href="../cite/Marye/1598/WAmar-1">Marye</a>
+
+  <a href="../cite/Mathew/1593/WAmar-1">Mathew</a>
+
+  <a href="../cite/Nicholas/1573/WAmar-1">Nicholas</a>
+
+  <a href="../cite/Nicolaws/1594/WAmar-1">Nicolaws</a>
+
+  <a href="../cite/Oliver/1579/WAmar-1">Oliver</a>
+
+  <a href="../cite/Patrick/1564/WAmar-1">Patrick</a>
+
+  <a href="../cite/Peeter/1550/WAmar-1">Peeter</a>
+
+  <a href="../cite/Peter/1573/WAmar-1">Peter</a>
+
+  <a href="../cite/Peter/1588/WAmar-1">Peter</a>
+
+  <a href="../cite/Philippa/1570/WAmar-1">Philippa</a>
+
+  <a href="../cite/Prudence/1592/WAmar-1">Prudence</a>
+
+  <a href="../cite/Prudens/1598/WAmar-1">Prudens</a>
+
+  <a href="../cite/Richard/1591/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1547/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1562/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1574/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1539/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1564/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1588/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1550/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1569/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1585/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1551/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1576/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1581/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1590/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1594/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1582/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1592/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1568/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1583/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1570/WAmar-1">Richard</a>
+
+  <a href="../cite/Richard/1595/WAmar-1">Richard</a>
+
+  <a href="../cite/Richarde/1571/WAmar-1">Richarde</a>
+
+  <a href="../cite/Robart/1563/WAmar-1">Robart</a>
+
+  <a href="../cite/Robart/1597/WAmar-1">Robart</a>
+
+  <a href="../cite/Robart/1573/WAmar-1">Robart</a>
+
+  <a href="../cite/Robert/1564/WAmar-1">Robert</a>
+
+  <a href="../cite/Robert/1566/WAmar-1">Robert</a>
+
+  <a href="../cite/Robert/1571/WAmar-1">Robert</a>
+
+  <a href="../cite/Robert/1548/WAmar-1">Robert</a>
+
+  <a href="../cite/Robert/1580/WAmar-1">Robert</a>
+
+  <a href="../cite/Robert/1593/WAmar-1">Robert</a>
+
+  <a href="../cite/Robert/1573/WAmar-1">Robert</a>
+
+  <a href="../cite/Robert/1584/WAmar-1">Robert</a>
+
+  <a href="../cite/Robert/1577/WAmar-1">Robert</a>
+
+  <a href="../cite/Roger/1564/WAmar-1">Roger</a>
+
+  <a href="../cite/Roger/1574/WAmar-1">Roger</a>
+
+  <a href="../cite/Roger/1597/WAmar-1">Roger</a>
+
+  <a href="../cite/Rowland/1585/WAmar-1">Rowland</a>
+
+  <a href="../cite/Rychard/1581/WAmar-1">Rychard</a>
+
+  <a href="../cite/Rychard/1578/WAmar-1">Rychard</a>
+
+  <a href="../cite/Sarah/1583/WAmar-1">Sarah</a>
+
+  <a href="../cite/Sarah/1588/WAmar-1">Sarah</a>
+
+  <a href="../cite/Sisley/1589/WAmar-1">Sisley</a>
+
+  <a href="../cite/Steven/1565/WAmar-1">Steven</a>
+
+  <a href="../cite/Suzan/1591/WAmar-1">Suzan</a>
+
+  <a href="../cite/Sybell/1578/WAmar-1">Sybell</a>
+
+  <a href="../cite/Thomas/1560/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1547/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1544/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1597/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1558/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1599/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1539/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1567/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1571/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1559/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1593/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1586/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1573/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1575/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1570/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1548/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1540/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1568/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1564/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1563/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1546/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1594/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1569/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1582/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1562/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1595/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1574/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1577/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1590/WAmar-1">Thomas</a>
+
+  <a href="../cite/Thomas/1598/WAmar-1">Thomas</a>
+
+  <a href="../cite/Titus/1573/WAmar-1">Titus</a>
+
+  <a href="../cite/Ursula/1599/WAmar-1">Ursula</a>
+
+  <a href="../cite/Walter/1572/WAmar-1">Walter</a>
+
+  <a href="../cite/Wiliam/1597/WAmar-1">Wiliam</a>
+
+  <a href="../cite/William/1594/WAmar-1">William</a>
+
+  <a href="../cite/William/1599/WAmar-1">William</a>
+
+  <a href="../cite/William/1598/WAmar-1">William</a>
+
+  <a href="../cite/William/1592/WAmar-1">William</a>
+
+  <a href="../cite/William/1584/WAmar-1">William</a>
+
+  <a href="../cite/William/1586/WAmar-1">William</a>
+
+  <a href="../cite/William/1593/WAmar-1">William</a>
+
+  <a href="../cite/William/1578/WAmar-1">William</a>
+
+  <a href="../cite/William/1579/WAmar-1">William</a>
+
+  <a href="../cite/William/1580/WAmar-1">William</a>
+
+  <a href="../cite/William/1591/WAmar-1">William</a>
+
+  <a href="../cite/William/1589/WAmar-1">William</a>
+
+  <a href="../cite/William/1572/WAmar-1">William</a>
+
+  <a href="../cite/William/1574/WAmar-1">William</a>
+
+  <a href="../cite/William/1563/WAmar-1">William</a>
+
+  <a href="../cite/William/1575/WAmar-1">William</a>
+
+  <a href="../cite/William/1561/WAmar-1">William</a>
+
+  <a href="../cite/William/1560/WAmar-1">William</a>
+
+  <a href="../cite/William/1558/WAmar-1">William</a>
+
+  <a href="../cite/Wyllyam/1562/WAmar-1">Wyllyam</a>
+
+  <a href="../cite/Wyllyam/1563/WAmar-1">Wyllyam</a>
+
+  <a href="../cite/Wyllyam/1571/WAmar-1">Wyllyam</a>
+
+  <a href="../cite/Wyllyam/1570/WAmar-1">Wyllyam</a>
+
+  <a href="../cite/Yedye/1597/WAmar-1">Yedye</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

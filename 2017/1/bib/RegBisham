@@ -1,0 +1,568 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>RegBisham</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>RegBisham</dt>
+  <dd>Edgar Powell, editor. <em>The Register of Bisham, Co. Berks</em>, volume XV of <em>Parish Register Society</em>. London: The Parish Register Society, 1898.</dd>
+</dl>
+
+
+  <a href="../cite/Aaron/1582/RegBisham">Aaron</a>
+
+  <a href="../cite/Abraham/1579/RegBisham">Abraham</a>
+
+  <a href="../cite/Agnes/1565s6/RegBisham">Agnes</a>
+
+  <a href="../cite/Agnis/1568/RegBisham">Agnis</a>
+
+  <a href="../cite/Agnis/1563/RegBisham">Agnis</a>
+
+  <a href="../cite/Agnis/1582/RegBisham">Agnis</a>
+
+  <a href="../cite/Agnis/1573/RegBisham">Agnis</a>
+
+  <a href="../cite/Agnis/1594/RegBisham">Agnis</a>
+
+  <a href="../cite/Alce/1565/RegBisham">Alce</a>
+
+  <a href="../cite/Alce/1562/RegBisham">Alce</a>
+
+  <a href="../cite/Alce/1560/RegBisham">Alce</a>
+
+  <a href="../cite/Alce/1573s4/RegBisham">Alce</a>
+
+  <a href="../cite/Alice/1563/RegBisham">Alice</a>
+
+  <a href="../cite/Alice/1567s8/RegBisham">Alice</a>
+
+  <a href="../cite/Andrew/1586/RegBisham">Andrew</a>
+
+  <a href="../cite/Andrew/1561/RegBisham">Andrew</a>
+
+  <a href="../cite/Ann/1594/RegBisham">Ann</a>
+
+  <a href="../cite/Ann/1589/RegBisham">Ann</a>
+
+  <a href="../cite/Ann/1578/RegBisham">Ann</a>
+
+  <a href="../cite/Ann/1599/RegBisham">Ann</a>
+
+  <a href="../cite/Ann/1564/RegBisham">Ann</a>
+
+  <a href="../cite/Ann/1575/RegBisham">Ann</a>
+
+  <a href="../cite/Ann/1582s3/RegBisham">Ann</a>
+
+  <a href="../cite/Anthony/1566s7/RegBisham">Anthony</a>
+
+  <a href="../cite/Anthony/1572s3/RegBisham">Anthony</a>
+
+  <a href="../cite/Avis/1577/RegBisham">Avis</a>
+
+  <a href="../cite/Bridget/1574/RegBisham">Bridget</a>
+
+  <a href="../cite/Bridgett/1578s9/RegBisham">Bridgett</a>
+
+  <a href="../cite/Charles/1571s2/RegBisham">Charles</a>
+
+  <a href="../cite/Charles/1570/RegBisham">Charles</a>
+
+  <a href="../cite/Charles/1573s4/RegBisham">Charles</a>
+
+  <a href="../cite/Charles/1584/RegBisham">Charles</a>
+
+  <a href="../cite/Christian/1567/RegBisham">Christian</a>
+
+  <a href="../cite/Clemence/1593/RegBisham">Clemence</a>
+
+  <a href="../cite/David/1596/RegBisham">David</a>
+
+  <a href="../cite/Edmond/1581/RegBisham">Edmond</a>
+
+  <a href="../cite/Edward/1560/RegBisham">Edward</a>
+
+  <a href="../cite/Edward/1597/RegBisham">Edward</a>
+
+  <a href="../cite/Elias/1588/RegBisham">Elias</a>
+
+  <a href="../cite/Elinor/1596s7/RegBisham">Elinor</a>
+
+  <a href="../cite/Elinor/1565/RegBisham">Elinor</a>
+
+  <a href="../cite/Elizabeth/1572/RegBisham">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1563/RegBisham">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1562/RegBisham">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1567/RegBisham">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1564/RegBisham">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1591/RegBisham">Elizabeth</a>
+
+  <a href="../cite/Elline/1580s81/RegBisham">Elline</a>
+
+  <a href="../cite/Ellinor/1589/RegBisham">Ellinor</a>
+
+  <a href="../cite/Ellinor/1582/RegBisham">Ellinor</a>
+
+  <a href="../cite/Ellinor/1591/RegBisham">Ellinor</a>
+
+  <a href="../cite/Ellinor/1585/RegBisham">Ellinor</a>
+
+  <a href="../cite/Ellinor/1587/RegBisham">Ellinor</a>
+
+  <a href="../cite/Ellinor/1581/RegBisham">Ellinor</a>
+
+  <a href="../cite/Ellinor/1578/RegBisham">Ellinor</a>
+
+  <a href="../cite/Ellinor/1579/RegBisham">Ellinor</a>
+
+  <a href="../cite/Ellizabeth/1561/RegBisham">Ellizabeth</a>
+
+  <a href="../cite/Ellizabeth/1593/RegBisham">Ellizabeth</a>
+
+  <a href="../cite/Ellizabeth/1599/RegBisham">Ellizabeth</a>
+
+  <a href="../cite/Frannces/1569/RegBisham">Frannces</a>
+
+  <a href="../cite/Fraunces/1584/RegBisham">Fraunces</a>
+
+  <a href="../cite/Fraunces/1591/RegBisham">Fraunces</a>
+
+  <a href="../cite/Fraunces/1561/RegBisham">Fraunces</a>
+
+  <a href="../cite/Fraunces/1581/RegBisham">Fraunces</a>
+
+  <a href="../cite/Fraunces/1594/RegBisham">Fraunces</a>
+
+  <a href="../cite/Fraunces/1582/RegBisham">Fraunces</a>
+
+  <a href="../cite/Fraunces/1598s9/RegBisham">Fraunces</a>
+
+  <a href="../cite/Fraunces/1597/RegBisham">Fraunces</a>
+
+  <a href="../cite/George/1587/RegBisham">George</a>
+
+  <a href="../cite/George/1582s3/RegBisham">George</a>
+
+  <a href="../cite/George/1584/RegBisham">George</a>
+
+  <a href="../cite/George/1574/RegBisham">George</a>
+
+  <a href="../cite/Gregorie/1582/RegBisham">Gregorie</a>
+
+  <a href="../cite/Gregorie/1576/RegBisham">Gregorie</a>
+
+  <a href="../cite/Grysell/1560/RegBisham">Grysell</a>
+
+  <a href="../cite/Guie/1589/RegBisham">Guie</a>
+
+  <a href="../cite/Guy/1589/RegBisham">Guy</a>
+
+  <a href="../cite/Gye/1567s8/RegBisham">Gye</a>
+
+  <a href="../cite/Hanna/1584/RegBisham">Hanna</a>
+
+  <a href="../cite/Henry/1564/RegBisham">Henry</a>
+
+  <a href="../cite/Henry/1561s2/RegBisham">Henry</a>
+
+  <a href="../cite/Henry/1594/RegBisham">Henry</a>
+
+  <a href="../cite/Henry/1598s9/RegBisham">Henry</a>
+
+  <a href="../cite/Isbell/1581/RegBisham">Isbell</a>
+
+  <a href="../cite/Jaine/1598/RegBisham">Jaine</a>
+
+  <a href="../cite/Jaine/1588/RegBisham">Jaine</a>
+
+  <a href="../cite/Jaine/1562/RegBisham">Jaine</a>
+
+  <a href="../cite/James/1561s2/RegBisham">James</a>
+
+  <a href="../cite/James/1564/RegBisham">James</a>
+
+  <a href="../cite/James/1576/RegBisham">James</a>
+
+  <a href="../cite/James/1560/RegBisham">James</a>
+
+  <a href="../cite/James/1561/RegBisham">James</a>
+
+  <a href="../cite/James/1574s5/RegBisham">James</a>
+
+  <a href="../cite/Jeffery/1597s8/RegBisham">Jeffery</a>
+
+  <a href="../cite/Jeffery/1592/RegBisham">Jeffery</a>
+
+  <a href="../cite/Jeffery/1594/RegBisham">Jeffery</a>
+
+  <a href="../cite/Jellian/1564/RegBisham">Jellian</a>
+
+  <a href="../cite/Jherom/1573/RegBisham">Jherom</a>
+
+  <a href="../cite/Jherome/1593/RegBisham">Jherome</a>
+
+  <a href="../cite/Joan/1561/RegBisham">Joan</a>
+
+  <a href="../cite/Joan/1564/RegBisham">Joan</a>
+
+  <a href="../cite/Joane/1564s5/RegBisham">Joane</a>
+
+  <a href="../cite/Joane/1562/RegBisham">Joane</a>
+
+  <a href="../cite/Joane/1561s2/RegBisham">Joane</a>
+
+  <a href="../cite/Joane/1599/RegBisham">Joane</a>
+
+  <a href="../cite/Joane/1568/RegBisham">Joane</a>
+
+  <a href="../cite/Joane/1560s1/RegBisham">Joane</a>
+
+  <a href="../cite/Joane/1576/RegBisham">Joane</a>
+
+  <a href="../cite/Joane/1586/RegBisham">Joane</a>
+
+  <a href="../cite/John/1584/RegBisham">John</a>
+
+  <a href="../cite/John/1586/RegBisham">John</a>
+
+  <a href="../cite/John/1562/RegBisham">John</a>
+
+  <a href="../cite/John/1596s7/RegBisham">John</a>
+
+  <a href="../cite/John/1570/RegBisham">John</a>
+
+  <a href="../cite/John/1563/RegBisham">John</a>
+
+  <a href="../cite/John/1575/RegBisham">John</a>
+
+  <a href="../cite/John/1560/RegBisham">John</a>
+
+  <a href="../cite/John/1565/RegBisham">John</a>
+
+  <a href="../cite/John/1593/RegBisham">John</a>
+
+  <a href="../cite/John/1563s4/RegBisham">John</a>
+
+  <a href="../cite/John/1579s80/RegBisham">John</a>
+
+  <a href="../cite/John/1560s1/RegBisham">John</a>
+
+  <a href="../cite/John/1597/RegBisham">John</a>
+
+  <a href="../cite/John/1583/RegBisham">John</a>
+
+  <a href="../cite/John/1577/RegBisham">John</a>
+
+  <a href="../cite/John/1561/RegBisham">John</a>
+
+  <a href="../cite/John/1567/RegBisham">John</a>
+
+  <a href="../cite/John/1582/RegBisham">John</a>
+
+  <a href="../cite/John/1568/RegBisham">John</a>
+
+  <a href="../cite/John/1581/RegBisham">John</a>
+
+  <a href="../cite/John/1578/RegBisham">John</a>
+
+  <a href="../cite/John/1572s3/RegBisham">John</a>
+
+  <a href="../cite/John/1599/RegBisham">John</a>
+
+  <a href="../cite/John/1574/RegBisham">John</a>
+
+  <a href="../cite/John/1569/RegBisham">John</a>
+
+  <a href="../cite/Jolyan/1563s4/RegBisham">Jolyan</a>
+
+  <a href="../cite/Katheren/1560s1/RegBisham">Katheren</a>
+
+  <a href="../cite/Katheren/1563/RegBisham">Katheren</a>
+
+  <a href="../cite/Katheren/1584/RegBisham">Katheren</a>
+
+  <a href="../cite/Katren/1593/RegBisham">Katren</a>
+
+  <a href="../cite/Laurance/1573/RegBisham">Laurance</a>
+
+  <a href="../cite/Lauraunce/1572/RegBisham">Lauraunce</a>
+
+  <a href="../cite/Laurence/1584/RegBisham">Laurence</a>
+
+  <a href="../cite/Margaret/1560s1/RegBisham">Margaret</a>
+
+  <a href="../cite/Margaret/1575s6/RegBisham">Margaret</a>
+
+  <a href="../cite/Margery/1575/RegBisham">Margery</a>
+
+  <a href="../cite/Margery/1598/RegBisham">Margery</a>
+
+  <a href="../cite/Margret/1571/RegBisham">Margret</a>
+
+  <a href="../cite/Margret/1564/RegBisham">Margret</a>
+
+  <a href="../cite/Margret/1594/RegBisham">Margret</a>
+
+  <a href="../cite/Margret/1561s2/RegBisham">Margret</a>
+
+  <a href="../cite/Margret/1572/RegBisham">Margret</a>
+
+  <a href="../cite/Martha/1594/RegBisham">Martha</a>
+
+  <a href="../cite/Martha/1569s70/RegBisham">Martha</a>
+
+  <a href="../cite/Mary/1592/RegBisham">Mary</a>
+
+  <a href="../cite/Mary/1562s3/RegBisham">Mary</a>
+
+  <a href="../cite/Mary/1593/RegBisham">Mary</a>
+
+  <a href="../cite/Mary/1584/RegBisham">Mary</a>
+
+  <a href="../cite/Mary/1583/RegBisham">Mary</a>
+
+  <a href="../cite/Mary/1576/RegBisham">Mary</a>
+
+  <a href="../cite/Mary/1572/RegBisham">Mary</a>
+
+  <a href="../cite/Mary/1586s7/RegBisham">Mary</a>
+
+  <a href="../cite/Marye/1568/RegBisham">Marye</a>
+
+  <a href="../cite/Moyeses/1572/RegBisham">Moyeses</a>
+
+  <a href="../cite/Noah/1582/RegBisham">Noah</a>
+
+  <a href="../cite/Nycholas/1591/RegBisham">Nycholas</a>
+
+  <a href="../cite/Nycholas/1560/RegBisham">Nycholas</a>
+
+  <a href="../cite/Nycholas/1562/RegBisham">Nycholas</a>
+
+  <a href="../cite/Philip/1579/RegBisham">Philip</a>
+
+  <a href="../cite/Phillip/1563/RegBisham">Phillip</a>
+
+  <a href="../cite/Phylip/1582/RegBisham">Phylip</a>
+
+  <a href="../cite/Phylip/1584/RegBisham">Phylip</a>
+
+  <a href="../cite/Phyllipe/1563/RegBisham">Phyllipe</a>
+
+  <a href="../cite/Prudence/1576/RegBisham">Prudence</a>
+
+  <a href="../cite/Purnell/1579s80/RegBisham">Purnell</a>
+
+  <a href="../cite/Raph/1577s8/RegBisham">Raph</a>
+
+  <a href="../cite/Raph/1586/RegBisham">Raph</a>
+
+  <a href="../cite/Rebecca/1571s2/RegBisham">Rebecca</a>
+
+  <a href="../cite/Regina/1562s3/RegBisham">Regina</a>
+
+  <a href="../cite/Richad/1564/RegBisham">Richad</a>
+
+  <a href="../cite/Richard/1596s7/RegBisham">Richard</a>
+
+  <a href="../cite/Richard/1598/RegBisham">Richard</a>
+
+  <a href="../cite/Richard/1594/RegBisham">Richard</a>
+
+  <a href="../cite/Richard/1596/RegBisham">Richard</a>
+
+  <a href="../cite/Richard/1599/RegBisham">Richard</a>
+
+  <a href="../cite/Richard/1570/RegBisham">Richard</a>
+
+  <a href="../cite/Richard/1576/RegBisham">Richard</a>
+
+  <a href="../cite/Richard/1573/RegBisham">Richard</a>
+
+  <a href="../cite/Richard/1577s8/RegBisham">Richard</a>
+
+  <a href="../cite/Richard/1593/RegBisham">Richard</a>
+
+  <a href="../cite/Richarde/1582/RegBisham">Richarde</a>
+
+  <a href="../cite/Richarde/1568/RegBisham">Richarde</a>
+
+  <a href="../cite/Robert/1570/RegBisham">Robert</a>
+
+  <a href="../cite/Robert/1564/RegBisham">Robert</a>
+
+  <a href="../cite/Robert/1586/RegBisham">Robert</a>
+
+  <a href="../cite/Robert/1562/RegBisham">Robert</a>
+
+  <a href="../cite/Robert/1568/RegBisham">Robert</a>
+
+  <a href="../cite/Robert/1587/RegBisham">Robert</a>
+
+  <a href="../cite/Robert/1562s3/RegBisham">Robert</a>
+
+  <a href="../cite/Robert/1594/RegBisham">Robert</a>
+
+  <a href="../cite/Robert/1581/RegBisham">Robert</a>
+
+  <a href="../cite/Robert/1563s4/RegBisham">Robert</a>
+
+  <a href="../cite/Robert/1589/RegBisham">Robert</a>
+
+  <a href="../cite/Robert/1561/RegBisham">Robert</a>
+
+  <a href="../cite/Robert/1580s81/RegBisham">Robert</a>
+
+  <a href="../cite/Samuell/1567/RegBisham">Samuell</a>
+
+  <a href="../cite/Selvister/1571s2/RegBisham">Selvister</a>
+
+  <a href="../cite/Sibbell/1594/RegBisham">Sibbell</a>
+
+  <a href="../cite/Steeven/1596/RegBisham">Steeven</a>
+
+  <a href="../cite/Susan/1560s1/RegBisham">Susan</a>
+
+  <a href="../cite/Susan/1591/RegBisham">Susan</a>
+
+  <a href="../cite/Susan/1568/RegBisham">Susan</a>
+
+  <a href="../cite/Susand/1593/RegBisham">Susand</a>
+
+  <a href="../cite/Susande/1565/RegBisham">Susande</a>
+
+  <a href="../cite/Sybbell/1593/RegBisham">Sybbell</a>
+
+  <a href="../cite/Sybbell/1568/RegBisham">Sybbell</a>
+
+  <a href="../cite/Sybbell/1567/RegBisham">Sybbell</a>
+
+  <a href="../cite/Sybell/1583s4/RegBisham">Sybell</a>
+
+  <a href="../cite/Thomas/1572/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1587/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1573s4/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1576/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1568/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1565/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1577/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1570s1/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1560s1/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1588/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1563/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1575/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1589/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomas/1567/RegBisham">Thomas</a>
+
+  <a href="../cite/Thomasin/1561/RegBisham">Thomasin</a>
+
+  <a href="../cite/Ursley/1570/RegBisham">Ursley</a>
+
+  <a href="../cite/Ustice/1574s5/RegBisham">Ustice</a>
+
+  <a href="../cite/Ustice/1579/RegBisham">Ustice</a>
+
+  <a href="../cite/Ustis/1582/RegBisham">Ustis</a>
+
+  <a href="../cite/William/1583/RegBisham">William</a>
+
+  <a href="../cite/William/1574/RegBisham">William</a>
+
+  <a href="../cite/William/1568s9/RegBisham">William</a>
+
+  <a href="../cite/William/1560/RegBisham">William</a>
+
+  <a href="../cite/William/1567s8/RegBisham">William</a>
+
+  <a href="../cite/William/1563/RegBisham">William</a>
+
+  <a href="../cite/William/1575/RegBisham">William</a>
+
+  <a href="../cite/William/1562s3/RegBisham">William</a>
+
+  <a href="../cite/William/1576/RegBisham">William</a>
+
+  <a href="../cite/William/1565/RegBisham">William</a>
+
+  <a href="../cite/William/1564/RegBisham">William</a>
+
+  <a href="../cite/William/1564s5/RegBisham">William</a>
+
+  <a href="../cite/William/1569s70/RegBisham">William</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

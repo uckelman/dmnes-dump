@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>PGB</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>PGB</dt>
+  <dd>Marion L. Stavert, editor. <em>Perth Guildry Book 1452-1601</em>, volume 19 of <em>New</em>. Edinburgh: Scottish Record Society, 1993.</dd>
+</dl>
+
+
+  <a href="../cite/Agnes/1573/PGB">Agnes</a>
+
+  <a href="../cite/Agnes/1582/PGB">Agnes</a>
+
+  <a href="../cite/Agnes/1543/PGB">Agnes</a>
+
+  <a href="../cite/Agnes/1594/PGB">Agnes</a>
+
+  <a href="../cite/Agnes/1565/PGB">Agnes</a>
+
+  <a href="../cite/Agnes/1546/PGB">Agnes</a>
+
+  <a href="../cite/Agnes/1578/PGB">Agnes</a>
+
+  <a href="../cite/Alisson/1590/PGB">Alisson</a>
+
+  <a href="../cite/Barbara/1538/PGB">Barbara</a>
+
+  <a href="../cite/Barbara/1565/PGB">Barbara</a>
+
+  <a href="../cite/Besseta/1577/PGB">Besseta</a>
+
+  <a href="../cite/Besseta/1574/PGB">Besseta</a>
+
+  <a href="../cite/Besseta/1595/PGB">Besseta</a>
+
+  <a href="../cite/Besseta/1551/PGB">Besseta</a>
+
+  <a href="../cite/Besseta/1591/PGB">Besseta</a>
+
+  <a href="../cite/Besseta/1593/PGB">Besseta</a>
+
+  <a href="../cite/Besseta/1548/PGB">Besseta</a>
+
+  <a href="../cite/Besseta/1552/PGB">Besseta</a>
+
+  <a href="../cite/Bessy/1582/PGB">Bessy</a>
+
+  <a href="../cite/Christian/1477/PGB">Christian</a>
+
+  <a href="../cite/Christian/1491/PGB">Christian</a>
+
+  <a href="../cite/Christina/1591/PGB">Christina</a>
+
+  <a href="../cite/Christine/1575/PGB">Christine</a>
+
+  <a href="../cite/Cristane/1556/PGB">Cristane</a>
+
+  <a href="../cite/Cristene/1565/PGB">Cristene</a>
+
+  <a href="../cite/Cristina/1546/PGB">Cristina</a>
+
+  <a href="../cite/Cristina/1550/PGB">Cristina</a>
+
+  <a href="../cite/Cristina/1598/PGB">Cristina</a>
+
+  <a href="../cite/Cristina/1578/PGB">Cristina</a>
+
+  <a href="../cite/Cristina/1596/PGB">Cristina</a>
+
+  <a href="../cite/Cristine/1593/PGB">Cristine</a>
+
+  <a href="../cite/Elena/1566/PGB">Elena</a>
+
+  <a href="../cite/Elena/1542/PGB">Elena</a>
+
+  <a href="../cite/Elena/1565/PGB">Elena</a>
+
+  <a href="../cite/Elena/1488/PGB">Elena</a>
+
+  <a href="../cite/Elizabeth/1587/PGB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1571/PGB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1577/PGB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1566/PGB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1578/PGB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1580/PGB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1591/PGB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1565/PGB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1576/PGB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1488/PGB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1552/PGB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1586/PGB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1590/PGB">Elizabeth</a>
+
+  <a href="../cite/Eufamia/1565/PGB">Eufamia</a>
+
+  <a href="../cite/Gelis/1543/PGB">Gelis</a>
+
+  <a href="../cite/Gelis/1594/PGB">Gelis</a>
+
+  <a href="../cite/Gelis/1592/PGB">Gelis</a>
+
+  <a href="../cite/Helen/1596/PGB">Helen</a>
+
+  <a href="../cite/Helen/1590/PGB">Helen</a>
+
+  <a href="../cite/Helen/1586/PGB">Helen</a>
+
+  <a href="../cite/Helen/1597/PGB">Helen</a>
+
+  <a href="../cite/Isabella/1550/PGB">Isabella</a>
+
+  <a href="../cite/Isobella/1559/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1574/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1578/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1546/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1575/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1572/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1564/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1567/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1565/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1576/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1543/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1552/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1577/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1594/PGB">Isobella</a>
+
+  <a href="../cite/Isobella/1548/PGB">Isobella</a>
+
+  <a href="../cite/Issabella/1548/PGB">Issabella</a>
+
+  <a href="../cite/Janet/1593/PGB">Janet</a>
+
+  <a href="../cite/Jonet/1565/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1572/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1582/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1577/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1598/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1537/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1567/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1592/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1590/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1583/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1576/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1489/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1579/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1573/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1553/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1588/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1587/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1568/PGB">Jonet</a>
+
+  <a href="../cite/Jonet/1498/PGB">Jonet</a>
+
+  <a href="../cite/Katerine/1464/PGB">Katerine</a>
+
+  <a href="../cite/Katherine/1577/PGB">Katherine</a>
+
+  <a href="../cite/Katherine/1551/PGB">Katherine</a>
+
+  <a href="../cite/Margaret/1586/PGB">Margaret</a>
+
+  <a href="../cite/Margaret/1576/PGB">Margaret</a>
+
+  <a href="../cite/Margaret/1567/PGB">Margaret</a>
+
+  <a href="../cite/Margaret/1488/PGB">Margaret</a>
+
+  <a href="../cite/Margaret/1588/PGB">Margaret</a>
+
+  <a href="../cite/Margaret/1598/PGB">Margaret</a>
+
+  <a href="../cite/Margaret/1538/PGB">Margaret</a>
+
+  <a href="../cite/Margaret/1582/PGB">Margaret</a>
+
+  <a href="../cite/Margaret/1548/PGB">Margaret</a>
+
+  <a href="../cite/Margaret/1573/PGB">Margaret</a>
+
+  <a href="../cite/Margaret/1596/PGB">Margaret</a>
+
+  <a href="../cite/Mariota/1543/PGB">Mariota</a>
+
+  <a href="../cite/Mariota/1594/PGB">Mariota</a>
+
+  <a href="../cite/Mariota/1573/PGB">Mariota</a>
+
+  <a href="../cite/Marjory/1554/PGB">Marjory</a>
+
+  <a href="../cite/Marjory/1593/PGB">Marjory</a>
+
+  <a href="../cite/Olivera/1577/PGB">Olivera</a>
+
+  <a href="../cite/Violet/1552/PGB">Violet</a>
+
+  <a href="../cite/Violet/1550/PGB">Violet</a>
+
+  <a href="../cite/Violet/1547/PGB">Violet</a>
+
+  <a href="../cite/Violet/1568/PGB">Violet</a>
+
+  <a href="../cite/Violet/1582/PGB">Violet</a>
+
+  <a href="../cite/Violet/1545/PGB">Violet</a>
+
+  <a href="../cite/Violet/1576/PGB">Violet</a>
+
+  <a href="../cite/Violet/1587/PGB">Violet</a>
+
+  <a href="../cite/Violet/1554/PGB">Violet</a>
+
+  <a href="../cite/Violet/1546/PGB">Violet</a>
+
+  <a href="../cite/Violet/1559/PGB">Violet</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

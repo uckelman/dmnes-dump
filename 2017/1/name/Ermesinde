@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Ermesinde</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Ermesinde</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>ermen</i>, <span class="lang">Old Saxon</span> <i>irmin</i> 'great, strong' + <span class="lang">Old Saxon</span> <i>swīth</i>, <span class="lang">Gothic</span> <i>swinþs</i> from <span class="lang">Proto-Germanic</span> *<i>swinþaz</i> 'strong'.
+</span>
+  
+</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814</span> <span class="name">Ermesindis</span> (<span class="case">nom</span>) <a href="../cite/Ermesindis/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">A1</span></a>;
+ <span class="date">c823</span> <span class="name">Ermensindis</span> (<span class="case">nom</span>) <a href="../cite/Ermensindis/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">27, CE</span></a>,
+ <span class="name">Ermsindis</span> (<span class="case">nom</span>) <a href="../cite/Ermsindis/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">7, Wan</span></a>;
+ <span class="date">1038</span> <span class="name">Ermensenna</span> (<span class="case">nom</span>) <a href="../cite/Ermensenna/1038/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">719</span></a>;
+ <span class="date">a1127</span> <span class="name">Ermesindis</span> (<span class="case">nom</span>) <a href="../cite/Ermesindis/a1127/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">701</span></a>;
+ <span class="date">1179</span> <span class="name">Hermensendis</span> (<span class="case">nom</span>) <a href="../cite/Hermensendis/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">178</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1022</span> <span class="name">Ermesins</span> (<span class="case">abl</span>) <a href="../cite/Ermesins/1022/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCLXXVI</span></a>;
+ <span class="date">1083</span> <span class="name">Ermesendis</span> (<span class="case">gen</span>) <a href="../cite/Ermesendis/1083/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCI</span></a>,
+ <span class="name">Ermessendis</span> (<span class="case">nom</span>) <a href="../cite/Ermessendis/1083/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCI</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1250</span> <span class="name">Ermesen</span> <a href="../cite/Ermesen/1250/RusGeb"><span class="bib_key">RusGeb</span> <span class="bib_loc">p. 272</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Ermesinde". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Ermesinde.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

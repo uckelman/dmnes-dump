@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>StMary-Ke</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>StMary-Ke</dt>
+  <dd>Leland Lewis Duncan. <em>The Register of Marriages, Christenings, and Burials in the Church of Saint Mary, Lewisham, Kent (Being Such Portions of the Registers as Were Saved from the Fire of 1830) from 1558 to 1750</em>. London: Charles North, Blackheath Printing Works, 1891.</dd>
+</dl>
+
+
+  <a href="../cite/Agnes/1558–9/StMary-Ke">Agnes</a>
+
+  <a href="../cite/Alexander/1558–9/StMary-Ke">Alexander</a>
+
+  <a href="../cite/Alice/1590/StMary-Ke">Alice</a>
+
+  <a href="../cite/Alice/1558–9/StMary-Ke">Alice</a>
+
+  <a href="../cite/Ann/1582/StMary-Ke">Ann</a>
+
+  <a href="../cite/Anthony/1558–9/StMary-Ke">Anthony</a>
+
+  <a href="../cite/Brian/1588s9/StMary-Ke">Brian</a>
+
+  <a href="../cite/Davy/1558–9/StMary-Ke">Davy</a>
+
+  <a href="../cite/Elizabeth/1558–9/StMary-Ke">Elizabeth</a>
+
+  <a href="../cite/Ellen/1558–9/StMary-Ke">Ellen</a>
+
+  <a href="../cite/Francis/1558–9/StMary-Ke">Francis</a>
+
+  <a href="../cite/James/1581/StMary-Ke">James</a>
+
+  <a href="../cite/Jeffery/1581/StMary-Ke">Jeffery</a>
+
+  <a href="../cite/Jeffery/1588s9/StMary-Ke">Jeffery</a>
+
+  <a href="../cite/Jeffery/1584/StMary-Ke">Jeffery</a>
+
+  <a href="../cite/Jeffery/1590/StMary-Ke">Jeffery</a>
+
+  <a href="../cite/Jeffery/1585s6/StMary-Ke">Jeffery</a>
+
+  <a href="../cite/Jeffery/1580/StMary-Ke">Jeffery</a>
+
+  <a href="../cite/Jeffery/1594/StMary-Ke">Jeffery</a>
+
+  <a href="../cite/Jeffery/1582/StMary-Ke">Jeffery</a>
+
+  <a href="../cite/Jhon/1558–9/StMary-Ke">Jhon</a>
+
+  <a href="../cite/John/1568/StMary-Ke">John</a>
+
+  <a href="../cite/John/1558–9/StMary-Ke">John</a>
+
+  <a href="../cite/Jone/1558–9/StMary-Ke">Jone</a>
+
+  <a href="../cite/Julian/1558–9/StMary-Ke">Julian</a>
+
+  <a href="../cite/Julian/1558–9/StMary-Ke">Julian</a>
+
+  <a href="../cite/Katherin/1558–9/StMary-Ke">Katherin</a>
+
+  <a href="../cite/Lucrece/1580/StMary-Ke">Lucrece</a>
+
+  <a href="../cite/Margaret/1584/StMary-Ke">Margaret</a>
+
+  <a href="../cite/Margaret/1558–9/StMary-Ke">Margaret</a>
+
+  <a href="../cite/Martha/1596/StMary-Ke">Martha</a>
+
+  <a href="../cite/Mary/1585s6/StMary-Ke">Mary</a>
+
+  <a href="../cite/Michael/1594/StMary-Ke">Michael</a>
+
+  <a href="../cite/Nicholas/1558–9/StMary-Ke">Nicholas</a>
+
+  <a href="../cite/Peter/1560/StMary-Ke">Peter</a>
+
+  <a href="../cite/Rachell/1558–9/StMary-Ke">Rachell</a>
+
+  <a href="../cite/Renold/1558–9/StMary-Ke">Renold</a>
+
+  <a href="../cite/Richard/1558–9/StMary-Ke">Richard</a>
+
+  <a href="../cite/Thomas/1558–9/StMary-Ke">Thomas</a>
+
+  <a href="../cite/William/1558–9/StMary-Ke">William</a>
+
+  <a href="../cite/William/1583/StMary-Ke">William</a>
+
+  <a href="../cite/William/1596/StMary-Ke">William</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,400 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>FRA-XXXL</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>FRA-XXXL</dt>
+  <dd>Josef van Zahn, editor. <em>Codex Diplomaticus Austriaco-Frisingensis</em>, volume XXXL of <em> Fontes Rerum Austriacarum: Oesterreichische Geschichts-Quellen, Zweite Abtheilung</em>. Wien: Aus der Kaiserlich-Königlichen Hof- und Staatsdruckerei, 1870.</dd>
+</dl>
+
+
+  <a href="../cite/Ackilind/763/FRA-XXXL">Ackilind</a>
+
+  <a href="../cite/Ackilinda/763/FRA-XXXL">Ackilinda</a>
+
+  <a href="../cite/Adalhart/828/FRA-XXXL">Adalhart</a>
+
+  <a href="../cite/Adalhart/827/FRA-XXXL">Adalhart</a>
+
+  <a href="../cite/Adalperht/802/FRA-XXXL">Adalperht</a>
+
+  <a href="../cite/Adalperht/828/FRA-XXXL">Adalperht</a>
+
+  <a href="../cite/Adalperht/763/FRA-XXXL">Adalperht</a>
+
+  <a href="../cite/Adalperhti/802/FRA-XXXL">Adalperhti</a>
+
+  <a href="../cite/Adaluuino/802/FRA-XXXL">Adaluuino</a>
+
+  <a href="../cite/Albero/1261/FRA-XXXL">Albero</a>
+
+  <a href="../cite/Alberti/1261/FRA-XXXL">Alberti</a>
+
+  <a href="../cite/Alberto/1261/FRA-XXXL">Alberto</a>
+
+  <a href="../cite/Albertum/1261/FRA-XXXL">Albertum</a>
+
+  <a href="../cite/Albertus/1261/FRA-XXXL">Albertus</a>
+
+  <a href="../cite/Albinus/763/FRA-XXXL">Albinus</a>
+
+  <a href="../cite/Alpolf/827/FRA-XXXL">Alpolf</a>
+
+  <a href="../cite/Artusio/1261/FRA-XXXL">Artusio</a>
+
+  <a href="../cite/Atto/816/FRA-XXXL">Atto</a>
+
+  <a href="../cite/Attonem/802/FRA-XXXL">Attonem</a>
+
+  <a href="../cite/Attoni/802/FRA-XXXL">Attoni</a>
+
+  <a href="../cite/Attonis/802/FRA-XXXL">Attonis</a>
+
+  <a href="../cite/Aurelius/828/FRA-XXXL">Aurelius</a>
+
+  <a href="../cite/Benedictus/776/FRA-XXXL">Benedictus</a>
+
+  <a href="../cite/Berchtoldo/1261/FRA-XXXL">Berchtoldo</a>
+
+  <a href="../cite/Bertharius/802/FRA-XXXL">Bertharius</a>
+
+  <a href="../cite/Bertoldo/1261/FRA-XXXL">Bertoldo</a>
+
+  <a href="../cite/Caroli/802/FRA-XXXL">Caroli</a>
+
+  <a href="../cite/Carolo/802/FRA-XXXL">Carolo</a>
+
+  <a href="../cite/Chuniperht/763/FRA-XXXL">Chuniperht</a>
+
+  <a href="../cite/Chunradi/1261/FRA-XXXL">Chunradi</a>
+
+  <a href="../cite/Chunrado/1277/FRA-XXXL">Chunrado</a>
+
+  <a href="../cite/Chunradus/1261/FRA-XXXL">Chunradus</a>
+
+  <a href="../cite/Chvnrado/1277?/FRA-XXXL">Chvnrado</a>
+
+  <a href="../cite/Chvnradus/1261/FRA-XXXL">Chvnradus</a>
+
+  <a href="../cite/Chvnradus/1277?/FRA-XXXL">Chvnradus</a>
+
+  <a href="../cite/Chvnradus/1277/FRA-XXXL">Chvnradus</a>
+
+  <a href="../cite/Dauid/776/FRA-XXXL">Dauid</a>
+
+  <a href="../cite/Ditricus/1261/FRA-XXXL">Ditricus</a>
+
+  <a href="../cite/Dominicus/828/FRA-XXXL">Dominicus</a>
+
+  <a href="../cite/Drudmunt/770/FRA-XXXL">Drudmunt</a>
+
+  <a href="../cite/Eberhardus/1261/FRA-XXXL">Eberhardus</a>
+
+  <a href="../cite/Engilperht/827/FRA-XXXL">Engilperht</a>
+
+  <a href="../cite/Erchanfred/763/FRA-XXXL">Erchanfred</a>
+
+  <a href="../cite/Erimperht/828/FRA-XXXL">Erimperht</a>
+
+  <a href="../cite/Erinperht/828/FRA-XXXL">Erinperht</a>
+
+  <a href="../cite/Erlapald/802/FRA-XXXL">Erlapald</a>
+
+  <a href="../cite/Ernst/855/FRA-XXXL">Ernst</a>
+
+  <a href="../cite/Ernsto/855/FRA-XXXL">Ernsto</a>
+
+  <a href="../cite/Felicius/828/FRA-XXXL">Felicius</a>
+
+  <a href="../cite/Folcrat/802/FRA-XXXL">Folcrat</a>
+
+  <a href="../cite/Friderico/1277/FRA-XXXL">Friderico</a>
+
+  <a href="../cite/Fridericus/1261/FRA-XXXL">Fridericus</a>
+
+  <a href="../cite/Gebhardi/1261/FRA-XXXL">Gebhardi</a>
+
+  <a href="../cite/Gotschalcus/1261/FRA-XXXL">Gotschalcus</a>
+
+  <a href="../cite/Gunthero/1277/FRA-XXXL">Gunthero</a>
+
+  <a href="../cite/Haidenricus/1261/FRA-XXXL">Haidenricus</a>
+
+  <a href="../cite/Hariperaht/770/FRA-XXXL">Hariperaht</a>
+
+  <a href="../cite/Hartmannus/1261/FRA-XXXL">Hartmannus</a>
+
+  <a href="../cite/Hartwicus/1261/FRA-XXXL">Hartwicus</a>
+
+  <a href="../cite/Heidenricus/1261/FRA-XXXL">Heidenricus</a>
+
+  <a href="../cite/Heinrico/1261/FRA-XXXL">Heinrico</a>
+
+  <a href="../cite/Heinrico/1277/FRA-XXXL">Heinrico</a>
+
+  <a href="../cite/Heinricus/1277/FRA-XXXL">Heinricus</a>
+
+  <a href="../cite/Heinricus/1261/FRA-XXXL">Heinricus</a>
+
+  <a href="../cite/Herimar/828/FRA-XXXL">Herimar</a>
+
+  <a href="../cite/Heripald/776/FRA-XXXL">Heripald</a>
+
+  <a href="../cite/Hermanno/1261/FRA-XXXL">Hermanno</a>
+
+  <a href="../cite/Hermanno/1277/FRA-XXXL">Hermanno</a>
+
+  <a href="../cite/Hiltiperht/828/FRA-XXXL">Hiltiperht</a>
+
+  <a href="../cite/Hludouuici/827/FRA-XXXL">Hludouuici</a>
+
+  <a href="../cite/Hludouuici/857/FRA-XXXL">Hludouuici</a>
+
+  <a href="../cite/Hucperht/828/FRA-XXXL">Hucperht</a>
+
+  <a href="../cite/Immo/802/FRA-XXXL">Immo</a>
+
+  <a href="../cite/Immo/828/FRA-XXXL">Immo</a>
+
+  <a href="../cite/Irminfrid/763/FRA-XXXL">Irminfrid</a>
+
+  <a href="../cite/Irminfrid/802/FRA-XXXL">Irminfrid</a>
+
+  <a href="../cite/Irminfridi/802/FRA-XXXL">Irminfridi</a>
+
+  <a href="../cite/Irminfrido/763/FRA-XXXL">Irminfrido</a>
+
+  <a href="../cite/Irminfrido/802/FRA-XXXL">Irminfrido</a>
+
+  <a href="../cite/Irminfridus/802/FRA-XXXL">Irminfridus</a>
+
+  <a href="../cite/Jacobum/855/FRA-XXXL">Jacobum</a>
+
+  <a href="../cite/Johannes/827/FRA-XXXL">Johannes</a>
+
+  <a href="../cite/Joseph/763/FRA-XXXL">Joseph</a>
+
+  <a href="../cite/Josephus/763/FRA-XXXL">Josephus</a>
+
+  <a href="../cite/Joseppi/802/FRA-XXXL">Joseppi</a>
+
+  <a href="../cite/Kaganhardo/802/FRA-XXXL">Kaganhardo</a>
+
+  <a href="../cite/Kaganhart/802/FRA-XXXL">Kaganhart</a>
+
+  <a href="../cite/Karoli/802/FRA-XXXL">Karoli</a>
+
+  <a href="../cite/Kerhoh/828/FRA-XXXL">Kerhoh</a>
+
+  <a href="../cite/Lanfrit/802/FRA-XXXL">Lanfrit</a>
+
+  <a href="../cite/Lantfrid/802/FRA-XXXL">Lantfrid</a>
+
+  <a href="../cite/Lantfrid/828/FRA-XXXL">Lantfrid</a>
+
+  <a href="../cite/Lantfrido/802/FRA-XXXL">Lantfrido</a>
+
+  <a href="../cite/Lantfridum/802/FRA-XXXL">Lantfridum</a>
+
+  <a href="../cite/Lantfridus/802/FRA-XXXL">Lantfridus</a>
+
+  <a href="../cite/Lantpald/763/FRA-XXXL">Lantpald</a>
+
+  <a href="../cite/Lantperht/802/FRA-XXXL">Lantperht</a>
+
+  <a href="../cite/Leupoldo/1277/FRA-XXXL">Leupoldo</a>
+
+  <a href="../cite/Liutolt/827/FRA-XXXL">Liutolt</a>
+
+  <a href="../cite/Liutolt/763/FRA-XXXL">Liutolt</a>
+
+  <a href="../cite/Liutprant/802/FRA-XXXL">Liutprant</a>
+
+  <a href="../cite/Ludouuici/855/FRA-XXXL">Ludouuici</a>
+
+  <a href="../cite/Ludowici/855/FRA-XXXL">Ludowici</a>
+
+  <a href="../cite/Ludowicus/855/FRA-XXXL">Ludowicus</a>
+
+  <a href="../cite/Luduuuicus/816/FRA-XXXL">Luduuuicus</a>
+
+  <a href="../cite/Lupo/827/FRA-XXXL">Lupo</a>
+
+  <a href="../cite/Magister/828/FRA-XXXL">Magister</a>
+
+  <a href="../cite/Marcellina/827/FRA-XXXL">Marcellina</a>
+
+  <a href="../cite/Meginhart/827/FRA-XXXL">Meginhart</a>
+
+  <a href="../cite/Mehthildim/1261/FRA-XXXL">Mehthildim</a>
+
+  <a href="../cite/Mertlinus/1261/FRA-XXXL">Mertlinus</a>
+
+  <a href="../cite/Nycolao/1261/FRA-XXXL">Nycolao</a>
+
+  <a href="../cite/Oatachar/770/FRA-XXXL">Oatachar</a>
+
+  <a href="../cite/Ortolfo/1261/FRA-XXXL">Ortolfo</a>
+
+  <a href="../cite/Otto/1261/FRA-XXXL">Otto</a>
+
+  <a href="../cite/Ottone/1277/FRA-XXXL">Ottone</a>
+
+  <a href="../cite/Ottone/1261/FRA-XXXL">Ottone</a>
+
+  <a href="../cite/Perahart/802/FRA-XXXL">Perahart</a>
+
+  <a href="../cite/Perhtam/1261/FRA-XXXL">Perhtam</a>
+
+  <a href="../cite/Pernhardum/855/FRA-XXXL">Pernhardum</a>
+
+  <a href="../cite/Pernuuin/828/FRA-XXXL">Pernuuin</a>
+
+  <a href="../cite/Pilgrimus/1261/FRA-XXXL">Pilgrimus</a>
+
+  <a href="../cite/Quartinus/828/FRA-XXXL">Quartinus</a>
+
+  <a href="../cite/Reginhardo/802/FRA-XXXL">Reginhardo</a>
+
+  <a href="../cite/Reginhart/802/FRA-XXXL">Reginhart</a>
+
+  <a href="../cite/Reginpald/763/FRA-XXXL">Reginpald</a>
+
+  <a href="../cite/Reginperht/776/FRA-XXXL">Reginperht</a>
+
+  <a href="../cite/Reginperht/828/FRA-XXXL">Reginperht</a>
+
+  <a href="../cite/Reginperht/802/FRA-XXXL">Reginperht</a>
+
+  <a href="../cite/Reginperto/763/FRA-XXXL">Reginperto</a>
+
+  <a href="../cite/Reginuuolf/770/FRA-XXXL">Reginuuolf</a>
+
+  <a href="../cite/Reinhardi/1261/FRA-XXXL">Reinhardi</a>
+
+  <a href="../cite/Reinhardo/1261/FRA-XXXL">Reinhardo</a>
+
+  <a href="../cite/Richardi/788/FRA-XXXL">Richardi</a>
+
+  <a href="../cite/Rihheri/828/FRA-XXXL">Rihheri</a>
+
+  <a href="../cite/Riholf/763/FRA-XXXL">Riholf</a>
+
+  <a href="../cite/Rihpald/802/FRA-XXXL">Rihpald</a>
+
+  <a href="../cite/Rudolfo/1261/FRA-XXXL">Rudolfo</a>
+
+  <a href="../cite/Rvdegero/1261/FRA-XXXL">Rvdegero</a>
+
+  <a href="../cite/Rvdgerus/1261/FRA-XXXL">Rvdgerus</a>
+
+  <a href="../cite/Rvdolfo/1261/FRA-XXXL">Rvdolfo</a>
+
+  <a href="../cite/Rvdolfus/1277?/FRA-XXXL">Rvdolfus</a>
+
+  <a href="../cite/Salomon/776/FRA-XXXL">Salomon</a>
+
+  <a href="../cite/Secundina/827/FRA-XXXL">Secundina</a>
+
+  <a href="../cite/Secundo/827/FRA-XXXL">Secundo</a>
+
+  <a href="../cite/Sifrido/1277/FRA-XXXL">Sifrido</a>
+
+  <a href="../cite/Sifridus/1261/FRA-XXXL">Sifridus</a>
+
+  <a href="../cite/Sigiperht/828/FRA-XXXL">Sigiperht</a>
+
+  <a href="../cite/Tassilo/788/FRA-XXXL">Tassilo</a>
+
+  <a href="../cite/Tassilo/770/FRA-XXXL">Tassilo</a>
+
+  <a href="../cite/Tassiloni/802/FRA-XXXL">Tassiloni</a>
+
+  <a href="../cite/Tassiloni/763/FRA-XXXL">Tassiloni</a>
+
+  <a href="../cite/Tassilonis/763/FRA-XXXL">Tassilonis</a>
+
+  <a href="../cite/Tassilonis/770/FRA-XXXL">Tassilonis</a>
+
+  <a href="../cite/Tassilonis/776/FRA-XXXL">Tassilonis</a>
+
+  <a href="../cite/Uirgilius/776/FRA-XXXL">Uirgilius</a>
+
+  <a href="../cite/Urso/827/FRA-XXXL">Urso</a>
+
+  <a href="../cite/Uuillihelm/828/FRA-XXXL">Uuillihelm</a>
+
+  <a href="../cite/Uuolferim/827/FRA-XXXL">Uuolferim</a>
+
+  <a href="../cite/Uuolfhram/776/FRA-XXXL">Uuolfhram</a>
+
+  <a href="../cite/Uuolfpald/776/FRA-XXXL">Uuolfpald</a>
+
+  <a href="../cite/Vlricus/1261/FRA-XXXL">Vlricus</a>
+
+  <a href="../cite/Vrbanus/1261/FRA-XXXL">Vrbanus</a>
+
+  <a href="../cite/Wernhardus/1261/FRA-XXXL">Wernhardus</a>
+
+  <a href="../cite/Wilhelmo/1261/FRA-XXXL">Wilhelmo</a>
+
+  <a href="../cite/Willipertum/855/FRA-XXXL">Willipertum</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

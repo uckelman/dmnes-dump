@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Vivian</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Vivian</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Vivianus</i>, a cognomen from <span class="lang">Latin</span> <i>vivus</i> 'alive'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 5th C saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1013x1033</span> <span class="name">Vivianum</span> (<span class="case">acc</span>) <a href="../cite/Vivianum/1013x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XLII</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Viviani</span> (<span class="case">gen</span>) <a href="../cite/Viviani/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>,
+ <span class="name">Vivianum</span> (<span class="case">acc</span>) <a href="../cite/Vivianum/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>,
+ <span class="name">Vivianus</span> (<span class="case">nom</span>) <a href="../cite/Vivianus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Vivianus</span> (<span class="case">nom</span>) <a href="../cite/Vivianus/1115x1149/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Vivien</span> <a href="../cite/Vivien/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1313</span> <span class="name">Vivian</span> <a href="../cite/Vivian/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 66</span></a>,
+ <span class="name">Vivien</span> <a href="../cite/Vivien/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Vivien</span> <a href="../cite/Vivien/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 211</span></a>,
+ <a href="../cite/Vivien/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 385</span></a>;
+ <span class="date">1423</span> <span class="name">Vivien</span> <a href="../cite/Vivien/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">292</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Viuianus</span> (<span class="case">nom</span>) <a href="../cite/Viuianus/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 5</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1169</span> <span class="name">Vivianus</span> (<span class="case">nom</span>) <a href="../cite/Vivianus/1169/SDE3"><span class="bib_key">SDE3</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1236</span> <span class="name">Viuianni</span> (<span class="case">gen</span>) <a href="../cite/Viuianni/1236/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">10</span></a>,
+ <span class="name">Viuianno</span> (<span class="case">dat</span>) <a href="../cite/Viuianno/1236/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Viviani</span> (<span class="case">gen</span>) <a href="../cite/Viviani/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">15</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1454</span> <span class="name">Vivion</span> (<span class="case">nom</span>) <a href="../cite/Vivion/1454/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1456</span> <span class="name">Vivian</span> (<span class="case">nom</span>) <a href="../cite/Vivian/1456/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 259</span></a>;
+ <span class="date">1457</span> <span class="name">Vivian</span> (<span class="case">nom</span>) <a href="../cite/Vivian/1457/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 259</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Vivian". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Vivian.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

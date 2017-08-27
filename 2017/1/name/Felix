@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Felix</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Felix</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>felix</i>'happy; blessed, lucky, fortunate; fertile'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a a 1st C Roman martyr, three 3rd C saints, a 3rd C pope, two 4th C Roman martyrs, two 4th C saint, a 4th C anti-pope, a 5th C pope, a 5th or 6th C British saint, a 6th C pope, a 7th C Anglo-Saxon saint, a 9th C Portuguese saint, an 11th C Breton saint, a 13th C French saint, and a 15th C antipope.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Felix</span> <a href="../cite/Felix/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 378</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1586</span> <span class="name">Felix</span> <a href="../cite/Felix/1586/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 129</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">745</span> <span class="name">Felice</span> (<span class="case">abl</span>) <a href="../cite/Felice/745/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">1</span></a>,
+ <span class="name">Felix</span> (<span class="case">nom</span>) <a href="../cite/Felix/745/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">1</span></a>;
+ <span class="date">814</span> <span class="name">Felicis</span> (<span class="case">nom</span>) <a href="../cite/Felicis/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">F9</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1298</span> <span class="name">Feliset</span> (<span class="case">obl</span>) <a href="../cite/Feliset/1298/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 138</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Felix</span> <a href="../cite/Felix/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">264</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1470</span> <span class="name">Felice</span> (<span class="case">abl</span>) <a href="../cite/Felice/1470/RCCaetani6"><span class="bib_key">RCCaetani6</span> <span class="bib_loc">XXI-62</span></a>;
+ <span class="date">1521</span> <span class="name">Felix</span> (<span class="case">nom</span>) <a href="../cite/Felix/1521/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Felix</span> (<span class="case">nom</span>) <a href="../cite/Felix/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 51, 8</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Felice</span> <a href="../cite/Felice/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 16</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Felices</span> <a href="../cite/Felices/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">4438</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1576</span> <span class="name">Felix</span> <a href="../cite/Felix/1576/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3880</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Felix". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Felix.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

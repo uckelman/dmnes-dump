@@ -1,0 +1,553 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Albert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Albert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>adal</i> 'noble' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of many medieval saints, a 10th C king of Italy, a 13th C king of Germany, a 13th C German saint, a 14th C king of Sweden, and a 15th C king of Germany and Bohemia.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">763</span> <span class="name">Adalperht</span> (<span class="case">nom</span>) <a href="../cite/Adalperht/763/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">1</span></a>;
+ <span class="date">928</span> <span class="name">Atalperht</span> (<span class="case">nom</span>) <a href="../cite/Atalperht/928/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">18</span></a>;
+ <span class="date">935</span> <span class="name">Adalperht</span> (<span class="case">nom</span>) <a href="../cite/Adalperht/935/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>;
+ <span class="date">c1050</span> <span class="name">Adalpreht</span> (<span class="case">nom</span>) <a href="../cite/Adalpreht/c1050/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">57</span></a>;
+ <span class="date">c1070</span> <span class="name">Adalpreht</span> (<span class="case">nom</span>) <a href="../cite/Adalpreht/c1070/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">70</span></a>;
+ <span class="date">1074x1087</span> <span class="name">Adilberti</span> (<span class="case">gen</span>) <a href="../cite/Adilberti/1074x1087/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">77</span></a>;
+ <span class="date">c1075</span> <span class="name">Adalberti</span> (<span class="case">gen</span>) <a href="../cite/Adalberti/c1075/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">c1100</span> <span class="name">Adilbert</span> (<span class="case">nom</span>) <a href="../cite/Adilbert/c1100/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>,
+ <span class="name">Adilberti</span> (<span class="case">gen</span>) <a href="../cite/Adilberti/c1100/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>,
+ <span class="name">Adilbertus</span> (<span class="case">nom</span>) <a href="../cite/Adilbertus/c1100/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>;
+ <span class="date">1103</span> <span class="name">Adalbrecht</span> (<span class="case">nom</span>) <a href="../cite/Adalbrecht/1103/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">95</span></a>;
+ <span class="date">1124</span> <span class="name">Adilbertus</span> (<span class="case">nom</span>) <a href="../cite/Adilbertus/1124/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">110</span></a>;
+ <span class="date">c1128</span> <span class="name">Adalbertus</span> (<span class="case">nom</span>) <a href="../cite/Adalbertus/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">119b</span></a>,
+ <span class="name">Adalbrecht</span> (<span class="case">nom</span>) <a href="../cite/Adalbrecht/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">118a</span></a>,
+ <span class="name">Adalbreht</span> (<span class="case">nom</span>) <a href="../cite/Adalbreht/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">118a</span></a>,
+ <span class="name">Adelbert</span> (<span class="case">nom</span>) <a href="../cite/Adelbert/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1235</span> <span class="name">Alpreti</span> (<span class="case">gen</span>) <a href="../cite/Alpreti/1235/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">p. 1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 14</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1312</span> <span class="name">Aubel</span> (<span class="case">nom</span>) <a href="../cite/Aubel/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Croatia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Croatian</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1597</span> <span class="name">Bert</span> <a href="../cite/Bert/1597/Susedgrad1597"><span class="bib_key">Susedgrad1597</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Berth</span> <a href="../cite/Berth/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1287</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1287/RTT-1.1"><span class="bib_key">RTT-1.1</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1314</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1314/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1314/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1331</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1331/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1337</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1337/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1343</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1343/Rössler2"><span class="bib_key">Rössler2</span> <span class="bib_loc">294, p. 135</span></a>,
+ <span class="name">Alberto</span> (<span class="case">dat</span>) <a href="../cite/Alberto/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">280, p. 128</span></a>,
+ <span class="name">Albertum</span> (<span class="case">acc</span>) <a href="../cite/Albertum/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">242, p. 115</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">242, p. 114</span></a>;
+ <span class="date">1348</span> <span class="name">Alberto</span> (<span class="case">dat</span>) <a href="../cite/Alberto/1348/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1349</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1350</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">173</span></a>,
+ <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">205</span></a>;
+ <span class="date">1355</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1349</span> <span class="name">Alblinus</span> (<span class="case">nom</span>) <a href="../cite/Alblinus/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">33</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1339</span> <span class="name">Albrechts</span> (<span class="case">gen</span>) <a href="../cite/Albrechts/c1339/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">91</span></a>;
+ <span class="date">1341</span> <span class="name">Albrechts</span> (<span class="case">gen</span>) <a href="../cite/Albrechts/1341/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">33</span></a>;
+ <span class="date">1344</span> <span class="name">Albrechtes</span> (<span class="case">gen</span>) <a href="../cite/Albrechtes/1344/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1349</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1349/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>;
+ <span class="date">1354</span> <span class="name">Albrecht</span> (<span class="case">nom</span>) <a href="../cite/Albrecht/1354/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">77</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1496</span> <span class="name">Albricts</span> (<span class="case">gen</span>) <a href="../cite/Albricts/1496/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 185</span></a></dd>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Albret</span> <a href="../cite/Albret/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a>,
+ <span class="name">Albrets</span> (<span class="case">gen</span>) <a href="../cite/Albrets/1581/KD-1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 362</span></a>,
+ <span class="name">Albrett</span> <a href="../cite/Albrett/1581/KD-1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Ailbrihtus</span> (<span class="case">nom</span>) <a href="../cite/Ailbrihtus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 179</span></a>,
+ <span class="name">Ailburtus</span> (<span class="case">nom</span>) <a href="../cite/Ailburtus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 185</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 102</span></a>;
+ <span class="date">1381</span> <span class="name">Albritum</span> (<span class="case">acc</span>) <a href="../cite/Albritum/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 107</span></a>,
+ <span class="name">Albritus</span> (<span class="case">nom</span>) <a href="../cite/Albritus/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 108</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1576</span> <span class="name">Albert</span> <a href="../cite/Albert/1576/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Ghijsberts</span></a>;
+ <span class="date">1578</span> <span class="name">Albert</span> <a href="../cite/Albert/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Ghijsbertsen</span></a>,
+ <span class="name">Albertus</span> <a href="../cite/Albertus/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Fockea</span></a>;
+ <span class="date">1579</span> <span class="name">Albertz</span> (<span class="case">gen</span>) <a href="../cite/Albertz/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Fockea</span></a>;
+ <span class="date">1583</span> <span class="name">Albert</span> <a href="../cite/Albert/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Focka</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1364</span> <span class="name">Albert</span> <a href="../cite/Albert/1364/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 334</span></a>,
+ <span class="name">Albertus</span> <a href="../cite/Albertus/1364/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 334</span></a>;
+ <span class="date">1379x1383</span> <span class="name">Albrecht</span> <a href="../cite/Albrecht/1379x1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1383</span> <span class="name">Albrecht</span> <a href="../cite/Albrecht/1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1384</span> <span class="name">Albert</span> <a href="../cite/Albert/1384/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1400</span> <span class="name">Alberd</span> <a href="../cite/Alberd/1400/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1404</span> <span class="name">Alberd</span> <a href="../cite/Alberd/1404/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1405</span> <span class="name">Alberd</span> <a href="../cite/Alberd/1405/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1412</span> <span class="name">Alberd</span> <a href="../cite/Alberd/1412/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1417</span> <span class="name">Alberd</span> <a href="../cite/Alberd/1417/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 348</span></a>;
+ <span class="date">1419</span> <span class="name">Alberd</span> <a href="../cite/Alberd/1419/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 348</span></a>;
+ <span class="date">1421</span> <span class="name">Alberd</span> <a href="../cite/Alberd/1421/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1422</span> <span class="name">Alberd</span> <a href="../cite/Alberd/1422/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1424</span> <span class="name">Alberd</span> <a href="../cite/Alberd/1424/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1426</span> <span class="name">Alberd</span> <a href="../cite/Alberd/1426/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1431</span> <span class="name">Alberd</span> <a href="../cite/Alberd/1431/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 355</span></a>;
+ <span class="date">1433</span> <span class="name">Albert</span> <a href="../cite/Albert/1433/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>;
+ <span class="date">1437</span> <span class="name">Albert</span> <a href="../cite/Albert/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 360</span></a>;
+ <span class="date">1442</span> <span class="name">Albert</span> <a href="../cite/Albert/1442/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 364</span></a>;
+ <span class="date">1592</span> <span class="name">Albert</span> <a href="../cite/Albert/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 285</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1524x1532</span> <span class="name">Bert</span> (<span class="case">nom</span>) <a href="../cite/Bert/1524x1532/Saareste1923b"><span class="bib_key">Saareste1923b</span> <span class="bib_loc">p. 142</span></a>;
+ <span class="date">1592</span> <span class="name">Pertt</span> <a href="../cite/Pertt/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 285</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">693</span> <span class="name">Adalberti</span> (<span class="case">gen</span>) <a href="../cite/Adalberti/693/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">Add. V</span></a>;
+ <span class="date">c823</span> <span class="name">Adalbertus</span> (<span class="case">nom</span>) <a href="../cite/Adalbertus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">28, CE</span></a>;
+ <span class="date">882</span> <span class="name">Adalbertus</span> (<span class="case">nom</span>) <a href="../cite/Adalbertus/882/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">11thC</span> <span class="name">Adalbertus</span> (<span class="case">nom</span>) <a href="../cite/Adalbertus/11thC/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 118</span></a>;
+ <span class="date">1029x1033</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1083</span> <span class="name">Aalberti</span> (<span class="case">gen</span>) <a href="../cite/Aalberti/1083/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">127</span></a>,
+ <span class="name">Aalbertus</span> (<span class="case">nom</span>) <a href="../cite/Aalbertus/1083/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1138x62</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1138x62/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">67</span></a>;
+ <span class="date">1146</span> <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1146/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXII</span></a>;
+ <span class="date">1147</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1147/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXV</span></a>,
+ <a href="../cite/Albertus/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1148</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1148/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXIV</span></a>;
+ <span class="date">1163</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1171</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">141</span></a>;
+ <span class="date">1173</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1173/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">1-III</span></a>;
+ <span class="date">1179</span> <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">179</span></a>;
+ <span class="date">1180</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1190</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1190/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXIX</span></a>;
+ <span class="date">1206</span> <span class="name">Aubertus</span> (<span class="case">nom</span>) <a href="../cite/Aubertus/1206/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LXIX</span></a>;
+ <span class="date">1209</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1209/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LII</span></a>;
+ <span class="date">1220</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1220/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LXVIII</span></a>;
+ <span class="date">1256</span> <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1256/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">161</span></a>;
+ <span class="date">1258</span> <span class="name">Aubertum</span> (<span class="case">acc</span>) <a href="../cite/Aubertum/1258/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XXV, pluribus</span></a>;
+ <span class="date">1260</span> <span class="name">Auberti</span> (<span class="case">gen</span>) <a href="../cite/Auberti/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII, Ascension</span></a>,
+ <span class="name">Aubertus</span> (<span class="case">nom</span>) <a href="../cite/Aubertus/1260/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">1-XVII</span></a>;
+ <span class="date">1268</span> <span class="name">Aubertus</span> (<span class="case">nom</span>) <a href="../cite/Aubertus/1268/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">1-VIII</span></a>;
+ <span class="date">1273</span> <span class="name">Adalberti</span> (<span class="case">gen</span>) <a href="../cite/Adalberti/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1292</span> <span class="name">Aubertus</span> (<span class="case">nom</span>) <a href="../cite/Aubertus/1292/MemBret-I"><span class="bib_key">MemBret-I</span> <span class="bib_loc">1103</span></a>;
+ <span class="date">1301</span> <span class="name">Aubertus</span> (<span class="case">nom</span>) <a href="../cite/Aubertus/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 201</span></a>;
+ <span class="date">1378</span> <span class="name">Adauberti</span> (<span class="case">gen</span>) <a href="../cite/Adauberti/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1794</span></a>,
+ <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1128</span></a>,
+ <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">882</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">596</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1179</span> <span class="name">Albelinus</span> (<span class="case">nom</span>) <a href="../cite/Albelinus/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">177</span></a>,
+ <span class="name">Albertinus</span> (<span class="case">nom</span>) <a href="../cite/Albertinus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Aubert</span> <a href="../cite/Aubert/1292/1292paris"><span class="bib_key">1292paris</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1296</span> <span class="name">Aubert</span> <a href="../cite/Aubert/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1299</span> <span class="name">Aubert</span> (<span class="case">obl</span>) <a href="../cite/Aubert/1299/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 144</span></a>;
+ <span class="date">1301</span> <span class="name">Aubert</span> (<span class="case">obl</span>) <a href="../cite/Aubert/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 271</span></a>;
+ <span class="date">1313</span> <span class="name">Aubert</span> <a href="../cite/Aubert/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1327</span> <span class="name">Auberte</span> <a href="../cite/Auberte/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 181</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Aubinet</span> <a href="../cite/Aubinet/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 29</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Albert</span> <a href="../cite/Albert/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 613</span></a>,
+ <span class="name">Aubert</span> <a href="../cite/Aubert/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 600</span></a>;
+ <span class="date">1393</span> <span class="name">Aubert</span> <a href="../cite/Aubert/1393/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 619</span></a>;
+ <span class="date">1421</span> <span class="name">Albert</span> <a href="../cite/Albert/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">342</span></a>,
+ <span class="name">Aubert</span> <a href="../cite/Aubert/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">572</span></a>;
+ <span class="date">1563</span> <span class="name">Albert</span> <a href="../cite/Albert/1563/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1587</span> <span class="name">Albert</span> <a href="../cite/Albert/1587/RTFProvins"><span class="bib_key">RTFProvins</span> <span class="bib_loc">221</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Aubelet</span> <a href="../cite/Aubelet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1185</span></a>;
+ <span class="date">1438</span> <span class="name">Aubertin</span> <a href="../cite/Aubertin/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1568</span> <span class="name">Aubin</span> <a href="../cite/Aubin/1568/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 406</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">802</span> <span class="name">Adalperht</span> (<span class="case">nom</span>) <a href="../cite/Adalperht/802/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">8</span></a>,
+ <span class="name">Adalperhti</span> (<span class="case">gen</span>) <a href="../cite/Adalperhti/802/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">822x875</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§4</span></a>;
+ <span class="date">888</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/888/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">5</span></a>;
+ <span class="date">925</span> <span class="name">Adalperht</span> (<span class="case">nom</span>) <a href="../cite/Adalperht/925/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">14</span></a>;
+ <span class="date">c925</span> <span class="name">Adalperht</span> (<span class="case">nom</span>) <a href="../cite/Adalperht/c925/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">987</span> <span class="name">Adelbertus</span> (<span class="case">nom</span>) <a href="../cite/Adelbertus/987/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XLVIII</span></a>;
+ <span class="date">1020</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1020/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">58</span></a>,
+ <span class="name">alberti</span> (<span class="case">gen</span>) <a href="../cite/alberti/1020/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">58</span></a>;
+ <span class="date">1076</span> <span class="name">Adalberto</span> (<span class="case">abl</span>) <a href="../cite/Adalberto/1076/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">47</span></a>;
+ <span class="date">1100</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1100/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1103</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1103/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">62</span></a>;
+ <span class="date">1108</span> <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1108/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1108/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1130</span> <span class="name">Adelberti</span> (<span class="case">gen</span>) <a href="../cite/Adelberti/1130/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">121</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1130/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">63</span></a>;
+ <span class="date">1135</span> <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1135/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">95</span></a>;
+ <span class="date">1136</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1136/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1142</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1142/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Albetus</span> (<span class="case">nom</span>) <a href="../cite/Albetus/1142/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1145</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1145/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1149</span> <span class="name">Adalbertus</span> (<span class="case">nom</span>) <a href="../cite/Adalbertus/1149/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>,
+ <span class="name">Adelpertus</span> (<span class="case">nom</span>) <a href="../cite/Adelpertus/1149/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIX</span></a>;
+ <span class="date">1151</span> <span class="name">Adalberti</span> (<span class="case">gen</span>) <a href="../cite/Adalberti/1151/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XL</span></a>,
+ <span class="name">Adelbertus</span> (<span class="case">nom</span>) <a href="../cite/Adelbertus/1151/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVI</span></a>,
+ <span class="name">Adelbreht</span> (<span class="case">nom</span>) <a href="../cite/Adelbreht/1151/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVII</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1151/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVIII</span></a>;
+ <span class="date">1174</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1174/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">33</span></a>;
+ <span class="date">1185</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1185/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a>,
+ <span class="name">alberto</span> (<span class="case">dat</span>) <a href="../cite/alberto/1185/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1186</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1186/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">123</span></a>;
+ <span class="date">1189</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1189/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">82</span></a>;
+ <span class="date">1191</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1191/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">38</span></a>;
+ <span class="date">1192</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1192/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>;
+ <span class="date">1197</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1197/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1200</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1200/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1206</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1206/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1207</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1207/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1210</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1210/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1213</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1213/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1214</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1214/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1214x15</span> <span class="name">Albrecht</span> (<span class="case">nom</span>) <a href="../cite/Albrecht/1214x15/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1215</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1215/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <a href="../cite/Albertus/1215/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1216</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1216/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">21</span></a>;
+ <span class="date">1218</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1218/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1219</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1220</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>;
+ <span class="date">1221</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1222</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1222/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">62</span></a>;
+ <span class="date">1224</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1224/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1225</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1225/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">67</span></a>;
+ <span class="date">1229</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1229/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1232</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1232/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1234</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1234/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">91</span></a>,
+ <a href="../cite/Albertus/1234/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">105</span></a>;
+ <span class="date">1237</span> <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1237/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1238</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1238/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1248</span> <span class="name">Albertum</span> (<span class="case">acc</span>) <a href="../cite/Albertum/1248/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">130</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1248/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>;
+ <span class="date">1249</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">134</span></a>;
+ <span class="date">1251</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1251/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">142</span></a>;
+ <span class="date">1252</span> <span class="name">Albertum</span> (<span class="case">acc</span>) <a href="../cite/Albertum/1252/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXIII</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1252/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII</span></a>;
+ <span class="date">1258</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1258/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">181</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1258/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Aleberto</span> (<span class="case">abl</span>) <a href="../cite/Aleberto/1258/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>;
+ <span class="date">1259</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1260</span> <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1260/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">190</span></a>;
+ <span class="date">1261</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1261/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">207</span></a>,
+ <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1261/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">207</span></a>,
+ <span class="name">Albertum</span> (<span class="case">acc</span>) <a href="../cite/Albertum/1261/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">207</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1261/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">207</span></a>;
+ <span class="date">1310</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1310/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1322</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1322/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 159</span></a>;
+ <span class="date">1332</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1332/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1358</span> <span class="name">Albertum</span> (<span class="case">acc</span>) <a href="../cite/Albertum/1358/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 7438</span></a>;
+ <span class="date">1394</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1394/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 171</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 175</span></a>;
+ <span class="date">1401</span> <span class="name">Alberto</span> (<span class="case">dat</span>) <a href="../cite/Alberto/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 26</span></a>;
+ <span class="date">1426</span> <span class="name">Albertum</span> (<span class="case">acc</span>) <a href="../cite/Albertum/1426/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCCXXIII</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1322</span> <span class="name">Albertalle</span> (<span class="case">gen</span>) <a href="../cite/Albertalle/1322/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 160</span></a>,
+ <span class="name">Albertallus</span> (<span class="case">nom</span>) <a href="../cite/Albertallus/1322/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 160</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1293</span> <span class="name">Albreht</span> (<span class="case">nom</span>) <a href="../cite/Albreht/1293/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">53</span></a>,
+ <span class="name">Albrehten</span> (<span class="case">acc</span>) <a href="../cite/Albrehten/1293/UrkWitt-II"><span class="bib_key">UrkWitt-II</span> <span class="bib_loc">187</span></a>;
+ <span class="date">1306</span> <span class="name">Albrehtes</span> (<span class="case">gen</span>) <a href="../cite/Albrehtes/1306/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">68</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1405</span> <span class="name">Alberten</span> (<span class="case">gen</span>) <a href="../cite/Alberten/1405/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXXIX</span></a>;
+ <span class="date">1406</span> <span class="name">Albrecht</span> (<span class="case">nom</span>) <a href="../cite/Albrecht/1406/UrkJen2"><span class="bib_key">UrkJen2</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1409</span> <span class="name">Albrecht</span> (<span class="case">nom</span>) <a href="../cite/Albrecht/1409/UrkJen2"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <a href="../cite/Albrecht/1409/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXXXV</span></a>;
+ <span class="date">1420</span> <span class="name">Albreht</span> (<span class="case">nom</span>) <a href="../cite/Albreht/1420/UrkRott-1"><span class="bib_key">UrkRott-1</span> <span class="bib_loc">855</span></a>;
+ <span class="date">1428</span> <span class="name">Albrechtes</span> (<span class="case">gen</span>) <a href="../cite/Albrechtes/1428/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCCXXVII</span></a>;
+ <span class="date">1497</span> <span class="name">Albrecht</span> <a href="../cite/Albrecht/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">101</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1409</span> <span class="name">Apecz</span> (<span class="case">nom</span>) <a href="../cite/Apecz/1409/UrkJen2"><span class="bib_key">UrkJen2</span> <span class="bib_loc">18</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">655</span> <span class="name">adelberto</span> (<span class="case">abl</span>) <a href="../cite/adelberto/655/CartStBav"><span class="bib_key">CartStBav</span> <span class="bib_loc">1</span></a>;
+ <span class="date">828</span> <span class="name">Adalperht</span> (<span class="case">nom</span>) <a href="../cite/Adalperht/828/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1096</span> <span class="name">Adelbret</span> (<span class="case">nom</span>) <a href="../cite/Adelbret/1096/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">88</span></a>;
+ <span class="date">1100</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1100/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">625</span></a>;
+ <span class="date">1156</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1156/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1162</span> <span class="name">Alberto</span> (<span class="case">dat</span>) <a href="../cite/Alberto/1162/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1164</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1164/SDE3"><span class="bib_key">SDE3</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1164/SDE3"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Albertum</span> (<span class="case">acc</span>) <a href="../cite/Albertum/1164/SDE3"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1169</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1169/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">135</span></a>;
+ <span class="date">1179</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1179/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1186</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1186/POSDu"><span class="bib_key">POSDu</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1189</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1189/ChStBo1"><span class="bib_key">ChStBo1</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1195</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1195/ChStBo1"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1198</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1198/ChStBo1"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1198/ChStBo1"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1198/ChStBo1"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1226</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1226/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">70</span></a>;
+ <span class="date">1235</span> <span class="name">Adelpretum</span> (<span class="case">acc</span>) <a href="../cite/Adelpretum/1235/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">1a</span></a>;
+ <span class="date">1236</span> <span class="name">Adelpretum</span> (<span class="case">acc</span>) <a href="../cite/Adelpretum/1236/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Adelpretus</span> (<span class="case">nom</span>) <a href="../cite/Adelpretus/1236/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Aldepretum</span> (<span class="case">acc</span>) <a href="../cite/Aldepretum/1236/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1237</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1237/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">585</span></a>;
+ <span class="date">1245</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1245/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">85</span></a>,
+ <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1265x1339/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">276</span></a>;
+ <span class="date">1267</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1267/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLI</span></a>;
+ <span class="date">1270</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1270/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLII</span></a>;
+ <span class="date">1273</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1273/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLII</span></a>;
+ <span class="date">1276</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1276/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLII</span></a>;
+ <span class="date">1278</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1278/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLII</span></a>;
+ <span class="date">1279</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1279/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIII</span></a>;
+ <span class="date">1282</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1282/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVII</span></a>;
+ <span class="date">1283</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1283/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIII</span></a>;
+ <span class="date">1284</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1284/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIII</span></a>;
+ <span class="date">1285</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 157</span></a>;
+ <span class="date">1287</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1287/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">p. XLIV</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1287/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIV</span></a>;
+ <span class="date">1289</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1289/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIV</span></a>;
+ <span class="date">1290</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1290/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIV</span></a>;
+ <span class="date">1291</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1291/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIV</span></a>;
+ <span class="date">1292</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1292/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIV</span></a>;
+ <span class="date">1294</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1294/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1296</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1296/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1298</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1298/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1299</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1299/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1302</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1302/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVI</span></a>;
+ <span class="date">1303</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1303/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVI</span></a>;
+ <span class="date">1304</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1304/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVI</span></a>;
+ <span class="date">1305</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1305/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVI</span></a>;
+ <span class="date">1307</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1307/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVI</span></a>;
+ <span class="date">1308</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1308/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVI</span></a>;
+ <span class="date">1326</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 423</span></a>,
+ <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 439</span></a>;
+ <span class="date">1376</span> <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 155</span></a>;
+ <span class="date">1387</span> <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1387/Venditti"><span class="bib_key">Venditti</span> <span class="bib_loc">II-36</span></a>;
+ <span class="date">1401</span> <span class="name">Albertis</span> (<span class="case">abl</span>) <a href="../cite/Albertis/1401/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 15739</span></a>;
+ <span class="date">1527</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 85</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1169</span> <span class="name">Albertinus</span> (<span class="case">nom</span>) <a href="../cite/Albertinus/1169/SDE3"><span class="bib_key">SDE3</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1173</span> <span class="name">Albertini</span> (<span class="case">gen</span>) <a href="../cite/Albertini/1173/SDE3"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1237</span> <span class="name">Albertini</span> (<span class="case">gen</span>) <a href="../cite/Albertini/1237/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">580</span></a>,
+ <span class="name">Albertino</span> (<span class="case">abl</span>) <a href="../cite/Albertino/1237/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">581</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Albertini</span> (<span class="case">gen</span>) <a href="../cite/Albertini/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">233</span></a>;
+ <span class="date">1300</span> <span class="name">Albertino</span> (<span class="case">abl</span>) <a href="../cite/Albertino/1300/ActDipVeneto-I-1"><span class="bib_key">ActDipVeneto-I-1</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1401</span> <span class="name">Albertini</span> (<span class="case">gen</span>) <a href="../cite/Albertini/1401/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 15739</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1401</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1401/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 15739</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">a1286</span> <span class="name">Alberto</span> (<span class="case">dat</span>) <a href="../cite/Alberto/a1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1286</span> <span class="name">Alberto</span> (<span class="case">dat</span>) <a href="../cite/Alberto/1286/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">468</span></a>;
+ <span class="date">1288</span> <span class="name">Alberto</span> (<span class="case">dat</span>) <a href="../cite/Alberto/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">526</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1289</span> <span class="name">Alberto</span> (<span class="case">dat</span>) <a href="../cite/Alberto/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">219</span></a>;
+ <span class="date">1290</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>;
+ <span class="date">1291</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1291/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a>;
+ <span class="date">1292</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">39</span></a>;
+ <span class="date">1294</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">49</span></a>;
+ <span class="date">1296</span> <span class="name">Alberto</span> (<span class="case">dat</span>) <a href="../cite/Alberto/1296/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">258</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1296/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">67</span></a>;
+ <span class="date">1297</span> <span class="name">Alberto</span> (<span class="case">dat</span>) <a href="../cite/Alberto/1297/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">83</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1297/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">73</span></a>;
+ <span class="date">1299</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1299/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">88</span></a>;
+ <span class="date">1300</span> <span class="name">Alberto</span> (<span class="case">dat</span>) <a href="../cite/Alberto/1300/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">418</span></a>;
+ <span class="date">1301</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1301/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">90</span></a>;
+ <span class="date">1302</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1302/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">92</span></a>;
+ <span class="date">1303</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1303/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">96</span></a>;
+ <span class="date">1305</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1305/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a>;
+ <span class="date">1307</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1307/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">107</span></a>;
+ <span class="date">1319</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1319/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">114</span></a>;
+ <span class="date">1337</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1337/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">119</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1467</span> <span class="name">Albrecht</span> <a href="../cite/Albrecht/1467/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 7</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1235</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1235/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1268</span> <span class="name">alberti</span> (<span class="case">gen</span>) <a href="../cite/alberti/1268/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 295</span></a>;
+ <span class="date">1274</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1274/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 295</span></a>;
+ <span class="date">1349</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1349/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 300</span></a>;
+ <span class="date">1356</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1356/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1380</span> <span class="name">Albert</span> (<span class="case">nom</span>) <a href="../cite/Albert/1380/GesOIJ-4"><span class="bib_key">GesOIJ-4</span> <span class="bib_loc">p. 186</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1228</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1228/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">p. 81</span></a>;
+ <span class="date">1232</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1232/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">87</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1333</span> <span class="name">Apeczen</span> <a href="../cite/Apeczen/1333/SBGlatzer"><span class="bib_key">SBGlatzer</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1336x1337</span> <span class="name">Apeczko</span> <a href="../cite/Apeczko/1336x1337/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1152</span> <span class="name">Alberto</span> (<span class="case">nom</span>) <a href="../cite/Alberto/1152/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 3</span></a>;
+ <span class="date">1179</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1179/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 4</span></a>;
+ <span class="date">1179x1211</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1179x1211/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 5</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1019</span> <span class="name">Adalbert</span> (<span class="case">nom</span>) <a href="../cite/Adalbert/1019/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCLXXIV</span></a>,
+ <span class="name">Adalbret</span> (<span class="case">nom</span>) <a href="../cite/Adalbret/1019/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXIV</span></a>;
+ <span class="date">1192</span> <span class="name">Adalberti</span> (<span class="case">gen</span>) <a href="../cite/Adalberti/1192/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVIII</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Albert</span> <a href="../cite/Albert/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">664</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1351</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1351/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6012</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1375</span> <span class="name">Albert</span> <a href="../cite/Albert/1375/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 10637</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Albrecht</span> <a href="../cite/Albrecht/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1898</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1154</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1154/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">5</span></a>,
+ <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1154/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1155</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1155/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1163</span> <span class="name">Alberto</span> (<span class="case">dat</span>) <a href="../cite/Alberto/1163/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1170</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1170/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>;
+ <span class="date">1195</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1195/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1215</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1215/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">33</span></a>;
+ <span class="date">14thCx1478</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(219)</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1469</span> <span class="name">Alberti</span> (<span class="case">gen</span>) <a href="../cite/Alberti/1469/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">30</span></a>,
+ <span class="name">Alberto</span> (<span class="case">abl</span>) <a href="../cite/Alberto/1469/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1480</span> <span class="name">Albertus</span> (<span class="case">nom</span>) <a href="../cite/Albertus/1480/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">CIX-1316</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, R. Le Get, J. Uckelman, S.L. Uckelman. "Albert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Albert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

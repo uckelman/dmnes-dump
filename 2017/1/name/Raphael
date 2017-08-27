@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Raphael</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Raphael</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>רָפָאֵל</i> 'God has healed'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of one of the four archangels. Wycliffite Bible (1395): <i>Raphael</i>.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Raphael</span> <a href="../cite/Raphael/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 338</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1573</span> <span class="name">Raphaell</span> <a href="../cite/Raphaell/1573/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 40</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1579</span> <span class="name">Raphael</span> (<span class="case">abl</span>) <a href="../cite/Raphael/1579/FlorLyon"><span class="bib_key">FlorLyon</span> <span class="bib_loc">p. 40</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1566</span> <span class="name">Raphaël</span> <a href="../cite/Raphaël/1566/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 275</span></a>;
+ <span class="date">1567</span> <span class="name">Raphaël</span> <a href="../cite/Raphaël/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 280</span></a>;
+ <span class="date">1568</span> <span class="name">Raphaël</span> <a href="../cite/Raphaël/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 409</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1394</span> <span class="name">Raphaelis</span> (<span class="case">gen</span>) <a href="../cite/Raphaelis/1394/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 175</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Raphael</span> <a href="../cite/Raphael/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">214</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Raffael</span> (<span class="case">abl</span>) <a href="../cite/Raffael/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Raffaele</span> (<span class="case">abl</span>) <a href="../cite/Raffaele/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Raffaelis</span> (<span class="case">gen</span>) <a href="../cite/Raffaelis/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 214</span></a>;
+ <span class="date">1450</span> <span class="name">Rafaellem</span> (<span class="case">acc</span>) <a href="../cite/Rafaellem/1450/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">XI</span></a>;
+ <span class="date">1464</span> <span class="name">Rafael</span> (<span class="case">nom</span>) <a href="../cite/Rafael/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>,
+ <span class="name">Raffael</span> (<span class="case">nom</span>) <a href="../cite/Raffael/1464/CUP-III-I"><span class="bib_key">ibid.</span> <span class="bib_loc">CCXXXI</span></a>,
+ <span class="name">Raffaël</span> (<span class="case">nom</span>) <a href="../cite/Raffaël/1464/CUP-III-I"><span class="bib_key">ibid.</span> <span class="bib_loc">CCXXXI</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1376</span> <span class="name">Raffo</span> (<span class="case">abl</span>) <a href="../cite/Raffo/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 29</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1487</span> <span class="name">Raphaelis</span> (<span class="case">gen</span>) <a href="../cite/Raphaelis/1487/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1488</span> <span class="name">Raphael</span> (<span class="case">nom</span>) <a href="../cite/Raphael/1488/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Raphaelis</span> (<span class="case">gen</span>) <a href="../cite/Raphaelis/1488/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1490</span> <span class="name">Raphael</span> (<span class="case">nom</span>) <a href="../cite/Raphael/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>,
+ <span class="name">Raphaelis</span> (<span class="case">gen</span>) <a href="../cite/Raphaelis/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1492</span> <span class="name">Raphael</span> (<span class="case">nom</span>) <a href="../cite/Raphael/1492/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a>,
+ <span class="name">Raphaelis</span> (<span class="case">gen</span>) <a href="../cite/Raphaelis/1492/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 67</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Rafel</span> <a href="../cite/Rafel/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">1627</span></a>,
+ <span class="name">Raphel</span> <a href="../cite/Raphel/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3737</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1469</span> <span class="name">Raphael</span> (<span class="case">nom</span>) <a href="../cite/Raphael/1469/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">35</span></a>,
+ <span class="name">Raphaelem</span> (<span class="case">acc</span>) <a href="../cite/Raphaelem/1469/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">I-2</span></a>,
+ <span class="name">Raphaeli</span> (<span class="case">dat</span>) <a href="../cite/Raphaeli/1469/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">I-2</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Raphael". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Raphael.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Sighard</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Sighard</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>sigu</i> 'victory' + <span class="lang">Old Saxon</span> <i>hard</i>, <span class="lang">Old High German</span> <i>hart</i> 'strong, hard'.
+</span>
+  
+</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">928</span> <span class="name">Sigihart</span> (<span class="case">nom</span>) <a href="../cite/Sigihart/928/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">18</span></a>;
+ <span class="date">930</span> <span class="name">Sigihart</span> (<span class="case">nom</span>) <a href="../cite/Sigihart/930/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">931</span> <span class="name">Sigihart</span> (<span class="case">nom</span>) <a href="../cite/Sigihart/931/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">20</span></a>;
+ <span class="date">c1030</span> <span class="name">Sigihardo</span> (<span class="case">dat</span>) <a href="../cite/Sigihardo/c1030/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>,
+ <span class="name">Sigihardum</span> (<span class="case">acc</span>) <a href="../cite/Sigihardum/c1030/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>,
+ <span class="name">Sigihardus</span> (<span class="case">nom</span>) <a href="../cite/Sigihardus/c1030/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>;
+ <span class="date">1074x1087</span> <span class="name">Sighart</span> (<span class="case">nom</span>) <a href="../cite/Sighart/1074x1087/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">77</span></a>;
+ <span class="date">c1075</span> <span class="name">Sigihart</span> (<span class="case">nom</span>) <a href="../cite/Sigihart/c1075/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">c1115</span> <span class="name">Sighart</span> (<span class="case">nom</span>) <a href="../cite/Sighart/c1115/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">101</span></a>;
+ <span class="date">1124</span> <span class="name">Sighardi</span> (<span class="case">gen</span>) <a href="../cite/Sighardi/1124/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">110</span></a>,
+ <span class="name">Sighardus</span> (<span class="case">nom</span>) <a href="../cite/Sighardus/1124/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">110</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Sichardus</span> (<span class="case">nom</span>) <a href="../cite/Sichardus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">9, Palatiolum</span></a>;
+ <span class="date">1273</span> <span class="name">Sicardus</span> (<span class="case">nom</span>) <a href="../cite/Sicardus/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1274</span> <span class="name">Cicardum</span> (<span class="case">acc</span>) <a href="../cite/Cicardum/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>,
+ <span class="name">Sicardus</span> (<span class="case">nom</span>) <a href="../cite/Sicardus/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1378</span> <span class="name">Sicardus</span> (<span class="case">nom</span>) <a href="../cite/Sicardus/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">2503</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1421</span> <span class="name">Sicart</span> <a href="../cite/Sicart/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1213</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Sigardo</span> (<span class="case">abl</span>) <a href="../cite/Sigardo/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§115</span></a>;
+ <span class="date">925</span> <span class="name">Sigihart</span> (<span class="case">nom</span>) <a href="../cite/Sigihart/925/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">14</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Sighard". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Sighard.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

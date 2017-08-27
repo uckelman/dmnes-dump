@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Eugene</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Eugene</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Ancient Greek</span> <i>εὖ</i> 'well' + <span class="lang">Ancient Greek</span> <i>γένος</i> 'race, stock, kin, family'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 4th C saint, a 5th C prince of North Wales, a 7th C pope and saint, a 7th C Brittonic ruler, an 8th C Brittonic ruler, a 9th C pope, a 10th C king of Strathclyde, an 11th C king of Strathclyde, a 12th C pope, a 12th C king of Gwynedd, a 12th C prince of Powys, a 13th C king of Gwynedd, a 15th C prince of Wales, and a 15th C pope.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name was adopted into Old Welsh as <i>Ou(u)ein</i> or <i>Eug(u)ein</i>; this was the name a 6th C son of a king of Rheged who became the basis for a knight of the Round Table and son of King Urien in Arthurian legend.  The popularity of Arthurian legend cycles in France contributed to the use of <i>Yvain</i>, the Old French form of the name.  However, the connection between <i>Owen</i> and <i>Eugene</i> is sometimes disputed.
+  
+In Ireland, <i>Eugene</i> and <i>Eugenius</i> were used as anglicizations or latinizations of <i>Eoghan</i> and <i>Echmhílidh</i>.</p>
+<p></p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1485–1486</span> <span class="name">Owen</span> (<span class="case">abl</span>) <a href="../cite/Owen/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 74</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1531</span> <span class="name">Owen</span> <a href="../cite/Owen/1531/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1532–1533</span> <span class="name">Owen</span> <a href="../cite/Owen/1532–1533/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 117</span></a>;
+ <span class="date">1534</span> <span class="name">Owyn</span> <a href="../cite/Owyn/1534/CovGuild-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 136</span></a>;
+ <span class="date">1555</span> <span class="name">Owen</span> <a href="../cite/Owen/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1558</span> <span class="name">Owen</span> <a href="../cite/Owen/1558/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1558/9</span> <span class="name">Owen</span> <a href="../cite/Owen/1558s9/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1559</span> <span class="name">Owen</span> <a href="../cite/Owen/1559/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1560</span> <span class="name">Owen</span> <a href="../cite/Owen/1560/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1560/1</span> <span class="name">Owen</span> <a href="../cite/Owen/1560s1/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1562</span> <span class="name">Owyen</span> <a href="../cite/Owyen/1562/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1568</span> <span class="name">Owen</span> <a href="../cite/Owen/1568/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1578</span> <span class="name">Owen</span> <a href="../cite/Owen/1578/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1583</span> <span class="name">Owin</span> <a href="../cite/Owin/1583/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1585</span> <span class="name">Owen</span> <a href="../cite/Owen/1585/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>,
+ <a href="../cite/Owen/1585/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1588</span> <span class="name">Owen</span> <a href="../cite/Owen/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1593</span> <span class="name">Owin</span> <a href="../cite/Owin/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1594</span> <span class="name">Owen</span> <a href="../cite/Owen/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1598</span> <span class="name">Owen</span> <a href="../cite/Owen/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1146</span> <span class="name">Eugenii</span> (<span class="case">gen</span>) <a href="../cite/Eugenii/1146/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">VIII</span></a>,
+ <span class="name">Eugenius</span> (<span class="case">nom</span>) <a href="../cite/Eugenius/1146/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1147</span> <span class="name">Eugenii</span> (<span class="case">gen</span>) <a href="../cite/Eugenii/1147/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXV</span></a>;
+ <span class="date">1148</span> <span class="name">Eugenio</span> (<span class="case">abl</span>) <a href="../cite/Eugenio/1148/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIV</span></a>,
+ <span class="name">Eugenius</span> (<span class="case">nom</span>) <a href="../cite/Eugenius/1148/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIV</span></a>;
+ <span class="date">1378</span> <span class="name">Ywano</span> (<span class="case">dat</span>) <a href="../cite/Ywano/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">948</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1303</span> <span class="name">Evens</span> (<span class="case">nom</span>) <a href="../cite/Evens/1303/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 151</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Yvain</span> <a href="../cite/Yvain/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 610</span></a>;
+ <span class="date">1415[1469x1471]</span> <span class="name">Yvain</span> <a href="../cite/Yvain/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 226</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1433</span> <span class="name">Eugenii</span> (<span class="case">gen</span>) <a href="../cite/Eugenii/1433/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">112</span></a>,
+ <span class="name">Eugenio</span> (<span class="case">dat</span>) <a href="../cite/Eugenio/1433/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">61</span></a>;
+ <span class="date">1460</span> <span class="name">Eugenio</span> (<span class="case">dat</span>) <a href="../cite/Eugenio/1460/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1488</span> <span class="name">Eugenio</span> (<span class="case">abl</span>) <a href="../cite/Eugenio/1488/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1489</span> <span class="name">Eugenii</span> (<span class="case">gen</span>) <a href="../cite/Eugenii/1489/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">416</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1535</span> <span class="name">Owen</span> <a href="../cite/Owen/1535/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">48</span></a>;
+ <span class="date">1539/40</span> <span class="name">Eugene</span> <a href="../cite/Eugene/1539s40/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">655</span> <span class="name">eugenii</span> (<span class="case">gen</span>) <a href="../cite/eugenii/655/CartStBav"><span class="bib_key">CartStBav</span> <span class="bib_loc">1</span></a>,
+ <span class="name">eugenio</span> (<span class="case">abl</span>) <a href="../cite/eugenio/655/CartStBav"><span class="bib_key">ibid.</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1449</span> <span class="name">Eugenium</span> (<span class="case">acc</span>) <a href="../cite/Eugenium/1449/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">XII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1576</span> <span class="name">Eugenio</span> <a href="../cite/Eugenio/1576/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">4035</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1198</span> <span class="name">Owini</span> (<span class="case">gen</span>) <a href="../cite/Owini/1198/Pryce-1st"><span class="bib_key">Pryce-1st</span> <span class="bib_loc">no. 8</span></a>;
+ <span class="date">1452</span> <span class="name">Owen</span> (<span class="case">nom</span>) <a href="../cite/Owen/1452/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1453</span> <span class="name">Owen</span> (<span class="case">nom</span>) <a href="../cite/Owen/1453/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 70</span></a>;
+ <span class="date">1497</span> <span class="name">Owen</span> (<span class="case">nom</span>) <a href="../cite/Owen/1497/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 68</span></a>,
+ <span class="name">Owyn</span> (<span class="case">nom</span>) <a href="../cite/Owyn/1497/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1582</span> <span class="name">Owinus</span> (<span class="case">nom</span>) <a href="../cite/Owinus/1582/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 36</span></a></dd>
+<dt><span class="lang">Middle Welsh</span></dt>
+<dd><span class="dim">●</span> <span class="date">1142x1157</span> <span class="name">Owain</span> <a href="../cite/Owain/1142x1157/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 74</span></a></dd>
+<dt><span class="lang">Welsh</span></dt>
+<dd><span class="dim">●</span> <span class="date">1589</span> <span class="name">Owens</span> <a href="../cite/Owens/1589/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 56</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Eugene". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Eugene.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

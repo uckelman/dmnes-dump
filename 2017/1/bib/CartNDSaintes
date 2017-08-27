@@ -1,0 +1,778 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>CartNDSaintes</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>CartNDSaintes</dt>
+  <dd>Th. Grasilier, editor. <em>Cartulaires inédits de la Saintonge</em>, volume II: Cartulaire de l'Abbaye Royale de Notre-Dame de Saintes de l'Ordre de Saint-Benoit. : Niort: L. Clouzot, Librairire-éditeur, 1871.</dd>
+</dl>
+
+
+  <a href="../cite/Achardi/1067/CartNDSaintes">Achardi</a>
+
+  <a href="../cite/Achardi/1067x1086/CartNDSaintes">Achardi</a>
+
+  <a href="../cite/Achardi/1067x1074/CartNDSaintes">Achardi</a>
+
+  <a href="../cite/Adela/1079x81/CartNDSaintes">Adela</a>
+
+  <a href="../cite/Adelardo/1047x61/CartNDSaintes">Adelardo</a>
+
+  <a href="../cite/Ademaro/1067x1086/CartNDSaintes">Ademaro</a>
+
+  <a href="../cite/Ademarus/1067x1086/CartNDSaintes">Ademarus</a>
+
+  <a href="../cite/Aelith/1146/CartNDSaintes">Aelith</a>
+
+  <a href="../cite/Aelith/1167/CartNDSaintes">Aelith</a>
+
+  <a href="../cite/Aelith/1153/CartNDSaintes">Aelith</a>
+
+  <a href="../cite/Agnes/1061/CartNDSaintes">Agnes</a>
+
+  <a href="../cite/Agnes/1049/CartNDSaintes">Agnes</a>
+
+  <a href="../cite/Agnes/1131/CartNDSaintes">Agnes</a>
+
+  <a href="../cite/Agnes/1047/CartNDSaintes">Agnes</a>
+
+  <a href="../cite/Agnes/1147/CartNDSaintes">Agnes</a>
+
+  <a href="../cite/Agnes/1148/CartNDSaintes">Agnes</a>
+
+  <a href="../cite/Agnes/1095/CartNDSaintes">Agnes</a>
+
+  <a href="../cite/Agnes/1067/CartNDSaintes">Agnes</a>
+
+  <a href="../cite/Agnete/1067/CartNDSaintes">Agnete</a>
+
+  <a href="../cite/Agnete/1061/CartNDSaintes">Agnete</a>
+
+  <a href="../cite/Agnete/1131/CartNDSaintes">Agnete</a>
+
+  <a href="../cite/Agnete/1047/CartNDSaintes">Agnete</a>
+
+  <a href="../cite/Agneti/1146/CartNDSaintes">Agneti</a>
+
+  <a href="../cite/Agneti/1167/CartNDSaintes">Agneti</a>
+
+  <a href="../cite/Agneti/1141/CartNDSaintes">Agneti</a>
+
+  <a href="../cite/Agneti/1153/CartNDSaintes">Agneti</a>
+
+  <a href="../cite/Agnetis/1047/CartNDSaintes">Agnetis</a>
+
+  <a href="../cite/Agnetis/1067/CartNDSaintes">Agnetis</a>
+
+  <a href="../cite/Agnetis/1060/CartNDSaintes">Agnetis</a>
+
+  <a href="../cite/Agnetis/1131/CartNDSaintes">Agnetis</a>
+
+  <a href="../cite/Aimari/1067x1086/CartNDSaintes">Aimari</a>
+
+  <a href="../cite/Aimarus/1067x1074/CartNDSaintes">Aimarus</a>
+
+  <a href="../cite/Aimarus/1067x1086/CartNDSaintes">Aimarus</a>
+
+  <a href="../cite/Aimerici/1047/CartNDSaintes">Aimerici</a>
+
+  <a href="../cite/Aimerici/1060/CartNDSaintes">Aimerici</a>
+
+  <a href="../cite/Aimericus/1067x1086/CartNDSaintes">Aimericus</a>
+
+  <a href="../cite/Aimo/1047/CartNDSaintes">Aimo</a>
+
+  <a href="../cite/Airaldus/1067x1086/CartNDSaintes">Airaldus</a>
+
+  <a href="../cite/Airardi/1047/CartNDSaintes">Airardi</a>
+
+  <a href="../cite/Albericus/1146/CartNDSaintes">Albericus</a>
+
+  <a href="../cite/Albericus/1141/CartNDSaintes">Albericus</a>
+
+  <a href="../cite/Albertus/1148/CartNDSaintes">Albertus</a>
+
+  <a href="../cite/Albertus/1147/CartNDSaintes">Albertus</a>
+
+  <a href="../cite/Alboini/1047/CartNDSaintes">Alboini</a>
+
+  <a href="../cite/Albuinus/1067/CartNDSaintes">Albuinus</a>
+
+  <a href="../cite/Aldeberti/1067/CartNDSaintes">Aldeberti</a>
+
+  <a href="../cite/Aldebertus/1079x1081/CartNDSaintes">Aldebertus</a>
+
+  <a href="../cite/Alduinus/1047x61/CartNDSaintes">Alduinus</a>
+
+  <a href="../cite/Aleaidis/1148/CartNDSaintes">Aleaidis</a>
+
+  <a href="../cite/Alexander/1167/CartNDSaintes">Alexander</a>
+
+  <a href="../cite/Alexandri/1167/CartNDSaintes">Alexandri</a>
+
+  <a href="../cite/Alexandri/1067/CartNDSaintes">Alexandri</a>
+
+  <a href="../cite/Alienorde/1141/CartNDSaintes">Alienorde</a>
+
+  <a href="../cite/Alienorde/1146/CartNDSaintes">Alienorde</a>
+
+  <a href="../cite/Alienorde/1153/CartNDSaintes">Alienorde</a>
+
+  <a href="../cite/Alienordis/1153/CartNDSaintes">Alienordis</a>
+
+  <a href="../cite/Alienordis/1167/CartNDSaintes">Alienordis</a>
+
+  <a href="../cite/Alienordis/1146/CartNDSaintes">Alienordis</a>
+
+  <a href="../cite/Alo/1067/CartNDSaintes">Alo</a>
+
+  <a href="../cite/Amato/1131/CartNDSaintes">Amato</a>
+
+  <a href="../cite/Amblardo/1131/CartNDSaintes">Amblardo</a>
+
+  <a href="../cite/Amblardus/1067/CartNDSaintes">Amblardus</a>
+
+  <a href="../cite/Anastasii/1153/CartNDSaintes">Anastasii</a>
+
+  <a href="../cite/Anastasius/1153/CartNDSaintes">Anastasius</a>
+
+  <a href="../cite/Archembaudus/1047/CartNDSaintes">Archembaudus</a>
+
+  <a href="../cite/Aremburgi/1131/CartNDSaintes">Aremburgi</a>
+
+  <a href="../cite/Aribertus/1153/CartNDSaintes">Aribertus</a>
+
+  <a href="../cite/Arnaldus/1047x1061/CartNDSaintes">Arnaldus</a>
+
+  <a href="../cite/Arnaldus/1067/CartNDSaintes">Arnaldus</a>
+
+  <a href="../cite/Arnaldus&#32;Willelmus/1131/CartNDSaintes">Arnaldus Willelmus</a>
+
+  <a href="../cite/Arnaudi/1148/CartNDSaintes">Arnaudi</a>
+
+  <a href="../cite/Arnaudi/1047/CartNDSaintes">Arnaudi</a>
+
+  <a href="../cite/Arnaudo/1147/CartNDSaintes">Arnaudo</a>
+
+  <a href="../cite/Arnaudus/1079x1081/CartNDSaintes">Arnaudus</a>
+
+  <a href="../cite/Arnulfus/1047/CartNDSaintes">Arnulfus</a>
+
+  <a href="../cite/Arnulfus/1067/CartNDSaintes">Arnulfus</a>
+
+  <a href="../cite/Arsendi/1095/CartNDSaintes">Arsendi</a>
+
+  <a href="../cite/Arsendi/1079x1081/CartNDSaintes">Arsendi</a>
+
+  <a href="../cite/Arsendi/1131/CartNDSaintes">Arsendi</a>
+
+  <a href="../cite/Arsendis/1095/CartNDSaintes">Arsendis</a>
+
+  <a href="../cite/Artaldus/1067/CartNDSaintes">Artaldus</a>
+
+  <a href="../cite/Audeberti/1131/CartNDSaintes">Audeberti</a>
+
+  <a href="../cite/Audebertus/1131/CartNDSaintes">Audebertus</a>
+
+  <a href="../cite/Audoini/1047/CartNDSaintes">Audoini</a>
+
+  <a href="../cite/Azonis/1047/CartNDSaintes">Azonis</a>
+
+  <a href="../cite/Basilius/1067/CartNDSaintes">Basilius</a>
+
+  <a href="../cite/Benedicti/1060/CartNDSaintes">Benedicti</a>
+
+  <a href="../cite/Benedictus/1067x1074/CartNDSaintes">Benedictus</a>
+
+  <a href="../cite/Benedictus/1047x1061/CartNDSaintes">Benedictus</a>
+
+  <a href="../cite/Beraudo/1131/CartNDSaintes">Beraudo</a>
+
+  <a href="../cite/Bermundus/1047x1061/CartNDSaintes">Bermundus</a>
+
+  <a href="../cite/Bernardi/1047/CartNDSaintes">Bernardi</a>
+
+  <a href="../cite/Bernardo/1148/CartNDSaintes">Bernardo</a>
+
+  <a href="../cite/Bernardo/1147/CartNDSaintes">Bernardo</a>
+
+  <a href="../cite/Bernardo/1067x1086/CartNDSaintes">Bernardo</a>
+
+  <a href="../cite/Bernardus/1067x1086/CartNDSaintes">Bernardus</a>
+
+  <a href="../cite/Bernardus/1148/CartNDSaintes">Bernardus</a>
+
+  <a href="../cite/Bernardus/1167/CartNDSaintes">Bernardus</a>
+
+  <a href="../cite/Bernardus/1147/CartNDSaintes">Bernardus</a>
+
+  <a href="../cite/Bernardus/1079x1081/CartNDSaintes">Bernardus</a>
+
+  <a href="../cite/Bernardus/1047x1061/CartNDSaintes">Bernardus</a>
+
+  <a href="../cite/Bertrandus/1067x1074/CartNDSaintes">Bertrandus</a>
+
+  <a href="../cite/Bertrandus/1067/CartNDSaintes">Bertrandus</a>
+
+  <a href="../cite/Bertrandus/1067x1086/CartNDSaintes">Bertrandus</a>
+
+  <a href="../cite/Bona/1047x1061/CartNDSaintes">Bona</a>
+
+  <a href="../cite/Bonetus/1067x74/CartNDSaintes">Bonetus</a>
+
+  <a href="../cite/Boso/1079x1081/CartNDSaintes">Boso</a>
+
+  <a href="../cite/Boso/1167/CartNDSaintes">Boso</a>
+
+  <a href="../cite/Bosone/1079x1081/CartNDSaintes">Bosone</a>
+
+  <a href="../cite/Bosone/1131/CartNDSaintes">Bosone</a>
+
+  <a href="../cite/Bosoni/1131/CartNDSaintes">Bosoni</a>
+
+  <a href="../cite/Calixti/1119/CartNDSaintes">Calixti</a>
+
+  <a href="../cite/Calixtus/1119/CartNDSaintes">Calixtus</a>
+
+  <a href="../cite/Cinthus/1167/CartNDSaintes">Cinthus</a>
+
+  <a href="../cite/Constancia/1047x1061/CartNDSaintes">Constancia</a>
+
+  <a href="../cite/Constancius/1067x1086/CartNDSaintes">Constancius</a>
+
+  <a href="../cite/Constancius/1067x1074/CartNDSaintes">Constancius</a>
+
+  <a href="../cite/Constantia/1047x1061/CartNDSaintes">Constantia</a>
+
+  <a href="../cite/Constantinus/1131/CartNDSaintes">Constantinus</a>
+
+  <a href="../cite/Constantinus/1067/CartNDSaintes">Constantinus</a>
+
+  <a href="../cite/Cuonrardus/1167/CartNDSaintes">Cuonrardus</a>
+
+  <a href="../cite/Ema/1131/CartNDSaintes">Ema</a>
+
+  <a href="../cite/Ernaldus/1047x1061/CartNDSaintes">Ernaldus</a>
+
+  <a href="../cite/Eugenii/1146/CartNDSaintes">Eugenii</a>
+
+  <a href="../cite/Eugenii/1147/CartNDSaintes">Eugenii</a>
+
+  <a href="../cite/Eugenio/1148/CartNDSaintes">Eugenio</a>
+
+  <a href="../cite/Eugenius/1146/CartNDSaintes">Eugenius</a>
+
+  <a href="../cite/Eugenius/1148/CartNDSaintes">Eugenius</a>
+
+  <a href="../cite/Franconis/1047/CartNDSaintes">Franconis</a>
+
+  <a href="../cite/Franconis/1047x1061/CartNDSaintes">Franconis</a>
+
+  <a href="../cite/Franquelinus/1047x1061/CartNDSaintes">Franquelinus</a>
+
+  <a href="../cite/Frederici/1047/CartNDSaintes">Frederici</a>
+
+  <a href="../cite/Frotmundus/1067x1086/CartNDSaintes">Frotmundus</a>
+
+  <a href="../cite/Fucaudi/1047/CartNDSaintes">Fucaudi</a>
+
+  <a href="../cite/Fulcaldo/1147/CartNDSaintes">Fulcaldo</a>
+
+  <a href="../cite/Fulchardi/1047/CartNDSaintes">Fulchardi</a>
+
+  <a href="../cite/Fulcone/1147/CartNDSaintes">Fulcone</a>
+
+  <a href="../cite/Fulconis/1047/CartNDSaintes">Fulconis</a>
+
+  <a href="../cite/Fulconis/1047x1061/CartNDSaintes">Fulconis</a>
+
+  <a href="../cite/Galterii/1047/CartNDSaintes">Galterii</a>
+
+  <a href="../cite/Garnerius/1067x1074/CartNDSaintes">Garnerius</a>
+
+  <a href="../cite/Garnerius/1067/CartNDSaintes">Garnerius</a>
+
+  <a href="../cite/Gaufredus/1079x1081/CartNDSaintes">Gaufredus</a>
+
+  <a href="../cite/Gaufridi/1148/CartNDSaintes">Gaufridi</a>
+
+  <a href="../cite/Gaufridi/1047x1061/CartNDSaintes">Gaufridi</a>
+
+  <a href="../cite/Gaufridi/1067/CartNDSaintes">Gaufridi</a>
+
+  <a href="../cite/Gaufrido/1153/CartNDSaintes">Gaufrido</a>
+
+  <a href="../cite/Gaufrido/1146/CartNDSaintes">Gaufrido</a>
+
+  <a href="../cite/Gaufrido/1167/CartNDSaintes">Gaufrido</a>
+
+  <a href="../cite/Gaufridum/1067/CartNDSaintes">Gaufridum</a>
+
+  <a href="../cite/Gaufridus/1067/CartNDSaintes">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1047x1061/CartNDSaintes">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1147/CartNDSaintes">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1067x1074/CartNDSaintes">Gaufridus</a>
+
+  <a href="../cite/Gauterii/1060/CartNDSaintes">Gauterii</a>
+
+  <a href="../cite/Gauterius/1067/CartNDSaintes">Gauterius</a>
+
+  <a href="../cite/Gauterius/1047x1061/CartNDSaintes">Gauterius</a>
+
+  <a href="../cite/Geraldus/1047/CartNDSaintes">Geraldus</a>
+
+  <a href="../cite/Geraldus/1067x1086/CartNDSaintes">Geraldus</a>
+
+  <a href="../cite/Gerardi/1141/CartNDSaintes">Gerardi</a>
+
+  <a href="../cite/Gerardi/1167/CartNDSaintes">Gerardi</a>
+
+  <a href="../cite/Gerardus/1153/CartNDSaintes">Gerardus</a>
+
+  <a href="../cite/Gilberti/1047/CartNDSaintes">Gilberti</a>
+
+  <a href="../cite/Giraldus/1047x1061/CartNDSaintes">Giraldus</a>
+
+  <a href="../cite/Goffredi/1047/CartNDSaintes">Goffredi</a>
+
+  <a href="../cite/Goffredi/1060/CartNDSaintes">Goffredi</a>
+
+  <a href="../cite/Goffredus/1095/CartNDSaintes">Goffredus</a>
+
+  <a href="../cite/Goffridi/1047/CartNDSaintes">Goffridi</a>
+
+  <a href="../cite/Goffrido/1047/CartNDSaintes">Goffrido</a>
+
+  <a href="../cite/Goffrido/1061/CartNDSaintes">Goffrido</a>
+
+  <a href="../cite/Goffridus/1061/CartNDSaintes">Goffridus</a>
+
+  <a href="../cite/Goffridus/1067/CartNDSaintes">Goffridus</a>
+
+  <a href="../cite/Goffridus/1047/CartNDSaintes">Goffridus</a>
+
+  <a href="../cite/Goffridus/1049/CartNDSaintes">Goffridus</a>
+
+  <a href="../cite/Goscelini/1067/CartNDSaintes">Goscelini</a>
+
+  <a href="../cite/Goscelini/1067x1086/CartNDSaintes">Goscelini</a>
+
+  <a href="../cite/Goscelino/1131/CartNDSaintes">Goscelino</a>
+
+  <a href="../cite/Goscelinus/1067x1074/CartNDSaintes">Goscelinus</a>
+
+  <a href="../cite/Gosleni/1047/CartNDSaintes">Gosleni</a>
+
+  <a href="../cite/Gregorio/1079x1081/CartNDSaintes">Gregorio</a>
+
+  <a href="../cite/Gregorius/1141/CartNDSaintes">Gregorius</a>
+
+  <a href="../cite/Gregorius/1146/CartNDSaintes">Gregorius</a>
+
+  <a href="../cite/Gualterius/1167/CartNDSaintes">Gualterius</a>
+
+  <a href="../cite/Guibbertus/1067x74/CartNDSaintes">Guibbertus</a>
+
+  <a href="../cite/Guido/1146/CartNDSaintes">Guido</a>
+
+  <a href="../cite/Guido/1141/CartNDSaintes">Guido</a>
+
+  <a href="../cite/Guido/1067/CartNDSaintes">Guido</a>
+
+  <a href="../cite/Guido/1153/CartNDSaintes">Guido</a>
+
+  <a href="../cite/Guido&#32;Gaufridus/1067/CartNDSaintes">Guido Gaufridus</a>
+
+  <a href="../cite/Guidone/1067x1074/CartNDSaintes">Guidone</a>
+
+  <a href="../cite/Guidoni/1067/CartNDSaintes">Guidoni</a>
+
+  <a href="../cite/Guidonis/1067x1086/CartNDSaintes">Guidonis</a>
+
+  <a href="../cite/Guidonis/1067/CartNDSaintes">Guidonis</a>
+
+  <a href="../cite/Guilielmi/1095/CartNDSaintes">Guilielmi</a>
+
+  <a href="../cite/Guillelmus/1067/CartNDSaintes">Guillelmus</a>
+
+  <a href="../cite/Gulfrannus/1067/CartNDSaintes">Gulfrannus</a>
+
+  <a href="../cite/Gumbaudi/1047/CartNDSaintes">Gumbaudi</a>
+
+  <a href="../cite/Gunterio/1067x1086/CartNDSaintes">Gunterio</a>
+
+  <a href="../cite/Heenrici/1060/CartNDSaintes">Heenrici</a>
+
+  <a href="../cite/Helia/1079x1081/CartNDSaintes">Helia</a>
+
+  <a href="../cite/Helia/1131/CartNDSaintes">Helia</a>
+
+  <a href="../cite/Helia/1067x1074/CartNDSaintes">Helia</a>
+
+  <a href="../cite/Helias/1131/CartNDSaintes">Helias</a>
+
+  <a href="../cite/Helias/1079x1081/CartNDSaintes">Helias</a>
+
+  <a href="../cite/Helias/1067x1074/CartNDSaintes">Helias</a>
+
+  <a href="../cite/Helie/1047/CartNDSaintes">Helie</a>
+
+  <a href="../cite/Helie/1131/CartNDSaintes">Helie</a>
+
+  <a href="../cite/Helie/1067x1074/CartNDSaintes">Helie</a>
+
+  <a href="../cite/Helie/1067x1086/CartNDSaintes">Helie</a>
+
+  <a href="../cite/Helie/1067/CartNDSaintes">Helie</a>
+
+  <a href="../cite/Helie/1060/CartNDSaintes">Helie</a>
+
+  <a href="../cite/Henricus/1153/CartNDSaintes">Henricus</a>
+
+  <a href="../cite/Herbertus/1067x1074/CartNDSaintes">Herbertus</a>
+
+  <a href="../cite/Heremburgis/1060/CartNDSaintes">Heremburgis</a>
+
+  <a href="../cite/Hernaldus/1047x1061/CartNDSaintes">Hernaldus</a>
+
+  <a href="../cite/Hilgerius/1047x1061/CartNDSaintes">Hilgerius</a>
+
+  <a href="../cite/Himberti/1060/CartNDSaintes">Himberti</a>
+
+  <a href="../cite/Himbertus/1067/CartNDSaintes">Himbertus</a>
+
+  <a href="../cite/Holivere/1060/CartNDSaintes">Holivere</a>
+
+  <a href="../cite/Hubaldus/1167/CartNDSaintes">Hubaldus</a>
+
+  <a href="../cite/Hugo/1047/CartNDSaintes">Hugo</a>
+
+  <a href="../cite/Hugo/1167/CartNDSaintes">Hugo</a>
+
+  <a href="../cite/Hugo/1153/CartNDSaintes">Hugo</a>
+
+  <a href="../cite/Hugonis/1146/CartNDSaintes">Hugonis</a>
+
+  <a href="../cite/Hugonis/1153/CartNDSaintes">Hugonis</a>
+
+  <a href="../cite/Humberti/1061/CartNDSaintes">Humberti</a>
+
+  <a href="../cite/Iacinthus/1153/CartNDSaintes">Iacinthus</a>
+
+  <a href="../cite/Iacinthus/1167/CartNDSaintes">Iacinthus</a>
+
+  <a href="../cite/Iheronimus/1167/CartNDSaintes">Iheronimus</a>
+
+  <a href="../cite/Ildebertus/1047x1061/CartNDSaintes">Ildebertus</a>
+
+  <a href="../cite/Imarus/1146/CartNDSaintes">Imarus</a>
+
+  <a href="../cite/Innocencius/1141/CartNDSaintes">Innocencius</a>
+
+  <a href="../cite/Innocentii/1141/CartNDSaintes">Innocentii</a>
+
+  <a href="../cite/Innocentius/1141/CartNDSaintes">Innocentius</a>
+
+  <a href="../cite/Isemberti/1047/CartNDSaintes">Isemberti</a>
+
+  <a href="../cite/Isemberto/1131/CartNDSaintes">Isemberto</a>
+
+  <a href="../cite/Isembertus/1067/CartNDSaintes">Isembertus</a>
+
+  <a href="../cite/Isenbardus/1067/CartNDSaintes">Isenbardus</a>
+
+  <a href="../cite/Jammo/1067x1086/CartNDSaintes">Jammo</a>
+
+  <a href="../cite/Johannes/1067x1074/CartNDSaintes">Johannes</a>
+
+  <a href="../cite/Johannes/1167/CartNDSaintes">Johannes</a>
+
+  <a href="../cite/Johannis/1095/CartNDSaintes">Johannis</a>
+
+  <a href="../cite/Johannis/1047/CartNDSaintes">Johannis</a>
+
+  <a href="../cite/Johannis/1047x1061/CartNDSaintes">Johannis</a>
+
+  <a href="../cite/Joscelini/1047/CartNDSaintes">Joscelini</a>
+
+  <a href="../cite/Joscelino/1079x1081/CartNDSaintes">Joscelino</a>
+
+  <a href="../cite/Julius/1153/CartNDSaintes">Julius</a>
+
+  <a href="../cite/Laurentio/1147/CartNDSaintes">Laurentio</a>
+
+  <a href="../cite/Leo/1049/CartNDSaintes">Leo</a>
+
+  <a href="../cite/Leocretia/1079x1081/CartNDSaintes">Leocretia</a>
+
+  <a href="../cite/Leodegarius/1067/CartNDSaintes">Leodegarius</a>
+
+  <a href="../cite/Lodoico/1141/CartNDSaintes">Lodoico</a>
+
+  <a href="../cite/Lodovico/1167/CartNDSaintes">Lodovico</a>
+
+  <a href="../cite/Lodovico/1153/CartNDSaintes">Lodovico</a>
+
+  <a href="../cite/Lodovico/1146/CartNDSaintes">Lodovico</a>
+
+  <a href="../cite/Ludovico/1147/CartNDSaintes">Ludovico</a>
+
+  <a href="../cite/Ludovico/1131/CartNDSaintes">Ludovico</a>
+
+  <a href="../cite/Ludovico/1148/CartNDSaintes">Ludovico</a>
+
+  <a href="../cite/Macelino/1047/CartNDSaintes">Macelino</a>
+
+  <a href="../cite/Mainardi/1047/CartNDSaintes">Mainardi</a>
+
+  <a href="../cite/Mainardus/1067/CartNDSaintes">Mainardus</a>
+
+  <a href="../cite/Mainardus/1047x1061/CartNDSaintes">Mainardus</a>
+
+  <a href="../cite/Maingodi/1047/CartNDSaintes">Maingodi</a>
+
+  <a href="../cite/Mamfredus/1167/CartNDSaintes">Mamfredus</a>
+
+  <a href="../cite/Manfredus/1153/CartNDSaintes">Manfredus</a>
+
+  <a href="../cite/Mangodi/1047/CartNDSaintes">Mangodi</a>
+
+  <a href="../cite/Marcelli/1047x1061/CartNDSaintes">Marcelli</a>
+
+  <a href="../cite/Marie/1060/CartNDSaintes">Marie</a>
+
+  <a href="../cite/Mateldis/1060/CartNDSaintes">Mateldis</a>
+
+  <a href="../cite/Nicholai/1061/CartNDSaintes">Nicholai</a>
+
+  <a href="../cite/Nicholaus/1061/CartNDSaintes">Nicholaus</a>
+
+  <a href="../cite/Octavianus/1146/CartNDSaintes">Octavianus</a>
+
+  <a href="../cite/Octavianus/1153/CartNDSaintes">Octavianus</a>
+
+  <a href="../cite/Octavianus/1141/CartNDSaintes">Octavianus</a>
+
+  <a href="../cite/Odo/1153/CartNDSaintes">Odo</a>
+
+  <a href="../cite/Odo/1146/CartNDSaintes">Odo</a>
+
+  <a href="../cite/Odo/1067/CartNDSaintes">Odo</a>
+
+  <a href="../cite/Odo/1079x1081/CartNDSaintes">Odo</a>
+
+  <a href="../cite/Odonis/1067/CartNDSaintes">Odonis</a>
+
+  <a href="../cite/Odrici/1047/CartNDSaintes">Odrici</a>
+
+  <a href="../cite/Olricus/1067x1086/CartNDSaintes">Olricus</a>
+
+  <a href="../cite/Otgerii/1047/CartNDSaintes">Otgerii</a>
+
+  <a href="../cite/Othberti/1067/CartNDSaintes">Othberti</a>
+
+  <a href="../cite/Oto/1079x1081/CartNDSaintes">Oto</a>
+
+  <a href="../cite/Petri/1060/CartNDSaintes">Petri</a>
+
+  <a href="../cite/Petri/1047x61/CartNDSaintes">Petri</a>
+
+  <a href="../cite/Petri/1047/CartNDSaintes">Petri</a>
+
+  <a href="../cite/Petro/1147/CartNDSaintes">Petro</a>
+
+  <a href="../cite/Petro/1079x81/CartNDSaintes">Petro</a>
+
+  <a href="../cite/Petro/1131/CartNDSaintes">Petro</a>
+
+  <a href="../cite/Petrus/1167/CartNDSaintes">Petrus</a>
+
+  <a href="../cite/Petrus/1047x61/CartNDSaintes">Petrus</a>
+
+  <a href="../cite/Petrus/1067/CartNDSaintes">Petrus</a>
+
+  <a href="../cite/Philippa/1131/CartNDSaintes">Philippa</a>
+
+  <a href="../cite/Philippe/1131/CartNDSaintes">Philippe</a>
+
+  <a href="../cite/Philippi/1067/CartNDSaintes">Philippi</a>
+
+  <a href="../cite/Philippi/1067x1086/CartNDSaintes">Philippi</a>
+
+  <a href="../cite/Philippo/1079x1081/CartNDSaintes">Philippo</a>
+
+  <a href="../cite/Radulfus/1067x1074/CartNDSaintes">Radulfus</a>
+
+  <a href="../cite/Radulfus/1047x1061/CartNDSaintes">Radulfus</a>
+
+  <a href="../cite/Radulfus/1067/CartNDSaintes">Radulfus</a>
+
+  <a href="../cite/Radulfus/1067x1086/CartNDSaintes">Radulfus</a>
+
+  <a href="../cite/Ragemundus/1067x1086/CartNDSaintes">Ragemundus</a>
+
+  <a href="../cite/Raginaldus/1067/CartNDSaintes">Raginaldus</a>
+
+  <a href="../cite/Raimundo/1147/CartNDSaintes">Raimundo</a>
+
+  <a href="../cite/Raimundo/1148/CartNDSaintes">Raimundo</a>
+
+  <a href="../cite/Raimundus/1147/CartNDSaintes">Raimundus</a>
+
+  <a href="../cite/Raimundus&#32;Arnaldus/1131/CartNDSaintes">Raimundus Arnaldus</a>
+
+  <a href="../cite/Rainaldi/1047/CartNDSaintes">Rainaldi</a>
+
+  <a href="../cite/Rainaldus/1067x1086/CartNDSaintes">Rainaldus</a>
+
+  <a href="../cite/Rainaudus/1148/CartNDSaintes">Rainaudus</a>
+
+  <a href="../cite/Rainerius/1131/CartNDSaintes">Rainerius</a>
+
+  <a href="../cite/Ramnulfus/1148/CartNDSaintes">Ramnulfus</a>
+
+  <a href="../cite/Remigius/1067/CartNDSaintes">Remigius</a>
+
+  <a href="../cite/Ricardi/1131/CartNDSaintes">Ricardi</a>
+
+  <a href="../cite/Ricardus/1047x1061/CartNDSaintes">Ricardus</a>
+
+  <a href="../cite/Richardus/1067/CartNDSaintes">Richardus</a>
+
+  <a href="../cite/Robberti/1131/CartNDSaintes">Robberti</a>
+
+  <a href="../cite/Robberti/1146/CartNDSaintes">Robberti</a>
+
+  <a href="../cite/Robberti/1060/CartNDSaintes">Robberti</a>
+
+  <a href="../cite/Robberto/1131/CartNDSaintes">Robberto</a>
+
+  <a href="../cite/Rolandi/1153/CartNDSaintes">Rolandi</a>
+
+  <a href="../cite/Seguinus/1047x1061/CartNDSaintes">Seguinus</a>
+
+  <a href="../cite/Seguinus/1067/CartNDSaintes">Seguinus</a>
+
+  <a href="../cite/Seniorulus/1067/CartNDSaintes">Seniorulus</a>
+
+  <a href="../cite/Sibilla/1119/CartNDSaintes">Sibilla</a>
+
+  <a href="../cite/Sibille/1119/CartNDSaintes">Sibille</a>
+
+  <a href="../cite/Sibille/1131/CartNDSaintes">Sibille</a>
+
+  <a href="../cite/Stephano/1131/CartNDSaintes">Stephano</a>
+
+  <a href="../cite/Stephanus/1141/CartNDSaintes">Stephanus</a>
+
+  <a href="../cite/Stephanus/1148/CartNDSaintes">Stephanus</a>
+
+  <a href="../cite/Symone/1067/CartNDSaintes">Symone</a>
+
+  <a href="../cite/Theodinus/1167/CartNDSaintes">Theodinus</a>
+
+  <a href="../cite/Ugonis/1047/CartNDSaintes">Ugonis</a>
+
+  <a href="../cite/Ulrici/1067x1086/CartNDSaintes">Ulrici</a>
+
+  <a href="../cite/Umberga/1148/CartNDSaintes">Umberga</a>
+
+  <a href="../cite/Urbani/1095/CartNDSaintes">Urbani</a>
+
+  <a href="../cite/Urbanus/1095/CartNDSaintes">Urbanus</a>
+
+  <a href="../cite/Vitalis/1047x1061/CartNDSaintes">Vitalis</a>
+
+  <a href="../cite/Vulgardis/1060/CartNDSaintes">Vulgardis</a>
+
+  <a href="../cite/Willelmi/1060/CartNDSaintes">Willelmi</a>
+
+  <a href="../cite/Willelmi/1131/CartNDSaintes">Willelmi</a>
+
+  <a href="../cite/Willelmi/1047/CartNDSaintes">Willelmi</a>
+
+  <a href="../cite/Willelmi/1147/CartNDSaintes">Willelmi</a>
+
+  <a href="../cite/Willelmi/1146/CartNDSaintes">Willelmi</a>
+
+  <a href="../cite/Willelmi/1167/CartNDSaintes">Willelmi</a>
+
+  <a href="../cite/Willelmo/1079x1081/CartNDSaintes">Willelmo</a>
+
+  <a href="../cite/Willelmo/1131/CartNDSaintes">Willelmo</a>
+
+  <a href="../cite/Willelmo/1147/CartNDSaintes">Willelmo</a>
+
+  <a href="../cite/Willelmus/1067/CartNDSaintes">Willelmus</a>
+
+  <a href="../cite/Willelmus/1047/CartNDSaintes">Willelmus</a>
+
+  <a href="../cite/Willelmus/1148/CartNDSaintes">Willelmus</a>
+
+  <a href="../cite/Willelmus/1131/CartNDSaintes">Willelmus</a>
+
+  <a href="../cite/Willelmus&#32;Gaufredus/1131/CartNDSaintes">Willelmus Gaufredus</a>
+
+  <a href="../cite/Ymarus/1153/CartNDSaintes">Ymarus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,283 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Rudolf</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Rudolf</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Saxon</span> <i>hrōth</i>, <span class="lang">Old High German</span> <i>hruod</i> 'fame' + <span class="lang">Old High German</span> <i>wolf</i>, <span class="lang">Gothic</span> <i>wulf</i> 'wolf'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an 11th C king of Arles, a 13th C king of Germany, a 13th C duke of Austria, a 14th C king of Bohemia and Poland, a 14th C duke of Austria, and a 16th C Holy Roman emperor.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name is sometimes confused with forms of <a class="nym" href="Ralph">Ralph</a>, of similar etymology.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">935</span> <span class="name">Ruodolf</span> (<span class="case">nom</span>) <a href="../cite/Ruodolf/935/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">21</span></a>;
+ <span class="date">1074x1087</span> <span class="name">Rudolfi</span> (<span class="case">gen</span>) <a href="../cite/Rudolfi/1074x1087/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">77</span></a>;
+ <span class="date">c1100</span> <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/c1100/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>,
+ <span class="name">Ruodolf</span> (<span class="case">nom</span>) <a href="../cite/Ruodolf/c1100/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>;
+ <span class="date">c1115</span> <span class="name">Ruodolf</span> (<span class="case">nom</span>) <a href="../cite/Ruodolf/c1115/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">101</span></a>;
+ <span class="date">c1120</span> <span class="name">Roͮdolfus</span> (<span class="case">nom</span>) <a href="../cite/Roͮdolfus/c1120/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">104</span></a>,
+ <span class="name">Rvͦdolf</span> (<span class="case">nom</span>) <a href="../cite/Rvͦdolf/c1120/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a>;
+ <span class="date">c1125</span> <span class="name">Rudolf</span> (<span class="case">nom</span>) <a href="../cite/Rudolf/c1125/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">115</span></a>;
+ <span class="date">c1128</span> <span class="name">Roͮdolf</span> (<span class="case">nom</span>) <a href="../cite/Roͮdolf/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">118a</span></a>,
+ <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1277?</span> <span class="name">Rvdolfus</span> (<span class="case">nom</span>) <a href="../cite/Rvdolfus/1277?/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">354</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1050</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1050/CRS-2-5"><span class="bib_key">CRS-2-5</span> <span class="bib_loc">p. 232</span></a>;
+ <span class="date">1110</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1110/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1119</span> <span class="name">Rodulfi</span> (<span class="case">gen</span>) <a href="../cite/Rodulfi/1119/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1425</span> <span class="name">Roleff</span> <a href="../cite/Roleff/1425/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1428</span> <span class="name">Roleff</span> <a href="../cite/Roleff/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">G13</span></a>;
+ <span class="date">c823</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">94, Ved</span></a>;
+ <span class="date">937x993</span> <span class="name">Rodulfi</span> (<span class="case">gen</span>) <a href="../cite/Rodulfi/937x993/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">1</span></a>;
+ <span class="date">989</span> <span class="name">Rodulfi</span> (<span class="case">gen</span>) <a href="../cite/Rodulfi/989/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a>;
+ <span class="date">993x1000</span> <span class="name">Rodulfo</span> (<span class="case">abl</span>) <a href="../cite/Rodulfo/993x1000/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 89</span></a>;
+ <span class="date">993x1032</span> <span class="name">Rodulfo</span> (<span class="case">abl</span>) <a href="../cite/Rodulfo/993x1032/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 82</span></a>;
+ <span class="date">994</span> <span class="name">Rodulfi</span> (<span class="case">gen</span>) <a href="../cite/Rodulfi/994/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">7</span></a>;
+ <span class="date">c1000</span> <span class="name">Rodulfi</span> (<span class="case">gen</span>) <a href="../cite/Rodulfi/c1000/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>;
+ <span class="date">11thC</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/11thC/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">720</span></a>;
+ <span class="date">1013</span> <span class="name">Rodulfo</span> (<span class="case">abl</span>) <a href="../cite/Rodulfo/1013/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1014</span> <span class="name">Rodulphi</span> (<span class="case">gen</span>) <a href="../cite/Rodulphi/1014/HGSav-4.1"><span class="bib_key">HGSav-4.1</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Rodulphus</span> (<span class="case">nom</span>) <a href="../cite/Rodulphus/1014/HGSav-4.1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1015</span> <span class="name">Rodulfi</span> (<span class="case">gen</span>) <a href="../cite/Rodulfi/1015/NTDip-vol4"><span class="bib_key">NTDip-vol4</span> <span class="bib_loc">p. 225</span></a>,
+ <span class="name">Rotdulfi</span> (<span class="case">gen</span>) <a href="../cite/Rotdulfi/1015/NTDip-vol4"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 225</span></a>;
+ <span class="date">1016</span> <span class="name">Rodulphus</span> (<span class="case">nom</span>) <a href="../cite/Rodulphus/1016/HGSav-4.1"><span class="bib_key">HGSav-4.1</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Ruodolphi</span> (<span class="case">gen</span>) <a href="../cite/Ruodolphi/1016/HGSav-4.1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1018x1032</span> <span class="name">Rodulfo</span> (<span class="case">abl</span>) <a href="../cite/Rodulfo/1018x1032/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">666</span></a>;
+ <span class="date">1029x1033</span> <span class="name">Rodulfi</span> (<span class="case">gen</span>) <a href="../cite/Rodulfi/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>,
+ <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1029x1033/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1030</span> <span class="name">Rodulfo</span> (<span class="case">abl</span>) <a href="../cite/Rodulfo/1030/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">681</span></a>,
+ <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1030/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">713</span></a>;
+ <span class="date">1031</span> <span class="name">Rodulfo</span> (<span class="case">abl</span>) <a href="../cite/Rodulfo/1031/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 107</span></a>,
+ <a href="../cite/Rodulfo/1031/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">684</span></a>;
+ <span class="date">1040x1080</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1040x1080/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">664</span></a>;
+ <span class="date">1044</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1044/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">659</span></a>;
+ <span class="date">1045</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1045/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">691</span></a>;
+ <span class="date">c1050</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/c1050/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">675</span></a>;
+ <span class="date">1054</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1054/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">693</span></a>;
+ <span class="date">1055</span> <span class="name">Rodulfi</span> (<span class="case">gen</span>) <a href="../cite/Rodulfi/1055/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">680</span></a>;
+ <span class="date">1058</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1058/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">694</span></a>;
+ <span class="date">1059</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1059/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">689</span></a>;
+ <span class="date">1062</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1062/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">692</span></a>;
+ <span class="date">1065x1079</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1065x1079/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">663</span></a>;
+ <span class="date">1066</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1066/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">698</span></a>;
+ <span class="date">1107</span> <span class="name">Rodulfo</span> (<span class="case">abl</span>) <a href="../cite/Rodulfo/1107/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1115</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1135</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1142</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1142/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>,
+ <span class="name">Rodulphus</span> (<span class="case">nom</span>) <a href="../cite/Rodulphus/1142/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1147</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1164</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">122</span></a>;
+ <span class="date">1378</span> <span class="name">Rodulpho</span> (<span class="case">dat</span>) <a href="../cite/Rodulpho/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1461</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">963x1023</span> <span class="name">Hrodulf</span> (<span class="case">nom</span>) <a href="../cite/Hrodulf/963x1023/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§228</span></a>;
+ <span class="date">966</span> <span class="name">Rudolfi</span> (<span class="case">gen</span>) <a href="../cite/Rudolfi/966/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1100</span> <span class="name">Rodulphus</span> (<span class="case">nom</span>) <a href="../cite/Rodulphus/1100/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1130</span> <span class="name">Rudolphus</span> (<span class="case">nom</span>) <a href="../cite/Rudolphus/1130/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">63</span></a>;
+ <span class="date">1138</span> <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/1138/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1147</span> <span class="name">Rodulfo</span> (<span class="case">dat</span>) <a href="../cite/Rodulfo/1147/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1153</span> <span class="name">Rudolphus</span> (<span class="case">nom</span>) <a href="../cite/Rudolphus/1153/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1168</span> <span class="name">Rudulpho</span> (<span class="case">abl</span>) <a href="../cite/Rudulpho/1168/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">65</span></a>;
+ <span class="date">1174</span> <span class="name">Rodolphus</span> (<span class="case">nom</span>) <a href="../cite/Rodolphus/1174/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">33</span></a>;
+ <span class="date">1180</span> <span class="name">Rodolphus</span> (<span class="case">nom</span>) <a href="../cite/Rodolphus/1180/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>,
+ <span class="name">Rodulphus</span> (<span class="case">nom</span>) <a href="../cite/Rodulphus/1180/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1185</span> <span class="name">Rodolpho</span> (<span class="case">abl</span>) <a href="../cite/Rodolpho/1185/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a>,
+ <span class="name">Rodulphus</span> (<span class="case">nom</span>) <a href="../cite/Rodulphus/1185/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1186</span> <span class="name">Rodolpho</span> (<span class="case">abl</span>) <a href="../cite/Rodolpho/1186/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">123</span></a>;
+ <span class="date">1197</span> <span class="name">Rodolphus</span> (<span class="case">nom</span>) <a href="../cite/Rodolphus/1197/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1210</span> <span class="name">Rotholfo</span> (<span class="case">abl</span>) <a href="../cite/Rotholfo/1210/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>,
+ <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/1210/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1214</span> <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/1214/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1217</span> <span class="name">Rudolphum</span> (<span class="case">acc</span>) <a href="../cite/Rudolphum/1217/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">71</span></a>;
+ <span class="date">1219</span> <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/1219/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">41</span></a>;
+ <span class="date">1220</span> <span class="name">Rudolffus</span> (<span class="case">nom</span>) <a href="../cite/Rudolffus/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>,
+ <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>,
+ <span class="name">Rudulfus</span> (<span class="case">nom</span>) <a href="../cite/Rudulfus/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>;
+ <span class="date">1221</span> <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">61</span></a>;
+ <span class="date">1225</span> <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/1225/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1233</span> <span class="name">Rodolfus</span> (<span class="case">nom</span>) <a href="../cite/Rodolfus/1233/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1234</span> <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/1234/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">91</span></a>;
+ <span class="date">1237</span> <span class="name">Rudolfo</span> (<span class="case">abl</span>) <a href="../cite/Rudolfo/1237/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1253</span> <span class="name">Rudolffus</span> (<span class="case">nom</span>) <a href="../cite/Rudolffus/1253/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">147</span></a>;
+ <span class="date">1254</span> <span class="name">Rudolfi</span> (<span class="case">gen</span>) <a href="../cite/Rudolfi/1254/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">155</span></a>;
+ <span class="date">1259</span> <span class="name">Rodolfus</span> (<span class="case">nom</span>) <a href="../cite/Rodolfus/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>,
+ <span class="name">Rudolfo</span> (<span class="case">abl</span>) <a href="../cite/Rudolfo/1259/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">186</span></a>;
+ <span class="date">1261</span> <span class="name">Rvdolfo</span> (<span class="case">abl</span>) <a href="../cite/Rvdolfo/1261/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">207</span></a>;
+ <span class="date">1281</span> <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/1281/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1288</span> <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/1288/UrkHeil1"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>;
+ <span class="date">1322</span> <span class="name">Ruͦdolfi</span> (<span class="case">gen</span>) <a href="../cite/Ruͦdolfi/1322/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 164</span></a>,
+ <span class="name">Ruͦdolfus</span> (<span class="case">nom</span>) <a href="../cite/Ruͦdolfus/1322/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 158</span></a>;
+ <span class="date">1394</span> <span class="name">Ruͦdolfus</span> (<span class="case">nom</span>) <a href="../cite/Ruͦdolfus/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 174</span></a>;
+ <span class="date">1401</span> <span class="name">Rudolfo</span> (<span class="case">dat</span>) <a href="../cite/Rudolfo/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 196</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1394</span> <span class="name">Rüdlini</span> (<span class="case">gen</span>) <a href="../cite/Rüdlini/1394/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 194</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1293</span> <span class="name">Rudolfen</span> (<span class="case">acc</span>) <a href="../cite/Rudolfen/1293/UrkWitt-II"><span class="bib_key">UrkWitt-II</span> <span class="bib_loc">188</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1420</span> <span class="name">Rúodolph</span> (<span class="case">nom</span>) <a href="../cite/Rúodolph/1420/UrkRott-1"><span class="bib_key">UrkRott-1</span> <span class="bib_loc">855</span></a>;
+ <span class="date">1427</span> <span class="name">Ruͦdolf</span> (<span class="case">nom</span>) <a href="../cite/Ruͦdolf/1427/UrkRott-1"><span class="bib_key">ibid.</span> <span class="bib_loc">909</span></a>,
+ <span class="name">Ruͦdolffen</span> (<span class="case">dat</span>) <a href="../cite/Ruͦdolffen/1427/UrkRott-1"><span class="bib_key">ibid.</span> <span class="bib_loc">909</span></a>;
+ <span class="date">1497</span> <span class="name">Rudolff</span> <a href="../cite/Rudolff/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">398</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 18</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1158</span> <span class="name">Rodulfo</span> (<span class="case">abl</span>) <a href="../cite/Rodulfo/1158/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1198</span> <span class="name">Rodulfo</span> (<span class="case">abl</span>) <a href="../cite/Rodulfo/1198/ChStBo1"><span class="bib_key">ChStBo1</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1236</span> <span class="name">Rodulfi</span> (<span class="case">gen</span>) <a href="../cite/Rodulfi/1236/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1245</span> <span class="name">Rudolfus</span> (<span class="case">nom</span>) <a href="../cite/Rudolfus/1245/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1327</span> <span class="name">Rodulphi</span> (<span class="case">gen</span>) <a href="../cite/Rodulphi/1327/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 448</span></a>;
+ <span class="date">1376</span> <span class="name">Rodulffi</span> (<span class="case">gen</span>) <a href="../cite/Rodulffi/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 36</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1332</span> <span class="name">Rudolfo</span> (<span class="case">dat</span>) <a href="../cite/Rudolfo/1332/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">118</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1288</span> <span class="name">Rodolphus</span> (<span class="case">nom</span>) <a href="../cite/Rodolphus/1288/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 296</span></a>;
+ <span class="date">1297</span> <span class="name">rodolphus</span> (<span class="case">nom</span>) <a href="../cite/rodolphus/1297/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 297</span></a>;
+ <span class="date">1311</span> <span class="name">Rodolphi</span> (<span class="case">gen</span>) <a href="../cite/Rodolphi/1311/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 298</span></a>,
+ <span class="name">Rodolphus</span> (<span class="case">nom</span>) <a href="../cite/Rodolphus/1311/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 298</span></a>;
+ <span class="date">1356</span> <span class="name">Rodolfi</span> (<span class="case">gen</span>) <a href="../cite/Rodolfi/1356/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301</span></a>;
+ <span class="date">1361</span> <span class="name">Rodolphus</span> (<span class="case">nom</span>) <a href="../cite/Rodolphus/1361/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302</span></a>;
+ <span class="date">1387</span> <span class="name">rodolfus</span> (<span class="case">nom</span>) <a href="../cite/rodolfus/1387/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Slovenia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1261</span> <span class="name">Rudolfo</span> (<span class="case">abl</span>) <a href="../cite/Rudolfo/1261/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">208</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1167</span> <span class="name">Rodulfus</span> (<span class="case">nom</span>) <a href="../cite/Rodulfus/1167/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">22</span></a>;
+ <span class="date">14thCx1478</span> <span class="name">Rodulphus</span> (<span class="case">nom</span>) <a href="../cite/Rodulphus/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(117)</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Rodulphus</span> (<span class="case">nom</span>) <a href="../cite/Rodulphus/1582/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 36</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Rudolf". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Rudolf.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

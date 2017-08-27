@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Ulrich</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Ulrich</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>uodal</i> 'heritage, homestead' + <span class="lang">Old High German</span> <i>rih</i> 'ruler'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 10th C German saint and an 11th C German saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>Sometimes difficult to distinguish from <a class="nym" href="Wulfrich">Wulfrich</a>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">860</span> <span class="name">Odalricus</span> (<span class="case">nom</span>) <a href="../cite/Odalricus/860/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">7</span></a>;
+ <span class="date">928</span> <span class="name">Odalrich</span> (<span class="case">nom</span>) <a href="../cite/Odalrich/928/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1074x1087</span> <span class="name">Oͮdalrich</span> (<span class="case">nom</span>) <a href="../cite/Oͮdalrich/1074x1087/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">77</span></a>;
+ <span class="date">c1075</span> <span class="name">Oudalrich</span> (<span class="case">nom</span>) <a href="../cite/Oudalrich/c1075/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">c1100</span> <span class="name">Oͮdalrico</span> (<span class="case">abl</span>) <a href="../cite/Oͮdalrico/c1100/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">92</span></a>,
+ <span class="name">Vodalricus</span> (<span class="case">nom</span>) <a href="../cite/Vodalricus/c1100/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>,
+ <span class="name">Vvodalricus</span> (<span class="case">nom</span>) <a href="../cite/Vvodalricus/c1100/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>;
+ <span class="date">c12thC</span> <span class="name">Ovdalrich</span> (<span class="case">nom</span>) <a href="../cite/Ovdalrich/c12thC/GCSStFl"><span class="bib_key">GCSStFl</span> <span class="bib_loc">p. 193</span></a>;
+ <span class="date">1103</span> <span class="name">Oͮdalrich</span> (<span class="case">nom</span>) <a href="../cite/Oͮdalrich/1103/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">95</span></a>,
+ <span class="name">Oͮdalricus</span> (<span class="case">nom</span>) <a href="../cite/Oͮdalricus/1103/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">94a</span></a>;
+ <span class="date">c1120</span> <span class="name">Oͮdelricus</span> (<span class="case">nom</span>) <a href="../cite/Oͮdelricus/c1120/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">104</span></a>,
+ <span class="name">Udalrich</span> (<span class="case">nom</span>) <a href="../cite/Udalrich/c1120/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">103</span></a>;
+ <span class="date">1124</span> <span class="name">Voldalricus</span> (<span class="case">nom</span>) <a href="../cite/Voldalricus/1124/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">110</span></a>;
+ <span class="date">c1125</span> <span class="name">Vͤlrich</span> (<span class="case">nom</span>) <a href="../cite/Vͤlrich/c1125/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">114</span></a>;
+ <span class="date">c1128</span> <span class="name">Odalricus</span> (<span class="case">nom</span>) <a href="../cite/Odalricus/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Udalricus</span> (<span class="case">nom</span>) <a href="../cite/Udalricus/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">119b</span></a>;
+ <span class="date">c1130</span> <span class="name">Oͮdalricus</span> (<span class="case">nom</span>) <a href="../cite/Oͮdalricus/c1130/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">122a</span></a>;
+ <span class="date">1237</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1237/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">96</span></a>;
+ <span class="date">1239</span> <span class="name">Ulrico</span> (<span class="case">abl</span>) <a href="../cite/Ulrico/1239/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">100</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Olrici</span> (<span class="case">gen</span>) <a href="../cite/Olrici/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 36</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1314</span> <span class="name">Vlricus</span> (<span class="case">nom</span>) <a href="../cite/Vlricus/1314/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1338</span> <span class="name">Vlricus</span> (<span class="case">nom</span>) <a href="../cite/Vlricus/1338/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>;
+ <span class="date">1343</span> <span class="name">Ulrico</span> (<span class="case">abl</span>) <a href="../cite/Ulrico/1343/Rössler2"><span class="bib_key">Rössler2</span> <span class="bib_loc">10, p. 8</span></a>,
+ <span class="name">Ulricum</span> (<span class="case">acc</span>) <a href="../cite/Ulricum/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">212, p. 104</span></a>,
+ <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">10, p. 8</span></a>;
+ <span class="date">1345</span> <span class="name">Vlrico</span> (<span class="case">dat</span>) <a href="../cite/Vlrico/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">611</span></a>;
+ <span class="date">1349</span> <span class="name">Vlrici</span> (<span class="case">gen</span>) <a href="../cite/Vlrici/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">121</span></a>,
+ <span class="name">Vlrico</span> (<span class="case">abl</span>) <a href="../cite/Vlrico/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>,
+ <span class="name">Vlricus</span> (<span class="case">nom</span>) <a href="../cite/Vlricus/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1350</span> <span class="name">Vlricus</span> (<span class="case">nom</span>) <a href="../cite/Vlricus/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">178</span></a>;
+ <span class="date">1351</span> <span class="name">Vlricus</span> (<span class="case">nom</span>) <a href="../cite/Vlricus/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">22</span></a>;
+ <span class="date">1353</span> <span class="name">Vlrico</span> (<span class="case">dat</span>) <a href="../cite/Vlrico/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">74</span></a>,
+ <span class="name">Vlricus</span> (<span class="case">nom</span>) <a href="../cite/Vlricus/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a>;
+ <span class="date">1355</span> <span class="name">Vlrici</span> (<span class="case">gen</span>) <a href="../cite/Vlrici/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">114</span></a>,
+ <span class="name">Vlricus</span> (<span class="case">nom</span>) <a href="../cite/Vlricus/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">113</span></a>;
+ <span class="date">1358</span> <span class="name">Vlrico</span> (<span class="case">dat</span>) <a href="../cite/Vlrico/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">254, p. 32</span></a>,
+ <span class="name">Vlricus</span> (<span class="case">nom</span>) <a href="../cite/Vlricus/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">204, p. 30</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1358</span> <span class="name">Vllinus</span> (<span class="case">nom</span>) <a href="../cite/Vllinus/1358/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">226, p. 31</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1318</span> <span class="name">Vlrich</span> (<span class="case">nom</span>) <a href="../cite/Vlrich/1318/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">45</span></a>;
+ <span class="date">1331</span> <span class="name">Vlrich</span> (<span class="case">nom</span>) <a href="../cite/Vlrich/1331/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1338</span> <span class="name">Vlreych</span> (<span class="case">nom</span>) <a href="../cite/Vlreych/1338/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">65</span></a>;
+ <span class="date">c1339</span> <span class="name">Vla</span> (<span class="case">nom</span>) <a href="../cite/Vla/c1339/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>,
+ <span class="name">Vlricus</span> (<span class="case">nom</span>) <a href="../cite/Vlricus/c1339/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1359</span> <span class="name">Vlrich</span> (<span class="case">nom</span>) <a href="../cite/Vlrich/1359/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1370</span> <span class="name">Vla</span> (<span class="case">nom</span>) <a href="../cite/Vla/1370/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">62</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1335</span> <span class="name">Vla</span> (<span class="case">nom</span>) <a href="../cite/Vla/1335/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">41</span></a>;
+ <span class="date">1338</span> <span class="name">Vla</span> (<span class="case">nom</span>) <a href="../cite/Vla/1338/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">65</span></a>;
+ <span class="date">1340</span> <span class="name">Vla</span> (<span class="case">nom</span>) <a href="../cite/Vla/1340/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1341</span> <span class="name">Vla</span> (<span class="case">nom</span>) <a href="../cite/Vla/1341/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">33</span></a>;
+ <span class="date">1349</span> <span class="name">Vla</span> (<span class="case">nom</span>) <a href="../cite/Vla/1349/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>;
+ <span class="date">1360</span> <span class="name">Vla</span> (<span class="case">nom</span>) <a href="../cite/Vla/1360/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">57</span></a>;
+ <span class="date">1361</span> <span class="name">Vla</span> (<span class="case">nom</span>) <a href="../cite/Vla/1361/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">82</span></a>;
+ <span class="date">1365</span> <span class="name">Vla</span> (<span class="case">nom</span>) <a href="../cite/Vla/1365/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">58</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1132</span> <span class="name">Hulrici</span> (<span class="case">gen</span>) <a href="../cite/Hulrici/c1132/MemStMF"><span class="bib_key">MemStMF</span> <span class="bib_loc">II-I</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1425</span> <span class="name">Olrich</span> <a href="../cite/Olrich/1425/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1436</span> <span class="name">Olrick</span> <a href="../cite/Olrick/1436/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Oldalricus</span> (<span class="case">nom</span>) <a href="../cite/Oldalricus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">33, Wan</span></a>;
+ <span class="date">1044</span> <span class="name">Udulricus</span> (<span class="case">nom</span>) <a href="../cite/Udulricus/1044/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">659</span></a>;
+ <span class="date">1067x1086</span> <span class="name">Olricus</span> (<span class="case">nom</span>) <a href="../cite/Olricus/1067x1086/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XIV</span></a>,
+ <span class="name">Ulrici</span> (<span class="case">gen</span>) <a href="../cite/Ulrici/1067x1086/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1115</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1120</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1120/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1135</span> <span class="name">Hulricus</span> (<span class="case">nom</span>) <a href="../cite/Hulricus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">66</span></a>;
+ <span class="date">1163</span> <span class="name">Ulrici</span> (<span class="case">gen</span>) <a href="../cite/Ulrici/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a>;
+ <span class="date">1171</span> <span class="name">Ulrici</span> (<span class="case">gen</span>) <a href="../cite/Ulrici/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">140</span></a>,
+ <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">140</span></a>;
+ <span class="date">1173</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">157</span></a>;
+ <span class="date">1174</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1174/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">161</span></a>;
+ <span class="date">1179</span> <span class="name">Ulrico</span> (<span class="case">abl</span>) <a href="../cite/Ulrico/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1378</span> <span class="name">Ulrici</span> (<span class="case">gen</span>) <a href="../cite/Ulrici/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">220</span></a>,
+ <span class="name">Ulrico</span> (<span class="case">dat</span>) <a href="../cite/Ulrico/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">597</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1000</span> <span class="name">Oͮdalrici</span> (<span class="case">gen</span>) <a href="../cite/Oͮdalrici/1000/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">33</span></a>;
+ <span class="date">1025</span> <span class="name">Oͮdalricus</span> (<span class="case">nom</span>) <a href="../cite/Oͮdalricus/1025/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">43</span></a>;
+ <span class="date">1028</span> <span class="name">Oͮdalricus</span> (<span class="case">nom</span>) <a href="../cite/Oͮdalricus/1028/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>;
+ <span class="date">1114</span> <span class="name">Oͮdalrici</span> (<span class="case">gen</span>) <a href="../cite/Oͮdalrici/1114/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1125</span> <span class="name">Odalricus</span> (<span class="case">nom</span>) <a href="../cite/Odalricus/1125/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">109</span></a>;
+ <span class="date">1151</span> <span class="name">Odalricus</span> (<span class="case">nom</span>) <a href="../cite/Odalricus/1151/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">XXXVI</span></a>;
+ <span class="date">1200</span> <span class="name">Olricus</span> (<span class="case">nom</span>) <a href="../cite/Olricus/1200/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">5</span></a>,
+ <span class="name">Uͦlricus</span> (<span class="case">nom</span>) <a href="../cite/Uͦlricus/1200/UrkRott-1"><span class="bib_key">UrkRott-1</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1206</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1206/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1210</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1210/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1212</span> <span class="name">Ulrico</span> (<span class="case">abl</span>) <a href="../cite/Ulrico/1212/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">125</span></a>;
+ <span class="date">1214</span> <span class="name">Olricus</span> (<span class="case">nom</span>) <a href="../cite/Olricus/1214/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1214/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1215</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1215/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>;
+ <span class="date">1216</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">20</span></a>;
+ <span class="date">1218</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1218/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1221</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1225</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1225/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1234</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1234/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">91</span></a>;
+ <span class="date">1237</span> <span class="name">Ulrico</span> (<span class="case">abl</span>) <a href="../cite/Ulrico/1237/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1249</span> <span class="name">Ulrici</span> (<span class="case">gen</span>) <a href="../cite/Ulrici/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">136</span></a>,
+ <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">134</span></a>;
+ <span class="date">1252</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1252/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">143</span></a>;
+ <span class="date">1253</span> <span class="name">Ulrici</span> (<span class="case">gen</span>) <a href="../cite/Ulrici/1253/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">150</span></a>;
+ <span class="date">1255</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1255/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">156</span></a>;
+ <span class="date">1258</span> <span class="name">Wlricus</span> (<span class="case">nom</span>) <a href="../cite/Wlricus/1258/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1259</span> <span class="name">Vlricus</span> (<span class="case">nom</span>) <a href="../cite/Vlricus/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1260</span> <span class="name">Ulrici</span> (<span class="case">gen</span>) <a href="../cite/Ulrici/1260/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">187</span></a>,
+ <span class="name">Ulrico</span> (<span class="case">abl</span>) <a href="../cite/Ulrico/1260/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">190</span></a>;
+ <span class="date">1273x1291</span> <span class="name">Ulrich</span> (<span class="case">nom</span>) <a href="../cite/Ulrich/1273x1291/UrkRott-1"><span class="bib_key">UrkRott-1</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1341</span> <span class="name">Ulrico</span> (<span class="case">dat</span>) <a href="../cite/Ulrico/1341/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 166</span></a>,
+ <span class="name">Ulricum</span> (<span class="case">acc</span>) <a href="../cite/Ulricum/1341/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 165</span></a>;
+ <span class="date">1394</span> <span class="name">Ulrici</span> (<span class="case">gen</span>) <a href="../cite/Ulrici/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 177</span></a>,
+ <span class="name">Ulricum</span> (<span class="case">acc</span>) <a href="../cite/Ulricum/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 210</span></a>,
+ <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 184</span></a>;
+ <span class="date">1400</span> <span class="name">Ulrico</span> (<span class="case">abl</span>) <a href="../cite/Ulrico/1400/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXVI</span></a>,
+ <span class="name">Ulricum</span> (<span class="case">acc</span>) <a href="../cite/Ulricum/1400/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXVI</span></a>,
+ <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1400/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXVI</span></a>;
+ <span class="date">1401</span> <span class="name">Ulrici</span> (<span class="case">gen</span>) <a href="../cite/Ulrici/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 380</span></a>,
+ <span class="name">ulrico</span> (<span class="case">dat</span>) <a href="../cite/ulrico/1401/HD1401"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 175</span></a>;
+ <span class="date">1403</span> <span class="name">Ulrici</span> (<span class="case">gen</span>) <a href="../cite/Ulrici/1403/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXXIII</span></a>;
+ <span class="date">1406</span> <span class="name">Ulricum</span> (<span class="case">acc</span>) <a href="../cite/Ulricum/1406/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXX</span></a>;
+ <span class="date">1412</span> <span class="name">Udalricus</span> (<span class="case">nom</span>) <a href="../cite/Udalricus/1412/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCV</span></a>,
+ <span class="name">Ulrico</span> (<span class="case">dat</span>) <a href="../cite/Ulrico/1412/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCV</span></a>;
+ <span class="date">1414</span> <span class="name">Ulrici</span> (<span class="case">gen</span>) <a href="../cite/Ulrici/1414/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCVII</span></a>;
+ <span class="date">1426</span> <span class="name">Ulricum</span> (<span class="case">acc</span>) <a href="../cite/Ulricum/1426/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXIII</span></a>;
+ <span class="date">1428</span> <span class="name">Udalrico</span> (<span class="case">dat</span>) <a href="../cite/Udalrico/1428/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXVIII</span></a>,
+ <span class="name">Udalricus</span> (<span class="case">nom</span>) <a href="../cite/Udalricus/1428/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXVIII</span></a>;
+ <span class="date">1429</span> <span class="name">Ulrici</span> (<span class="case">gen</span>) <a href="../cite/Ulrici/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXIX</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1293</span> <span class="name">Vlrich</span> (<span class="case">acc</span>) <a href="../cite/Vlrich/1293/UrkWitt-II"><span class="bib_key">UrkWitt-II</span> <span class="bib_loc">187</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1400</span> <span class="name">Ulreich</span> (<span class="case">nom</span>) <a href="../cite/Ulreich/1400/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXVII</span></a>;
+ <span class="date">1402</span> <span class="name">Ulreich</span> (<span class="case">nom</span>) <a href="../cite/Ulreich/1402/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXI</span></a>;
+ <span class="date">1403</span> <span class="name">Ulreichen</span> (<span class="case">dat</span>) <a href="../cite/Ulreichen/1403/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXV</span></a>;
+ <span class="date">1405</span> <span class="name">Ulreich</span> (<span class="case">nom</span>) <a href="../cite/Ulreich/1405/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXIX</span></a>;
+ <span class="date">1407</span> <span class="name">Ulreich</span> (<span class="case">acc</span>) <a href="../cite/Ulreich/1407/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXXII</span></a>;
+ <span class="date">1410</span> <span class="name">Ulreiches</span> (<span class="case">gen</span>) <a href="../cite/Ulreiches/1410/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCI</span></a>;
+ <span class="date">1411</span> <span class="name">Ulreich</span> (<span class="case">nom</span>) <a href="../cite/Ulreich/1411/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCIII</span></a>;
+ <span class="date">1418</span> <span class="name">Ulreich</span> (<span class="case">nom</span>) <a href="../cite/Ulreich/1418/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCVII</span></a>;
+ <span class="date">1424</span> <span class="name">Ulreich</span> (<span class="case">nom</span>) <a href="../cite/Ulreich/1424/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXX</span></a>,
+ <span class="name">Uͦlrich</span> (<span class="case">nom</span>) <a href="../cite/Uͦlrich/1424/UrkRott-1"><span class="bib_key">UrkRott-1</span> <span class="bib_loc">891</span></a>;
+ <span class="date">1428</span> <span class="name">Ulreich</span> (<span class="case">nom</span>) <a href="../cite/Ulreich/1428/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCCXXVII</span></a>,
+ <span class="name">Ulreichs</span> (<span class="case">gen</span>) <a href="../cite/Ulreichs/1428/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXVII</span></a>;
+ <span class="date">1429</span> <span class="name">Ulreich</span> (<span class="case">nom</span>) <a href="../cite/Ulreich/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXXI</span></a>,
+ <span class="name">Ulreichen</span> (<span class="case">dat</span>) <a href="../cite/Ulreichen/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXXI</span></a>,
+ <span class="name">Ulreichs</span> (<span class="case">gen</span>) <a href="../cite/Ulreichs/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXXIII</span></a>;
+ <span class="date">1497</span> <span class="name">Ulrich</span> <a href="../cite/Ulrich/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">p. 1</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1497</span> <span class="name">Ull</span> <a href="../cite/Ull/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">2665</span></a>,
+ <span class="name">Utz</span> <a href="../cite/Utz/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">229</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1126</span> <span class="name">Oͮdalrico</span> (<span class="case">dat</span>) <a href="../cite/Oͮdalrico/1126/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">116</span></a>;
+ <span class="date">1173</span> <span class="name">Udalrici</span> (<span class="case">gen</span>) <a href="../cite/Udalrici/1173/SDE3"><span class="bib_key">SDE3</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1236</span> <span class="name">Vlrici</span> (<span class="case">gen</span>) <a href="../cite/Vlrici/1236/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Vlricum</span> (<span class="case">nom</span>) <a href="../cite/Vlricum/1236/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1237</span> <span class="name">Vͦlrici</span> (<span class="case">gen</span>) <a href="../cite/Vͦlrici/1237/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">584</span></a>,
+ <span class="name">Vͦlricus</span> (<span class="case">nom</span>) <a href="../cite/Vͦlricus/1237/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">583</span></a>;
+ <span class="date">1245</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1245/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1261</span> <span class="name">Vlricus</span> (<span class="case">nom</span>) <a href="../cite/Vlricus/1261/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">209</span></a>;
+ <span class="date">1367</span> <span class="name">Ulricus</span> (<span class="case">nom</span>) <a href="../cite/Ulricus/1367/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 130</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1367</span> <span class="name">V̈llini</span> (<span class="case">gen</span>) <a href="../cite/V̈llini/1367/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 129</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1288</span> <span class="name">Ulrico</span> (<span class="case">dat</span>) <a href="../cite/Ulrico/1288/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">514</span></a>;
+ <span class="date">1291</span> <span class="name">Olrico</span> (<span class="case">dat</span>) <a href="../cite/Olrico/1291/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">30</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1387</span> <span class="name">oelrici</span> (<span class="case">gen</span>) <a href="../cite/oelrici/1387/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 304</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Ulrich". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Ulrich.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

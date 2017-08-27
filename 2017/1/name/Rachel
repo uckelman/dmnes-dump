@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Rachel</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Rachel</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>רָחֵל</i> 'ewe'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of the Biblical wife of Jacob and matriarch. Wycliffite Bible (1395): <i>Rachel</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name was rare before the 16th century, and came into use in England, France, and the Netherlands with the Reformation, when it was popular among Protestants.  For more information, see <span class="bibl">Withycombe</span> s.n. Rachel.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1573</span> <span class="name">Rachel</span> <a href="../cite/Rachel/1573/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Geeraerts</span></a>;
+ <span class="date">1575</span> <span class="name">Rachel</span> <a href="../cite/Rachel/1575/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Courselis</span></a>;
+ <span class="date">1582</span> <span class="name">Rachel</span> <a href="../cite/Rachel/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clerckx</span></a>;
+ <span class="date">1597</span> <span class="name">Rachel</span> <a href="../cite/Rachel/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Fautil</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1558–9</span> <span class="name">Rachell</span> <a href="../cite/Rachell/1558–9/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1569</span> <span class="name">Rachell</span> <a href="../cite/Rachell/1569/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1588</span> <span class="name">Rachell</span> <a href="../cite/Rachell/1588/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 8</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1562</span> <span class="name">Rachel</span> <a href="../cite/Rachel/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1563</span> <span class="name">Rachel</span> <a href="../cite/Rachel/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1564</span> <span class="name">Rachel</span> <a href="../cite/Rachel/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1565</span> <span class="name">Rachel</span> <a href="../cite/Rachel/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 123</span></a>;
+ <span class="date">1566</span> <span class="name">Rachel</span> <a href="../cite/Rachel/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 198</span></a>;
+ <span class="date">1567</span> <span class="name">Rachel</span> <a href="../cite/Rachel/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 289</span></a>;
+ <span class="date">1568</span> <span class="name">Rachel</span> <a href="../cite/Rachel/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 363</span></a>;
+ <span class="date">1570</span> <span class="name">Rachel</span> <a href="../cite/Rachel/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 426</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Rachel". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Rachel.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

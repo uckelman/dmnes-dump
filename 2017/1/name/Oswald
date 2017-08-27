@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Oswald</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Oswald</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English, Old Saxon</span> <i>ōs</i> 'god' + <span class="lang">Old English</span> <i>weald</i>, <span class="lang">Old Saxon</span> <i>wald</i> 'power'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C king of Northumbria and saint.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Ossualld</span> <a href="../cite/Ossualld/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a>,
+ <span class="name">Ossualldt</span> <a href="../cite/Ossualldt/1581/KD-1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">966</span> <span class="name">Oswaldus</span> (<span class="case">nom</span>) <a href="../cite/Oswaldus/966/CDAS"><span class="bib_key">CDAS</span> <span class="bib_loc">DXXVIII</span></a>,
+ <span class="name">Oswold</span> (<span class="case">nom</span>) <a href="../cite/Oswold/966/CDAS"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXIX</span></a>;
+ <span class="date">967</span> <span class="name">Osuualdus</span> (<span class="case">nom</span>) <a href="../cite/Osuualdus/967/CDAS"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXXVI</span></a>,
+ <span class="name">Oswaldo</span> (<span class="case">abl</span>) <a href="../cite/Oswaldo/967/CDAS"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXXVI</span></a></dd>
+<dt><span class="lang">Old English</span></dt>
+<dd><span class="dim">●</span> <span class="date">966</span> <span class="name">Oswald</span> (<span class="case">nom</span>) <a href="../cite/Oswald/966/CDAS"><span class="bib_key">CDAS</span> <span class="bib_loc">DXXX</span></a>,
+ <span class="name">Oswaldes</span> (<span class="case">gen</span>) <a href="../cite/Oswaldes/966/CDAS"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXX</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1564</span> <span class="name">Oswald</span> <a href="../cite/Oswald/1564/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1569</span> <span class="name">Oswolde</span> <a href="../cite/Oswolde/1569/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1571</span> <span class="name">Oswald</span> <a href="../cite/Oswald/1571/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 56</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1401</span> <span class="name">Oswald</span> (<span class="case">nom</span>) <a href="../cite/Oswald/1401/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXIX</span></a>;
+ <span class="date">1402</span> <span class="name">Oswalden</span> (<span class="case">dat</span>) <a href="../cite/Oswalden/1402/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXX</span></a>;
+ <span class="date">1411</span> <span class="name">Oswalt</span> (<span class="case">nom</span>) <a href="../cite/Oswalt/1411/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCIV</span></a>,
+ <span class="name">Oswalten</span> (<span class="case">gen</span>) <a href="../cite/Oswalten/1411/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCIV</span></a>;
+ <span class="date">1419</span> <span class="name">Oswald</span> (<span class="case">nom</span>) <a href="../cite/Oswald/1419/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXI</span></a>,
+ <span class="name">Oswaldt</span> (<span class="case">nom</span>) <a href="../cite/Oswaldt/1419/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXII</span></a>;
+ <span class="date">1420</span> <span class="name">Oswald</span> (<span class="case">nom</span>) <a href="../cite/Oswald/1420/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXV</span></a>;
+ <span class="date">1429</span> <span class="name">Oswald</span> (<span class="case">nom</span>) <a href="../cite/Oswald/1429/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXXIII</span></a>;
+ <span class="date">1497</span> <span class="name">Osßwald</span> <a href="../cite/Osßwald/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">276</span></a>,
+ <span class="name">Oßwald</span> <a href="../cite/Oßwald/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">2181</span></a>,
+ <span class="name">Oßwalt</span> <a href="../cite/Oßwalt/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">1529</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Oswald". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Oswald.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

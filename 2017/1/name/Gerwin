@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Gerwin</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Gerwin</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German, Old Saxon</span> <i>gēr</i> 'spear' + <span class="lang">Old High German</span> <i>wini</i> 'friend'.
+</span>
+  
+</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1385</span> <span class="name">Gherwyn</span> <a href="../cite/Gherwyn/1385/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1402</span> <span class="name">Gherwyn</span> <a href="../cite/Gherwyn/1402/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1412</span> <span class="name">Gherwyn</span> <a href="../cite/Gherwyn/1412/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1419</span> <span class="name">Gherwyn</span> <a href="../cite/Gherwyn/1419/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 348</span></a>;
+ <span class="date">1429</span> <span class="name">Gerwin</span> <a href="../cite/Gerwin/1429/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 354</span></a>;
+ <span class="date">1430</span> <span class="name">Gerwin</span> <a href="../cite/Gerwin/1430/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 354</span></a>;
+ <span class="date">1440</span> <span class="name">Gerwen</span> <a href="../cite/Gerwen/1440/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 362</span></a>;
+ <span class="date">1442</span> <span class="name">Gereuen</span> <a href="../cite/Gereuen/1442/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 364</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Gairoinus</span> (<span class="case">nom</span>) <a href="../cite/Gairoinus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">35, Palatiolum</span></a>,
+ <span class="name">Giroinus</span> (<span class="case">nom</span>) <a href="../cite/Giroinus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">33, CE</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1259</span> <span class="name">Gerewinus</span> (<span class="case">nom</span>) <a href="../cite/Gerewinus/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1401</span> <span class="name">gerwino</span> (<span class="case">dat</span>) <a href="../cite/gerwino/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 353</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Gerwin". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Gerwin.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

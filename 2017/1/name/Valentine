@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Valentine</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Valentine</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A derivative of <span class="lang">Latin</span> <i>valens</i> 'strong; vigorous, healthy; powerful'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 3rd C Roman saint who gave rise to a popular modern holiday and a 9th C pope.</p>
+</div>
+  
+  
+
+
+<dl>
+<dt><span class="area">Croatia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1439x1482</span> <span class="name">Walenth</span> (<span class="case">nom</span>) <a href="../cite/Walenth/1439x1482/Brgles"><span class="bib_key">Brgles</span> <span class="bib_loc">p. 7</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Valentin</span> <a href="../cite/Valentin/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1545/6</span> <span class="name">Valentyne</span> <a href="../cite/Valentyne/1545s6/RegIng"><span class="bib_key">RegIng</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1563</span> <span class="name">Valentine</span> <a href="../cite/Valentine/1563/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1567</span> <span class="name">Valentine</span> <a href="../cite/Valentine/1567/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1599</span> <span class="name">Valentine</span> <a href="../cite/Valentine/1599/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 57</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1592</span> <span class="name">Valtin</span> <a href="../cite/Valtin/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 288</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1239</span> <span class="name">Valentini</span> (<span class="case">gen</span>) <a href="../cite/Valentini/1239/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">382b</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1568</span> <span class="name">Valentin</span> <a href="../cite/Valentin/1568/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 389</span></a>;
+ <span class="date">1570</span> <span class="name">Valentin</span> <a href="../cite/Valentin/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 430</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1394</span> <span class="name">Valentini</span> (<span class="case">gen</span>) <a href="../cite/Valentini/1394/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 172</span></a>,
+ <span class="name">Valentinus</span> (<span class="case">nom</span>) <a href="../cite/Valentinus/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 171</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Vallentin</span> <a href="../cite/Vallentin/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">2130</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1285</span> <span class="name">Valentini</span> (<span class="case">gen</span>) <a href="../cite/Valentini/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 161</span></a>;
+ <span class="date">1449</span> <span class="name">Valentino</span> (<span class="case">abl</span>) <a href="../cite/Valentino/1449/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">VIII</span></a>,
+ <span class="name">Valentinus</span> (<span class="case">nom</span>) <a href="../cite/Valentinus/1449/VitAs2"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Valentinus</span> (<span class="case">nom</span>) <a href="../cite/Valentinus/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 56, 5</span></a>,
+ <span class="name">Valintinus</span> (<span class="case">nom</span>) <a href="../cite/Valintinus/1522x1532/DSF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51, 24</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1490</span> <span class="name">Valentinus</span> (<span class="case">nom</span>) <a href="../cite/Valentinus/1490/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 43</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, S.L. Uckelman. "Valentine". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Valentine.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

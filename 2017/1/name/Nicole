@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Nicole</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Nicole</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Fem. of <a class="nym" href="Nicholas">Nicholas</a>.
+</span>
+  
+</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1340xc1450</span> <span class="name">Nichola</span> (<span class="case">nom</span>) <a href="../cite/Nichola/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1381</span> <span class="name">Necolaa</span> (<span class="case">nom</span>) <a href="../cite/Necolaa/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 96</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1377</span> <span class="name">Coleta</span> (<span class="case">nom</span>) <a href="../cite/Coleta/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1379</span> <span class="name">Collecto</span> (<span class="case">nom</span>) <a href="../cite/Collecto/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1381</span> <span class="name">Colleta</span> (<span class="case">nom</span>) <a href="../cite/Colleta/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 118</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1429</span> <span class="name">Nichol</span> <a href="../cite/Nichol/1429/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LV</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1560</span> <span class="name">Nycoll</span> <a href="../cite/Nycoll/1560/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1572</span> <span class="name">Nicoll</span> <a href="../cite/Nicoll/1572/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1578</span> <span class="name">Nycoll</span> <a href="../cite/Nycoll/1578/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1581</span> <span class="name">Nichol</span> <a href="../cite/Nichol/1581/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1586</span> <span class="name">Nicholl</span> <a href="../cite/Nicholl/1586/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1587</span> <span class="name">Nicoll</span> <a href="../cite/Nicoll/1587/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1592</span> <span class="name">Nichol</span> <a href="../cite/Nichol/1592/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>,
+ <span class="name">Nycoll</span> <a href="../cite/Nycoll/1592/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1593</span> <span class="name">Nicholl</span> <a href="../cite/Nicholl/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Nicol</span> <a href="../cite/Nicol/1593/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1594</span> <span class="name">Nichol</span> <a href="../cite/Nichol/1594/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Nicholl</span> <a href="../cite/Nicholl/1594/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1598</span> <span class="name">Nicholl</span> <a href="../cite/Nicholl/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>,
+ <span class="name">Nicoll</span> <a href="../cite/Nicoll/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1599</span> <span class="name">Nicoll</span> <a href="../cite/Nicoll/1599/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Nichole</span> <a href="../cite/Nichole/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1313</span> <span class="name">Nicole</span> <a href="../cite/Nicole/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 10</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1421</span> <span class="name">Nicole</span> <a href="../cite/Nicole/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">504</span></a>;
+ <span class="date">1562</span> <span class="name">Nicole</span> <a href="../cite/Nicole/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1563</span> <span class="name">Nicole</span> <a href="../cite/Nicole/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1564</span> <span class="name">Nicolle</span> <a href="../cite/Nicolle/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1566</span> <span class="name">Nicole</span> <a href="../cite/Nicole/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 245</span></a>;
+ <span class="date">1568</span> <span class="name">Nicolle</span> <a href="../cite/Nicolle/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 364</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Collette</span> <a href="../cite/Collette/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">168</span></a>;
+ <span class="date">1562</span> <span class="name">Colasse</span> <a href="../cite/Colasse/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Colette</span> <a href="../cite/Colette/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Collette</span> <a href="../cite/Collette/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1563</span> <span class="name">Colète</span> <a href="../cite/Colète/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1564</span> <span class="name">Colette</span> <a href="../cite/Colette/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 100</span></a>,
+ <span class="name">Collette</span> <a href="../cite/Collette/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1565</span> <span class="name">Colasse</span> <a href="../cite/Colasse/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 123</span></a>,
+ <span class="name">Colette</span> <a href="../cite/Colette/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 114</span></a>,
+ <span class="name">Collasse</span> <a href="../cite/Collasse/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 192</span></a>,
+ <span class="name">Collette</span> <a href="../cite/Collette/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1566</span> <span class="name">Colette</span> <a href="../cite/Colette/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 203</span></a>,
+ <span class="name">Collette</span> <a href="../cite/Collette/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 197</span></a>;
+ <span class="date">1567</span> <span class="name">Collasse</span> <a href="../cite/Collasse/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303</span></a>,
+ <span class="name">Collette</span> <a href="../cite/Collette/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301</span></a>;
+ <span class="date">1568</span> <span class="name">Collasse</span> <a href="../cite/Collasse/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 391</span></a>,
+ <span class="name">Collette</span> <a href="../cite/Collette/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 375</span></a>;
+ <span class="date">1570</span> <span class="name">Collette</span> <a href="../cite/Collette/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 425</span></a>;
+ <span class="date">1571</span> <span class="name">Collasse</span> <a href="../cite/Collasse/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 439</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1521</span> <span class="name">Nicholosa</span> (<span class="case">nom</span>) <a href="../cite/Nicholosa/1521/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1527</span> <span class="name">Nicola</span> (<span class="case">nom</span>) <a href="../cite/Nicola/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 88</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1348</span> <span class="name">Cole</span> (<span class="case">gen</span>) <a href="../cite/Cole/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">22</span></a>,
+ <span class="name">Colelle</span> (<span class="case">gen</span>) <a href="../cite/Colelle/1348/INP"><span class="bib_key">ibid.</span> <span class="bib_loc">22</span></a>,
+ <span class="name">Colutie</span> (<span class="case">gen</span>) <a href="../cite/Colutie/1348/INP"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>;
+ <span class="date">1366</span> <span class="name">Niccholettam</span> (<span class="case">acc</span>) <a href="../cite/Niccholettam/1366/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1387</span> <span class="name">Colecta</span> (<span class="case">nom</span>) <a href="../cite/Colecta/1387/Venditti"><span class="bib_key">Venditti</span> <span class="bib_loc">II-15</span></a>,
+ <span class="name">Nicolutie</span> (<span class="case">gen</span>) <a href="../cite/Nicolutie/1387/Venditti"><span class="bib_key">ibid.</span> <span class="bib_loc">II-40</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1576</span> <span class="name">Nicolasa</span> <a href="../cite/Nicolasa/1576/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3956</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">14thCx1478</span> <span class="name">Nycola</span> (<span class="case">nom</span>) <a href="../cite/Nycola/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(39)</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">14thCx1478</span> <span class="name">Colleta</span> (<span class="case">nom</span>) <a href="../cite/Colleta/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(88)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Nicole". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Nicole.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

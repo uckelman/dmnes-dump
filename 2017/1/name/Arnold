@@ -1,0 +1,493 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Arnold</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Arnold</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>earn</i>, <span class="lang">Old High German</span>, <span class="lang">Old Saxon</span> <i>arn</i> 'eagle' + <span class="lang">Old English</span> <i>weald</i>, <span class="lang">Old High German</span> <i>walt</i> 'power'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an 11th C saint, the patron of brewers.</p>
+</div>
+  
+  
+<div class="def">
+  <p>In early texts, the name was often confused with <a class="nym" href="Arnulf">Arnulf</a>, and may have in fact developed as a back-formation from that name through confusion with other similar names ending in <i>-vald</i> or <i>-wald</i>.</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1030</span> <span class="name">Arnolt</span> (<span class="case">nom</span>) <a href="../cite/Arnolt/c1030/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">46</span></a>;
+ <span class="date">c1070</span> <span class="name">Arnoldi</span> (<span class="case">gen</span>) <a href="../cite/Arnoldi/c1070/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">70</span></a>;
+ <span class="date">c1120</span> <span class="name">Arnoldi</span> (<span class="case">gen</span>) <a href="../cite/Arnoldi/c1120/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">104</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/c1120/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">104</span></a>,
+ <span class="name">Arnolt</span> (<span class="case">nom</span>) <a href="../cite/Arnolt/c1120/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">103</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1050</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1050/CRS-2-5"><span class="bib_key">CRS-2-5</span> <span class="bib_loc">p. 232</span></a>;
+ <span class="date">1238</span> <span class="name">Arnoldi</span> (<span class="case">gen</span>) <a href="../cite/Arnoldi/1238/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1266</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1266/OvdFB"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1371</span> <span class="name">Aernould</span> (<span class="case">nom</span>) <a href="../cite/Aernould/1371/NotComDest"><span class="bib_key">NotComDest</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1376</span> <span class="name">Arnoud</span> (<span class="case">nom</span>) <a href="../cite/Arnoud/1376/RSG1376-89"><span class="bib_key">RSG1376-89</span> <span class="bib_loc">p. 1</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Aerdt</span> <a href="../cite/Aerdt/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 321</span></a>,
+ <span class="name">Aerdts</span> (<span class="case">gen</span>) <a href="../cite/Aerdts/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 324</span></a>,
+ <span class="name">Aert</span> <a href="../cite/Aert/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 323</span></a>,
+ <span class="name">Arnoult</span> <a href="../cite/Arnoult/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 324</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Arnoddus</span> (<span class="case">nom</span>) <a href="../cite/Arnoddus/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Arnoldi</span> (<span class="case">gen</span>) <a href="../cite/Arnoldi/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Arnoldo</span> (<span class="case">abl</span>) <a href="../cite/Arnoldo/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1312</span> <span class="name">Arnekinus</span> (<span class="case">nom</span>) <a href="../cite/Arnekinus/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Nout</span> (<span class="case">gen</span>) <a href="../cite/Nout/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1358</span> <span class="name">Arnoltikoni</span> (<span class="case">dat</span>) <a href="../cite/Arnoltikoni/1358/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">262, p. 32</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Arnoldus</span> <a href="../cite/Arnoldus/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1161x1184</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1161x1184/MDE"><span class="bib_key">MDE</span> <span class="bib_loc">p. 227, no. 1</span></a>;
+ <span class="date">1181</span> <span class="name">Ernoldus</span> (<span class="case">nom</span>) <a href="../cite/Ernoldus/1181/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 117</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Ærnaldus</span> (<span class="case">nom</span>) <a href="../cite/Ærnaldus/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1189</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 132</span></a>,
+ <span class="name">Ernald</span> (<span class="case">nom</span>) <a href="../cite/Ernald/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 174</span></a>,
+ <span class="name">Ernaldi</span> (<span class="case">gen</span>) <a href="../cite/Ernaldi/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95</span></a>,
+ <span class="name">Ernaldo</span> (<span class="case">dat</span>) <a href="../cite/Ernaldo/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95</span></a>,
+ <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95</span></a>,
+ <span class="name">Ernoldus</span> (<span class="case">nom</span>) <a href="../cite/Ernoldus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1222</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">ernold</span> (<span class="case">gen</span>) <a href="../cite/ernold/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1558</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1558/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 59</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1576</span> <span class="name">Arent</span> <a href="../cite/Arent/1576/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Cornelissen</span></a>;
+ <span class="date">1580</span> <span class="name">Aerent</span> <a href="../cite/Aerent/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bues</span></a>;
+ <span class="date">1583</span> <span class="name">Arnoudt</span> <a href="../cite/Arnoudt/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bants</span></a>;
+ <span class="date">1589</span> <span class="name">Arnout</span> <a href="../cite/Arnout/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Corté</span></a>;
+ <span class="date">1590</span> <span class="name">Arnoldus</span> <a href="../cite/Arnoldus/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Aernouts</span></a>;
+ <span class="date">1592</span> <span class="name">Arnaut</span> <a href="../cite/Arnaut/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Einserinck</span></a>;
+ <span class="date">1594</span> <span class="name">Arnout</span> <a href="../cite/Arnout/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Coudrons</span></a>;
+ <span class="date">1596</span> <span class="name">Arnout</span> <a href="../cite/Arnout/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Coudron</span></a>;
+ <span class="date">1597</span> <span class="name">Arnout</span> <a href="../cite/Arnout/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Artsen</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1364</span> <span class="name">Arnold</span> <a href="../cite/Arnold/1364/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 334</span></a>;
+ <span class="date">1379x1383</span> <span class="name">Arnold</span> <a href="../cite/Arnold/1379x1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1385</span> <span class="name">Arnoldus</span> <a href="../cite/Arnoldus/1385/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1436</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1436/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>;
+ <span class="date">1440</span> <span class="name">Arnde</span> <a href="../cite/Arnde/1440/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 362</span></a>;
+ <span class="date">1442</span> <span class="name">Arnt</span> <a href="../cite/Arnt/1442/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 364</span></a>;
+ <span class="date">1443</span> <span class="name">Arend</span> <a href="../cite/Arend/1443/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 365</span></a>;
+ <span class="date">1444</span> <span class="name">Arnt</span> <a href="../cite/Arnt/1444/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 365</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1364</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1364/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 334</span></a>;
+ <span class="date">1376</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1376/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 335</span></a>;
+ <span class="date">1378</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1378/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 335</span></a>;
+ <span class="date">1379</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1379/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1384</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1384/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1392</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1392/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 340</span></a>;
+ <span class="date">1396</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1396/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 341</span></a>;
+ <span class="date">1397</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1397/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 340</span></a>;
+ <span class="date">1398</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1398/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1399</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1399/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1404</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1404/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1407</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1407/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1414</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1414/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1416</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1416/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1418</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1418/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 348</span></a>;
+ <span class="date">1421</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1421/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1428</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a>,
+ <span class="name">Arnt</span> <a href="../cite/Arnt/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a>;
+ <span class="date">1429</span> <span class="name">Arent</span> <a href="../cite/Arent/1429/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 353</span></a>;
+ <span class="date">1432</span> <span class="name">Arnd</span> <a href="../cite/Arnd/1432/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1576</span> <span class="name">Arnne</span> (<span class="case">nom</span>) <a href="../cite/Arnne/1576/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1577</span> <span class="name">Arnt</span> (<span class="case">nom</span>) <a href="../cite/Arnt/1577/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">565</span> <span class="name">Ernoldi</span> (<span class="case">gen</span>) <a href="../cite/Ernoldi/565/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">Add. II</span></a>;
+ <span class="date">c823</span> <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">15, Ved</span></a>,
+ <span class="name">Ernaudus</span> (<span class="case">nom</span>) <a href="../cite/Ernaudus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">94, Ved</span></a>,
+ <span class="name">Ernoldus</span> (<span class="case">nom</span>) <a href="../cite/Ernoldus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">2, CE</span></a>;
+ <span class="date">1038</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1038/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">721</span></a>;
+ <span class="date">1045</span> <span class="name">Arnaldo</span> (<span class="case">abl</span>) <a href="../cite/Arnaldo/1045/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">691</span></a>;
+ <span class="date">1047</span> <span class="name">Arnaudi</span> (<span class="case">gen</span>) <a href="../cite/Arnaudi/1047/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1047x1061</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1047x1061/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>,
+ <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/1047x1061/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>,
+ <span class="name">Hernaldus</span> (<span class="case">nom</span>) <a href="../cite/Hernaldus/1047x1061/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1058</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1058/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">694</span></a>;
+ <span class="date">1060</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1060/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">730</span></a>;
+ <span class="date">1067</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1067/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1073</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1073/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">708</span></a>;
+ <span class="date">1079x1081</span> <span class="name">Arnaudus</span> (<span class="case">nom</span>) <a href="../cite/Arnaudus/1079x1081/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">1082x87</span> <span class="name">Arnaudus</span> (<span class="case">nom</span>) <a href="../cite/Arnaudus/1082x87/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 120</span></a>;
+ <span class="date">1083</span> <span class="name">Arnaldi</span> (<span class="case">gen</span>) <a href="../cite/Arnaldi/1083/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 119</span></a>;
+ <span class="date">1093</span> <span class="name">Ernaldi</span> (<span class="case">gen</span>) <a href="../cite/Ernaldi/1093/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1094</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1094/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">686</span></a>;
+ <span class="date">1101x1120</span> <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/1101x1120/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXIV</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Arnaldo</span> (<span class="case">abl</span>) <a href="../cite/Arnaldo/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVIII</span></a>,
+ <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII</span></a>;
+ <span class="date">1107</span> <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/1115x1149/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">a1116</span> <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/a1116/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1123</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1123/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1143x1146</span> <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/1143x1146/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1147</span> <span class="name">Arnaudo</span> (<span class="case">abl</span>) <a href="../cite/Arnaudo/1147/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXV</span></a>,
+ <span class="name">Ernoldus</span> (<span class="case">nom</span>) <a href="../cite/Ernoldus/1147/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCVII</span></a>;
+ <span class="date">1148</span> <span class="name">Arnaudi</span> (<span class="case">gen</span>) <a href="../cite/Arnaudi/1148/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXIV</span></a>;
+ <span class="date">1158</span> <span class="name">Arnaudus</span> (<span class="case">nom</span>) <a href="../cite/Arnaudus/1158/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">702</span></a>;
+ <span class="date">1166</span> <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/1166/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCI</span></a>;
+ <span class="date">1168</span> <span class="name">Arnaldi</span> (<span class="case">gen</span>) <a href="../cite/Arnaldi/1168/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">133</span></a>;
+ <span class="date">1180</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1180/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CVI</span></a>,
+ <span class="name">Ernaldo</span> (<span class="case">abl</span>) <a href="../cite/Ernaldo/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1190</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1190/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CV</span></a>;
+ <span class="date">1274</span> <span class="name">Arnaldi</span> (<span class="case">gen</span>) <a href="../cite/Arnaldi/1274/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 46</span></a>,
+ <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1275</span> <span class="name">Ernaudi</span> (<span class="case">gen</span>) <a href="../cite/Ernaudi/1275/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XLIV</span></a>;
+ <span class="date">1283x1286</span> <span class="name">Arnaldi</span> (<span class="case">gen</span>) <a href="../cite/Arnaldi/1283x1286/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 227</span></a>,
+ <span class="name">Ernaldi</span> (<span class="case">gen</span>) <a href="../cite/Ernaldi/1283x1286/GasReg-A"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 227</span></a>;
+ <span class="date">1287</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1287/GasReg-A"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 74</span></a>;
+ <span class="date">1292</span> <span class="name">Ernaudus</span> (<span class="case">nom</span>) <a href="../cite/Ernaudus/1292/MemBret-I"><span class="bib_key">MemBret-I</span> <span class="bib_loc">1103</span></a>;
+ <span class="date">1300</span> <span class="name">Arnaudi</span> (<span class="case">gen</span>) <a href="../cite/Arnaudi/1300/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">382</span></a>;
+ <span class="date">1301</span> <span class="name">Arnaldi</span> (<span class="case">gen</span>) <a href="../cite/Arnaldi/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 226</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 217</span></a>,
+ <span class="name">Enardi</span> (<span class="case">gen</span>) <a href="../cite/Enardi/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 225</span></a>,
+ <span class="name">Ernaudi</span> (<span class="case">gen</span>) <a href="../cite/Ernaudi/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 202</span></a>;
+ <span class="date">1306</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1306/LibSenTou"><span class="bib_key">LibSenTou</span> <span class="bib_loc">fol. 118</span></a>;
+ <span class="date">1310/11</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1310s11/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1310</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1310/GasReg-A"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 217</span></a>,
+ <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/1310/GasReg-A"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 217</span></a>,
+ <span class="name">Ernaud</span> (<span class="case">nom</span>) <a href="../cite/Ernaud/1310/GasReg-A"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 217</span></a>;
+ <span class="date">1310–11</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1310–11/GasReg-A"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 236</span></a>;
+ <span class="date">1311</span> <span class="name">Arnaldi</span> (<span class="case">gen</span>) <a href="../cite/Arnaldi/1311/LibSenTou"><span class="bib_key">LibSenTou</span> <span class="bib_loc">fol. 118</span></a>,
+ <span class="name">Arnaldum</span> (<span class="case">acc</span>) <a href="../cite/Arnaldum/1311/LibSenTou"><span class="bib_key">ibid.</span> <span class="bib_loc">fol. 118</span></a>,
+ <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1311/LibSenTou"><span class="bib_key">ibid.</span> <span class="bib_loc">fol. 118</span></a>;
+ <span class="date">1378</span> <span class="name">Alnoldo</span> (<span class="case">dat</span>) <a href="../cite/Alnoldo/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1617</span></a>,
+ <span class="name">Arnaldi</span> (<span class="case">gen</span>) <a href="../cite/Arnaldi/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">159</span></a>,
+ <span class="name">Arnaldo</span> (<span class="case">dat</span>) <a href="../cite/Arnaldo/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1159</span></a>,
+ <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">288</span></a>,
+ <span class="name">Arnoldo</span> (<span class="case">dat</span>) <a href="../cite/Arnoldo/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">290</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">Ernous</span> (<span class="case">nom</span>) <a href="../cite/Ernous/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 239</span></a>;
+ <span class="date">1313</span> <span class="name">Ernaut</span> <a href="../cite/Ernaut/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Ernoult</span> <a href="../cite/Ernoult/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1339</span> <span class="name">Arnol</span> <a href="../cite/Arnol/1339/valois-2"><span class="bib_key">valois-2</span> <span class="bib_loc">CCIX</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Arnoult</span> <a href="../cite/Arnoult/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 374</span></a>;
+ <span class="date">1421</span> <span class="name">Arnoult</span> <a href="../cite/Arnoult/1421/favier"><span class="bib_key">favier</span></a>;
+ <span class="date">1423</span> <span class="name">Arnould</span> <a href="../cite/Arnould/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">283</span></a>;
+ <span class="date">1568</span> <span class="name">Arnould</span> <a href="../cite/Arnould/1568/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 378</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Naudin</span> <a href="../cite/Naudin/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">155</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Arnald</span> (<span class="case">nom</span>) <a href="../cite/Arnald/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§216</span></a>;
+ <span class="date">1103</span> <span class="name">Arnoldum</span> (<span class="case">acc</span>) <a href="../cite/Arnoldum/1103/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">79</span></a>;
+ <span class="date">1112</span> <span class="name">Arnoldi</span> (<span class="case">gen</span>) <a href="../cite/Arnoldi/1112/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a>;
+ <span class="date">1138</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1138/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1142</span> <span class="name">Arnoldi</span> (<span class="case">gen</span>) <a href="../cite/Arnoldi/1142/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1142/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>,
+ <span class="name">Arnolt</span> (<span class="case">nom</span>) <a href="../cite/Arnolt/1142/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1145</span> <span class="name">Arnolt</span> (<span class="case">nom</span>) <a href="../cite/Arnolt/1145/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1147</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1147/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII</span></a>,
+ <a href="../cite/Arnoldus/1147/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1165</span> <span class="name">Arnoldo</span> (<span class="case">abl</span>) <a href="../cite/Arnoldo/1165/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1174</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1174/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1180</span> <span class="name">Arnoldo</span> (<span class="case">abl</span>) <a href="../cite/Arnoldo/1180/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1180/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1192</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1192/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>;
+ <span class="date">1194</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1194/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>;
+ <span class="date">1197</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1197/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">I</span></a>,
+ <a href="../cite/Arnoldus/1197/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1217</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1217/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">71</span></a>;
+ <span class="date">1218</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1218/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1219</span> <span class="name">Arnoldi</span> (<span class="case">nom</span>) <a href="../cite/Arnoldi/1219/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">73</span></a>,
+ <span class="name">Arnoldum</span> (<span class="case">acc</span>) <a href="../cite/Arnoldum/1219/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">41</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>;
+ <span class="date">1222</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1222/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">62</span></a>;
+ <span class="date">1223</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1223/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">136</span></a>;
+ <span class="date">1229</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1229/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1230</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1230/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">p. 91</span></a>;
+ <span class="date">1232</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1232/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1233</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1233/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1238</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1238/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">1247</span> <span class="name">Arnoldi</span> (<span class="case">gen</span>) <a href="../cite/Arnoldi/1247/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">123</span></a>;
+ <span class="date">1254</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1254/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">152</span></a>;
+ <span class="date">1256</span> <span class="name">Arnoldi</span> (<span class="case">gen</span>) <a href="../cite/Arnoldi/1256/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">160</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1256/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">159</span></a>;
+ <span class="date">1258</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1258/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">182</span></a>;
+ <span class="date">1259</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1260</span> <span class="name">Arnoldi</span> (<span class="case">gen</span>) <a href="../cite/Arnoldi/1260/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">187</span></a>;
+ <span class="date">1310</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1310/UrkHan"><span class="bib_key">UrkHan</span> <span class="bib_loc">4</span></a>,
+ <a href="../cite/Arnoldus/1310/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1313</span> <span class="name">Arnoldum</span> (<span class="case">acc</span>) <a href="../cite/Arnoldum/1313/VFBStralsund"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1315</span> <span class="name">Arnolt</span> (<span class="case">nom</span>) <a href="../cite/Arnolt/1315/VFBStralsund"><span class="bib_key">ibid.</span> <span class="bib_loc">42</span></a>;
+ <span class="date">1317</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1317/VFBStralsund"><span class="bib_key">ibid.</span> <span class="bib_loc">53</span></a>;
+ <span class="date">1322</span> <span class="name">Arnoldini</span> (<span class="case">gen</span>) <a href="../cite/Arnoldini/1322/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 162</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1322/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 157</span></a>;
+ <span class="date">1323</span> <span class="name">Arnoldum</span> (<span class="case">acc</span>) <a href="../cite/Arnoldum/1323/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">94</span></a>,
+ <span class="name">Arnolt</span> (<span class="case">nom</span>) <a href="../cite/Arnolt/1323/VFBStralsund"><span class="bib_key">ibid.</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1332</span> <span class="name">Arnoldum</span> (<span class="case">acc</span>) <a href="../cite/Arnoldum/1332/VFBStralsund"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1401</span> <span class="name">Arnoldi</span> (<span class="case">gen</span>) <a href="../cite/Arnoldi/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 368</span></a>,
+ <span class="name">Arnoldo</span> (<span class="case">dat</span>) <a href="../cite/Arnoldo/1401/HD1401"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 43</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1317</span> <span class="name">Arnoldi</span> (<span class="case">gen</span>) <a href="../cite/Arnoldi/1317/CDH-VIII-II"><span class="bib_key">CDH-VIII-II</span> <span class="bib_loc">IV</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1317/CDH-VIII-II"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 7</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 15</span></a>,
+ <span class="name">Ernaldus</span> (<span class="case">nom</span>) <a href="../cite/Ernaldus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 6</span></a>,
+ <span class="name">Hernoldus</span> (<span class="case">nom</span>) <a href="../cite/Hernoldus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 8</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1235</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1235/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1236</span> <span class="name">Arnoldi</span> (<span class="case">gen</span>) <a href="../cite/Arnoldi/1236/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1367</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1367/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1464</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">a1286</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/a1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1286</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1286/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1287</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1287/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">505</span></a>;
+ <span class="date">1288</span> <span class="name">Arnoldo</span> (<span class="case">dat</span>) <a href="../cite/Arnoldo/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">333</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">516</span></a>;
+ <span class="date">1289</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1291</span> <span class="name">Arnoldus</span> (<span class="case">dat</span>) <a href="../cite/Arnoldus/1291/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1292</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a>;
+ <span class="date">1293</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1293/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">41</span></a>;
+ <span class="date">1294</span> <span class="name">Arnoldo</span> (<span class="case">dat</span>) <a href="../cite/Arnoldo/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">168</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>;
+ <span class="date">1295</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1295/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">56</span></a>;
+ <span class="date">1297</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1297/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">79</span></a>;
+ <span class="date">1299</span> <span class="name">Arnoldo</span> (<span class="case">dat</span>) <a href="../cite/Arnoldo/1299/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">276</span></a>,
+ <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1299/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1300</span> <span class="name">Arnoldo</span> (<span class="case">dat</span>) <a href="../cite/Arnoldo/1300/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">412</span></a>;
+ <span class="date">1303</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1303/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">373</span></a>;
+ <span class="date">1307</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1307/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">112</span></a>;
+ <span class="date">1321</span> <span class="name">Arnoldo</span> (<span class="case">dat</span>) <a href="../cite/Arnoldo/1321/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">295</span></a>;
+ <span class="date">1328</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1328/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">116</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1523</span> <span class="name">Arendt</span> <a href="../cite/Arendt/1523/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 99</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1212</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1212/CLI"><span class="bib_key">CLI</span> <span class="bib_loc">p. 149</span></a>;
+ <span class="date">1369</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1369/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 303</span></a>;
+ <span class="date">1373</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1373/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304</span></a>;
+ <span class="date">1387</span> <span class="name">aernts</span> (<span class="case">gen</span>) <a href="../cite/aernts/1387/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304</span></a>,
+ <span class="name">arnoldus</span> (<span class="case">nom</span>) <a href="../cite/arnoldus/1387/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1380</span> <span class="name">Arents</span> (<span class="case">gen</span>) <a href="../cite/Arents/1380/GesOIJ-4"><span class="bib_key">GesOIJ-4</span> <span class="bib_loc">p. 186</span></a>;
+ <span class="date">1382</span> <span class="name">Arent</span> (<span class="case">nom</span>) <a href="../cite/Arent/1382/GesOIJ-4"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 186</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1560</span> <span class="name">Arent</span> <a href="../cite/Arent/1560/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1561</span> <span class="name">Arent</span> <a href="../cite/Arent/1561/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1562</span> <span class="name">Arent</span> <a href="../cite/Arent/1562/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1563</span> <span class="name">Arent</span> <a href="../cite/Arent/1563/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1564</span> <span class="name">Arent</span> <a href="../cite/Arent/1564/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1565</span> <span class="name">Arent</span> <a href="../cite/Arent/1565/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1566</span> <span class="name">Arent</span> <a href="../cite/Arent/1566/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1567</span> <span class="name">Arent</span> <a href="../cite/Arent/1567/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1569</span> <span class="name">Arent</span> <a href="../cite/Arent/1569/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1573</span> <span class="name">Arent</span> <a href="../cite/Arent/1573/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1574</span> <span class="name">Arent</span> <a href="../cite/Arent/1574/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Arents</span> (<span class="case">gen</span>) <a href="../cite/Arents/1574/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1575</span> <span class="name">Arent</span> <a href="../cite/Arent/1575/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1576</span> <span class="name">Arent</span> <a href="../cite/Arent/1576/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1577</span> <span class="name">Aernout</span> <a href="../cite/Aernout/1577/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Arent</span> <a href="../cite/Arent/1577/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1578</span> <span class="name">Aernout</span> <a href="../cite/Aernout/1578/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Arent</span> <a href="../cite/Arent/1578/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1579</span> <span class="name">Aernout</span> <a href="../cite/Aernout/1579/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Arent</span> <a href="../cite/Arent/1579/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1580</span> <span class="name">Arent</span> <a href="../cite/Arent/1580/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1581</span> <span class="name">Arent</span> <a href="../cite/Arent/1581/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1582</span> <span class="name">Arent</span> <a href="../cite/Arent/1582/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1583</span> <span class="name">Arent</span> <a href="../cite/Arent/1583/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1584</span> <span class="name">Arent</span> <a href="../cite/Arent/1584/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1585</span> <span class="name">Arent</span> <a href="../cite/Arent/1585/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1586</span> <span class="name">Arent</span> <a href="../cite/Arent/1586/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1587</span> <span class="name">Arent</span> <a href="../cite/Arent/1587/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1588</span> <span class="name">Arent</span> <a href="../cite/Arent/1588/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1589</span> <span class="name">Arent</span> <a href="../cite/Arent/1589/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1590</span> <span class="name">Arent</span> <a href="../cite/Arent/1590/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1591</span> <span class="name">Arent</span> <a href="../cite/Arent/1591/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1592</span> <span class="name">Arent</span> <a href="../cite/Arent/1592/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1593</span> <span class="name">Arent</span> <a href="../cite/Arent/1593/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1594</span> <span class="name">Arent</span> <a href="../cite/Arent/1594/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1595</span> <span class="name">Arent</span> <a href="../cite/Arent/1595/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1596</span> <span class="name">Arent</span> <a href="../cite/Arent/1596/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1575</span> <span class="name">Aert</span> <a href="../cite/Aert/1575/NHG-Middelburg"><span class="bib_key">NHG-Middelburg</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1576</span> <span class="name">Aert</span> <a href="../cite/Aert/1576/NHG-Middelburg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 69</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1228</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1228/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">p. 81</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1006</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1006/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCLXV</span></a>;
+ <span class="date">1019</span> <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1019/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXIV</span></a>;
+ <span class="date">1087</span> <span class="name">Arnal</span> (<span class="case">nom</span>) <a href="../cite/Arnal/1087/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCV</span></a>;
+ <span class="date">1190</span> <span class="name">Arnal</span> (<span class="case">abl</span>) <a href="../cite/Arnal/1190/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVII</span></a>,
+ <span class="name">Arnall</span> (<span class="case">abl</span>) <a href="../cite/Arnall/1190/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVII</span></a>,
+ <span class="name">Arnalli</span> (<span class="case">gen</span>) <a href="../cite/Arnalli/1190/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVI</span></a>,
+ <span class="name">Arnallus</span> (<span class="case">nom</span>) <a href="../cite/Arnallus/1190/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVII</span></a>;
+ <span class="date">1192</span> <span class="name">Arnalli</span> (<span class="case">gen</span>) <a href="../cite/Arnalli/1192/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVIII</span></a>,
+ <span class="name">Arnallo</span> (<span class="case">abl</span>) <a href="../cite/Arnallo/1192/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVIII</span></a>,
+ <span class="name">Arnallum</span> (<span class="case">acc</span>) <a href="../cite/Arnallum/1192/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVIII</span></a>,
+ <span class="name">Arnallus</span> (<span class="case">nom</span>) <a href="../cite/Arnallus/1192/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVIII</span></a>;
+ <span class="date">1487</span> <span class="name">Arnaldi</span> (<span class="case">gen</span>) <a href="../cite/Arnaldi/1487/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Arnaldus</span> (<span class="case">nom</span>) <a href="../cite/Arnaldus/1487/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Arnal</span> <a href="../cite/Arnal/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">4050</span></a>,
+ <span class="name">Arnau</span> <a href="../cite/Arnau/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3171</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1495</span> <span class="name">Arnaut</span> <a href="../cite/Arnaut/1495/montalvo"><span class="bib_key">montalvo</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Arnoldus</span> (<span class="case">nom</span>) <a href="../cite/Arnoldus/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1948</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Arend</span> <a href="../cite/Arend/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1946</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, R. Le Get, J. Uckelman, S.L. Uckelman. "Arnold". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Arnold.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

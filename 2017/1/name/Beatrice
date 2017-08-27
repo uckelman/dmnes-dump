@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Beatrice</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Beatrice</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>beatrix</i> 'she who blesses, makes happy, delights'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 4th C Roman martyr, a 12th C queen consort of Sicily, a 13th C queen consort of Sicily, a 13th C queen of the Romans, a 13th C Italian saint, a 13th C queen of Hungary, a 13th C Holy Roman empress, a 13th C queen consort of Portugal, a 14th C queen of Portugal, a 14th C queen of Bohemia, a 14th C queen of Germany, a 14th C queen consort of Hungary, a 14th C queen of Sweden, a 15th C Portuguese saint, and a 15th C queen of Hungary and Bohemia.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The English diminutives <i>Bet</i> and <i>Beton</i> are witnessed in 1379 in the relational bynames <i>Betsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 159</span></span>) and <i>Betonsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 18</span></span>).</p>
+</div>
+  
+
+
+<dl>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Beatricis</span> (<span class="case">gen</span>) <a href="../cite/Beatricis/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1349</span> <span class="name">Beatrici</span> (<span class="case">dat</span>) <a href="../cite/Beatrici/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">33</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 237</span></a>;
+ <span class="date">1222</span> <span class="name">Beatricis</span> (<span class="case">nom</span>) <a href="../cite/Beatricis/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 53</span></a>,
+ <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">bratricis</span> (<span class="case">gen</span>) <a href="../cite/bratricis/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1279–80</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1300</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 240</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Beatricia</span> (<span class="case">nom</span>) <a href="../cite/Beatricia/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1377</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1379</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Betrix</span> (<span class="case">nom</span>) <a href="../cite/Betrix/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1381</span> <span class="name">Beatrice</span> (<span class="case">abl</span>) <a href="../cite/Beatrice/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 93</span></a>,
+ <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Beatrix/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1431</span> <span class="name">Beatrici</span> (<span class="case">dat</span>) <a href="../cite/Beatrici/1431/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LVI</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1395</span> <span class="name">Beatrice</span> <a href="../cite/Beatrice/1395/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1411</span> <span class="name">Beatrice</span> <a href="../cite/Beatrice/1411/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1424–25</span> <span class="name">Beatrice</span> <a href="../cite/Beatrice/1424–25/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1454</span> <span class="name">Bartrice</span> <a href="../cite/Bartrice/1454/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 133</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Beatrice</span> <a href="../cite/Beatrice/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 56</span></a>,
+ <span class="name">Beatrix</span> <a href="../cite/Beatrix/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Beteres</span> <a href="../cite/Beteres/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">Betterys</span> <a href="../cite/Betterys/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1533</span> <span class="name">betress</span> <a href="../cite/betress/1533/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXIII</span></a>;
+ <span class="date">1541</span> <span class="name">Beatrixe</span> <a href="../cite/Beatrixe/1541/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1546</span> <span class="name">Beatrice</span> <a href="../cite/Beatrice/1546/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1551</span> <span class="name">Betteresse</span> <a href="../cite/Betteresse/1551/RegIng"><span class="bib_key">RegIng</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1555/6</span> <span class="name">Betteresse</span> <a href="../cite/Betteresse/1555s6/RegIng"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1556/57</span> <span class="name">Bettresse</span> <a href="../cite/Bettresse/1556s57/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1559</span> <span class="name">Beatryx</span> <a href="../cite/Beatryx/1559/BarnstapleBap"><span class="bib_key">BarnstapleBap</span></a>;
+ <span class="date">1563</span> <span class="name">Betteris</span> <a href="../cite/Betteris/1563/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1564</span> <span class="name">Betteris</span> <a href="../cite/Betteris/1564/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1581</span> <span class="name">Bettres</span> <a href="../cite/Bettres/1581/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1592</span> <span class="name">Betteresse</span> <a href="../cite/Betteresse/1592/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 131</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1541</span> <span class="name">Beten</span> <a href="../cite/Beten/1541/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1580</span> <span class="name">Beaton</span> <a href="../cite/Beaton/1580/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 101</span></a>;
+ <span class="date">1581</span> <span class="name">Beaton</span> <a href="../cite/Beaton/1581/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 6</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">11thC</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/11thC/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">711</span></a>;
+ <span class="date">1083</span> <span class="name">Biatris</span> (<span class="case">nom</span>) <a href="../cite/Biatris/1083/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">127</span></a>;
+ <span class="date">1094</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1094/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">686</span></a>;
+ <span class="date">1147</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1179</span> <span class="name">Beatrice</span> (<span class="case">abl</span>) <a href="../cite/Beatrice/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>,
+ <span class="name">Beatricis</span> (<span class="case">gen</span>) <a href="../cite/Beatricis/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">169</span></a>;
+ <span class="date">1201</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1201/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXI</span></a>;
+ <span class="date">1301</span> <span class="name">Beatricis</span> (<span class="case">gen</span>) <a href="../cite/Beatricis/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 259</span></a>,
+ <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 210</span></a>;
+ <span class="date">1310–11</span> <span class="name">Beatrisis</span> (<span class="case">gen</span>) <a href="../cite/Beatrisis/1310–11/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 236</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1290</span> <span class="name">Beatris</span> (<span class="case">obl</span>) <a href="../cite/Beatris/1290/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 106</span></a>;
+ <span class="date">1296</span> <span class="name">Bietrix</span> <a href="../cite/Bietrix/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1297</span> <span class="name">Byatris</span> (<span class="case">obl</span>) <a href="../cite/Byatris/1297/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 135</span></a>;
+ <span class="date">1301</span> <span class="name">Beatris</span> (<span class="case">obl</span>) <a href="../cite/Beatris/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 234</span></a>,
+ <span class="name">Beetris</span> (<span class="case">obl</span>) <a href="../cite/Beetris/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 289</span></a>;
+ <span class="date">1313</span> <span class="name">Biatriz</span> <a href="../cite/Biatriz/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 107</span></a>,
+ <span class="name">Biautrix</span> <a href="../cite/Biautrix/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 89</span></a>,
+ <span class="name">Bietriz</span> <a href="../cite/Bietriz/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1025</span> <span class="name">Beatrici</span> (<span class="case">gen</span>) <a href="../cite/Beatrici/1025/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">44</span></a>;
+ <span class="date">1249</span> <span class="name">Beatricis</span> (<span class="case">gen</span>) <a href="../cite/Beatricis/1249/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">131</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">91</span></a>,
+ <span class="name">Biatrix</span> (<span class="case">nom</span>) <a href="../cite/Biatrix/1265x1339/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">355</span></a>,
+ <span class="name">Bietrix</span> (<span class="case">nom</span>) <a href="../cite/Bietrix/1265x1339/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1310</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1310/MonRav-2"><span class="bib_key">MonRav-2</span> <span class="bib_loc">CCCL</span></a>;
+ <span class="date">1521</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1521/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 52, 34</span></a>;
+ <span class="date">1543</span> <span class="name">Beatricem</span> (<span class="case">acc</span>) <a href="../cite/Beatricem/1543/PNC"><span class="bib_key">PNC</span> <span class="bib_loc">8</span></a>,
+ <span class="name">Beatrici</span> (<span class="case">gen</span>) <a href="../cite/Beatrici/1543/PNC"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1310</span> <span class="name">Biatrixina</span> (<span class="case">nom</span>) <a href="../cite/Biatrixina/1310/MonRav-2"><span class="bib_key">MonRav-2</span> <span class="bib_loc">CCCL</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1269</span> <span class="name">Beatricem</span> (<span class="case">acc</span>) <a href="../cite/Beatricem/1269/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1425</span> <span class="name">Beatrici</span> (<span class="case">dat</span>) <a href="../cite/Beatrici/1425/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">40</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1488</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1488/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1489</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1489/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1490</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1491</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1492</span> <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/1492/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Beatriu</span> <a href="../cite/Beatriu/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3160</span></a>,
+ <span class="name">Beatriç</span> <a href="../cite/Beatriç/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3971</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1333</span> <span class="name">Beatris</span> <a href="../cite/Beatris/1333/deMoxo"><span class="bib_key">deMoxo</span></a>,
+ <span class="name">Featris</span> <a href="../cite/Featris/1333/deMoxo"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1575</span> <span class="name">Beatriz</span> <a href="../cite/Beatriz/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3794</span></a>;
+ <span class="date">1576</span> <span class="name">Beatriz</span> <a href="../cite/Beatriz/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3894</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">14thCx1478</span> <span class="name">Beatrisia</span> (<span class="case">nom</span>) <a href="../cite/Beatrisia/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(37)</span></a>,
+ <span class="name">Beatrix</span> (<span class="case">nom</span>) <a href="../cite/Beatrix/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(41)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Beatrice". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Beatrice.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>
