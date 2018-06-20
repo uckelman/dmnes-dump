@@ -1,0 +1,405 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Ellen</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Ellen</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Greek</span> <i>Ἑλένη</i>.  The ultimate root of this name is uncertain, and the first attestation of the name in Greek is in Homer's <i>Iliad</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 4th C Roman saint and empress consort, a 4th C Welsh saint, an 11th C Swedish queen consort, and a 12th C Swedish saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The popularity of the French form <i>Elaine</i> was influenced by various characters of this name appearing in medieval Arthurian romances.</p>
+<p>The English form <i>Elyn</i> is witnessed in 1379 in the relational byname <i>Elyndoghter</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 166</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Helena</span> <a href="../cite/Helena/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 334</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1597x1598</span> <span class="name">Nellecken</span> <a href="../cite/Nellecken/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 349</span></a>,
+ <span class="name">Nelleken</span> <a href="../cite/Nelleken/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1358</span> <span class="name">Helena</span> (<span class="case">dat</span>) <a href="../cite/Helena/1358/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">226, p. 31</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Elline</span> <a href="../cite/Elline/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Elene</span> (<span class="case">gen</span>) <a href="../cite/Elene/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1296</span> <span class="name">Elena</span> (<span class="case">nom</span>) <a href="../cite/Elena/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 96a</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Elena</span> (<span class="case">nom</span>) <a href="../cite/Elena/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Elene</span> (<span class="case">nom</span>) <a href="../cite/Elene/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 96</span></a>,
+ <span class="name">Helena</span> (<span class="case">nom</span>) <a href="../cite/Helena/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1377</span> <span class="name">Elene</span> (<span class="case">gen</span>) <a href="../cite/Elene/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Helena</span> (<span class="case">nom</span>) <a href="../cite/Helena/1377/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1379</span> <span class="name">Elena</span> (<span class="case">nom</span>) <a href="../cite/Elena/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Helena</span> (<span class="case">nom</span>) <a href="../cite/Helena/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1381</span> <span class="name">Elayn</span> (<span class="case">nom</span>) <a href="../cite/Elayn/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Elen</span> (<span class="case">nom</span>) <a href="../cite/Elen/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 84</span></a>,
+ <span class="name">Elena</span> (<span class="case">nom</span>) <a href="../cite/Elena/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Elena/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 71</span></a>,
+ <span class="name">Elyna</span> (<span class="case">nom</span>) <a href="../cite/Elyna/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 114</span></a>,
+ <span class="name">Helena</span> (<span class="case">nom</span>) <a href="../cite/Helena/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 114</span></a>;
+ <span class="date">1408</span> <span class="name">Elena</span> (<span class="case">nom</span>) <a href="../cite/Elena/1408/GCCYork"><span class="bib_key">GCCYork</span> <span class="bib_loc">p.11</span></a>;
+ <span class="date">1485–1486</span> <span class="name">Elena</span> (<span class="case">abl</span>) <a href="../cite/Elena/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1554</span> <span class="name">Helena</span> (<span class="case">nom</span>) <a href="../cite/Helena/1554/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1557</span> <span class="name">Helena</span> (<span class="case">nom</span>) <a href="../cite/Helena/1557/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1558/9</span> <span class="name">Elena</span> (<span class="case">nom</span>) <a href="../cite/Elena/1558s9/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1559</span> <span class="name">Helena</span> (<span class="case">nom</span>) <a href="../cite/Helena/1559/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 60</span></a>,
+ <span class="name">Helina</span> (<span class="case">nom</span>) <a href="../cite/Helina/1559/Reg-KirkElla"><span class="bib_key">Reg-KirkElla</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1561</span> <span class="name">Helyna</span> (<span class="case">nom</span>) <a href="../cite/Helyna/1561/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1562</span> <span class="name">Elena</span> (<span class="case">nom</span>) <a href="../cite/Elena/1562/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1563</span> <span class="name">Elena</span> (<span class="case">nom</span>) <a href="../cite/Elena/1563/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Elene</span> <a href="../cite/Elene/1418/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1420</span> <span class="name">Elyn</span> <a href="../cite/Elyn/1420/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1429</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1429/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LV</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Helen</span> <a href="../cite/Helen/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 20</span></a>,
+ <span class="name">Helene</span> <a href="../cite/Helene/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1530/31</span> <span class="name">Helene</span> <a href="../cite/Helene/1530s31/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 92</span></a>;
+ <span class="date">1530</span> <span class="name">Hellyn</span> <a href="../cite/Hellyn/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1532–1533</span> <span class="name">Elyne</span> <a href="../cite/Elyne/1532–1533/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1539</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1539/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Ellyn</span> <a href="../cite/Ellyn/1539/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 107</span></a>,
+ <span class="name">Elyn</span> <a href="../cite/Elyn/1539/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1540</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1540/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Elyn</span> <a href="../cite/Elyn/1540/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1541</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1541/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1542</span> <span class="name">Elyn</span> <a href="../cite/Elyn/1542/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1543</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1543/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1544</span> <span class="name">Elyng</span> <a href="../cite/Elyng/1544/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1544/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 78</span></a>;
+ <span class="date">1546</span> <span class="name">Elyn</span> <a href="../cite/Elyn/1546/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1547</span> <span class="name">Elen</span> <a href="../cite/Elen/1547/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">1b</span></a>,
+ <span class="name">Elyn</span> <a href="../cite/Elyn/1547/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCIV</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1547/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 79</span></a>;
+ <span class="date">1548</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1548/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1549</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1549/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1552</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1552/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Elyn</span> <a href="../cite/Elyn/1552/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1552/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1553/4</span> <span class="name">Elen</span> <a href="../cite/Elen/1553s4/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2a</span></a>;
+ <span class="date">1553</span> <span class="name">Helen</span> <a href="../cite/Helen/1553/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1555</span> <span class="name">Eline</span> <a href="../cite/Eline/1555/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1557</span> <span class="name">Elin</span> <a href="../cite/Elin/1557/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Ellen</span> <a href="../cite/Ellen/1557/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1558</span> <span class="name">Elen</span> <a href="../cite/Elen/1558/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Ellen</span> <a href="../cite/Ellen/1558/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Helin</span> <a href="../cite/Helin/1558/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1558–9</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1558–9/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1559</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1559/SOmar-vol9"><span class="bib_key">SOmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Ellin</span> <a href="../cite/Ellin/1559/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1559/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Helen/1559/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 80</span></a>,
+ <a href="../cite/Helen/1559/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Helen/1559/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Helin</span> <a href="../cite/Helin/1559/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Helina</span> <a href="../cite/Helina/1559/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Hellen</span> <a href="../cite/Hellen/1559/DU-DSMMar"><span class="bib_key">DU-DSMMar</span></a>;
+ <span class="date">1560/1</span> <span class="name">Elen</span> <a href="../cite/Elen/1560s1/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1560</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1560/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 147</span></a>,
+ <a href="../cite/Ellen/1560/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Ellyn</span> <a href="../cite/Ellyn/1560/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 115</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1560/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1561</span> <span class="name">Elyn</span> <a href="../cite/Elyn/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1561/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1562</span> <span class="name">Elena</span> <a href="../cite/Elena/1562/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 60</span></a>,
+ <span class="name">Ellen</span> <a href="../cite/Ellen/1562/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1563</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1563/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1563/4</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1563s4/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1563</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1563/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1564</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1564/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/Ellen/1564/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 54</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1564/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1565</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1565/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1565/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Helen/1565/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Helyn</span> <a href="../cite/Helyn/1565/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 128</span></a>;
+ <span class="date">1567</span> <span class="name">Elyn</span> <a href="../cite/Elyn/1567/BEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1567/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1568/9</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1568s9/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1568</span> <span class="name">Helen</span> <a href="../cite/Helen/1568/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Hellin</span> <a href="../cite/Hellin/1568/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1569</span> <span class="name">Helen</span> <a href="../cite/Helen/1569/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Helena</span> <a href="../cite/Helena/1569/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1570</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1570/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="name">Helena</span> <a href="../cite/Helena/1570/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1571</span> <span class="name">Hellin</span> <a href="../cite/Hellin/1571/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1572</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1572/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Ellin</span> <a href="../cite/Ellin/1572/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Ellyn</span> <a href="../cite/Ellyn/1572/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 129</span></a>,
+ <a href="../cite/Ellyn/1572/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 97</span></a>,
+ <span class="name">Elyn</span> <a href="../cite/Elyn/1572/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 129</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1572/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Helene</span> <a href="../cite/Helene/1572/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1573</span> <span class="name">Elen</span> <a href="../cite/Elen/1573/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Ellen</span> <a href="../cite/Ellen/1573/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1573/4</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1573s4/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1573</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1573/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1574</span> <span class="name">Elline</span> <a href="../cite/Elline/1574/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1574/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1575</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1575/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Ellen/1575/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1576</span> <span class="name">Helen</span> <a href="../cite/Helen/1576/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1577</span> <span class="name">Elen</span> <a href="../cite/Elen/1577/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Hellen</span> <a href="../cite/Hellen/1577/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1578</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1578/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1578/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Helen/1578/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>;
+ <span class="date">1579</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1579/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1580/81</span> <span class="name">Elline</span> <a href="../cite/Elline/1580s81/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1580</span> <span class="name">Helena</span> <a href="../cite/Helena/1580/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 63</span></a>,
+ <span class="name">Helene</span> <a href="../cite/Helene/1580/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1581</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1581/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 117</span></a>,
+ <a href="../cite/Ellen/1581/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 28</span></a>,
+ <span class="name">Hellin</span> <a href="../cite/Hellin/1581/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1582</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1582/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Ellen/1582/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 96</span></a>,
+ <a href="../cite/Ellen/1582/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1583</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1583/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Ellen/1583/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 148</span></a>,
+ <a href="../cite/Ellen/1583/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Ellyn</span> <a href="../cite/Ellyn/1583/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 130</span></a>,
+ <span class="name">Hellin</span> <a href="../cite/Hellin/1583/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 129</span></a>,
+ <span class="name">Hellyn</span> <a href="../cite/Hellyn/1583/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 117</span></a>;
+ <span class="date">1584</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1584/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 132</span></a>,
+ <span class="name">Helena</span> <a href="../cite/Helena/1584/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 64</span></a>;
+ <span class="date">1585</span> <span class="name">Elen</span> <a href="../cite/Elen/1585/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1585/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/Helen/1585/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1586</span> <span class="name">Elen</span> <a href="../cite/Elen/1586/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 69</span></a>,
+ <span class="name">Ellen</span> <a href="../cite/Ellen/1586/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 123</span></a>,
+ <span class="name">Elling</span> <a href="../cite/Elling/1586/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Helline</span> <a href="../cite/Helline/1586/Bar-in-El"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1587</span> <span class="name">Elline</span> <a href="../cite/Elline/1587/Bar-in-El"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1588</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1588/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Ellen/1588/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 69</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1588/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>,
+ <span class="name">Helena</span> <a href="../cite/Helena/1588/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 64</span></a>,
+ <span class="name">Hellin</span> <a href="../cite/Hellin/1588/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Helline</span> <a href="../cite/Helline/1588/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1589</span> <span class="name">Elan</span> <a href="../cite/Elan/1589/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 128</span></a>,
+ <span class="name">Elen</span> <a href="../cite/Elen/1589/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 130</span></a>,
+ <span class="name">Eline</span> <a href="../cite/Eline/1589/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 117</span></a>,
+ <span class="name">Ellen</span> <a href="../cite/Ellen/1589/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1589/90</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1589s90/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Ellen/1589s90/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1589</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1589/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1590</span> <span class="name">Hele</span> <a href="../cite/Hele/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 20</span></a>,
+ <span class="name">Hellin</span> <a href="../cite/Hellin/1590/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1591</span> <span class="name">Elyne</span> <a href="../cite/Elyne/1591/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1592</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1592/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1592/3</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1592s3/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1592</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1592/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 35</span></a>,
+ <span class="name">Ellyn</span> <a href="../cite/Ellyn/1592/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 98</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1592/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Helen/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1593/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Helen/1593/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Helena</span> <a href="../cite/Helena/1593/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 65</span></a>;
+ <span class="date">1594</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1594/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 123</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1594/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 87</span></a>,
+ <span class="name">Hellin</span> <a href="../cite/Hellin/1594/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1595</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1595/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Helen</span> <a href="../cite/Helen/1595/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Helen/1595/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1596</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Ellin</span> <a href="../cite/Ellin/1596/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 93</span></a>;
+ <span class="date">1597</span> <span class="name">Helen</span> <a href="../cite/Helen/1597/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1598</span> <span class="name">Elin</span> <a href="../cite/Elin/1598/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Ellen</span> <a href="../cite/Ellen/1598/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1599</span> <span class="name">Ellen</span> <a href="../cite/Ellen/1599/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>,
+ <a href="../cite/Ellen/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 41</span></a>,
+ <a href="../cite/Ellen/1599/RegGorton"><span class="bib_key">RegGorton</span> <span class="bib_loc">p. 1</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1563</span> <span class="name">Elineta</span> <a href="../cite/Elineta/1563/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 60</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Elin</span> <a href="../cite/Elin/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 167</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">958x92</span> <span class="name">Elena</span> (<span class="case">nom</span>) <a href="../cite/Elena/958x92/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 87</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1563</span> <span class="name">Hélène</span> <a href="../cite/Hélène/1563/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1565</span> <span class="name">Elène</span> <a href="../cite/Elène/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 125</span></a>,
+ <span class="name">Helaine</span> <a href="../cite/Helaine/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 166</span></a>;
+ <span class="date">1566</span> <span class="name">Hélaine</span> <a href="../cite/Hélaine/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 259</span></a>;
+ <span class="date">1567</span> <span class="name">Elayne</span> <a href="../cite/Elayne/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 340</span></a>;
+ <span class="date">1571</span> <span class="name">Helayne</span> <a href="../cite/Helayne/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 452</span></a>,
+ <span class="name">Hélayne</span> <a href="../cite/Hélayne/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 447</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1408</span> <span class="name">Lena</span> (<span class="case">nom</span>) <a href="../cite/Lena/1408/UrkJen2"><span class="bib_key">UrkJen2</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1410</span> <span class="name">Helenen</span> (<span class="case">nom</span>) <a href="../cite/Helenen/1410/UrkJen2"><span class="bib_key">ibid.</span> <span class="bib_loc">20</span></a>;
+ <span class="date">1497</span> <span class="name">Helena</span> <a href="../cite/Helena/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">449</span></a>,
+ <span class="name">Helenan</span> <a href="../cite/Helenan/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">2596</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1010</span> <span class="name">Leni</span> <a href="../cite/Leni/1010/skinner"><span class="bib_key">skinner</span> <span class="bib_loc">p. 113</span></a>;
+ <span class="date">1366</span> <span class="name">Helenam</span> (<span class="case">acc</span>) <a href="../cite/Helenam/1366/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">34</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1366</span> <span class="name">Lenam</span> (<span class="case">acc</span>) <a href="../cite/Lenam/1366/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">38</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">●</span> <span class="date">1488</span> <span class="name">Elena</span> <a href="../cite/Elena/1488/PGB"><span class="bib_key">PGB</span></a>;
+ <span class="date">1542</span> <span class="name">Elena</span> <a href="../cite/Elena/1542/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1565</span> <span class="name">Elena</span> <a href="../cite/Elena/1565/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1566</span> <span class="name">Elena</span> <a href="../cite/Elena/1566/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1586</span> <span class="name">Helen</span> <a href="../cite/Helen/1586/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1590</span> <span class="name">Helen</span> <a href="../cite/Helen/1590/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1596</span> <span class="name">Helen</span> <a href="../cite/Helen/1596/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1597</span> <span class="name">Helen</span> <a href="../cite/Helen/1597/PGB"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Elena</span> <a href="../cite/Elena/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3700</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1575</span> <span class="name">Elena</span> <a href="../cite/Elena/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3858</span></a>;
+ <span class="date">1576</span> <span class="name">Elena</span> <a href="../cite/Elena/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3954</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1340</span> <span class="name">Helene</span> (<span class="case">gen</span>) <a href="../cite/Helene/1340/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">4551</span></a>;
+ <span class="date">1350</span> <span class="name">Elene</span> (<span class="case">gen</span>) <a href="../cite/Elene/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6020</span></a>,
+ <span class="name">Eliane</span> (<span class="case">gen</span>) <a href="../cite/Eliane/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6030</span></a>,
+ <span class="name">Ælynæ</span> (<span class="case">gen</span>) <a href="../cite/Ælynæ/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6015</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1377</span> <span class="name">Elin</span> (<span class="case">nom</span>) <a href="../cite/Elin/1377/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 10938</span></a>;
+ <span class="date">1383</span> <span class="name">Ælina</span> <a href="../cite/Ælina/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1917</span></a>,
+ <span class="name">Ælinas</span> (<span class="case">gen</span>) <a href="../cite/Ælinas/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1917</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1469</span> <span class="name">Helenam</span> (<span class="case">acc</span>) <a href="../cite/Helenam/1469/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1479</span> <span class="name">Elena</span> (<span class="case">nom</span>) <a href="../cite/Elena/1479/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">CVIII-1309</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Elena</span> (<span class="case">nom</span>) <a href="../cite/Elena/1581/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 36</span></a></dd>
+<dt><span class="lang">Welsh</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Eline</span> <a href="../cite/Eline/1543/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Elyn</span> <a href="../cite/Elyn/1543/RegCon1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1583</span> <span class="name">Elen</span> <a href="../cite/Elen/1583/RegCon1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1589</span> <span class="name">Elen</span> <a href="../cite/Elen/1589/RegCon1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, N. Shiel, J. Uckelman, S.L. Uckelman. "Ellen". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Ellen.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

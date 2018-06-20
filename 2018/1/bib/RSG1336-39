@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>RSG1336-39</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>RSG1336-39</dt>
+  <dd>Nap. de Pauw and Julius Vuylsteke, editors. <em>De Rekeningen der Stad Gent: Tijdvak van Jacob van Artevelde, 1336-1349</em>, volume 1: 1336-1339. Gent: H. Hoste, Boekhandelaar, Veldstraat, 1873.</dd>
+</dl>
+
+
+  <a href="../cite/Boidins/1336/RSG1336-39">Boidins</a>
+
+  <a href="../cite/Clais/1336/RSG1336-39">Clais</a>
+
+  <a href="../cite/Claise/1336/RSG1336-39">Claise</a>
+
+  <a href="../cite/Gheerolf/1336/RSG1336-39">Gheerolf</a>
+
+  <a href="../cite/Gherolve/1336/RSG1336-39">Gherolve</a>
+
+  <a href="../cite/Ghertruden/1336/RSG1336-39">Ghertruden</a>
+
+  <a href="../cite/Ghiselbrechte/1336/RSG1336-39">Ghiselbrechte</a>
+
+  <a href="../cite/Ghodevert/1336/RSG1336-39">Ghodevert</a>
+
+  <a href="../cite/Godeverde/1336/RSG1336-39">Godeverde</a>
+
+  <a href="../cite/Jacop/1336/RSG1336-39">Jacop</a>
+
+  <a href="../cite/Jacoppe/1336/RSG1336-39">Jacoppe</a>
+
+  <a href="../cite/Jan/1336/RSG1336-39">Jan</a>
+
+  <a href="../cite/Janne/1336/RSG1336-39">Janne</a>
+
+  <a href="../cite/Jans/1336/RSG1336-39">Jans</a>
+
+  <a href="../cite/Katelinen/1336/RSG1336-39">Katelinen</a>
+
+  <a href="../cite/Lisebetten/1336/RSG1336-39">Lisebetten</a>
+
+  <a href="../cite/Matheuse/1336/RSG1336-39">Matheuse</a>
+
+  <a href="../cite/Mathise/1336/RSG1336-39">Mathise</a>
+
+  <a href="../cite/Mergrieten/1336/RSG1336-39">Mergrieten</a>
+
+  <a href="../cite/Merine/1336/RSG1336-39">Merine</a>
+
+  <a href="../cite/Philips/1336/RSG1336-39">Philips</a>
+
+  <a href="../cite/Pieter/1336/RSG1336-39">Pieter</a>
+
+  <a href="../cite/Pieters/1336/RSG1336-39">Pieters</a>
+
+  <a href="../cite/Segers/1336/RSG1336-39">Segers</a>
+
+  <a href="../cite/Symoene/1336/RSG1336-39">Symoene</a>
+
+  <a href="../cite/Tonis/1336/RSG1336-39">Tonis</a>
+
+  <a href="../cite/Wasselin/1336/RSG1336-39">Wasselin</a>
+
+  <a href="../cite/Willem/1336/RSG1336-39">Willem</a>
+
+  <a href="../cite/Willemme/1336/RSG1336-39">Willemme</a>
+
+  <a href="../cite/Willems/1336/RSG1336-39">Willems</a>
+
+  <a href="../cite/Wouter/1336/RSG1336-39">Wouter</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

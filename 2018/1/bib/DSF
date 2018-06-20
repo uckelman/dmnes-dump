@@ -1,0 +1,614 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>DSF</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>DSF</dt>
+  <dd>Giacinto Libertini, editor. <em>Documenti per la Storia di Frattamninore (Frattapiccola, Pomigliano d'Atella e Pardinola)</em>, volume 9 of <em>Fonti e Documenti per la Storia Atellana: Collana Diretta da Franco Pezzella</em>. Instituto di Studi Atellani.</dd>
+</dl>
+
+
+  <a href="../cite/Abondancia/1522x1532/DSF">Abondancia</a>
+
+  <a href="../cite/Adam/1522x1532/DSF">Adam</a>
+
+  <a href="../cite/Alaria/1522x1532/DSF">Alaria</a>
+
+  <a href="../cite/Albericus/1522x1532/DSF">Albericus</a>
+
+  <a href="../cite/Alexander/1522x1532/DSF">Alexander</a>
+
+  <a href="../cite/Alfonsus/1522x1532/DSF">Alfonsus</a>
+
+  <a href="../cite/Alisandra/1522x1532/DSF">Alisandra</a>
+
+  <a href="../cite/Altobella/1522x1532/DSF">Altobella</a>
+
+  <a href="../cite/Ambrosius/1522x1532/DSF">Ambrosius</a>
+
+  <a href="../cite/Andrea/1459/DSF">Andrea</a>
+
+  <a href="../cite/Andreas/1522x1532/DSF">Andreas</a>
+
+  <a href="../cite/Andreæ/1459/DSF">Andreæ</a>
+
+  <a href="../cite/Andriana/1522x1532/DSF">Andriana</a>
+
+  <a href="../cite/Andriellus/1522x1532/DSF">Andriellus</a>
+
+  <a href="../cite/Angela/1522x1532/DSF">Angela</a>
+
+  <a href="../cite/Angelella/1522x1532/DSF">Angelella</a>
+
+  <a href="../cite/Angelilli/1522x1532/DSF">Angelilli</a>
+
+  <a href="../cite/Angelillum/1522x1532/DSF">Angelillum</a>
+
+  <a href="../cite/Angelillus/1522x1532/DSF">Angelillus</a>
+
+  <a href="../cite/Angelus/1522x1532/DSF">Angelus</a>
+
+  <a href="../cite/Antonella/1522x1532/DSF">Antonella</a>
+
+  <a href="../cite/Antonello/1522x1532/DSF">Antonello</a>
+
+  <a href="../cite/Antonellus/1522x1532/DSF">Antonellus</a>
+
+  <a href="../cite/Antonia/1522x1532/DSF">Antonia</a>
+
+  <a href="../cite/Antonii/1522x1532/DSF">Antonii</a>
+
+  <a href="../cite/Antonius/1522x1532/DSF">Antonius</a>
+
+  <a href="../cite/Augustino/1324/DSF">Augustino</a>
+
+  <a href="../cite/Barardinus/1522x1532/DSF">Barardinus</a>
+
+  <a href="../cite/Bartholomeus/1522x1532/DSF">Bartholomeus</a>
+
+  <a href="../cite/Beatrix/1522x1532/DSF">Beatrix</a>
+
+  <a href="../cite/Belisarius/1522x1532/DSF">Belisarius</a>
+
+  <a href="../cite/Bellessema/1522x1532/DSF">Bellessema</a>
+
+  <a href="../cite/Benedecta/1522x1532/DSF">Benedecta</a>
+
+  <a href="../cite/Benedictus/1522x1532/DSF">Benedictus</a>
+
+  <a href="../cite/Berardina/1522x1532/DSF">Berardina</a>
+
+  <a href="../cite/Berardini/1522x1532/DSF">Berardini</a>
+
+  <a href="../cite/Berardinus/1522x1532/DSF">Berardinus</a>
+
+  <a href="../cite/Bernardinus/1522x1532/DSF">Bernardinus</a>
+
+  <a href="../cite/Berteraymo/1522x1532/DSF">Berteraymo</a>
+
+  <a href="../cite/Biancha/1522x1532/DSF">Biancha</a>
+
+  <a href="../cite/Biancolella/1522x1532/DSF">Biancolella</a>
+
+  <a href="../cite/Biancuccia/1522x1532/DSF">Biancuccia</a>
+
+  <a href="../cite/Biancucia/1522x1532/DSF">Biancucia</a>
+
+  <a href="../cite/Blasiella/1522x1532/DSF">Blasiella</a>
+
+  <a href="../cite/Blasius/1522x1532/DSF">Blasius</a>
+
+  <a href="../cite/Candidella/1522x1532/DSF">Candidella</a>
+
+  <a href="../cite/Capuana/1522x1532/DSF">Capuana</a>
+
+  <a href="../cite/Caradonna/1522x1532/DSF">Caradonna</a>
+
+  <a href="../cite/Carolus/1522x1532/DSF">Carolus</a>
+
+  <a href="../cite/Caspar/1522x1532/DSF">Caspar</a>
+
+  <a href="../cite/Catarina/1522x1532/DSF">Catarina</a>
+
+  <a href="../cite/Catarinella/1522x1532/DSF">Catarinella</a>
+
+  <a href="../cite/Cecha/1522x1532/DSF">Cecha</a>
+
+  <a href="../cite/Cesar/1522x1532/DSF">Cesar</a>
+
+  <a href="../cite/Colella/1522x1532/DSF">Colella</a>
+
+  <a href="../cite/Contessa/1522x1532/DSF">Contessa</a>
+
+  <a href="../cite/Cornelia/1522x1532/DSF">Cornelia</a>
+
+  <a href="../cite/Crispino/1522x1532/DSF">Crispino</a>
+
+  <a href="../cite/Crispinus/1522x1532/DSF">Crispinus</a>
+
+  <a href="../cite/Cristofaro/1522x1532/DSF">Cristofaro</a>
+
+  <a href="../cite/Deana/1522x1532/DSF">Deana</a>
+
+  <a href="../cite/Dellicata/1522x1532/DSF">Dellicata</a>
+
+  <a href="../cite/Diamante/1522x1532/DSF">Diamante</a>
+
+  <a href="../cite/Dominicus/1522x1532/DSF">Dominicus</a>
+
+  <a href="../cite/Dominicus/1324/DSF">Dominicus</a>
+
+  <a href="../cite/Donato/1324/DSF">Donato</a>
+
+  <a href="../cite/Donatus/1522x1532/DSF">Donatus</a>
+
+  <a href="../cite/Fabianus/1522x1532/DSF">Fabianus</a>
+
+  <a href="../cite/Fabricius/1522x1532/DSF">Fabricius</a>
+
+  <a href="../cite/Federicus/1522x1532/DSF">Federicus</a>
+
+  <a href="../cite/Felix/1522x1532/DSF">Felix</a>
+
+  <a href="../cite/Fenicia/1522x1532/DSF">Fenicia</a>
+
+  <a href="../cite/Ferdinandus/1522x1532/DSF">Ferdinandus</a>
+
+  <a href="../cite/Ferrandina/1522x1532/DSF">Ferrandina</a>
+
+  <a href="../cite/Filippi/1522x1532/DSF">Filippi</a>
+
+  <a href="../cite/Filippus/1522x1532/DSF">Filippus</a>
+
+  <a href="../cite/Fiora/1522x1532/DSF">Fiora</a>
+
+  <a href="../cite/Fiore/1522x1532/DSF">Fiore</a>
+
+  <a href="../cite/Fiorebella/1522x1532/DSF">Fiorebella</a>
+
+  <a href="../cite/Flora/1522x1532/DSF">Flora</a>
+
+  <a href="../cite/Florita/1522x1532/DSF">Florita</a>
+
+  <a href="../cite/Fonsus/1522x1532/DSF">Fonsus</a>
+
+  <a href="../cite/Fortunato/1522x1532/DSF">Fortunato</a>
+
+  <a href="../cite/Francesca/1522x1532/DSF">Francesca</a>
+
+  <a href="../cite/Franciscu/1324/DSF">Franciscu</a>
+
+  <a href="../cite/Franciscus/1324/DSF">Franciscus</a>
+
+  <a href="../cite/Franciscus/1522x1532/DSF">Franciscus</a>
+
+  <a href="../cite/Galioctus/1522x1532/DSF">Galioctus</a>
+
+  <a href="../cite/Genefra/1522x1532/DSF">Genefra</a>
+
+  <a href="../cite/Gentelina/1522x1532/DSF">Gentelina</a>
+
+  <a href="../cite/Gentilis/1522x1532/DSF">Gentilis</a>
+
+  <a href="../cite/Georgi/1522x1532/DSF">Georgi</a>
+
+  <a href="../cite/Georgius/1324/DSF">Georgius</a>
+
+  <a href="../cite/Gesuele/1522x1532/DSF">Gesuele</a>
+
+  <a href="../cite/Gilibertus/1522x1532/DSF">Gilibertus</a>
+
+  <a href="../cite/Goffridus/1459/DSF">Goffridus</a>
+
+  <a href="../cite/Graciosa/1522x1532/DSF">Graciosa</a>
+
+  <a href="../cite/Grigmaldo/1324/DSF">Grigmaldo</a>
+
+  <a href="../cite/Guglielmus/1522x1532/DSF">Guglielmus</a>
+
+  <a href="../cite/Guillelmus/1324/DSF">Guillelmus</a>
+
+  <a href="../cite/Hanibal/1522x1532/DSF">Hanibal</a>
+
+  <a href="../cite/Hector/1522x1532/DSF">Hector</a>
+
+  <a href="../cite/Hieronimus/1522x1532/DSF">Hieronimus</a>
+
+  <a href="../cite/Iacoba/1522x1532/DSF">Iacoba</a>
+
+  <a href="../cite/Iacobellus/1522x1532/DSF">Iacobellus</a>
+
+  <a href="../cite/Iacobi/1522x1532/DSF">Iacobi</a>
+
+  <a href="../cite/Iacobus/1522x1532/DSF">Iacobus</a>
+
+  <a href="../cite/Iacobus/1324/DSF">Iacobus</a>
+
+  <a href="../cite/Iannucius/1522x1532/DSF">Iannucius</a>
+
+  <a href="../cite/Ianuarius/1522x1532/DSF">Ianuarius</a>
+
+  <a href="../cite/Ioanna/1522x1532/DSF">Ioanna</a>
+
+  <a href="../cite/Ioannella/1522x1532/DSF">Ioannella</a>
+
+  <a href="../cite/Ioannellus/1522x1532/DSF">Ioannellus</a>
+
+  <a href="../cite/Ioannes/1522x1532/DSF">Ioannes</a>
+
+  <a href="../cite/Ioannes&#32;Alfonsus/1522x1532/DSF">Ioannes Alfonsus</a>
+
+  <a href="../cite/Ioannes&#32;Antonius/1522x1532/DSF">Ioannes Antonius</a>
+
+  <a href="../cite/Ioannes&#32;Baptista/1522x1532/DSF">Ioannes Baptista</a>
+
+  <a href="../cite/Ioannes&#32;Franciscus/1522x1532/DSF">Ioannes Franciscus</a>
+
+  <a href="../cite/Ioannes&#32;Paulus/1522x1532/DSF">Ioannes Paulus</a>
+
+  <a href="../cite/Ioannes&#32;Tomas/1522x1532/DSF">Ioannes Tomas</a>
+
+  <a href="../cite/Ioannucius/1522x1532/DSF">Ioannucius</a>
+
+  <a href="../cite/Iohannes/1324/DSF">Iohannes</a>
+
+  <a href="../cite/Iohella/1522x1532/DSF">Iohella</a>
+
+  <a href="../cite/Iorius/1522x1532/DSF">Iorius</a>
+
+  <a href="../cite/Iovenella/1522x1532/DSF">Iovenella</a>
+
+  <a href="../cite/Iovenelli/1522x1532/DSF">Iovenelli</a>
+
+  <a href="../cite/Iovenello/1522x1532/DSF">Iovenello</a>
+
+  <a href="../cite/Iovenellus/1522x1532/DSF">Iovenellus</a>
+
+  <a href="../cite/Iugliano/1522x1532/DSF">Iugliano</a>
+
+  <a href="../cite/Iulia/1522x1532/DSF">Iulia</a>
+
+  <a href="../cite/Iulianus/1522x1532/DSF">Iulianus</a>
+
+  <a href="../cite/Iullano/1324/DSF">Iullano</a>
+
+  <a href="../cite/Jacobi/1459/DSF">Jacobi</a>
+
+  <a href="../cite/Jacobo/1459/DSF">Jacobo</a>
+
+  <a href="../cite/Landolfus/1522x1532/DSF">Landolfus</a>
+
+  <a href="../cite/Laura/1522x1532/DSF">Laura</a>
+
+  <a href="../cite/Laurecta/1522x1532/DSF">Laurecta</a>
+
+  <a href="../cite/Laurencius/1522x1532/DSF">Laurencius</a>
+
+  <a href="../cite/Leonardus/1324/DSF">Leonardus</a>
+
+  <a href="../cite/Lionecta/1522x1532/DSF">Lionecta</a>
+
+  <a href="../cite/Lisa/1522x1532/DSF">Lisa</a>
+
+  <a href="../cite/Loysa/1522x1532/DSF">Loysa</a>
+
+  <a href="../cite/Loysella/1522x1532/DSF">Loysella</a>
+
+  <a href="../cite/Loysius/1522x1532/DSF">Loysius</a>
+
+  <a href="../cite/Lucas/1522x1532/DSF">Lucas</a>
+
+  <a href="../cite/Lucia/1522x1532/DSF">Lucia</a>
+
+  <a href="../cite/Lucretia/1522x1532/DSF">Lucretia</a>
+
+  <a href="../cite/Ludovicus/1522x1532/DSF">Ludovicus</a>
+
+  <a href="../cite/Machtius/1522x1532/DSF">Machtius</a>
+
+  <a href="../cite/Macteus/1522x1532/DSF">Macteus</a>
+
+  <a href="../cite/Mactheus/1324/DSF">Mactheus</a>
+
+  <a href="../cite/Mactiellus/1522x1532/DSF">Mactiellus</a>
+
+  <a href="../cite/Mactius/1522x1532/DSF">Mactius</a>
+
+  <a href="../cite/Maffeo/1522x1532/DSF">Maffeo</a>
+
+  <a href="../cite/Magnifica/1522x1532/DSF">Magnifica</a>
+
+  <a href="../cite/Magnificus/1522x1532/DSF">Magnificus</a>
+
+  <a href="../cite/Marcella/1522x1532/DSF">Marcella</a>
+
+  <a href="../cite/Marcello/1522x1532/DSF">Marcello</a>
+
+  <a href="../cite/Marci/1522x1532/DSF">Marci</a>
+
+  <a href="../cite/Marco/1324/DSF">Marco</a>
+
+  <a href="../cite/Marcus/1522x1532/DSF">Marcus</a>
+
+  <a href="../cite/Marcus&#32;Antonius/1522x1532/DSF">Marcus Antonius</a>
+
+  <a href="../cite/Marella/1522x1532/DSF">Marella</a>
+
+  <a href="../cite/Margarita/1522x1532/DSF">Margarita</a>
+
+  <a href="../cite/Margarite/1522x1532/DSF">Margarite</a>
+
+  <a href="../cite/Maria/1522x1532/DSF">Maria</a>
+
+  <a href="../cite/Marianus/1522x1532/DSF">Marianus</a>
+
+  <a href="../cite/Mariella/1522x1532/DSF">Mariella</a>
+
+  <a href="../cite/Marino/1324/DSF">Marino</a>
+
+  <a href="../cite/Marino/1522x1532/DSF">Marino</a>
+
+  <a href="../cite/Marinus/1522x1532/DSF">Marinus</a>
+
+  <a href="../cite/Martha/1522x1532/DSF">Martha</a>
+
+  <a href="../cite/Martinus/1324/DSF">Martinus</a>
+
+  <a href="../cite/Martucius/1522x1532/DSF">Martucius</a>
+
+  <a href="../cite/Martuczio/1522x1532/DSF">Martuczio</a>
+
+  <a href="../cite/Maruccia/1522x1532/DSF">Maruccia</a>
+
+  <a href="../cite/Masella/1522x1532/DSF">Masella</a>
+
+  <a href="../cite/Masellus/1522x1532/DSF">Masellus</a>
+
+  <a href="../cite/Matheus/1522x1532/DSF">Matheus</a>
+
+  <a href="../cite/Meneca/1522x1532/DSF">Meneca</a>
+
+  <a href="../cite/Menechella/1522x1532/DSF">Menechella</a>
+
+  <a href="../cite/Milia/1522x1532/DSF">Milia</a>
+
+  <a href="../cite/Milie/1522x1532/DSF">Milie</a>
+
+  <a href="../cite/Minichella/1522x1532/DSF">Minichella</a>
+
+  <a href="../cite/Minichellus/1522x1532/DSF">Minichellus</a>
+
+  <a href="../cite/Minichilli/1522x1532/DSF">Minichilli</a>
+
+  <a href="../cite/Minichillus/1522x1532/DSF">Minichillus</a>
+
+  <a href="../cite/Minicus/1522x1532/DSF">Minicus</a>
+
+  <a href="../cite/Mirabella/1522x1532/DSF">Mirabella</a>
+
+  <a href="../cite/Nicola/1522x1532/DSF">Nicola</a>
+
+  <a href="../cite/Nicolai/1522x1532/DSF">Nicolai</a>
+
+  <a href="../cite/Nicolaus/1522x1532/DSF">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1324/DSF">Nicolaus</a>
+
+  <a href="../cite/Octavianus/1522x1532/DSF">Octavianus</a>
+
+  <a href="../cite/Oliverius/1522x1532/DSF">Oliverius</a>
+
+  <a href="../cite/Orlandus/1522x1532/DSF">Orlandus</a>
+
+  <a href="../cite/Pacellus/1522x1532/DSF">Pacellus</a>
+
+  <a href="../cite/Palma/1522x1532/DSF">Palma</a>
+
+  <a href="../cite/Palomba/1522x1532/DSF">Palomba</a>
+
+  <a href="../cite/Pasca/1522x1532/DSF">Pasca</a>
+
+  <a href="../cite/Pascalis/1522x1532/DSF">Pascalis</a>
+
+  <a href="../cite/Paula/1522x1532/DSF">Paula</a>
+
+  <a href="../cite/Paulella/1522x1532/DSF">Paulella</a>
+
+  <a href="../cite/Paulus/1522x1532/DSF">Paulus</a>
+
+  <a href="../cite/Peregrinus/1324/DSF">Peregrinus</a>
+
+  <a href="../cite/Peroctus/1522x1532/DSF">Peroctus</a>
+
+  <a href="../cite/Petri/1522x1532/DSF">Petri</a>
+
+  <a href="../cite/Petrinus/1522x1532/DSF">Petrinus</a>
+
+  <a href="../cite/Petrucius/1522x1532/DSF">Petrucius</a>
+
+  <a href="../cite/Petrus/1324/DSF">Petrus</a>
+
+  <a href="../cite/Petrus/1522x1532/DSF">Petrus</a>
+
+  <a href="../cite/Petrus&#32;Antonius/1522x1532/DSF">Petrus Antonius</a>
+
+  <a href="../cite/Petrus&#32;Paulus/1522x1532/DSF">Petrus Paulus</a>
+
+  <a href="../cite/Phylippo/1324/DSF">Phylippo</a>
+
+  <a href="../cite/Phylippus/1324/DSF">Phylippus</a>
+
+  <a href="../cite/Placentinus/1522x1532/DSF">Placentinus</a>
+
+  <a href="../cite/Polita/1522x1532/DSF">Polita</a>
+
+  <a href="../cite/Pompeus/1522x1532/DSF">Pompeus</a>
+
+  <a href="../cite/Porcia/1522x1532/DSF">Porcia</a>
+
+  <a href="../cite/Prudencia/1522x1532/DSF">Prudencia</a>
+
+  <a href="../cite/Raynaldus/1522x1532/DSF">Raynaldus</a>
+
+  <a href="../cite/Rencius/1522x1532/DSF">Rencius</a>
+
+  <a href="../cite/Riccardus/1324/DSF">Riccardus</a>
+
+  <a href="../cite/Roberta/1522x1532/DSF">Roberta</a>
+
+  <a href="../cite/Rogerius/1324/DSF">Rogerius</a>
+
+  <a href="../cite/Sabbatinus/1324/DSF">Sabbatinus</a>
+
+  <a href="../cite/Salvator/1522x1532/DSF">Salvator</a>
+
+  <a href="../cite/Salvatore/1522x1532/DSF">Salvatore</a>
+
+  <a href="../cite/Santella/1522x1532/DSF">Santella</a>
+
+  <a href="../cite/Santelle/1522x1532/DSF">Santelle</a>
+
+  <a href="../cite/Santolus/1522x1532/DSF">Santolus</a>
+
+  <a href="../cite/Scipio/1522x1532/DSF">Scipio</a>
+
+  <a href="../cite/Scipioni/1522x1532/DSF">Scipioni</a>
+
+  <a href="../cite/Scipionis/1522x1532/DSF">Scipionis</a>
+
+  <a href="../cite/Sebastianus/1522x1532/DSF">Sebastianus</a>
+
+  <a href="../cite/Sibilia/1522x1532/DSF">Sibilia</a>
+
+  <a href="../cite/Sigismundus/1522x1532/DSF">Sigismundus</a>
+
+  <a href="../cite/Silvester/1522x1532/DSF">Silvester</a>
+
+  <a href="../cite/Silvestri/1522x1532/DSF">Silvestri</a>
+
+  <a href="../cite/Simon/1522x1532/DSF">Simon</a>
+
+  <a href="../cite/Simonellus/1522x1532/DSF">Simonellus</a>
+
+  <a href="../cite/Soliana/1522x1532/DSF">Soliana</a>
+
+  <a href="../cite/Sperancza/1522x1532/DSF">Sperancza</a>
+
+  <a href="../cite/Sperancza/1522x1532/DSF">Sperancza</a>
+
+  <a href="../cite/Stefanus/1522x1532/DSF">Stefanus</a>
+
+  <a href="../cite/Stella/1522x1532/DSF">Stella</a>
+
+  <a href="../cite/Stephanus/1324/DSF">Stephanus</a>
+
+  <a href="../cite/Symeon/1324/DSF">Symeon</a>
+
+  <a href="../cite/Symeone/1324/DSF">Symeone</a>
+
+  <a href="../cite/Terencius/1522x1532/DSF">Terencius</a>
+
+  <a href="../cite/Thomas/1324/DSF">Thomas</a>
+
+  <a href="../cite/Tiberius/1522x1532/DSF">Tiberius</a>
+
+  <a href="../cite/Tomas/1522x1532/DSF">Tomas</a>
+
+  <a href="../cite/Tomasello/1522x1532/DSF">Tomasello</a>
+
+  <a href="../cite/Tomasina/1522x1532/DSF">Tomasina</a>
+
+  <a href="../cite/Tomasinus/1522x1532/DSF">Tomasinus</a>
+
+  <a href="../cite/Ursulina/1522x1532/DSF">Ursulina</a>
+
+  <a href="../cite/Valentina/1522x1532/DSF">Valentina</a>
+
+  <a href="../cite/Valentinus/1522x1532/DSF">Valentinus</a>
+
+  <a href="../cite/Valintinus/1522x1532/DSF">Valintinus</a>
+
+  <a href="../cite/Vannella/1522x1532/DSF">Vannella</a>
+
+  <a href="../cite/Venerellus/1522x1532/DSF">Venerellus</a>
+
+  <a href="../cite/Vermeglia/1522x1532/DSF">Vermeglia</a>
+
+  <a href="../cite/Vicencia/1522x1532/DSF">Vicencia</a>
+
+  <a href="../cite/Vicencius/1522x1532/DSF">Vicencius</a>
+
+  <a href="../cite/Victoria/1522x1532/DSF">Victoria</a>
+
+  <a href="../cite/Vincencius/1522x1532/DSF">Vincencius</a>
+
+  <a href="../cite/Viola/1522x1532/DSF">Viola</a>
+
+  <a href="../cite/Violante/1522x1532/DSF">Violante</a>
+
+  <a href="../cite/Virgilii/1522x1532/DSF">Virgilii</a>
+
+  <a href="../cite/Virgilius/1522x1532/DSF">Virgilius</a>
+
+  <a href="../cite/Ysabella/1522x1532/DSF">Ysabella</a>
+
+  <a href="../cite/Zacharia/1522x1532/DSF">Zacharia</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

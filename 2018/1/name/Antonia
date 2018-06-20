@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Antonia</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Antonia</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Fem. of <a class="nym" href="Anthony">Anthony</a>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 14th C queen consort of Sicily.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1597x1598</span> <span class="name">Thonynken</span> <a href="../cite/Thonynken/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 373</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1583</span> <span class="name">Antoinette</span> <a href="../cite/Antoinette/1583/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 437</span></a>;
+ <span class="date">1590/1</span> <span class="name">Antoinette</span> <a href="../cite/Antoinette/1590s1/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 441</span></a>;
+ <span class="date">1590</span> <span class="name">Antoinette</span> <a href="../cite/Antoinette/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 441</span></a>;
+ <span class="date">1592</span> <span class="name">Antoinette</span> <a href="../cite/Antoinette/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 563</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Antoinne</span> <a href="../cite/Antoinne/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 20</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1563</span> <span class="name">Anthoynette</span> <a href="../cite/Anthoynette/1563/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 534</span></a>;
+ <span class="date">1587</span> <span class="name">Anthoinette</span> <a href="../cite/Anthoinette/1587/RTFProvins"><span class="bib_key">RTFProvins</span> <span class="bib_loc">126</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1157</span> <span class="name">Antonie</span> (<span class="case">gen</span>) <a href="../cite/Antonie/1157/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Antonia</span> (<span class="case">nom</span>) <a href="../cite/Antonia/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1366</span> <span class="name">Antoniam</span> (<span class="case">acc</span>) <a href="../cite/Antoniam/1366/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">67</span></a>;
+ <span class="date">1387</span> <span class="name">Antonia</span> (<span class="case">nom</span>) <a href="../cite/Antonia/1387/Venditti"><span class="bib_key">Venditti</span> <span class="bib_loc">II-56</span></a>,
+ <span class="name">Antonie</span> (<span class="case">gen</span>) <a href="../cite/Antonie/1387/Venditti"><span class="bib_key">ibid.</span> <span class="bib_loc">II-57</span></a>;
+ <span class="date">1490</span> <span class="name">Antonia</span> (<span class="case">nom</span>) <a href="../cite/Antonia/1490/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1521</span> <span class="name">Antonia</span> (<span class="case">nom</span>) <a href="../cite/Antonia/1521/VitAs2"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Antonia</span> (<span class="case">nom</span>) <a href="../cite/Antonia/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 50, 3</span></a>;
+ <span class="date">1527</span> <span class="name">Antonia</span> (<span class="case">nom</span>) <a href="../cite/Antonia/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 87</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1366</span> <span class="name">Antoninam</span> (<span class="case">acc</span>) <a href="../cite/Antoninam/1366/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Antonella</span> (<span class="case">nom</span>) <a href="../cite/Antonella/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 51, 18</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1429–1430</span> <span class="name">Antona</span> <a href="../cite/Antona/1429–1430/DiaryLMA"><span class="bib_key">DiaryLMA</span> <span class="bib_loc">p. 255</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1490</span> <span class="name">Antonia</span> (<span class="case">nom</span>) <a href="../cite/Antonia/1490/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 44</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1495</span> <span class="name">Anthona</span> <a href="../cite/Anthona/1495/montalvo"><span class="bib_key">montalvo</span></a>;
+ <span class="date">1575</span> <span class="name">Antonia</span> <a href="../cite/Antonia/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3816</span></a>;
+ <span class="date">1576</span> <span class="name">Antona</span> <a href="../cite/Antona/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3902</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">14thCx1478</span> <span class="name">Anthonie</span> (<span class="case">gen</span>) <a href="../cite/Anthonie/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(188)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, J. Uckelman, S.L. Uckelman. "Antonia". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Antonia.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

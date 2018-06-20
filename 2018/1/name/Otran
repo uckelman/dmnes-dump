@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Otran</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Otran</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>ōt</i>, <span class="lang">Old Saxon</span> <i>ōd</i> 'wealth, riches' + <span class="lang">Old Saxon</span> <i>hram</i> 'raven'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">937x993</span> <span class="name">Otrannus</span> (<span class="case">nom</span>) <a href="../cite/Otrannus/937x993/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 80</span></a>,
+ <span class="name">Ottranni</span> (<span class="case">gen</span>) <a href="../cite/Ottranni/937x993/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 80</span></a>;
+ <span class="date">942</span> <span class="name">Otranni</span> (<span class="case">gen</span>) <a href="../cite/Otranni/942/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">131</span></a>,
+ <span class="name">Otrannus</span> (<span class="case">nom</span>) <a href="../cite/Otrannus/942/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">131</span></a>;
+ <span class="date">952x997</span> <span class="name">Otranni</span> (<span class="case">gen</span>) <a href="../cite/Otranni/952x997/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 79</span></a>,
+ <span class="name">Otrannus</span> (<span class="case">nom</span>) <a href="../cite/Otrannus/952x997/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 79</span></a>;
+ <span class="date">957x991</span> <span class="name">Ottranno</span> (<span class="case">abl</span>) <a href="../cite/Ottranno/957x991/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 81</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Otranno</span> (<span class="case">abl</span>) <a href="../cite/Otranno/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">1107</span> <span class="name">Otranno</span> (<span class="case">abl</span>) <a href="../cite/Otranno/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1147x1161</span> <span class="name">Otrannus</span> (<span class="case">nom</span>) <a href="../cite/Otrannus/1147x1161/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">38</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Otrannus</span> (<span class="case">nom</span>) <a href="../cite/Otrannus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1163–64</span> <span class="name">Otrannus</span> (<span class="case">nom</span>) <a href="../cite/Otrannus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1164</span> <span class="name">Otrannus</span> (<span class="case">nom</span>) <a href="../cite/Otrannus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Otran</span> <a href="../cite/Otran/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 20</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Otran". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Otran.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Achard</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Achard</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Proto-Germanic</span> *<i>agio</i> 'blade' + <span class="lang">Old Saxon</span> <i>hard</i>, <span class="lang">Old High German</span> <i>hart</i> 'strong, hard'.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>The name fell out of use around the beginning of the 13th C.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1132</span> <span class="name">Achardo</span> (<span class="case">abl</span>) <a href="../cite/Achardo/c1132/MemStMF"><span class="bib_key">MemStMF</span> <span class="bib_loc">II-I</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Achard</span> (<span class="case">abl</span>) <a href="../cite/Achard/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 6</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Achardus</span> (<span class="case">nom</span>) <a href="../cite/Achardus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">a, Palatiolum</span></a>;
+ <span class="date">1067</span> <span class="name">Achardi</span> (<span class="case">gen</span>) <a href="../cite/Achardi/1067/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1067x1074</span> <span class="name">Achardi</span> (<span class="case">gen</span>) <a href="../cite/Achardi/1067x1074/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1067x1086</span> <span class="name">Achardi</span> (<span class="case">gen</span>) <a href="../cite/Achardi/1067x1086/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1115</span> <span class="name">Achardus</span> (<span class="case">nom</span>) <a href="../cite/Achardus/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1120</span> <span class="name">Acardus</span> (<span class="case">nom</span>) <a href="../cite/Acardus/1120/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Achardus</span> (<span class="case">nom</span>) <a href="../cite/Achardus/1138x1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">80</span></a>;
+ <span class="date">1147x1158</span> <span class="name">Achardus</span> (<span class="case">nom</span>) <a href="../cite/Achardus/1147x1158/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1163</span> <span class="name">Achardi</span> (<span class="case">gen</span>) <a href="../cite/Achardi/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1179</span> <span class="name">Achardus</span> (<span class="case">nom</span>) <a href="../cite/Achardus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1180</span> <span class="name">Acardus</span> (<span class="case">nom</span>) <a href="../cite/Acardus/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 28</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1094</span> <span class="name">Accard</span> (<span class="case">nom</span>) <a href="../cite/Accard/1094/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XII</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Achard". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Achard.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

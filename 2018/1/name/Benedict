@@ -1,0 +1,406 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Benedict</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Benedict</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>benedictus</i> 'blessed'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 6th C saint who founded the Benedictine Order, a 7th C Anglo-Saxon saint, an 8th C Italian saint, a 9th C Carolingian saint, an 11th C Hungarian saint, a 12th C French saint, twelve medieval popes, one of whom was also a saint, and four anti-popes.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The English diminutive <i>Ben</i> and the vernacular form <i>Benet</i> are witnessed in 1379 in the relational bynames <i>Bensoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 320</span></span>) and <i>Benetdogter</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 297</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">776</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/776/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">4</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Croatia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Croatian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597</span> <span class="name">Benedic</span> <a href="../cite/Benedic/1597/Susedgrad1597"><span class="bib_key">Susedgrad1597</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Benedictus</span> <a href="../cite/Benedictus/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Benedik</span> <a href="../cite/Benedik/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Benedyk</span> <a href="../cite/Benedyk/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1597</span> <span class="name">Bedek</span> <a href="../cite/Bedek/1597/Susedgrad1597"><span class="bib_key">Susedgrad1597</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Bencek</span> <a href="../cite/Bencek/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Benko</span> <a href="../cite/Benko/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1351</span> <span class="name">Benedicto</span> (<span class="case">abl</span>) <a href="../cite/Benedicto/1351/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1356</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">176, p. 29</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Benedicts</span> <a href="../cite/Benedicts/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1581</span> <span class="name">Benndtz</span> <a href="../cite/Benndtz/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1419</span> <span class="name">Beynts</span> (<span class="case">gen</span>) <a href="../cite/Beynts/1419/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 19326</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 192</span></a>;
+ <span class="date">1298</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1298/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1381</span> <span class="name">Benedictum</span> (<span class="case">acc</span>) <a href="../cite/Benedictum/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 79</span></a>,
+ <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 76</span></a>;
+ <span class="date">1431</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1431/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 89</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1591</span> <span class="name">Benedictus</span> <a href="../cite/Benedictus/1591/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Brant</span></a>;
+ <span class="date">1593</span> <span class="name">Benedictus</span> <a href="../cite/Benedictus/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Brant</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1431</span> <span class="name">Benet</span> <a href="../cite/Benet/1431/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 88</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Bennyt</span> <a href="../cite/Bennyt/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1539</span> <span class="name">Bennet</span> <a href="../cite/Bennet/1539/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1540</span> <span class="name">Bennet</span> <a href="../cite/Bennet/1540/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1566</span> <span class="name">Benet</span> <a href="../cite/Benet/1566/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1567</span> <span class="name">Benatt</span> <a href="../cite/Benatt/1567/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84</span></a>;
+ <span class="date">1575</span> <span class="name">Bennet</span> <a href="../cite/Bennet/1575/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1577</span> <span class="name">Benat</span> <a href="../cite/Benat/1577/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 84</span></a>;
+ <span class="date">1580</span> <span class="name">Bennett</span> <a href="../cite/Bennett/1580/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1581</span> <span class="name">Bennett</span> <a href="../cite/Bennett/1581/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 122</span></a>,
+ <span class="name">Benntt</span> <a href="../cite/Benntt/1581/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1582</span> <span class="name">Bennett</span> <a href="../cite/Bennett/1582/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 123</span></a>;
+ <span class="date">1587</span> <span class="name">Benat</span> <a href="../cite/Benat/1587/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 86</span></a>,
+ <span class="name">Benet</span> <a href="../cite/Benet/1587/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1588</span> <span class="name">Benett</span> <a href="../cite/Benett/1588/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1589</span> <span class="name">Benet</span> <a href="../cite/Benet/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Benett</span> <a href="../cite/Benett/1589/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1591</span> <span class="name">Benett</span> <a href="../cite/Benett/1591/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1593</span> <span class="name">Benatt</span> <a href="../cite/Benatt/1593/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 128</span></a>,
+ <span class="name">Bennet</span> <a href="../cite/Bennet/1593/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1595</span> <span class="name">Bennett</span> <a href="../cite/Bennett/1595/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 123</span></a>;
+ <span class="date">1599</span> <span class="name">Bennet</span> <a href="../cite/Bennet/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 42</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1434</span> <span class="name">Benedictus</span> <a href="../cite/Benedictus/1434/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 356</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1592</span> <span class="name">Bendt</span> <a href="../cite/Bendt/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 286</span></a>,
+ <span class="name">Pent</span> <a href="../cite/Pent/1592/Tiik1977"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 286</span></a>,
+ <span class="name">Pentz</span> <a href="../cite/Pentz/1592/Tiik1977"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 285</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1564</span> <span class="name">Bencht</span> (<span class="case">nom</span>) <a href="../cite/Bencht/1564/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 102</span></a>;
+ <span class="date">1565</span> <span class="name">Bengtt</span> (<span class="case">nom</span>) <a href="../cite/Bengtt/1565/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 102</span></a>;
+ <span class="date">1576</span> <span class="name">Benth</span> (<span class="case">nom</span>) <a href="../cite/Benth/1576/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1577</span> <span class="name">Benth</span> (<span class="case">nom</span>) <a href="../cite/Benth/1577/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 120</span></a>;
+ <span class="date">1583</span> <span class="name">Bent</span> (<span class="case">nom</span>) <a href="../cite/Bent/1583/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 120</span></a>;
+ <span class="date">1589</span> <span class="name">Bengt</span> (<span class="case">nom</span>) <a href="../cite/Bengt/1589/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1595</span> <span class="name">Bengt</span> (<span class="case">nom</span>) <a href="../cite/Bengt/1595/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 120</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1548</span> <span class="name">Bencts</span> (<span class="case">gen</span>) <a href="../cite/Bencts/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 168</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c550</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/c550/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">Add. I</span></a>;
+ <span class="date">c823</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">94, Ved</span></a>;
+ <span class="date">11thC</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/11thC/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">710</span></a>;
+ <span class="date">1047x1061</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1047x1061/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XV</span></a>;
+ <span class="date">1060</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1060/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1067x1074</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1067x1074/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1123</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1123/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXV</span></a>;
+ <span class="date">1135</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1135/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXVIII</span></a>;
+ <span class="date">1157x1184</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1157x1184/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1179</span> <span class="name">Benedicto</span> (<span class="case">abl</span>) <a href="../cite/Benedicto/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1180</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1241</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1241/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-CXII</span></a>;
+ <span class="date">1249</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1249/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-CIX</span></a>;
+ <span class="date">1301</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 260</span></a>;
+ <span class="date">1378</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1815</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1290</span> <span class="name">Benoist</span> (<span class="case">obl</span>) <a href="../cite/Benoist/1290/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 106</span></a>;
+ <span class="date">1296</span> <span class="name">Benoist</span> <a href="../cite/Benoist/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1298</span> <span class="name">Benoest</span> (<span class="case">obl</span>) <a href="../cite/Benoest/1298/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 138</span></a>;
+ <span class="date">1301</span> <span class="name">Benois</span> (<span class="case">nom</span>) <a href="../cite/Benois/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 233</span></a>;
+ <span class="date">1303</span> <span class="name">Benoit</span> (<span class="case">nom</span>) <a href="../cite/Benoit/1303/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 152</span></a>;
+ <span class="date">1313</span> <span class="name">Benoist</span> <a href="../cite/Benoist/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 94</span></a>;
+ <span class="date">1337</span> <span class="name">Benedic</span> (<span class="case">obl</span>) <a href="../cite/Benedic/1337/ChronMaillezais"><span class="bib_key">ChronMaillezais</span> <span class="bib_loc">p. 166</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Benoist</span> <a href="../cite/Benoist/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 203</span></a>,
+ <a href="../cite/Benoist/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 378</span></a>;
+ <span class="date">1421</span> <span class="name">Benoit</span> <a href="../cite/Benoit/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1201</span></a>;
+ <span class="date">1561</span> <span class="name">Benoist</span> <a href="../cite/Benoist/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1564</span> <span class="name">Benest</span> <a href="../cite/Benest/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 75</span></a>,
+ <span class="name">Benoist</span> <a href="../cite/Benoist/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1565</span> <span class="name">Benest</span> <a href="../cite/Benest/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 117</span></a>,
+ <span class="name">Benoist</span> <a href="../cite/Benoist/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 131</span></a>;
+ <span class="date">1566</span> <span class="name">Benest</span> <a href="../cite/Benest/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 247</span></a>;
+ <span class="date">1567</span> <span class="name">Benest</span> <a href="../cite/Benest/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 333</span></a>,
+ <span class="name">Benoist</span> <a href="../cite/Benoist/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 308</span></a>;
+ <span class="date">1568</span> <span class="name">Benest</span> <a href="../cite/Benest/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 415</span></a>;
+ <span class="date">1571</span> <span class="name">Benest</span> <a href="../cite/Benest/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 447</span></a>;
+ <span class="date">1572</span> <span class="name">Benest</span> <a href="../cite/Benest/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 518</span></a>,
+ <span class="name">Benoist</span> <a href="../cite/Benoist/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 507</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/814/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">86</span></a>;
+ <span class="date">946</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/946/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XXXIV</span></a>;
+ <span class="date">1394</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1394/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 202</span></a>,
+ <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 178</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Benedick</span> <a href="../cite/Benedick/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">754</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1301/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 51, s.n. Benedictus</span></a>,
+ <span class="name">Benedictj</span> (<span class="case">gen</span>) <a href="../cite/Benedictj/1301/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51, s.n. Benedictus</span></a>;
+ <span class="date">1302</span> <span class="name">Benedicto</span> (<span class="case">abl</span>) <a href="../cite/Benedicto/1302/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51, s.n. Benedictus</span></a>,
+ <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1302/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51, s.n. Benedictus</span></a>;
+ <span class="date">1304</span> <span class="name">Benedicto</span> (<span class="case">abl</span>) <a href="../cite/Benedicto/1304/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51, s.n. Benedictus</span></a>;
+ <span class="date">1307</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1307/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51, s.n. Benedictus</span></a>;
+ <span class="date">1308</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1308/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51, s.n. Benedictus</span></a>;
+ <span class="date">1310</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1310/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51, s.n. Benedictus</span></a>;
+ <span class="date">1311</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1311/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51, s.n. Benedictus</span></a>;
+ <span class="date">1312</span> <span class="name">Benedictum</span> (<span class="case">acc</span>) <a href="../cite/Benedictum/1312/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51, s.n. Benedictus</span></a>;
+ <span class="date">1313</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1313/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51, s.n. Benedictus</span></a>;
+ <span class="date">1315</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1315/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52, s.n. Benedictus</span></a>;
+ <span class="date">1316</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1316/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52, s.n. Benedictus</span></a>;
+ <span class="date">1317</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1317/CDH-VIII-II"><span class="bib_key">CDH-VIII-II</span> <span class="bib_loc">XV</span></a>,
+ <span class="name">Benedicto</span> (<span class="case">abl</span>) <a href="../cite/Benedicto/1317/CDH-VIII-II"><span class="bib_key">ibid.</span> <span class="bib_loc">XV</span></a>;
+ <span class="date">1318</span> <span class="name">Benedictum</span> (<span class="case">acc</span>) <a href="../cite/Benedictum/1318/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 52, s.n. Benedictus</span></a>,
+ <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1318/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52, s.n. Benedictus</span></a>;
+ <span class="date">1321</span> <span class="name">Benedictum</span> (<span class="case">acc</span>) <a href="../cite/Benedictum/1321/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52, s.n. Benedictus</span></a>;
+ <span class="date">1322</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1322/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52, s.n. Benedictus</span></a>;
+ <span class="date">1324</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1324/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52, s.n. Benedictus</span></a>;
+ <span class="date">1325</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1325/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52, s.n. Benedictus</span></a>;
+ <span class="date">1326</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1326/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52, s.n. Benedictus</span></a>;
+ <span class="date">1327</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1327/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52, s.n. Benedictus</span></a>;
+ <span class="date">1328</span> <span class="name">Benedictum</span> (<span class="case">acc</span>) <a href="../cite/Benedictum/1328/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53, s.n. Benedictus</span></a>;
+ <span class="date">1329</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1329/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53, s.n. Benedictus</span></a>;
+ <span class="date">1330</span> <span class="name">Benedicto</span> (<span class="case">abl</span>) <a href="../cite/Benedicto/1330/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53, s.n. Benedictus</span></a>;
+ <span class="date">1332</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1332/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53, s.n. Benedictus</span></a>;
+ <span class="date">1332x1337</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53, s.n. Benedictus</span></a>;
+ <span class="date">1333</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1333/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57, s.n. Benedictus</span></a>;
+ <span class="date">1334</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1334/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57, s.n. Benedictus</span></a>;
+ <span class="date">1336</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1336/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57, s.n. Benedictus</span></a>;
+ <span class="date">1342</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1342/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58, s.n. Benedictus</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1310</span> <span class="name">Bench</span> (<span class="case">nom</span>) <a href="../cite/Bench/1310/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 58, s.n. Benedictus</span></a>;
+ <span class="date">1311</span> <span class="name">Bench</span> (<span class="case">nom</span>) <a href="../cite/Bench/1311/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58, s.n. Benedictus</span></a>,
+ <span class="name">Benke</span> (<span class="case">nom</span>) <a href="../cite/Benke/1311/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59, s.n. Benedictus</span></a>;
+ <span class="date">1312</span> <span class="name">Benke</span> (<span class="case">nom</span>) <a href="../cite/Benke/1312/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59, s.n. Benedictus</span></a>;
+ <span class="date">1313</span> <span class="name">Benke</span> (<span class="case">nom</span>) <a href="../cite/Benke/1313/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59, s.n. Benedictus</span></a>;
+ <span class="date">1318</span> <span class="name">Bench</span> (<span class="case">nom</span>) <a href="../cite/Bench/1318/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58, s.n. Benedictus</span></a>,
+ <span class="name">Benke</span> (<span class="case">nom</span>) <a href="../cite/Benke/1318/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59, s.n. Benedictus</span></a>;
+ <span class="date">1325</span> <span class="name">Benke</span> (<span class="case">nom</span>) <a href="../cite/Benke/1325/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59, s.n. Benedictus</span></a>;
+ <span class="date">1331</span> <span class="name">Bench</span> (<span class="case">nom</span>) <a href="../cite/Bench/1331/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58, s.n. Benedictus</span></a>,
+ <span class="name">Bense</span> (<span class="case">nom</span>) <a href="../cite/Bense/1331/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59, s.n. Benedictus</span></a>;
+ <span class="date">1332x1337</span> <span class="name">Bench</span> (<span class="case">nom</span>) <a href="../cite/Bench/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58, s.n. Benedictus</span></a>;
+ <span class="date">1340</span> <span class="name">Bense</span> (<span class="case">nom</span>) <a href="../cite/Bense/1340/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59, s.n. Benedictus</span></a>;
+ <span class="date">1341</span> <span class="name">Benke</span> (<span class="case">nom</span>) <a href="../cite/Benke/1341/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59, s.n. Benedictus</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 16</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">973</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/973/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">26</span></a>;
+ <span class="date">1164</span> <span class="name">Benedicto</span> (<span class="case">abl</span>) <a href="../cite/Benedicto/1164/SDE3"><span class="bib_key">SDE3</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1236</span> <span class="name">Benedicto</span> (<span class="case">abl</span>) <a href="../cite/Benedicto/1236/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Benetti</span> (<span class="case">gen</span>) <a href="../cite/Benetti/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">200</span></a>;
+ <span class="date">1326</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 428</span></a>;
+ <span class="date">1348</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Benedicto</span> (<span class="case">abl</span>) <a href="../cite/Benedicto/1348/INP"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1348/INP"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1376</span> <span class="name">Benedicto</span> (<span class="case">abl</span>) <a href="../cite/Benedicto/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1387</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1387/Venditti"><span class="bib_key">Venditti</span> <span class="bib_loc">II-17</span></a>;
+ <span class="date">1449</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1449/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Benedicto</span> (<span class="case">abl</span>) <a href="../cite/Benedicto/1449/VitAs2"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1464</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1478</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1478/RCCaetani6"><span class="bib_key">RCCaetani6</span> <span class="bib_loc">2720</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 52, 37</span></a>;
+ <span class="date">1527</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 83</span></a>,
+ <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1285</span> <span class="name">Benedictoli</span> (<span class="case">gen</span>) <a href="../cite/Benedictoli/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 154</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Benedetto</span> <a href="../cite/Benedetto/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 17</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Lithuania</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Polish</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1564x1569</span> <span class="name">Banis</span> (<span class="case">nom</span>) <a href="../cite/Banis/1564x1569/Kaunas2006"><span class="bib_key">Kaunas2006</span> <span class="bib_loc">p. 86</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1488</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1488/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1490</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1491</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>,
+ <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56</span></a>,
+ <span class="name">Benet</span> (<span class="case">nom</span>) <a href="../cite/Benet/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1492</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1492/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 67</span></a>,
+ <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1492/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Benedito</span> <a href="../cite/Benedito/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3256</span></a>,
+ <span class="name">Benet</span> <a href="../cite/Benet/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3740</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1315</span> <span class="name">bendicts</span> (<span class="case">gen</span>) <a href="../cite/bendicts/1315/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">2688</span></a>;
+ <span class="date">1350</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6055</span></a>,
+ <span class="name">Benedicto</span> (<span class="case">dat</span>) <a href="../cite/Benedicto/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6023</span></a>,
+ <span class="name">Benedictus</span> (<span class="case">nom</span>) <a href="../cite/Benedictus/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6002</span></a>,
+ <span class="name">Bændiks</span> (<span class="case">gen</span>) <a href="../cite/Bændiks/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6042</span></a>;
+ <span class="date">1358</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1358/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">7427</span></a>;
+ <span class="date">1420</span> <span class="name">Benedicti</span> (<span class="case">gen</span>) <a href="../cite/Benedicti/1420/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19553</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Bendictz</span> (<span class="case">gen</span>) <a href="../cite/Bendictz/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1906</span></a>,
+ <span class="name">Benedictzs</span> <a href="../cite/Benedictzs/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1948</span></a>;
+ <span class="date">1403</span> <span class="name">Beincter</span> (<span class="case">nom</span>) <a href="../cite/Beincter/1403/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 16006</span></a>;
+ <span class="date">1409</span> <span class="name">Benkter</span> (<span class="case">nom</span>) <a href="../cite/Benkter/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17350</span></a>,
+ <span class="name">Benktir</span> (<span class="case">nom</span>) <a href="../cite/Benktir/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17350</span></a>;
+ <span class="date">1411</span> <span class="name">Beincth</span> (<span class="case">nom</span>) <a href="../cite/Beincth/1411/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17735</span></a>;
+ <span class="date">1413</span> <span class="name">Benedikth</span> (<span class="case">nom</span>) <a href="../cite/Benedikth/1413/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18026</span></a>;
+ <span class="date">1420</span> <span class="name">Bænkt</span> (<span class="case">nom</span>) <a href="../cite/Bænkt/1420/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19436</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1383</span> <span class="name">Beinctz</span> (<span class="case">gen</span>) <a href="../cite/Beinctz/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1930</span></a>,
+ <span class="name">Beincz</span> (<span class="case">gen</span>) <a href="../cite/Beincz/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1928</span></a>,
+ <span class="name">Beintz</span> (<span class="case">gen</span>) <a href="../cite/Beintz/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1902</span></a>,
+ <span class="name">Benc</span> (<span class="case">gen</span>) <a href="../cite/Benc/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1932</span></a>,
+ <span class="name">Beynt</span> <a href="../cite/Beynt/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1902</span></a>,
+ <span class="name">Bæint</span> <a href="../cite/Bæint/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1926</span></a>,
+ <span class="name">Bændix</span> (<span class="case">gen</span>) <a href="../cite/Bændix/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1911</span></a>;
+ <span class="date">1402</span> <span class="name">Bentz</span> (<span class="case">gen</span>) <a href="../cite/Bentz/1402/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 15897</span></a>;
+ <span class="date">1406</span> <span class="name">Bengtz</span> (<span class="case">gen</span>) <a href="../cite/Bengtz/1406/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16646</span></a>;
+ <span class="date">1407</span> <span class="name">Beinctz</span> (<span class="case">gen</span>) <a href="../cite/Beinctz/1407/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16880</span></a>,
+ <span class="name">Bæinct</span> (<span class="case">nom</span>) <a href="../cite/Bæinct/1407/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16943</span></a>;
+ <span class="date">1409</span> <span class="name">Bencht</span> (<span class="case">nom</span>) <a href="../cite/Bencht/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17269</span></a>,
+ <span class="name">Bencts</span> (<span class="case">gen</span>) <a href="../cite/Bencts/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17263</span></a>,
+ <span class="name">Bænct</span> (<span class="case">gen</span>) <a href="../cite/Bænct/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17265</span></a>,
+ <span class="name">Bæncts</span> (<span class="case">gen</span>) <a href="../cite/Bæncts/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17226</span></a>,
+ <span class="name">Bænt</span> (<span class="case">nom</span>) <a href="../cite/Bænt/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17341</span></a>;
+ <span class="date">1411</span> <span class="name">Bencht</span> (<span class="case">nom</span>) <a href="../cite/Bencht/1411/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17663</span></a>,
+ <span class="name">Bænkt</span> (<span class="case">nom</span>) <a href="../cite/Bænkt/1411/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17737</span></a>;
+ <span class="date">1412</span> <span class="name">Bength</span> (<span class="case">nom</span>) <a href="../cite/Bength/1412/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17923</span></a>;
+ <span class="date">1413</span> <span class="name">Benkt</span> (<span class="case">nom</span>) <a href="../cite/Benkt/1413/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18131</span></a>;
+ <span class="date">1418</span> <span class="name">Bænktz</span> (<span class="case">gen</span>) <a href="../cite/Bænktz/1418/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19090</span></a>;
+ <span class="date">1419</span> <span class="name">Bencth</span> (<span class="case">nom</span>) <a href="../cite/Bencth/1419/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19234</span></a>,
+ <span class="name">Bænkt</span> (<span class="case">nom</span>) <a href="../cite/Bænkt/1419/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19388</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Benet</span> (<span class="case">nom</span>) <a href="../cite/Benet/1497/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 68</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, R. Le Get, M. Slíz, J. Uckelman, S.L. Uckelman. "Benedict". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Benedict.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

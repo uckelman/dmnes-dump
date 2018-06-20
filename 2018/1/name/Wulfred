@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Wulfred</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Wulfred</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>wulf</i>, <span class="lang">Old High German</span> <i>wolf</i>, <span class="lang">Gothic</span> <i>wulf</i> 'wolf' + <span class="lang">Old English</span> <i>ræd</i>, <span class="lang">Old Saxon</span> <i>rād</i>, <span class="lang">Old High German</span> <i>rāt</i> 'counsel, advice'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1128</span> <span class="name">Wolfrat</span> (<span class="case">nom</span>) <a href="../cite/Wolfrat/c1128/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">118a</span></a>;
+ <span class="date">c1130</span> <span class="name">Wolfradus</span> (<span class="case">nom</span>) <a href="../cite/Wolfradus/c1130/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">122a</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1222</span> <span class="name">Wlfredi</span> (<span class="case">gen</span>) <a href="../cite/Wlfredi/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 20</span></a>,
+ <span class="name">Wluredi</span> (<span class="case">gen</span>) <a href="../cite/Wluredi/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Vulfradus</span> (<span class="case">nom</span>) <a href="../cite/Vulfradus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">112, Palatiolum</span></a>;
+ <span class="date">909</span> <span class="name">Ulfredo</span> (<span class="case">abl</span>) <a href="../cite/Ulfredo/909/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 77</span></a>;
+ <span class="date">1044</span> <span class="name">Volveradus</span> (<span class="case">nom</span>) <a href="../cite/Volveradus/1044/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">659</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Wluered</span> (<span class="case">abl</span>) <a href="../cite/Wluered/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§88</span></a>,
+ <span class="name">Wlvered</span> (<span class="case">nom</span>) <a href="../cite/Wlvered/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§38</span></a>,
+ <span class="name">uoluered</span> (<span class="case">nom</span>) <a href="../cite/uoluered/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§38</span></a>;
+ <span class="date">935</span> <span class="name">Vlfridi</span> (<span class="case">gen</span>) <a href="../cite/Vlfridi/935/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XXX</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Wulfred". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Wulfred.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

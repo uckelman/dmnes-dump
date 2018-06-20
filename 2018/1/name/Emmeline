@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Emmeline</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Emmeline</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Old French</span> <i>Ameline, Emeline</i>, a diminutive of various names beginning with <span class="lang">Proto-Germanic</span> *<i>amal</i> 'vigor, bravery'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1588</span> <span class="name">Emlin</span> <a href="../cite/Emlin/1588/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 48</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1135</span> <span class="name">Emmelina</span> (<span class="case">nom</span>) <a href="../cite/Emmelina/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1147</span> <span class="name">Amelina</span> (<span class="case">abl</span>) <a href="../cite/Amelina/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Emelina</span> (<span class="case">nom</span>) <a href="../cite/Emelina/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Emmelina</span> (<span class="case">abl</span>) <a href="../cite/Emmelina/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Emmeline</span> (<span class="case">gen</span>) <a href="../cite/Emmeline/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Emelina</span> (<span class="case">abl</span>) <a href="../cite/Emelina/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>;
+ <span class="date">1163–64</span> <span class="name">Amelina</span> (<span class="case">nom</span>) <a href="../cite/Amelina/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">117</span></a>,
+ <span class="name">Emelina</span> (<span class="case">nom</span>) <a href="../cite/Emelina/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">117</span></a>;
+ <span class="date">1164</span> <span class="name">Amaelina</span> (<span class="case">nom</span>) <a href="../cite/Amaelina/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>,
+ <span class="name">Emelina</span> (<span class="case">nom</span>) <a href="../cite/Emelina/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1166</span> <span class="name">Emmelina</span> (<span class="case">nom</span>) <a href="../cite/Emmelina/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>,
+ <span class="name">Emmeline</span> (<span class="case">gen</span>) <a href="../cite/Emmeline/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>;
+ <span class="date">1173</span> <span class="name">Emelina</span> (<span class="case">nom</span>) <a href="../cite/Emelina/1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">154</span></a>,
+ <span class="name">Emeline</span> (<span class="case">gen</span>) <a href="../cite/Emeline/1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">154</span></a>;
+ <span class="date">c1175–1180</span> <span class="name">Amelina</span> (<span class="case">nom</span>) <a href="../cite/Amelina/c1175–1180/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1179</span> <span class="name">Emelina</span> (<span class="case">abl</span>) <a href="../cite/Emelina/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Emmelina</span> (<span class="case">nom</span>) <a href="../cite/Emmelina/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1180</span> <span class="name">Emelina</span> (<span class="case">nom</span>) <a href="../cite/Emelina/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1188</span> <span class="name">Emmelina</span> (<span class="case">abl</span>) <a href="../cite/Emmelina/1188/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCIV</span></a>;
+ <span class="date">1190</span> <span class="name">Emmelina</span> (<span class="case">nom</span>) <a href="../cite/Emmelina/1190/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXIX</span></a>;
+ <span class="date">1201</span> <span class="name">Emelina</span> (<span class="case">nom</span>) <a href="../cite/Emelina/1201/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXI</span></a>;
+ <span class="date">1209</span> <span class="name">Amelina</span> (<span class="case">nom</span>) <a href="../cite/Amelina/1209/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LXVII</span></a>,
+ <span class="name">Emelinam</span> (<span class="case">acc</span>) <a href="../cite/Emelinam/1209/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-LXVII</span></a>,
+ <span class="name">Emeline</span> (<span class="case">gen</span>) <a href="../cite/Emeline/1209/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-LXVII</span></a>;
+ <span class="date">1258</span> <span class="name">Emelina</span> (<span class="case">nom</span>) <a href="../cite/Emelina/1258/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">IV, BMV</span></a>;
+ <span class="date">1260</span> <span class="name">Emelina</span> (<span class="case">nom</span>) <a href="../cite/Emelina/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XI, Pentecost</span></a>;
+ <span class="date">1265</span> <span class="name">Emelina</span> (<span class="case">nom</span>) <a href="../cite/Emelina/1265/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-VI</span></a>;
+ <span class="date">1267</span> <span class="name">Emelinam</span> (<span class="case">acc</span>) <a href="../cite/Emelinam/1267/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XXI</span></a>;
+ <span class="date">1270</span> <span class="name">Emelina</span> (<span class="case">nom</span>) <a href="../cite/Emelina/1270/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLI</span></a>;
+ <span class="date">1292</span> <span class="name">Emeline</span> (<span class="case">gen</span>) <a href="../cite/Emeline/1292/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 117</span></a>;
+ <span class="date">1301</span> <span class="name">Amelinne</span> (<span class="case">gen</span>) <a href="../cite/Amelinne/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 244</span></a>,
+ <span class="name">Emmeline</span> (<span class="case">gen</span>) <a href="../cite/Emmeline/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 204</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1270</span> <span class="name">Emelota</span> (<span class="case">nom</span>) <a href="../cite/Emelota/1270/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XLI</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Emeline</span> <a href="../cite/Emeline/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1301</span> <span class="name">Emeline</span> (<span class="case">nom</span>) <a href="../cite/Emeline/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 234</span></a>;
+ <span class="date">1313</span> <span class="name">Ameline</span> <a href="../cite/Ameline/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Emeline</span> <a href="../cite/Emeline/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1293</span> <span class="name">Enmelot</span> (<span class="case">obl</span>) <a href="../cite/Enmelot/1293/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1305</span> <span class="name">Emmelos</span> (<span class="case">nom</span>) <a href="../cite/Emmelos/1305/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">LI</span></a>,
+ <span class="name">Emmelot</span> (<span class="case">obl</span>) <a href="../cite/Emmelot/1305/ArchReimsII1"><span class="bib_key">ibid.</span> <span class="bib_loc">LI</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Emmelot</span> <a href="../cite/Emmelot/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">541</span></a>;
+ <span class="date">1423</span> <span class="name">Amelot</span> <a href="../cite/Amelot/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">489</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Emmeline". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Emmeline.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

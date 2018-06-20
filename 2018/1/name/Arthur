@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Arthur</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Arthur</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">Of uncertain origin, but likely connected to <span class="lang">Old Breton</span> <i>arth</i>, <span class="lang">Proto-Celtic</span> <i>*artos</i>, <span class="lang">Greek</span> <i>ἄρκτος</i> 'bear'.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>The popularity of this name in the Middle Ages is directly attributable to the semi-legendary 5th-6th C British king whose exploits are found in both medieval historical and literary (esp. poetical) sources.  The Arthurian tradition of knightly virtue and chivalry spread from England to France via Brittany, and from there to the rest of Europe.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Artur</span> (<span class="case">nom</span>) <a href="../cite/Artur/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 172</span></a>;
+ <span class="date">1560</span> <span class="name">Arthurus</span> (<span class="case">nom</span>) <a href="../cite/Arthurus/1560/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1561</span> <span class="name">Arthurus</span> (<span class="case">nom</span>) <a href="../cite/Arthurus/1561/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Arthure</span> <a href="../cite/Arthure/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1532–1533</span> <span class="name">Arture</span> <a href="../cite/Arture/1532–1533/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 104</span></a>;
+ <span class="date">1534</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1534/CovGuild-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 129</span></a>;
+ <span class="date">1557</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1557/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1570</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1570/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1574</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1574/RegBath"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1578</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1578/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1579</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1579/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 101</span></a>;
+ <span class="date">1581</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1581/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 101</span></a>;
+ <span class="date">1582</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1582/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1585</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1585/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1588</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1588/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 102</span></a>;
+ <span class="date">1592</span> <span class="name">Arthure</span> <a href="../cite/Arthure/1592/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1593</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1594</span> <span class="name">Arthure</span> <a href="../cite/Arthure/1594/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 96</span></a>;
+ <span class="date">1595</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1595/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 50</span></a>,
+ <a href="../cite/Arthur/1595/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1596</span> <span class="name">Arthure</span> <a href="../cite/Arthure/1596/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1597</span> <span class="name">Arthur</span> <a href="../cite/Arthur/1597/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1599</span> <span class="name">Arthuer</span> <a href="../cite/Arthuer/1599/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Arthur</span> <a href="../cite/Arthur/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 42</span></a>,
+ <a href="../cite/Arthur/1599/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 39</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1180</span> <span class="name">Arturo</span> (<span class="case">abl</span>) <a href="../cite/Arturo/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Arturus</span> (<span class="case">nom</span>) <a href="../cite/Arturus/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Artus</span> <a href="../cite/Artus/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 599</span></a>;
+ <span class="date">1415[1469x1471]</span> <span class="name">Artus</span> <a href="../cite/Artus/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 228</span></a>;
+ <span class="date">1493</span> <span class="name">Artus</span> <a href="../cite/Artus/1493/MSR1838"><span class="bib_key">MSR1838</span> <span class="bib_loc">p. 375</span></a>;
+ <span class="date">1563</span> <span class="name">Artur</span> <a href="../cite/Artur/1563/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1564</span> <span class="name">Artur</span> <a href="../cite/Artur/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 64</span></a>;
+ <span class="date">1565</span> <span class="name">Artur</span> <a href="../cite/Artur/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 141</span></a>;
+ <span class="date">1566</span> <span class="name">Artur</span> <a href="../cite/Artur/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 240</span></a>;
+ <span class="date">1567</span> <span class="name">Artur</span> <a href="../cite/Artur/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 295</span></a>;
+ <span class="date">1568</span> <span class="name">Artur</span> <a href="../cite/Artur/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 398</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1261</span> <span class="name">Artusio</span> (<span class="case">abl</span>) <a href="../cite/Artusio/1261/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">207</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1433</span> <span class="name">Arthuro</span> (<span class="case">abl</span>) <a href="../cite/Arthuro/1433/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">57</span></a>;
+ <span class="date">1434</span> <span class="name">Arthuro</span> (<span class="case">dat</span>) <a href="../cite/Arthuro/1434/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>;
+ <span class="date">1436</span> <span class="name">Arthuro</span> (<span class="case">dat</span>) <a href="../cite/Arthuro/1436/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">71</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1527</span> <span class="name">Artusij</span> (<span class="case">gen</span>) <a href="../cite/Artusij/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 86</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1550</span> <span class="name">Erthour</span> <a href="../cite/Erthour/c1550/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">p. xxiv</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Welsh</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Arthyr</span> <a href="../cite/Arthyr/1543/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 4</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Arthur". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Arthur.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

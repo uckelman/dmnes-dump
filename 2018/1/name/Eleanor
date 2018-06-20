@@ -1,0 +1,312 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Eleanor</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Eleanor</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Of uncertain origin.  The name of Eleanor of Aquitaine, known as <span class="lang">Provençal</span> as <i>Alienor</i>, is often explained as <span class="lang">Latin</span> <i>alia</i> 'other' + <a class="nym" href="Aenor">Aenor</a>, the name of her mother, but as there are possibly examples which pre-date her, this cannot be the complete story.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 12th C queen consort of France and England, a 12th-13th C queen consort of Castile, a 13th C queen consort of Castile, two 13th C queens consort of England, a 13th C queen consort of Denmark, two 14th C queens consort of Aragon, a 14th C queen consort of Portugal, a 14th-15th C queen consort of Navarre, a 15th C queen consort of Portugal, and a 16th C queen consort of Portugal and France.</p>
+</div>
+  
+  
+<div class="def">
+  <p>Though the names are unrelated, <a class="nym" href="Ellen">Ellen</a> over time came to be considered a variant or a pet form of <a class="nym" href="Eleanor">Eleanor</a>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1194</span> <span class="name">Alienora</span> (<span class="case">nom</span>) <a href="../cite/Alienora/1194/RotCur-vol1"><span class="bib_key">RotCur-vol1</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Alienore</span> (<span class="case">dat</span>) <a href="../cite/Alienore/1194/RotCur-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1296</span> <span class="name">Alianora</span> (<span class="case">nom</span>) <a href="../cite/Alianora/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 95b</span></a>,
+ <span class="name">Alianore</span> (<span class="case">gen</span>) <a href="../cite/Alianore/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93a</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Alianora</span> (<span class="case">nom</span>) <a href="../cite/Alianora/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Alienora</span> (<span class="case">nom</span>) <a href="../cite/Alienora/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Elienora</span> (<span class="case">nom</span>) <a href="../cite/Elienora/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>,
+ <span class="name">Elionoria</span> (<span class="case">nom</span>) <a href="../cite/Elionoria/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95</span></a>;
+ <span class="date">1379</span> <span class="name">Elianora</span> (<span class="case">nom</span>) <a href="../cite/Elianora/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1381</span> <span class="name">Alianora</span> (<span class="case">nom</span>) <a href="../cite/Alianora/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Elenor</span> (<span class="case">nom</span>) <a href="../cite/Elenor/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1425</span> <span class="name">Elianore</span> (<span class="case">abl</span>) <a href="../cite/Elianore/1425/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 66</span></a>;
+ <span class="date">1436</span> <span class="name">Elenoræ</span> (<span class="case">dat</span>) <a href="../cite/Elenoræ/1436/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LVIII</span></a>;
+ <span class="date">1538/9</span> <span class="name">Elenora</span> (<span class="case">nom</span>) <a href="../cite/Elenora/1538s9/SA12"><span class="bib_key">SA12</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1539</span> <span class="name">Elenora</span> (<span class="case">nom</span>) <a href="../cite/Elenora/1539/SA12"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1395</span> <span class="name">Alianore</span> <a href="../cite/Alianore/1395/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Alienore</span> <a href="../cite/Alienore/1395/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1418</span> <span class="name">Elyanore</span> <a href="../cite/Elyanore/1418/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1425</span> <span class="name">Elianor</span> <a href="../cite/Elianor/1425/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 65</span></a>;
+ <span class="date">1426</span> <span class="name">Alienore</span> <a href="../cite/Alienore/1426/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 70</span></a>;
+ <span class="date">1431</span> <span class="name">Alionore</span> <a href="../cite/Alionore/1431/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1485</span> <span class="name">Aleanor</span> <a href="../cite/Aleanor/1485/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXIX</span></a>;
+ <span class="date">1511</span> <span class="name">Alianore</span> <a href="../cite/Alianore/1511/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 75</span></a>;
+ <span class="date">1516</span> <span class="name">Elianor</span> <a href="../cite/Elianor/1516/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXV</span></a>;
+ <span class="date">1530</span> <span class="name">Helioner</span> <a href="../cite/Helioner/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1534</span> <span class="name">Elynor</span> <a href="../cite/Elynor/1534/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1539</span> <span class="name">Elynor</span> <a href="../cite/Elynor/1539/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1540</span> <span class="name">Elnor</span> <a href="../cite/Elnor/1540/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Elyner</span> <a href="../cite/Elyner/1540/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Elynor</span> <a href="../cite/Elynor/1540/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1542</span> <span class="name">Elnor</span> <a href="../cite/Elnor/1542/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1543</span> <span class="name">Elener</span> <a href="../cite/Elener/1543/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Elenor</span> <a href="../cite/Elenor/1543/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Elinor</span> <a href="../cite/Elinor/1543/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Elnor</span> <a href="../cite/Elnor/1543/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Elynor</span> <a href="../cite/Elynor/1543/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1544</span> <span class="name">Elynor</span> <a href="../cite/Elynor/1544/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1547</span> <span class="name">Elnor</span> <a href="../cite/Elnor/1547/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Elnore</span> <a href="../cite/Elnore/1547/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1548/9</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1548s9/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2a</span></a>;
+ <span class="date">1551</span> <span class="name">Elynor</span> <a href="../cite/Elynor/1551/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1552</span> <span class="name">Elnor</span> <a href="../cite/Elnor/1552/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1553</span> <span class="name">Elynor</span> <a href="../cite/Elynor/1553/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1554</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1554/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1555</span> <span class="name">Eleonara</span> <a href="../cite/Eleonara/1555/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Elynor</span> <a href="../cite/Elynor/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1556</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1556/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 28</span></a>,
+ <span class="name">Elnor</span> <a href="../cite/Elnor/1556/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1557</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1557/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1558</span> <span class="name">Eleanor</span> <a href="../cite/Eleanor/1558/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 130</span></a>,
+ <span class="name">Elenor</span> <a href="../cite/Elenor/1558/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 109</span></a>,
+ <span class="name">Elnor</span> <a href="../cite/Elnor/1558/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1558/9</span> <span class="name">Elnor</span> <a href="../cite/Elnor/1558s9/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1559</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1559/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 110</span></a>,
+ <span class="name">Elnor</span> <a href="../cite/Elnor/1559/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1560</span> <span class="name">Elnor</span> <a href="../cite/Elnor/1560/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Elynor</span> <a href="../cite/Elynor/1560/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1561</span> <span class="name">Elnore</span> <a href="../cite/Elnore/1561/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1562</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1562/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Elinor</span> <a href="../cite/Elinor/1562/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Elnor</span> <a href="../cite/Elnor/1562/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Elynor</span> <a href="../cite/Elynor/1562/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1563</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1563/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 83</span></a>,
+ <a href="../cite/Elenor/1563/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Elnor</span> <a href="../cite/Elnor/1563/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1564</span> <span class="name">Elnor</span> <a href="../cite/Elnor/1564/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1565</span> <span class="name">Elinor</span> <a href="../cite/Elinor/1565/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Ellinor</span> <a href="../cite/Ellinor/1565/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Elnor</span> <a href="../cite/Elnor/1565/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1566</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1566/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Ellnor</span> <a href="../cite/Ellnor/1566/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>,
+ <span class="name">Elynora</span> <a href="../cite/Elynora/1566/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1567</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1567/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1567/8</span> <span class="name">Elnor</span> <a href="../cite/Elnor/1567s8/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1568</span> <span class="name">Eleanor</span> <a href="../cite/Eleanor/1568/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 112</span></a>,
+ <span class="name">Elnor</span> <a href="../cite/Elnor/1568/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1569</span> <span class="name">Eleanor</span> <a href="../cite/Eleanor/1569/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Elenor</span> <a href="../cite/Elenor/1569/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Ellinor</span> <a href="../cite/Ellinor/1569/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Ellnor</span> <a href="../cite/Ellnor/1569/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1570</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1570/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Ellemor</span> <a href="../cite/Ellemor/1570/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 54</span></a>,
+ <span class="name">Ellinor</span> <a href="../cite/Ellinor/1570/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Elnor</span> <a href="../cite/Elnor/1570/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1571</span> <span class="name">Elinor</span> <a href="../cite/Elinor/1571/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1573</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1573/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Eleoner</span> <a href="../cite/Eleoner/1573/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 121</span></a>;
+ <span class="date">1575</span> <span class="name">Elnor</span> <a href="../cite/Elnor/1575/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1576</span> <span class="name">Elner</span> <a href="../cite/Elner/1576/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Elner/1576/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1577</span> <span class="name">Elnor</span> <a href="../cite/Elnor/1577/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 62</span></a>;
+ <span class="date">1578</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1578/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 43</span></a>,
+ <span class="name">Ellinor</span> <a href="../cite/Ellinor/1578/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1579</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1579/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 44</span></a>,
+ <span class="name">Ellinor</span> <a href="../cite/Ellinor/1579/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1580</span> <span class="name">Elianor</span> <a href="../cite/Elianor/1580/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 131</span></a>;
+ <span class="date">1581</span> <span class="name">Eliner</span> <a href="../cite/Eliner/1581/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1581?</span> <span class="name">Eliner</span> <a href="../cite/Eliner/1581?/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 127</span></a>;
+ <span class="date">1581</span> <span class="name">Ellinor</span> <a href="../cite/Ellinor/1581/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1582</span> <span class="name">Eleanor</span> <a href="../cite/Eleanor/1582/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Elenor</span> <a href="../cite/Elenor/1582/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 63</span></a>,
+ <span class="name">Ellenor</span> <a href="../cite/Ellenor/1582/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Ellinor</span> <a href="../cite/Ellinor/1582/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1583</span> <span class="name">Eleanor</span> <a href="../cite/Eleanor/1583/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Ellinor</span> <a href="../cite/Ellinor/1583/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1583/4</span> <span class="name">Ellnor</span> <a href="../cite/Ellnor/1583s4/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1585</span> <span class="name">Eleanor</span> <a href="../cite/Eleanor/1585/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Elinor</span> <a href="../cite/Elinor/1585/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 96</span></a>,
+ <span class="name">Ellinor</span> <a href="../cite/Ellinor/1585/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1586</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1586/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 47</span></a>,
+ <span class="name">Elioner</span> <a href="../cite/Elioner/1586/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 79</span></a>,
+ <span class="name">Ellnor</span> <a href="../cite/Ellnor/1586/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1587</span> <span class="name">Eleanor</span> <a href="../cite/Eleanor/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Elenor</span> <a href="../cite/Elenor/1587/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Ellinor</span> <a href="../cite/Ellinor/1587/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Elyner</span> <a href="../cite/Elyner/1587/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1588</span> <span class="name">Ellynor</span> <a href="../cite/Ellynor/1588/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 128</span></a>,
+ <span class="name">Elnora</span> <a href="../cite/Elnora/1588/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 64</span></a>,
+ <span class="name">Elynor</span> <a href="../cite/Elynor/1588/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1589</span> <span class="name">Eleanor</span> <a href="../cite/Eleanor/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Elenor</span> <a href="../cite/Elenor/1589/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 49</span></a>,
+ <span class="name">Ellinor</span> <a href="../cite/Ellinor/1589/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Ellyner</span> <a href="../cite/Ellyner/1589/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1590</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1590/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1590/1</span> <span class="name">Ellinor</span> <a href="../cite/Ellinor/1590s1/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1590</span> <span class="name">Elynor</span> <a href="../cite/Elynor/1590/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1591</span> <span class="name">Elenor</span> <a href="../cite/Elenor/1591/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Ellinor</span> <a href="../cite/Ellinor/1591/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Elnor</span> <a href="../cite/Elnor/1591/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1592</span> <span class="name">Elemar</span> <a href="../cite/Elemar/1592/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 35</span></a>,
+ <span class="name">Elenor</span> <a href="../cite/Elenor/1592/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1592/3</span> <span class="name">Ellioner</span> <a href="../cite/Ellioner/1592s3/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1593</span> <span class="name">Eleanor</span> <a href="../cite/Eleanor/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Elenor</span> <a href="../cite/Elenor/1593/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 52</span></a>,
+ <span class="name">Ellioner</span> <a href="../cite/Ellioner/1593/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1594</span> <span class="name">Ellinor</span> <a href="../cite/Ellinor/1594/RegFord"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1594/5</span> <span class="name">Ellioner</span> <a href="../cite/Ellioner/1594s5/RegFord"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1595</span> <span class="name">Elinor</span> <a href="../cite/Elinor/1595/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Elliner</span> <a href="../cite/Elliner/1595/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1596/7</span> <span class="name">Elinor</span> <a href="../cite/Elinor/1596s7/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1596</span> <span class="name">Ellinor</span> <a href="../cite/Ellinor/1596/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Elner</span> <a href="../cite/Elner/1596/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1597</span> <span class="name">Eleanor</span> <a href="../cite/Eleanor/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Elenor</span> <a href="../cite/Elenor/1597/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1598</span> <span class="name">Elenar</span> <a href="../cite/Elenar/1598/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Elenor</span> <a href="../cite/Elenor/1598/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1599</span> <span class="name">Eleanor</span> <a href="../cite/Eleanor/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Elenor</span> <a href="../cite/Elenor/1599/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Elinor</span> <a href="../cite/Elinor/1599/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 142</span></a>,
+ <span class="name">Ellinor</span> <a href="../cite/Ellinor/1599/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 9</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1141</span> <span class="name">Alienorde</span> (<span class="case">abl</span>) <a href="../cite/Alienorde/1141/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1146</span> <span class="name">Alienorde</span> (<span class="case">abl</span>) <a href="../cite/Alienorde/1146/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>,
+ <span class="name">Alienordis</span> (<span class="case">nom</span>) <a href="../cite/Alienordis/1146/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1153</span> <span class="name">Alienorde</span> (<span class="case">abl</span>) <a href="../cite/Alienorde/1153/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>,
+ <span class="name">Alienordis</span> (<span class="case">nom</span>) <a href="../cite/Alienordis/1153/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1167</span> <span class="name">Alienordis</span> (<span class="case">nom</span>) <a href="../cite/Alienordis/1167/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1378</span> <span class="name">Alienore</span> (<span class="case">dat</span>) <a href="../cite/Alienore/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">597</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1386</span> <span class="name">Alienor</span> <a href="../cite/Alienor/1386/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 513</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1527</span> <span class="name">Eleonora</span> (<span class="case">nom</span>) <a href="../cite/Eleonora/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 88</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1580</span> <span class="name">Elionor</span> <a href="../cite/Elionor/1580/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1581</span> <span class="name">Elionor</span> <a href="../cite/Elionor/1581/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1582</span> <span class="name">Elionor</span> <a href="../cite/Elionor/1582/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1217</span> <span class="name">Eleonor</span> (<span class="case">abl</span>) <a href="../cite/Eleonor/1217/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 21</span></a>,
+ <span class="name">alionor</span> (<span class="case">nom</span>) <a href="../cite/alionor/1217/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 21</span></a>;
+ <span class="date">1221</span> <span class="name">Lianor</span> (<span class="case">nom</span>) <a href="../cite/Lianor/1221/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1487</span> <span class="name">Elionor</span> (<span class="case">nom</span>) <a href="../cite/Elionor/1487/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1488</span> <span class="name">Elionor</span> (<span class="case">nom</span>) <a href="../cite/Elionor/1488/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1489</span> <span class="name">Elionor</span> (<span class="case">nom</span>) <a href="../cite/Elionor/1489/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Elionoris</span> (<span class="case">gen</span>) <a href="../cite/Elionoris/1489/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1490</span> <span class="name">Elionor</span> (<span class="case">nom</span>) <a href="../cite/Elionor/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1491</span> <span class="name">Elionor</span> (<span class="case">nom</span>) <a href="../cite/Elionor/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1492</span> <span class="name">Elionor</span> (<span class="case">nom</span>) <a href="../cite/Elionor/1492/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Elionor</span> <a href="../cite/Elionor/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3222</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1575</span> <span class="name">Leonor</span> <a href="../cite/Leonor/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3805</span></a>;
+ <span class="date">1576</span> <span class="name">Leonor</span> <a href="../cite/Leonor/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3877</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Alinor</span> (<span class="case">nom</span>) <a href="../cite/Alinor/1497/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 108</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1592</span> <span class="name">Elinor</span> <a href="../cite/Elinor/1592/RegLlantrithyd"><span class="bib_key">RegLlantrithyd</span> <span class="bib_loc">p. 62</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Eleanor". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Eleanor.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

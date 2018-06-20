@@ -1,0 +1,377 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Mathilda</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Mathilda</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span>, <span class="lang">Old Saxon</span> <i>maht</i> 'might' + <span class="lang">Old High German</span> <i>hiltja</i> 'battle'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 9th C Frankish saint, an 11th C Holy Roman Empress, an 11th C queen consort of England, two 12th C queens of England, a 12th C queen of Portugal, a 12th C German saint, a 13th C queen of Castile, a 13th C queen consort of Denmark, and a 13th C German saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The English forms <i>Mald</i> and <i>Mold</i> are witnessed in 1379 in the relational bynames <i>Maldsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 292</span></span>) and <i>Moldsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 22</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1256</span> <span class="name">Mathilde</span> (<span class="case">abl</span>) <a href="../cite/Mathilde/1256/OHZI-II"><span class="bib_key">OHZI-II</span> <span class="bib_loc">no. 3</span></a>,
+ <span class="name">Mathildim</span> (<span class="case">acc</span>) <a href="../cite/Mathildim/1256/OHZI-II"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 3</span></a>,
+ <span class="name">Mathildis</span> (<span class="case">nom</span>) <a href="../cite/Mathildis/1256/OHZI-II"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 3</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1597x1598</span> <span class="name">Metten</span> <a href="../cite/Metten/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 352</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Machtildis</span> (<span class="case">gen</span>) <a href="../cite/Machtildis/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 18</span></a>,
+ <span class="name">Mathildis</span> (<span class="case">nom</span>) <a href="../cite/Mathildis/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1358</span> <span class="name">Mechthilta</span> (<span class="case">abl</span>) <a href="../cite/Mechthilta/1358/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">236, p. 31</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1581</span> <span class="name">Mette</span> <a href="../cite/Mette/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Matildis</span> (<span class="case">nom</span>) <a href="../cite/Matildis/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1189</span> <span class="name">Mactild</span> (<span class="case">nom</span>) <a href="../cite/Mactild/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 197</span></a>,
+ <span class="name">Madhald</span> (<span class="case">nom</span>) <a href="../cite/Madhald/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 141</span></a>,
+ <span class="name">Mahald</span> (<span class="case">nom</span>) <a href="../cite/Mahald/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 124</span></a>,
+ <span class="name">Mahalt</span> (<span class="case">nom</span>) <a href="../cite/Mahalt/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 136</span></a>,
+ <span class="name">Mahtild</span> (<span class="case">nom</span>) <a href="../cite/Mahtild/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 181</span></a>,
+ <span class="name">Mahtildis</span> (<span class="case">nom</span>) <a href="../cite/Mahtildis/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 119</span></a>,
+ <span class="name">Matillide</span> (<span class="case">gen</span>) <a href="../cite/Matillide/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 120</span></a>,
+ <span class="name">Matillis</span> (<span class="case">nom</span>) <a href="../cite/Matillis/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 87</span></a>;
+ <span class="date">1222</span> <span class="name">Machilda</span> (<span class="case">nom</span>) <a href="../cite/Machilda/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Matilda</span> (<span class="case">nom</span>) <a href="../cite/Matilda/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Matildis</span> (<span class="case">nom</span>) <a href="../cite/Matildis/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">machtild</span> (<span class="case">gen</span>) <a href="../cite/machtild/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">machtilda</span> (<span class="case">nom</span>) <a href="../cite/machtilda/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>,
+ <span class="name">machtilde</span> (<span class="case">gen</span>) <a href="../cite/machtilde/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a>,
+ <span class="name">matilde</span> (<span class="case">gen</span>) <a href="../cite/matilde/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1246</span> <span class="name">Matillis</span> (<span class="case">nom</span>) <a href="../cite/Matillis/1246/PSS-II"><span class="bib_key">PSS-II</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1279–80</span> <span class="name">Matilda</span> (<span class="case">nom</span>) <a href="../cite/Matilda/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 35</span></a>,
+ <span class="name">Matilde</span> (<span class="case">dat</span>) <a href="../cite/Matilde/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>,
+ <span class="name">Matilla</span> (<span class="case">nom</span>) <a href="../cite/Matilla/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 63</span></a>,
+ <span class="name">Matillda</span> (<span class="case">nom</span>) <a href="../cite/Matillda/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a>,
+ <span class="name">Matille</span> (<span class="case">gen</span>) <a href="../cite/Matille/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1300</span> <span class="name">Matilda</span> (<span class="case">nom</span>) <a href="../cite/Matilda/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 232</span></a>;
+ <span class="date">1321</span> <span class="name">Matillis</span> (<span class="case">nom</span>) <a href="../cite/Matillis/1321/EL-2"><span class="bib_key">EL-2</span> <span class="bib_loc">p. 162</span></a>;
+ <span class="date">1328</span> <span class="name">Matilldi</span> (<span class="case">dat</span>) <a href="../cite/Matilldi/1328/PSS-CXIV"><span class="bib_key">PSS-CXIV</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Matilldis</span> (<span class="case">nom</span>) <a href="../cite/Matilldis/1328/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1336</span> <span class="name">Matilda</span> (<span class="case">abl</span>) <a href="../cite/Matilda/1336/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">14b</span></a>,
+ <span class="name">Matildam</span> (<span class="case">acc</span>) <a href="../cite/Matildam/1336/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">14b</span></a>;
+ <span class="date">1337</span> <span class="name">Matilldem</span> (<span class="case">acc</span>) <a href="../cite/Matilldem/1337/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">14c</span></a>,
+ <span class="name">Matilldis</span> (<span class="case">nom</span>) <a href="../cite/Matilldis/1337/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">14c</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Mathildis</span> (<span class="case">nom</span>) <a href="../cite/Mathildis/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 81</span></a>,
+ <span class="name">Matilda</span> (<span class="case">nom</span>) <a href="../cite/Matilda/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Matildis</span> (<span class="case">nom</span>) <a href="../cite/Matildis/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1377</span> <span class="name">Matilda</span> (<span class="case">nom</span>) <a href="../cite/Matilda/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Molda</span> (<span class="case">nom</span>) <a href="../cite/Molda/1377/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Moldys</span> (<span class="case">gen</span>) <a href="../cite/Moldys/1377/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1379</span> <span class="name">Matilda</span> (<span class="case">nom</span>) <a href="../cite/Matilda/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Matilde</span> (<span class="case">gen</span>) <a href="../cite/Matilde/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Mitilda</span> (<span class="case">nom</span>) <a href="../cite/Mitilda/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1381</span> <span class="name">Mateldis</span> (<span class="case">nom</span>) <a href="../cite/Mateldis/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 119</span></a>,
+ <span class="name">Matelldis</span> (<span class="case">nom</span>) <a href="../cite/Matelldis/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 119</span></a>,
+ <span class="name">Matilda</span> (<span class="case">nom</span>) <a href="../cite/Matilda/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Matilde</span> (<span class="case">abl</span>) <a href="../cite/Matilde/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 89</span></a>,
+ <span class="name">Matildis</span> (<span class="case">nom</span>) <a href="../cite/Matildis/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 68</span></a>,
+ <span class="name">Matilldis</span> (<span class="case">nom</span>) <a href="../cite/Matilldis/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1406</span> <span class="name">Matildi</span> (<span class="case">dat</span>) <a href="../cite/Matildi/1406/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1408</span> <span class="name">Matildem</span> (<span class="case">acc</span>) <a href="../cite/Matildem/1408/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1417–18</span> <span class="name">Matildam</span> (<span class="case">acc</span>) <a href="../cite/Matildam/1417–18/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>,
+ <span class="name">Matilde</span> (<span class="case">dat</span>) <a href="../cite/Matilde/1417–18/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1427</span> <span class="name">Matildis</span> (<span class="case">gen</span>) <a href="../cite/Matildis/1427/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LIII</span></a>;
+ <span class="date">1435</span> <span class="name">Matildæ</span> (<span class="case">dat</span>) <a href="../cite/Matildæ/1435/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LVII</span></a>;
+ <span class="date">1485–1486</span> <span class="name">Matilda</span> (<span class="case">abl</span>) <a href="../cite/Matilda/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 66</span></a>;
+ <span class="date">1560</span> <span class="name">Mawde</span> (<span class="case">nom</span>) <a href="../cite/Mawde/1560/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1562</span> <span class="name">Mawde</span> (<span class="case">nom</span>) <a href="../cite/Mawde/1562/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1568</span> <span class="name">matilda</span> (<span class="case">nom</span>) <a href="../cite/matilda/1568/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1571</span> <span class="name">Matilda</span> (<span class="case">nom</span>) <a href="../cite/Matilda/1571/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1406</span> <span class="name">Maude</span> <a href="../cite/Maude/1406/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Mawde</span> <a href="../cite/Mawde/1406/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1408</span> <span class="name">Mavde</span> <a href="../cite/Mavde/1408/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Mawd</span> <a href="../cite/Mawd/1408/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Mawde</span> <a href="../cite/Mawde/1408/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1411</span> <span class="name">Mawde</span> <a href="../cite/Mawde/1411/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1427</span> <span class="name">Malde</span> <a href="../cite/Malde/1427/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LII</span></a>;
+ <span class="date">1431</span> <span class="name">Maude</span> <a href="../cite/Maude/1431/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 88</span></a>;
+ <span class="date">1433</span> <span class="name">Maude</span> <a href="../cite/Maude/1433/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95</span></a>;
+ <span class="date">1434</span> <span class="name">Maut</span> <a href="../cite/Maut/1434/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 102</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1529</span> <span class="name">Mawde</span> <a href="../cite/Mawde/1529/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 83</span></a>;
+ <span class="date">1530</span> <span class="name">Malde</span> <a href="../cite/Malde/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 47</span></a>,
+ <span class="name">Mawd</span> <a href="../cite/Mawd/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a>,
+ <span class="name">Mawde</span> <a href="../cite/Mawde/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1530/31</span> <span class="name">Mawde</span> <a href="../cite/Mawde/1530s31/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94</span></a>;
+ <span class="date">1544</span> <span class="name">Mawde</span> <a href="../cite/Mawde/1544/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCI</span></a>,
+ <span class="name">Mawt</span> <a href="../cite/Mawt/1544/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1551</span> <span class="name">Maude</span> <a href="../cite/Maude/1551/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1552</span> <span class="name">Mawt</span> <a href="../cite/Mawt/1552/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1553</span> <span class="name">Maude</span> <a href="../cite/Maude/1553/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1555</span> <span class="name">Mawt</span> <a href="../cite/Mawt/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1558</span> <span class="name">Matild</span> <a href="../cite/Matild/1558/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 110</span></a>,
+ <span class="name">Matilde</span> <a href="../cite/Matilde/1558/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Maude</span> <a href="../cite/Maude/1558/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Mawld</span> <a href="../cite/Mawld/1558/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1560</span> <span class="name">Maude</span> <a href="../cite/Maude/1560/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Maude/1560/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1562</span> <span class="name">Maud</span> <a href="../cite/Maud/1562/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Maud/1562/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Maud/1562/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1563</span> <span class="name">Matilde</span> <a href="../cite/Matilde/1563/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Maude</span> <a href="../cite/Maude/1563/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1564</span> <span class="name">Moud</span> <a href="../cite/Moud/1564/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1565</span> <span class="name">Maud</span> <a href="../cite/Maud/1565/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Moud</span> <a href="../cite/Moud/1565/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1568</span> <span class="name">Maude</span> <a href="../cite/Maude/1568/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1569</span> <span class="name">Maud</span> <a href="../cite/Maud/1569/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 54</span></a>,
+ <span class="name">Maulde</span> <a href="../cite/Maulde/1569/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1571</span> <span class="name">Maud</span> <a href="../cite/Maud/1571/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1572</span> <span class="name">Maud</span> <a href="../cite/Maud/1572/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1573</span> <span class="name">Mawde</span> <a href="../cite/Mawde/1573/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 121</span></a>;
+ <span class="date">1575</span> <span class="name">Matilda</span> <a href="../cite/Matilda/1575/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Maude</span> <a href="../cite/Maude/1575/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Moud</span> <a href="../cite/Moud/1575/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">mawde</span> <a href="../cite/mawde/1575/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1576</span> <span class="name">Matilda</span> <a href="../cite/Matilda/1576/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 131</span></a>,
+ <span class="name">Mawte</span> <a href="../cite/Mawte/1576/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>;
+ <span class="date">1577</span> <span class="name">Maude</span> <a href="../cite/Maude/1577/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 129</span></a>;
+ <span class="date">1578</span> <span class="name">Maude</span> <a href="../cite/Maude/1578/BEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1581</span> <span class="name">Moud</span> <a href="../cite/Moud/1581/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1582</span> <span class="name">Moude</span> <a href="../cite/Moude/1582/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1583</span> <span class="name">Maud</span> <a href="../cite/Maud/1583/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1584</span> <span class="name">Maude</span> <a href="../cite/Maude/1584/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Mawde</span> <a href="../cite/Mawde/1584/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Moud</span> <a href="../cite/Moud/1584/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1586</span> <span class="name">Maud</span> <a href="../cite/Maud/1586/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1587</span> <span class="name">Maud</span> <a href="../cite/Maud/1587/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1588</span> <span class="name">Maude</span> <a href="../cite/Maude/1588/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1589</span> <span class="name">Mawde</span> <a href="../cite/Mawde/1589/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 123</span></a>;
+ <span class="date">1590</span> <span class="name">Maud</span> <a href="../cite/Maud/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Mawde</span> <a href="../cite/Mawde/1590/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1591</span> <span class="name">Maude</span> <a href="../cite/Maude/1591/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 69</span></a>,
+ <a href="../cite/Maude/1591/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1592</span> <span class="name">Maud</span> <a href="../cite/Maud/1592/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593/4</span> <span class="name">Maud</span> <a href="../cite/Maud/1593s4/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 92</span></a>;
+ <span class="date">1593</span> <span class="name">Maude</span> <a href="../cite/Maude/1593/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1594</span> <span class="name">Maud</span> <a href="../cite/Maud/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1595</span> <span class="name">Maud</span> <a href="../cite/Maud/1595/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Maude</span> <a href="../cite/Maude/1595/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1596</span> <span class="name">Maud</span> <a href="../cite/Maud/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Moud</span> <a href="../cite/Moud/1596/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1598</span> <span class="name">Maud</span> <a href="../cite/Maud/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 38</span></a>,
+ <span class="name">Maude</span> <a href="../cite/Maude/1598/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1599</span> <span class="name">Maude</span> <a href="../cite/Maude/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 41</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1060</span> <span class="name">Mateldis</span> (<span class="case">gen</span>) <a href="../cite/Mateldis/1060/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">1147</span> <span class="name">Matholde</span> (<span class="case">abl</span>) <a href="../cite/Matholde/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Matoldis</span> (<span class="case">nom</span>) <a href="../cite/Matoldis/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1151</span> <span class="name">Matildi</span> (<span class="case">abl</span>) <a href="../cite/Matildi/1151/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>,
+ <span class="name">Matildis</span> (<span class="case">gen</span>) <a href="../cite/Matildis/1151/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>;
+ <span class="date">1163</span> <span class="name">Matildis</span> (<span class="case">gen</span>) <a href="../cite/Matildis/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1163–64</span> <span class="name">Mathildis</span> (<span class="case">nom</span>) <a href="../cite/Mathildis/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>,
+ <span class="name">Matildis</span> (<span class="case">nom</span>) <a href="../cite/Matildis/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">108</span></a>;
+ <span class="date">1164</span> <span class="name">Mathildis</span> (<span class="case">nom</span>) <a href="../cite/Mathildis/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Matildis</span> (<span class="case">nom</span>) <a href="../cite/Matildis/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1178x1182</span> <span class="name">Mathilde</span> (<span class="case">abl</span>) <a href="../cite/Mathilde/1178x1182/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Mathildi</span> (<span class="case">dat</span>) <a href="../cite/Mathildi/1178x1182/ChartCaen2"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1179</span> <span class="name">Mattilde</span> (<span class="case">abl</span>) <a href="../cite/Mattilde/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">170</span></a>;
+ <span class="date">1214</span> <span class="name">Mathildis</span> (<span class="case">gen</span>) <a href="../cite/Mathildis/1214/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXLI</span></a>;
+ <span class="date">1244</span> <span class="name">Matildis</span> (<span class="case">nom</span>) <a href="../cite/Matildis/1244/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-CVII</span></a>;
+ <span class="date">1258</span> <span class="name">Mathildis</span> (<span class="case">abl</span>) <a href="../cite/Mathildis/1258/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">X, BMV</span></a>,
+ <span class="name">Matildim</span> (<span class="case">acc</span>) <a href="../cite/Matildim/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII, Pentecost</span></a>,
+ <span class="name">Matildis</span> (<span class="case">nom</span>) <a href="../cite/Matildis/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII, Pentecost</span></a>;
+ <span class="date">1260</span> <span class="name">Matildis</span> (<span class="case">nom</span>) <a href="../cite/Matildis/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">VI, Pentecost</span></a>,
+ <span class="name">Matilla</span> (<span class="case">nom</span>) <a href="../cite/Matilla/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XI, Pentecost</span></a>;
+ <span class="date">1301</span> <span class="name">Malthidis</span> (<span class="case">nom</span>) <a href="../cite/Malthidis/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 244</span></a>,
+ <span class="name">Mathildis</span> (<span class="case">gen</span>) <a href="../cite/Mathildis/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 245</span></a>,
+ <span class="name">Mathilidis</span> (<span class="case">nom</span>) <a href="../cite/Mathilidis/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 257</span></a>;
+ <span class="date">1313</span> <span class="name">Mathildis</span> (<span class="case">gen</span>) <a href="../cite/Mathildis/1313/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXVIII</span></a>;
+ <span class="date">1378</span> <span class="name">Mathildis</span> (<span class="case">gen</span>) <a href="../cite/Mathildis/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">2085</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Maheut</span> (<span class="case">obl</span>) <a href="../cite/Maheut/1292/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 113</span></a>;
+ <span class="date">1296</span> <span class="name">Maheut</span> <a href="../cite/Maheut/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1301</span> <span class="name">Mahaut</span> (<span class="case">obl</span>) <a href="../cite/Mahaut/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 291</span></a>;
+ <span class="date">1313</span> <span class="name">Maheut</span> <a href="../cite/Maheut/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1327</span> <span class="name">Maheut</span> <a href="../cite/Maheut/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 181</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Mahaut</span> <a href="../cite/Mahaut/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 618</span></a>;
+ <span class="date">1421</span> <span class="name">Mehault</span> <a href="../cite/Mehault/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">p. 160</span></a>;
+ <span class="date">1438</span> <span class="name">Mahault</span> <a href="../cite/Mahault/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">242</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1010</span> <span class="name">Mechtilde</span> (<span class="case">abl</span>) <a href="../cite/Mechtilde/1010/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">84</span></a>;
+ <span class="date">1231</span> <span class="name">Methildis</span> (<span class="case">nom</span>) <a href="../cite/Methildis/1231/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">86</span></a>;
+ <span class="date">1256</span> <span class="name">Methildis</span> (<span class="case">nom</span>) <a href="../cite/Methildis/1256/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">158</span></a>;
+ <span class="date">1261</span> <span class="name">Mechtildis</span> (<span class="case">abl</span>) <a href="../cite/Mechtildis/1261/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">192</span></a>;
+ <span class="date">1310</span> <span class="name">Mechtildis</span> (<span class="case">nom</span>) <a href="../cite/Mechtildis/1310/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1322</span> <span class="name">Mahthildis</span> (<span class="case">nom</span>) <a href="../cite/Mahthildis/1322/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 156</span></a>;
+ <span class="date">1394</span> <span class="name">Mahthildis</span> (<span class="case">nom</span>) <a href="../cite/Mahthildis/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 194</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1322</span> <span class="name">Matusche</span> (<span class="case">gen</span>) <a href="../cite/Matusche/1322/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 158</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1360</span> <span class="name">Mecze</span> (<span class="case">nom</span>) <a href="../cite/Mecze/1360/UrkHess-3"><span class="bib_key">UrkHess-3</span> <span class="bib_loc">995</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1479</span> <span class="name">Matildis</span> (<span class="case">gen</span>) <a href="../cite/Matildis/1479/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">23</span></a>;
+ <span class="date">1488</span> <span class="name">Matildem</span> (<span class="case">acc</span>) <a href="../cite/Matildem/1488/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>,
+ <span class="name">Matildi</span> (<span class="case">dat</span>) <a href="../cite/Matildi/1488/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1539/40</span> <span class="name">Matilda</span> <a href="../cite/Matilda/1539s40/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">89</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1261</span> <span class="name">Mehthildim</span> (<span class="case">acc</span>) <a href="../cite/Mehthildim/1261/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">209</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1327</span> <span class="name">Mechtildis</span> (<span class="case">nom</span>) <a href="../cite/Mechtildis/1327/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">210</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1324</span> <span class="name">mechthyldis</span> (<span class="case">gen</span>) <a href="../cite/mechthyldis/1324/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 299</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1209</span> <span class="name">Maphalda</span> (<span class="case">dat</span>) <a href="../cite/Maphalda/1209/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 10</span></a>;
+ <span class="date">1256</span> <span class="name">Mafalda</span> (<span class="case">nom</span>) <a href="../cite/Mafalda/1256/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1107x1117</span> <span class="name">Mathildis</span> (<span class="case">gen</span>) <a href="../cite/Mathildis/1107x1117/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">c1117</span> <span class="name">Mathildis</span> (<span class="case">gen</span>) <a href="../cite/Mathildis/c1117/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIX</span></a>;
+ <span class="date">c1120</span> <span class="name">Matilde</span> (<span class="case">abl</span>) <a href="../cite/Matilde/c1120/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXV</span></a>;
+ <span class="date">1123</span> <span class="name">Matildis</span> (<span class="case">gen</span>) <a href="../cite/Matildis/1123/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVI</span></a>;
+ <span class="date">1124</span> <span class="name">Matildis</span> (<span class="case">nom</span>) <a href="../cite/Matildis/1124/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">L</span></a>;
+ <span class="date">1376</span> <span class="name">Matilda</span> (<span class="case">nom</span>) <a href="../cite/Matilda/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Matilde</span> (<span class="case">gen</span>) <a href="../cite/Matilde/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1578</span> <span class="name">Malt</span> <a href="../cite/Malt/1578/RegLlantrithyd"><span class="bib_key">RegLlantrithyd</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1593</span> <span class="name">Mallt</span> <a href="../cite/Mallt/1593/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1595</span> <span class="name">Maud</span> <a href="../cite/Maud/1595/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Mathilda". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Mathilda.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

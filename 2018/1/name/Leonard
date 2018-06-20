@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Leonard</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Leonard</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>lewo</i> 'lion' + <span class="lang">Old Saxon</span> <i>hard</i>, <span class="lang">Old High German</span> <i>hart</i> 'strong, hard'.
+   </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 6th C saint, the patron of prisoners.</p>
+</div>
+  
+  
+<div class="def">
+  <p><i>Lienhard</i> is an Alemannic variant.  For more information on the name, see <span class="key">Bahlow</span> <span class="loc">s.n. Lienhard</span>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Lenaert</span> <a href="../cite/Lenaert/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 327</span></a>,
+ <span class="name">Leonaerdt</span> <a href="../cite/Leonaerdt/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 389</span></a>,
+ <span class="name">Leonardus</span> <a href="../cite/Leonardus/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 387</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1350/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">157</span></a>;
+ <span class="date">1353</span> <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">37, p. 22</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1553</span> <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1553/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1557</span> <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1557/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1560</span> <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1560/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a></dd>
+<dt><span class="lang">Anglo-French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1364</span> <span class="name">Lyenart</span> <a href="../cite/Lyenart/1364/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 38</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1574</span> <span class="name">Leenart</span> <a href="../cite/Leenart/1574/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Boom</span></a>;
+ <span class="date">1595</span> <span class="name">Leenaert</span> <a href="../cite/Leenaert/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Costerman</span></a>;
+ <span class="date">1598</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Costerman</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Lennard</span> <a href="../cite/Lennard/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 28</span></a>,
+ <span class="name">Leonard</span> <a href="../cite/Leonard/1530/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXX</span></a>;
+ <span class="date">1531</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1531/SRS-XXI"><span class="bib_key">SRS-XXI</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1533</span> <span class="name">leonarde</span> <a href="../cite/leonarde/1533/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXII</span></a>;
+ <span class="date">1538</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1538/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1544</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1544/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1545</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1545/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1546</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1546/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1547</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1547/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 79</span></a>,
+ <a href="../cite/Leonard/1547/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1549</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1549/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1556</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1556/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Leonarde</span> <a href="../cite/Leonarde/1556/PRThirsk"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1556/57</span> <span class="name">Leonarde</span> <a href="../cite/Leonarde/1556s57/PRThirsk"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1556</span> <span class="name">Leonarde</span> <a href="../cite/Leonarde/1556/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1557</span> <span class="name">Leanard</span> <a href="../cite/Leanard/1557/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Leonard</span> <a href="../cite/Leonard/1557/PRThirsk"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1561</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1561/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1562</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1562/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 111</span></a>,
+ <span class="name">Leonarde</span> <a href="../cite/Leonarde/1562/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1564</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1564/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1567</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1567/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 112</span></a>;
+ <span class="date">1570</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1570/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1575</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1575/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1581</span> <span class="name">Leanaerd</span> <a href="../cite/Leanaerd/1581/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1582</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1582/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 49</span></a>,
+ <a href="../cite/Leonard/1582/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1583</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1583/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1584</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1584/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1585</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1585/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1586</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1586/Bar-in-El"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>,
+ <a href="../cite/Leonard/1586/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 102</span></a>;
+ <span class="date">1587</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1587/COmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 102</span></a>,
+ <a href="../cite/Leonard/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1588</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1588/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1590</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1590/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1593/4</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1593s4/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1593</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1593/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1597/8</span> <span class="name">Leanarde</span> <a href="../cite/Leanarde/1597s8/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 93</span></a>;
+ <span class="date">1597</span> <span class="name">Leanord</span> <a href="../cite/Leanord/1597/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 6</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1260</span> <span class="name">Leonardo</span> (<span class="case">abl</span>) <a href="../cite/Leonardo/1260/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XVII, Ascension</span></a>,
+ <span class="name">Leonardum</span> (<span class="case">acc</span>) <a href="../cite/Leonardum/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII, Ascension</span></a>,
+ <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII, Ascension</span></a>;
+ <span class="date">1301</span> <span class="name">Leonardi</span> (<span class="case">gen</span>) <a href="../cite/Leonardi/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 219</span></a>,
+ <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 178</span></a>;
+ <span class="date">1378</span> <span class="name">Leonardo</span> (<span class="case">dat</span>) <a href="../cite/Leonardo/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1505</span></a>;
+ <span class="date">1579</span> <span class="name">Leonardi</span> (<span class="case">gen</span>) <a href="../cite/Leonardi/1579/FlorLyon"><span class="bib_key">FlorLyon</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1585</span> <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1585/FlorLyon"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Lienart</span> <a href="../cite/Lienart/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 21</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Lyenart</span> <a href="../cite/Lyenart/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 613</span></a>;
+ <span class="date">1563</span> <span class="name">Léonard</span> <a href="../cite/Léonard/1563/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1564</span> <span class="name">Léonard</span> <a href="../cite/Léonard/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 88</span></a>;
+ <span class="date">1565</span> <span class="name">Léonard</span> <a href="../cite/Léonard/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 128</span></a>;
+ <span class="date">1566</span> <span class="name">Léonard</span> <a href="../cite/Léonard/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 254</span></a>;
+ <span class="date">1567</span> <span class="name">Léonard</span> <a href="../cite/Léonard/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 288</span></a>;
+ <span class="date">1571</span> <span class="name">Liénard</span> <a href="../cite/Liénard/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 442</span></a>;
+ <span class="date">1590</span> <span class="name">Léonart</span> <a href="../cite/Léonart/1590/raymond1588"><span class="bib_key">raymond1588</span> <span class="bib_loc">p. 572</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1414</span> <span class="name">Leonhardum</span> (<span class="case">acc</span>) <a href="../cite/Leonhardum/1414/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCXCVIII</span></a>,
+ <span class="name">Leonhardus</span> (<span class="case">nom</span>) <a href="../cite/Leonhardus/1414/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCXCVII</span></a>;
+ <span class="date">1422</span> <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1422/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXVIII</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1404</span> <span class="name">Linhard</span> (<span class="case">nom</span>) <a href="../cite/Linhard/1404/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXXVII</span></a>;
+ <span class="date">1419</span> <span class="name">Lienhardt</span> (<span class="case">gen</span>) <a href="../cite/Lienhardt/1419/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXII</span></a>,
+ <span class="name">Lienhart</span> (<span class="case">gen</span>) <a href="../cite/Lienhart/1419/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXIII</span></a>;
+ <span class="date">1423</span> <span class="name">Lienhart</span> (<span class="case">nom</span>) <a href="../cite/Lienhart/1423/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXIX</span></a>;
+ <span class="date">1497</span> <span class="name">Lienhart</span> <a href="../cite/Lienhart/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Liennhart</span> <a href="../cite/Liennhart/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Linhar</span> <a href="../cite/Linhar/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">1455</span></a>,
+ <span class="name">Linhardt</span> <a href="../cite/Linhardt/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">2673</span></a>,
+ <span class="name">Linhart</span> <a href="../cite/Linhart/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1496</span> <span class="name">Leonardo</span> (<span class="case">abl</span>) <a href="../cite/Leonardo/1496/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">39</span></a>,
+ <span class="name">Leonardum</span> (<span class="case">acc</span>) <a href="../cite/Leonardum/1496/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">39</span></a>,
+ <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1496/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">39</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1538/9</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1538s9/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">71</span></a>;
+ <span class="date">1540</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1540/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">150</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1237</span> <span class="name">Lienhardi</span> (<span class="case">gen</span>) <a href="../cite/Lienhardi/1237/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">582</span></a>;
+ <span class="date">1300</span> <span class="name">Leonardum</span> (<span class="case">acc</span>) <a href="../cite/Leonardum/1300/ActDipVeneto-I-1"><span class="bib_key">ActDipVeneto-I-1</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1324</span> <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1324/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 48, 3731</span></a>;
+ <span class="date">1366</span> <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1366/CatTir1"><span class="bib_key">CatTir1</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1376</span> <span class="name">Leonardi</span> (<span class="case">gen</span>) <a href="../cite/Leonardi/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 243</span></a>,
+ <span class="name">Leonardo</span> (<span class="case">abl</span>) <a href="../cite/Leonardo/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1387</span> <span class="name">Leonardi</span> (<span class="case">gen</span>) <a href="../cite/Leonardi/1387/Venditti"><span class="bib_key">Venditti</span> <span class="bib_loc">II-37</span></a>,
+ <span class="name">Leonardum</span> (<span class="case">acc</span>) <a href="../cite/Leonardum/1387/Venditti"><span class="bib_key">ibid.</span> <span class="bib_loc">II-510</span></a>;
+ <span class="date">1393</span> <span class="name">Leonardo</span> (<span class="case">abl</span>) <a href="../cite/Leonardo/1393/sajanello-2"><span class="bib_key">sajanello-2</span></a>;
+ <span class="date">1423</span> <span class="name">Leonardi</span> (<span class="case">gen</span>) <a href="../cite/Leonardi/1423/CatTir1"><span class="bib_key">CatTir1</span> <span class="bib_loc">69</span></a>;
+ <span class="date">1464</span> <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1470</span> <span class="name">Leonardj</span> (<span class="case">gen</span>) <a href="../cite/Leonardj/1470/RCCaetani6"><span class="bib_key">RCCaetani6</span> <span class="bib_loc">730</span></a>,
+ <span class="name">Leonardo</span> (<span class="case">abl</span>) <a href="../cite/Leonardo/1470/RCCaetani6"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI-62</span></a>,
+ <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1470/RCCaetani6"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI-62</span></a>;
+ <span class="date">1478</span> <span class="name">Leonardi</span> (<span class="case">gen</span>) <a href="../cite/Leonardi/1478/RCCaetani6"><span class="bib_key">ibid.</span> <span class="bib_loc">2720</span></a>,
+ <span class="name">Leonardo</span> (<span class="case">abl</span>) <a href="../cite/Leonardo/1478/RCCaetani6"><span class="bib_key">ibid.</span> <span class="bib_loc">2720</span></a>;
+ <span class="date">1527</span> <span class="name">Leonardi</span> (<span class="case">gen</span>) <a href="../cite/Leonardi/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 84</span></a>,
+ <span class="name">Leonardus</span> (<span class="case">nom</span>) <a href="../cite/Leonardus/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1173</span> <span class="name">Leonardelli</span> (<span class="case">gen</span>) <a href="../cite/Leonardelli/1173/SDE3"><span class="bib_key">SDE3</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Leonardello</span> (<span class="case">abl</span>) <a href="../cite/Leonardello/1173/SDE3"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1348</span> <span class="name">Leonardelli</span> (<span class="case">gen</span>) <a href="../cite/Leonardelli/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">21</span></a>;
+ <span class="date">1366</span> <span class="name">Nardus</span> (<span class="case">nom</span>) <a href="../cite/Nardus/1366/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1425</span> <span class="name">Nardi</span> (<span class="case">gen</span>) <a href="../cite/Nardi/1425/CatTir1"><span class="bib_key">CatTir1</span> <span class="bib_loc">86</span></a>;
+ <span class="date">1470</span> <span class="name">Nardi</span> (<span class="case">gen</span>) <a href="../cite/Nardi/1470/RCCaetani6"><span class="bib_key">RCCaetani6</span> <span class="bib_loc">730</span></a>;
+ <span class="date">1478</span> <span class="name">Nardelli</span> (<span class="case">gen</span>) <a href="../cite/Nardelli/1478/RCCaetani6"><span class="bib_key">ibid.</span> <span class="bib_loc">2720</span></a>,
+ <span class="name">Narducium</span> (<span class="case">acc</span>) <a href="../cite/Narducium/1478/RCCaetani6"><span class="bib_key">ibid.</span> <span class="bib_loc">2720</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1429–1430</span> <span class="name">Lionardo</span> <a href="../cite/Lionardo/1429–1430/DiaryLMA"><span class="bib_key">DiaryLMA</span> <span class="bib_loc">p. 207</span></a>;
+ <span class="date">1513x1521</span> <span class="name">Leonardo</span> <a href="../cite/Leonardo/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 12</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1513x1521</span> <span class="name">Nardo</span> <a href="../cite/Nardo/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 16</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1488</span> <span class="name">Leonardi</span> (<span class="case">gen</span>) <a href="../cite/Leonardi/1488/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1490</span> <span class="name">Leonardi</span> (<span class="case">gen</span>) <a href="../cite/Leonardi/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Leonard</span> <a href="../cite/Leonard/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3216</span></a>,
+ <span class="name">Leonart</span> <a href="../cite/Leonart/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">2096</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Leonard". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Leonard.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

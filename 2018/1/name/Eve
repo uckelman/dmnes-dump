@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Eve</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Eve</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">A derivative of <span class="lang">Hebrew</span> <i>חַוָּה</i> 'to live, to give life'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of the first woman in the Bible. Wycliffite Bible (1395): <i>Eue</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>In Ireland, the name is sometimes used to anglicize or Latinize <a class="nym" href="Aoife">Aoife</a>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1349</span> <span class="name">Ewa</span> (<span class="case">nom</span>) <a href="../cite/Ewa/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">80</span></a>,
+ <span class="name">Ewe</span> (<span class="case">dat</span>) <a href="../cite/Ewe/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">83</span></a>;
+ <span class="date">1350</span> <span class="name">Eue</span> (<span class="case">dat</span>) <a href="../cite/Eue/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">180</span></a>;
+ <span class="date">1353</span> <span class="name">Ewe</span> (<span class="case">dat</span>) <a href="../cite/Ewe/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">138</span></a>;
+ <span class="date">1356</span> <span class="name">Ewa</span> (<span class="case">nom</span>) <a href="../cite/Ewa/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">139</span></a>,
+ <span class="name">Ewe</span> (<span class="case">dat</span>) <a href="../cite/Ewe/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">119</span></a>;
+ <span class="date">1358</span> <span class="name">Ewe</span> (<span class="case">dat</span>) <a href="../cite/Ewe/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">212, p. 30</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1356</span> <span class="name">Ewka</span> (<span class="case">nom</span>) <a href="../cite/Ewka/1356/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">154</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Eva</span> (<span class="case">nom</span>) <a href="../cite/Eva/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 127</span></a>,
+ <span class="name">Eve</span> (<span class="case">gen</span>) <a href="../cite/Eve/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 119</span></a>;
+ <span class="date">1222</span> <span class="name">Eue</span> (<span class="case">gen</span>) <a href="../cite/Eue/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1256</span> <span class="name">Eva</span> (<span class="case">nom</span>) <a href="../cite/Eva/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Evam</span> (<span class="case">acc</span>) <a href="../cite/Evam/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Evæ</span> (<span class="case">gen</span>) <a href="../cite/Evæ/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Eua</span> (<span class="case">nom</span>) <a href="../cite/Eua/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Eva</span> (<span class="case">nom</span>) <a href="../cite/Eva/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1377</span> <span class="name">Eva</span> (<span class="case">nom</span>) <a href="../cite/Eva/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1379</span> <span class="name">Eua</span> (<span class="case">nom</span>) <a href="../cite/Eua/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1381</span> <span class="name">Eva</span> (<span class="case">nom</span>) <a href="../cite/Eva/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 11</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1381</span> <span class="name">Evita</span> (<span class="case">nom</span>) <a href="../cite/Evita/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Evitta</span> (<span class="case">nom</span>) <a href="../cite/Evitta/1381/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1598</span> <span class="name">Eve</span> <a href="../cite/Eve/1598/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Eva</span> (<span class="case">nom</span>) <a href="../cite/Eva/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">37, Wan</span></a>;
+ <span class="date">1180</span> <span class="name">Eve</span> (<span class="case">gen</span>) <a href="../cite/Eve/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1301</span> <span class="name">Eva</span> (<span class="case">nom</span>) <a href="../cite/Eva/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 202</span></a>;
+ <span class="date">1378</span> <span class="name">Eva</span> (<span class="case">abl</span>) <a href="../cite/Eva/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">2485</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1133</span> <span class="name">Eve</span> (<span class="case">obl</span>) <a href="../cite/Eve/1133/tailliar"><span class="bib_key">tailliar</span> <span class="bib_loc">no. 1</span></a>;
+ <span class="date">1301</span> <span class="name">Eve</span> (<span class="case">obl</span>) <a href="../cite/Eve/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 290</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1561</span> <span class="name">Eve</span> <a href="../cite/Eve/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1563</span> <span class="name">Eve</span> <a href="../cite/Eve/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1564</span> <span class="name">Eve</span> <a href="../cite/Eve/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1565</span> <span class="name">Eve</span> <a href="../cite/Eve/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1566</span> <span class="name">Eve</span> <a href="../cite/Eve/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 222</span></a>;
+ <span class="date">1567</span> <span class="name">Eve</span> <a href="../cite/Eve/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 293</span></a>;
+ <span class="date">1568</span> <span class="name">Eve</span> <a href="../cite/Eve/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 363</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Eva</span> (<span class="case">nom</span>) <a href="../cite/Eva/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">121</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Eve". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Eve.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

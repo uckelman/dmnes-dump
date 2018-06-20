@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Dodo</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Dodo</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">This can be a hypocoristic of any of various names beginning with <i>Do-</i>, formed by reduplication; a hypocoristic of names beginning with <i>Dod-</i>, of uncertain origin, possibly either <span class="lang">Old High German</span> <i>toto</i> 'sponsor, godparent' or <span class="lang">Old High German</span> <i>*dodh</i> 'judgement'; or, in some rare cases, <span class="lang">Hebrew</span> <i>דּוֹדוֹ</i> from <span class="lang">Hebrew</span> <i>דּוֹד</i> 'beloved'. 
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The Hebrew name was the name of a two, possibly three, obscure Old Testatment characters. Wycliffite Bible (1395): <i>Dodan</i>, <i>Thola</i>.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">A4</span></a>;
+ <span class="date">c823</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">14, Gaugiacum</span></a>;
+ <span class="date">1060</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/1060/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">730</span></a>;
+ <span class="date">1079x1101</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/1079x1101/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1094</span> <span class="name">Dodonis</span> (<span class="case">gen</span>) <a href="../cite/Dodonis/1094/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">686</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXIII</span></a>;
+ <span class="date">1123</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/1123/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXVI</span></a>;
+ <span class="date">1135</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Dodonis</span> (<span class="case">gen</span>) <a href="../cite/Dodonis/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">66</span></a>;
+ <span class="date">1147</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Dodone</span> (<span class="case">abl</span>) <a href="../cite/Dodone/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Dodonis</span> (<span class="case">gen</span>) <a href="../cite/Dodonis/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1147x1158</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/1147x1158/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1163–64</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">115</span></a>;
+ <span class="date">1164</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1166</span> <span class="name">Dodone</span> (<span class="case">abl</span>) <a href="../cite/Dodone/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>,
+ <span class="name">Dodonis</span> (<span class="case">gen</span>) <a href="../cite/Dodonis/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>;
+ <span class="date">1179</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">c823</span> <span class="name">Dodinus</span> (<span class="case">nom</span>) <a href="../cite/Dodinus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">67</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Dodo</span> (<span class="case">abl</span>) <a href="../cite/Dodo/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§31</span></a>;
+ <span class="date">1108</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/1108/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">85</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">896</span> <span class="name">Dodo</span> (<span class="case">nom</span>) <a href="../cite/Dodo/896/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMXX</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Dodo". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Dodo.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

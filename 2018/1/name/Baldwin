@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Baldwin</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Baldwin</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>bald</i> 'bold' + <span class="lang">Old High German</span> <i>wini</i> 'friend' or <span class="lang">Old English</span> <i>beald</i> 'bold' + <span class="lang">Old English</span> <i>wine</i> 'friend'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 12th C saint; five kings of Jerusalem; nine counts of Flanders; and two emperors of Constantinople.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1050</span> <span class="name">Balduvini</span> (<span class="case">gen</span>) <a href="../cite/Balduvini/c1050/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">58</span></a>,
+ <span class="name">Baldwinus</span> (<span class="case">nom</span>) <a href="../cite/Baldwinus/c1050/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">57</span></a>;
+ <span class="date">c1055</span> <span class="name">Baldwino</span> (<span class="case">abl</span>) <a href="../cite/Baldwino/c1055/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">61</span></a>;
+ <span class="date">1074x1087</span> <span class="name">Baldwini</span> (<span class="case">gen</span>) <a href="../cite/Baldwini/1074x1087/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">77</span></a>;
+ <span class="date">c1128</span> <span class="name">Palduuinus</span> (<span class="case">nom</span>) <a href="../cite/Palduuinus/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">119b</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1050</span> <span class="name">Balduino</span> (<span class="case">abl</span>) <a href="../cite/Balduino/1050/CRS-2-5"><span class="bib_key">CRS-2-5</span> <span class="bib_loc">p. 232</span></a>,
+ <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1050/CRS-2-5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 232</span></a>;
+ <span class="date">1106</span> <span class="name">Balduino</span> (<span class="case">abl</span>) <a href="../cite/Balduino/1106/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1116</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1116/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">c1130</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/c1130/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1266</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1266/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">6</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1336</span> <span class="name">Boidins</span> (<span class="case">gen</span>) <a href="../cite/Boidins/1336/RSG1336-39"><span class="bib_key">RSG1336-39</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1371</span> <span class="name">Boydin</span> (<span class="case">nom</span>) <a href="../cite/Boydin/1371/NotComDest"><span class="bib_key">NotComDest</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1377</span> <span class="name">Boidins</span> (<span class="case">gen</span>) <a href="../cite/Boidins/1377/RSG1376-89"><span class="bib_key">RSG1376-89</span> <span class="bib_loc">p. 77</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Boudewyn</span> <a href="../cite/Boudewyn/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 354</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1246</span> <span class="name">Baulduins</span> (<span class="case">nom</span>) <a href="../cite/Baulduins/1246/AnNam"><span class="bib_key">AnNam</span> <span class="bib_loc">p. 143</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Baldewinus</span> (<span class="case">nom</span>) <a href="../cite/Baldewinus/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 24</span></a>,
+ <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="name">Baudewinus</span> (<span class="case">nom</span>) <a href="../cite/Baudewinus/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Boudewinus</span> (<span class="case">nom</span>) <a href="../cite/Boudewinus/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1312</span> <span class="name">Baudechons</span> (<span class="case">nom</span>) <a href="../cite/Baudechons/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 24</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Baldewnus</span> (<span class="case">nom</span>) <a href="../cite/Baldewnus/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1161x1184</span> <span class="name">Baldewinus</span> (<span class="case">nom</span>) <a href="../cite/Baldewinus/1161x1184/MDE"><span class="bib_key">MDE</span> <span class="bib_loc">p. 227, no. 1</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Baldewino</span> (<span class="case">dat</span>) <a href="../cite/Baldewino/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1189</span> <span class="name">Baldewin</span> (<span class="case">nom</span>) <a href="../cite/Baldewin/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 160</span></a>,
+ <span class="name">Baldewini</span> (<span class="case">gen</span>) <a href="../cite/Baldewini/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 155</span></a>,
+ <span class="name">Baldewinus</span> (<span class="case">nom</span>) <a href="../cite/Baldewinus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 77</span></a>,
+ <span class="name">Baldwinum</span> (<span class="case">acc</span>) <a href="../cite/Baldwinum/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 211</span></a>,
+ <span class="name">Baldwinus</span> (<span class="case">nom</span>) <a href="../cite/Baldwinus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 149</span></a>;
+ <span class="date">1222</span> <span class="name">Baldewini</span> (<span class="case">gen</span>) <a href="../cite/Baldewini/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Baldewinus</span> (<span class="case">nom</span>) <a href="../cite/Baldewinus/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Baldewyn</span> (<span class="case">nom</span>) <a href="../cite/Baldewyn/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Baldewynus</span> (<span class="case">nom</span>) <a href="../cite/Baldewynus/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Baldwyn</span> (<span class="case">nom</span>) <a href="../cite/Baldwyn/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1347</span> <span class="name">Baldewini</span> (<span class="case">gen</span>) <a href="../cite/Baldewini/1347/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 5</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1464</span> <span class="name">Baudekyn</span> (<span class="case">dat</span>) <a href="../cite/Baudekyn/1464/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 73</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1587</span> <span class="name">Boudewijn</span> <a href="../cite/Boudewijn/1587/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Achtschellinc</span></a>;
+ <span class="date">1589</span> <span class="name">Boudewijn</span> <a href="../cite/Boudewijn/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Achtschellinck</span></a>;
+ <span class="date">1593</span> <span class="name">Boudewijn</span> <a href="../cite/Boudewijn/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Achtschellinck</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1540</span> <span class="name">Bawden</span> <a href="../cite/Bawden/1540/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1541</span> <span class="name">Bawdyn</span> <a href="../cite/Bawdyn/1541/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1542</span> <span class="name">Bawdyn</span> <a href="../cite/Bawdyn/1542/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1543</span> <span class="name">Bawdyn</span> <a href="../cite/Bawdyn/1543/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1544</span> <span class="name">Bawdyn</span> <a href="../cite/Bawdyn/1544/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1551</span> <span class="name">Bawdwyn</span> <a href="../cite/Bawdwyn/1551/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1552</span> <span class="name">Bawden</span> <a href="../cite/Bawden/1552/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1554</span> <span class="name">Bawden</span> <a href="../cite/Bawden/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1571</span> <span class="name">Baldwyne</span> <a href="../cite/Baldwyne/1571/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1580</span> <span class="name">Bowden</span> <a href="../cite/Bowden/1580/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 127</span></a>;
+ <span class="date">1582</span> <span class="name">Bawdon</span> <a href="../cite/Bawdon/1582/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 7</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1583</span> <span class="name">Baudin</span> <a href="../cite/Baudin/1583/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1583/4</span> <span class="name">Baudine</span> <a href="../cite/Baudine/1583s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">11thC</span> <span class="name">Balduino</span> (<span class="case">abl</span>) <a href="../cite/Balduino/11thC/CartSPL1"><span class="bib_key">CartSPL1</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/11thC/CartSPL1"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1096</span> <span class="name">Baldoini</span> (<span class="case">gen</span>) <a href="../cite/Baldoini/1096/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">138</span></a>,
+ <span class="name">Baldoinus</span> (<span class="case">nom</span>) <a href="../cite/Baldoinus/1096/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">138</span></a>;
+ <span class="date">1107</span> <span class="name">Balduino</span> (<span class="case">abl</span>) <a href="../cite/Balduino/1107/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">a1108</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">1112</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1112/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Balduino</span> (<span class="case">abl</span>) <a href="../cite/Balduino/1112/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1113</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1113/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1115</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1115/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1115/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1115x1149/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1119</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1119/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1120</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1120/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1121</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1121/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>,
+ <span class="name">Balduino</span> (<span class="case">abl</span>) <a href="../cite/Balduino/1121/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1123</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1123/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1135</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1138/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CLI</span></a>;
+ <span class="date">c1140</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/c1140/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXIII</span></a>,
+ <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/c1140/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXIII</span></a>;
+ <span class="date">1142</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1142/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1143x1146</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1143x1146/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">c1147</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/c1147/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXII</span></a>;
+ <span class="date">1147</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">17</span></a>;
+ <span class="date">1162</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1162/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXIII</span></a>;
+ <span class="date">c1170</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/c1170/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXIV</span></a>;
+ <span class="date">1174</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1174/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXX</span></a>;
+ <span class="date">1178x1182</span> <span class="name">Balduino</span> (<span class="case">abl</span>) <a href="../cite/Balduino/1178x1182/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1179</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">177</span></a>;
+ <span class="date">1180</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1180/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXLVII</span></a>;
+ <span class="date">1194</span> <span class="name">Balduino</span> (<span class="case">abl</span>) <a href="../cite/Balduino/1194/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CLVI</span></a>;
+ <span class="date">1199</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1199/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXVII</span></a>;
+ <span class="date">1200</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1200/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXVII</span></a>,
+ <span class="name">Balduino</span> (<span class="case">abl</span>) <a href="../cite/Balduino/1200/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXII</span></a>,
+ <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1200/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXVII</span></a>;
+ <span class="date">1201</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1201/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CVIII</span></a>;
+ <span class="date">1202</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1202/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVII</span></a>;
+ <span class="date">1203</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1203/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXV</span></a>;
+ <span class="date">1204</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1204/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVII</span></a>;
+ <span class="date">1205</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1205/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">1206</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1206/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LVIII</span></a>,
+ <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1206/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LXIX</span></a>;
+ <span class="date">1217</span> <span class="name">Baldoinus</span> (<span class="case">nom</span>) <a href="../cite/Baldoinus/1217/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-LVI</span></a>;
+ <span class="date">1220</span> <span class="name">Baldoinus</span> (<span class="case">nom</span>) <a href="../cite/Baldoinus/1220/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-LXVIII</span></a>;
+ <span class="date">1221</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1221/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXIII</span></a>;
+ <span class="date">1222</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1222/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVIII</span></a>;
+ <span class="date">1241</span> <span class="name">Baldouini</span> (<span class="case">gen</span>) <a href="../cite/Baldouini/1241/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-CXII</span></a>;
+ <span class="date">1269</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1269/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXI</span></a>;
+ <span class="date">1273</span> <span class="name">Baldoyni</span> (<span class="case">gen</span>) <a href="../cite/Baldoyni/1273/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XLIII</span></a>;
+ <span class="date">1285</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1285/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1301</span> <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 200</span></a>,
+ <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 175</span></a>,
+ <span class="name">Bauduins</span> (<span class="case">nom</span>) <a href="../cite/Bauduins/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 229</span></a>;
+ <span class="date">1378</span> <span class="name">Baldevinus</span> (<span class="case">nom</span>) <a href="../cite/Baldevinus/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">2365</span></a>,
+ <span class="name">Baldouino</span> (<span class="case">dat</span>) <a href="../cite/Baldouino/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1567</span></a>,
+ <span class="name">Baldouyno</span> (<span class="case">dat</span>) <a href="../cite/Baldouyno/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2147</span></a>,
+ <span class="name">Baldoyni</span> (<span class="case">gen</span>) <a href="../cite/Baldoyni/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">868</span></a>,
+ <span class="name">Balduini</span> (<span class="case">gen</span>) <a href="../cite/Balduini/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">47</span></a>,
+ <span class="name">Balduino</span> (<span class="case">dat</span>) <a href="../cite/Balduino/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>,
+ <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">61</span></a>,
+ <span class="name">Balduyno</span> (<span class="case">dat</span>) <a href="../cite/Balduyno/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">185</span></a>,
+ <span class="name">Boudins</span> (<span class="case">gen</span>) <a href="../cite/Boudins/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1667</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1378</span> <span class="name">Baudeto</span> (<span class="case">dat</span>) <a href="../cite/Baudeto/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">534</span></a>,
+ <span class="name">Baudini</span> (<span class="case">gen</span>) <a href="../cite/Baudini/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">767</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Baudoin</span> (<span class="case">obl</span>) <a href="../cite/Baudoin/1292/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 114</span></a>,
+ <span class="name">Baudouyn</span> (<span class="case">obl</span>) <a href="../cite/Baudouyn/1292/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 114</span></a>;
+ <span class="date">1296</span> <span class="name">Baudoyn</span> <a href="../cite/Baudoyn/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1301</span> <span class="name">Bauduin</span> (<span class="case">nom</span>) <a href="../cite/Bauduin/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 242</span></a>;
+ <span class="date">1303</span> <span class="name">Bauduin</span> (<span class="case">obl</span>) <a href="../cite/Bauduin/1303/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">XL</span></a>,
+ <span class="name">Bauduins</span> <a href="../cite/Bauduins/1303/ArchReimsII1"><span class="bib_key">ibid.</span> <span class="bib_loc">XL</span></a>;
+ <span class="date">1313</span> <span class="name">Baudoin</span> <a href="../cite/Baudoin/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 40</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Baudet</span> <a href="../cite/Baudet/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1313</span> <span class="name">Baudet</span> <a href="../cite/Baudet/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 9</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Baudouin</span> <a href="../cite/Baudouin/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 610</span></a>;
+ <span class="date">1418</span> <span class="name">Baudouin</span> <a href="../cite/Baudouin/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 378</span></a>,
+ <span class="name">Beaudoin</span> <a href="../cite/Beaudoin/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 202</span></a>;
+ <span class="date">1423</span> <span class="name">Baudoin</span> <a href="../cite/Baudoin/1423/favier"><span class="bib_key">favier</span></a>,
+ <span class="name">Baudouin</span> <a href="../cite/Baudouin/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">63</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1415[1469x1471]</span> <span class="name">Baudoc</span> <a href="../cite/Baudoc/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 230</span></a>;
+ <span class="date">1418</span> <span class="name">Baudet</span> <a href="../cite/Baudet/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 198</span></a>,
+ <a href="../cite/Baudet/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 374</span></a>,
+ <span class="name">Baue</span> <a href="../cite/Baue/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 375</span></a>;
+ <span class="date">1421</span> <span class="name">Baudet</span> <a href="../cite/Baudet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">p. 172</span></a>;
+ <span class="date">1423</span> <span class="name">Baudet</span> <a href="../cite/Baudet/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">328</span></a>;
+ <span class="date">1438</span> <span class="name">Baudet</span> <a href="../cite/Baudet/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">216</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">925</span> <span class="name">Palduuin</span> (<span class="case">nom</span>) <a href="../cite/Palduuin/925/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1045</span> <span class="name">Baldvvini</span> (<span class="case">gen</span>) <a href="../cite/Baldvvini/1045/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>,
+ <span class="name">Baldvvino</span> (<span class="case">abl</span>) <a href="../cite/Baldvvino/1045/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1059</span> <span class="name">Baltwini</span> (<span class="case">gen</span>) <a href="../cite/Baltwini/1059/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">66</span></a>;
+ <span class="date">1197</span> <span class="name">Baldewinus</span> (<span class="case">nom</span>) <a href="../cite/Baldewinus/1197/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">83</span></a>;
+ <span class="date">1241</span> <span class="name">Balduinus</span> (<span class="case">nom</span>) <a href="../cite/Balduinus/1241/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">107</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Baldwinus</span> (<span class="case">nom</span>) <a href="../cite/Baldwinus/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 4</span></a>,
+ <span class="name">Balwini</span> (<span class="case">gen</span>) <a href="../cite/Balwini/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 11</span></a>,
+ <span class="name">Balwinus</span> (<span class="case">nom</span>) <a href="../cite/Balwinus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 3</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">994</span> <span class="name">Baldoinus</span> (<span class="case">nom</span>) <a href="../cite/Baldoinus/994/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">4</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1560</span> <span class="name">Bouwen</span> <a href="../cite/Bouwen/1560/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1561</span> <span class="name">Bowen</span> <a href="../cite/Bowen/1561/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1562</span> <span class="name">Bouwen</span> <a href="../cite/Bouwen/1562/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1563</span> <span class="name">Bouwen</span> <a href="../cite/Bouwen/1563/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1569</span> <span class="name">Bouwen</span> <a href="../cite/Bouwen/1569/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1570</span> <span class="name">Bouwen</span> <a href="../cite/Bouwen/1570/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1571</span> <span class="name">Bouwen</span> <a href="../cite/Bouwen/1571/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1572</span> <span class="name">Bouwen</span> <a href="../cite/Bouwen/1572/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1580</span> <span class="name">Bouwens</span> (<span class="case">gen</span>) <a href="../cite/Bouwens/1580/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1585</span> <span class="name">Bouwens</span> (<span class="case">gen</span>) <a href="../cite/Bouwens/1585/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1586</span> <span class="name">Bouwens</span> (<span class="case">gen</span>) <a href="../cite/Bouwens/1586/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1588</span> <span class="name">Bouwens</span> (<span class="case">gen</span>) <a href="../cite/Bouwens/1588/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1589</span> <span class="name">Bouwens</span> (<span class="case">gen</span>) <a href="../cite/Bouwens/1589/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1590</span> <span class="name">Bouwens</span> (<span class="case">gen</span>) <a href="../cite/Bouwens/1590/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1591</span> <span class="name">Bouwens</span> (<span class="case">gen</span>) <a href="../cite/Bouwens/1591/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1592</span> <span class="name">Bouwens</span> (<span class="case">gen</span>) <a href="../cite/Bouwens/1592/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1595</span> <span class="name">Bouwens</span> (<span class="case">gen</span>) <a href="../cite/Bouwens/1595/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1597</span> <span class="name">Bouwens</span> (<span class="case">gen</span>) <a href="../cite/Bouwens/1597/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1598</span> <span class="name">Bouwens</span> (<span class="case">gen</span>) <a href="../cite/Bouwens/1598/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1599</span> <span class="name">Bouwen</span> <a href="../cite/Bouwen/1599/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1333</span> <span class="name">Baldewins</span> (<span class="case">gen</span>) <a href="../cite/Baldewins/1333/SBGlatzer"><span class="bib_key">SBGlatzer</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1336x1337</span> <span class="name">Baldeweyns</span> (<span class="case">gen</span>) <a href="../cite/Baldeweyns/1336x1337/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Baldwin". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Baldwin.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

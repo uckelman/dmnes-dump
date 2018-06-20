@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Tiffany</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Tiffany</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>theophania</i>, from <span class="lang">Greek</span> <i>θεοφάν(ε)ια</i> 'manifestation of God'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a Holy Roman Empress.</p>
+</div>
+  
+  
+<div class="def">
+  <p><i>Theophania</i> was another name for Epiphany, and in England, the name was used of girls who were born or christened on or near that holiday.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1551</span> <span class="name">Tyffyn</span> <a href="../cite/Tyffyn/1551/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 79</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1147</span> <span class="name">Theophania</span> (<span class="case">nom</span>) <a href="../cite/Theophania/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Theophanie</span> (<span class="case">gen</span>) <a href="../cite/Theophanie/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1301</span> <span class="name">Teophanie</span> (<span class="case">gen</span>) <a href="../cite/Teophanie/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 214</span></a>,
+ <span class="name">Theophania</span> (<span class="case">nom</span>) <a href="../cite/Theophania/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 208</span></a>,
+ <span class="name">Theophanie</span> (<span class="case">gen</span>) <a href="../cite/Theophanie/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 202</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Tyfoinne</span> <a href="../cite/Tyfoinne/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1313</span> <span class="name">Thiephaine</span> <a href="../cite/Thiephaine/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Thifaine</span> <a href="../cite/Thifaine/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Thiphaine</span> <a href="../cite/Thiphaine/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1562</span> <span class="name">Typhagne</span> <a href="../cite/Typhagne/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1563</span> <span class="name">Tiffagne</span> <a href="../cite/Tiffagne/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1564</span> <span class="name">Tiphaine</span> <a href="../cite/Tiphaine/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 99</span></a>;
+ <span class="date">1565</span> <span class="name">Tiphaine</span> <a href="../cite/Tiphaine/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 139</span></a>;
+ <span class="date">1567</span> <span class="name">Tiphaine</span> <a href="../cite/Tiphaine/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303</span></a>;
+ <span class="date">1568</span> <span class="name">Tiphaine</span> <a href="../cite/Tiphaine/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 389</span></a>;
+ <span class="date">1571</span> <span class="name">Tiphaine</span> <a href="../cite/Tiphaine/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 481</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">988</span> <span class="name">Theophanu</span> (<span class="case">gen</span>) <a href="../cite/Theophanu/988/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XLIX</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Tiffany". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Tiffany.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Rebecca</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Rebecca</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>רִבְקָה</i> 'connection', from <span class="lang">Proto-Semitic</span> <i>*r-b-q</i> 'to join, couple, tie'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a Biblical matriarch. Wycliffite Bible (1395): <i>Rebecca</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name came into use in England in the scond half of the 16th C, and was never common elsewhere.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1571/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">s'Broeders</span></a>;
+ <span class="date">1576</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Crucen</span></a>;
+ <span class="date">1582</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Francken</span></a>;
+ <span class="date">1593</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clouens</span></a>;
+ <span class="date">1594</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gast</span></a>;
+ <span class="date">1595</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Fusijn</span></a>;
+ <span class="date">1596</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Duijman</span></a>;
+ <span class="date">1597</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Eechout</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571/2</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1571s2/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1572</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1572/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1575</span> <span class="name">Rebecka</span> <a href="../cite/Rebecka/1575/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1576</span> <span class="name">Rebecka</span> <a href="../cite/Rebecka/1576/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1578</span> <span class="name">Rebecka</span> <a href="../cite/Rebecka/1578/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1580</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1580/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Rebecka</span> <a href="../cite/Rebecka/1580/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1585</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1585/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1590</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1592</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1592/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1593</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1594</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1594/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1582/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1582/3</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1582s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1583</span> <span class="name">Rebecca</span> <a href="../cite/Rebecca/1583/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Rebeccq</span> <a href="../cite/Rebeccq/1583/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1567</span> <span class="name">Rebeca</span> <a href="../cite/Rebeca/1567/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 289</span></a>;
+ <span class="date">1568</span> <span class="name">Rebeca</span> <a href="../cite/Rebeca/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 363</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Rebecca". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Rebecca.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

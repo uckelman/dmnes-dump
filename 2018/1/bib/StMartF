@@ -1,0 +1,520 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>StMartF</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>StMartF</dt>
+  <dd>Thomas Mason, editor. <em>A Register of Baptisms, Marriages, and Burials, in the Parish of St. Martin in the Fields, in the County of Middlesex from 1550 to 1619</em>, volume XXV of <em>Publications of the Harleian Society: Registers</em>. London, 1898.</dd>
+</dl>
+
+
+  <a href="../cite/Agneta/1558/StMartF">Agneta</a>
+
+  <a href="../cite/Agnete/1556/StMartF">Agnete</a>
+
+  <a href="../cite/Agnete/1551/StMartF">Agnete</a>
+
+  <a href="../cite/Agnete/1553/StMartF">Agnete</a>
+
+  <a href="../cite/Agnete/1555/StMartF">Agnete</a>
+
+  <a href="../cite/Agnete/1558/StMartF">Agnete</a>
+
+  <a href="../cite/Agnete/1552/StMartF">Agnete</a>
+
+  <a href="../cite/Agnete/1557/StMartF">Agnete</a>
+
+  <a href="../cite/Agnete/1560/StMartF">Agnete</a>
+
+  <a href="../cite/Agnete/1554/StMartF">Agnete</a>
+
+  <a href="../cite/Agnete/1559/StMartF">Agnete</a>
+
+  <a href="../cite/Alicia/1554/StMartF">Alicia</a>
+
+  <a href="../cite/Alicia/1557/StMartF">Alicia</a>
+
+  <a href="../cite/Alicia/1553/StMartF">Alicia</a>
+
+  <a href="../cite/Alicia/1560/StMartF">Alicia</a>
+
+  <a href="../cite/Alicia/1551/StMartF">Alicia</a>
+
+  <a href="../cite/Alicia/1559/StMartF">Alicia</a>
+
+  <a href="../cite/Alicia/1555/StMartF">Alicia</a>
+
+  <a href="../cite/Alicia/1561/StMartF">Alicia</a>
+
+  <a href="../cite/Alicia/1556/StMartF">Alicia</a>
+
+  <a href="../cite/Angella/1552/StMartF">Angella</a>
+
+  <a href="../cite/Anna/1553/StMartF">Anna</a>
+
+  <a href="../cite/Anna/1558/StMartF">Anna</a>
+
+  <a href="../cite/Anna/1557/StMartF">Anna</a>
+
+  <a href="../cite/Anna/1560/StMartF">Anna</a>
+
+  <a href="../cite/Anna/1556/StMartF">Anna</a>
+
+  <a href="../cite/Anna/1559/StMartF">Anna</a>
+
+  <a href="../cite/Anna/1552/StMartF">Anna</a>
+
+  <a href="../cite/Antonius/1554/StMartF">Antonius</a>
+
+  <a href="../cite/Arnoldus/1558/StMartF">Arnoldus</a>
+
+  <a href="../cite/Arthurus/1561/StMartF">Arthurus</a>
+
+  <a href="../cite/Arthurus/1560/StMartF">Arthurus</a>
+
+  <a href="../cite/Avelen/1555/StMartF">Avelen</a>
+
+  <a href="../cite/Avis/1557/StMartF">Avis</a>
+
+  <a href="../cite/Avise/1553/StMartF">Avise</a>
+
+  <a href="../cite/Barbara/1559/StMartF">Barbara</a>
+
+  <a href="../cite/Barnardus/1551/StMartF">Barnardus</a>
+
+  <a href="../cite/Cecilia/1560/StMartF">Cecilia</a>
+
+  <a href="../cite/Cecilia/1555/StMartF">Cecilia</a>
+
+  <a href="../cite/Cecilia/1559/StMartF">Cecilia</a>
+
+  <a href="../cite/Christiana/1553/StMartF">Christiana</a>
+
+  <a href="../cite/Christoferus/1559/StMartF">Christoferus</a>
+
+  <a href="../cite/Christoferus/1553/StMartF">Christoferus</a>
+
+  <a href="../cite/Christopherus/1559/StMartF">Christopherus</a>
+
+  <a href="../cite/Christopherus/1552/StMartF">Christopherus</a>
+
+  <a href="../cite/Christopherus/1557/StMartF">Christopherus</a>
+
+  <a href="../cite/Christopherus/1551/StMartF">Christopherus</a>
+
+  <a href="../cite/Cornelius/1551/StMartF">Cornelius</a>
+
+  <a href="../cite/Dionisia/1556/StMartF">Dionisia</a>
+
+  <a href="../cite/Dorothea/1555/StMartF">Dorothea</a>
+
+  <a href="../cite/Editha/1558/StMartF">Editha</a>
+
+  <a href="../cite/Editha/1561/StMartF">Editha</a>
+
+  <a href="../cite/Edmondus/1553/StMartF">Edmondus</a>
+
+  <a href="../cite/Edwardus/1557/StMartF">Edwardus</a>
+
+  <a href="../cite/Edwardus/1555/StMartF">Edwardus</a>
+
+  <a href="../cite/Egidius/1551/StMartF">Egidius</a>
+
+  <a href="../cite/Elizabetha/1560/StMartF">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1561/StMartF">Elizabetha</a>
+
+  <a href="../cite/Elyzabeatha/1551/StMartF">Elyzabeatha</a>
+
+  <a href="../cite/Elyzabetha/1554/StMartF">Elyzabetha</a>
+
+  <a href="../cite/Elyzabetha/1557/StMartF">Elyzabetha</a>
+
+  <a href="../cite/Florencia/1553/StMartF">Florencia</a>
+
+  <a href="../cite/Francisca/1559/StMartF">Francisca</a>
+
+  <a href="../cite/Francisca/1554/StMartF">Francisca</a>
+
+  <a href="../cite/Franciscus/1559/StMartF">Franciscus</a>
+
+  <a href="../cite/Franciscus/1554/StMartF">Franciscus</a>
+
+  <a href="../cite/Franciscus/1557/StMartF">Franciscus</a>
+
+  <a href="../cite/Franciscus/1553/StMartF">Franciscus</a>
+
+  <a href="../cite/Gabriell/1561/StMartF">Gabriell</a>
+
+  <a href="../cite/Gabriell/1557/StMartF">Gabriell</a>
+
+  <a href="../cite/Galfrydus/1559/StMartF">Galfrydus</a>
+
+  <a href="../cite/Garrett/1559/StMartF">Garrett</a>
+
+  <a href="../cite/Gawyn/1555/StMartF">Gawyn</a>
+
+  <a href="../cite/Georgius/1557/StMartF">Georgius</a>
+
+  <a href="../cite/Georgius/1554/StMartF">Georgius</a>
+
+  <a href="../cite/Georgius/1553/StMartF">Georgius</a>
+
+  <a href="../cite/Georgius/1556/StMartF">Georgius</a>
+
+  <a href="../cite/Georgius/1558/StMartF">Georgius</a>
+
+  <a href="../cite/Georgius/1555/StMartF">Georgius</a>
+
+  <a href="../cite/Gilliana/1553/StMartF">Gilliana</a>
+
+  <a href="../cite/Gratia/1558/StMartF">Gratia</a>
+
+  <a href="../cite/Gualterus/1557/StMartF">Gualterus</a>
+
+  <a href="../cite/Guilielmus/1558/StMartF">Guilielmus</a>
+
+  <a href="../cite/Guilielmus/1553/StMartF">Guilielmus</a>
+
+  <a href="../cite/Guilielmus/1554/StMartF">Guilielmus</a>
+
+  <a href="../cite/Guilielmus/1555/StMartF">Guilielmus</a>
+
+  <a href="../cite/Guilielmus/1557/StMartF">Guilielmus</a>
+
+  <a href="../cite/Guilielmus/1559/StMartF">Guilielmus</a>
+
+  <a href="../cite/Guilielmus/1560/StMartF">Guilielmus</a>
+
+  <a href="../cite/Guilielmus/1556/StMartF">Guilielmus</a>
+
+  <a href="../cite/Guilielmus/1561/StMartF">Guilielmus</a>
+
+  <a href="../cite/Guilielmus/1552/StMartF">Guilielmus</a>
+
+  <a href="../cite/Haroldus/1554/StMartF">Haroldus</a>
+
+  <a href="../cite/Hawnce/1560/StMartF">Hawnce</a>
+
+  <a href="../cite/Helena/1554/StMartF">Helena</a>
+
+  <a href="../cite/Helena/1559/StMartF">Helena</a>
+
+  <a href="../cite/Helena/1557/StMartF">Helena</a>
+
+  <a href="../cite/Helyna/1561/StMartF">Helyna</a>
+
+  <a href="../cite/Henricus/1559/StMartF">Henricus</a>
+
+  <a href="../cite/Henricus/1554/StMartF">Henricus</a>
+
+  <a href="../cite/Henricus/1551/StMartF">Henricus</a>
+
+  <a href="../cite/Henricus/1557/StMartF">Henricus</a>
+
+  <a href="../cite/Henricus/1555/StMartF">Henricus</a>
+
+  <a href="../cite/Henricus/1561/StMartF">Henricus</a>
+
+  <a href="../cite/Henricus/1560/StMartF">Henricus</a>
+
+  <a href="../cite/Hugo/1554/StMartF">Hugo</a>
+
+  <a href="../cite/Hugo/1553/StMartF">Hugo</a>
+
+  <a href="../cite/Hugo/1560/StMartF">Hugo</a>
+
+  <a href="../cite/Hugo/1559/StMartF">Hugo</a>
+
+  <a href="../cite/Humfridus/1557/StMartF">Humfridus</a>
+
+  <a href="../cite/Isabella/1553/StMartF">Isabella</a>
+
+  <a href="../cite/Jacobus/1553/StMartF">Jacobus</a>
+
+  <a href="../cite/Jacobus/1559/StMartF">Jacobus</a>
+
+  <a href="../cite/Jacobus/1558/StMartF">Jacobus</a>
+
+  <a href="../cite/Jacobus/1552/StMartF">Jacobus</a>
+
+  <a href="../cite/Jana/1557/StMartF">Jana</a>
+
+  <a href="../cite/Jana/1556/StMartF">Jana</a>
+
+  <a href="../cite/Jana/1551/StMartF">Jana</a>
+
+  <a href="../cite/Jana/1553/StMartF">Jana</a>
+
+  <a href="../cite/Jeliana/1561/StMartF">Jeliana</a>
+
+  <a href="../cite/Jervis/1560/StMartF">Jervis</a>
+
+  <a href="../cite/Jheronimus/1557/StMartF">Jheronimus</a>
+
+  <a href="../cite/Joana/1559/StMartF">Joana</a>
+
+  <a href="../cite/Joana/1560/StMartF">Joana</a>
+
+  <a href="../cite/Joana/1556/StMartF">Joana</a>
+
+  <a href="../cite/Joanna/1551/StMartF">Joanna</a>
+
+  <a href="../cite/Joanna/1559/StMartF">Joanna</a>
+
+  <a href="../cite/Joanna/1558/StMartF">Joanna</a>
+
+  <a href="../cite/Joanna/1552/StMartF">Joanna</a>
+
+  <a href="../cite/Joanna/1554/StMartF">Joanna</a>
+
+  <a href="../cite/Joanna/1557/StMartF">Joanna</a>
+
+  <a href="../cite/Joanna/1561/StMartF">Joanna</a>
+
+  <a href="../cite/Joanna/1556/StMartF">Joanna</a>
+
+  <a href="../cite/Joannes/1551/StMartF">Joannes</a>
+
+  <a href="../cite/Joannes/1561/StMartF">Joannes</a>
+
+  <a href="../cite/Joannes/1554/StMartF">Joannes</a>
+
+  <a href="../cite/Joannes/1557/StMartF">Joannes</a>
+
+  <a href="../cite/Joannes/1555/StMartF">Joannes</a>
+
+  <a href="../cite/Joannes/1556/StMartF">Joannes</a>
+
+  <a href="../cite/Joannes/1558/StMartF">Joannes</a>
+
+  <a href="../cite/Joannes/1553/StMartF">Joannes</a>
+
+  <a href="../cite/Joannes/1560/StMartF">Joannes</a>
+
+  <a href="../cite/Joannes/1552/StMartF">Joannes</a>
+
+  <a href="../cite/Joannes/1559/StMartF">Joannes</a>
+
+  <a href="../cite/Johannes/1550/StMartF">Johannes</a>
+
+  <a href="../cite/Katherina/1561/StMartF">Katherina</a>
+
+  <a href="../cite/Katherina/1554/StMartF">Katherina</a>
+
+  <a href="../cite/Katherina/1555/StMartF">Katherina</a>
+
+  <a href="../cite/Katherina/1558/StMartF">Katherina</a>
+
+  <a href="../cite/Katherina/1559/StMartF">Katherina</a>
+
+  <a href="../cite/Katherina/1560/StMartF">Katherina</a>
+
+  <a href="../cite/Katherina/1557/StMartF">Katherina</a>
+
+  <a href="../cite/Lawncelett/1554/StMartF">Lawncelett</a>
+
+  <a href="../cite/Lawncelott/1555/StMartF">Lawncelott</a>
+
+  <a href="../cite/Leonardus/1560/StMartF">Leonardus</a>
+
+  <a href="../cite/Leonardus/1553/StMartF">Leonardus</a>
+
+  <a href="../cite/Leonardus/1557/StMartF">Leonardus</a>
+
+  <a href="../cite/Lucia/1557/StMartF">Lucia</a>
+
+  <a href="../cite/Mabella/1554/StMartF">Mabella</a>
+
+  <a href="../cite/Magdalena/1559/StMartF">Magdalena</a>
+
+  <a href="../cite/Magdalena/1560/StMartF">Magdalena</a>
+
+  <a href="../cite/Magdalena/1551/StMartF">Magdalena</a>
+
+  <a href="../cite/Magdalena/1554/StMartF">Magdalena</a>
+
+  <a href="../cite/Margareta/1557/StMartF">Margareta</a>
+
+  <a href="../cite/Margareta/1552/StMartF">Margareta</a>
+
+  <a href="../cite/Margareta/1554/StMartF">Margareta</a>
+
+  <a href="../cite/Margareta/1560/StMartF">Margareta</a>
+
+  <a href="../cite/Margareta/1559/StMartF">Margareta</a>
+
+  <a href="../cite/Margareta/1556/StMartF">Margareta</a>
+
+  <a href="../cite/Margareta/1561/StMartF">Margareta</a>
+
+  <a href="../cite/Margareta/1558/StMartF">Margareta</a>
+
+  <a href="../cite/Margareta/1553/StMartF">Margareta</a>
+
+  <a href="../cite/Margareta/1551/StMartF">Margareta</a>
+
+  <a href="../cite/Margareta/1550/StMartF">Margareta</a>
+
+  <a href="../cite/Margeria/1557/StMartF">Margeria</a>
+
+  <a href="../cite/Margeria/1561/StMartF">Margeria</a>
+
+  <a href="../cite/Margeria/1555/StMartF">Margeria</a>
+
+  <a href="../cite/Margeria/1556/StMartF">Margeria</a>
+
+  <a href="../cite/Margerie/1560/StMartF">Margerie</a>
+
+  <a href="../cite/Maria/1560/StMartF">Maria</a>
+
+  <a href="../cite/Maria/1553/StMartF">Maria</a>
+
+  <a href="../cite/Maria/1561/StMartF">Maria</a>
+
+  <a href="../cite/Martin/1556/StMartF">Martin</a>
+
+  <a href="../cite/Martin/1557/StMartF">Martin</a>
+
+  <a href="../cite/Michaell/1552/StMartF">Michaell</a>
+
+  <a href="../cite/Morris/1559/StMartF">Morris</a>
+
+  <a href="../cite/Nicholaus/1556/StMartF">Nicholaus</a>
+
+  <a href="../cite/Nicholaus/1559/StMartF">Nicholaus</a>
+
+  <a href="../cite/Nicholaus/1557/StMartF">Nicholaus</a>
+
+  <a href="../cite/Nicholaus/1560/StMartF">Nicholaus</a>
+
+  <a href="../cite/Oliverus/1554/StMartF">Oliverus</a>
+
+  <a href="../cite/Peerce/1555/StMartF">Peerce</a>
+
+  <a href="../cite/Phillippus/1561/StMartF">Phillippus</a>
+
+  <a href="../cite/Plesans/1559/StMartF">Plesans</a>
+
+  <a href="../cite/Radolphus/1561/StMartF">Radolphus</a>
+
+  <a href="../cite/Richardus/1551/StMartF">Richardus</a>
+
+  <a href="../cite/Richardus/1556/StMartF">Richardus</a>
+
+  <a href="../cite/Richardus/1553/StMartF">Richardus</a>
+
+  <a href="../cite/Richardus/1561/StMartF">Richardus</a>
+
+  <a href="../cite/Richardus/1557/StMartF">Richardus</a>
+
+  <a href="../cite/Richardus/1558/StMartF">Richardus</a>
+
+  <a href="../cite/Richardus/1554/StMartF">Richardus</a>
+
+  <a href="../cite/Robertus/1554/StMartF">Robertus</a>
+
+  <a href="../cite/Robertus/1557/StMartF">Robertus</a>
+
+  <a href="../cite/Robertus/1553/StMartF">Robertus</a>
+
+  <a href="../cite/Robertus/1556/StMartF">Robertus</a>
+
+  <a href="../cite/Robertus/1558/StMartF">Robertus</a>
+
+  <a href="../cite/Robertus/1551/StMartF">Robertus</a>
+
+  <a href="../cite/Rogerus/1554/StMartF">Rogerus</a>
+
+  <a href="../cite/Rogerus/1556/StMartF">Rogerus</a>
+
+  <a href="../cite/Rowlandus/1552/StMartF">Rowlandus</a>
+
+  <a href="../cite/Stephanus/1554/StMartF">Stephanus</a>
+
+  <a href="../cite/Sybilla/1555/StMartF">Sybilla</a>
+
+  <a href="../cite/Symonis/1560/StMartF">Symonis</a>
+
+  <a href="../cite/Thomas/1556/StMartF">Thomas</a>
+
+  <a href="../cite/Thomas/1552/StMartF">Thomas</a>
+
+  <a href="../cite/Thomas/1557/StMartF">Thomas</a>
+
+  <a href="../cite/Thomas/1553/StMartF">Thomas</a>
+
+  <a href="../cite/Thomas/1558/StMartF">Thomas</a>
+
+  <a href="../cite/Thomas/1554/StMartF">Thomas</a>
+
+  <a href="../cite/Thomas/1555/StMartF">Thomas</a>
+
+  <a href="../cite/Thomas/1560/StMartF">Thomas</a>
+
+  <a href="../cite/Thomas/1561/StMartF">Thomas</a>
+
+  <a href="../cite/Thomasina/1554/StMartF">Thomasina</a>
+
+  <a href="../cite/Thomasina/1560/StMartF">Thomasina</a>
+
+  <a href="../cite/Ursula/1551/StMartF">Ursula</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

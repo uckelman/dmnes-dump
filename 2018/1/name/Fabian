@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Fabian</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Fabian</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Fabiuanus</i> 'belonging to Fabius', given to freed slaves originally belonging to the <i>gens</i> <i>Fabius</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 3rd C pope and saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>Cf. <a class="nym" href="Fabio">Fabio</a>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Croatia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1439x1482</span> <span class="name">Pfabianus</span> (<span class="case">nom</span>) <a href="../cite/Pfabianus/1439x1482/Brgles"><span class="bib_key">Brgles</span> <span class="bib_loc">p. 8</span></a></dd>
+<dt><span class="lang">Croatian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597</span> <span class="name">Fabian</span> <a href="../cite/Fabian/1597/Susedgrad1597"><span class="bib_key">Susedgrad1597</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Fabyan</span> <a href="../cite/Fabyan/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1597</span> <span class="name">Fabek</span> <a href="../cite/Fabek/1597/Susedgrad1597"><span class="bib_key">Susedgrad1597</span> <span class="bib_loc">p. 30</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Fabien</span> <a href="../cite/Fabien/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 602</span></a>;
+ <span class="date">1563</span> <span class="name">Fabian</span> <a href="../cite/Fabian/1563/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1564</span> <span class="name">Fabien</span> <a href="../cite/Fabien/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1567</span> <span class="name">Fabien</span> <a href="../cite/Fabien/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 286</span></a>;
+ <span class="date">1571</span> <span class="name">Fabien</span> <a href="../cite/Fabien/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 444</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Fabiano</span> (<span class="case">abl</span>) <a href="../cite/Fabiano/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1464</span> <span class="name">Fabianus</span> (<span class="case">nom</span>) <a href="../cite/Fabianus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Fabianus</span> (<span class="case">nom</span>) <a href="../cite/Fabianus/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 57, 20</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Fabiano</span> <a href="../cite/Fabiano/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 12</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, R. Le Get, S.L. Uckelman. "Fabian". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Fabian.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

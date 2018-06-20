@@ -1,0 +1,394 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>RotScaNor</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>RotScaNor</dt>
+  <dd>Thomas Stapleton, editor. <em>Magni Rotuli Scaccarii Normanniae sub Regibus Angliae</em>, volume 1. London: Sumptibus Soc. Antiq. Londinensis.</dd>
+</dl>
+
+
+  <a href="../cite/Acardus/1180/RotScaNor">Acardus</a>
+
+  <a href="../cite/Adam/1180/RotScaNor">Adam</a>
+
+  <a href="../cite/Adeliza/1180/RotScaNor">Adeliza</a>
+
+  <a href="../cite/Agnete/1180/RotScaNor">Agnete</a>
+
+  <a href="../cite/Alani/1180/RotScaNor">Alani</a>
+
+  <a href="../cite/Alano/1180/RotScaNor">Alano</a>
+
+  <a href="../cite/Alanus/1180/RotScaNor">Alanus</a>
+
+  <a href="../cite/Albanus/1180/RotScaNor">Albanus</a>
+
+  <a href="../cite/Alberico/1180/RotScaNor">Alberico</a>
+
+  <a href="../cite/Alberti/1180/RotScaNor">Alberti</a>
+
+  <a href="../cite/Alberto/1180/RotScaNor">Alberto</a>
+
+  <a href="../cite/Alveredi/1180/RotScaNor">Alveredi</a>
+
+  <a href="../cite/Alveredo/1180/RotScaNor">Alveredo</a>
+
+  <a href="../cite/Andrea/1180/RotScaNor">Andrea</a>
+
+  <a href="../cite/Ansgoti/1180/RotScaNor">Ansgoti</a>
+
+  <a href="../cite/Ansgotus/1180/RotScaNor">Ansgotus</a>
+
+  <a href="../cite/Anskitilli/1180/RotScaNor">Anskitilli</a>
+
+  <a href="../cite/Anskitillo/1180/RotScaNor">Anskitillo</a>
+
+  <a href="../cite/Anskitillus/1180/RotScaNor">Anskitillus</a>
+
+  <a href="../cite/Ansoldi/1180/RotScaNor">Ansoldi</a>
+
+  <a href="../cite/Arturo/1180/RotScaNor">Arturo</a>
+
+  <a href="../cite/Arturus/1180/RotScaNor">Arturus</a>
+
+  <a href="../cite/Ascelino/1180/RotScaNor">Ascelino</a>
+
+  <a href="../cite/Benedicti/1180/RotScaNor">Benedicti</a>
+
+  <a href="../cite/Bernardo/1180/RotScaNor">Bernardo</a>
+
+  <a href="../cite/Bernerus/1180/RotScaNor">Bernerus</a>
+
+  <a href="../cite/Bertranni/1180/RotScaNor">Bertranni</a>
+
+  <a href="../cite/Boso/1180/RotScaNor">Boso</a>
+
+  <a href="../cite/Canuto/1180/RotScaNor">Canuto</a>
+
+  <a href="../cite/Cecilie/1180/RotScaNor">Cecilie</a>
+
+  <a href="../cite/Christiano/1180/RotScaNor">Christiano</a>
+
+  <a href="../cite/Cipriano/1180/RotScaNor">Cipriano</a>
+
+  <a href="../cite/Clemente/1180/RotScaNor">Clemente</a>
+
+  <a href="../cite/Constancio/1180/RotScaNor">Constancio</a>
+
+  <a href="../cite/Danet/1180/RotScaNor">Danet</a>
+
+  <a href="../cite/David/1180/RotScaNor">David</a>
+
+  <a href="../cite/Davidi/1180/RotScaNor">Davidi</a>
+
+  <a href="../cite/Durand/1180/RotScaNor">Durand</a>
+
+  <a href="../cite/Durando/1180/RotScaNor">Durando</a>
+
+  <a href="../cite/Durandus/1180/RotScaNor">Durandus</a>
+
+  <a href="../cite/Emelina/1180/RotScaNor">Emelina</a>
+
+  <a href="../cite/Emme/1180/RotScaNor">Emme</a>
+
+  <a href="../cite/Ermenelda/1180/RotScaNor">Ermenelda</a>
+
+  <a href="../cite/Ernaldo/1180/RotScaNor">Ernaldo</a>
+
+  <a href="../cite/Ernaldus/1180/RotScaNor">Ernaldus</a>
+
+  <a href="../cite/Eudone/1180/RotScaNor">Eudone</a>
+
+  <a href="../cite/Eve/1180/RotScaNor">Eve</a>
+
+  <a href="../cite/Evrardo/1180/RotScaNor">Evrardo</a>
+
+  <a href="../cite/Frederici/1180/RotScaNor">Frederici</a>
+
+  <a href="../cite/Fulco/1180/RotScaNor">Fulco</a>
+
+  <a href="../cite/Fulcone/1180/RotScaNor">Fulcone</a>
+
+  <a href="../cite/Fulcuinus/1180/RotScaNor">Fulcuinus</a>
+
+  <a href="../cite/Georgius/1180/RotScaNor">Georgius</a>
+
+  <a href="../cite/Gerard/1180/RotScaNor">Gerard</a>
+
+  <a href="../cite/Gerardi/1180/RotScaNor">Gerardi</a>
+
+  <a href="../cite/Gerardo/1180/RotScaNor">Gerardo</a>
+
+  <a href="../cite/Gerardus/1180/RotScaNor">Gerardus</a>
+
+  <a href="../cite/Geroldi/1180/RotScaNor">Geroldi</a>
+
+  <a href="../cite/Gervasii/1180/RotScaNor">Gervasii</a>
+
+  <a href="../cite/Gervasio/1180/RotScaNor">Gervasio</a>
+
+  <a href="../cite/Gervasius/1180/RotScaNor">Gervasius</a>
+
+  <a href="../cite/Girardi/1180/RotScaNor">Girardi</a>
+
+  <a href="../cite/Girardo/1180/RotScaNor">Girardo</a>
+
+  <a href="../cite/Gislebertus/1180/RotScaNor">Gislebertus</a>
+
+  <a href="../cite/Gonduino/1180/RotScaNor">Gonduino</a>
+
+  <a href="../cite/Goscelino/1180/RotScaNor">Goscelino</a>
+
+  <a href="../cite/Guarini/1180/RotScaNor">Guarini</a>
+
+  <a href="../cite/Guarino/1180/RotScaNor">Guarino</a>
+
+  <a href="../cite/Guidone/1180/RotScaNor">Guidone</a>
+
+  <a href="../cite/Hamelini/1180/RotScaNor">Hamelini</a>
+
+  <a href="../cite/Hamelino/1180/RotScaNor">Hamelino</a>
+
+  <a href="../cite/Hamo/1180/RotScaNor">Hamo</a>
+
+  <a href="../cite/Hamonis/1180/RotScaNor">Hamonis</a>
+
+  <a href="../cite/Hamund/1180/RotScaNor">Hamund</a>
+
+  <a href="../cite/Hasculfi/1180/RotScaNor">Hasculfi</a>
+
+  <a href="../cite/Havart/1180/RotScaNor">Havart</a>
+
+  <a href="../cite/Helduini/1180/RotScaNor">Helduini</a>
+
+  <a href="../cite/Herberto/1180/RotScaNor">Herberto</a>
+
+  <a href="../cite/Herbertus/1180/RotScaNor">Herbertus</a>
+
+  <a href="../cite/Herluini/1180/RotScaNor">Herluini</a>
+
+  <a href="../cite/Huberti/1180/RotScaNor">Huberti</a>
+
+  <a href="../cite/Ilbertus/1180/RotScaNor">Ilbertus</a>
+
+  <a href="../cite/Ivonis/1180/RotScaNor">Ivonis</a>
+
+  <a href="../cite/Johannes/1180/RotScaNor">Johannes</a>
+
+  <a href="../cite/Johanni/1180/RotScaNor">Johanni</a>
+
+  <a href="../cite/Johannis/1180/RotScaNor">Johannis</a>
+
+  <a href="../cite/Joislini/1180/RotScaNor">Joislini</a>
+
+  <a href="../cite/Josce/1180/RotScaNor">Josce</a>
+
+  <a href="../cite/Joscelino/1180/RotScaNor">Joscelino</a>
+
+  <a href="../cite/Joscelinus/1180/RotScaNor">Joscelinus</a>
+
+  <a href="../cite/Juliane/1180/RotScaNor">Juliane</a>
+
+  <a href="../cite/Letardo/1180/RotScaNor">Letardo</a>
+
+  <a href="../cite/Leticia/1180/RotScaNor">Leticia</a>
+
+  <a href="../cite/Leticie/1180/RotScaNor">Leticie</a>
+
+  <a href="../cite/Luca/1180/RotScaNor">Luca</a>
+
+  <a href="../cite/Mabilia/1180/RotScaNor">Mabilia</a>
+
+  <a href="../cite/Mainart/1180/RotScaNor">Mainart</a>
+
+  <a href="../cite/Mainerio/1180/RotScaNor">Mainerio</a>
+
+  <a href="../cite/Mainfredi/1180/RotScaNor">Mainfredi</a>
+
+  <a href="../cite/Marie/1180/RotScaNor">Marie</a>
+
+  <a href="../cite/Martini/1180/RotScaNor">Martini</a>
+
+  <a href="../cite/Micaele/1180/RotScaNor">Micaele</a>
+
+  <a href="../cite/Odone/1180/RotScaNor">Odone</a>
+
+  <a href="../cite/Odonis/1180/RotScaNor">Odonis</a>
+
+  <a href="../cite/Ogero/1180/RotScaNor">Ogero</a>
+
+  <a href="../cite/Olivero/1180/RotScaNor">Olivero</a>
+
+  <a href="../cite/Oliverus/1180/RotScaNor">Oliverus</a>
+
+  <a href="../cite/Osanna/1180/RotScaNor">Osanna</a>
+
+  <a href="../cite/Osberti/1180/RotScaNor">Osberti</a>
+
+  <a href="../cite/Osberto/1180/RotScaNor">Osberto</a>
+
+  <a href="../cite/Osbertus/1180/RotScaNor">Osbertus</a>
+
+  <a href="../cite/Osenna/1180/RotScaNor">Osenna</a>
+
+  <a href="../cite/Osmundi/1180/RotScaNor">Osmundi</a>
+
+  <a href="../cite/Otonis/1180/RotScaNor">Otonis</a>
+
+  <a href="../cite/Pagani/1180/RotScaNor">Pagani</a>
+
+  <a href="../cite/Pagano/1180/RotScaNor">Pagano</a>
+
+  <a href="../cite/Petite/1180/RotScaNor">Petite</a>
+
+  <a href="../cite/Petri/1180/RotScaNor">Petri</a>
+
+  <a href="../cite/Petro/1180/RotScaNor">Petro</a>
+
+  <a href="../cite/Petronille/1180/RotScaNor">Petronille</a>
+
+  <a href="../cite/Petrus/1180/RotScaNor">Petrus</a>
+
+  <a href="../cite/Philipi/1180/RotScaNor">Philipi</a>
+
+  <a href="../cite/Philipo/1180/RotScaNor">Philipo</a>
+
+  <a href="../cite/Philipus/1180/RotScaNor">Philipus</a>
+
+  <a href="../cite/Ranulfi/1180/RotScaNor">Ranulfi</a>
+
+  <a href="../cite/Ranulfo/1180/RotScaNor">Ranulfo</a>
+
+  <a href="../cite/Ranulfus/1180/RotScaNor">Ranulfus</a>
+
+  <a href="../cite/Regine/1180/RotScaNor">Regine</a>
+
+  <a href="../cite/Reinaldi/1180/RotScaNor">Reinaldi</a>
+
+  <a href="../cite/Reinaldo/1180/RotScaNor">Reinaldo</a>
+
+  <a href="../cite/Reinero/1180/RotScaNor">Reinero</a>
+
+  <a href="../cite/Reinerus/1180/RotScaNor">Reinerus</a>
+
+  <a href="../cite/Ricardo/1180/RotScaNor">Ricardo</a>
+
+  <a href="../cite/Roberti/1180/RotScaNor">Roberti</a>
+
+  <a href="../cite/Roberto/1180/RotScaNor">Roberto</a>
+
+  <a href="../cite/Robertus/1180/RotScaNor">Robertus</a>
+
+  <a href="../cite/Robin/1180/RotScaNor">Robin</a>
+
+  <a href="../cite/Rogere/1180/RotScaNor">Rogere</a>
+
+  <a href="../cite/Salomone/1180/RotScaNor">Salomone</a>
+
+  <a href="../cite/Sanson/1180/RotScaNor">Sanson</a>
+
+  <a href="../cite/Sansone/1180/RotScaNor">Sansone</a>
+
+  <a href="../cite/Sarlonis/1180/RotScaNor">Sarlonis</a>
+
+  <a href="../cite/Serlo/1180/RotScaNor">Serlo</a>
+
+  <a href="../cite/Serlone/1180/RotScaNor">Serlone</a>
+
+  <a href="../cite/Silvestris/1180/RotScaNor">Silvestris</a>
+
+  <a href="../cite/Simon/1180/RotScaNor">Simon</a>
+
+  <a href="../cite/Simone/1180/RotScaNor">Simone</a>
+
+  <a href="../cite/Simonis/1180/RotScaNor">Simonis</a>
+
+  <a href="../cite/Teoderici/1180/RotScaNor">Teoderici</a>
+
+  <a href="../cite/Tieberge/1180/RotScaNor">Tieberge</a>
+
+  <a href="../cite/Tiescelino/1180/RotScaNor">Tiescelino</a>
+
+  <a href="../cite/Tiescilino/1180/RotScaNor">Tiescilino</a>
+
+  <a href="../cite/Toma/1180/RotScaNor">Toma</a>
+
+  <a href="../cite/Tomas/1180/RotScaNor">Tomas</a>
+
+  <a href="../cite/Tome/1180/RotScaNor">Tome</a>
+
+  <a href="../cite/Torfredi/1180/RotScaNor">Torfredi</a>
+
+  <a href="../cite/Tustino/1180/RotScaNor">Tustino</a>
+
+  <a href="../cite/Vincentii/1180/RotScaNor">Vincentii</a>
+
+  <a href="../cite/Vitali/1180/RotScaNor">Vitali</a>
+
+  <a href="../cite/Walteri/1180/RotScaNor">Walteri</a>
+
+  <a href="../cite/Waltero/1180/RotScaNor">Waltero</a>
+
+  <a href="../cite/Warino/1180/RotScaNor">Warino</a>
+
+  <a href="../cite/Widone/1180/RotScaNor">Widone</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

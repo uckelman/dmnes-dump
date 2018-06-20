@@ -1,0 +1,583 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Otto</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Otto</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>ōt</i>, <span class="lang">Old Saxon</span> <i>ōd</i> 'wealth, riches'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of four Holy Roman Emperors, a Frankish king, and a number of saints, as well as the baptismal name of a 14th C pope.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The forms <i>Otto</i> and <i>Otho</i> are preferred in Germany, with <i>Odo</i> being more common in France.  In Ireland, <i>Odo</i> was sometimes used as an anglicization of <a class="nym" href="Aodh">Aodh</a>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">942</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/942/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">22</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/942/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">22</span></a>;
+ <span class="date">979</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/979/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">c1065</span> <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/c1065/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">67</span></a>;
+ <span class="date">c1066</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/c1066/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">68</span></a>;
+ <span class="date">c1070</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/c1070/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">74</span></a>;
+ <span class="date">c1100</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/c1100/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/c1100/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>;
+ <span class="date">1103</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1103/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">94a</span></a>;
+ <span class="date">c1128</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">118a</span></a>;
+ <span class="date">1237</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1237/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">96</span></a>;
+ <span class="date">1277</span> <span class="name">Ottone</span> (<span class="case">abl</span>) <a href="../cite/Ottone/1277/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">355</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1107</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1107/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1107/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1107/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1238</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1238/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">3</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Otto</span> <a href="../cite/Otto/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 378</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Ottho</span> (<span class="case">nom</span>) <a href="../cite/Ottho/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1349</span> <span class="name">Ottoni</span> (<span class="case">dat</span>) <a href="../cite/Ottoni/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1353</span> <span class="name">Ottoni</span> (<span class="case">dat</span>) <a href="../cite/Ottoni/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1356</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">130</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1351</span> <span class="name">Otycone</span> (<span class="case">abl</span>) <a href="../cite/Otycone/1351/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">52</span></a>,
+ <span class="name">Otyk</span> (<span class="case">nom</span>) <a href="../cite/Otyk/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1331</span> <span class="name">Ott</span> (<span class="case">nom</span>) <a href="../cite/Ott/1331/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">36</span></a>;
+ <span class="date">c1339</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/c1339/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1342</span> <span class="name">Ott</span> (<span class="case">nom</span>) <a href="../cite/Ott/1342/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1349</span> <span class="name">Otten</span> (<span class="case">gen</span>) <a href="../cite/Otten/1349/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>;
+ <span class="date">1389</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1389/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">118</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Otthe</span> <a href="../cite/Otthe/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Oto</span> (<span class="case">nom</span>) <a href="../cite/Oto/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1189</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 151</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 145</span></a>;
+ <span class="date">1222</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1246</span> <span class="name">Odonem</span> (<span class="case">acc</span>) <a href="../cite/Odonem/1246/PSS-II"><span class="bib_key">PSS-II</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1246/PSS-II"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1296</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 93b</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95a</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1431</span> <span class="name">Otte</span> <a href="../cite/Otte/1431/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 355</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1385</span> <span class="name">Otke</span> <a href="../cite/Otke/1385/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1386</span> <span class="name">Otke</span> <a href="../cite/Otke/1386/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1406</span> <span class="name">Otke</span> <a href="../cite/Otke/1406/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1433</span> <span class="name">Otke</span> <a href="../cite/Otke/1433/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>;
+ <span class="date">1434</span> <span class="name">Otke</span> <a href="../cite/Otke/1434/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 357</span></a>;
+ <span class="date">1436</span> <span class="name">Otke</span> <a href="../cite/Otke/1436/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>;
+ <span class="date">1592</span> <span class="name">Ottste</span> <a href="../cite/Ottste/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 287</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Ottes</span> (<span class="case">gen</span>) <a href="../cite/Ottes/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 169</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">2h12thC</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/2h12thC/NotSLdN"><span class="bib_key">NotSLdN</span> <span class="bib_loc">III</span></a>;
+ <span class="date">699</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/699/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">Add. X</span></a>;
+ <span class="date">c823</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">94, Ved</span></a>;
+ <span class="date">937x93</span> <span class="name">Odon</span> (<span class="case">acc</span>) <a href="../cite/Odon/937x93/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 99</span></a>,
+ <span class="name">Odoni</span> (<span class="case">gen</span>) <a href="../cite/Odoni/937x93/St-Bernard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 80</span></a>;
+ <span class="date">980</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/980/NotSLdN"><span class="bib_key">NotSLdN</span> <span class="bib_loc">p. 247</span></a>;
+ <span class="date">1067</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1067/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XII</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1067/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1079x1081</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1079x1081/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>,
+ <span class="name">Oto</span> (<span class="case">nom</span>) <a href="../cite/Oto/1079x1081/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">1079x1101</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1079x1101/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1082x1087</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1082x1087/St-Bernard-Romans"><span class="bib_key">St-Bernard-Romans</span> <span class="bib_loc">no. 120</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXII</span></a>,
+ <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVIII</span></a>;
+ <span class="date">a1108</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">a1116</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/a1116/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/a1116/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1123</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1123/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1125x1136</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1125x1136/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXIX</span></a>;
+ <span class="date">1130</span> <span class="name">Udone</span> (<span class="case">abl</span>) <a href="../cite/Udone/1130/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1135</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Oto</span> (<span class="case">nom</span>) <a href="../cite/Oto/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x62</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">66</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">66</span></a>;
+ <span class="date">c1140</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/c1140/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIII</span></a>;
+ <span class="date">1143x1146</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1143x1146/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1146</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1146/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1147</span> <span class="name">Hoto</span> (<span class="case">nom</span>) <a href="../cite/Hoto/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">c1147</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/c1147/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXII</span></a>;
+ <span class="date">1147</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">17</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>;
+ <span class="date">1151</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1151/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>;
+ <span class="date">1153</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1153/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1154</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1154/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LIV</span></a>,
+ <a href="../cite/Odo/1154/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">27</span></a>;
+ <span class="date">c1156</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/c1156/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1159</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1159/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">736</span></a>;
+ <span class="date">1160</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1160/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXIV</span></a>;
+ <span class="date">c1160</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/c1160/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">1162</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">39</span></a>;
+ <span class="date">1163</span> <span class="name">Oddo</span> (<span class="case">nom</span>) <a href="../cite/Oddo/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">94</span></a>,
+ <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1163–64</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1164</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1165</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1165/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">125</span></a>;
+ <span class="date">1166</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">130</span></a>,
+ <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">130</span></a>;
+ <span class="date">1171</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">140</span></a>;
+ <span class="date">1173</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">154</span></a>;
+ <span class="date">1174</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1174/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXX</span></a>,
+ <a href="../cite/Odo/1174/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">161</span></a>,
+ <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1174/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXX</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1174/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXX</span></a>;
+ <span class="date">c1175–1180</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/c1175–1180/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 69</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/c1175–1180/ChartCaen2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1178</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1178/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">166</span></a>,
+ <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1178/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">166</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1178/NotSLdN"><span class="bib_key">NotSLdN</span> <span class="bib_loc">I</span></a>,
+ <a href="../cite/Odonis/1178/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">166</span></a>;
+ <span class="date">1179</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>,
+ <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>;
+ <span class="date">1180</span> <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1180/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LV</span></a>,
+ <a href="../cite/Odone/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Otonis</span> (<span class="case">gen</span>) <a href="../cite/Otonis/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1183</span> <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1183/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LVI</span></a>;
+ <span class="date">1187</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1187/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LVII</span></a>;
+ <span class="date">1190</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1190/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CIII</span></a>;
+ <span class="date">1194</span> <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1194/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CLVI</span></a>;
+ <span class="date">1196</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1196/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXXIX</span></a>;
+ <span class="date">c1200</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/c1200/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">201</span></a>;
+ <span class="date">1201</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1201/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXI</span></a>,
+ <a href="../cite/Odo/1201/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">1-IX</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1201/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLVIII</span></a>;
+ <span class="date">1203</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1203/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-LXXIX</span></a>;
+ <span class="date">1204</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1204/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-LXXXVI</span></a>;
+ <span class="date">1206</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1206/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XIV</span></a>,
+ <a href="../cite/Odo/1206/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LXIX</span></a>;
+ <span class="date">1209</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1209/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LII</span></a>;
+ <span class="date">1214</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1214/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXLI</span></a>;
+ <span class="date">a1215</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/a1215/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LXXIII</span></a>;
+ <span class="date">1217</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1217/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXXI</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1217/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1227</span> <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1227/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XLV</span></a>;
+ <span class="date">1236</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1236/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XXXIX</span></a>;
+ <span class="date">1238</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1238/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXX</span></a>;
+ <span class="date">1255</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1255/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">IX, Candlemas</span></a>;
+ <span class="date">1257</span> <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1257/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XV, BMV</span></a>;
+ <span class="date">1258</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIX, Candlemas</span></a>;
+ <span class="date">1259</span> <span class="name">Odonem</span> (<span class="case">acc</span>) <a href="../cite/Odonem/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">II, BMV</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII, St. Martin</span></a>;
+ <span class="date">1260</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">VI, Candlemas</span></a>;
+ <span class="date">1267</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1267/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XXVII</span></a>;
+ <span class="date">1273</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1273/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLIII</span></a>;
+ <span class="date">1283–86</span> <span class="name">Otho</span> (<span class="case">nom</span>) <a href="../cite/Otho/1283–86/GasReg-A"><span class="bib_key">GasReg-A</span></a>;
+ <span class="date">1287</span> <span class="name">Otho</span> (<span class="case">nom</span>) <a href="../cite/Otho/1287/GasReg-A"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1301</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 258</span></a>;
+ <span class="date">1310/11</span> <span class="name">Otho</span> (<span class="case">nom</span>) <a href="../cite/Otho/1310s11/GasReg-A"><span class="bib_key">GasReg-A</span></a>;
+ <span class="date">1310</span> <span class="name">Otho</span> (<span class="case">nom</span>) <a href="../cite/Otho/1310/GasReg-A"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1313</span> <span class="name">Odonem</span> (<span class="case">acc</span>) <a href="../cite/Odonem/1313/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXVIII</span></a>;
+ <span class="date">1345</span> <span class="name">Ottoni</span> (<span class="case">dat</span>) <a href="../cite/Ottoni/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">626</span></a>;
+ <span class="date">1378</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">581</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1147</span> <span class="name">Odelini</span> (<span class="case">gen</span>) <a href="../cite/Odelini/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1179</span> <span class="name">Odinus</span> (<span class="case">nom</span>) <a href="../cite/Odinus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1260</span> <span class="name">Odinus</span> (<span class="case">nom</span>) <a href="../cite/Odinus/1260/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XII, Candlemas</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Eude</span> <a href="../cite/Eude/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Heude</span> <a href="../cite/Heude/1296/paris1296"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1313</span> <span class="name">Eude</span> <a href="../cite/Eude/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 18</span></a>,
+ <span class="name">Heude</span> <a href="../cite/Heude/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>,
+ <span class="name">Œude</span> <a href="../cite/Œude/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1133</span> <span class="name">Eudon</span> (<span class="case">obl</span>) <a href="../cite/Eudon/1133/tailliar"><span class="bib_key">tailliar</span> <span class="bib_loc">no. 1</span></a>;
+ <span class="date">1292</span> <span class="name">Otelin</span> <a href="../cite/Otelin/1292/1292paris"><span class="bib_key">1292paris</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1313</span> <span class="name">Houdet</span> <a href="../cite/Houdet/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Oudin</span> <a href="../cite/Oudin/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Oudinet</span> <a href="../cite/Oudinet/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 611</span></a>;
+ <span class="date">1418</span> <span class="name">Odin</span> <a href="../cite/Odin/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 376</span></a>,
+ <span class="name">Oudin</span> <a href="../cite/Oudin/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 380</span></a>,
+ <span class="name">Oudinet</span> <a href="../cite/Oudinet/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 373</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">802</span> <span class="name">Attonem</span> (<span class="case">acc</span>) <a href="../cite/Attonem/802/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">8</span></a>,
+ <span class="name">Attoni</span> (<span class="case">dat</span>) <a href="../cite/Attoni/802/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Attonis</span> (<span class="case">gen</span>) <a href="../cite/Attonis/802/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">816</span> <span class="name">Atto</span> (<span class="case">nom</span>) <a href="../cite/Atto/816/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>;
+ <span class="date">822x875</span> <span class="name">Hodo</span> (<span class="case">nom</span>) <a href="../cite/Hodo/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§4</span></a>,
+ <span class="name">Oddo</span> (<span class="case">abl</span>) <a href="../cite/Oddo/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§123</span></a>,
+ <span class="name">Oddone</span> (<span class="case">abl</span>) <a href="../cite/Oddone/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§97</span></a>;
+ <span class="date">937</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/937/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XXXI</span></a>,
+ <span class="name">Ottoni</span> (<span class="case">dat</span>) <a href="../cite/Ottoni/937/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXII</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/937/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">941</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/941/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">11</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/941/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>;
+ <span class="date">947</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/947/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/947/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">948</span> <span class="name">Ottho</span> (<span class="case">nom</span>) <a href="../cite/Ottho/948/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">88</span></a>,
+ <span class="name">Otthone</span> (<span class="case">abl</span>) <a href="../cite/Otthone/948/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">88</span></a>,
+ <span class="name">Otthonis</span> (<span class="case">gen</span>) <a href="../cite/Otthonis/948/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">88</span></a>;
+ <span class="date">954</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/954/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">23</span></a>,
+ <span class="name">Ottone</span> (<span class="case">abl</span>) <a href="../cite/Ottone/954/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/954/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>;
+ <span class="date">961</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/961/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>,
+ <span class="name">Ottone</span> (<span class="case">abl</span>) <a href="../cite/Ottone/961/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/961/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>;
+ <span class="date">965</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/965/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XLI</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/965/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XLI</span></a>;
+ <span class="date">966</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/966/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XLIII</span></a>,
+ <a href="../cite/Otto/966/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">13</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/966/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XLIII</span></a>,
+ <a href="../cite/Ottonis/966/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">13</span></a>;
+ <span class="date">967</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/967/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XLIV</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/967/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XLIV</span></a>;
+ <span class="date">972</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/972/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/972/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">974</span> <span class="name">Ottho</span> (<span class="case">nom</span>) <a href="../cite/Ottho/974/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>,
+ <span class="name">Otthonis</span> (<span class="case">gen</span>) <a href="../cite/Otthonis/974/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>,
+ <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/974/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XLV</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/974/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XLV</span></a>;
+ <span class="date">977</span> <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/977/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">27</span></a>;
+ <span class="date">980</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/980/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/980/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>;
+ <span class="date">983</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/983/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XLVI</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/983/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVI</span></a>;
+ <span class="date">985</span> <span class="name">Ottho</span> (<span class="case">nom</span>) <a href="../cite/Ottho/985/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">90</span></a>,
+ <span class="name">Otthonis</span> (<span class="case">gen</span>) <a href="../cite/Otthonis/985/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">90</span></a>,
+ <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/985/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">32</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/985/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>;
+ <span class="date">988</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/988/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XLIX</span></a>,
+ <span class="name">Ottonem</span> (<span class="case">acc</span>) <a href="../cite/Ottonem/988/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">LI</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/988/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XLIX</span></a>;
+ <span class="date">997</span> <span class="name">Ottho</span> (<span class="case">nom</span>) <a href="../cite/Ottho/997/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">91</span></a>,
+ <span class="name">Otthoni</span> (<span class="case">dat</span>) <a href="../cite/Otthoni/997/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">49</span></a>,
+ <span class="name">Otthonis</span> (<span class="case">gen</span>) <a href="../cite/Otthonis/997/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">91</span></a>,
+ <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/997/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/997/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">998</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/998/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/998/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>;
+ <span class="date">1000</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1000/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">33</span></a>,
+ <a href="../cite/Otto/1000/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1000/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">33</span></a>,
+ <a href="../cite/Ottonis/1000/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1001</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1001/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">LIV</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1001/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">LIV</span></a>;
+ <span class="date">1003</span> <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1003/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">LVI</span></a>;
+ <span class="date">1009</span> <span class="name">Oddo</span> (<span class="case">nom</span>) <a href="../cite/Oddo/1009/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">LVIII</span></a>,
+ <span class="name">Oddonem</span> (<span class="case">acc</span>) <a href="../cite/Oddonem/1009/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">LVIII</span></a>;
+ <span class="date">1061</span> <span class="name">Vdo</span> (<span class="case">nom</span>) <a href="../cite/Vdo/1061/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">60</span></a>,
+ <span class="name">Vdone</span> (<span class="case">abl</span>) <a href="../cite/Vdone/1061/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">60</span></a>;
+ <span class="date">1064</span> <span class="name">Vdo</span> (<span class="case">nom</span>) <a href="../cite/Vdo/1064/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">92</span></a>;
+ <span class="date">1112</span> <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1112/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a>;
+ <span class="date">1114</span> <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1114/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1134</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1134/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1136</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1136/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>,
+ <span class="name">Udo</span> (<span class="case">nom</span>) <a href="../cite/Udo/1136/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1138</span> <span class="name">Vdo</span> (<span class="case">nom</span>) <a href="../cite/Vdo/1138/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1142</span> <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1142/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1147</span> <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1147/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1151</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1151/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">XXXVI</span></a>;
+ <span class="date">1165</span> <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1165/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">31</span></a>;
+ <span class="date">1194</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1194/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>;
+ <span class="date">1207</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1207/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1210</span> <span class="name">Otto</span> (<span class="case">abl</span>) <a href="../cite/Otto/1210/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>,
+ <span class="name">Ottone</span> (<span class="case">abl</span>) <a href="../cite/Ottone/1210/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1211</span> <span class="name">Ottone</span> (<span class="case">abl</span>) <a href="../cite/Ottone/1211/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1212</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1212/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>,
+ <span class="name">Ottone</span> (<span class="case">abl</span>) <a href="../cite/Ottone/1212/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">103</span></a>;
+ <span class="date">1213</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1213/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1214</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1214/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1215</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1215/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1216</span> <span class="name">Oddo</span> (<span class="case">nom</span>) <a href="../cite/Oddo/1216/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">20</span></a>,
+ <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>;
+ <span class="date">1217</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1217/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1219</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">39</span></a>,
+ <span class="name">Vdonis</span> (<span class="case">gen</span>) <a href="../cite/Vdonis/1219/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">73</span></a>;
+ <span class="date">1220</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1220/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">44</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1220/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">129</span></a>;
+ <span class="date">1221</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1221/quix-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">130</span></a>;
+ <span class="date">1222</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1222/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">74</span></a>,
+ <a href="../cite/Otto/1222/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">132</span></a>;
+ <span class="date">1231</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1231/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XI</span></a>;
+ <span class="date">1234</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1234/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">89</span></a>;
+ <span class="date">1240</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1240/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">104</span></a>;
+ <span class="date">1249</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">134</span></a>;
+ <span class="date">1250</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1250/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">138</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1250/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">138</span></a>;
+ <span class="date">1251</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1251/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">142</span></a>;
+ <span class="date">1253</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1253/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">145</span></a>;
+ <span class="date">1260</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1260/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">187</span></a>;
+ <span class="date">1261</span> <span class="name">Ottone</span> (<span class="case">abl</span>) <a href="../cite/Ottone/1261/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">207</span></a>;
+ <span class="date">1301</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1301/UrkHan"><span class="bib_key">UrkHan</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1305</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1305/CDL-1.2.1"><span class="bib_key">CDL-1.2.1</span> <span class="bib_loc">CXCIII</span></a>;
+ <span class="date">1309</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1309/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1338</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1338/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">146</span></a>;
+ <span class="date">1351</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1351/UrkHan"><span class="bib_key">UrkHan</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1394</span> <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1394/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 178</span></a>;
+ <span class="date">1401</span> <span class="name">Ottoni</span> (<span class="case">dat</span>) <a href="../cite/Ottoni/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 7</span></a>,
+ <span class="name">ottonis</span> (<span class="case">gen</span>) <a href="../cite/ottonis/1401/HD1401"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 128</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1293</span> <span class="name">Ot</span> (<span class="case">nom</span>) <a href="../cite/Ot/1293/UrkWitt-II"><span class="bib_key">UrkWitt-II</span> <span class="bib_loc">189</span></a>,
+ <span class="name">Ott</span> <a href="../cite/Ott/1293/UrkWitt-II"><span class="bib_key">ibid.</span> <span class="bib_loc">187</span></a>,
+ <span class="name">Otte</span> (<span class="case">nom</span>) <a href="../cite/Otte/1293/UrkWitt-II"><span class="bib_key">ibid.</span> <span class="bib_loc">188</span></a>,
+ <span class="name">Otten</span> (<span class="case">acc</span>) <a href="../cite/Otten/1293/UrkWitt-II"><span class="bib_key">ibid.</span> <span class="bib_loc">187</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1401</span> <span class="name">Ott</span> (<span class="case">nom</span>) <a href="../cite/Ott/1401/UrkKH-2"><span class="bib_key">UrkKH-2</span> <span class="bib_loc">907</span></a>;
+ <span class="date">1429</span> <span class="name">Ottens</span> (<span class="case">gen</span>) <a href="../cite/Ottens/1429/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCCXXXII</span></a>;
+ <span class="date">1497</span> <span class="name">Ott</span> <a href="../cite/Ott/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">338</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1332</span> <span class="name">Otte</span> <a href="../cite/Otte/1332/UrkHan"><span class="bib_key">UrkHan</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1347</span> <span class="name">Otten</span> (<span class="case">acc</span>) <a href="../cite/Otten/1347/UrkHan"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1453</span> <span class="name">Otte</span> <a href="../cite/Otte/1453/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">678</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 22</span></a>;
+ <span class="date">1457</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1457/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">84</span></a>,
+ <span class="name">Odonem</span> (<span class="case">acc</span>) <a href="../cite/Odonem/1457/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">84</span></a>;
+ <span class="date">1460</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1460/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>,
+ <span class="name">Odone</span> (<span class="case">abl</span>) <a href="../cite/Odone/1460/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>,
+ <span class="name">Odonem</span> (<span class="case">acc</span>) <a href="../cite/Odonem/1460/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1460/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1496</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1496/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>,
+ <span class="name">Odonem</span> (<span class="case">acc</span>) <a href="../cite/Odonem/1496/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>,
+ <span class="name">Odoni</span> (<span class="case">dat</span>) <a href="../cite/Odoni/1496/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">967</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/967/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">3</span></a>;
+ <span class="date">970</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/970/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">25</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/970/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>;
+ <span class="date">984</span> <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/984/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">31</span></a>;
+ <span class="date">999</span> <span class="name">Otho</span> (<span class="case">nom</span>) <a href="../cite/Otho/999/HGSav-4.1"><span class="bib_key">HGSav-4.1</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/999/HGSav-4.1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1096</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1096/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">88</span></a>;
+ <span class="date">1164</span> <span class="name">Otonis</span> (<span class="case">gen</span>) <a href="../cite/Otonis/1164/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1224</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1224/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">65</span></a>;
+ <span class="date">1236</span> <span class="name">Otone</span> (<span class="case">abl</span>) <a href="../cite/Otone/1236/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">8</span></a>,
+ <span class="name">Ottonem</span> (<span class="case">acc</span>) <a href="../cite/Ottonem/1236/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Ottoni</span> (<span class="case">dat</span>) <a href="../cite/Ottoni/1236/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1236/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1237</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1237/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">585</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1237/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">587</span></a>;
+ <span class="date">1245</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1245/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1257</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1257/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">165</span></a>;
+ <span class="date">1261</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1261/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">209</span></a>;
+ <span class="date">1367</span> <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1367/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 129</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1236</span> <span class="name">Ottolini</span> (<span class="case">gen</span>) <a href="../cite/Ottolini/1236/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">11</span></a>,
+ <span class="name">Ottolinum</span> (<span class="case">acc</span>) <a href="../cite/Ottolinum/1236/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Utulini</span> (<span class="case">gen</span>) <a href="../cite/Utulini/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">134</span></a>;
+ <span class="date">1285</span> <span class="name">Octonelli</span> (<span class="case">gen</span>) <a href="../cite/Octonelli/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 158</span></a>,
+ <span class="name">Oddoli</span> (<span class="case">gen</span>) <a href="../cite/Oddoli/1285/Perugia1285"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 161</span></a>;
+ <span class="date">1310</span> <span class="name">Ottolinus</span> (<span class="case">nom</span>) <a href="../cite/Ottolinus/1310/MonRav-2"><span class="bib_key">MonRav-2</span> <span class="bib_loc">CCCL</span></a>;
+ <span class="date">1326</span> <span class="name">Ottolino</span> (<span class="case">abl</span>) <a href="../cite/Ottolino/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 422</span></a>,
+ <span class="name">Ottolinus</span> (<span class="case">nom</span>) <a href="../cite/Ottolinus/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 422</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1288</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1288/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">528</span></a>,
+ <span class="name">Ottoni</span> (<span class="case">dat</span>) <a href="../cite/Ottoni/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">388</span></a>;
+ <span class="date">1289</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">135</span></a>,
+ <span class="name">Ottoni</span> (<span class="case">dat</span>) <a href="../cite/Ottoni/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">339</span></a>;
+ <span class="date">1290</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">137</span></a>;
+ <span class="date">1293</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1293/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">163</span></a>;
+ <span class="date">1294</span> <span class="name">Otthoni</span> (<span class="case">dat</span>) <a href="../cite/Otthoni/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">170</span></a>;
+ <span class="date">1296</span> <span class="name">Ottoni</span> (<span class="case">dat</span>) <a href="../cite/Ottoni/1296/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1299</span> <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1299/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">277</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1462</span> <span class="name">Otte</span> <a href="../cite/Otte/1462/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 99</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1235</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1235/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1243</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1243/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">112</span></a>;
+ <span class="date">1288</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1288/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 296</span></a>,
+ <span class="name">Odomis</span> (<span class="case">gen</span>) <a href="../cite/Odomis/1288/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 296</span></a>;
+ <span class="date">1291</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1291/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 297</span></a>,
+ <span class="name">Ottonis</span> (<span class="case">gen</span>) <a href="../cite/Ottonis/1291/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 297</span></a>;
+ <span class="date">1311</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1311/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 298</span></a>,
+ <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1311/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 298</span></a>;
+ <span class="date">1347</span> <span class="name">otto</span> (<span class="case">nom</span>) <a href="../cite/otto/1347/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 300</span></a>;
+ <span class="date">1349</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1349/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 300</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1382</span> <span class="name">Ottens</span> (<span class="case">gen</span>) <a href="../cite/Ottens/1382/GesOIJ-4"><span class="bib_key">GesOIJ-4</span> <span class="bib_loc">p. 186</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1324x1332</span> <span class="name">Otto</span> <a href="../cite/Otto/1324x1332/SBGlatzer"><span class="bib_key">SBGlatzer</span> <span class="bib_loc">p. 1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1214–1226</span> <span class="name">Odonis</span> (<span class="case">gen</span>) <a href="../cite/Odonis/1214–1226/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">889</span> <span class="name">Oddone</span> (<span class="case">nom</span>) <a href="../cite/Oddone/889/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMXVII</span></a>;
+ <span class="date">1016</span> <span class="name">Odo</span> (<span class="case">nom</span>) <a href="../cite/Odo/1016/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXIII</span></a>;
+ <span class="date">1192</span> <span class="name">Otonis</span> (<span class="case">gen</span>) <a href="../cite/Otonis/1192/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCCVIII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Vd</span> (<span class="case">gen</span>) <a href="../cite/Vd/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1919</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Otho</span> (<span class="case">nom</span>) <a href="../cite/Otho/1155/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1157</span> <span class="name">Otto</span> (<span class="case">nom</span>) <a href="../cite/Otto/1157/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1166</span> <span class="name">Octone</span> (<span class="case">abl</span>) <a href="../cite/Octone/1166/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Otho</span> (<span class="case">nom</span>) <a href="../cite/Otho/1166/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">20</span></a>;
+ <span class="date">1179</span> <span class="name">Hoto</span> (<span class="case">nom</span>) <a href="../cite/Hoto/1179/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>;
+ <span class="date">1180</span> <span class="name">Octo</span> (<span class="case">nom</span>) <a href="../cite/Octo/1180/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a>;
+ <span class="date">1186</span> <span class="name">Otho</span> (<span class="case">nom</span>) <a href="../cite/Otho/1186/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">27</span></a>;
+ <span class="date">1215</span> <span class="name">Otho</span> (<span class="case">nom</span>) <a href="../cite/Otho/1215/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1220</span> <span class="name">Oto</span> (<span class="case">nom</span>) <a href="../cite/Oto/1220/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, S.L. Uckelman. "Otto". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Otto.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

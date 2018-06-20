@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Daniel</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Daniel</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>דניּאל</i> 'God is my judge'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an Old Testament author. Wycliffite Bible (1395): <i>Daniel</i>, <i>Danyel</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>In England before the Norman Conquest, the name was used almost exclusively by ecclesiasts.  It began to be used by the ordinary population in the 12th C.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1133</span> <span class="name">Daniele</span> (<span class="case">abl</span>) <a href="../cite/Daniele/1133/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">13</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1371</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1371/NotComDest"><span class="bib_key">NotComDest</span> <span class="bib_loc">III</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 321</span></a>,
+ <span class="name">Daniels</span> <a href="../cite/Daniels/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 384</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Danielis</span> (<span class="case">gen</span>) <a href="../cite/Danielis/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1356</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1356/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">175, p. 28</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 132</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1570</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1570/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Cox</span></a>;
+ <span class="date">1572</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1572/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Backelers</span></a>;
+ <span class="date">1575</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1575/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Achter</span></a>;
+ <span class="date">1576</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bauwens</span></a>;
+ <span class="date">1578</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Brouijn</span></a>;
+ <span class="date">1580</span> <span class="name">Daneel</span> <a href="../cite/Daneel/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bogaerts</span></a>;
+ <span class="date">1586</span> <span class="name">Danels</span> (<span class="case">gen</span>) <a href="../cite/Danels/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Doreijn</span></a>,
+ <span class="name">Daniel</span> <a href="../cite/Daniel/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Burchtgrave</span></a>;
+ <span class="date">1587</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bellovoijs</span></a>;
+ <span class="date">1589</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Alensone</span></a>,
+ <span class="name">Daniels</span> (<span class="case">gen</span>) <a href="../cite/Daniels/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Droimaels</span></a>;
+ <span class="date">1590</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Dorijn</span></a>;
+ <span class="date">1591</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Coppereholle</span></a>;
+ <span class="date">1592</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gast</span></a>;
+ <span class="date">1593</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Achtschellinck</span></a>;
+ <span class="date">1594</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Feijfer</span></a>;
+ <span class="date">1596</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Baert</span></a>;
+ <span class="date">1597</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Garnoot</span></a>;
+ <span class="date">1598</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Dorijn</span></a>;
+ <span class="date">1599</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Garnoot</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1545</span> <span class="name">Daniell</span> <a href="../cite/Daniell/1545/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1549</span> <span class="name">Dannell</span> <a href="../cite/Dannell/1549/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1553</span> <span class="name">Daniell</span> <a href="../cite/Daniell/1553/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1554</span> <span class="name">Daniell</span> <a href="../cite/Daniell/1554/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1556</span> <span class="name">Daniell</span> <a href="../cite/Daniell/1556/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1564</span> <span class="name">Danyell</span> <a href="../cite/Danyell/1564/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1572</span> <span class="name">Daniell</span> <a href="../cite/Daniell/1572/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Daniell/1572/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1574</span> <span class="name">Daniell</span> <a href="../cite/Daniell/1574/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1576</span> <span class="name">Daniell</span> <a href="../cite/Daniell/1576/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1584</span> <span class="name">Daniell</span> <a href="../cite/Daniell/1584/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1588</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1588/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Daniell</span> <a href="../cite/Daniell/1588/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1589</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 19</span></a>,
+ <a href="../cite/Daniel/1589/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1590</span> <span class="name">Danyell</span> <a href="../cite/Danyell/1590/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1591</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1591/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 57</span></a>,
+ <span class="name">Daniell</span> <a href="../cite/Daniell/1591/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1592</span> <span class="name">Daniell</span> <a href="../cite/Daniell/1592/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1593</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 27</span></a>,
+ <a href="../cite/Daniel/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Daniell</span> <a href="../cite/Daniell/1593/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1594</span> <span class="name">Daniell</span> <a href="../cite/Daniell/1594/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Daniell/1594/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1596</span> <span class="name">Daniell</span> <a href="../cite/Daniell/1596/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1598</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1598/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1599</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Daniell</span> <a href="../cite/Daniell/1599/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 39</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1581/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1581/2</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1581s2/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1582/3</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1582s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1583</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1583/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 437</span></a>;
+ <span class="date">1593</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 564</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Daneel</span> <a href="../cite/Daneel/1383/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 337</span></a>;
+ <span class="date">1440</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1440/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 362</span></a>,
+ <span class="name">Daniil</span> <a href="../cite/Daniil/1440/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Danila</span> (<span class="case">nom</span>) <a href="../cite/Danila/1582/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 171</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">74, Palatiolum</span></a>;
+ <span class="date">11thC</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/11thC/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">720</span></a>,
+ <span class="name">Danihel</span> (<span class="case">nom</span>) <a href="../cite/Danihel/11thC/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">720</span></a>;
+ <span class="date">c1030</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/c1030/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">714</span></a>;
+ <span class="date">c1175–1180</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/c1175–1180/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 67</span></a>;
+ <span class="date">1248</span> <span class="name">Danieli</span> (<span class="case">dat</span>) <a href="../cite/Danieli/1248/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">125</span></a>;
+ <span class="date">1292</span> <span class="name">Danielis</span> (<span class="case">gen</span>) <a href="../cite/Danielis/1292/MemBret-I"><span class="bib_key">MemBret-I</span> <span class="bib_loc">1102</span></a>;
+ <span class="date">1378</span> <span class="name">Danieli</span> (<span class="case">dat</span>) <a href="../cite/Danieli/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1514</span></a>,
+ <span class="name">Danielis</span> (<span class="case">gen</span>) <a href="../cite/Danielis/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">251</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1180</span> <span class="name">Danet</span> (<span class="case">gen</span>) <a href="../cite/Danet/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 3</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Daniel</span> (<span class="case">obl</span>) <a href="../cite/Daniel/1292/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 110</span></a>;
+ <span class="date">1296</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1298</span> <span class="name">Daniel</span> (<span class="case">obl</span>) <a href="../cite/Daniel/1298/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 144</span></a>;
+ <span class="date">1299</span> <span class="name">Daniel</span> (<span class="case">obl</span>) <a href="../cite/Daniel/1299/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 148</span></a>;
+ <span class="date">1313</span> <span class="name">Daniau</span> <a href="../cite/Daniau/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Daniel</span> <a href="../cite/Daniel/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 210</span></a>,
+ <a href="../cite/Daniel/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 385</span></a>,
+ <span class="name">Danyau</span> <a href="../cite/Danyau/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 210</span></a>,
+ <a href="../cite/Danyau/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 384</span></a>;
+ <span class="date">1421</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1561</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1562</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1563</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1564</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>,
+ <span class="name">Danyel</span> <a href="../cite/Danyel/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1565</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1566</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 206</span></a>;
+ <span class="date">1567</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 281</span></a>;
+ <span class="date">1568</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 368</span></a>;
+ <span class="date">1570</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 431</span></a>;
+ <span class="date">1571</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 438</span></a>;
+ <span class="date">1572</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 492</span></a>;
+ <span class="date">1588</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1588/raymond1588"><span class="bib_key">raymond1588</span> <span class="bib_loc">p. 569</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1165</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1165/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1210</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1210/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1260</span> <span class="name">Danielis</span> (<span class="case">gen</span>) <a href="../cite/Danielis/1260/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">189</span></a>;
+ <span class="date">1394</span> <span class="name">Danielis</span> (<span class="case">gen</span>) <a href="../cite/Danielis/1394/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 191</span></a>;
+ <span class="date">1401</span> <span class="name">danieli</span> (<span class="case">dat</span>) <a href="../cite/danieli/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 346</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1311</span> <span class="name">Daniele</span> (<span class="case">abl</span>) <a href="../cite/Daniele/1311/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 89, s.n. Daniel</span></a>;
+ <span class="date">1329</span> <span class="name">Danieli</span> (<span class="case">dat</span>) <a href="../cite/Danieli/1329/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 89, s.n. Daniel</span></a>;
+ <span class="date">1332x1337</span> <span class="name">Danyel</span> (<span class="case">nom</span>) <a href="../cite/Danyel/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 89, s.n. Daniel</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1308</span> <span class="name">Danka</span> (<span class="case">nom</span>) <a href="../cite/Danka/1308/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 89, s.n. Daniel</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 12</span></a>,
+ <span class="name">Danielis</span> (<span class="case">gen</span>) <a href="../cite/Danielis/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 14</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Daniel</span> (<span class="case">abl</span>) <a href="../cite/Daniel/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Daniele</span> (<span class="case">abl</span>) <a href="../cite/Daniele/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Danielem</span> (<span class="case">acc</span>) <a href="../cite/Danielem/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 214</span></a>;
+ <span class="date">1449</span> <span class="name">Danielis</span> (<span class="case">gen</span>) <a href="../cite/Danielis/1449/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1527</span> <span class="name">Daniele</span> (<span class="case">gen</span>) <a href="../cite/Daniele/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 86</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1290</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1290/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">297</span></a>;
+ <span class="date">1292</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">300</span></a>;
+ <span class="date">1293</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1293/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">301</span></a>;
+ <span class="date">1294</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">302</span></a>;
+ <span class="date">1315</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1315/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">316</span></a>;
+ <span class="date">1316</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1316/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">318</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">896</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/896/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMXIX</span></a>;
+ <span class="date">1488</span> <span class="name">Danielis</span> (<span class="case">gen</span>) <a href="../cite/Danielis/1488/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1490</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>,
+ <span class="name">Danielis</span> (<span class="case">gen</span>) <a href="../cite/Danielis/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1491</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>,
+ <span class="name">Danieli</span> (<span class="case">gen</span>) <a href="../cite/Danieli/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>,
+ <span class="name">Danielis</span> (<span class="case">gen</span>) <a href="../cite/Danielis/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Daniel</span> <a href="../cite/Daniel/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3225</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Daniel</span> (<span class="case">nom</span>) <a href="../cite/Daniel/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6001</span></a>,
+ <span class="name">Danieli</span> (<span class="case">dat</span>) <a href="../cite/Danieli/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6023</span></a>,
+ <span class="name">Danielis</span> (<span class="case">gen</span>) <a href="../cite/Danielis/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6023</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1360</span> <span class="name">Danielis</span> (<span class="case">gen</span>) <a href="../cite/Danielis/1360/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(87)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, M. Slíz, J. Uckelman, S.L. Uckelman. "Daniel". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Daniel.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

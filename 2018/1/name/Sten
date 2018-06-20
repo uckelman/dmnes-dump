@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Sten</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Sten</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Icelandic</span> <i>steinn</i> 'stone', from <span class="lang">Proto-Norse</span> ᛊᛏᚨᛁᚾᚨᛉ (<i>stainaz</i>), from <span class="lang">Proto-Germanic</span> *<i>stainaz</i>.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1405</span> <span class="name">Steen</span> (<span class="case">nom</span>) <a href="../cite/Steen/1405/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 16441</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Steno</span> (<span class="case">nom</span>) <a href="../cite/Steno/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6018</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Steno</span> (<span class="case">nom</span>) <a href="../cite/Steno/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1948</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1365</span> <span class="name">steens</span> (<span class="case">gen</span>) <a href="../cite/steens/1365/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">8764</span></a>;
+ <span class="date">1377</span> <span class="name">Sten</span> (<span class="case">nom</span>) <a href="../cite/Sten/1377/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11085</span></a>,
+ <span class="name">Stene</span> (<span class="case">dat</span>) <a href="../cite/Stene/1377/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11085</span></a>,
+ <span class="name">Stens</span> (<span class="case">gen</span>) <a href="../cite/Stens/1377/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11085</span></a>;
+ <span class="date">1383</span> <span class="name">Steen</span> (<span class="case">nom</span>) <a href="../cite/Steen/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1911</span></a>,
+ <span class="name">Sten</span> (<span class="case">nom</span>) <a href="../cite/Sten/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1899</span></a>,
+ <span class="name">Stens</span> (<span class="case">gen</span>) <a href="../cite/Stens/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1899</span></a>;
+ <span class="date">1409</span> <span class="name">Sten</span> (<span class="case">nom</span>) <a href="../cite/Sten/1409/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 17265</span></a>,
+ <span class="name">Stens</span> (<span class="case">gen</span>) <a href="../cite/Stens/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17269</span></a>;
+ <span class="date">1419</span> <span class="name">Steen</span> (<span class="case">gen</span>) <a href="../cite/Steen/1419/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19388</span></a>;
+ <span class="date">1420</span> <span class="name">Stens</span> (<span class="case">gen</span>) <a href="../cite/Stens/1420/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19470</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Sten". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Sten.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

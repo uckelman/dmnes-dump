@@ -1,0 +1,578 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>RegLlantrithyd</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>RegLlantrithyd</dt>
+  <dd>H. Seymour Hughes, editor. <em>The Registers of Llantrithyd, Glamorganshire. Christenings, 1597-1810; Burials, 1571-1810; Marriages, 1571-1752</em>. London: Mitchell and Hughes, 1888.</dd>
+</dl>
+
+
+  <a href="../cite/Adam/1578/RegLlantrithyd">Adam</a>
+
+  <a href="../cite/Adam/1582/RegLlantrithyd">Adam</a>
+
+  <a href="../cite/Agnes/1578/RegLlantrithyd">Agnes</a>
+
+  <a href="../cite/Agnes/1572/RegLlantrithyd">Agnes</a>
+
+  <a href="../cite/Agnes/1577/RegLlantrithyd">Agnes</a>
+
+  <a href="../cite/Agnes/1597/RegLlantrithyd">Agnes</a>
+
+  <a href="../cite/Agnes/1579/RegLlantrithyd">Agnes</a>
+
+  <a href="../cite/Alexander/1584/RegLlantrithyd">Alexander</a>
+
+  <a href="../cite/Alexander/1578/RegLlantrithyd">Alexander</a>
+
+  <a href="../cite/Alse/1594/RegLlantrithyd">Alse</a>
+
+  <a href="../cite/Alse/1590/RegLlantrithyd">Alse</a>
+
+  <a href="../cite/Alse/1596/RegLlantrithyd">Alse</a>
+
+  <a href="../cite/Alse/1579/RegLlantrithyd">Alse</a>
+
+  <a href="../cite/Alson/1574/RegLlantrithyd">Alson</a>
+
+  <a href="../cite/Anne/1576/RegLlantrithyd">Anne</a>
+
+  <a href="../cite/Anne/1584/RegLlantrithyd">Anne</a>
+
+  <a href="../cite/Anne/1595/RegLlantrithyd">Anne</a>
+
+  <a href="../cite/Anne/1574/RegLlantrithyd">Anne</a>
+
+  <a href="../cite/Anne/1598/RegLlantrithyd">Anne</a>
+
+  <a href="../cite/Anne/1591/RegLlantrithyd">Anne</a>
+
+  <a href="../cite/Anne/1590/RegLlantrithyd">Anne</a>
+
+  <a href="../cite/Anthoin/1583/RegLlantrithyd">Anthoin</a>
+
+  <a href="../cite/Anthoni/1599/RegLlantrithyd">Anthoni</a>
+
+  <a href="../cite/Anthoni/1598/RegLlantrithyd">Anthoni</a>
+
+  <a href="../cite/Anthonie/1598/RegLlantrithyd">Anthonie</a>
+
+  <a href="../cite/Anthony/1598/RegLlantrithyd">Anthony</a>
+
+  <a href="../cite/Blanch/1588/RegLlantrithyd">Blanch</a>
+
+  <a href="../cite/Caterin/1599/RegLlantrithyd">Caterin</a>
+
+  <a href="../cite/Caterin/1597/RegLlantrithyd">Caterin</a>
+
+  <a href="../cite/Christian/1592/RegLlantrithyd">Christian</a>
+
+  <a href="../cite/Christopher/1577/RegLlantrithyd">Christopher</a>
+
+  <a href="../cite/Cissill/1597/RegLlantrithyd">Cissill</a>
+
+  <a href="../cite/Cissill/1577/RegLlantrithyd">Cissill</a>
+
+  <a href="../cite/Cissill/1591/RegLlantrithyd">Cissill</a>
+
+  <a href="../cite/Cissill/1592/RegLlantrithyd">Cissill</a>
+
+  <a href="../cite/Cissill/1598/RegLlantrithyd">Cissill</a>
+
+  <a href="../cite/Cissill/1599/RegLlantrithyd">Cissill</a>
+
+  <a href="../cite/Cissill/1571/RegLlantrithyd">Cissill</a>
+
+  <a href="../cite/Cissill/1594/RegLlantrithyd">Cissill</a>
+
+  <a href="../cite/Dauid/1571/RegLlantrithyd">Dauid</a>
+
+  <a href="../cite/Dauid/1598/RegLlantrithyd">Dauid</a>
+
+  <a href="../cite/Dauid/1596/RegLlantrithyd">Dauid</a>
+
+  <a href="../cite/David/1592/RegLlantrithyd">David</a>
+
+  <a href="../cite/David/1599/RegLlantrithyd">David</a>
+
+  <a href="../cite/David/1588/RegLlantrithyd">David</a>
+
+  <a href="../cite/David/1581/RegLlantrithyd">David</a>
+
+  <a href="../cite/David/1579/RegLlantrithyd">David</a>
+
+  <a href="../cite/David/1574/RegLlantrithyd">David</a>
+
+  <a href="../cite/David/1596/RegLlantrithyd">David</a>
+
+  <a href="../cite/Edward/1594/RegLlantrithyd">Edward</a>
+
+  <a href="../cite/Edward/1589/RegLlantrithyd">Edward</a>
+
+  <a href="../cite/Edward/1599/RegLlantrithyd">Edward</a>
+
+  <a href="../cite/Edward/1573/RegLlantrithyd">Edward</a>
+
+  <a href="../cite/Elinor/1592/RegLlantrithyd">Elinor</a>
+
+  <a href="../cite/Elizabeth/1579/RegLlantrithyd">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1574/RegLlantrithyd">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1590/RegLlantrithyd">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1596/RegLlantrithyd">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1571/RegLlantrithyd">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1578/RegLlantrithyd">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1588/RegLlantrithyd">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1577/RegLlantrithyd">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1599/RegLlantrithyd">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1580/RegLlantrithyd">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1576/RegLlantrithyd">Elizabeth</a>
+
+  <a href="../cite/Elizebeth/1584/RegLlantrithyd">Elizebeth</a>
+
+  <a href="../cite/Evan/1571/RegLlantrithyd">Evan</a>
+
+  <a href="../cite/Georg/1593/RegLlantrithyd">Georg</a>
+
+  <a href="../cite/George/1599/RegLlantrithyd">George</a>
+
+  <a href="../cite/Giles/1598/RegLlantrithyd">Giles</a>
+
+  <a href="../cite/Howell/1593/RegLlantrithyd">Howell</a>
+
+  <a href="../cite/Howell/1574/RegLlantrithyd">Howell</a>
+
+  <a href="../cite/Hugh/1593/RegLlantrithyd">Hugh</a>
+
+  <a href="../cite/James/1597/RegLlantrithyd">James</a>
+
+  <a href="../cite/James/1595/RegLlantrithyd">James</a>
+
+  <a href="../cite/James/1596/RegLlantrithyd">James</a>
+
+  <a href="../cite/James/1598/RegLlantrithyd">James</a>
+
+  <a href="../cite/James/1599/RegLlantrithyd">James</a>
+
+  <a href="../cite/Janne/1599/RegLlantrithyd">Janne</a>
+
+  <a href="../cite/Janne/1574/RegLlantrithyd">Janne</a>
+
+  <a href="../cite/Jenan/1598/RegLlantrithyd">Jenan</a>
+
+  <a href="../cite/Jenett/1595/RegLlantrithyd">Jenett</a>
+
+  <a href="../cite/Jenett/1592/RegLlantrithyd">Jenett</a>
+
+  <a href="../cite/Jenett/1590/RegLlantrithyd">Jenett</a>
+
+  <a href="../cite/Jenett/1597/RegLlantrithyd">Jenett</a>
+
+  <a href="../cite/Jenett/1574/RegLlantrithyd">Jenett</a>
+
+  <a href="../cite/Jenett/1598/RegLlantrithyd">Jenett</a>
+
+  <a href="../cite/Jenett/1578/RegLlantrithyd">Jenett</a>
+
+  <a href="../cite/Jenkin/1593/RegLlantrithyd">Jenkin</a>
+
+  <a href="../cite/Jenkin/1574/RegLlantrithyd">Jenkin</a>
+
+  <a href="../cite/Jenkin/1581/RegLlantrithyd">Jenkin</a>
+
+  <a href="../cite/Jenkin/1579/RegLlantrithyd">Jenkin</a>
+
+  <a href="../cite/Jenkin/1582/RegLlantrithyd">Jenkin</a>
+
+  <a href="../cite/Jenkin/1578/RegLlantrithyd">Jenkin</a>
+
+  <a href="../cite/Jennett/1592/RegLlantrithyd">Jennett</a>
+
+  <a href="../cite/Jeuan/1597/RegLlantrithyd">Jeuan</a>
+
+  <a href="../cite/Jevan/1599/RegLlantrithyd">Jevan</a>
+
+  <a href="../cite/Jevan/1591/RegLlantrithyd">Jevan</a>
+
+  <a href="../cite/Jevon/1579/RegLlantrithyd">Jevon</a>
+
+  <a href="../cite/Jevon/1589/RegLlantrithyd">Jevon</a>
+
+  <a href="../cite/Jevon/1571/RegLlantrithyd">Jevon</a>
+
+  <a href="../cite/Jevon/1594/RegLlantrithyd">Jevon</a>
+
+  <a href="../cite/Jevon/1574/RegLlantrithyd">Jevon</a>
+
+  <a href="../cite/Jevon/1596/RegLlantrithyd">Jevon</a>
+
+  <a href="../cite/Jevonn/1583/RegLlantrithyd">Jevonn</a>
+
+  <a href="../cite/Joan/1576/RegLlantrithyd">Joan</a>
+
+  <a href="../cite/Joann/1574/RegLlantrithyd">Joann</a>
+
+  <a href="../cite/Joann/1591/RegLlantrithyd">Joann</a>
+
+  <a href="../cite/Joann/1590/RegLlantrithyd">Joann</a>
+
+  <a href="../cite/Joann/1589/RegLlantrithyd">Joann</a>
+
+  <a href="../cite/Joann/1598/RegLlantrithyd">Joann</a>
+
+  <a href="../cite/Joann/1581/RegLlantrithyd">Joann</a>
+
+  <a href="../cite/Joann/1575/RegLlantrithyd">Joann</a>
+
+  <a href="../cite/Johan/1588/RegLlantrithyd">Johan</a>
+
+  <a href="../cite/Johan/1594/RegLlantrithyd">Johan</a>
+
+  <a href="../cite/Johan/1577/RegLlantrithyd">Johan</a>
+
+  <a href="../cite/John/1597/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1581/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1598/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1574/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1592/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1576/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1595/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1577/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1593/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1589/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1571/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1596/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1580/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1578/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1583/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1572/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1599/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1594/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1585/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1590/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1579/RegLlantrithyd">John</a>
+
+  <a href="../cite/John/1584/RegLlantrithyd">John</a>
+
+  <a href="../cite/Jonett/1589/RegLlantrithyd">Jonett</a>
+
+  <a href="../cite/Jonn/1598/RegLlantrithyd">Jonn</a>
+
+  <a href="../cite/Jonne/1571/RegLlantrithyd">Jonne</a>
+
+  <a href="../cite/Jonne/1572/RegLlantrithyd">Jonne</a>
+
+  <a href="../cite/Jonne/1580/RegLlantrithyd">Jonne</a>
+
+  <a href="../cite/Jonne/1575/RegLlantrithyd">Jonne</a>
+
+  <a href="../cite/Katerin/1595/RegLlantrithyd">Katerin</a>
+
+  <a href="../cite/Katerin/1577/RegLlantrithyd">Katerin</a>
+
+  <a href="../cite/Katerin/1598/RegLlantrithyd">Katerin</a>
+
+  <a href="../cite/Katerin/1578/RegLlantrithyd">Katerin</a>
+
+  <a href="../cite/Katerin/1583/RegLlantrithyd">Katerin</a>
+
+  <a href="../cite/Katerin/1574/RegLlantrithyd">Katerin</a>
+
+  <a href="../cite/Katerin/1599/RegLlantrithyd">Katerin</a>
+
+  <a href="../cite/Lewis/1594/RegLlantrithyd">Lewis</a>
+
+  <a href="../cite/Lewis/1595/RegLlantrithyd">Lewis</a>
+
+  <a href="../cite/Lle'n/1576/RegLlantrithyd">Lle&#39;n</a>
+
+  <a href="../cite/Mallt/1593/RegLlantrithyd">Mallt</a>
+
+  <a href="../cite/Malt/1578/RegLlantrithyd">Malt</a>
+
+  <a href="../cite/Margare/1594/RegLlantrithyd">Margare</a>
+
+  <a href="../cite/Margarett/159–/RegLlantrithyd">Margarett</a>
+
+  <a href="../cite/Margarett/1591/RegLlantrithyd">Margarett</a>
+
+  <a href="../cite/Margarett/1599/RegLlantrithyd">Margarett</a>
+
+  <a href="../cite/Margarett/1583/RegLlantrithyd">Margarett</a>
+
+  <a href="../cite/Margarett/1582/RegLlantrithyd">Margarett</a>
+
+  <a href="../cite/Margarett/1598/RegLlantrithyd">Margarett</a>
+
+  <a href="../cite/Margerie/1599/RegLlantrithyd">Margerie</a>
+
+  <a href="../cite/Margery/1579/RegLlantrithyd">Margery</a>
+
+  <a href="../cite/Margery/1598/RegLlantrithyd">Margery</a>
+
+  <a href="../cite/Margrett/1599/RegLlantrithyd">Margrett</a>
+
+  <a href="../cite/Marie/1597/RegLlantrithyd">Marie</a>
+
+  <a href="../cite/Marie/1598/RegLlantrithyd">Marie</a>
+
+  <a href="../cite/Mary/1590/RegLlantrithyd">Mary</a>
+
+  <a href="../cite/Mary/1594/RegLlantrithyd">Mary</a>
+
+  <a href="../cite/Mary/1597/RegLlantrithyd">Mary</a>
+
+  <a href="../cite/Mary/1582/RegLlantrithyd">Mary</a>
+
+  <a href="../cite/Mary/1571/RegLlantrithyd">Mary</a>
+
+  <a href="../cite/Mary/1598/RegLlantrithyd">Mary</a>
+
+  <a href="../cite/Mary/1574/RegLlantrithyd">Mary</a>
+
+  <a href="../cite/Mary/1591/RegLlantrithyd">Mary</a>
+
+  <a href="../cite/Marye/1576/RegLlantrithyd">Marye</a>
+
+  <a href="../cite/Matho/1592/RegLlantrithyd">Matho</a>
+
+  <a href="../cite/Maud/1595/RegLlantrithyd">Maud</a>
+
+  <a href="../cite/Miles/1583/RegLlantrithyd">Miles</a>
+
+  <a href="../cite/Mirick/1591/RegLlantrithyd">Mirick</a>
+
+  <a href="../cite/Mirick/1599/RegLlantrithyd">Mirick</a>
+
+  <a href="../cite/Morgan/1574/RegLlantrithyd">Morgan</a>
+
+  <a href="../cite/Morgan/1579/RegLlantrithyd">Morgan</a>
+
+  <a href="../cite/Morgan/1576/RegLlantrithyd">Morgan</a>
+
+  <a href="../cite/Morgan/1599/RegLlantrithyd">Morgan</a>
+
+  <a href="../cite/Morgan/1580/RegLlantrithyd">Morgan</a>
+
+  <a href="../cite/Morgon/1592/RegLlantrithyd">Morgon</a>
+
+  <a href="../cite/Morgon/1594/RegLlantrithyd">Morgon</a>
+
+  <a href="../cite/Morice/1584/RegLlantrithyd">Morice</a>
+
+  <a href="../cite/Morice/1577/RegLlantrithyd">Morice</a>
+
+  <a href="../cite/Myricke/1591/RegLlantrithyd">Myricke</a>
+
+  <a href="../cite/Myryk/1597/RegLlantrithyd">Myryk</a>
+
+  <a href="../cite/Nicholas/1590/RegLlantrithyd">Nicholas</a>
+
+  <a href="../cite/Pric/1581/RegLlantrithyd">Pric</a>
+
+  <a href="../cite/Price/1594/RegLlantrithyd">Price</a>
+
+  <a href="../cite/Price/1596/RegLlantrithyd">Price</a>
+
+  <a href="../cite/Price/1597/RegLlantrithyd">Price</a>
+
+  <a href="../cite/Price/1588/RegLlantrithyd">Price</a>
+
+  <a href="../cite/Price/1599/RegLlantrithyd">Price</a>
+
+  <a href="../cite/Prichard/1589/RegLlantrithyd">Prichard</a>
+
+  <a href="../cite/Res/1597/RegLlantrithyd">Res</a>
+
+  <a href="../cite/Rice/1576/RegLlantrithyd">Rice</a>
+
+  <a href="../cite/Rice/1583/RegLlantrithyd">Rice</a>
+
+  <a href="../cite/Rice/1592/RegLlantrithyd">Rice</a>
+
+  <a href="../cite/Rice/1588/RegLlantrithyd">Rice</a>
+
+  <a href="../cite/Rice/1571/RegLlantrithyd">Rice</a>
+
+  <a href="../cite/Richar/1599/RegLlantrithyd">Richar</a>
+
+  <a href="../cite/Richard/1596/RegLlantrithyd">Richard</a>
+
+  <a href="../cite/Richard/1571/RegLlantrithyd">Richard</a>
+
+  <a href="../cite/Richard/1595/RegLlantrithyd">Richard</a>
+
+  <a href="../cite/Richard/1578/RegLlantrithyd">Richard</a>
+
+  <a href="../cite/Richard/1598/RegLlantrithyd">Richard</a>
+
+  <a href="../cite/Richard/1597/RegLlantrithyd">Richard</a>
+
+  <a href="../cite/Richard/1592/RegLlantrithyd">Richard</a>
+
+  <a href="../cite/Richard/1599/RegLlantrithyd">Richard</a>
+
+  <a href="../cite/Richard/1590/RegLlantrithyd">Richard</a>
+
+  <a href="../cite/Rober/1588/RegLlantrithyd">Rober</a>
+
+  <a href="../cite/Robert/1578/RegLlantrithyd">Robert</a>
+
+  <a href="../cite/Robert/1596/RegLlantrithyd">Robert</a>
+
+  <a href="../cite/Sara/1594/RegLlantrithyd">Sara</a>
+
+  <a href="../cite/Susanna/1599/RegLlantrithyd">Susanna</a>
+
+  <a href="../cite/Thomas/1579/RegLlantrithyd">Thomas</a>
+
+  <a href="../cite/Thomas/1594/RegLlantrithyd">Thomas</a>
+
+  <a href="../cite/Thomas/1588/RegLlantrithyd">Thomas</a>
+
+  <a href="../cite/Thomas/1574/RegLlantrithyd">Thomas</a>
+
+  <a href="../cite/Thomas/1592/RegLlantrithyd">Thomas</a>
+
+  <a href="../cite/Thomas/1580/RegLlantrithyd">Thomas</a>
+
+  <a href="../cite/Thomas/1597/RegLlantrithyd">Thomas</a>
+
+  <a href="../cite/Thomas/1591/RegLlantrithyd">Thomas</a>
+
+  <a href="../cite/Thomas/1598/RegLlantrithyd">Thomas</a>
+
+  <a href="../cite/Thomas/1599/RegLlantrithyd">Thomas</a>
+
+  <a href="../cite/Thomas/1576/RegLlantrithyd">Thomas</a>
+
+  <a href="../cite/Thomas/1596/RegLlantrithyd">Thomas</a>
+
+  <a href="../cite/Wenllian/1592/RegLlantrithyd">Wenllian</a>
+
+  <a href="../cite/Wenllian/1583/RegLlantrithyd">Wenllian</a>
+
+  <a href="../cite/Wenllian/1597/RegLlantrithyd">Wenllian</a>
+
+  <a href="../cite/Wenllian/1575/RegLlantrithyd">Wenllian</a>
+
+  <a href="../cite/Wenllian/1579/RegLlantrithyd">Wenllian</a>
+
+  <a href="../cite/William/159–/RegLlantrithyd">William</a>
+
+  <a href="../cite/William/1592/RegLlantrithyd">William</a>
+
+  <a href="../cite/William/1577/RegLlantrithyd">William</a>
+
+  <a href="../cite/William/1575/RegLlantrithyd">William</a>
+
+  <a href="../cite/William/1573/RegLlantrithyd">William</a>
+
+  <a href="../cite/William/1593/RegLlantrithyd">William</a>
+
+  <a href="../cite/William/1574/RegLlantrithyd">William</a>
+
+  <a href="../cite/William/1596/RegLlantrithyd">William</a>
+
+  <a href="../cite/William/1597/RegLlantrithyd">William</a>
+
+  <a href="../cite/William/1578/RegLlantrithyd">William</a>
+
+  <a href="../cite/William/1599/RegLlantrithyd">William</a>
+
+  <a href="../cite/William/1594/RegLlantrithyd">William</a>
+
+  <a href="../cite/William/1580/RegLlantrithyd">William</a>
+
+  <a href="../cite/ffraunces/1595/RegLlantrithyd">ffraunces</a>
+
+  <a href="../cite/ffraunces/1597/RegLlantrithyd">ffraunces</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

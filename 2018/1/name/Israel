@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Israel</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Israel</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>יִשְׂרָאֵל</i> 'he who wrestles with God'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name given to the Biblical patriarch Jacob.  Wycliffite Bible (1395): <i>Israel</i>.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1573</span> <span class="name">Israel</span> <a href="../cite/Israel/1573/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Aken</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597</span> <span class="name">Israell</span> <a href="../cite/Israell/1597/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1598</span> <span class="name">Israel</span> <a href="../cite/Israel/1598/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Israell</span> <a href="../cite/Israell/1598/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1599</span> <span class="name">Iseralle</span> <a href="../cite/Iseralle/1599/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Israhel</span> (<span class="case">nom</span>) <a href="../cite/Israhel/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">74, Palatiolum</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571</span> <span class="name">Israël</span> <a href="../cite/Israël/1571/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 448</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Israelis</span> (<span class="case">gen</span>) <a href="../cite/Israelis/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6015</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Israels</span> (<span class="case">gen</span>) <a href="../cite/Israels/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1933</span></a>;
+ <span class="date">1419</span> <span class="name">Israel</span> (<span class="case">gen</span>) <a href="../cite/Israel/1419/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 19242</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Israel". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Israel.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

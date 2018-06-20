@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Hawise</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Hawise</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>hadu</i> 'battle' + <span class="lang">Old High German</span> <i>wīt</i>, <span class="lang">Old Saxon</span> <i>wīd</i> 'wide' or <span class="lang">Old Saxon</span> <i>widu, wido</i>, <span class="lang">Old High German</span> <i>witu</i> 'wood'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Hawis</span> (<span class="case">nom</span>) <a href="../cite/Hawis/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 107</span></a>;
+ <span class="date">1222</span> <span class="name">Hawesia</span> (<span class="case">nom</span>) <a href="../cite/Hawesia/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1256</span> <span class="name">Hawisia</span> (<span class="case">nom</span>) <a href="../cite/Hawisia/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Hawisiæ</span> (<span class="case">dat</span>) <a href="../cite/Hawisiæ/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Hawysiam</span> (<span class="case">acc</span>) <a href="../cite/Hawysiam/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1319</span> <span class="name">Hauwisie</span> (<span class="case">dat</span>) <a href="../cite/Hauwisie/1319/PSS-CXIV"><span class="bib_key">PSS-CXIV</span> <span class="bib_loc">5a</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Hawisia</span> (<span class="case">nom</span>) <a href="../cite/Hawisia/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Hawysia</span> (<span class="case">nom</span>) <a href="../cite/Hawysia/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a>,
+ <span class="name">Hawysie</span> (<span class="case">nom</span>) <a href="../cite/Hawysie/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1379</span> <span class="name">Hawysia</span> (<span class="case">nom</span>) <a href="../cite/Hawysia/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Hewysia</span> (<span class="case">nom</span>) <a href="../cite/Hewysia/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>,
+ <span class="name">Howisia</span> (<span class="case">nom</span>) <a href="../cite/Howisia/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1553</span> <span class="name">Hawesse</span> <a href="../cite/Hawesse/1553/RegIng"><span class="bib_key">RegIng</span> <span class="bib_loc">p. 4</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Hauis</span> (<span class="case">nom</span>) <a href="../cite/Hauis/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">94, Ved</span></a>;
+ <span class="date">1138</span> <span class="name">Havidis</span> (<span class="case">gen</span>) <a href="../cite/Havidis/1138/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIX</span></a>;
+ <span class="date">1270</span> <span class="name">Havouysis</span> (<span class="case">nom</span>) <a href="../cite/Havouysis/1270/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XLI</span></a>;
+ <span class="date">1301</span> <span class="name">Hauwidis</span> (<span class="case">gen</span>) <a href="../cite/Hauwidis/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 245</span></a>,
+ <span class="name">Havidis</span> (<span class="case">gen</span>) <a href="../cite/Havidis/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 261</span></a>,
+ <span class="name">Hawis</span> (<span class="case">gen</span>) <a href="../cite/Hawis/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 248</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Haoÿs</span> <a href="../cite/Haoÿs/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1313</span> <span class="name">Haoys</span> <a href="../cite/Haoys/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 93</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Hawise". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Hawise.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

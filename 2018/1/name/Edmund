@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Edmund</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Edmund</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>ēad</i>, <span class="lang">Old High German</span> <i>ōt</i>, <span class="lang">Old Saxon</span> <i>ōd</i> 'wealth, riches' + <span class="lang">Old English</span> <i>mund</i> 'protector', <span class="lang">Old Saxon</span> <i>mund</i>, <span class="lang">Old High German</span> <i>munt</i> 'hand, protection'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 9th C English saint, two kings of England, a 13th C English saint, and two 16th C English saints.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The 9th C English saint was regarded in the Middle Ages as the patron saint of England, which helps account for the name's enduring popularity even after the Norman Conquest.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Ædmundo</span> (<span class="case">abl</span>) <a href="../cite/Ædmundo/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1189</span> <span class="name">Eadmundi</span> (<span class="case">gen</span>) <a href="../cite/Eadmundi/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 85</span></a>,
+ <span class="name">Eadmundus</span> (<span class="case">nom</span>) <a href="../cite/Eadmundus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 131</span></a>,
+ <span class="name">Edmundi</span> (<span class="case">gen</span>) <a href="../cite/Edmundi/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 142</span></a>,
+ <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1222</span> <span class="name">Eadmundus</span> (<span class="case">nom</span>) <a href="../cite/Eadmundus/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 46</span></a>,
+ <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>,
+ <span class="name">eadmundi</span> (<span class="case">gen</span>) <a href="../cite/eadmundi/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">edmundi</span> (<span class="case">gen</span>) <a href="../cite/edmundi/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1279–80</span> <span class="name">Edmundo</span> (<span class="case">abl</span>) <a href="../cite/Edmundo/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1296</span> <span class="name">Edmundi</span> (<span class="case">gen</span>) <a href="../cite/Edmundi/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 94a</span></a>,
+ <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93b</span></a>;
+ <span class="date">1300</span> <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 232</span></a>;
+ <span class="date">1321</span> <span class="name">Edmundum</span> (<span class="case">acc</span>) <a href="../cite/Edmundum/1321/EL-2"><span class="bib_key">EL-2</span> <span class="bib_loc">p. 108</span></a>,
+ <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1321/EL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1327</span> <span class="name">Edmundo</span> (<span class="case">abl</span>) <a href="../cite/Edmundo/1327/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1341</span> <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1341/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1372</span> <span class="name">Edmundo</span> (<span class="case">abl</span>) <a href="../cite/Edmundo/1372/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 42</span></a>;
+ <span class="date">1375</span> <span class="name">Edmundo</span> (<span class="case">dat</span>) <a href="../cite/Edmundo/1375/SocAntNor-3-3"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 52</span></a>;
+ <span class="date">1379</span> <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1381</span> <span class="name">Edmundi</span> (<span class="case">gen</span>) <a href="../cite/Edmundi/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 120</span></a>,
+ <span class="name">Edmundo</span> (<span class="case">abl</span>) <a href="../cite/Edmundo/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90</span></a>,
+ <span class="name">Edmundum</span> (<span class="case">acc</span>) <a href="../cite/Edmundum/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 72</span></a>,
+ <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/Edmundus/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1419</span> <span class="name">Edmundum</span> (<span class="case">acc</span>) <a href="../cite/Edmundum/1419/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1436</span> <span class="name">Edmundo</span> (<span class="case">dat</span>) <a href="../cite/Edmundo/1436/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LIX</span></a>;
+ <span class="date">1482</span> <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1482/BreadBk"><span class="bib_key">BreadBk</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1482/3</span> <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1482s3/BreadBk"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1483</span> <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1483/BreadBk"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1485–1486</span> <span class="name">Edmundo</span> (<span class="case">abl</span>) <a href="../cite/Edmundo/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1553</span> <span class="name">Edmondus</span> (<span class="case">nom</span>) <a href="../cite/Edmondus/1553/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1560</span> <span class="name">Edmundus</span> (<span class="case">nom</span>) <a href="../cite/Edmundus/1560/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1575</span> <span class="name">Edmundi</span> (<span class="case">gen</span>) <a href="../cite/Edmundi/1575/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a></dd>
+<dt><span class="lang">Anglo-French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1321</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1321/EL-2"><span class="bib_key">EL-2</span> <span class="bib_loc">p. 108</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1428</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1428/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 79</span></a>;
+ <span class="date">1438</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1438/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 110</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1485</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1485/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXIX</span></a>;
+ <span class="date">1511</span> <span class="name">Edmonde</span> <a href="../cite/Edmonde/1511/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 74</span></a>;
+ <span class="date">1520</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1520/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 128</span></a>;
+ <span class="date">1528</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1528/SRS-XXI"><span class="bib_key">SRS-XXI</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1530</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Edmunde</span> <a href="../cite/Edmunde/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1531</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1531/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 127</span></a>;
+ <span class="date">1532–1533</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1532–1533/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 113</span></a>,
+ <span class="name">Edmonde</span> <a href="../cite/Edmonde/1532–1533/CovGuild-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1539</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1539/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 78</span></a>;
+ <span class="date">1542</span> <span class="name">Edmont</span> <a href="../cite/Edmont/1542/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1543</span> <span class="name">Edmonde</span> <a href="../cite/Edmonde/1543/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 75</span></a>,
+ <span class="name">Edmunde</span> <a href="../cite/Edmunde/1543/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 75</span></a>;
+ <span class="date">1544</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1544/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1545</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1545/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Edmond/1545/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Edmont</span> <a href="../cite/Edmont/1545/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 78</span></a>;
+ <span class="date">1546</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1546/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1547</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1547/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Edmond/1547/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1548</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1548/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 107</span></a>;
+ <span class="date">1549</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1549/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1550</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1550/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1554/5</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1554s5/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1554</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1554/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1555</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1555/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Edmond/1555/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1556</span> <span class="name">Edmonde</span> <a href="../cite/Edmonde/1556/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1557</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1557/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p.265</span></a>;
+ <span class="date">1558</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1558/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 133</span></a>,
+ <a href="../cite/Edmond/1558/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 109</span></a>,
+ <span class="name">Edmonde</span> <a href="../cite/Edmonde/1558/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 133</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1558/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 129</span></a>,
+ <span class="name">Emond</span> <a href="../cite/Emond/1558/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 132</span></a>;
+ <span class="date">1559</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1559/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Edmonde</span> <a href="../cite/Edmonde/1559/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1559/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/Edmund/1559/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1560</span> <span class="name">Edmonte</span> <a href="../cite/Edmonte/1560/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1561</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1561/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1561/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1562</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1562/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Edmonde</span> <a href="../cite/Edmonde/1562/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1562/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 15</span></a>,
+ <a href="../cite/Edmund/1562/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 108</span></a>,
+ <span class="name">Edmunde</span> <a href="../cite/Edmunde/1562/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1563</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1563/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/Edmund/1563/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1563/4</span> <span class="name">Edmunde</span> <a href="../cite/Edmunde/1563s4/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1565</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1565/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>,
+ <a href="../cite/Edmond/1565/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Edmonte</span> <a href="../cite/Edmonte/1565/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>;
+ <span class="date">1566</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1566/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1567</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1567/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 61</span></a>,
+ <a href="../cite/Edmond/1567/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 112</span></a>;
+ <span class="date">1568</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1568/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 84</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1568/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2b</span></a>,
+ <a href="../cite/Edmund/1568/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>,
+ <a href="../cite/Edmund/1568/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 112</span></a>;
+ <span class="date">1569</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1569/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1570</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1570/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1571</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1571/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 95</span></a>,
+ <a href="../cite/Edmond/1571/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Emond</span> <a href="../cite/Emond/1571/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1572</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1572/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 129</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1572/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1573</span> <span class="name">Edmonde</span> <a href="../cite/Edmonde/1573/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1573/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Edmund/1573/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1575</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1575/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1575/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1576</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1576/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/Edmond/1576/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1577</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1577/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 96</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1577/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Edmunde</span> <a href="../cite/Edmunde/1577/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1578</span> <span class="name">Edmonde</span> <a href="../cite/Edmonde/1578/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1580</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1580/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1581</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1581/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 30</span></a>,
+ <a href="../cite/Edmond/1581/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Edmond/1581/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1582</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1582/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1582/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1583</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1583/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Edmond/1583/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1583/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 108</span></a>,
+ <span class="name">Edmunde</span> <a href="../cite/Edmunde/1583/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Emunde</span> <a href="../cite/Emunde/1583/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1584</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1584/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Emunde</span> <a href="../cite/Emunde/1584/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1585</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1585/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1585/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1586</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1586/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1587</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1587/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1587/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1588</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1588/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1589</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1589/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1590</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1590/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1591</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1591/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1591/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1592</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1592/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 15</span></a>,
+ <a href="../cite/Edmond/1592/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>,
+ <a href="../cite/Edmond/1592/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1592/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1593</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1593/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1595</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1595/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>,
+ <a href="../cite/Edmond/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1596/7</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1596s7/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1596</span> <span class="name">Edmonde</span> <a href="../cite/Edmonde/1596/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 93</span></a>;
+ <span class="date">1597</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1597/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1598</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Edmund</span> <a href="../cite/Edmund/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1599</span> <span class="name">Edmond</span> <a href="../cite/Edmond/1599/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 17</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1540</span> <span class="name">Edmot</span> <a href="../cite/Edmot/1540/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Ödmunds</span> (<span class="case">gen</span>) <a href="../cite/Ödmunds/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 167</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Otmundus</span> (<span class="case">nom</span>) <a href="../cite/Otmundus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">49</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1487</span> <span class="name">Edmundum</span> (<span class="case">acc</span>) <a href="../cite/Edmundum/1487/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1501</span> <span class="name">Edmundo</span> (<span class="case">abl</span>) <a href="../cite/Edmundo/1501/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Edmundum</span> (<span class="case">acc</span>) <a href="../cite/Edmundum/1501/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1536</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1536/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1539/40</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1539s40/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">104</span></a>;
+ <span class="date">1539</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1539/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1540</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1540/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">111</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Ødmundus</span> (<span class="case">nom</span>) <a href="../cite/Ødmundus/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6014</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1406</span> <span class="name">Ödmunder</span> (<span class="case">nom</span>) <a href="../cite/Ödmunder/1406/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 16646</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1397</span> <span class="name">Edmundo</span> (<span class="case">dat</span>) <a href="../cite/Edmundo/1397/StDav-1"><span class="bib_key">StDav-1</span> <span class="bib_loc">p. 2</span></a></dd>
+<dt><span class="lang">Welsh</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Edmund</span> <a href="../cite/Edmund/1543/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 4</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, J. Uckelman, S.L. Uckelman. "Edmund". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Edmund.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

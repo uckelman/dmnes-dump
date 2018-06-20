@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Angela</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Angela</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>angelus</i> 'angel, messenger'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1552</span> <span class="name">Angella</span> (<span class="case">nom</span>) <a href="../cite/Angella/1552/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571</span> <span class="name">Angell</span> <a href="../cite/Angell/1571/bruton-vol1"><span class="bib_key">bruton-vol1</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1572</span> <span class="name">Angell</span> <a href="../cite/Angell/1572/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1574</span> <span class="name">Angell</span> <a href="../cite/Angell/1574/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1586</span> <span class="name">Angell</span> <a href="../cite/Angell/1586/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1591</span> <span class="name">Angell</span> <a href="../cite/Angell/1591/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1592</span> <span class="name">Angell</span> <a href="../cite/Angell/1592/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1596</span> <span class="name">Angell</span> <a href="../cite/Angell/1596/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1599</span> <span class="name">Angell</span> <a href="../cite/Angell/1599/bruton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1387</span> <span class="name">Angela</span> (<span class="case">nom</span>) <a href="../cite/Angela/1387/Venditti"><span class="bib_key">Venditti</span> <span class="bib_loc">II-2039</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Angela</span> (<span class="case">nom</span>) <a href="../cite/Angela/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 54, 66</span></a>;
+ <span class="date">1527</span> <span class="name">Angela</span> (<span class="case">nom</span>) <a href="../cite/Angela/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 87</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1163</span> <span class="name">Angelica</span> (<span class="case">abl</span>) <a href="../cite/Angelica/1163/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1521</span> <span class="name">Angelecta</span> (<span class="case">nom</span>) <a href="../cite/Angelecta/1521/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Angelica</span> (<span class="case">nom</span>) <a href="../cite/Angelica/1521/VitAs2"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Angelina</span> (<span class="case">nom</span>) <a href="../cite/Angelina/1521/VitAs2"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Angelella</span> (<span class="case">nom</span>) <a href="../cite/Angelella/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 53, 38</span></a>;
+ <span class="date">1527</span> <span class="name">Angeletta</span> (<span class="case">nom</span>) <a href="../cite/Angeletta/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 87</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Angela</span> <a href="../cite/Angela/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 14</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1487</span> <span class="name">Angelina</span> (<span class="case">nom</span>) <a href="../cite/Angelina/1487/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1488</span> <span class="name">Angelina</span> (<span class="case">nom</span>) <a href="../cite/Angelina/1488/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1489</span> <span class="name">Angelina</span> (<span class="case">nom</span>) <a href="../cite/Angelina/1489/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1490</span> <span class="name">Angelina</span> (<span class="case">nom</span>) <a href="../cite/Angelina/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Angelinae</span> (<span class="case">gen</span>) <a href="../cite/Angelinae/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1491</span> <span class="name">Angelina</span> (<span class="case">nom</span>) <a href="../cite/Angelina/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>,
+ <span class="name">Angelinæ</span> (<span class="case">gen</span>) <a href="../cite/Angelinæ/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1492</span> <span class="name">Angelina</span> (<span class="case">nom</span>) <a href="../cite/Angelina/1492/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 67</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Angela</span> <a href="../cite/Angela/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3270</span></a>,
+ <span class="name">Angla</span> <a href="../cite/Angla/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3511</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1510</span> <span class="name">Angelina</span> <a href="../cite/Angelina/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">4221</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Angela". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Angela.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

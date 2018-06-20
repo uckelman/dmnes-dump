@@ -1,0 +1,398 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>CartYonne1</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>CartYonne1</dt>
+  <dd>Maximilien Quantin, editor. <em>Cartulaire Général de l'Yonne</em>, volume 1. Auxerre: Perriquet, Imprimeur de la Sociéte, 1854.</dd>
+</dl>
+
+
+  <a href="../cite/Adalaida/1121/CartYonne1">Adalaida</a>
+
+  <a href="../cite/Adam/1125x1136/CartYonne1">Adam</a>
+
+  <a href="../cite/Ado/c680/CartYonne1">Ado</a>
+
+  <a href="../cite/Adriani/1156/CartYonne1">Adriani</a>
+
+  <a href="../cite/Adrianus/1156/CartYonne1">Adrianus</a>
+
+  <a href="../cite/Airulfo/519/CartYonne1">Airulfo</a>
+
+  <a href="../cite/Alano/1156/CartYonne1">Alano</a>
+
+  <a href="../cite/Alberti/1124/CartYonne1">Alberti</a>
+
+  <a href="../cite/Amalbertus/519/CartYonne1">Amalbertus</a>
+
+  <a href="../cite/Anselli/1156/CartYonne1">Anselli</a>
+
+  <a href="../cite/Ansellus/1156/CartYonne1">Ansellus</a>
+
+  <a href="../cite/Anselmi/1125x1136/CartYonne1">Anselmi</a>
+
+  <a href="../cite/Ansoldus/1156/CartYonne1">Ansoldus</a>
+
+  <a href="../cite/Arduino/1156/CartYonne1">Arduino</a>
+
+  <a href="../cite/Arnulfus/1123/CartYonne1">Arnulfus</a>
+
+  <a href="../cite/Ascelinus/1156/CartYonne1">Ascelinus</a>
+
+  <a href="../cite/Audoeno/657/CartYonne1">Audoeno</a>
+
+  <a href="../cite/Benedictus/1123/CartYonne1">Benedictus</a>
+
+  <a href="../cite/Bertoaldo/657/CartYonne1">Bertoaldo</a>
+
+  <a href="../cite/Bertofridus/657/CartYonne1">Bertofridus</a>
+
+  <a href="../cite/Boni-Amici/1125x1136/CartYonne1">Boni-Amici</a>
+
+  <a href="../cite/Boso/711/CartYonne1">Boso</a>
+
+  <a href="../cite/Calistus/1123/CartYonne1">Calistus</a>
+
+  <a href="../cite/Calixti/1123/CartYonne1">Calixti</a>
+
+  <a href="../cite/Chrodoberto/657/CartYonne1">Chrodoberto</a>
+
+  <a href="../cite/Chrodobertus/657/CartYonne1">Chrodobertus</a>
+
+  <a href="../cite/Claudius/c680/CartYonne1">Claudius</a>
+
+  <a href="../cite/Clotharii/657/CartYonne1">Clotharii</a>
+
+  <a href="../cite/Concessus/657/CartYonne1">Concessus</a>
+
+  <a href="../cite/Constantius/1123/CartYonne1">Constantius</a>
+
+  <a href="../cite/Dagoberti/634/CartYonne1">Dagoberti</a>
+
+  <a href="../cite/Dagoberti/711/CartYonne1">Dagoberti</a>
+
+  <a href="../cite/Dagoberto/634/CartYonne1">Dagoberto</a>
+
+  <a href="../cite/Damianus/1123/CartYonne1">Damianus</a>
+
+  <a href="../cite/Desiderius/1123/CartYonne1">Desiderius</a>
+
+  <a href="../cite/Dodo/1123/CartYonne1">Dodo</a>
+
+  <a href="../cite/Ebrardus/1123/CartYonne1">Ebrardus</a>
+
+  <a href="../cite/Ecreberti/519/CartYonne1">Ecreberti</a>
+
+  <a href="../cite/Elario/519/CartYonne1">Elario</a>
+
+  <a href="../cite/Emmo/657/CartYonne1">Emmo</a>
+
+  <a href="../cite/Erberti/1125x1136/CartYonne1">Erberti</a>
+
+  <a href="../cite/Ermenbertus/711/CartYonne1">Ermenbertus</a>
+
+  <a href="../cite/Fulco/1123/CartYonne1">Fulco</a>
+
+  <a href="../cite/Fulconis/1125x1136/CartYonne1">Fulconis</a>
+
+  <a href="../cite/Galteri/1156/CartYonne1">Galteri</a>
+
+  <a href="../cite/Garnerus/1156/CartYonne1">Garnerus</a>
+
+  <a href="../cite/Gaucherio/1156/CartYonne1">Gaucherio</a>
+
+  <a href="../cite/Gaufridus/1123/CartYonne1">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1156/CartYonne1">Gaufridus</a>
+
+  <a href="../cite/Gauterii/1123/CartYonne1">Gauterii</a>
+
+  <a href="../cite/Gauterius/1123/CartYonne1">Gauterius</a>
+
+  <a href="../cite/Gautiobertus/657/CartYonne1">Gautiobertus</a>
+
+  <a href="../cite/Gauzberto/657/CartYonne1">Gauzberto</a>
+
+  <a href="../cite/Gerardus/1156/CartYonne1">Gerardus</a>
+
+  <a href="../cite/Germani/c680/CartYonne1">Germani</a>
+
+  <a href="../cite/Germanus/c680/CartYonne1">Germanus</a>
+
+  <a href="../cite/Germanus/519/CartYonne1">Germanus</a>
+
+  <a href="../cite/Gervasii/1123/CartYonne1">Gervasii</a>
+
+  <a href="../cite/Girardus/1156/CartYonne1">Girardus</a>
+
+  <a href="../cite/Giraudus/1123/CartYonne1">Giraudus</a>
+
+  <a href="../cite/Gisleberti/1124/CartYonne1">Gisleberti</a>
+
+  <a href="../cite/Gofridus/1123/CartYonne1">Gofridus</a>
+
+  <a href="../cite/Goscelinus/1123/CartYonne1">Goscelinus</a>
+
+  <a href="../cite/Gregorio/c680/CartYonne1">Gregorio</a>
+
+  <a href="../cite/Gualdebertus/519/CartYonne1">Gualdebertus</a>
+
+  <a href="../cite/Guilenci/1125x1136/CartYonne1">Guilenci</a>
+
+  <a href="../cite/Guilencus/1125x1136/CartYonne1">Guilencus</a>
+
+  <a href="../cite/Guillelmi/1124/CartYonne1">Guillelmi</a>
+
+  <a href="../cite/Guillelmus/1121/CartYonne1">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1122x1139/CartYonne1">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1124/CartYonne1">Guillelmus</a>
+
+  <a href="../cite/Guinemarus/519/CartYonne1">Guinemarus</a>
+
+  <a href="../cite/Helie/1123/CartYonne1">Helie</a>
+
+  <a href="../cite/Henricus/1156/CartYonne1">Henricus</a>
+
+  <a href="../cite/Henricus/1122x1139/CartYonne1">Henricus</a>
+
+  <a href="../cite/Herbertus/1122x1139/CartYonne1">Herbertus</a>
+
+  <a href="../cite/Herbertus/1156/CartYonne1">Herbertus</a>
+
+  <a href="../cite/Hubertus/1123/CartYonne1">Hubertus</a>
+
+  <a href="../cite/Hughierius/657/CartYonne1">Hughierius</a>
+
+  <a href="../cite/Hugo/1123/CartYonne1">Hugo</a>
+
+  <a href="../cite/Hugo/1156/CartYonne1">Hugo</a>
+
+  <a href="../cite/Hugo/1125/CartYonne1">Hugo</a>
+
+  <a href="../cite/Hugo/1121/CartYonne1">Hugo</a>
+
+  <a href="../cite/Hugone/1123/CartYonne1">Hugone</a>
+
+  <a href="../cite/Hugonem/1123/CartYonne1">Hugonem</a>
+
+  <a href="../cite/Hugoni/1123/CartYonne1">Hugoni</a>
+
+  <a href="../cite/Hugonis/1121/CartYonne1">Hugonis</a>
+
+  <a href="../cite/Hugonis/1124/CartYonne1">Hugonis</a>
+
+  <a href="../cite/Hugonis/1123/CartYonne1">Hugonis</a>
+
+  <a href="../cite/Huonis/1156/CartYonne1">Huonis</a>
+
+  <a href="../cite/Jocelinus/1123/CartYonne1">Jocelinus</a>
+
+  <a href="../cite/Johannes/1123/CartYonne1">Johannes</a>
+
+  <a href="../cite/Johannes/657/CartYonne1">Johannes</a>
+
+  <a href="../cite/Jona/1123/CartYonne1">Jona</a>
+
+  <a href="../cite/Jonas/1123/CartYonne1">Jonas</a>
+
+  <a href="../cite/Josbertus/1123/CartYonne1">Josbertus</a>
+
+  <a href="../cite/Julianus/1123/CartYonne1">Julianus</a>
+
+  <a href="../cite/Lambertus/1123/CartYonne1">Lambertus</a>
+
+  <a href="../cite/Lanbertus/1123/CartYonne1">Lanbertus</a>
+
+  <a href="../cite/Leobaudus/1122x1139/CartYonne1">Leobaudus</a>
+
+  <a href="../cite/Leoberto/c680/CartYonne1">Leoberto</a>
+
+  <a href="../cite/Leoboldus/657/CartYonne1">Leoboldus</a>
+
+  <a href="../cite/Leotarius/711/CartYonne1">Leotarius</a>
+
+  <a href="../cite/Ludovico/1121/CartYonne1">Ludovico</a>
+
+  <a href="../cite/Ludovico/1156/CartYonne1">Ludovico</a>
+
+  <a href="../cite/Ludovico/1123/CartYonne1">Ludovico</a>
+
+  <a href="../cite/Ludovicus/1124/CartYonne1">Ludovicus</a>
+
+  <a href="../cite/Lugdovico/1123/CartYonne1">Lugdovico</a>
+
+  <a href="../cite/Lupus/657/CartYonne1">Lupus</a>
+
+  <a href="../cite/Magnetrude/c680/CartYonne1">Magnetrude</a>
+
+  <a href="../cite/Manasses/1156/CartYonne1">Manasses</a>
+
+  <a href="../cite/Margareta/1156/CartYonne1">Margareta</a>
+
+  <a href="../cite/Martinus/1123/CartYonne1">Martinus</a>
+
+  <a href="../cite/Mauricio/584/CartYonne1">Mauricio</a>
+
+  <a href="../cite/Maurinus/657/CartYonne1">Maurinus</a>
+
+  <a href="../cite/Odonis/1125x1136/CartYonne1">Odonis</a>
+
+  <a href="../cite/Ogerius/1123/CartYonne1">Ogerius</a>
+
+  <a href="../cite/Paganus/1122x1139/CartYonne1">Paganus</a>
+
+  <a href="../cite/Parisium/1156/CartYonne1">Parisium</a>
+
+  <a href="../cite/Pelagius/581/CartYonne1">Pelagius</a>
+
+  <a href="../cite/Pelagius/584/CartYonne1">Pelagius</a>
+
+  <a href="../cite/Petrus/1122x1139/CartYonne1">Petrus</a>
+
+  <a href="../cite/Petrus/1156/CartYonne1">Petrus</a>
+
+  <a href="../cite/Philippi/1123/CartYonne1">Philippi</a>
+
+  <a href="../cite/Pontii/1125x1136/CartYonne1">Pontii</a>
+
+  <a href="../cite/Ragnardo/519/CartYonne1">Ragnardo</a>
+
+  <a href="../cite/Ragnobertus/657/CartYonne1">Ragnobertus</a>
+
+  <a href="../cite/Rainaldi/1123/CartYonne1">Rainaldi</a>
+
+  <a href="../cite/Rainaldum/1123/CartYonne1">Rainaldum</a>
+
+  <a href="../cite/Rainaldus/1123/CartYonne1">Rainaldus</a>
+
+  <a href="../cite/Rainardo/1123/CartYonne1">Rainardo</a>
+
+  <a href="../cite/Rainardo/1124/CartYonne1">Rainardo</a>
+
+  <a href="../cite/Rainardus/1123/CartYonne1">Rainardus</a>
+
+  <a href="../cite/Rainaudus/1122x1139/CartYonne1">Rainaudus</a>
+
+  <a href="../cite/Renaudi/1125x1136/CartYonne1">Renaudi</a>
+
+  <a href="../cite/Ricardus/1123/CartYonne1">Ricardus</a>
+
+  <a href="../cite/Robertus/1123/CartYonne1">Robertus</a>
+
+  <a href="../cite/Rotgerius/1123/CartYonne1">Rotgerius</a>
+
+  <a href="../cite/Siguinus/1123/CartYonne1">Siguinus</a>
+
+  <a href="../cite/Simon/1122x1139/CartYonne1">Simon</a>
+
+  <a href="../cite/Stephani/1124/CartYonne1">Stephani</a>
+
+  <a href="../cite/Stephanus/1123/CartYonne1">Stephanus</a>
+
+  <a href="../cite/Stephanus/1122x1139/CartYonne1">Stephanus</a>
+
+  <a href="../cite/Tecia/1123/CartYonne1">Tecia</a>
+
+  <a href="../cite/Teobaudus/1122x1139/CartYonne1">Teobaudus</a>
+
+  <a href="../cite/Teodechildis/657/CartYonne1">Teodechildis</a>
+
+  <a href="../cite/Theodechilda/519/CartYonne1">Theodechilda</a>
+
+  <a href="../cite/Theodechildis/519/CartYonne1">Theodechildis</a>
+
+  <a href="../cite/Thome/1125x1136/CartYonne1">Thome</a>
+
+  <a href="../cite/Tiberio/581/CartYonne1">Tiberio</a>
+
+  <a href="../cite/Ulgerius/1123/CartYonne1">Ulgerius</a>
+
+  <a href="../cite/Umberti/1123/CartYonne1">Umberti</a>
+
+  <a href="../cite/Umbertus/1123/CartYonne1">Umbertus</a>
+
+  <a href="../cite/Ursus/1123/CartYonne1">Ursus</a>
+
+  <a href="../cite/Vigilius/c680/CartYonne1">Vigilius</a>
+
+  <a href="../cite/Vindemoldis/1123/CartYonne1">Vindemoldis</a>
+
+  <a href="../cite/Vualdebertus/519/CartYonne1">Vualdebertus</a>
+
+  <a href="../cite/Widonis/1125x1136/CartYonne1">Widonis</a>
+
+  <a href="../cite/Wilegmi/1123/CartYonne1">Wilegmi</a>
+
+  <a href="../cite/Wilegmo/1123/CartYonne1">Wilegmo</a>
+
+  <a href="../cite/Wilegmum/1123/CartYonne1">Wilegmum</a>
+
+  <a href="../cite/Wilegmus/1123/CartYonne1">Wilegmus</a>
+
+  <a href="../cite/Willelmus/1121/CartYonne1">Willelmus</a>
+
+  <a href="../cite/Willelmus/1124/CartYonne1">Willelmus</a>
+
+  <a href="../cite/Willelmus/1156/CartYonne1">Willelmus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>
