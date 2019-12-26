@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Alan</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Alan</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">Of uncertain origin. The most likely explanation is that it is from <span class="lang">Old Breton, Old Welsh</span> <i>alan</i> 'deer'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 9th C king of Brittany and a 15th C French saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name was introduced into England, and thence to Scotland, from Brittany via the Normans.</p>
+<p>The English forms <i>Alayn</i> and <i>Alyn</i> are witnessed in 1379 in the relational bynames <i>Alaynsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 159</span></span>) and <i>Alynsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 296</span></span>), and <i>Aleyn</i> and <i>Alyn</i> in 1482 in the relational bynames <i>Aleynson</i> (<span class="bibl"><span class="key">BreadBk</span> <span class="loc">p. 3</span></span>) and <i>Alynson</i> (<span class="bibl"><span class="key">BreadBk</span> <span class="loc">p. 5</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1181</span> <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1181/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 115</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 192</span></a>,
+ <span class="name">Alanum</span> (<span class="case">acc</span>) <a href="../cite/Alanum/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1189</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 161</span></a>,
+ <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 112</span></a>;
+ <span class="date">1194</span> <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1194/RotCur-vol1"><span class="bib_key">RotCur-vol1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1222</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1256</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Alanum</span> (<span class="case">acc</span>) <a href="../cite/Alanum/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Allanum</span> (<span class="case">acc</span>) <a href="../cite/Allanum/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1279–80</span> <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1296</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 95b</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Alannus</span> (<span class="case">nom</span>) <a href="../cite/Alannus/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1377</span> <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1379</span> <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1381</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 100</span></a>,
+ <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Alanus/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 77</span></a>,
+ <span class="name">Alyn</span> (<span class="case">nom</span>) <a href="../cite/Alyn/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1423</span> <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/1423/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">L</span></a>;
+ <span class="date">1485–1486</span> <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1558/9</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1558s9/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1569</span> <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1569/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a></dd>
+<dt><span class="lang">Anglo-French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1245–1250[1586]</span> <span class="name">Alayn</span> <a href="../cite/Alayn/1245–1250[1586]/Glover"><span class="bib_key">Glover</span> <span class="bib_loc">137</span></a>,
+ <span class="name">Aleyn</span> <a href="../cite/Aleyn/1245–1250[1586]/Glover"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1381</span> <span class="name">Aleynes</span> (<span class="case">gen</span>) <a href="../cite/Aleynes/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 135</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1485</span> <span class="name">Aleyne</span> <a href="../cite/Aleyne/1485/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXIX</span></a>;
+ <span class="date">1530</span> <span class="name">Alan</span> <a href="../cite/Alan/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Alane</span> <a href="../cite/Alane/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1530/31</span> <span class="name">Alen</span> <a href="../cite/Alen/1530s31/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 96</span></a>;
+ <span class="date">1550</span> <span class="name">Allen</span> <a href="../cite/Allen/1550/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1551</span> <span class="name">Alen</span> <a href="../cite/Alen/1551/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1554</span> <span class="name">Allen</span> <a href="../cite/Allen/1554/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1555</span> <span class="name">Allen</span> <a href="../cite/Allen/1555/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1559</span> <span class="name">Alen</span> <a href="../cite/Alen/1559/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1561</span> <span class="name">Allen</span> <a href="../cite/Allen/1561/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1562</span> <span class="name">Allen</span> <a href="../cite/Allen/1562/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1563</span> <span class="name">Allen</span> <a href="../cite/Allen/1563/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1564</span> <span class="name">Allein</span> <a href="../cite/Allein/1564/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Allen</span> <a href="../cite/Allen/1564/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1566</span> <span class="name">Allen</span> <a href="../cite/Allen/1566/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1568</span> <span class="name">Allen</span> <a href="../cite/Allen/1568/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1570</span> <span class="name">Alen</span> <a href="../cite/Alen/1570/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="name">Allen</span> <a href="../cite/Allen/1570/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1572</span> <span class="name">Allen</span> <a href="../cite/Allen/1572/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1574</span> <span class="name">Allan</span> <a href="../cite/Allan/1574/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1576</span> <span class="name">Allen</span> <a href="../cite/Allen/1576/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1577</span> <span class="name">Allen</span> <a href="../cite/Allen/1577/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1578</span> <span class="name">Allen</span> <a href="../cite/Allen/1578/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 84</span></a>;
+ <span class="date">1585</span> <span class="name">Allyn</span> <a href="../cite/Allyn/1585/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1588</span> <span class="name">Allyn</span> <a href="../cite/Allyn/1588/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p.16</span></a>;
+ <span class="date">1594</span> <span class="name">Allen</span> <a href="../cite/Allen/1594/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1371</span> <span class="name">Alain</span> <a href="../cite/Alain/1371/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 41</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1147</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/c1147/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXII</span></a>;
+ <span class="date">a1163</span> <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/a1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1164</span> <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1180</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1207</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1207/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXIX</span></a>,
+ <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1207/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXIX</span></a>;
+ <span class="date">1304</span> <span class="name">Alanum</span> (<span class="case">acc</span>) <a href="../cite/Alanum/1304/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXVI</span></a>;
+ <span class="date">1378</span> <span class="name">Alano</span> (<span class="case">dat</span>) <a href="../cite/Alano/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1059</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1295</span> <span class="name">Alain</span> (<span class="case">obl</span>) <a href="../cite/Alain/1295/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 128</span></a>;
+ <span class="date">1296</span> <span class="name">Alain</span> <a href="../cite/Alain/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1313</span> <span class="name">Alain</span> <a href="../cite/Alain/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Alein</span> <a href="../cite/Alein/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1386</span> <span class="name">Alain</span> <a href="../cite/Alain/1386/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 513</span></a>;
+ <span class="date">1392</span> <span class="name">Alain</span> <a href="../cite/Alain/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 615</span></a>;
+ <span class="date">1393</span> <span class="name">Alain</span> <a href="../cite/Alain/1393/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 622</span></a>;
+ <span class="date">1415[1469x1471]</span> <span class="name">Allain</span> <a href="../cite/Allain/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 225</span></a>;
+ <span class="date">1418</span> <span class="name">Alain</span> <a href="../cite/Alain/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 204</span></a>,
+ <a href="../cite/Alain/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 380</span></a>;
+ <span class="date">1421</span> <span class="name">Alain</span> <a href="../cite/Alain/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1207</span></a>;
+ <span class="date">1561</span> <span class="name">Alain</span> <a href="../cite/Alain/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1565</span> <span class="name">Alain</span> <a href="../cite/Alain/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 139</span></a>,
+ <span class="name">Allain</span> <a href="../cite/Allain/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 123</span></a>;
+ <span class="date">1566</span> <span class="name">Allain</span> <a href="../cite/Allain/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 196</span></a>;
+ <span class="date">1567</span> <span class="name">Allain</span> <a href="../cite/Allain/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 326</span></a>;
+ <span class="date">1568</span> <span class="name">Allain</span> <a href="../cite/Allain/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 389</span></a>;
+ <span class="date">1571</span> <span class="name">Allain</span> <a href="../cite/Allain/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 442</span></a>;
+ <span class="date">1587</span> <span class="name">Alain</span> <a href="../cite/Alain/1587/RTFProvins"><span class="bib_key">RTFProvins</span> <span class="bib_loc">270</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Alan</span> (<span class="case">nom</span>) <a href="../cite/Alan/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 20</span></a>,
+ <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 12</span></a>;
+ <span class="date">c1456</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/c1456/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1479</span> <span class="name">Alanum</span> (<span class="case">acc</span>) <a href="../cite/Alanum/1479/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">22</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1156</span> <span class="name">Alano</span> (<span class="case">dat</span>) <a href="../cite/Alano/1156/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CCLXXX</span></a>;
+ <span class="date">1376</span> <span class="name">Alaono</span> (<span class="case">abl</span>) <a href="../cite/Alaono/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 131</span></a>,
+ <span class="name">Allaono</span> (<span class="case">abl</span>) <a href="../cite/Allaono/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>,
+ <span class="name">Allaonus</span> (<span class="case">nom</span>) <a href="../cite/Allaonus/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 231</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">a1286</span> <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/a1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">3</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1124</span> <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1124/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">L</span></a>;
+ <span class="date">a1200</span> <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/a1200/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1214–26</span> <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/1214–26/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1235</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1235/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/1235/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1238</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1238/CartStAndrew"><span class="bib_key">CartStAndrew</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1376</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Alano</span> (<span class="case">dat</span>) <a href="../cite/Alano/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">c1377</span> <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/c1377/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1377</span> <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1377/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1381x1388</span> <span class="name">Alano</span> (<span class="case">dat</span>) <a href="../cite/Alano/1381x1388/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">[p. xxxvii]</span></a>;
+ <span class="date">1384</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1384/CartLevenax"><span class="bib_key">CartLevenax</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1387</span> <span class="name">Alani</span> (<span class="case">gen</span>) <a href="../cite/Alani/1387/CartLevenax"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1414</span> <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/1414/REG-II"><span class="bib_key">REG-II</span> <span class="bib_loc">324</span></a>;
+ <span class="date">1425</span> <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/1425/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">27</span></a>;
+ <span class="date">1426</span> <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/1426/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>;
+ <span class="date">1427</span> <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/1427/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">90</span></a>,
+ <span class="name">Alanus</span> (<span class="case">nom</span>) <a href="../cite/Alanus/1427/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">90</span></a>;
+ <span class="date">1428</span> <span class="name">Alano</span> (<span class="case">abl</span>) <a href="../cite/Alano/1428/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">110</span></a>;
+ <span class="date">1578</span> <span class="name">Allanus</span> (<span class="case">nom</span>) <a href="../cite/Allanus/1578/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">15</span></a></dd>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">●</span> <span class="date">1427</span> <span class="name">Alan</span> <a href="../cite/Alan/1427/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">89</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Alan". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Alan.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

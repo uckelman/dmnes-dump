@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Edgar</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Edgar</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>ēad</i>, <span class="lang">Old High German</span> <i>ōt</i>, <span class="lang">Old Saxon</span> <i>ōd</i> 'riches, wealth' + <span class="lang">Old English</span> <i>gār</i>, <span class="lang">Old High German</span>, <span class="lang">Old Saxon</span> <i>gēr</i> 'spear'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 10th C king of England, an 11th C (uncrowned) king of England, and an 11th-12th C king of the Scots.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The German form <i>Otger</i> can sometimes be confused with <a class="nym" href="Ottokar">Ottokar</a>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1086</span> <span class="name">Otgarii</span> (<span class="case">gen</span>) <a href="../cite/Otgarii/1086/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">85</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Ogier</span> (<span class="case">nom</span>) <a href="../cite/Ogier/1376/RSG1376-89"><span class="bib_key">RSG1376-89</span> <span class="bib_loc">p. 1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1358</span> <span class="name">Ogerius</span> (<span class="case">nom</span>) <a href="../cite/Ogerius/1358/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">393, p. 36</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">966</span> <span class="name">Eadgar</span> (<span class="case">nom</span>) <a href="../cite/Eadgar/966/CDAS"><span class="bib_key">CDAS</span> <span class="bib_loc">DXXIX</span></a>,
+ <span class="name">Eadgari</span> (<span class="case">gen</span>) <a href="../cite/Eadgari/966/CDAS"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXVIII</span></a>,
+ <span class="name">Eadgaro</span> (<span class="case">abl</span>) <a href="../cite/Eadgaro/966/CDAS"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXIX</span></a>,
+ <span class="name">Eadgarus</span> (<span class="case">nom</span>) <a href="../cite/Eadgarus/966/CDAS"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXVIII</span></a>;
+ <span class="date">967</span> <span class="name">Eadgar</span> (<span class="case">nom</span>) <a href="../cite/Eadgar/967/CDAS"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXXII</span></a>,
+ <span class="name">Eadgarus</span> (<span class="case">nom</span>) <a href="../cite/Eadgarus/967/CDAS"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXXII</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Ædgari</span> (<span class="case">gen</span>) <a href="../cite/Ædgari/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1222</span> <span class="name">Edgarii</span> (<span class="case">gen</span>) <a href="../cite/Edgarii/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Edgaro</span> (<span class="case">abl</span>) <a href="../cite/Edgaro/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Ogerus</span> (<span class="case">nom</span>) <a href="../cite/Ogerus/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>,
+ <span class="name">adgari</span> (<span class="case">gen</span>) <a href="../cite/adgari/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a>,
+ <span class="name">edgari</span> (<span class="case">gen</span>) <a href="../cite/edgari/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 63</span></a>;
+ <span class="date">1357</span> <span class="name">Ogero</span> (<span class="case">abl</span>) <a href="../cite/Ogero/1357/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 22</span></a></dd>
+<dt><span class="lang">Old English</span></dt>
+<dd><span class="dim">●</span> <span class="date">966</span> <span class="name">Eádgáres</span> (<span class="case">gen</span>) <a href="../cite/Eádgáres/966/CDAS"><span class="bib_key">CDAS</span> <span class="bib_loc">DXXX</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Otgarius</span> (<span class="case">nom</span>) <a href="../cite/Otgarius/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">3, CE</span></a>;
+ <span class="date">952x993</span> <span class="name">Otgerius</span> (<span class="case">nom</span>) <a href="../cite/Otgerius/952x993/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">132</span></a>;
+ <span class="date">c1010</span> <span class="name">Otgerii</span> (<span class="case">gen</span>) <a href="../cite/Otgerii/c1010/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">5</span></a>,
+ <span class="name">Otgerius</span> (<span class="case">nom</span>) <a href="../cite/Otgerius/c1010/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1013</span> <span class="name">Otgerii</span> (<span class="case">gen</span>) <a href="../cite/Otgerii/1013/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1047</span> <span class="name">Otgerii</span> (<span class="case">gen</span>) <a href="../cite/Otgerii/1047/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1064</span> <span class="name">Otgerio</span> (<span class="case">abl</span>) <a href="../cite/Otgerio/1064/LDS"><span class="bib_key">LDS</span> <span class="bib_loc">CXI</span></a>;
+ <span class="date">1123</span> <span class="name">Ogerius</span> (<span class="case">nom</span>) <a href="../cite/Ogerius/1123/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXVI</span></a>;
+ <span class="date">1135</span> <span class="name">Ogerus</span> (<span class="case">nom</span>) <a href="../cite/Ogerus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1166</span> <span class="name">Ogerius</span> (<span class="case">nom</span>) <a href="../cite/Ogerius/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">130</span></a>;
+ <span class="date">1180</span> <span class="name">Ogero</span> (<span class="case">abl</span>) <a href="../cite/Ogero/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1257</span> <span class="name">Ogerii</span> (<span class="case">gen</span>) <a href="../cite/Ogerii/1257/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">V, Candlemas</span></a>;
+ <span class="date">1273</span> <span class="name">Ogeri</span> (<span class="case">gen</span>) <a href="../cite/Ogeri/1273/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XLIII</span></a>;
+ <span class="date">1378</span> <span class="name">Ogerii</span> (<span class="case">gen</span>) <a href="../cite/Ogerii/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1711</span></a>,
+ <span class="name">Ogierii</span> (<span class="case">gen</span>) <a href="../cite/Ogierii/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">373</span></a>;
+ <span class="date">1038x?</span> <span class="name">Otgerii</span> (<span class="case">gen</span>) <a href="../cite/Otgerii/1038x?/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">122</span></a>,
+ <span class="name">Otgerius</span> (<span class="case">nom</span>) <a href="../cite/Otgerius/1038x?/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">122</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Ogier</span> <a href="../cite/Ogier/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 57</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1364</span> <span class="name">Ogier</span> <a href="../cite/Ogier/1364/ActsCharlesV"><span class="bib_key">ActsCharlesV</span> <span class="bib_loc">no. 150</span></a>;
+ <span class="date">1364/5</span> <span class="name">Ogier</span> <a href="../cite/Ogier/1364s5/ActsCharlesV"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 168</span></a>;
+ <span class="date">1368</span> <span class="name">Ogier</span> <a href="../cite/Ogier/1368/beauchet-vol1"><span class="bib_key">beauchet-vol1</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1392</span> <span class="name">Ogier</span> <a href="../cite/Ogier/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 612</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">815</span> <span class="name">Adgerio</span> (<span class="case">abl</span>) <a href="../cite/Adgerio/815/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">III</span></a>;
+ <span class="date">834</span> <span class="name">Otgario</span> (<span class="case">abl</span>) <a href="../cite/Otgario/834/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">842</span> <span class="name">Otgario</span> (<span class="case">abl</span>) <a href="../cite/Otgario/842/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">847</span> <span class="name">Otgario</span> (<span class="case">abl</span>) <a href="../cite/Otgario/847/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">864</span> <span class="name">Otgario</span> (<span class="case">abl</span>) <a href="../cite/Otgario/864/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1212</span> <span class="name">Ogerus</span> (<span class="case">nom</span>) <a href="../cite/Ogerus/1212/CLI"><span class="bib_key">CLI</span> <span class="bib_loc">p. 149</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1093x1097</span> <span class="name">Edgaro</span> (<span class="case">abl</span>) <a href="../cite/Edgaro/1093x1097/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1094</span> <span class="name">Eadgari</span> (<span class="case">nom</span>) <a href="../cite/Eadgari/1094/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1095</span> <span class="name">Edgari</span> (<span class="case">gen</span>) <a href="../cite/Edgari/1095/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XV</span></a>,
+ <span class="name">Edgarus</span> (<span class="case">nom</span>) <a href="../cite/Edgarus/1095/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XV</span></a>,
+ <span class="name">Egari</span> (<span class="case">gen</span>) <a href="../cite/Egari/1095/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XV</span></a>;
+ <span class="date">1095x1100</span> <span class="name">Eadgarus</span> (<span class="case">nom</span>) <a href="../cite/Eadgarus/1095x1100/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">1097x1107</span> <span class="name">Edgarus</span> (<span class="case">nom</span>) <a href="../cite/Edgarus/1097x1107/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII</span></a>;
+ <span class="date">c1098</span> <span class="name">Edgarus</span> (<span class="case">nom</span>) <a href="../cite/Edgarus/c1098/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVIII</span></a>;
+ <span class="date">c1100</span> <span class="name">Eadgarus</span> (<span class="case">nom</span>) <a href="../cite/Eadgarus/c1100/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>,
+ <span class="name">Edgarus</span> (<span class="case">nom</span>) <a href="../cite/Edgarus/c1100/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">c1105</span> <span class="name">Ædgari</span> (<span class="case">gen</span>) <a href="../cite/Ædgari/c1105/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIV</span></a>,
+ <span class="name">Ædgarus</span> (<span class="case">nom</span>) <a href="../cite/Ædgarus/c1105/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIV</span></a>;
+ <span class="date">1107x1117</span> <span class="name">Eadgarus</span> (<span class="case">nom</span>) <a href="../cite/Eadgarus/1107x1117/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">c1110</span> <span class="name">Eadgari</span> (<span class="case">gen</span>) <a href="../cite/Eadgari/c1110/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVI</span></a>;
+ <span class="date">c1117</span> <span class="name">Eadgarus</span> (<span class="case">nom</span>) <a href="../cite/Eadgarus/c1117/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIX</span></a>;
+ <span class="date">1118</span> <span class="name">Eadgari</span> (<span class="case">gen</span>) <a href="../cite/Eadgari/1118/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">c1118</span> <span class="name">Eadgari</span> (<span class="case">gen</span>) <a href="../cite/Eadgari/c1118/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1118</span> <span class="name">Eadgarus</span> (<span class="case">nom</span>) <a href="../cite/Eadgarus/1118/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1012</span> <span class="name">Odger</span> (<span class="case">nom</span>) <a href="../cite/Odger/1012/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCLXXI</span></a>;
+ <span class="date">1020</span> <span class="name">Odegario</span> (<span class="case">nom</span>) <a href="../cite/Odegario/1020/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXV</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Edgar". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Edgar.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

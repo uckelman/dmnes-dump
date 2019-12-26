@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Ado</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Ado</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A hypocoristic of any of various names beginning with <span class="lang">Old High German</span> <i>adal</i> 'noble'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 9th C Frankish saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The double diminutive <i>Ascelin</i> outstripped the root form in popularity by the 12th C or so.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">798</span> <span class="name">Attoni</span> (<span class="case">dat</span>) <a href="../cite/Attoni/798/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">2</span></a>;
+ <span class="date">928</span> <span class="name">Azo</span> (<span class="case">nom</span>) <a href="../cite/Azo/928/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1107</span> <span class="name">Ascelinus</span> (<span class="case">nom</span>) <a href="../cite/Ascelinus/1107/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">3</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1222</span> <span class="name">azonis</span> (<span class="case">gen</span>) <a href="../cite/azonis/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 6</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1189</span> <span class="name">Acelinus</span> (<span class="case">nom</span>) <a href="../cite/Acelinus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 230</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c680</span> <span class="name">Ado</span> (<span class="case">nom</span>) <a href="../cite/Ado/c680/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">VIII</span></a>,
+ <span class="name">Attone</span> (<span class="case">abl</span>) <a href="../cite/Attone/c680/CartYonne1"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">c823</span> <span class="name">Ado</span> (<span class="case">nom</span>) <a href="../cite/Ado/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">33, Ved</span></a>;
+ <span class="date">10thC</span> <span class="name">Adonis</span> (<span class="case">gen</span>) <a href="../cite/Adonis/10thC/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">134</span></a>;
+ <span class="date">11thC</span> <span class="name">Ado</span> (<span class="case">nom</span>) <a href="../cite/Ado/11thC/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 112</span></a>,
+ <span class="name">Adonis</span> (<span class="case">gen</span>) <a href="../cite/Adonis/11thC/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">135</span></a>;
+ <span class="date">c11thC</span> <span class="name">Adono</span> (<span class="case">abl</span>) <a href="../cite/Adono/c11thC/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 91</span></a>;
+ <span class="date">1031</span> <span class="name">Addonis</span> (<span class="case">gen</span>) <a href="../cite/Addonis/1031/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 107</span></a>;
+ <span class="date">1046</span> <span class="name">Adonis</span> (<span class="case">gen</span>) <a href="../cite/Adonis/1046/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">139</span></a>;
+ <span class="date">1047</span> <span class="name">Azonis</span> (<span class="case">gen</span>) <a href="../cite/Azonis/1047/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1050</span> <span class="name">Addonis</span> (<span class="case">gen</span>) <a href="../cite/Addonis/1050/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 100</span></a>;
+ <span class="date">1088x1119</span> <span class="name">Adonis</span> (<span class="case">gen</span>) <a href="../cite/Adonis/1088x1119/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 149</span></a>;
+ <span class="date">1115</span> <span class="name">Ado</span> (<span class="case">nom</span>) <a href="../cite/Ado/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1121</span> <span class="name">Ado</span> (<span class="case">nom</span>) <a href="../cite/Ado/1121/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1123</span> <span class="name">Atonem</span> (<span class="case">acc</span>) <a href="../cite/Atonem/1123/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXVI</span></a>,
+ <span class="name">Atto</span> (<span class="case">nom</span>) <a href="../cite/Atto/1123/CartYonne1"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXXIV</span></a>;
+ <span class="date">1135</span> <span class="name">Ado</span> (<span class="case">nom</span>) <a href="../cite/Ado/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1136</span> <span class="name">Atho</span> (<span class="case">nom</span>) <a href="../cite/Atho/1136/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Aszo</span> (<span class="case">nom</span>) <a href="../cite/Aszo/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">61</span></a>;
+ <span class="date">1147</span> <span class="name">Addo</span> (<span class="case">nom</span>) <a href="../cite/Addo/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Atino</span> (<span class="case">abl</span>) <a href="../cite/Atino/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1164</span> <span class="name">Ado</span> (<span class="case">nom</span>) <a href="../cite/Ado/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">122</span></a>;
+ <span class="date">1267</span> <span class="name">Aco</span> (<span class="case">nom</span>) <a href="../cite/Aco/1267/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-II</span></a>;
+ <span class="date">1273</span> <span class="name">Atho</span> (<span class="case">nom</span>) <a href="../cite/Atho/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Ato</span> (<span class="case">nom</span>) <a href="../cite/Ato/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1274</span> <span class="name">Atho</span> (<span class="case">nom</span>) <a href="../cite/Atho/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Athone</span> (<span class="case">abl</span>) <a href="../cite/Athone/1274/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1275</span> <span class="name">Atho</span> (<span class="case">nom</span>) <a href="../cite/Atho/1275/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1029x1033</span> <span class="name">Ascelinus</span> (<span class="case">nom</span>) <a href="../cite/Ascelinus/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1070</span> <span class="name">Ascelinus</span> (<span class="case">nom</span>) <a href="../cite/Ascelinus/1070/LDS"><span class="bib_key">LDS</span> <span class="bib_loc">appendix, XXIX</span></a>;
+ <span class="date">1115</span> <span class="name">Acelino</span> (<span class="case">abl</span>) <a href="../cite/Acelino/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1147</span> <span class="name">Acelinus</span> (<span class="case">nom</span>) <a href="../cite/Acelinus/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Ascelini</span> (<span class="case">gen</span>) <a href="../cite/Ascelini/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Ascelinus</span> (<span class="case">nom</span>) <a href="../cite/Ascelinus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1173</span> <span class="name">Ascelinus</span> (<span class="case">nom</span>) <a href="../cite/Ascelinus/1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">155</span></a>;
+ <span class="date">1174</span> <span class="name">Ascelinus</span> (<span class="case">nom</span>) <a href="../cite/Ascelinus/1174/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">161</span></a>;
+ <span class="date">c1175–1180</span> <span class="name">Ascelinus</span> (<span class="case">nom</span>) <a href="../cite/Ascelinus/c1175–1180/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 67</span></a>;
+ <span class="date">1179</span> <span class="name">Accelinus</span> (<span class="case">nom</span>) <a href="../cite/Accelinus/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">173</span></a>,
+ <span class="name">Acelini</span> (<span class="case">gen</span>) <a href="../cite/Acelini/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">181</span></a>,
+ <span class="name">Acelinus</span> (<span class="case">nom</span>) <a href="../cite/Acelinus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>,
+ <span class="name">Ecelinus</span> (<span class="case">nom</span>) <a href="../cite/Ecelinus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">181</span></a>;
+ <span class="date">1180</span> <span class="name">Ascelino</span> (<span class="case">abl</span>) <a href="../cite/Ascelino/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1268</span> <span class="name">Ascelinus</span> (<span class="case">nom</span>) <a href="../cite/Ascelinus/1268/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-V</span></a>;
+ <span class="date">1269</span> <span class="name">Ascelinus</span> (<span class="case">nom</span>) <a href="../cite/Ascelinus/1269/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-III</span></a>;
+ <span class="date">1378</span> <span class="name">Ascelino</span> (<span class="case">dat</span>) <a href="../cite/Ascelino/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">551</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">802</span> <span class="name">Attonem</span> (<span class="case">acc</span>) <a href="../cite/Attonem/802/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">8</span></a>,
+ <span class="name">Attoni</span> (<span class="case">dat</span>) <a href="../cite/Attoni/802/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Attonis</span> (<span class="case">gen</span>) <a href="../cite/Attonis/802/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">816</span> <span class="name">Atto</span> (<span class="case">nom</span>) <a href="../cite/Atto/816/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>;
+ <span class="date">822x875</span> <span class="name">Ati</span> (<span class="case">abl</span>) <a href="../cite/Ati/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§133</span></a>;
+ <span class="date">948</span> <span class="name">Azzonis</span> (<span class="case">gen</span>) <a href="../cite/Azzonis/948/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XXXV</span></a>;
+ <span class="date">1020</span> <span class="name">Azo</span> (<span class="case">nom</span>) <a href="../cite/Azo/1020/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">58</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Ace</span> (<span class="case">nom</span>) <a href="../cite/Ace/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 6</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">fin12thC</span> <span class="name">Asilini</span> (<span class="case">gen</span>) <a href="../cite/Asilini/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 14</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Israel</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1120</span> <span class="name">Ado</span> (<span class="case">nom</span>) <a href="../cite/Ado/1120/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VIII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">770</span> <span class="name">Attoni</span> (<span class="case">dat</span>) <a href="../cite/Attoni/770/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1100</span> <span class="name">Azo</span> (<span class="case">nom</span>) <a href="../cite/Azo/1100/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">629</span></a>;
+ <span class="date">1138</span> <span class="name">Azo</span> (<span class="case">nom</span>) <a href="../cite/Azo/1138/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 331</span></a>;
+ <span class="date">1142</span> <span class="name">Attone</span> (<span class="case">abl</span>) <a href="../cite/Attone/1142/HAP"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 332</span></a>;
+ <span class="date">1195</span> <span class="name">Azonis</span> (<span class="case">gen</span>) <a href="../cite/Azonis/1195/ChStBo1"><span class="bib_key">ChStBo1</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1198</span> <span class="name">Azone</span> (<span class="case">abl</span>) <a href="../cite/Azone/1198/ChStBo1"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1236</span> <span class="name">Açonis</span> (<span class="case">gen</span>) <a href="../cite/Açonis/1236/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">6</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1092</span> <span class="name">Azolino</span> (<span class="case">nom</span>) <a href="../cite/Azolino/1092/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">565</span></a>;
+ <span class="date">1156</span> <span class="name">Ascelinus</span> (<span class="case">nom</span>) <a href="../cite/Ascelinus/1156/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CCLXXX</span></a>;
+ <span class="date">1164</span> <span class="name">Azotto</span> (<span class="case">abl</span>) <a href="../cite/Azotto/1164/SDE3"><span class="bib_key">SDE3</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Azottum</span> (<span class="case">acc</span>) <a href="../cite/Azottum/1164/SDE3"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Atulini</span> (<span class="case">gen</span>) <a href="../cite/Atulini/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">292</span></a>;
+ <span class="date">1368</span> <span class="name">Aczolino</span> (<span class="case">abl</span>) <a href="../cite/Aczolino/1368/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">232</span></a>;
+ <span class="date">1376</span> <span class="name">Acelino</span> (<span class="case">abl</span>) <a href="../cite/Acelino/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 18</span></a>,
+ <span class="name">Acelinus</span> (<span class="case">nom</span>) <a href="../cite/Acelinus/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 218</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">834</span> <span class="name">Addo</span> (<span class="case">nom</span>) <a href="../cite/Addo/834/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 30</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1135x1185</span> <span class="name">Ado</span> (<span class="case">nom</span>) <a href="../cite/Ado/1135x1185/CartChart"><span class="bib_key">CartChart</span> <span class="bib_loc">1</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Ado". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Ado.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Roberta</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Roberta</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Fem. of <a class="nym" href="Robert">Robert</a>.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1564</span> <span class="name">Robert</span> <a href="../cite/Robert/1564/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 90</span></a>;
+ <span class="date">1571</span> <span class="name">Robert</span> <a href="../cite/Robert/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 592</span></a>;
+ <span class="date">1572</span> <span class="name">Roberte</span> <a href="../cite/Roberte/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 669</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1455</span> <span class="name">Robinette</span> <a href="../cite/Robinette/1455/HRAVP-3"><span class="bib_key">HRAVP-3</span> <span class="bib_loc">p. 354</span></a>;
+ <span class="date">1562</span> <span class="name">Robin</span> <a href="../cite/Robin/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Robine</span> <a href="../cite/Robine/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1563</span> <span class="name">Robine</span> <a href="../cite/Robine/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1564</span> <span class="name">Robine</span> <a href="../cite/Robine/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1565</span> <span class="name">Robine</span> <a href="../cite/Robine/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 110</span></a>;
+ <span class="date">1566</span> <span class="name">Robine</span> <a href="../cite/Robine/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 199</span></a>;
+ <span class="date">1567</span> <span class="name">Robine</span> <a href="../cite/Robine/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 279</span></a>;
+ <span class="date">1568</span> <span class="name">Robine</span> <a href="../cite/Robine/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 363</span></a>;
+ <span class="date">1570</span> <span class="name">Robine</span> <a href="../cite/Robine/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 422</span></a>;
+ <span class="date">1571</span> <span class="name">Robine</span> <a href="../cite/Robine/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 454</span></a>;
+ <span class="date">1572</span> <span class="name">Robine</span> <a href="../cite/Robine/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 493</span></a>,
+ <span class="name">Robinne</span> <a href="../cite/Robinne/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 500</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1522x1532</span> <span class="name">Roberta</span> (<span class="case">nom</span>) <a href="../cite/Roberta/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 56, 7</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Roberta". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Roberta.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

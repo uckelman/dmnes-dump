@@ -1,0 +1,432 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>DCEL-2</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>DCEL-2</dt>
+  <dd>J. M. Pardessus, editor. <em>Diplomata, Chartae, Epistolae, Leges, aliaque Instrumenta ad Res Gallo-Francicas Spectantia</em>, volume 2. Lutetiae Parisiorum: Ex Typographeo Reipublicae, 1849.</dd>
+</dl>
+
+
+  <a href="../cite/Aaginbodi/699/DCEL-2">Aaginbodi</a>
+
+  <a href="../cite/Adalberti/693/DCEL-2">Adalberti</a>
+
+  <a href="../cite/Adalgarius/699/DCEL-2">Adalgarius</a>
+
+  <a href="../cite/Adalgisi/695/DCEL-2">Adalgisi</a>
+
+  <a href="../cite/Adalgisi/693/DCEL-2">Adalgisi</a>
+
+  <a href="../cite/Adalgisi/694/DCEL-2">Adalgisi</a>
+
+  <a href="../cite/Adalgisi/696/DCEL-2">Adalgisi</a>
+
+  <a href="../cite/Adalgisus/695/DCEL-2">Adalgisus</a>
+
+  <a href="../cite/Adalmunt/695/DCEL-2">Adalmunt</a>
+
+  <a href="../cite/Adalrammi/693/DCEL-2">Adalrammi</a>
+
+  <a href="../cite/Adalramni/696/DCEL-2">Adalramni</a>
+
+  <a href="../cite/Adalrico/697/DCEL-2">Adalrico</a>
+
+  <a href="../cite/Adalricus/657/DCEL-2">Adalricus</a>
+
+  <a href="../cite/Adalricus/697/DCEL-2">Adalricus</a>
+
+  <a href="../cite/Adalsinda/657/DCEL-2">Adalsinda</a>
+
+  <a href="../cite/Adalsindæ/657/DCEL-2">Adalsindæ</a>
+
+  <a href="../cite/Adebertus/658/DCEL-2">Adebertus</a>
+
+  <a href="../cite/Aga/657/DCEL-2">Aga</a>
+
+  <a href="../cite/Agone/658/DCEL-2">Agone</a>
+
+  <a href="../cite/Agoni/658/DCEL-2">Agoni</a>
+
+  <a href="../cite/Aino/700/DCEL-2">Aino</a>
+
+  <a href="../cite/Allo/657/DCEL-2">Allo</a>
+
+  <a href="../cite/Allo/695/DCEL-2">Allo</a>
+
+  <a href="../cite/Allone/695/DCEL-2">Allone</a>
+
+  <a href="../cite/Amalgarius/657/DCEL-2">Amalgarius</a>
+
+  <a href="../cite/Amandi/694/DCEL-2">Amandi</a>
+
+  <a href="../cite/Amelrico/c665/DCEL-2">Amelrico</a>
+
+  <a href="../cite/Amlecharius/658/DCEL-2">Amlecharius</a>
+
+  <a href="../cite/Amoloaldus/657/DCEL-2">Amoloaldus</a>
+
+  <a href="../cite/Ansberto/697/DCEL-2">Ansberto</a>
+
+  <a href="../cite/Anseberctho/658/DCEL-2">Anseberctho</a>
+
+  <a href="../cite/Aquilina/657/DCEL-2">Aquilina</a>
+
+  <a href="../cite/Asulfi/696/DCEL-2">Asulfi</a>
+
+  <a href="../cite/Asulfi/693/DCEL-2">Asulfi</a>
+
+  <a href="../cite/Asulfus/696/DCEL-2">Asulfus</a>
+
+  <a href="../cite/Audoenus/658/DCEL-2">Audoenus</a>
+
+  <a href="../cite/Audwine/700/DCEL-2">Audwine</a>
+
+  <a href="../cite/Audwino/700/DCEL-2">Audwino</a>
+
+  <a href="../cite/Baldoaldus/697/DCEL-2">Baldoaldus</a>
+
+  <a href="../cite/Benedicti/c550/DCEL-2">Benedicti</a>
+
+  <a href="../cite/Bertarius/658/DCEL-2">Bertarius</a>
+
+  <a href="../cite/Bertefredus/658/DCEL-2">Bertefredus</a>
+
+  <a href="../cite/Bertegario/700/DCEL-2">Bertegario</a>
+
+  <a href="../cite/Bertino/697/DCEL-2">Bertino</a>
+
+  <a href="../cite/Bertoaldus/658/DCEL-2">Bertoaldus</a>
+
+  <a href="../cite/Bettolinus/697/DCEL-2">Bettolinus</a>
+
+  <a href="../cite/Bettonis/695/DCEL-2">Bettonis</a>
+
+  <a href="../cite/Bettuni/699/DCEL-2">Bettuni</a>
+
+  <a href="../cite/Betune/700/DCEL-2">Betune</a>
+
+  <a href="../cite/Bonefacio/699/DCEL-2">Bonefacio</a>
+
+  <a href="../cite/Bonefacio/c665/DCEL-2">Bonefacio</a>
+
+  <a href="../cite/Bonefatio/699/DCEL-2">Bonefatio</a>
+
+  <a href="../cite/Boso/658/DCEL-2">Boso</a>
+
+  <a href="../cite/Carlefredus/658/DCEL-2">Carlefredus</a>
+
+  <a href="../cite/Childeberti/697/DCEL-2">Childeberti</a>
+
+  <a href="../cite/Childiberti/699/DCEL-2">Childiberti</a>
+
+  <a href="../cite/Childiberto/699/DCEL-2">Childiberto</a>
+
+  <a href="../cite/Chilpertum/700/DCEL-2">Chilpertum</a>
+
+  <a href="../cite/Chlodolfo/c665/DCEL-2">Chlodolfo</a>
+
+  <a href="../cite/Chlotarii/628/DCEL-2">Chlotarii</a>
+
+  <a href="../cite/Chlotario/658/DCEL-2">Chlotario</a>
+
+  <a href="../cite/Chrocchus/699/DCEL-2">Chrocchus</a>
+
+  <a href="../cite/Chroccus/699/DCEL-2">Chroccus</a>
+
+  <a href="../cite/Chrodinus/657/DCEL-2">Chrodinus</a>
+
+  <a href="../cite/Chrodobertus/629/DCEL-2">Chrodobertus</a>
+
+  <a href="../cite/Chrodoinus/695/DCEL-2">Chrodoinus</a>
+
+  <a href="../cite/Chrodoleno/628/DCEL-2">Chrodoleno</a>
+
+  <a href="../cite/Chrodovertus/658/DCEL-2">Chrodovertus</a>
+
+  <a href="../cite/Clotario/657/DCEL-2">Clotario</a>
+
+  <a href="../cite/Clotarius/657/DCEL-2">Clotarius</a>
+
+  <a href="../cite/Clotharius/c550/DCEL-2">Clotharius</a>
+
+  <a href="../cite/Concessus/658/DCEL-2">Concessus</a>
+
+  <a href="../cite/Constantinus/699/DCEL-2">Constantinus</a>
+
+  <a href="../cite/Dado/629/DCEL-2">Dado</a>
+
+  <a href="../cite/Daginus/657/DCEL-2">Daginus</a>
+
+  <a href="../cite/Dagobercthus/628/DCEL-2">Dagobercthus</a>
+
+  <a href="../cite/Dagoberti/628/DCEL-2">Dagoberti</a>
+
+  <a href="../cite/Dagoberti/629/DCEL-2">Dagoberti</a>
+
+  <a href="../cite/Dagobertus/629/DCEL-2">Dagobertus</a>
+
+  <a href="../cite/Deocarus/658/DCEL-2">Deocarus</a>
+
+  <a href="../cite/Desiderio/628/DCEL-2">Desiderio</a>
+
+  <a href="../cite/Desiderium/628/DCEL-2">Desiderium</a>
+
+  <a href="../cite/Desiderium/629/DCEL-2">Desiderium</a>
+
+  <a href="../cite/Desiderius/628/DCEL-2">Desiderius</a>
+
+  <a href="../cite/Desiderius/694/DCEL-2">Desiderius</a>
+
+  <a href="../cite/Desiderius/629/DCEL-2">Desiderius</a>
+
+  <a href="../cite/Donato/657/DCEL-2">Donato</a>
+
+  <a href="../cite/Ebroino/700/DCEL-2">Ebroino</a>
+
+  <a href="../cite/Ebroinus/699/DCEL-2">Ebroinus</a>
+
+  <a href="../cite/Ebruinus/699/DCEL-2">Ebruinus</a>
+
+  <a href="../cite/Egidius/565/DCEL-2">Egidius</a>
+
+  <a href="../cite/Emmo/658/DCEL-2">Emmo</a>
+
+  <a href="../cite/Emnehilde/c665/DCEL-2">Emnehilde</a>
+
+  <a href="../cite/Erimbertus/699/DCEL-2">Erimbertus</a>
+
+  <a href="../cite/Ermbertus/699/DCEL-2">Ermbertus</a>
+
+  <a href="../cite/Ernoldi/565/DCEL-2">Ernoldi</a>
+
+  <a href="../cite/Folcoaldo/699/DCEL-2">Folcoaldo</a>
+
+  <a href="../cite/Folcoldus/699/DCEL-2">Folcoldus</a>
+
+  <a href="../cite/Folcrati/695/DCEL-2">Folcrati</a>
+
+  <a href="../cite/Frodoberto/657/DCEL-2">Frodoberto</a>
+
+  <a href="../cite/Frodobertus/657/DCEL-2">Frodobertus</a>
+
+  <a href="../cite/Gauciobertus/658/DCEL-2">Gauciobertus</a>
+
+  <a href="../cite/Gerrato/695/DCEL-2">Gerrato</a>
+
+  <a href="../cite/Godone/693/DCEL-2">Godone</a>
+
+  <a href="../cite/Grimulfi/693/DCEL-2">Grimulfi</a>
+
+  <a href="../cite/Gundoino/699/DCEL-2">Gundoino</a>
+
+  <a href="../cite/Gundwino/699/DCEL-2">Gundwino</a>
+
+  <a href="../cite/Heriberti/696/DCEL-2">Heriberti</a>
+
+  <a href="../cite/Heriberti/693/DCEL-2">Heriberti</a>
+
+  <a href="../cite/Heribertus/696/DCEL-2">Heribertus</a>
+
+  <a href="../cite/Hermena/657/DCEL-2">Hermena</a>
+
+  <a href="../cite/Hildiberti/695/DCEL-2">Hildiberti</a>
+
+  <a href="../cite/Hildiberti/696/DCEL-2">Hildiberti</a>
+
+  <a href="../cite/Hildifridus/693/DCEL-2">Hildifridus</a>
+
+  <a href="../cite/Hincho/658/DCEL-2">Hincho</a>
+
+  <a href="../cite/Hludowico/693/DCEL-2">Hludowico</a>
+
+  <a href="../cite/Johannes/658/DCEL-2">Johannes</a>
+
+  <a href="../cite/Justino/699/DCEL-2">Justino</a>
+
+  <a href="../cite/Justinus/699/DCEL-2">Justinus</a>
+
+  <a href="../cite/Kildericus/c665/DCEL-2">Kildericus</a>
+
+  <a href="../cite/Landebertus/657/DCEL-2">Landebertus</a>
+
+  <a href="../cite/Landwinus/700/DCEL-2">Landwinus</a>
+
+  <a href="../cite/Lantfridi/696/DCEL-2">Lantfridi</a>
+
+  <a href="../cite/Lantfridi/693/DCEL-2">Lantfridi</a>
+
+  <a href="../cite/Leodebaudus/658/DCEL-2">Leodebaudus</a>
+
+  <a href="../cite/Leudomiri/565/DCEL-2">Leudomiri</a>
+
+  <a href="../cite/Leudomirus/565/DCEL-2">Leudomirus</a>
+
+  <a href="../cite/Leuthone/629/DCEL-2">Leuthone</a>
+
+  <a href="../cite/Managoldus/693/DCEL-2">Managoldus</a>
+
+  <a href="../cite/Manaulfus/657/DCEL-2">Manaulfus</a>
+
+  <a href="../cite/Martino/697/DCEL-2">Martino</a>
+
+  <a href="../cite/Maurus/c550/DCEL-2">Maurus</a>
+
+  <a href="../cite/Milo/695/DCEL-2">Milo</a>
+
+  <a href="../cite/Milonis/695/DCEL-2">Milonis</a>
+
+  <a href="../cite/Nadale/700/DCEL-2">Nadale</a>
+
+  <a href="../cite/Nantechil/657/DCEL-2">Nantechil</a>
+
+  <a href="../cite/Ocdo/700/DCEL-2">Ocdo</a>
+
+  <a href="../cite/Otto/699/DCEL-2">Otto</a>
+
+  <a href="../cite/Petro/699/DCEL-2">Petro</a>
+
+  <a href="../cite/Rado/657/DCEL-2">Rado</a>
+
+  <a href="../cite/Ragnobertus/658/DCEL-2">Ragnobertus</a>
+
+  <a href="../cite/Ratelmo/700/DCEL-2">Ratelmo</a>
+
+  <a href="../cite/Ratfrido/696/DCEL-2">Ratfrido</a>
+
+  <a href="../cite/Ratfrido/695/DCEL-2">Ratfrido</a>
+
+  <a href="../cite/Ratfrido/694/DCEL-2">Ratfrido</a>
+
+  <a href="../cite/Ratfrido/699/DCEL-2">Ratfrido</a>
+
+  <a href="../cite/Ratfrido/693/DCEL-2">Ratfrido</a>
+
+  <a href="../cite/Ratfridus/700/DCEL-2">Ratfridus</a>
+
+  <a href="../cite/Ratfridus/699/DCEL-2">Ratfridus</a>
+
+  <a href="../cite/Ratone/700/DCEL-2">Ratone</a>
+
+  <a href="../cite/Reginbodi/699/DCEL-2">Reginbodi</a>
+
+  <a href="../cite/Reginfridus/693/DCEL-2">Reginfridus</a>
+
+  <a href="../cite/Rihmundi/693/DCEL-2">Rihmundi</a>
+
+  <a href="../cite/Rihmundi/696/DCEL-2">Rihmundi</a>
+
+  <a href="../cite/Serenus/697/DCEL-2">Serenus</a>
+
+  <a href="../cite/Sicharius/697/DCEL-2">Sicharius</a>
+
+  <a href="../cite/Sigiberto/565/DCEL-2">Sigiberto</a>
+
+  <a href="../cite/Sigibertus/c653/DCEL-2">Sigibertus</a>
+
+  <a href="../cite/Tagibodi/699/DCEL-2">Tagibodi</a>
+
+  <a href="../cite/Tedolinus/694/DCEL-2">Tedolinus</a>
+
+  <a href="../cite/Teoberctus/658/DCEL-2">Teoberctus</a>
+
+  <a href="../cite/Teutfrido/700/DCEL-2">Teutfrido</a>
+
+  <a href="../cite/Thiodolini/694/DCEL-2">Thiodolini</a>
+
+  <a href="../cite/Ursinus/697/DCEL-2">Ursinus</a>
+
+  <a href="../cite/Ursinus/628/DCEL-2">Ursinus</a>
+
+  <a href="../cite/Veroaldo/700/DCEL-2">Veroaldo</a>
+
+  <a href="../cite/Veroaldus/700/DCEL-2">Veroaldus</a>
+
+  <a href="../cite/Victor/657/DCEL-2">Victor</a>
+
+  <a href="../cite/Vualibertus/657/DCEL-2">Vualibertus</a>
+
+  <a href="../cite/Vuandebercthus/657/DCEL-2">Vuandebercthus</a>
+
+  <a href="../cite/Wachario/699/DCEL-2">Wachario</a>
+
+  <a href="../cite/Waldaleno/657/DCEL-2">Waldaleno</a>
+
+  <a href="../cite/Waldswindus/693/DCEL-2">Waldswindus</a>
+
+  <a href="../cite/Waltharii/693/DCEL-2">Waltharii</a>
+
+  <a href="../cite/Weroaldo/699/DCEL-2">Weroaldo</a>
+
+  <a href="../cite/Weroaldus/700/DCEL-2">Weroaldus</a>
+
+  <a href="../cite/Williharii/696/DCEL-2">Williharii</a>
+
+  <a href="../cite/Williharii/693/DCEL-2">Williharii</a>
+
+  <a href="../cite/Witugisi/696/DCEL-2">Witugisi</a>
+
+  <a href="../cite/Wolfgisi/694/DCEL-2">Wolfgisi</a>
+
+  <a href="../cite/Wolfgunde/699/DCEL-2">Wolfgunde</a>
+
+  <a href="../cite/Wolfo/699/DCEL-2">Wolfo</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

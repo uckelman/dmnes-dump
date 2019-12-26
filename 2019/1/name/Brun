@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Brun</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Brun</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>brûn</i>, <span class="lang">Old English</span> <i>brún</i>, <span class="lang">Latin</span> <i>brunus</i> 'brown', from <span class="lang">Proto-Germanic</span> <i>brūnaz</i> 'grey, brown'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 10th C German saint, two 11th C German saints, an 11th C Italian saint, and the baptismal name of two popes from the 10th and 11th C.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">942</span> <span class="name">Brun</span> (<span class="case">nom</span>) <a href="../cite/Brun/942/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">22</span></a>;
+ <span class="date">1114</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1114/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">100b</span></a>;
+ <span class="date">c1120</span> <span class="name">Brun</span> (<span class="case">nom</span>) <a href="../cite/Brun/c1120/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">103</span></a>;
+ <span class="date">c1125</span> <span class="name">Brun</span> (<span class="case">nom</span>) <a href="../cite/Brun/c1125/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">115</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 24</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Bruni</span> (<span class="case">gen</span>) <a href="../cite/Bruni/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 20</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1390</span> <span class="name">Brun</span> <a href="../cite/Brun/1390/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 339</span></a>;
+ <span class="date">1428</span> <span class="name">Brun</span> <a href="../cite/Brun/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 353</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1120</span> <span class="name">Brunus</span> (<span class="case">nom</span>) <a href="../cite/Brunus/c1120/CartNoyers"><span class="bib_key">CartNoyers</span> <span class="bib_loc">CDXXXVI</span></a>;
+ <span class="date">1378</span> <span class="name">Bruni</span> (<span class="case">gen</span>) <a href="../cite/Bruni/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">228</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1055</span> <span class="name">Brunitus</span> (<span class="case">nom</span>) <a href="../cite/Brunitus/1055/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">739</span></a>;
+ <span class="date">1080x1105</span> <span class="name">Bruneto</span> (<span class="case">abl</span>) <a href="../cite/Bruneto/1080x1105/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">699</span></a>;
+ <span class="date">1260</span> <span class="name">Brunello</span> (<span class="case">abl</span>) <a href="../cite/Brunello/1260/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">III, Ascension</span></a>,
+ <span class="name">Brunellus</span> (<span class="case">nom</span>) <a href="../cite/Brunellus/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">III, Ascension</span></a>;
+ <span class="date">1378</span> <span class="name">Brunelli</span> (<span class="case">gen</span>) <a href="../cite/Brunelli/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">550</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1303</span> <span class="name">Brune</span> (<span class="case">obl</span>) <a href="../cite/Brune/1303/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">XL</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Bruneau</span> <a href="../cite/Bruneau/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 609</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Brunet</span> <a href="../cite/Brunet/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 605</span></a>;
+ <span class="date">1415[1469x1471]</span> <span class="name">Brunel</span> <a href="../cite/Brunel/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 228</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Brun</span> (<span class="case">nom</span>) <a href="../cite/Brun/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§110</span></a>,
+ <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§141</span></a>;
+ <span class="date">947</span> <span class="name">Brun</span> (<span class="case">nom</span>) <a href="../cite/Brun/947/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">12</span></a>;
+ <span class="date">948</span> <span class="name">Brun</span> (<span class="case">nom</span>) <a href="../cite/Brun/948/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">88</span></a>,
+ <span class="name">Brün</span> (<span class="case">nom</span>) <a href="../cite/Brün/948/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">88</span></a>;
+ <span class="date">954</span> <span class="name">Brunonis</span> (<span class="case">gen</span>) <a href="../cite/Brunonis/954/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">23</span></a>;
+ <span class="date">961</span> <span class="name">Prunonis</span> (<span class="case">gen</span>) <a href="../cite/Prunonis/961/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>;
+ <span class="date">1005</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1005/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">56</span></a>;
+ <span class="date">1112</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1112/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a>,
+ <span class="name">Brunonis</span> (<span class="case">gen</span>) <a href="../cite/Brunonis/1112/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a>;
+ <span class="date">1114</span> <span class="name">Brunonis</span> (<span class="case">gen</span>) <a href="../cite/Brunonis/1114/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">100b</span></a>,
+ <span class="name">Brvnonis</span> (<span class="case">gen</span>) <a href="../cite/Brvnonis/1114/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1136</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1136/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1153</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1153/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1165</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1165/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1200</span> <span class="name">Brunonis</span> (<span class="case">gen</span>) <a href="../cite/Brunonis/1200/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1212</span> <span class="name">Brunone</span> (<span class="case">abl</span>) <a href="../cite/Brunone/1212/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">125</span></a>;
+ <span class="date">1229</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1229/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1258</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1258/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">185</span></a>;
+ <span class="date">1259</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>,
+ <span class="name">Brunone</span> (<span class="case">abl</span>) <a href="../cite/Brunone/1259/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">186</span></a>;
+ <span class="date">1271</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1271/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">221</span></a>;
+ <span class="date">1273</span> <span class="name">Brunonis</span> (<span class="case">gen</span>) <a href="../cite/Brunonis/1273/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">229</span></a>;
+ <span class="date">1322</span> <span class="name">Pruno</span> (<span class="case">nom</span>) <a href="../cite/Pruno/1322/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 157</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1322</span> <span class="name">Prunallus</span> (<span class="case">nom</span>) <a href="../cite/Prunallus/1322/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 162</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1420</span> <span class="name">Brún</span> (<span class="case">nom</span>) <a href="../cite/Brún/1420/UrkRott-1"><span class="bib_key">UrkRott-1</span> <span class="bib_loc">855</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1366</span> <span class="name">Bruni</span> (<span class="case">gen</span>) <a href="../cite/Bruni/1366/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1470</span> <span class="name">Brunonis</span> (<span class="case">gen</span>) <a href="../cite/Brunonis/1470/RCCaetani6"><span class="bib_key">RCCaetani6</span> <span class="bib_loc">730</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1282</span> <span class="name">Brunolus</span> (<span class="case">nom</span>) <a href="../cite/Brunolus/1282/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">p. XLVIII</span></a>;
+ <span class="date">1285</span> <span class="name">Brunatii</span> (<span class="case">gen</span>) <a href="../cite/Brunatii/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 157</span></a>;
+ <span class="date">1367</span> <span class="name">Brunellini</span> (<span class="case">gen</span>) <a href="../cite/Brunellini/1367/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">169</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1287</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1287/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">124</span></a>,
+ <span class="name">Brunoni</span> (<span class="case">dat</span>) <a href="../cite/Brunoni/1287/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1290</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">134</span></a>,
+ <span class="name">Brunoni</span> (<span class="case">dat</span>) <a href="../cite/Brunoni/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">614</span></a>,
+ <span class="name">Brunonis</span> (<span class="case">gen</span>) <a href="../cite/Brunonis/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">589</span></a>;
+ <span class="date">1295</span> <span class="name">Brunonis</span> (<span class="case">gen</span>) <a href="../cite/Brunonis/1295/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">356</span></a>;
+ <span class="date">1297</span> <span class="name">Brunoni</span> (<span class="case">dat</span>) <a href="../cite/Brunoni/1297/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">75</span></a>;
+ <span class="date">1304</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1304/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">201</span></a>;
+ <span class="date">1307</span> <span class="name">Bruno</span> (<span class="case">nom</span>) <a href="../cite/Bruno/1307/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">203</span></a>;
+ <span class="date">1319</span> <span class="name">Brunoni</span> (<span class="case">dat</span>) <a href="../cite/Brunoni/1319/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">320</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1387</span> <span class="name">brunonis</span> (<span class="case">gen</span>) <a href="../cite/brunonis/1387/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 305</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Brun". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Brun.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

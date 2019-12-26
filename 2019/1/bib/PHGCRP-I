@@ -1,0 +1,724 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>PHGCRP-I</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>PHGCRP-I</dt>
+  <dd>D. Antonio Caetano de Sousa, editor. <em>Provas da Historia Genealogica da Casa Real Portugueza, Tiradas dos Instrumentos dos Archivos da Torre do Tombo, da Serenissima Casa de Bragança, de diversas Cathedraes, Mosteiros, e outros particulares deste Reyno</em>, volume I. Lisboa Occidental: Na Officina Sylviana da Academia Real, 1739.</dd>
+</dl>
+
+
+  <a href="../cite/Abbarez/1225/PHGCRP-I">Abbarez</a>
+
+  <a href="../cite/Albar/1225/PHGCRP-I">Albar</a>
+
+  <a href="../cite/Albaro/1225/PHGCRP-I">Albaro</a>
+
+  <a href="../cite/Alberti/1179/PHGCRP-I">Alberti</a>
+
+  <a href="../cite/Alberto/1152/PHGCRP-I">Alberto</a>
+
+  <a href="../cite/Albertus/1179x1211/PHGCRP-I">Albertus</a>
+
+  <a href="../cite/Aldephonsi/1162/PHGCRP-I">Aldephonsi</a>
+
+  <a href="../cite/Aldephonsus/1152/PHGCRP-I">Aldephonsus</a>
+
+  <a href="../cite/Aldphonso/1189/PHGCRP-I">Aldphonso</a>
+
+  <a href="../cite/Alexander/1179/PHGCRP-I">Alexander</a>
+
+  <a href="../cite/Alexandri/1179/PHGCRP-I">Alexandri</a>
+
+  <a href="../cite/Alfonso/1096/PHGCRP-I">Alfonso</a>
+
+  <a href="../cite/Alfoso/1096/PHGCRP-I">Alfoso</a>
+
+  <a href="../cite/Alphons/1218/PHGCRP-I">Alphons</a>
+
+  <a href="../cite/Alphonse/1152/PHGCRP-I">Alphonse</a>
+
+  <a href="../cite/Alphonsi/1214/PHGCRP-I">Alphonsi</a>
+
+  <a href="../cite/Alphonsi/1189/PHGCRP-I">Alphonsi</a>
+
+  <a href="../cite/Alphonsi/1190/PHGCRP-I">Alphonsi</a>
+
+  <a href="../cite/Alphonsi/1121/PHGCRP-I">Alphonsi</a>
+
+  <a href="../cite/Alphonsi/1179x1211/PHGCRP-I">Alphonsi</a>
+
+  <a href="../cite/Alphonsi/1211/PHGCRP-I">Alphonsi</a>
+
+  <a href="../cite/Alphonsi/1152/PHGCRP-I">Alphonsi</a>
+
+  <a href="../cite/Alphonsi/1209/PHGCRP-I">Alphonsi</a>
+
+  <a href="../cite/Alphonsi/1269/PHGCRP-I">Alphonsi</a>
+
+  <a href="../cite/Alphonsi/1217/PHGCRP-I">Alphonsi</a>
+
+  <a href="../cite/Alphonsi/1162/PHGCRP-I">Alphonsi</a>
+
+  <a href="../cite/Alphonso/1214/PHGCRP-I">Alphonso</a>
+
+  <a href="../cite/Alphonso/1269/PHGCRP-I">Alphonso</a>
+
+  <a href="../cite/Alphonso/1209/PHGCRP-I">Alphonso</a>
+
+  <a href="../cite/Alphonso/1217/PHGCRP-I">Alphonso</a>
+
+  <a href="../cite/Alphonsum/1256/PHGCRP-I">Alphonsum</a>
+
+  <a href="../cite/Alphonsum/1269/PHGCRP-I">Alphonsum</a>
+
+  <a href="../cite/Alphonsus/1179x1211/PHGCRP-I">Alphonsus</a>
+
+  <a href="../cite/Alphonsus/1190/PHGCRP-I">Alphonsus</a>
+
+  <a href="../cite/Alphonsus/1162/PHGCRP-I">Alphonsus</a>
+
+  <a href="../cite/Alphonsus/1152/PHGCRP-I">Alphonsus</a>
+
+  <a href="../cite/Alphonsus/1217/PHGCRP-I">Alphonsus</a>
+
+  <a href="../cite/Alphonsus/1209/PHGCRP-I">Alphonsus</a>
+
+  <a href="../cite/Alphonsus/1211/PHGCRP-I">Alphonsus</a>
+
+  <a href="../cite/Alphonsus/1221/PHGCRP-I">Alphonsus</a>
+
+  <a href="../cite/Alvari/1190/PHGCRP-I">Alvari</a>
+
+  <a href="../cite/Alvaro/1225/PHGCRP-I">Alvaro</a>
+
+  <a href="../cite/Arduinus/1179/PHGCRP-I">Arduinus</a>
+
+  <a href="../cite/Bartholomei/1269/PHGCRP-I">Bartholomei</a>
+
+  <a href="../cite/Beatricem/1269/PHGCRP-I">Beatricem</a>
+
+  <a href="../cite/Bereng./1209/PHGCRP-I">Bereng.</a>
+
+  <a href="../cite/Berengari/1228/PHGCRP-I">Berengari</a>
+
+  <a href="../cite/Berengarii/1228/PHGCRP-I">Berengarii</a>
+
+  <a href="../cite/Bernardus/1179/PHGCRP-I">Bernardus</a>
+
+  <a href="../cite/Bernereus/1179/PHGCRP-I">Bernereus</a>
+
+  <a href="../cite/Bertholameus/1217/PHGCRP-I">Bertholameus</a>
+
+  <a href="../cite/Blanca/1209/PHGCRP-I">Blanca</a>
+
+  <a href="../cite/Blancæ/1209/PHGCRP-I">Blancæ</a>
+
+  <a href="../cite/Blancæ/1269/PHGCRP-I">Blancæ</a>
+
+  <a href="../cite/Cinthius/1179/PHGCRP-I">Cinthius</a>
+
+  <a href="../cite/Constanciæ/1209/PHGCRP-I">Constanciæ</a>
+
+  <a href="../cite/Constantia/1269/PHGCRP-I">Constantia</a>
+
+  <a href="../cite/Constantiæ/1256/PHGCRP-I">Constantiæ</a>
+
+  <a href="../cite/Constantiæ/1269/PHGCRP-I">Constantiæ</a>
+
+  <a href="../cite/Dadi/1189/PHGCRP-I">Dadi</a>
+
+  <a href="../cite/Domingo/1225/PHGCRP-I">Domingo</a>
+
+  <a href="../cite/Dominici/1256/PHGCRP-I">Dominici</a>
+
+  <a href="../cite/Dominici/1269/PHGCRP-I">Dominici</a>
+
+  <a href="../cite/Dominico/1269/PHGCRP-I">Dominico</a>
+
+  <a href="../cite/Dominicus/1121/PHGCRP-I">Dominicus</a>
+
+  <a href="../cite/Dominicus/1256/PHGCRP-I">Dominicus</a>
+
+  <a href="../cite/Dominicus/1214/PHGCRP-I">Dominicus</a>
+
+  <a href="../cite/Dulcia/1189/PHGCRP-I">Dulcia</a>
+
+  <a href="../cite/Dulcia/1209/PHGCRP-I">Dulcia</a>
+
+  <a href="../cite/Dulcia/1190/PHGCRP-I">Dulcia</a>
+
+  <a href="../cite/Dulciae/1211/PHGCRP-I">Dulciae</a>
+
+  <a href="../cite/Dulciæ/1209/PHGCRP-I">Dulciæ</a>
+
+  <a href="../cite/Durando/1269/PHGCRP-I">Durando</a>
+
+  <a href="../cite/Dyonisium/1269/PHGCRP-I">Dyonisium</a>
+
+  <a href="../cite/Dyonisius/1269/PHGCRP-I">Dyonisius</a>
+
+  <a href="../cite/Egidio/1209/PHGCRP-I">Egidio</a>
+
+  <a href="../cite/Eleonor/1217/PHGCRP-I">Eleonor</a>
+
+  <a href="../cite/Ferdinandis/1211/PHGCRP-I">Ferdinandis</a>
+
+  <a href="../cite/Ferdinandus/1152/PHGCRP-I">Ferdinandus</a>
+
+  <a href="../cite/Ferdinandus/1162/PHGCRP-I">Ferdinandus</a>
+
+  <a href="../cite/Fernamdus/1217/PHGCRP-I">Fernamdus</a>
+
+  <a href="../cite/Fernandes/1225/PHGCRP-I">Fernandes</a>
+
+  <a href="../cite/Fernandes/1217/PHGCRP-I">Fernandes</a>
+
+  <a href="../cite/Fernandi/1189/PHGCRP-I">Fernandi</a>
+
+  <a href="../cite/Fernandi/1217/PHGCRP-I">Fernandi</a>
+
+  <a href="../cite/Fernandi/1190/PHGCRP-I">Fernandi</a>
+
+  <a href="../cite/Fernandi/1211/PHGCRP-I">Fernandi</a>
+
+  <a href="../cite/Fernandi/1209/PHGCRP-I">Fernandi</a>
+
+  <a href="../cite/Fernandis/1209/PHGCRP-I">Fernandis</a>
+
+  <a href="../cite/Fernando/1189/PHGCRP-I">Fernando</a>
+
+  <a href="../cite/Fernando/1209/PHGCRP-I">Fernando</a>
+
+  <a href="../cite/Fernandus/1189/PHGCRP-I">Fernandus</a>
+
+  <a href="../cite/Fernandus/1211/PHGCRP-I">Fernandus</a>
+
+  <a href="../cite/Fernandus/1209/PHGCRP-I">Fernandus</a>
+
+  <a href="../cite/Fernandus/1217/PHGCRP-I">Fernandus</a>
+
+  <a href="../cite/Ferrand/1225/PHGCRP-I">Ferrand</a>
+
+  <a href="../cite/Ferrandes/1225/PHGCRP-I">Ferrandes</a>
+
+  <a href="../cite/Gacia/1225/PHGCRP-I">Gacia</a>
+
+  <a href="../cite/Garciæ/1256/PHGCRP-I">Garciæ</a>
+
+  <a href="../cite/Garsiae/1211/PHGCRP-I">Garsiae</a>
+
+  <a href="../cite/Gil/1211/PHGCRP-I">Gil</a>
+
+  <a href="../cite/Gil/1217/PHGCRP-I">Gil</a>
+
+  <a href="../cite/Gonçaluo/1228/PHGCRP-I">Gonçaluo</a>
+
+  <a href="../cite/Goncalvi/1256/PHGCRP-I">Goncalvi</a>
+
+  <a href="../cite/Gondesendis/1096/PHGCRP-I">Gondesendis</a>
+
+  <a href="../cite/Gondisaluus/1152/PHGCRP-I">Gondisaluus</a>
+
+  <a href="../cite/Gonsaluo/1217/PHGCRP-I">Gonsaluo</a>
+
+  <a href="../cite/Gonsaluo/1269/PHGCRP-I">Gonsaluo</a>
+
+  <a href="../cite/Gonsaluus/1217/PHGCRP-I">Gonsaluus</a>
+
+  <a href="../cite/Gonzalo/1225/PHGCRP-I">Gonzalo</a>
+
+  <a href="../cite/Gonzalves/1225/PHGCRP-I">Gonzalves</a>
+
+  <a href="../cite/Gonzalvo/1225/PHGCRP-I">Gonzalvo</a>
+
+  <a href="../cite/Gratiæ/1217/PHGCRP-I">Gratiæ</a>
+
+  <a href="../cite/Gregorii/1228/PHGCRP-I">Gregorii</a>
+
+  <a href="../cite/Gregorio/1238/PHGCRP-I">Gregorio</a>
+
+  <a href="../cite/Gregorius/1238/PHGCRP-I">Gregorius</a>
+
+  <a href="../cite/Gualtero/1121/PHGCRP-I">Gualtero</a>
+
+  <a href="../cite/Guilhelmus/1228/PHGCRP-I">Guilhelmus</a>
+
+  <a href="../cite/Gunçaluus/1211/PHGCRP-I">Gunçaluus</a>
+
+  <a href="../cite/Gundisalvus/1189/PHGCRP-I">Gundisalvus</a>
+
+  <a href="../cite/Gunsalue/1217/PHGCRP-I">Gunsalue</a>
+
+  <a href="../cite/Gunsaluis/1218/PHGCRP-I">Gunsaluis</a>
+
+  <a href="../cite/Gunsalum/1218/PHGCRP-I">Gunsalum</a>
+
+  <a href="../cite/Gunsaluum/1209/PHGCRP-I">Gunsaluum</a>
+
+  <a href="../cite/Gunsaluus/1209/PHGCRP-I">Gunsaluus</a>
+
+  <a href="../cite/Gunsalve/1217/PHGCRP-I">Gunsalve</a>
+
+  <a href="../cite/Gunsalvi/1189/PHGCRP-I">Gunsalvi</a>
+
+  <a href="../cite/Gunsalvus/1189/PHGCRP-I">Gunsalvus</a>
+
+  <a href="../cite/Gutierres/1225/PHGCRP-I">Gutierres</a>
+
+  <a href="../cite/Henrici/1096/PHGCRP-I">Henrici</a>
+
+  <a href="../cite/Henrici/1179x1211/PHGCRP-I">Henrici</a>
+
+  <a href="../cite/Henrici/1152/PHGCRP-I">Henrici</a>
+
+  <a href="../cite/Henrico/1096/PHGCRP-I">Henrico</a>
+
+  <a href="../cite/Henricus/1179/PHGCRP-I">Henricus</a>
+
+  <a href="../cite/Henricus/1190/PHGCRP-I">Henricus</a>
+
+  <a href="../cite/Henricus/1121/PHGCRP-I">Henricus</a>
+
+  <a href="../cite/Hubaldus/1179/PHGCRP-I">Hubaldus</a>
+
+  <a href="../cite/Hugo/1179/PHGCRP-I">Hugo</a>
+
+  <a href="../cite/Innocencius/1201/PHGCRP-I">Innocencius</a>
+
+  <a href="../cite/Innocencius/1246/PHGCRP-I">Innocencius</a>
+
+  <a href="../cite/Innocentius/1246/PHGCRP-I">Innocentius</a>
+
+  <a href="../cite/Jacintus/1179/PHGCRP-I">Jacintus</a>
+
+  <a href="../cite/Jacobo/1228/PHGCRP-I">Jacobo</a>
+
+  <a href="../cite/Jacobo/1231/PHGCRP-I">Jacobo</a>
+
+  <a href="../cite/Jacobus/1231/PHGCRP-I">Jacobus</a>
+
+  <a href="../cite/Joanes/1162/PHGCRP-I">Joanes</a>
+
+  <a href="../cite/Joanes/1179/PHGCRP-I">Joanes</a>
+
+  <a href="../cite/Joaninus/1211/PHGCRP-I">Joaninus</a>
+
+  <a href="../cite/Joaninus/1217/PHGCRP-I">Joaninus</a>
+
+  <a href="../cite/Joanis/1162/PHGCRP-I">Joanis</a>
+
+  <a href="../cite/Joannem/1214/PHGCRP-I">Joannem</a>
+
+  <a href="../cite/Joannes/1217/PHGCRP-I">Joannes</a>
+
+  <a href="../cite/Joannes/1189/PHGCRP-I">Joannes</a>
+
+  <a href="../cite/Joannes/1121/PHGCRP-I">Joannes</a>
+
+  <a href="../cite/Joannes/1179/PHGCRP-I">Joannes</a>
+
+  <a href="../cite/Joannes/1190/PHGCRP-I">Joannes</a>
+
+  <a href="../cite/Joannes/1211/PHGCRP-I">Joannes</a>
+
+  <a href="../cite/Joannes/1214/PHGCRP-I">Joannes</a>
+
+  <a href="../cite/Joannes/1152/PHGCRP-I">Joannes</a>
+
+  <a href="../cite/Joanni/1214/PHGCRP-I">Joanni</a>
+
+  <a href="../cite/Joanni/1211/PHGCRP-I">Joanni</a>
+
+  <a href="../cite/Joanni/1256/PHGCRP-I">Joanni</a>
+
+  <a href="../cite/Joannis/1217/PHGCRP-I">Joannis</a>
+
+  <a href="../cite/Joannis/1256/PHGCRP-I">Joannis</a>
+
+  <a href="../cite/Johanni/1269/PHGCRP-I">Johanni</a>
+
+  <a href="../cite/Johannis/1269/PHGCRP-I">Johannis</a>
+
+  <a href="../cite/Juan/1225/PHGCRP-I">Juan</a>
+
+  <a href="../cite/Julianus/1190/PHGCRP-I">Julianus</a>
+
+  <a href="../cite/Julianus/1211/PHGCRP-I">Julianus</a>
+
+  <a href="../cite/Julianus/1162/PHGCRP-I">Julianus</a>
+
+  <a href="../cite/Laborans/1179/PHGCRP-I">Laborans</a>
+
+  <a href="../cite/Laurentio/1269/PHGCRP-I">Laurentio</a>
+
+  <a href="../cite/Laurentium/1209/PHGCRP-I">Laurentium</a>
+
+  <a href="../cite/Laurentius/1211/PHGCRP-I">Laurentius</a>
+
+  <a href="../cite/Laurentius/1179x1211/PHGCRP-I">Laurentius</a>
+
+  <a href="../cite/Laurentius/1209/PHGCRP-I">Laurentius</a>
+
+  <a href="../cite/Laurentius/1217/PHGCRP-I">Laurentius</a>
+
+  <a href="../cite/Lianor/1221/PHGCRP-I">Lianor</a>
+
+  <a href="../cite/Lopus/1217/PHGCRP-I">Lopus</a>
+
+  <a href="../cite/Lupi/1228/PHGCRP-I">Lupi</a>
+
+  <a href="../cite/Lupus/1211/PHGCRP-I">Lupus</a>
+
+  <a href="../cite/Mafalda/1256/PHGCRP-I">Mafalda</a>
+
+  <a href="../cite/Maphalda/1209/PHGCRP-I">Maphalda</a>
+
+  <a href="../cite/Maria/1209/PHGCRP-I">Maria</a>
+
+  <a href="../cite/Maria/1225/PHGCRP-I">Maria</a>
+
+  <a href="../cite/Mariam/1209/PHGCRP-I">Mariam</a>
+
+  <a href="../cite/Mariæ/1269/PHGCRP-I">Mariæ</a>
+
+  <a href="../cite/Mariæ/1256/PHGCRP-I">Mariæ</a>
+
+  <a href="../cite/Mariæ/1209/PHGCRP-I">Mariæ</a>
+
+  <a href="../cite/Martin/1152/PHGCRP-I">Martin</a>
+
+  <a href="../cite/Martin/1225/PHGCRP-I">Martin</a>
+
+  <a href="../cite/Martines/1225/PHGCRP-I">Martines</a>
+
+  <a href="../cite/Martini/1269/PHGCRP-I">Martini</a>
+
+  <a href="../cite/Martini/1190/PHGCRP-I">Martini</a>
+
+  <a href="../cite/Martino/1189/PHGCRP-I">Martino</a>
+
+  <a href="../cite/Martino/1209/PHGCRP-I">Martino</a>
+
+  <a href="../cite/Martino/1256/PHGCRP-I">Martino</a>
+
+  <a href="../cite/Martinus/1189/PHGCRP-I">Martinus</a>
+
+  <a href="../cite/Martinus/1209/PHGCRP-I">Martinus</a>
+
+  <a href="../cite/Martinus/1211/PHGCRP-I">Martinus</a>
+
+  <a href="../cite/Martinus/1190/PHGCRP-I">Martinus</a>
+
+  <a href="../cite/Martinus/1217/PHGCRP-I">Martinus</a>
+
+  <a href="../cite/Matheus/1179/PHGCRP-I">Matheus</a>
+
+  <a href="../cite/Migael/1225/PHGCRP-I">Migael</a>
+
+  <a href="../cite/Miguel/1225/PHGCRP-I">Miguel</a>
+
+  <a href="../cite/Niculaus/1214/PHGCRP-I">Niculaus</a>
+
+  <a href="../cite/Nuno/1225/PHGCRP-I">Nuno</a>
+
+  <a href="../cite/Orraca/1256/PHGCRP-I">Orraca</a>
+
+  <a href="../cite/Orracam/1256/PHGCRP-I">Orracam</a>
+
+  <a href="../cite/Orracæ/1256/PHGCRP-I">Orracæ</a>
+
+  <a href="../cite/Orracæ/1269/PHGCRP-I">Orracæ</a>
+
+  <a href="../cite/Paulus/1179/PHGCRP-I">Paulus</a>
+
+  <a href="../cite/Pedres/1225/PHGCRP-I">Pedres</a>
+
+  <a href="../cite/Pedrez/1225/PHGCRP-I">Pedrez</a>
+
+  <a href="../cite/Pedro/1225/PHGCRP-I">Pedro</a>
+
+  <a href="../cite/Pelagii/1189/PHGCRP-I">Pelagii</a>
+
+  <a href="../cite/Pelagii/1214/PHGCRP-I">Pelagii</a>
+
+  <a href="../cite/Pelagii/1269/PHGCRP-I">Pelagii</a>
+
+  <a href="../cite/Pelagij/1209/PHGCRP-I">Pelagij</a>
+
+  <a href="../cite/Pelagij/1190/PHGCRP-I">Pelagij</a>
+
+  <a href="../cite/Pelagij/1256/PHGCRP-I">Pelagij</a>
+
+  <a href="../cite/Pelagij/1211/PHGCRP-I">Pelagij</a>
+
+  <a href="../cite/Pelagio/1256/PHGCRP-I">Pelagio</a>
+
+  <a href="../cite/Pelagius/1190/PHGCRP-I">Pelagius</a>
+
+  <a href="../cite/Pelagius/1121/PHGCRP-I">Pelagius</a>
+
+  <a href="../cite/Pelagius/1214/PHGCRP-I">Pelagius</a>
+
+  <a href="../cite/Pelagius/1189/PHGCRP-I">Pelagius</a>
+
+  <a href="../cite/Pelagius/1256/PHGCRP-I">Pelagius</a>
+
+  <a href="../cite/Pelagius/1211/PHGCRP-I">Pelagius</a>
+
+  <a href="../cite/Pelagius/1152/PHGCRP-I">Pelagius</a>
+
+  <a href="../cite/Pelagus/1217/PHGCRP-I">Pelagus</a>
+
+  <a href="../cite/Petrez/1228/PHGCRP-I">Petrez</a>
+
+  <a href="../cite/Petri/1269/PHGCRP-I">Petri</a>
+
+  <a href="../cite/Petri/1256/PHGCRP-I">Petri</a>
+
+  <a href="../cite/Petri/1217/PHGCRP-I">Petri</a>
+
+  <a href="../cite/Petri/1152/PHGCRP-I">Petri</a>
+
+  <a href="../cite/Petri/1211/PHGCRP-I">Petri</a>
+
+  <a href="../cite/Petro/1189/PHGCRP-I">Petro</a>
+
+  <a href="../cite/Petro/1256/PHGCRP-I">Petro</a>
+
+  <a href="../cite/Petro/1209/PHGCRP-I">Petro</a>
+
+  <a href="../cite/Petro/1228/PHGCRP-I">Petro</a>
+
+  <a href="../cite/Petro/1269/PHGCRP-I">Petro</a>
+
+  <a href="../cite/Petrum/1209/PHGCRP-I">Petrum</a>
+
+  <a href="../cite/Petrum/1269/PHGCRP-I">Petrum</a>
+
+  <a href="../cite/Petrum/1228/PHGCRP-I">Petrum</a>
+
+  <a href="../cite/Petrus/1179/PHGCRP-I">Petrus</a>
+
+  <a href="../cite/Petrus/1217/PHGCRP-I">Petrus</a>
+
+  <a href="../cite/Petrus/1162/PHGCRP-I">Petrus</a>
+
+  <a href="../cite/Petrus/1121/PHGCRP-I">Petrus</a>
+
+  <a href="../cite/Petrus/1209/PHGCRP-I">Petrus</a>
+
+  <a href="../cite/Petrus/1152/PHGCRP-I">Petrus</a>
+
+  <a href="../cite/Petrus/1190/PHGCRP-I">Petrus</a>
+
+  <a href="../cite/Petrus/1189/PHGCRP-I">Petrus</a>
+
+  <a href="../cite/Petrus/1211/PHGCRP-I">Petrus</a>
+
+  <a href="../cite/Petrus/1231/PHGCRP-I">Petrus</a>
+
+  <a href="../cite/Petrus/1214/PHGCRP-I">Petrus</a>
+
+  <a href="../cite/Pontius/1217/PHGCRP-I">Pontius</a>
+
+  <a href="../cite/Quintanam/1256/PHGCRP-I">Quintanam</a>
+
+  <a href="../cite/Reimondi/1211/PHGCRP-I">Reimondi</a>
+
+  <a href="../cite/Reymondus/1189/PHGCRP-I">Reymondus</a>
+
+  <a href="../cite/Riemondi/1211/PHGCRP-I">Riemondi</a>
+
+  <a href="../cite/Roderici/1269/PHGCRP-I">Roderici</a>
+
+  <a href="../cite/Roderici/1190/PHGCRP-I">Roderici</a>
+
+  <a href="../cite/Roderici/1211/PHGCRP-I">Roderici</a>
+
+  <a href="../cite/Roderici/1162/PHGCRP-I">Roderici</a>
+
+  <a href="../cite/Rodericii/1214/PHGCRP-I">Rodericii</a>
+
+  <a href="../cite/Roderico/1209/PHGCRP-I">Roderico</a>
+
+  <a href="../cite/Roderico/1269/PHGCRP-I">Roderico</a>
+
+  <a href="../cite/Rodericus/1214/PHGCRP-I">Rodericus</a>
+
+  <a href="../cite/Rodericus/1162/PHGCRP-I">Rodericus</a>
+
+  <a href="../cite/Rodericus/1190/PHGCRP-I">Rodericus</a>
+
+  <a href="../cite/Rodericus/1211/PHGCRP-I">Rodericus</a>
+
+  <a href="../cite/Roderiguis/1096/PHGCRP-I">Roderiguis</a>
+
+  <a href="../cite/Roy/1225/PHGCRP-I">Roy</a>
+
+  <a href="../cite/Salvatoris/1269/PHGCRP-I">Salvatoris</a>
+
+  <a href="../cite/Sancho/1225/PHGCRP-I">Sancho</a>
+
+  <a href="../cite/Sancho/1238/PHGCRP-I">Sancho</a>
+
+  <a href="../cite/Sancia/1209/PHGCRP-I">Sancia</a>
+
+  <a href="../cite/Sancia/1189/PHGCRP-I">Sancia</a>
+
+  <a href="../cite/Sancia/1190/PHGCRP-I">Sancia</a>
+
+  <a href="../cite/Sancii/1269/PHGCRP-I">Sancii</a>
+
+  <a href="../cite/Sancii/1152/PHGCRP-I">Sancii</a>
+
+  <a href="../cite/Sancij/1209/PHGCRP-I">Sancij</a>
+
+  <a href="../cite/Sancij/1256/PHGCRP-I">Sancij</a>
+
+  <a href="../cite/Sancij/1211/PHGCRP-I">Sancij</a>
+
+  <a href="../cite/Sancio/1211/PHGCRP-I">Sancio</a>
+
+  <a href="../cite/Sancio/1217/PHGCRP-I">Sancio</a>
+
+  <a href="../cite/Sancius/1217/PHGCRP-I">Sancius</a>
+
+  <a href="../cite/Sancius/1209/PHGCRP-I">Sancius</a>
+
+  <a href="../cite/Sancius/1221/PHGCRP-I">Sancius</a>
+
+  <a href="../cite/Sancius/1190/PHGCRP-I">Sancius</a>
+
+  <a href="../cite/Sancius/1189/PHGCRP-I">Sancius</a>
+
+  <a href="../cite/Sanciæ/1269/PHGCRP-I">Sanciæ</a>
+
+  <a href="../cite/Silvester/1256/PHGCRP-I">Silvester</a>
+
+  <a href="../cite/Stephano/1269/PHGCRP-I">Stephano</a>
+
+  <a href="../cite/Stephanus/1217/PHGCRP-I">Stephanus</a>
+
+  <a href="../cite/Stephanus/1211/PHGCRP-I">Stephanus</a>
+
+  <a href="../cite/Stephanus/1256/PHGCRP-I">Stephanus</a>
+
+  <a href="../cite/Sylvestre/1238/PHGCRP-I">Sylvestre</a>
+
+  <a href="../cite/Symeoni/1269/PHGCRP-I">Symeoni</a>
+
+  <a href="../cite/Tarasia/1121/PHGCRP-I">Tarasia</a>
+
+  <a href="../cite/Tarasia/1269/PHGCRP-I">Tarasia</a>
+
+  <a href="../cite/Tarasiae/1179x1211/PHGCRP-I">Tarasiae</a>
+
+  <a href="../cite/Tarasie/1209/PHGCRP-I">Tarasie</a>
+
+  <a href="../cite/Tarasie/1269/PHGCRP-I">Tarasie</a>
+
+  <a href="../cite/Tarasiæ/1209/PHGCRP-I">Tarasiæ</a>
+
+  <a href="../cite/Tarasiæ/1269/PHGCRP-I">Tarasiæ</a>
+
+  <a href="../cite/Taraxea/1096/PHGCRP-I">Taraxea</a>
+
+  <a href="../cite/Taraxia/1096/PHGCRP-I">Taraxia</a>
+
+  <a href="../cite/Taresia/1209/PHGCRP-I">Taresia</a>
+
+  <a href="../cite/Tharasia/1121/PHGCRP-I">Tharasia</a>
+
+  <a href="../cite/Tharasia/1190/PHGCRP-I">Tharasia</a>
+
+  <a href="../cite/Tharasiæ/1209/PHGCRP-I">Tharasiæ</a>
+
+  <a href="../cite/Theodinus/1179/PHGCRP-I">Theodinus</a>
+
+  <a href="../cite/Therasia/1189/PHGCRP-I">Therasia</a>
+
+  <a href="../cite/Tibaldi/1121/PHGCRP-I">Tibaldi</a>
+
+  <a href="../cite/Urraca/1221/PHGCRP-I">Urraca</a>
+
+  <a href="../cite/Urraca/1211/PHGCRP-I">Urraca</a>
+
+  <a href="../cite/Urraca/1217/PHGCRP-I">Urraca</a>
+
+  <a href="../cite/Urraca/1214/PHGCRP-I">Urraca</a>
+
+  <a href="../cite/Urracæ/1209/PHGCRP-I">Urracæ</a>
+
+  <a href="../cite/Vincencio/1269/PHGCRP-I">Vincencio</a>
+
+  <a href="../cite/Vincentij/1256/PHGCRP-I">Vincentij</a>
+
+  <a href="../cite/Vincentius/1211/PHGCRP-I">Vincentius</a>
+
+  <a href="../cite/Vincentius/1217/PHGCRP-I">Vincentius</a>
+
+  <a href="../cite/Vrraca/1217/PHGCRP-I">Vrraca</a>
+
+  <a href="../cite/alfonsus/1217/PHGCRP-I">alfonsus</a>
+
+  <a href="../cite/alionor/1217/PHGCRP-I">alionor</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

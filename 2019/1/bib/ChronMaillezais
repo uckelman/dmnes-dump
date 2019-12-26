@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>ChronMaillezais</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>ChronMaillezais</dt>
+  <dd>Fragments inédits d'une chronique de maillezais. In Paul Marchegay, editor, <em>Bibliothèque de l'École des Chartres</em>, volume 2, pages 148–168. Paris: Imprimerie de Schneider et Langrand, 1840-1841.</dd>
+</dl>
+
+
+  <a href="../cite/Americus/1239/ChronMaillezais">Americus</a>
+
+  <a href="../cite/Arnaudus/1239/ChronMaillezais">Arnaudus</a>
+
+  <a href="../cite/Benedic/1337/ChronMaillezais">Benedic</a>
+
+  <a href="../cite/Berengarium/1317/ChronMaillezais">Berengarium</a>
+
+  <a href="../cite/Bertrandum/1346/ChronMaillezais">Bertrandum</a>
+
+  <a href="../cite/Fulcaudum/1239/ChronMaillezais">Fulcaudum</a>
+
+  <a href="../cite/Fulcaudus/1239/ChronMaillezais">Fulcaudus</a>
+
+  <a href="../cite/Galvani/1332/ChronMaillezais">Galvani</a>
+
+  <a href="../cite/Gaufridum/1317/ChronMaillezais">Gaufridum</a>
+
+  <a href="../cite/Gaufridus/1239/ChronMaillezais">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1332/ChronMaillezais">Gaufridus</a>
+
+  <a href="../cite/Giraudo/1332/ChronMaillezais">Giraudo</a>
+
+  <a href="../cite/Guillelmo/1332/ChronMaillezais">Guillelmo</a>
+
+  <a href="../cite/Guillelmus/1346/ChronMaillezais">Guillelmus</a>
+
+  <a href="../cite/Helias/1239/ChronMaillezais">Helias</a>
+
+  <a href="../cite/Henricum/1346/ChronMaillezais">Henricum</a>
+
+  <a href="../cite/Johanne/1332/ChronMaillezais">Johanne</a>
+
+  <a href="../cite/Johannes/1239/ChronMaillezais">Johannes</a>
+
+  <a href="../cite/Johannes/1317/ChronMaillezais">Johannes</a>
+
+  <a href="../cite/Jordanus/1239/ChronMaillezais">Jordanus</a>
+
+  <a href="../cite/Karoli/1450/ChronMaillezais">Karoli</a>
+
+  <a href="../cite/Luca/1332/ChronMaillezais">Luca</a>
+
+  <a href="../cite/Lucas/1317/ChronMaillezais">Lucas</a>
+
+  <a href="../cite/Lucas/1239/ChronMaillezais">Lucas</a>
+
+  <a href="../cite/Michael/1239/ChronMaillezais">Michael</a>
+
+  <a href="../cite/Petro/1332/ChronMaillezais">Petro</a>
+
+  <a href="../cite/Petrum/1317/ChronMaillezais">Petrum</a>
+
+  <a href="../cite/Petrus/1239/ChronMaillezais">Petrus</a>
+
+  <a href="../cite/Radulphum/1236/ChronMaillezais">Radulphum</a>
+
+  <a href="../cite/Radulphum/1239/ChronMaillezais">Radulphum</a>
+
+  <a href="../cite/Radulphus/1239/ChronMaillezais">Radulphus</a>
+
+  <a href="../cite/Rainaudus/1239/ChronMaillezais">Rainaudus</a>
+
+  <a href="../cite/Reginaldo/1239/ChronMaillezais">Reginaldo</a>
+
+  <a href="../cite/Reginaldus/1239/ChronMaillezais">Reginaldus</a>
+
+  <a href="../cite/Reginaldus/1236/ChronMaillezais">Reginaldus</a>
+
+  <a href="../cite/Robertus/1239/ChronMaillezais">Robertus</a>
+
+  <a href="../cite/Stephano/1332/ChronMaillezais">Stephano</a>
+
+  <a href="../cite/Theobaldo/1450/ChronMaillezais">Theobaldo</a>
+
+  <a href="../cite/Willelmum/1239/ChronMaillezais">Willelmum</a>
+
+  <a href="../cite/Willelmum/1236/ChronMaillezais">Willelmum</a>
+
+  <a href="../cite/Willelmus/1239/ChronMaillezais">Willelmus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

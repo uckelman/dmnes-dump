@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Rose</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Rose</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Old Saxon</span> <i>hrōth</i>, <span class="lang">Old High German</span> <i>hruod</i> 'fame' + <span class="lang">Old High German</span> <i>heit</i> 'kind, sort'.  Later forms were influenced by <span class="lang">Latin</span> <i>rosa</i> 'rose'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 13th C Italian saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The vernacular English form <i>Rose</i> is witnessed in 1379 in the relational bynames <i>Rosedoghter</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 37</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1246</span> <span class="name">Roisiam</span> (<span class="case">acc</span>) <a href="../cite/Roisiam/1246/PSS-II"><span class="bib_key">PSS-II</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1279–80</span> <span class="name">Rosa</span> (<span class="case">nom</span>) <a href="../cite/Rosa/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Rosa</span> (<span class="case">nom</span>) <a href="../cite/Rosa/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1379</span> <span class="name">Rosa</span> (<span class="case">nom</span>) <a href="../cite/Rosa/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1381</span> <span class="name">Roes</span> (<span class="case">nom</span>) <a href="../cite/Roes/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 104</span></a>,
+ <span class="name">Rosa</span> (<span class="case">nom</span>) <a href="../cite/Rosa/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>,
+ <span class="name">Rose</span> (<span class="case">gen</span>) <a href="../cite/Rose/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 108</span></a>,
+ <span class="name">Rosea</span> (<span class="case">nom</span>) <a href="../cite/Rosea/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94</span></a>,
+ <span class="name">Rosia</span> (<span class="case">nom</span>) <a href="../cite/Rosia/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 77</span></a>,
+ <span class="name">Roys</span> (<span class="case">nom</span>) <a href="../cite/Roys/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91</span></a>;
+ <span class="date">1560</span> <span class="name">Rose</span> (<span class="case">nom</span>) <a href="../cite/Rose/1560/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1561/2</span> <span class="name">Rosa</span> (<span class="case">nom</span>) <a href="../cite/Rosa/1561s2/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1561</span> <span class="name">Rosa</span> (<span class="case">nom</span>) <a href="../cite/Rosa/1561/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1562</span> <span class="name">Rosa</span> (<span class="case">nom</span>) <a href="../cite/Rosa/1562/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1563</span> <span class="name">Rosa</span> (<span class="case">nom</span>) <a href="../cite/Rosa/1563/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Rose</span> (<span class="case">nom</span>) <a href="../cite/Rose/1563/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1564/5</span> <span class="name">Rose</span> (<span class="case">nom</span>) <a href="../cite/Rose/1564s5/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1566</span> <span class="name">Rosa</span> (<span class="case">nom</span>) <a href="../cite/Rosa/1566/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1567</span> <span class="name">Rosæ</span> (<span class="case">gen</span>) <a href="../cite/Rosæ/1567/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1568</span> <span class="name">Rosa</span> (<span class="case">nom</span>) <a href="../cite/Rosa/1568/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1593</span> <span class="name">Rose</span> (<span class="case">nom</span>) <a href="../cite/Rose/1593/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 16</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1520</span> <span class="name">Rose</span> <a href="../cite/Rose/1520/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 128</span></a>;
+ <span class="date">1529</span> <span class="name">Rose</span> <a href="../cite/Rose/1529/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1530</span> <span class="name">Rose</span> <a href="../cite/Rose/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1540</span> <span class="name">Rose</span> <a href="../cite/Rose/1540/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Rose/1540/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1551</span> <span class="name">Rose</span> <a href="../cite/Rose/1551/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1553</span> <span class="name">Ros</span> <a href="../cite/Ros/1553/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1557</span> <span class="name">Rose</span> <a href="../cite/Rose/1557/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1558</span> <span class="name">Rose</span> <a href="../cite/Rose/1558/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1559</span> <span class="name">Rose</span> <a href="../cite/Rose/1559/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 67</span></a>;
+ <span class="date">1562</span> <span class="name">Rose</span> <a href="../cite/Rose/1562/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1563</span> <span class="name">Rose</span> <a href="../cite/Rose/1563/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1565</span> <span class="name">Rosse</span> <a href="../cite/Rosse/1565/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1568</span> <span class="name">Rose</span> <a href="../cite/Rose/1568/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1569</span> <span class="name">Rose</span> <a href="../cite/Rose/1569/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1572</span> <span class="name">Rose</span> <a href="../cite/Rose/1572/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Rose/1572/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 18</span></a>,
+ <a href="../cite/Rose/1572/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1573</span> <span class="name">Rose</span> <a href="../cite/Rose/1573/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1574/5</span> <span class="name">Rose</span> <a href="../cite/Rose/1574s5/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1578</span> <span class="name">Rose</span> <a href="../cite/Rose/1578/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1581</span> <span class="name">Rose</span> <a href="../cite/Rose/1581/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1582</span> <span class="name">Rose</span> <a href="../cite/Rose/1582/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Rose/1582/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Rose/1582/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1584</span> <span class="name">Roase</span> <a href="../cite/Roase/1584/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Rose</span> <a href="../cite/Rose/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1585</span> <span class="name">Rose</span> <a href="../cite/Rose/1585/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1587</span> <span class="name">Rose</span> <a href="../cite/Rose/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1588</span> <span class="name">Rose</span> <a href="../cite/Rose/1588/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1589</span> <span class="name">Rose</span> <a href="../cite/Rose/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 17</span></a>,
+ <a href="../cite/Rose/1589/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1590</span> <span class="name">Rose</span> <a href="../cite/Rose/1590/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1591</span> <span class="name">Rose</span> <a href="../cite/Rose/1591/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 22</span></a>,
+ <a href="../cite/Rose/1591/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>,
+ <a href="../cite/Rose/1591/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1594/5</span> <span class="name">Rose</span> <a href="../cite/Rose/1594s5/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1594</span> <span class="name">Rose</span> <a href="../cite/Rose/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 28</span></a>,
+ <a href="../cite/Rose/1594/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 3</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1573</span> <span class="name">Rosye</span> <a href="../cite/Rosye/1573/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 84</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Rose</span> <a href="../cite/Rose/1582/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 563</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1180</span> <span class="name">Rohais</span> (<span class="case">abl</span>) <a href="../cite/Rohais/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1268</span> <span class="name">Rohesie</span> (<span class="case">gen</span>) <a href="../cite/Rohesie/1268/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-V</span></a>;
+ <span class="date">1301</span> <span class="name">Rose</span> (<span class="case">gen</span>) <a href="../cite/Rose/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 204</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1307</span> <span class="name">Rose</span> (<span class="case">obl</span>) <a href="../cite/Rose/1307/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">LX</span></a>;
+ <span class="date">1313</span> <span class="name">Rose</span> <a href="../cite/Rose/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 104</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1565</span> <span class="name">Roze</span> <a href="../cite/Roze/1565/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 145</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1366</span> <span class="name">Rosam</span> (<span class="case">acc</span>) <a href="../cite/Rosam/1366/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">23</span></a>;
+ <span class="date">1490</span> <span class="name">Rose</span> (<span class="case">gen</span>) <a href="../cite/Rose/1490/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Rosa</span> (<span class="case">nom</span>) <a href="../cite/Rosa/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 51, 7</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1521</span> <span class="name">Rosata</span> (<span class="case">nom</span>) <a href="../cite/Rosata/1521/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Rosata</span> (<span class="case">nom</span>) <a href="../cite/Rosata/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 51, 8</span></a>,
+ <span class="name">Rosella</span> (<span class="case">nom</span>) <a href="../cite/Rosella/1522x1532/DSF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53, 37</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Rosa</span> <a href="../cite/Rosa/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3851</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Rose". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Rose.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

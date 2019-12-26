@@ -1,0 +1,798 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Louis</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Louis</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>hlūt, lūt</i>, <span class="lang">Old Saxon</span> <i>hlūd</i> from <span class="lang">Proto-Germanic</span> <i>*hlūdaz, *hlūþaz</i> 'loud; famous, renowned' + <span class="lang">Old Saxon, Old English</span> <i>wig</i>, <span class="lang">Old High German</span> <i>wīc</i> 'war, battle'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of several early kings of Frankish tribes, three 9th C kings of the Franks, two 9th C kings of Italy and Roman Emperors, two 13th C French saints, a 14th C Holy Roman Emperor, twelve medieval kings of France, a 14th C king of Hungary and Poland, and a 16th C king of Bohemia and Hungary.</p>
+</div>
+  
+  
+<div class="def">
+  <p>Spelling variants using <i>w</i> are typical of English and Scots.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">837</span> <span class="name">hludouuici</span> (<span class="case">gen</span>) <a href="../cite/hludouuici/837/UBEnns-1"><span class="bib_key">UBEnns-1</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">859</span> <span class="name">Hludouuici</span> (<span class="case">gen</span>) <a href="../cite/Hludouuici/859/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Hludouuicus</span> (<span class="case">nom</span>) <a href="../cite/Hludouuicus/859/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">860</span> <span class="name">Hludouuici</span> (<span class="case">gen</span>) <a href="../cite/Hludouuici/860/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">864</span> <span class="name">Loͮdewici</span> (<span class="case">gen</span>) <a href="../cite/Loͮdewici/864/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>,
+ <span class="name">Loͮdewicus</span> (<span class="case">nom</span>) <a href="../cite/Loͮdewicus/864/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1093</span> <span class="name">Ludwich</span> (<span class="case">nom</span>) <a href="../cite/Ludwich/1093/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">87</span></a>,
+ <span class="name">Ludwici</span> (<span class="case">gen</span>) <a href="../cite/Ludwici/1093/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">87</span></a>;
+ <span class="date">1231</span> <span class="name">Lodewico</span> (<span class="case">abl</span>) <a href="../cite/Lodewico/1231/UBEnns3"><span class="bib_key">UBEnns3</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1231/UBEnns3"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">694</span> <span class="name">Ludouici</span> (<span class="case">gen</span>) <a href="../cite/Ludouici/694/CartStBav"><span class="bib_key">CartStBav</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1212x1213</span> <span class="name">Lodvicus</span> (<span class="case">nom</span>) <a href="../cite/Lodvicus/1212x1213/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1256</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1256/OHZI-II"><span class="bib_key">OHZI-II</span> <span class="bib_loc">no. 3</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1336</span> <span class="name">Lodewike</span> (<span class="case">dat</span>) <a href="../cite/Lodewike/1336/RSG1336-39"><span class="bib_key">RSG1336-39</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1356</span> <span class="name">Lodewick</span> <a href="../cite/Lodewick/1356/AM6"><span class="bib_key">AM6</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1410</span> <span class="name">Lodewyc</span> (<span class="case">nom</span>) <a href="../cite/Lodewyc/1410/AM6"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Lodewyck</span> <a href="../cite/Lodewyck/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 324</span></a>,
+ <span class="name">Lodewycx</span> (<span class="case">gen</span>) <a href="../cite/Lodewycx/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>,
+ <span class="name">Loycx</span> (<span class="case">gen</span>) <a href="../cite/Loycx/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 387</span></a>,
+ <span class="name">Loys</span> <a href="../cite/Loys/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 326</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1262</span> <span class="name">Loeys</span> (<span class="case">nom</span>) <a href="../cite/Loeys/1262/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">5</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1345</span> <span class="name">Lvdovicvs</span> (<span class="case">nom</span>) <a href="../cite/Lvdovicvs/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">614</span></a>;
+ <span class="date">1372</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1372/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1382</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1382/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1383</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1383/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1387</span> <span class="name">Ludwikus</span> (<span class="case">nom</span>) <a href="../cite/Ludwikus/1387/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1388</span> <span class="name">Ludwicus</span> (<span class="case">nom</span>) <a href="../cite/Ludwicus/1388/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1400</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1400/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1350</span> <span class="name">Ludlinus</span> (<span class="case">nom</span>) <a href="../cite/Ludlinus/1350/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">53</span></a>;
+ <span class="date">1356</span> <span class="name">Ludwicze</span> (<span class="case">nom</span>) <a href="../cite/Ludwicze/1356/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">169</span></a>;
+ <span class="date">1358</span> <span class="name">Lowko</span> (<span class="case">nom</span>) <a href="../cite/Lowko/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">459, p. 39</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1320</span> <span class="name">Lodwici</span> (<span class="case">gen</span>) <a href="../cite/Lodwici/1320/MIRGPCM4"><span class="bib_key">MIRGPCM4</span> <span class="bib_loc">XVI-III</span></a>;
+ <span class="date">1362</span> <span class="name">Lodwigs</span> (<span class="case">gen</span>) <a href="../cite/Lodwigs/1362/MIRGPCM4"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI-V</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1337</span> <span class="name">Lodovico</span> (<span class="case">dat</span>) <a href="../cite/Lodovico/1337/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">459</span></a>;
+ <span class="date">1379</span> <span class="name">Lodewysus</span> (<span class="case">nom</span>) <a href="../cite/Lodewysus/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1561</span> <span class="name">Lodovicus</span> (<span class="case">nom</span>) <a href="../cite/Lodovicus/1561/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1563</span> <span class="name">Lodowicus</span> (<span class="case">nom</span>) <a href="../cite/Lodowicus/1563/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1564</span> <span class="name">Lodovici</span> (<span class="case">gen</span>) <a href="../cite/Lodovici/1564/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1564/5</span> <span class="name">Lodovicus</span> (<span class="case">nom</span>) <a href="../cite/Lodovicus/1564s5/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1564</span> <span class="name">Lodovicus</span> (<span class="case">nom</span>) <a href="../cite/Lodovicus/1564/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1565</span> <span class="name">Lodvicus</span> (<span class="case">nom</span>) <a href="../cite/Lodvicus/1565/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1567</span> <span class="name">Lodovicus</span> (<span class="case">nom</span>) <a href="../cite/Lodovicus/1567/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1568</span> <span class="name">Lodovicus</span> (<span class="case">nom</span>) <a href="../cite/Lodovicus/1568/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1571</span> <span class="name">Lewis</span> (<span class="case">gen</span>) <a href="../cite/Lewis/1571/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 17</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1576</span> <span class="name">Ludovicus</span> <a href="../cite/Ludovicus/1576/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Cornelissen</span></a>;
+ <span class="date">1577</span> <span class="name">Lowijs</span> <a href="../cite/Lowijs/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Capelle</span></a>;
+ <span class="date">1578</span> <span class="name">Lowijs</span> <a href="../cite/Lowijs/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Capellen</span></a>;
+ <span class="date">1582</span> <span class="name">Lowijs</span> <a href="../cite/Lowijs/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Capelle</span></a>;
+ <span class="date">1583</span> <span class="name">Lodewijck</span> <a href="../cite/Lodewijck/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Capelle</span></a>;
+ <span class="date">1585</span> <span class="name">Lowijs</span> <a href="../cite/Lowijs/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Capelle</span></a>;
+ <span class="date">1586</span> <span class="name">Lowijs</span> <a href="../cite/Lowijs/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Burchtgrave</span></a>;
+ <span class="date">1588</span> <span class="name">Lowijs</span> <a href="../cite/Lowijs/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Dorner</span></a>,
+ <span class="name">Lowys</span> <a href="../cite/Lowys/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Dorner</span></a>;
+ <span class="date">1589</span> <span class="name">Lowijs</span> <a href="../cite/Lowijs/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Burchgrave</span></a>;
+ <span class="date">1591</span> <span class="name">Lowijs</span> <a href="../cite/Lowijs/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Capelle</span></a>;
+ <span class="date">1593</span> <span class="name">Lowijs</span> <a href="../cite/Lowijs/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Capelle</span></a>;
+ <span class="date">1596</span> <span class="name">Lodewijck</span> <a href="../cite/Lodewijck/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Brun</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1406</span> <span class="name">Lowys</span> <a href="../cite/Lowys/1406/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 13</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1543/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXIX</span></a>;
+ <span class="date">1547</span> <span class="name">Lewis</span> <a href="../cite/Lewis/1547/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">1b</span></a>;
+ <span class="date">1551</span> <span class="name">Lewis</span> <a href="../cite/Lewis/1551/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1556</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1556/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1557</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1557/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1558</span> <span class="name">Lewis</span> <a href="../cite/Lewis/1558/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1559</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1559/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1560/1</span> <span class="name">Lewis</span> <a href="../cite/Lewis/1560s1/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1560</span> <span class="name">Lewis</span> <a href="../cite/Lewis/1560/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Lodowick</span> <a href="../cite/Lodowick/1560/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1561</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1561/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1562</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1562/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Lewes/1562/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>;
+ <span class="date">1564</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1564/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1568</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1568/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1569</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1569/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1578</span> <span class="name">Luis</span> <a href="../cite/Luis/1578/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1579</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1579/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1581</span> <span class="name">Lews</span> <a href="../cite/Lews/1581/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1588</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1588/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 118</span></a>;
+ <span class="date">1589</span> <span class="name">Lewis</span> <a href="../cite/Lewis/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1592/3</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1592s3/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 121</span></a>;
+ <span class="date">1592</span> <span class="name">lewes</span> <a href="../cite/lewes/1592/HWCP2"><span class="bib_key">HWCP2</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1597</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1597/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Lewes/1597/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 18</span></a>,
+ <span class="name">Lewis</span> <a href="../cite/Lewis/1597/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1598</span> <span class="name">Lewes</span> <a href="../cite/Lewes/1598/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 125</span></a>,
+ <span class="name">Lewis</span> <a href="../cite/Lewis/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1599</span> <span class="name">Lewis</span> <a href="../cite/Lewis/1599/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Louys</span> <a href="../cite/Louys/1581/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1582/3</span> <span class="name">Louys</span> <a href="../cite/Louys/1582s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1583</span> <span class="name">Louys</span> <a href="../cite/Louys/1583/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 437</span></a>;
+ <span class="date">1584</span> <span class="name">Louys</span> <a href="../cite/Louys/1584/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1590</span> <span class="name">Louis</span> <a href="../cite/Louis/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Louys</span> <a href="../cite/Louys/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1590/1</span> <span class="name">Loys</span> <a href="../cite/Loys/1590s1/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 441</span></a>;
+ <span class="date">1590</span> <span class="name">Loys</span> <a href="../cite/Loys/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 441</span></a>;
+ <span class="date">1591</span> <span class="name">Louys</span> <a href="../cite/Louys/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1591/2</span> <span class="name">Loys</span> <a href="../cite/Loys/1591s2/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1591</span> <span class="name">Loys</span> <a href="../cite/Loys/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 563</span></a>;
+ <span class="date">1592</span> <span class="name">Louys</span> <a href="../cite/Louys/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Loys</span> <a href="../cite/Loys/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1592/3</span> <span class="name">Loys</span> <a href="../cite/Loys/1592s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593/4</span> <span class="name">Louys</span> <a href="../cite/Louys/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Loys</span> <a href="../cite/Loys/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1593</span> <span class="name">Loys</span> <a href="../cite/Loys/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 564</span></a>;
+ <span class="date">1594</span> <span class="name">Loys</span> <a href="../cite/Loys/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1364</span> <span class="name">Lodewich</span> <a href="../cite/Lodewich/1364/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 334</span></a>;
+ <span class="date">1400</span> <span class="name">Lodewich</span> <a href="../cite/Lodewich/1400/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1404</span> <span class="name">Lodewich</span> <a href="../cite/Lodewich/1404/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1407</span> <span class="name">Lodewich</span> <a href="../cite/Lodewich/1407/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1416</span> <span class="name">Lodewich</span> <a href="../cite/Lodewich/1416/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 348</span></a>;
+ <span class="date">1427</span> <span class="name">Lodewich</span> <a href="../cite/Lodewich/1427/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1434</span> <span class="name">Lodewych</span> <a href="../cite/Lodewych/1434/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 357</span></a>;
+ <span class="date">1435</span> <span class="name">Lodewich</span> <a href="../cite/Lodewich/1435/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1364</span> <span class="name">Ludike</span> <a href="../cite/Ludike/1364/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 334</span></a>;
+ <span class="date">1379</span> <span class="name">Ludike</span> <a href="../cite/Ludike/1379/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1383</span> <span class="name">Ludike</span> <a href="../cite/Ludike/1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1384</span> <span class="name">Ludike</span> <a href="../cite/Ludike/1384/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1408</span> <span class="name">Ludike</span> <a href="../cite/Ludike/1408/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>;
+ <span class="date">1416</span> <span class="name">Ludike</span> <a href="../cite/Ludike/1416/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1421</span> <span class="name">Loeuweke</span> <a href="../cite/Loeuweke/1421/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1425</span> <span class="name">Ludike</span> <a href="../cite/Ludike/1425/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1428</span> <span class="name">Ludeke</span> <a href="../cite/Ludeke/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a>;
+ <span class="date">1429</span> <span class="name">Ludeke</span> <a href="../cite/Ludeke/1429/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 353</span></a>;
+ <span class="date">1434</span> <span class="name">Lüdeke</span> <a href="../cite/Lüdeke/1434/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 357</span></a>;
+ <span class="date">1435</span> <span class="name">Ludeke</span> <a href="../cite/Ludeke/1435/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 357</span></a>;
+ <span class="date">1436</span> <span class="name">Luedeke</span> <a href="../cite/Luedeke/1436/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>;
+ <span class="date">1524x1532</span> <span class="name">Ludika</span> (<span class="case">gen</span>) <a href="../cite/Ludika/1524x1532/Saareste1923b"><span class="bib_key">Saareste1923b</span> <span class="bib_loc">p. 137</span></a>,
+ <span class="name">Ludyck</span> (<span class="case">nom</span>) <a href="../cite/Ludyck/1524x1532/Saareste1923a"><span class="bib_key">Saareste1923a</span> <span class="bib_loc">p. 138</span></a>,
+ <span class="name">Luto</span> (<span class="case">nom</span>) <a href="../cite/Luto/1524x1532/Saareste1923a"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 103</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">693</span> <span class="name">Hludowico</span> (<span class="case">abl</span>) <a href="../cite/Hludowico/693/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">Add. V</span></a>;
+ <span class="date">808</span> <span class="name">Hlodoici</span> (<span class="case">gen</span>) <a href="../cite/Hlodoici/808/CartNoaille"><span class="bib_key">CartNoaille</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Hlodowih</span> (<span class="case">nom</span>) <a href="../cite/Hlodowih/808/CartNoaille"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>;
+ <span class="date">825</span> <span class="name">Hludovici</span> (<span class="case">gen</span>) <a href="../cite/Hludovici/825/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Hludovico</span> (<span class="case">abl</span>) <a href="../cite/Hludovico/825/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>;
+ <span class="date">832</span> <span class="name">Lodouico</span> (<span class="case">abl</span>) <a href="../cite/Lodouico/832/CartRed"><span class="bib_key">CartRed</span> <span class="bib_loc">I</span></a>;
+ <span class="date">833</span> <span class="name">Hlodouuici</span> (<span class="case">gen</span>) <a href="../cite/Hlodouuici/833/CartRed"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Holodouuico</span> (<span class="case">abl</span>) <a href="../cite/Holodouuico/833/CartRed"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">833x834</span> <span class="name">Hlodouuici</span> (<span class="case">gen</span>) <a href="../cite/Hlodouuici/833x834/CartRed"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">834</span> <span class="name">Hlodouici</span> (<span class="case">gen</span>) <a href="../cite/Hlodouici/834/CartRed"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Hlodouuici</span> (<span class="case">gen</span>) <a href="../cite/Hlodouuici/834/CartRed"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>,
+ <span class="name">Holodouuico</span> (<span class="case">abl</span>) <a href="../cite/Holodouuico/834/CartRed"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Lodouici</span> (<span class="case">gen</span>) <a href="../cite/Lodouici/834/CartRed"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Lodouicus</span> (<span class="case">nom</span>) <a href="../cite/Lodouicus/834/CartRed"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>;
+ <span class="date">854</span> <span class="name">Hludovici</span> (<span class="case">gen</span>) <a href="../cite/Hludovici/854/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">862</span> <span class="name">Hludovici</span> (<span class="case">gen</span>) <a href="../cite/Hludovici/862/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">c862</span> <span class="name">Hludovici</span> (<span class="case">gen</span>) <a href="../cite/Hludovici/c862/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">878</span> <span class="name">Hludovici</span> (<span class="case">gen</span>) <a href="../cite/Hludovici/878/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>,
+ <span class="name">Hludovico</span> (<span class="case">abl</span>) <a href="../cite/Hludovico/878/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>,
+ <span class="name">Hludovicus</span> (<span class="case">nom</span>) <a href="../cite/Hludovicus/878/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">909</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/909/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 77</span></a>;
+ <span class="date">933</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/933/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 147</span></a>;
+ <span class="date">1117</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1117/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XI</span></a>;
+ <span class="date">1121</span> <span class="name">Lodvico</span> (<span class="case">abl</span>) <a href="../cite/Lodvico/1121/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">1</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1121/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXII</span></a>,
+ <a href="../cite/Ludovico/1121/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1123</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1123/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXV</span></a>,
+ <span class="name">Lugdovico</span> (<span class="case">abl</span>) <a href="../cite/Lugdovico/1123/CartYonne1"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXXIV</span></a>;
+ <span class="date">1124</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1124/CartYonne1"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXXVII</span></a>;
+ <span class="date">1131</span> <span class="name">Lodovico</span> (<span class="case">abl</span>) <a href="../cite/Lodovico/1131/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">4</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1131/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXIII</span></a>,
+ <a href="../cite/Ludovico/1131/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1133</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1133/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXI</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1133/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXI</span></a>;
+ <span class="date">1135</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1135/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 371</span></a>,
+ <a href="../cite/Ludovico/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1135/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 371</span></a>,
+ <a href="../cite/Ludovicus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1137x1154</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1137x1154/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1138</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1138/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIX</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1138/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXIX</span></a>;
+ <span class="date">1139</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1139/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 372</span></a>;
+ <span class="date">1141</span> <span class="name">Lodoico</span> (<span class="case">abl</span>) <a href="../cite/Lodoico/1141/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">VII</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1141/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXXI</span></a>;
+ <span class="date">1143</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1143/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 373</span></a>,
+ <a href="../cite/Ludovico/1143/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1145</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1145/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1145/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1146</span> <span class="name">Lodovico</span> (<span class="case">abl</span>) <a href="../cite/Lodovico/1146/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1147</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1147/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXV</span></a>,
+ <a href="../cite/Ludovico/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1148</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1148/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXIV</span></a>;
+ <span class="date">1153</span> <span class="name">Lodovico</span> (<span class="case">abl</span>) <a href="../cite/Lodovico/1153/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1154</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1154/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">27</span></a>;
+ <span class="date">1156</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1156/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CCCLXXXII</span></a>;
+ <span class="date">1157</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1157/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1158</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1158/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">33</span></a>;
+ <span class="date">1160</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1160/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXIV</span></a>;
+ <span class="date">1163</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">101</span></a>,
+ <span class="name">Ludowicus</span> (<span class="case">nom</span>) <a href="../cite/Ludowicus/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">101</span></a>;
+ <span class="date">1167</span> <span class="name">Lodovico</span> (<span class="case">abl</span>) <a href="../cite/Lodovico/1167/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1171</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1171/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">139</span></a>;
+ <span class="date">1175</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1175/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">162</span></a>;
+ <span class="date">1248</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1248/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 381</span></a>;
+ <span class="date">1256</span> <span class="name">Ludewico</span> (<span class="case">abl</span>) <a href="../cite/Ludewico/1256/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">161</span></a>,
+ <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1256/OHZI-II"><span class="bib_key">OHZI-II</span> <span class="bib_loc">no. 2</span></a>;
+ <span class="date">1262</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1262/StOuen"><span class="bib_key">StOuen</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1309</span> <span class="name">Ludovico</span> (<span class="case">dat</span>) <a href="../cite/Ludovico/1309/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 1</span></a>;
+ <span class="date">1345</span> <span class="name">Ludowici</span> (<span class="case">gen</span>) <a href="../cite/Ludowici/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">625</span></a>,
+ <span class="name">Ludowico</span> (<span class="case">dat</span>) <a href="../cite/Ludowico/1345/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">625</span></a>,
+ <span class="name">Ludowicum</span> (<span class="case">acc</span>) <a href="../cite/Ludowicum/1345/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">625</span></a>;
+ <span class="date">1378</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">872</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">dat</span>) <a href="../cite/Ludovico/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">842</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">336</span></a>,
+ <span class="name">Ludowici</span> (<span class="case">gen</span>) <a href="../cite/Ludowici/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>;
+ <span class="date">1454</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1454/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">223</span></a>;
+ <span class="date">1465</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1465/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">232</span></a>;
+ <span class="date">1471</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1471/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">235</span></a>;
+ <span class="date">1480</span> <span class="name">Ludovico</span> (<span class="case">dat</span>) <a href="../cite/Ludovico/1480/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">245</span></a>;
+ <span class="date">1503</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1503/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">278</span></a>;
+ <span class="date">1534</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1534/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">305</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1378</span> <span class="name">Loysulus</span> (<span class="case">nom</span>) <a href="../cite/Loysulus/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1381</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Looys</span> (<span class="case">obl</span>) <a href="../cite/Looys/1292/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 110</span></a>;
+ <span class="date">1296</span> <span class="name">Looÿs</span> <a href="../cite/Looÿs/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1301</span> <span class="name">Alous</span> (<span class="case">nom</span>) <a href="../cite/Alous/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 275</span></a>,
+ <span class="name">Alout</span> (<span class="case">obl</span>) <a href="../cite/Alout/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 275</span></a>;
+ <span class="date">1303</span> <span class="name">Looye</span> (<span class="case">nom</span>) <a href="../cite/Looye/1303/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 151</span></a>;
+ <span class="date">1313</span> <span class="name">Laoys</span> <a href="../cite/Laoys/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Loys</span> <a href="../cite/Loys/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1327</span> <span class="name">Loys</span> <a href="../cite/Loys/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 176</span></a>;
+ <span class="date">1348</span> <span class="name">Loiz</span> (<span class="case">obl</span>) <a href="../cite/Loiz/1348/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DXVIII</span></a>,
+ <span class="name">Loys</span> (<span class="case">obl</span>) <a href="../cite/Loys/1348/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DX</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Loÿset</span> <a href="../cite/Loÿset/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 29</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1358</span> <span class="name">Louis</span> <a href="../cite/Louis/1358/LeCoq"><span class="bib_key">LeCoq</span> <span class="bib_loc">p. 382</span></a>;
+ <span class="date">1365</span> <span class="name">Loys</span> <a href="../cite/Loys/1365/ActsCharlesV"><span class="bib_key">ActsCharlesV</span> <span class="bib_loc">no. 225a</span></a>;
+ <span class="date">1366/7</span> <span class="name">Loys</span> <a href="../cite/Loys/1366s7/ActsCharlesV"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 386</span></a>;
+ <span class="date">1367</span> <span class="name">Loys</span> <a href="../cite/Loys/1367/ActsCharlesV"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 394</span></a>;
+ <span class="date">1388</span> <span class="name">Lois</span> <a href="../cite/Lois/1388/thierry"><span class="bib_key">thierry</span></a>;
+ <span class="date">1392</span> <span class="name">Loys</span> <a href="../cite/Loys/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 599</span></a>;
+ <span class="date">1415[1469x1471]</span> <span class="name">Loys</span> <a href="../cite/Loys/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 225</span></a>;
+ <span class="date">1418</span> <span class="name">Loys</span> <a href="../cite/Loys/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 200</span></a>,
+ <a href="../cite/Loys/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 376</span></a>;
+ <span class="date">1421</span> <span class="name">Louis</span> <a href="../cite/Louis/1421/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 399</span></a>,
+ <span class="name">Louys</span> <a href="../cite/Louys/1421/favier"><span class="bib_key">favier</span></a>,
+ <span class="name">Loys</span> <a href="../cite/Loys/1421/Laroche"><span class="bib_key">Laroche</span> <span class="bib_loc">no. 6</span></a>,
+ <a href="../cite/Loys/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">188</span></a>;
+ <span class="date">1423</span> <span class="name">Loys</span> <a href="../cite/Loys/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">374</span></a>;
+ <span class="date">1438</span> <span class="name">Loys</span> <a href="../cite/Loys/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">389</span></a>;
+ <span class="date">1440</span> <span class="name">Loys</span> <a href="../cite/Loys/1440/Laroche"><span class="bib_key">Laroche</span> <span class="bib_loc">no. 5</span></a>;
+ <span class="date">1454</span> <span class="name">Loys</span> <a href="../cite/Loys/1454/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">223</span></a>;
+ <span class="date">1466</span> <span class="name">Loys</span> <a href="../cite/Loys/1466/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 5</span></a>;
+ <span class="date">1477–1478</span> <span class="name">Loys</span> <a href="../cite/Loys/1477–1478/Laroche"><span class="bib_key">Laroche</span> <span class="bib_loc">no. 4</span></a>;
+ <span class="date">1479</span> <span class="name">Loys</span> <a href="../cite/Loys/1479/Laroche"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1</span></a>;
+ <span class="date">1480</span> <span class="name">Loys</span> <a href="../cite/Loys/1480/ChartBB"><span class="bib_key">ChartBB</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1482</span> <span class="name">Loys</span> <a href="../cite/Loys/1482/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 401</span></a>;
+ <span class="date">1493</span> <span class="name">Loys</span> <a href="../cite/Loys/1493/MSR1838"><span class="bib_key">MSR1838</span> <span class="bib_loc">p. 377</span></a>;
+ <span class="date">1504</span> <span class="name">Loys</span> <a href="../cite/Loys/1504/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">279</span></a>;
+ <span class="date">1527</span> <span class="name">Loys</span> <a href="../cite/Loys/1527/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 403</span></a>;
+ <span class="date">1529</span> <span class="name">Loys</span> <a href="../cite/Loys/1529/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 7</span></a>;
+ <span class="date">1562</span> <span class="name">Loys</span> <a href="../cite/Loys/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1563</span> <span class="name">Loys</span> <a href="../cite/Loys/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1564</span> <span class="name">Loys</span> <a href="../cite/Loys/1564/RegPCC-1"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1565</span> <span class="name">Loys</span> <a href="../cite/Loys/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 118</span></a>;
+ <span class="date">1566</span> <span class="name">Loys</span> <a href="../cite/Loys/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 198</span></a>;
+ <span class="date">1567</span> <span class="name">Loys</span> <a href="../cite/Loys/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 286</span></a>;
+ <span class="date">1568</span> <span class="name">Loys</span> <a href="../cite/Loys/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 373</span></a>;
+ <span class="date">1570</span> <span class="name">Loys</span> <a href="../cite/Loys/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 433</span></a>;
+ <span class="date">1571</span> <span class="name">Loys</span> <a href="../cite/Loys/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 437</span></a>;
+ <span class="date">1572</span> <span class="name">Loys</span> <a href="../cite/Loys/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 505</span></a>;
+ <span class="date">1587</span> <span class="name">Loys</span> <a href="../cite/Loys/1587/RTFProvins"><span class="bib_key">RTFProvins</span> <span class="bib_loc">153</span></a>;
+ <span class="date">1588</span> <span class="name">Louis</span> <a href="../cite/Louis/1588/raymond1588"><span class="bib_key">raymond1588</span> <span class="bib_loc">p. 570</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1418</span> <span class="name">Loyset</span> <a href="../cite/Loyset/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 212</span></a>,
+ <a href="../cite/Loyset/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 386</span></a>;
+ <span class="date">1423</span> <span class="name">Loyset</span> <a href="../cite/Loyset/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">247</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814</span> <span class="name">Hludovicus</span> (<span class="case">nom</span>) <a href="../cite/Hludovicus/814/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">86</span></a>,
+ <span class="name">Hludowici</span> (<span class="case">gen</span>) <a href="../cite/Hludowici/814/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">86</span></a>;
+ <span class="date">815</span> <span class="name">Hludovici</span> (<span class="case">gen</span>) <a href="../cite/Hludovici/815/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Hludovicus</span> (<span class="case">nom</span>) <a href="../cite/Hludovicus/815/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>;
+ <span class="date">816</span> <span class="name">Hludovici</span> (<span class="case">gen</span>) <a href="../cite/Hludovici/816/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>,
+ <span class="name">Hludovicus</span> (<span class="case">nom</span>) <a href="../cite/Hludovicus/816/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>,
+ <span class="name">Luduuuicus</span> (<span class="case">nom</span>) <a href="../cite/Luduuuicus/816/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">9</span></a>;
+ <span class="date">819</span> <span class="name">Loͮdewici</span> (<span class="case">gen</span>) <a href="../cite/Loͮdewici/819/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">5</span></a>,
+ <span class="name">Loͮdewicus</span> (<span class="case">nom</span>) <a href="../cite/Loͮdewicus/819/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>,
+ <span class="name">hludouuicus</span> (<span class="case">nom</span>) <a href="../cite/hludouuicus/819/CartStBav"><span class="bib_key">CartStBav</span> <span class="bib_loc">3</span></a>;
+ <span class="date">825</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/825/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">828</span> <span class="name">Lothowici</span> (<span class="case">gen</span>) <a href="../cite/Lothowici/828/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 29</span></a>;
+ <span class="date">834</span> <span class="name">Hlodewici</span> (<span class="case">gen</span>) <a href="../cite/Hlodewici/834/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">VIII</span></a>,
+ <span class="name">Hludouuicus</span> (<span class="case">nom</span>) <a href="../cite/Hludouuicus/834/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>,
+ <span class="name">Hludowici</span> (<span class="case">gen</span>) <a href="../cite/Hludowici/834/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">842</span> <span class="name">Hludouuici</span> (<span class="case">gen</span>) <a href="../cite/Hludouuici/842/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>,
+ <span class="name">Hludouuico</span> (<span class="case">abl</span>) <a href="../cite/Hludouuico/842/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>,
+ <span class="name">Hludouuicus</span> (<span class="case">nom</span>) <a href="../cite/Hludouuicus/842/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>,
+ <span class="name">Hludowici</span> (<span class="case">gen</span>) <a href="../cite/Hludowici/842/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">87</span></a>,
+ <span class="name">Hludowicus</span> (<span class="case">nom</span>) <a href="../cite/Hludowicus/842/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">87</span></a>;
+ <span class="date">844</span> <span class="name">Ludowici</span> (<span class="case">gen</span>) <a href="../cite/Ludowici/844/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2</span></a>;
+ <span class="date">855</span> <span class="name">Ludewici</span> (<span class="case">gen</span>) <a href="../cite/Ludewici/855/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/855/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Ludowicus</span> (<span class="case">nom</span>) <a href="../cite/Ludowicus/855/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">14</span></a>;
+ <span class="date">857</span> <span class="name">Hludouuici</span> (<span class="case">gen</span>) <a href="../cite/Hludouuici/857/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">858</span> <span class="name">Hludouuici</span> (<span class="case">gen</span>) <a href="../cite/Hludouuici/858/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XIV</span></a>,
+ <span class="name">Hludouuico</span> (<span class="case">abl</span>) <a href="../cite/Hludouuico/858/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>,
+ <span class="name">Hludouuicus</span> (<span class="case">nom</span>) <a href="../cite/Hludouuicus/858/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/858/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">864</span> <span class="name">Hludouuici</span> (<span class="case">gen</span>) <a href="../cite/Hludouuici/864/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>,
+ <span class="name">Hludouuico</span> (<span class="case">abl</span>) <a href="../cite/Hludouuico/864/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>,
+ <span class="name">Hludouuicus</span> (<span class="case">nom</span>) <a href="../cite/Hludouuicus/864/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">865</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/865/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/865/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">871</span> <span class="name">Hluodouici</span> (<span class="case">gen</span>) <a href="../cite/Hluodouici/871/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">45</span></a>,
+ <span class="name">Ludouicus</span> (<span class="case">nom</span>) <a href="../cite/Ludouicus/871/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>,
+ <span class="name">Ludouuici</span> (<span class="case">gen</span>) <a href="../cite/Ludouuici/871/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>;
+ <span class="date">877</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/877/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">94</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/877/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">94</span></a>,
+ <span class="name">Ludowici</span> (<span class="case">gen</span>) <a href="../cite/Ludowici/877/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">94</span></a>;
+ <span class="date">888</span> <span class="name">Hluthuici</span> (<span class="case">gen</span>) <a href="../cite/Hluthuici/888/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XXII</span></a>,
+ <span class="name">Hluthuuici</span> (<span class="case">gen</span>) <a href="../cite/Hluthuuici/888/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII</span></a>;
+ <span class="date">891</span> <span class="name">Lodowicus</span> (<span class="case">nom</span>) <a href="../cite/Lodowicus/891/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIV</span></a>;
+ <span class="date">902</span> <span class="name">Hlodewici</span> (<span class="case">gen</span>) <a href="../cite/Hlodewici/902/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">8</span></a>,
+ <span class="name">Hlodewicus</span> (<span class="case">nom</span>) <a href="../cite/Hlodewicus/902/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>,
+ <span class="name">Lodewici</span> (<span class="case">gen</span>) <a href="../cite/Lodewici/902/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">904</span> <span class="name">Hludouuici</span> (<span class="case">gen</span>) <a href="../cite/Hludouuici/904/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">13</span></a>,
+ <span class="name">Hludouuicus</span> (<span class="case">nom</span>) <a href="../cite/Hludouuicus/904/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>,
+ <span class="name">Hludovuici</span> (<span class="case">gen</span>) <a href="../cite/Hludovuici/904/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">910</span> <span class="name">Lodewici</span> (<span class="case">gen</span>) <a href="../cite/Lodewici/910/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">9</span></a>,
+ <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/910/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1103</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1103/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">79</span></a>;
+ <span class="date">1147</span> <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1147/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1165</span> <span class="name">Ludowicus</span> (<span class="case">nom</span>) <a href="../cite/Ludowicus/1165/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1180</span> <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1180/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1197</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1197/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1207</span> <span class="name">Lodhevicus</span> (<span class="case">nom</span>) <a href="../cite/Lodhevicus/1207/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1210</span> <span class="name">Lodvico</span> (<span class="case">abl</span>) <a href="../cite/Lodvico/1210/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1212</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1212/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1214</span> <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1214/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1215</span> <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1215/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1217</span> <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1217/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1218</span> <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1218/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1219</span> <span class="name">Ludewicum</span> (<span class="case">acc</span>) <a href="../cite/Ludewicum/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">41</span></a>,
+ <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">41</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1221</span> <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">57</span></a>,
+ <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1222</span> <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1222/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">74</span></a>;
+ <span class="date">1222?</span> <span class="name">Ludewicum</span> (<span class="case">acc</span>) <a href="../cite/Ludewicum/1222?/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">133</span></a>;
+ <span class="date">1225</span> <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1225/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1231</span> <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1231/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">86</span></a>;
+ <span class="date">1234</span> <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1234/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>;
+ <span class="date">1245</span> <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1245/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1248</span> <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1248/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>;
+ <span class="date">1249</span> <span class="name">Ludewici</span> (<span class="case">gen</span>) <a href="../cite/Ludewici/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">131</span></a>,
+ <span class="name">Ludewico</span> (<span class="case">abl</span>) <a href="../cite/Ludewico/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">131</span></a>,
+ <span class="name">Ludewicum</span> (<span class="case">acc</span>) <a href="../cite/Ludewicum/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">131</span></a>,
+ <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">131</span></a>;
+ <span class="date">1254</span> <span class="name">Ludewici</span> (<span class="case">gen</span>) <a href="../cite/Ludewici/1254/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">155</span></a>;
+ <span class="date">1257</span> <span class="name">Lodewico</span> (<span class="case">dat</span>) <a href="../cite/Lodewico/1257/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">114</span></a>,
+ <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1257/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. L</span></a>;
+ <span class="date">1258</span> <span class="name">Lodowico</span> (<span class="case">abl</span>) <a href="../cite/Lodowico/1258/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">185</span></a>,
+ <span class="name">Ludewico</span> (<span class="case">abl</span>) <a href="../cite/Ludewico/1258/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>,
+ <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1258/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Luduvicus</span> (<span class="case">nom</span>) <a href="../cite/Luduvicus/1258/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">181</span></a>;
+ <span class="date">1259</span> <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1260</span> <span class="name">Lodowicus</span> (<span class="case">nom</span>) <a href="../cite/Lodowicus/1260/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">191</span></a>,
+ <span class="name">Ludwicus</span> (<span class="case">nom</span>) <a href="../cite/Ludwicus/1260/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">187</span></a>;
+ <span class="date">1265</span> <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1265/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">206</span></a>,
+ <span class="name">Ludwicus</span> (<span class="case">nom</span>) <a href="../cite/Ludwicus/1265/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">204</span></a>;
+ <span class="date">1271</span> <span class="name">Lodewico</span> (<span class="case">abl</span>) <a href="../cite/Lodewico/1271/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">220</span></a>,
+ <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1271/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">220</span></a>,
+ <span class="name">Ludewici</span> (<span class="case">gen</span>) <a href="../cite/Ludewici/1271/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">215</span></a>;
+ <span class="date">1273</span> <span class="name">Ludewici</span> (<span class="case">gen</span>) <a href="../cite/Ludewici/1273/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">229</span></a>;
+ <span class="date">1274</span> <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1274/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">234</span></a>;
+ <span class="date">1277</span> <span class="name">Ludwicus</span> (<span class="case">nom</span>) <a href="../cite/Ludwicus/1277/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">256</span></a>;
+ <span class="date">1278</span> <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1278/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">264</span></a>;
+ <span class="date">1280</span> <span class="name">Loduwicus</span> (<span class="case">nom</span>) <a href="../cite/Loduwicus/1280/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">268</span></a>,
+ <span class="name">Lodvicus</span> (<span class="case">nom</span>) <a href="../cite/Lodvicus/1280/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">270</span></a>;
+ <span class="date">1281</span> <span class="name">Ludewico</span> (<span class="case">abl</span>) <a href="../cite/Ludewico/1281/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">278</span></a>,
+ <span class="name">Ludewicus</span> (<span class="case">nom</span>) <a href="../cite/Ludewicus/1281/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">277</span></a>;
+ <span class="date">1282</span> <span class="name">Ludowico</span> (<span class="case">abl</span>) <a href="../cite/Ludowico/1282/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">282</span></a>;
+ <span class="date">1284</span> <span class="name">Lodvico</span> (<span class="case">abl</span>) <a href="../cite/Lodvico/1284/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">297</span></a>,
+ <span class="name">Ludewico</span> (<span class="case">abl</span>) <a href="../cite/Ludewico/1284/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">296</span></a>;
+ <span class="date">1287</span> <span class="name">Ludewicum</span> (<span class="case">acc</span>) <a href="../cite/Ludewicum/1287/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">307</span></a>;
+ <span class="date">1288</span> <span class="name">Lodvici</span> (<span class="case">gen</span>) <a href="../cite/Lodvici/1288/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">311</span></a>,
+ <span class="name">Lodvicum</span> (<span class="case">acc</span>) <a href="../cite/Lodvicum/1288/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">311</span></a>;
+ <span class="date">1290</span> <span class="name">Lodwicus</span> (<span class="case">nom</span>) <a href="../cite/Lodwicus/1290/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">319</span></a>;
+ <span class="date">1292</span> <span class="name">Lodewici</span> (<span class="case">gen</span>) <a href="../cite/Lodewici/1292/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. LXXXIX</span></a>;
+ <span class="date">1322</span> <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1322/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">79</span></a>;
+ <span class="date">1401</span> <span class="name">ludewico</span> (<span class="case">dat</span>) <a href="../cite/ludewico/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 22</span></a>,
+ <span class="name">ludowico</span> (<span class="case">dat</span>) <a href="../cite/ludowico/1401/HD1401"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 87</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1259</span> <span class="name">Ludeke</span> (<span class="case">nom</span>) <a href="../cite/Ludeke/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>,
+ <span class="name">Ludeko</span> (<span class="case">nom</span>) <a href="../cite/Ludeko/1259/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1305</span> <span class="name">Ludeke</span> (<span class="case">nom</span>) <a href="../cite/Ludeke/1305/CDL-1.2.1"><span class="bib_key">CDL-1.2.1</span> <span class="bib_loc">CXCIII</span></a>;
+ <span class="date">1313</span> <span class="name">Ludeke</span> (<span class="case">nom</span>) <a href="../cite/Ludeke/1313/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">23</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1282</span> <span class="name">Lodewige</span> (<span class="case">dat</span>) <a href="../cite/Lodewige/1282/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">284</span></a>;
+ <span class="date">1293</span> <span class="name">Lodwich</span> (<span class="case">nom</span>) <a href="../cite/Lodwich/1293/UrkWitt-II"><span class="bib_key">UrkWitt-II</span> <span class="bib_loc">187</span></a>,
+ <span class="name">Lodwigen</span> (<span class="case">dat</span>) <a href="../cite/Lodwigen/1293/UrkWitt-II"><span class="bib_key">ibid.</span> <span class="bib_loc">187</span></a>,
+ <span class="name">Lodwiges</span> (<span class="case">gen</span>) <a href="../cite/Lodwiges/1293/UrkWitt-II"><span class="bib_key">ibid.</span> <span class="bib_loc">189</span></a>,
+ <span class="name">Ludewich</span> (<span class="case">nom</span>) <a href="../cite/Ludewich/1293/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">53</span></a>,
+ <span class="name">Ludewiges</span> (<span class="case">gen</span>) <a href="../cite/Ludewiges/1293/UrkHeil1"><span class="bib_key">ibid.</span> <span class="bib_loc">53</span></a>,
+ <span class="name">Ludwiges</span> <a href="../cite/Ludwiges/1293/UrkWitt-II"><span class="bib_key">UrkWitt-II</span> <span class="bib_loc">187</span></a>,
+ <span class="name">Lvdwich</span> (<span class="case">nom</span>) <a href="../cite/Lvdwich/1293/UrkWitt-II"><span class="bib_key">ibid.</span> <span class="bib_loc">187</span></a>;
+ <span class="date">1322</span> <span class="name">Ludowich</span> (<span class="case">nom</span>) <a href="../cite/Ludowich/1322/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">101</span></a>;
+ <span class="date">1333</span> <span class="name">Ludowig</span> (<span class="case">nom</span>) <a href="../cite/Ludowig/1333/UrkHeil1"><span class="bib_key">ibid.</span> <span class="bib_loc">134</span></a>;
+ <span class="date">1339</span> <span class="name">Ludwig</span> (<span class="case">nom</span>) <a href="../cite/Ludwig/1339/UrkHeil1"><span class="bib_key">ibid.</span> <span class="bib_loc">151</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1419</span> <span class="name">Ludweig</span> (<span class="case">nom</span>) <a href="../cite/Ludweig/1419/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCCXI</span></a>;
+ <span class="date">1420</span> <span class="name">Ludweigen</span> (<span class="case">dat</span>) <a href="../cite/Ludweigen/1420/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXV</span></a>;
+ <span class="date">1497</span> <span class="name">Ludwig</span> <a href="../cite/Ludwig/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">35</span></a>,
+ <span class="name">Luͤdwig</span> <a href="../cite/Luͤdwig/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">195</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1351</span> <span class="name">Ludouicus</span> (<span class="case">nom</span>) <a href="../cite/Ludouicus/1351/CDH-IX-II"><span class="bib_key">CDH-IX-II</span> <span class="bib_loc">I</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1524</span> <span class="name">Lewis</span> <a href="../cite/Lewis/1524/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1526/7</span> <span class="name">Lewis</span> <a href="../cite/Lewis/1526s7/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">827</span> <span class="name">Hludouuici</span> (<span class="case">gen</span>) <a href="../cite/Hludouuici/827/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">11</span></a>;
+ <span class="date">855</span> <span class="name">Ludouuici</span> (<span class="case">gen</span>) <a href="../cite/Ludouuici/855/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Ludowici</span> (<span class="case">gen</span>) <a href="../cite/Ludowici/855/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1226</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1226/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">70</span></a>;
+ <span class="date">1245</span> <span class="name">Ludowicus</span> (<span class="case">nom</span>) <a href="../cite/Ludowicus/1245/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">14thC</span> <span class="name">aloisij</span> (<span class="case">gen</span>) <a href="../cite/aloisij/14thC/DSS3-1"><span class="bib_key">DSS3-1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1330</span> <span class="name">Luiduvicus</span> (<span class="case">nom</span>) <a href="../cite/Luiduvicus/1330/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1351–53</span> <span class="name">Aloysio</span> (<span class="case">dat</span>) <a href="../cite/Aloysio/1351–53/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DXXXI</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1351–53/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXXI</span></a>;
+ <span class="date">1360[1370]</span> <span class="name">Loigius</span> (<span class="case">nom</span>) <a href="../cite/Loigius/1360[1370]/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">262</span></a>;
+ <span class="date">1367</span> <span class="name">Lodovicho</span> (<span class="case">abl</span>) <a href="../cite/Lodovicho/1367/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">168</span></a>,
+ <span class="name">Lodovichus</span> (<span class="case">nom</span>) <a href="../cite/Lodovichus/1367/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">155</span></a>,
+ <span class="name">Lodovici</span> (<span class="case">gen</span>) <a href="../cite/Lodovici/1367/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">155</span></a>,
+ <span class="name">Loisius</span> (<span class="case">nom</span>) <a href="../cite/Loisius/1367/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">144</span></a>,
+ <span class="name">Loysius</span> (<span class="case">nom</span>) <a href="../cite/Loysius/1367/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">165</span></a>,
+ <span class="name">Ludwicus</span> (<span class="case">nom</span>) <a href="../cite/Ludwicus/1367/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1368</span> <span class="name">Lodovicho</span> (<span class="case">abl</span>) <a href="../cite/Lodovicho/1368/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">217</span></a>,
+ <span class="name">Luysio</span> (<span class="case">abl</span>) <a href="../cite/Luysio/1368/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">217</span></a>;
+ <span class="date">1461</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1461/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">230</span></a>;
+ <span class="date">1470</span> <span class="name">Loysio</span> (<span class="case">abl</span>) <a href="../cite/Loysio/1470/RCCaetani6"><span class="bib_key">RCCaetani6</span> <span class="bib_loc">XXI-62</span></a>,
+ <span class="name">Loysius</span> (<span class="case">nom</span>) <a href="../cite/Loysius/1470/RCCaetani6"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI-62</span></a>;
+ <span class="date">1478</span> <span class="name">Loysi</span> (<span class="case">nom</span>) <a href="../cite/Loysi/1478/RCCaetani6"><span class="bib_key">ibid.</span> <span class="bib_loc">2720</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1478/RCCaetani6"><span class="bib_key">ibid.</span> <span class="bib_loc">2720</span></a>;
+ <span class="date">1488</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1488/CID-3"><span class="bib_key">CID-3</span> <span class="bib_loc">XCIII</span></a>;
+ <span class="date">1490</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1490/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1490/VitAs2"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1491</span> <span class="name">Ludovicum</span> (<span class="case">acc</span>) <a href="../cite/Ludovicum/1491/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">250</span></a>;
+ <span class="date">1521</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1521/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Loysius</span> (<span class="case">nom</span>) <a href="../cite/Loysius/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 52, 30</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1522x1532/DSF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57, 25</span></a>;
+ <span class="date">1527</span> <span class="name">Aloisius</span> (<span class="case">nom</span>) <a href="../cite/Aloisius/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 84</span></a>,
+ <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 87</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Lodovicho</span> <a href="../cite/Lodovicho/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Ludovico</span> <a href="../cite/Ludovico/1513x1521/LeoX"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1286</span> <span class="name">Lodewico</span> (<span class="case">dat</span>) <a href="../cite/Lodewico/1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">1029</span></a>;
+ <span class="date">1289</span> <span class="name">Lodewico</span> (<span class="case">dat</span>) <a href="../cite/Lodewico/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1290</span> <span class="name">Lodewico</span> (<span class="case">dat</span>) <a href="../cite/Lodewico/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">223</span></a>;
+ <span class="date">1291</span> <span class="name">Lodewico</span> (<span class="case">dat</span>) <a href="../cite/Lodewico/1291/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">634</span></a>;
+ <span class="date">1295</span> <span class="name">Lodewico</span> (<span class="case">dat</span>) <a href="../cite/Lodewico/1295/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">754</span></a>;
+ <span class="date">1301</span> <span class="name">Lodewico</span> (<span class="case">dat</span>) <a href="../cite/Lodewico/1301/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">863</span></a>;
+ <span class="date">1304</span> <span class="name">Lodewico</span> (<span class="case">dat</span>) <a href="../cite/Lodewico/1304/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">901</span></a>;
+ <span class="date">1319</span> <span class="name">Lodewici</span> (<span class="case">gen</span>) <a href="../cite/Lodewici/1319/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">380</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1298</span> <span class="name">Ludiken</span> (<span class="case">dat</span>) <a href="../cite/Ludiken/1298/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">264</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814x815</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/814x815/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 27</span></a>,
+ <span class="name">Ludowici</span> (<span class="case">gen</span>) <a href="../cite/Ludowici/814x815/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 27</span></a>;
+ <span class="date">834</span> <span class="name">Lothowici</span> (<span class="case">gen</span>) <a href="../cite/Lothowici/834/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 30</span></a>;
+ <span class="date">838</span> <span class="name">Lothowici</span> (<span class="case">gen</span>) <a href="../cite/Lothowici/838/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 33</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1383</span> <span class="name">Ludekens</span> (<span class="case">gen</span>) <a href="../cite/Ludekens/1383/GesOIJ-4"><span class="bib_key">GesOIJ-4</span> <span class="bib_loc">p. 186</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1232</span> <span class="name">Ludowicus</span> (<span class="case">nom</span>) <a href="../cite/Ludowicus/1232/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">87</span></a>;
+ <span class="date">1251</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1251/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">141</span></a>;
+ <span class="date">1288</span> <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1288/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. LXXXIV</span></a>;
+ <span class="date">1289</span> <span class="name">Lodewicus</span> (<span class="case">nom</span>) <a href="../cite/Lodewicus/1289/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. LXXXVI</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1251</span> <span class="name">Ludeko</span> (<span class="case">nom</span>) <a href="../cite/Ludeko/1251/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">141</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">896</span> <span class="name">Leudevici</span> (<span class="case">gen</span>) <a href="../cite/Leudevici/896/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMXX</span></a>,
+ <span class="name">Ludovigo</span> (<span class="case">abl</span>) <a href="../cite/Ludovigo/896/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMXIX</span></a>;
+ <span class="date">898</span> <span class="name">Ludevicho</span> (<span class="case">abl</span>) <a href="../cite/Ludevicho/898/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMXXI</span></a>;
+ <span class="date">899</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/899/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMXXII</span></a>;
+ <span class="date">1487</span> <span class="name">Lodovici</span> (<span class="case">gen</span>) <a href="../cite/Lodovici/1487/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Lodovicus</span> (<span class="case">nom</span>) <a href="../cite/Lodovicus/1487/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1488</span> <span class="name">Lodovici</span> (<span class="case">gen</span>) <a href="../cite/Lodovici/1488/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1488/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1489</span> <span class="name">Lodovici</span> (<span class="case">gen</span>) <a href="../cite/Lodovici/1489/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Lodovicus</span> (<span class="case">nom</span>) <a href="../cite/Lodovicus/1489/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1490</span> <span class="name">Lodovici</span> (<span class="case">gen</span>) <a href="../cite/Lodovici/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Lodovicus</span> (<span class="case">nom</span>) <a href="../cite/Lodovicus/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1491</span> <span class="name">Lodovici</span> (<span class="case">gen</span>) <a href="../cite/Lodovici/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a>,
+ <span class="name">Lodovicus</span> (<span class="case">nom</span>) <a href="../cite/Lodovicus/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Aloy</span> <a href="../cite/Aloy/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">1719</span></a>,
+ <span class="name">Lois</span> <a href="../cite/Lois/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">4099</span></a>,
+ <span class="name">Luis</span> <a href="../cite/Luis/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3154</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1540</span> <span class="name">Luis</span> <a href="../cite/Luis/1540/SanzSerrano"><span class="bib_key">SanzSerrano</span></a>;
+ <span class="date">1575</span> <span class="name">Luis</span> <a href="../cite/Luis/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3829</span></a>;
+ <span class="date">1576</span> <span class="name">Luis</span> <a href="../cite/Luis/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3886</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1419</span> <span class="name">Lydeke</span> (<span class="case">nom</span>) <a href="../cite/Lydeke/1419/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 19230</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">2h12thC</span> <span class="name">Lodouico</span> (<span class="case">abl</span>) <a href="../cite/Lodouico/2h12thC/CartChart"><span class="bib_key">CartChart</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Lois</span> (<span class="case">nom</span>) <a href="../cite/Lois/2h12thC/CartChart"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1134</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1134/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1135x1185</span> <span class="name">Lodouico</span> (<span class="case">abl</span>) <a href="../cite/Lodouico/1135x1185/CartChart"><span class="bib_key">CartChart</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1154</span> <span class="name">Lodoico</span> (<span class="case">abl</span>) <a href="../cite/Lodoico/1154/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">5</span></a>,
+ <span class="name">Lodoicus</span> (<span class="case">nom</span>) <a href="../cite/Lodoicus/1154/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1161</span> <span class="name">Ludoico</span> (<span class="case">abl</span>) <a href="../cite/Ludoico/1161/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1162</span> <span class="name">Lodoici</span> (<span class="case">gen</span>) <a href="../cite/Lodoici/1162/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1163</span> <span class="name">Lodoicus</span> (<span class="case">nom</span>) <a href="../cite/Lodoicus/1163/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1165</span> <span class="name">Lodoico</span> (<span class="case">abl</span>) <a href="../cite/Lodoico/1165/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1210</span> <span class="name">Lodouicus</span> (<span class="case">nom</span>) <a href="../cite/Lodouicus/1210/CartChart"><span class="bib_key">CartChart</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1211</span> <span class="name">Lodouici</span> (<span class="case">gen</span>) <a href="../cite/Lodouici/1211/CartChart"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>,
+ <span class="name">Lodouicus</span> (<span class="case">nom</span>) <a href="../cite/Lodouicus/1211/CartChart"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1235</span> <span class="name">Ludovicum</span> (<span class="case">acc</span>) <a href="../cite/Ludovicum/1235/CLC"><span class="bib_key">CLC</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">14thCx1478</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(2)</span></a>;
+ <span class="date">1348</span> <span class="name">Ludovico</span> (<span class="case">dat</span>) <a href="../cite/Ludovico/1348/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DXIV</span></a>,
+ <span class="name">Ludovicum</span> (<span class="case">acc</span>) <a href="../cite/Ludovicum/1348/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXIV</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1348/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXIV</span></a>;
+ <span class="date">1349</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1349/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXI</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1349/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXI</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1349/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXIX</span></a>;
+ <span class="date">1350</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1350/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXIX</span></a>;
+ <span class="date">1351</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1351/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXXVIII</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1351/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXL</span></a>;
+ <span class="date">1352</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1352/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXLV</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1352/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXLVII</span></a>;
+ <span class="date">1353</span> <span class="name">Lodoycus</span> (<span class="case">nom</span>) <a href="../cite/Lodoycus/1353/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXXIII</span></a>,
+ <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1353/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXLVIII</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1353/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXLVIII</span></a>,
+ <span class="name">Ludovicum</span> (<span class="case">acc</span>) <a href="../cite/Ludovicum/1353/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXLIX</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1353/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXLVIII</span></a>;
+ <span class="date">1354</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1354/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DLIX</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1354/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DLII</span></a>,
+ <span class="name">Ludowico</span> (<span class="case">abl</span>) <a href="../cite/Ludowico/1354/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DLIV</span></a>;
+ <span class="date">1377</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1377/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">464</span></a>;
+ <span class="date">1436</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1436/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">209</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1436/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">209</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1436/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">209</span></a>;
+ <span class="date">1460</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1460/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">229</span></a>;
+ <span class="date">1466</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1466/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">233</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">dat</span>) <a href="../cite/Ludovico/1466/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">233</span></a>,
+ <span class="name">Ludovicum</span> (<span class="case">acc</span>) <a href="../cite/Ludovicum/1466/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">233</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1466/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">233</span></a>;
+ <span class="date">1475</span> <span class="name">Ludovico</span> (<span class="case">dat</span>) <a href="../cite/Ludovico/1475/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">239</span></a>,
+ <span class="name">Ludovicum</span> (<span class="case">acc</span>) <a href="../cite/Ludovicum/1475/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">239</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1475/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">239</span></a>;
+ <span class="date">1476</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1476/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">242</span></a>;
+ <span class="date">1478</span> <span class="name">Ludovicum</span> (<span class="case">acc</span>) <a href="../cite/Ludovicum/1478/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">244</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1478/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">244</span></a>;
+ <span class="date">1492</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1492/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">251</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1492/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">251</span></a>;
+ <span class="date">1492/3</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1492s3/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">253</span></a>;
+ <span class="date">1492</span> <span class="name">Ludowicum</span> (<span class="case">acc</span>) <a href="../cite/Ludowicum/1492/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">252</span></a>,
+ <span class="name">Ludowicus</span> (<span class="case">nom</span>) <a href="../cite/Ludowicus/1492/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">252</span></a>;
+ <span class="date">1493</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1493/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">256</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1493/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">254</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1493/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">254</span></a>;
+ <span class="date">1494</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1494/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">259</span></a>;
+ <span class="date">1497/8</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1497s8/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">263</span></a>,
+ <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1497s8/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">263</span></a>;
+ <span class="date">1498</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1498/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">264</span></a>;
+ <span class="date">1499</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1499/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">265</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1499/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">265</span></a>;
+ <span class="date">1500</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1500/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">269</span></a>;
+ <span class="date">1502</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1502/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">273</span></a>,
+ <span class="name">Ludovicum</span> (<span class="case">acc</span>) <a href="../cite/Ludovicum/1502/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">273</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1502/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">273</span></a>;
+ <span class="date">1503</span> <span class="name">Ludovici</span> (<span class="case">gen</span>) <a href="../cite/Ludovici/1503/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">276</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1503/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">276</span></a>;
+ <span class="date">1508</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1508/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">283</span></a>,
+ <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1508/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">282</span></a>;
+ <span class="date">1515</span> <span class="name">Ludovico</span> (<span class="case">abl</span>) <a href="../cite/Ludovico/1515/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">288</span></a>;
+ <span class="date">1522x1524</span> <span class="name">Ludovicus</span> (<span class="case">nom</span>) <a href="../cite/Ludovicus/1522x1524/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">294</span></a>;
+ <span class="date">1533</span> <span class="name">Ludovicum</span> (<span class="case">acc</span>) <a href="../cite/Ludovicum/1533/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">303</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1348</span> <span class="name">Lois</span> (<span class="case">obl</span>) <a href="../cite/Lois/1348/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DXIII</span></a>,
+ <span class="name">Looys</span> (<span class="case">nom</span>) <a href="../cite/Looys/1348/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXII</span></a>;
+ <span class="date">1349</span> <span class="name">Loys</span> (<span class="case">nom</span>) <a href="../cite/Loys/1349/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXVIII</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Loys</span> (<span class="case">obl</span>) <a href="../cite/Loys/1350/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DXXVII</span></a>;
+ <span class="date">1351</span> <span class="name">Loys</span> <a href="../cite/Loys/1351/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXXV</span></a>;
+ <span class="date">1352</span> <span class="name">Loys</span> <a href="../cite/Loys/1352/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXLI</span></a>;
+ <span class="date">1353</span> <span class="name">Loys</span> <a href="../cite/Loys/1353/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DL</span></a>;
+ <span class="date">1354</span> <span class="name">Loy</span> <a href="../cite/Loy/1354/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DLIII</span></a>,
+ <span class="name">Loys</span> <a href="../cite/Loys/1354/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DLIII</span></a>;
+ <span class="date">1460</span> <span class="name">Loys</span> <a href="../cite/Loys/1460/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">229</span></a>;
+ <span class="date">1501</span> <span class="name">Loys</span> <a href="../cite/Loys/1501/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">271</span></a>;
+ <span class="date">1507</span> <span class="name">Loys</span> <a href="../cite/Loys/1507/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">260</span></a>;
+ <span class="date">1514</span> <span class="name">Loys</span> <a href="../cite/Loys/1514/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">287</span></a>;
+ <span class="date">1528</span> <span class="name">Loys</span> <a href="../cite/Loys/1528/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">297</span></a>;
+ <span class="date">1537</span> <span class="name">Louys</span> <a href="../cite/Louys/1537/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">306</span></a>;
+ <span class="date">1538</span> <span class="name">Loys</span> <a href="../cite/Loys/1538/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">309</span></a>;
+ <span class="date">1545</span> <span class="name">Loys</span> <a href="../cite/Loys/1545/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">314</span></a>;
+ <span class="date">1550</span> <span class="name">Loys</span> <a href="../cite/Loys/1550/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">319</span></a>;
+ <span class="date">1553</span> <span class="name">Loys</span> <a href="../cite/Loys/1553/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">328</span></a>;
+ <span class="date">1577</span> <span class="name">Loys</span> <a href="../cite/Loys/1577/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">343</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1352</span> <span class="name">Ludwig</span> (<span class="case">nom</span>) <a href="../cite/Ludwig/1352/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DXLVI</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1451</span> <span class="name">Ludwig</span> (<span class="case">nom</span>) <a href="../cite/Ludwig/1451/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">220</span></a>;
+ <span class="date">1503</span> <span class="name">Ludwig</span> (<span class="case">nom</span>) <a href="../cite/Ludwig/1503/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">277</span></a>,
+ <span class="name">Ludwigen</span> (<span class="case">dat</span>) <a href="../cite/Ludwigen/1503/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">277</span></a>;
+ <span class="date">1524</span> <span class="name">Ludwigen</span> (<span class="case">nom</span>) <a href="../cite/Ludwigen/1524/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">295</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1594</span> <span class="name">Lewis</span> <a href="../cite/Lewis/1594/RegLlantrithyd"><span class="bib_key">RegLlantrithyd</span> <span class="bib_loc">p. 62</span></a>;
+ <span class="date">1595</span> <span class="name">Lewis</span> <a href="../cite/Lewis/1595/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a></dd>
+<dt><span class="lang">Welsh</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Lewis</span> <a href="../cite/Lewis/1543/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 3</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, J. Uckelman, S.L. Uckelman. "Louis". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Louis.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

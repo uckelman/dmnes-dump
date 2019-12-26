@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Osbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Osbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>ōs</i>, <span class="lang">Old Icelandic</span> <i>áss, óss</i> 'god' + <span class="lang">Old English</span> <i>beorht</i>, <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 9th C king of Northumbria.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1132</span> <span class="name">Osberto</span> (<span class="case">abl</span>) <a href="../cite/Osberto/c1132/MemStMF"><span class="bib_key">MemStMF</span> <span class="bib_loc">II-I</span></a>;
+ <span class="date">1181</span> <span class="name">Osbertus</span> (<span class="case">nom</span>) <a href="../cite/Osbertus/1181/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 113</span></a>;
+ <span class="date">1183</span> <span class="name">Osbertus</span> (<span class="case">nom</span>) <a href="../cite/Osbertus/1183/BoldonBuke"><span class="bib_key">BoldonBuke</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Osberti</span> (<span class="case">gen</span>) <a href="../cite/Osberti/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Osbertum</span> (<span class="case">acc</span>) <a href="../cite/Osbertum/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Osbertus</span> (<span class="case">nom</span>) <a href="../cite/Osbertus/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1189</span> <span class="name">Osberti</span> (<span class="case">gen</span>) <a href="../cite/Osberti/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 137</span></a>,
+ <span class="name">Osbertus</span> (<span class="case">nom</span>) <a href="../cite/Osbertus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1222</span> <span class="name">Osbertum</span> (<span class="case">acc</span>) <a href="../cite/Osbertum/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Osbertus</span> (<span class="case">nom</span>) <a href="../cite/Osbertus/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">osberti</span> (<span class="case">gen</span>) <a href="../cite/osberti/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1279–80</span> <span class="name">Osberti</span> (<span class="case">gen</span>) <a href="../cite/Osberti/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 67</span></a>,
+ <span class="name">Osbertus</span> (<span class="case">nom</span>) <a href="../cite/Osbertus/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 75</span></a>;
+ <span class="date">1296</span> <span class="name">Osberti</span> (<span class="case">gen</span>) <a href="../cite/Osberti/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 93a</span></a>,
+ <span class="name">Osbertus</span> (<span class="case">nom</span>) <a href="../cite/Osbertus/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95a</span></a>;
+ <span class="date">1300</span> <span class="name">Osbertus</span> (<span class="case">nom</span>) <a href="../cite/Osbertus/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 231</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1558</span> <span class="name">Osbert</span> <a href="../cite/Osbert/1558/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1559</span> <span class="name">Osberd</span> <a href="../cite/Osberd/1559/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 134</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1113</span> <span class="name">Osberto</span> (<span class="case">abl</span>) <a href="../cite/Osberto/c1113/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1146</span> <span class="name">Osberto</span> (<span class="case">abl</span>) <a href="../cite/Osberto/1146/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 374</span></a>;
+ <span class="date">c1175–1180</span> <span class="name">Osbertus</span> (<span class="case">nom</span>) <a href="../cite/Osbertus/c1175–1180/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1178x1182</span> <span class="name">Osberto</span> (<span class="case">abl</span>) <a href="../cite/Osberto/1178x1182/ChartCaen2"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1180</span> <span class="name">Osberti</span> (<span class="case">gen</span>) <a href="../cite/Osberti/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Osberto</span> (<span class="case">abl</span>) <a href="../cite/Osberto/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Osbertus</span> (<span class="case">nom</span>) <a href="../cite/Osbertus/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">Osebert</span> (<span class="case">obl</span>) <a href="../cite/Osebert/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 241</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Osberti</span> (<span class="case">gen</span>) <a href="../cite/Osberti/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 10</span></a>,
+ <span class="name">Osbertus</span> (<span class="case">nom</span>) <a href="../cite/Osbertus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 7</span></a>,
+ <span class="name">Osebertus</span> (<span class="case">nom</span>) <a href="../cite/Osebertus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 22</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1120</span> <span class="name">Osberto</span> (<span class="case">abl</span>) <a href="../cite/Osberto/c1120/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XXXV</span></a>;
+ <span class="date">1124</span> <span class="name">Osbert</span> (<span class="case">nom</span>) <a href="../cite/Osbert/1124/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">L</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Osbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Osbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

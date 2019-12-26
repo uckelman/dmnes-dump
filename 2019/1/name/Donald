@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Donald</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Donald</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">There are two distinct origins for this name.  In the isles, the name derives from <span class="lang">Proto-Celtic</span> <i>*dumno-</i> 'world' + <span class="lang">Proto-Celtic</span> <i>*val</i> 'rule'.  On the continent, it is a compound of a prototheme formed from <span class="lang">Latin</span> <i>donatus</i> 'given' (cf. <a class="nym" href="Donato">Donato</a>) or <span class="lang">Latin</span> <i>dominus</i> 'lord' + <span class="lang">Old Saxon</span> <i>wald</i>, <span class="lang">Old High German</span> <i>walt</i> 'power, authority'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C king of Dál Riata, a 7th C high king of Ireland, an 8th C Irish saint, an 8th C high king of Ireland, two 9th C kings of the Picts, and 11th C king of the Scots, and an 11th-12th C high king of Ireland.</p>
+</div>
+  
+  
+<div class="def">
+  <p>This name has historically always been one of the most popular names in Ireland.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Donaldus</span> (<span class="case">nom</span>) <a href="../cite/Donaldus/1392/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 17</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814</span> <span class="name">Domnaldus</span> (<span class="case">nom</span>) <a href="../cite/Domnaldus/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">H1</span></a>,
+ <span class="name">Donaldus</span> (<span class="case">nom</span>) <a href="../cite/Donaldus/814/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">F12</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1431x1432</span> <span class="name">Donaldi</span> (<span class="case">gen</span>) <a href="../cite/Donaldi/c1431x1432/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">102</span></a>;
+ <span class="date">1432</span> <span class="name">Donaldi</span> (<span class="case">gen</span>) <a href="../cite/Donaldi/1432/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">103</span></a>;
+ <span class="date">1433</span> <span class="name">Donaldi</span> (<span class="case">dat</span>) <a href="../cite/Donaldi/1433/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">58</span></a>;
+ <span class="date">1434</span> <span class="name">Donaldo</span> (<span class="case">dat</span>) <a href="../cite/Donaldo/1434/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">67</span></a>;
+ <span class="date">1479</span> <span class="name">Donaldum</span> (<span class="case">acc</span>) <a href="../cite/Donaldum/1479/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1491</span> <span class="name">Donaldus</span> (<span class="case">nom</span>) <a href="../cite/Donaldus/1491/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1497</span> <span class="name">Donaldum</span> (<span class="case">acc</span>) <a href="../cite/Donaldum/1497/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">38</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1093x1097</span> <span class="name">Douenald</span> (<span class="case">nom</span>) <a href="../cite/Douenald/1093x1097/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1272x1360</span> <span class="name">Donaldo</span> (<span class="case">abl</span>) <a href="../cite/Donaldo/1272x1360/CartStAndrew"><span class="bib_key">CartStAndrew</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Donaldus</span> (<span class="case">nom</span>) <a href="../cite/Donaldus/1272x1360/CartStAndrew"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1376</span> <span class="name">Donaldi</span> (<span class="case">gen</span>) <a href="../cite/Donaldi/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Donaldo</span> (<span class="case">dat</span>) <a href="../cite/Donaldo/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Donald". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Donald.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Jodocus</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Jodocus</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A diminutive of <span class="lang">Old Breton</span> <i>iud, iut</i>, <span class="lang">Middle Welsh</span> <i>iud</i> 'prince, ruler, lord', related to <span class="lang">Latin</span> <i>iudex</i> 'judge'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C Breton saint, latinized <i>Jodocus</i> or <i>Judocus</i>.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1336</span> <span class="name">Joes</span> (<span class="case">dat</span>) <a href="../cite/Joes/1336/RSG1336-39"><span class="bib_key">RSG1336-39</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Joos</span> (<span class="case">gen</span>) <a href="../cite/Joos/1336/RSG1336-39"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Josse</span> (<span class="case">obl</span>) <a href="../cite/Josse/1336/RSG1336-39"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1376</span> <span class="name">Joes</span> (<span class="case">nom</span>) <a href="../cite/Joes/1376/RSG1376-89"><span class="bib_key">RSG1376-89</span> <span class="bib_loc">p. 1</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Joes</span> <a href="../cite/Joes/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 327</span></a>,
+ <span class="name">Joos</span> <a href="../cite/Joos/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 330</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1393</span> <span class="name">Jodocus</span> (<span class="case">nom</span>) <a href="../cite/Jodocus/1393/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 4</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Jost</span> <a href="../cite/Jost/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571/2</span> <span class="name">Joyce</span> (<span class="case">nom</span>) <a href="../cite/Joyce/1571s2/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 18</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Jois</span> <a href="../cite/Jois/1572/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Bauwens</span></a>,
+ <span class="name">Joos</span> <a href="../cite/Joos/1572/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bauwens</span></a>;
+ <span class="date">1576</span> <span class="name">Joos</span> <a href="../cite/Joos/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bauwens</span></a>;
+ <span class="date">1578</span> <span class="name">Jois</span> <a href="../cite/Jois/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Berge</span></a>;
+ <span class="date">1579</span> <span class="name">Jois</span> <a href="../cite/Jois/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Driessche</span></a>;
+ <span class="date">1581</span> <span class="name">Jois</span> <a href="../cite/Jois/1581/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bauwens</span></a>,
+ <span class="name">Joos</span> <a href="../cite/Joos/1581/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gaber</span></a>;
+ <span class="date">1582</span> <span class="name">Jobs</span> <a href="../cite/Jobs/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Boowiers</span></a>,
+ <span class="name">Jois</span> <a href="../cite/Jois/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Boowiers</span></a>;
+ <span class="date">1583</span> <span class="name">Jois</span> <a href="../cite/Jois/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Driessche</span></a>;
+ <span class="date">1585</span> <span class="name">Joos</span> <a href="../cite/Joos/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beijdals</span></a>;
+ <span class="date">1587</span> <span class="name">Joos</span> <a href="../cite/Joos/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Driessche</span></a>;
+ <span class="date">1588</span> <span class="name">Joos</span> <a href="../cite/Joos/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cueninck</span></a>;
+ <span class="date">1589</span> <span class="name">Joos</span> <a href="../cite/Joos/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Driessche</span></a>;
+ <span class="date">1590</span> <span class="name">Joos</span> <a href="../cite/Joos/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Buijck</span></a>;
+ <span class="date">1591</span> <span class="name">Joos</span> <a href="../cite/Joos/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bossche</span></a>;
+ <span class="date">1593</span> <span class="name">Joos</span> <a href="../cite/Joos/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bossche</span></a>;
+ <span class="date">1595</span> <span class="name">Joos</span> <a href="../cite/Joos/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bossche</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1583</span> <span class="name">Josse</span> <a href="../cite/Josse/1583/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1583/4</span> <span class="name">Josse</span> <a href="../cite/Josse/1583s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1590</span> <span class="name">Joos</span> <a href="../cite/Joos/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Josse</span> <a href="../cite/Josse/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1591</span> <span class="name">Joos</span> <a href="../cite/Joos/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Josse</span> <a href="../cite/Josse/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1591/2</span> <span class="name">Josse</span> <a href="../cite/Josse/1591s2/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1592</span> <span class="name">Joos</span> <a href="../cite/Joos/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>,
+ <span class="name">Josse</span> <a href="../cite/Josse/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1593</span> <span class="name">Joos</span> <a href="../cite/Joos/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1593/4</span> <span class="name">Josse</span> <a href="../cite/Josse/1593s4/RWC"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1378</span> <span class="name">Judoci</span> (<span class="case">gen</span>) <a href="../cite/Judoci/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1184</span></a>,
+ <span class="name">Judoco</span> (<span class="case">dat</span>) <a href="../cite/Judoco/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1259</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1293</span> <span class="name">Joce</span> (<span class="case">nom</span>) <a href="../cite/Joce/1293/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1296</span> <span class="name">Joce</span> <a href="../cite/Joce/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1313</span> <span class="name">Joce</span> <a href="../cite/Joce/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 25</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Josse</span> <a href="../cite/Josse/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 199</span></a>,
+ <a href="../cite/Josse/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 386</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Josseton</span> <a href="../cite/Josseton/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 613</span></a>;
+ <span class="date">1418</span> <span class="name">Josset</span> <a href="../cite/Josset/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 213</span></a>,
+ <a href="../cite/Josset/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 375</span></a>;
+ <span class="date">1421</span> <span class="name">Josset</span> <a href="../cite/Josset/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">p. 165</span></a>;
+ <span class="date">1493</span> <span class="name">Josquin</span> <a href="../cite/Josquin/1493/MSR1838"><span class="bib_key">MSR1838</span> <span class="bib_loc">p. 377</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1394</span> <span class="name">Judoci</span> (<span class="case">gen</span>) <a href="../cite/Judoci/1394/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 180</span></a>,
+ <span class="name">Judocus</span> (<span class="case">nom</span>) <a href="../cite/Judocus/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 177</span></a>;
+ <span class="date">1401</span> <span class="name">Jodoco</span> (<span class="case">dat</span>) <a href="../cite/Jodoco/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 214</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Jobst</span> <a href="../cite/Jobst/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">116</span></a>;
+ <span class="date">1554</span> <span class="name">Jost</span> (<span class="case">nom</span>) <a href="../cite/Jost/1554/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">333</span></a>;
+ <span class="date">1555</span> <span class="name">Jost</span> (<span class="case">nom</span>) <a href="../cite/Jost/1555/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">335</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1565x1577</span> <span class="name">Jost</span> <a href="../cite/Jost/1565x1577/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 97</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1560</span> <span class="name">Joos</span> <a href="../cite/Joos/1560/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1561</span> <span class="name">Joos</span> <a href="../cite/Joos/1561/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1562</span> <span class="name">Joos</span> <a href="../cite/Joos/1562/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1563</span> <span class="name">Ioos</span> <a href="../cite/Ioos/1563/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1564</span> <span class="name">Joos</span> <a href="../cite/Joos/1564/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1565</span> <span class="name">Ioos</span> <a href="../cite/Ioos/1565/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1566</span> <span class="name">Ioos</span> <a href="../cite/Ioos/1566/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1567</span> <span class="name">Ioos</span> <a href="../cite/Ioos/1567/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1570</span> <span class="name">Joos</span> <a href="../cite/Joos/1570/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1571</span> <span class="name">Joos</span> <a href="../cite/Joos/1571/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1572</span> <span class="name">Joos</span> <a href="../cite/Joos/1572/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1573</span> <span class="name">Joos</span> <a href="../cite/Joos/1573/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1574</span> <span class="name">Joos</span> <a href="../cite/Joos/1574/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1575</span> <span class="name">Joos</span> <a href="../cite/Joos/1575/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1577</span> <span class="name">Ioos</span> <a href="../cite/Ioos/1577/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1581</span> <span class="name">Joos</span> <a href="../cite/Joos/1581/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1582</span> <span class="name">Joos</span> <a href="../cite/Joos/1582/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1583</span> <span class="name">Joos</span> <a href="../cite/Joos/1583/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1584</span> <span class="name">Ioos</span> <a href="../cite/Ioos/1584/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1585</span> <span class="name">Ioos</span> <a href="../cite/Ioos/1585/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1586</span> <span class="name">Ioos</span> <a href="../cite/Ioos/1586/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1587</span> <span class="name">Ioos</span> <a href="../cite/Ioos/1587/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1588</span> <span class="name">Joos</span> <a href="../cite/Joos/1588/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1589</span> <span class="name">Joos</span> <a href="../cite/Joos/1589/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1414</span> <span class="name">Jøsse</span> (<span class="case">nom</span>) <a href="../cite/Jøsse/1414/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 18236</span></a>;
+ <span class="date">1415</span> <span class="name">Jøsse</span> (<span class="case">nom</span>) <a href="../cite/Jøsse/1415/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18466</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1587</span> <span class="name">Jost</span> (<span class="case">nom</span>) <a href="../cite/Jost/1587/HGS"><span class="bib_key">HGS</span> <span class="bib_loc">p. 160</span></a>;
+ <span class="date">1588</span> <span class="name">Jost</span> (<span class="case">nom</span>) <a href="../cite/Jost/1588/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 160</span></a>;
+ <span class="date">1589</span> <span class="name">Jost</span> (<span class="case">nom</span>) <a href="../cite/Jost/1589/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 160</span></a>;
+ <span class="date">1593</span> <span class="name">Jost</span> (<span class="case">nom</span>) <a href="../cite/Jost/1593/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 161</span></a>;
+ <span class="date">1595</span> <span class="name">Joest</span> (<span class="case">nom</span>) <a href="../cite/Joest/1595/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 162</span></a>;
+ <span class="date">1596</span> <span class="name">Joest</span> (<span class="case">nom</span>) <a href="../cite/Joest/1596/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 162</span></a>;
+ <span class="date">1597</span> <span class="name">Joest</span> (<span class="case">nom</span>) <a href="../cite/Joest/1597/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 162</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Yost</span> (<span class="case">abl</span>) <a href="../cite/Yost/1350/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DXXIX</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1553</span> <span class="name">Yost</span> <a href="../cite/Yost/1553/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">324</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1555</span> <span class="name">Josten</span> (<span class="case">acc</span>) <a href="../cite/Josten/1555/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">336</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, S.L. Uckelman. "Jodocus". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Jodocus.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

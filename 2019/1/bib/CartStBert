@@ -1,0 +1,630 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>CartStBert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>CartStBert</dt>
+  <dd>F.-H. d'Hoop, editor. <em>Cartularium: Recueil des Chartes du Prieuré de Saint-Bertin, a Poperinghe, et de Ses Dépendances a Bas-Warneton et a Couckelaere Déposées aux Archives de l'État, a Gand</em>. Bruges: Imprimé Chez Vandecasteele-Werbouck, 1870.</dd>
+</dl>
+
+
+  <a href="../cite/Absalonis/1143/CartStBert">Absalonis</a>
+
+  <a href="../cite/Adam/1110/CartStBert">Adam</a>
+
+  <a href="../cite/Adriani/1165/CartStBert">Adriani</a>
+
+  <a href="../cite/Alardus/1176/CartStBert">Alardus</a>
+
+  <a href="../cite/Alardus/1107/CartStBert">Alardus</a>
+
+  <a href="../cite/Alberici/1120/CartStBert">Alberici</a>
+
+  <a href="../cite/Alberici/1119/CartStBert">Alberici</a>
+
+  <a href="../cite/Alexandri/1165/CartStBert">Alexandri</a>
+
+  <a href="../cite/Alexandro/1176/CartStBert">Alexandro</a>
+
+  <a href="../cite/Amolrici/1168/CartStBert">Amolrici</a>
+
+  <a href="../cite/Amolrici/1165/CartStBert">Amolrici</a>
+
+  <a href="../cite/Anselli/1165/CartStBert">Anselli</a>
+
+  <a href="../cite/Anselmus/1147/CartStBert">Anselmus</a>
+
+  <a href="../cite/Arnulfus/1107/CartStBert">Arnulfus</a>
+
+  <a href="../cite/Arnulphus/1190/CartStBert">Arnulphus</a>
+
+  <a href="../cite/Ascelinus/1107/CartStBert">Ascelinus</a>
+
+  <a href="../cite/Baldericus/1106/CartStBert">Baldericus</a>
+
+  <a href="../cite/Baldewino/1190/CartStBert">Baldewino</a>
+
+  <a href="../cite/Baldricus/1165/CartStBert">Baldricus</a>
+
+  <a href="../cite/Balduini/1190/CartStBert">Balduini</a>
+
+  <a href="../cite/Balduini/1138/CartStBert">Balduini</a>
+
+  <a href="../cite/Balduini/1116/CartStBert">Balduini</a>
+
+  <a href="../cite/Balduini/1133/CartStBert">Balduini</a>
+
+  <a href="../cite/Balduino/1106/CartStBert">Balduino</a>
+
+  <a href="../cite/Balduino/1176/CartStBert">Balduino</a>
+
+  <a href="../cite/Balduinum/1138/CartStBert">Balduinum</a>
+
+  <a href="../cite/Balduinus/1147/CartStBert">Balduinus</a>
+
+  <a href="../cite/Balduinus/c1130/CartStBert">Balduinus</a>
+
+  <a href="../cite/Balduinus/1176/CartStBert">Balduinus</a>
+
+  <a href="../cite/Balduinus/1190/CartStBert">Balduinus</a>
+
+  <a href="../cite/Balduinus/1138/CartStBert">Balduinus</a>
+
+  <a href="../cite/Bernardi/1116/CartStBert">Bernardi</a>
+
+  <a href="../cite/Bernardi/1120/CartStBert">Bernardi</a>
+
+  <a href="../cite/Bernero/1106/CartStBert">Bernero</a>
+
+  <a href="../cite/Bertulfus/1110/CartStBert">Bertulfus</a>
+
+  <a href="../cite/Boidino/1190/CartStBert">Boidino</a>
+
+  <a href="../cite/Calixti/1125/CartStBert">Calixti</a>
+
+  <a href="../cite/Childebaldi/745/CartStBert">Childebaldi</a>
+
+  <a href="../cite/Childerico/745/CartStBert">Childerico</a>
+
+  <a href="../cite/Christiano/1133/CartStBert">Christiano</a>
+
+  <a href="../cite/Chrodgarii/745/CartStBert">Chrodgarii</a>
+
+  <a href="../cite/Daniele/1133/CartStBert">Daniele</a>
+
+  <a href="../cite/Desiderii/1165/CartStBert">Desiderii</a>
+
+  <a href="../cite/Desiderii/1168/CartStBert">Desiderii</a>
+
+  <a href="../cite/Desiderio/1176/CartStBert">Desiderio</a>
+
+  <a href="../cite/Desiderio/1106/CartStBert">Desiderio</a>
+
+  <a href="../cite/Desiderius/1179/CartStBert">Desiderius</a>
+
+  <a href="../cite/Desiderius/1168/CartStBert">Desiderius</a>
+
+  <a href="../cite/Elberti/1116/CartStBert">Elberti</a>
+
+  <a href="../cite/Erembaldi/1169/CartStBert">Erembaldi</a>
+
+  <a href="../cite/Erembaldo/1178/CartStBert">Erembaldo</a>
+
+  <a href="../cite/Erembaldus/1110/CartStBert">Erembaldus</a>
+
+  <a href="../cite/Erlulfi/745/CartStBert">Erlulfi</a>
+
+  <a href="../cite/Eustachii/1178/CartStBert">Eustachii</a>
+
+  <a href="../cite/Eustachii/1165/CartStBert">Eustachii</a>
+
+  <a href="../cite/Eustachio/1178/CartStBert">Eustachio</a>
+
+  <a href="../cite/Eustachio/1176/CartStBert">Eustachio</a>
+
+  <a href="../cite/Eustachius/c1130/CartStBert">Eustachius</a>
+
+  <a href="../cite/Eustachius/1179/CartStBert">Eustachius</a>
+
+  <a href="../cite/Eustatius/1190/CartStBert">Eustatius</a>
+
+  <a href="../cite/Everardi/1143/CartStBert">Everardi</a>
+
+  <a href="../cite/Everardi/1176/CartStBert">Everardi</a>
+
+  <a href="../cite/Everardo/1176/CartStBert">Everardo</a>
+
+  <a href="../cite/Everardus/1138/CartStBert">Everardus</a>
+
+  <a href="../cite/Everardus/1176/CartStBert">Everardus</a>
+
+  <a href="../cite/Everolfus/1110/CartStBert">Everolfus</a>
+
+  <a href="../cite/Ewrardi/1165/CartStBert">Ewrardi</a>
+
+  <a href="../cite/Felice/745/CartStBert">Felice</a>
+
+  <a href="../cite/Felix/745/CartStBert">Felix</a>
+
+  <a href="../cite/Florentius/1110/CartStBert">Florentius</a>
+
+  <a href="../cite/Folcardus/1190/CartStBert">Folcardus</a>
+
+  <a href="../cite/Frederico/1106/CartStBert">Frederico</a>
+
+  <a href="../cite/Fulbertus/1107/CartStBert">Fulbertus</a>
+
+  <a href="../cite/Fulcherii/1125/CartStBert">Fulcherii</a>
+
+  <a href="../cite/Fulcramni/1169/CartStBert">Fulcramni</a>
+
+  <a href="../cite/Galteri/1165/CartStBert">Galteri</a>
+
+  <a href="../cite/Galterus/1176/CartStBert">Galterus</a>
+
+  <a href="../cite/Geldulfo/1106/CartStBert">Geldulfo</a>
+
+  <a href="../cite/Gerardi/1169/CartStBert">Gerardi</a>
+
+  <a href="../cite/Gerardi/1168/CartStBert">Gerardi</a>
+
+  <a href="../cite/Gerardo/1190/CartStBert">Gerardo</a>
+
+  <a href="../cite/Gerardo/1178/CartStBert">Gerardo</a>
+
+  <a href="../cite/Gerardus/1176/CartStBert">Gerardus</a>
+
+  <a href="../cite/Gerardus/1179/CartStBert">Gerardus</a>
+
+  <a href="../cite/Gerardus/1187/CartStBert">Gerardus</a>
+
+  <a href="../cite/Geroud/1169/CartStBert">Geroud</a>
+
+  <a href="../cite/Gerrici/1116/CartStBert">Gerrici</a>
+
+  <a href="../cite/Gillebertus/1176/CartStBert">Gillebertus</a>
+
+  <a href="../cite/Giraldi/1165/CartStBert">Giraldi</a>
+
+  <a href="../cite/Giraldus/1165/CartStBert">Giraldus</a>
+
+  <a href="../cite/Giselbertus/1147/CartStBert">Giselbertus</a>
+
+  <a href="../cite/Gisleberti/1165/CartStBert">Gisleberti</a>
+
+  <a href="../cite/Gocelino/1176/CartStBert">Gocelino</a>
+
+  <a href="../cite/Godescalci/1126?/CartStBert">Godescalci</a>
+
+  <a href="../cite/Godescalci/1190/CartStBert">Godescalci</a>
+
+  <a href="../cite/Godescalco/1176/CartStBert">Godescalco</a>
+
+  <a href="../cite/Godescalcum/1168/CartStBert">Godescalcum</a>
+
+  <a href="../cite/Godescalcus/1178/CartStBert">Godescalcus</a>
+
+  <a href="../cite/Godoberti/745/CartStBert">Godoberti</a>
+
+  <a href="../cite/Gontero/1106/CartStBert">Gontero</a>
+
+  <a href="../cite/Gozwino/1133/CartStBert">Gozwino</a>
+
+  <a href="../cite/Gualteri/1116/CartStBert">Gualteri</a>
+
+  <a href="../cite/Gualteri/1119/CartStBert">Gualteri</a>
+
+  <a href="../cite/Guiberti/1165/CartStBert">Guiberti</a>
+
+  <a href="../cite/Guido/1110/CartStBert">Guido</a>
+
+  <a href="../cite/Guidonis/1106/CartStBert">Guidonis</a>
+
+  <a href="../cite/Guillelmum/1176/CartStBert">Guillelmum</a>
+
+  <a href="../cite/Guillelmus/1176/CartStBert">Guillelmus</a>
+
+  <a href="../cite/Gumberti/745/CartStBert">Gumberti</a>
+
+  <a href="../cite/Haganonis/1125/CartStBert">Haganonis</a>
+
+  <a href="../cite/Haroldi/1120/CartStBert">Haroldi</a>
+
+  <a href="../cite/Haroldi/1133/CartStBert">Haroldi</a>
+
+  <a href="../cite/Hecelone/1133/CartStBert">Hecelone</a>
+
+  <a href="../cite/Henrici/1116/CartStBert">Henrici</a>
+
+  <a href="../cite/Henrici/1165/CartStBert">Henrici</a>
+
+  <a href="../cite/Henrico/1106/CartStBert">Henrico</a>
+
+  <a href="../cite/Henricus/1147/CartStBert">Henricus</a>
+
+  <a href="../cite/Herbrandi/1165/CartStBert">Herbrandi</a>
+
+  <a href="../cite/Heremarus/1107/CartStBert">Heremarus</a>
+
+  <a href="../cite/Heriberti/1125/CartStBert">Heriberti</a>
+
+  <a href="../cite/Heriberti/1119/CartStBert">Heriberti</a>
+
+  <a href="../cite/Hermanni/1119/CartStBert">Hermanni</a>
+
+  <a href="../cite/Hugo/c1130/CartStBert">Hugo</a>
+
+  <a href="../cite/Hugo/1125/CartStBert">Hugo</a>
+
+  <a href="../cite/Hugo/1151/CartStBert">Hugo</a>
+
+  <a href="../cite/Hugo/1120/CartStBert">Hugo</a>
+
+  <a href="../cite/Hugo/1143/CartStBert">Hugo</a>
+
+  <a href="../cite/Hugo/1138/CartStBert">Hugo</a>
+
+  <a href="../cite/Hugo/1119/CartStBert">Hugo</a>
+
+  <a href="../cite/Hugone/1176/CartStBert">Hugone</a>
+
+  <a href="../cite/Hugonis/1120/CartStBert">Hugonis</a>
+
+  <a href="../cite/Hugonis/1133/CartStBert">Hugonis</a>
+
+  <a href="../cite/Hugonis/1143/CartStBert">Hugonis</a>
+
+  <a href="../cite/Hugonis/1125/CartStBert">Hugonis</a>
+
+  <a href="../cite/Hugonis/1165/CartStBert">Hugonis</a>
+
+  <a href="../cite/Ivonis/1165/CartStBert">Ivonis</a>
+
+  <a href="../cite/Johanne/1106/CartStBert">Johanne</a>
+
+  <a href="../cite/Johanne/1176/CartStBert">Johanne</a>
+
+  <a href="../cite/Johannes/1126?/CartStBert">Johannes</a>
+
+  <a href="../cite/Johannes/1187/CartStBert">Johannes</a>
+
+  <a href="../cite/Johannis/1190/CartStBert">Johannis</a>
+
+  <a href="../cite/Johannis/1165/CartStBert">Johannis</a>
+
+  <a href="../cite/Johannis/1119/CartStBert">Johannis</a>
+
+  <a href="../cite/Johannis/1116/CartStBert">Johannis</a>
+
+  <a href="../cite/Lamberte/1119/CartStBert">Lamberte</a>
+
+  <a href="../cite/Lamberti/1120/CartStBert">Lamberti</a>
+
+  <a href="../cite/Lamberti/1116/CartStBert">Lamberti</a>
+
+  <a href="../cite/Lamberti/1169/CartStBert">Lamberti</a>
+
+  <a href="../cite/Lamberti/1165/CartStBert">Lamberti</a>
+
+  <a href="../cite/Lamberti/1119/CartStBert">Lamberti</a>
+
+  <a href="../cite/Lamberto/1106/CartStBert">Lamberto</a>
+
+  <a href="../cite/Lamberto/1190/CartStBert">Lamberto</a>
+
+  <a href="../cite/Lamberto/1125/CartStBert">Lamberto</a>
+
+  <a href="../cite/Lamberto/1133/CartStBert">Lamberto</a>
+
+  <a href="../cite/Lambertum/1179/CartStBert">Lambertum</a>
+
+  <a href="../cite/Lambertum/1107/CartStBert">Lambertum</a>
+
+  <a href="../cite/Lambertum/1151/CartStBert">Lambertum</a>
+
+  <a href="../cite/Lambertus/1119/CartStBert">Lambertus</a>
+
+  <a href="../cite/Lambertus/1138/CartStBert">Lambertus</a>
+
+  <a href="../cite/Lambertus/1190/CartStBert">Lambertus</a>
+
+  <a href="../cite/Lambertus/1116/CartStBert">Lambertus</a>
+
+  <a href="../cite/Lambertus/1120/CartStBert">Lambertus</a>
+
+  <a href="../cite/Lambertus/1165/CartStBert">Lambertus</a>
+
+  <a href="../cite/Lambertus/c1130/CartStBert">Lambertus</a>
+
+  <a href="../cite/Lambertus/1107/CartStBert">Lambertus</a>
+
+  <a href="../cite/Lambini/1169/CartStBert">Lambini</a>
+
+  <a href="../cite/Lammekinus/1190/CartStBert">Lammekinus</a>
+
+  <a href="../cite/Leo/1143/CartStBert">Leo</a>
+
+  <a href="../cite/Leonem/1151/CartStBert">Leonem</a>
+
+  <a href="../cite/Leonii/1147/CartStBert">Leonii</a>
+
+  <a href="../cite/Letberti/1165/CartStBert">Letberti</a>
+
+  <a href="../cite/Letberti/1116/CartStBert">Letberti</a>
+
+  <a href="../cite/Letberto/1106/CartStBert">Letberto</a>
+
+  <a href="../cite/Lismudis/1176/CartStBert">Lismudis</a>
+
+  <a href="../cite/Littera/1110/CartStBert">Littera</a>
+
+  <a href="../cite/Marcilii/1190/CartStBert">Marcilii</a>
+
+  <a href="../cite/Marcilium/1190/CartStBert">Marcilium</a>
+
+  <a href="../cite/Mathei/1165/CartStBert">Mathei</a>
+
+  <a href="../cite/Mathilde/1190/CartStBert">Mathilde</a>
+
+  <a href="../cite/Mathildis/1187/CartStBert">Mathildis</a>
+
+  <a href="../cite/Meingero/1178/CartStBert">Meingero</a>
+
+  <a href="../cite/Meingerus/1107/CartStBert">Meingerus</a>
+
+  <a href="../cite/Michael/1147/CartStBert">Michael</a>
+
+  <a href="../cite/Milo/1151/CartStBert">Milo</a>
+
+  <a href="../cite/Nantharius/745/CartStBert">Nantharius</a>
+
+  <a href="../cite/Nicholai/1119/CartStBert">Nicholai</a>
+
+  <a href="../cite/Nicholai/1120/CartStBert">Nicholai</a>
+
+  <a href="../cite/Nicholao/1106/CartStBert">Nicholao</a>
+
+  <a href="../cite/Nordberti/745/CartStBert">Nordberti</a>
+
+  <a href="../cite/Odberti/745/CartStBert">Odberti</a>
+
+  <a href="../cite/Odo/1107/CartStBert">Odo</a>
+
+  <a href="../cite/Odone/1107/CartStBert">Odone</a>
+
+  <a href="../cite/Odonis/1107/CartStBert">Odonis</a>
+
+  <a href="../cite/Odulfus/1110/CartStBert">Odulfus</a>
+
+  <a href="../cite/Olivero/1190/CartStBert">Olivero</a>
+
+  <a href="../cite/Olivir/c1130/CartStBert">Olivir</a>
+
+  <a href="../cite/Petro/1176/CartStBert">Petro</a>
+
+  <a href="../cite/Petrus/1176/CartStBert">Petrus</a>
+
+  <a href="../cite/Philippi/1176/CartStBert">Philippi</a>
+
+  <a href="../cite/Philippo/1106/CartStBert">Philippo</a>
+
+  <a href="../cite/Philippus/1187/CartStBert">Philippus</a>
+
+  <a href="../cite/Philippus/1179/CartStBert">Philippus</a>
+
+  <a href="../cite/Philippus/1151/CartStBert">Philippus</a>
+
+  <a href="../cite/Philippus/1190/CartStBert">Philippus</a>
+
+  <a href="../cite/Philippus/1176/CartStBert">Philippus</a>
+
+  <a href="../cite/Rabbodi/1143/CartStBert">Rabbodi</a>
+
+  <a href="../cite/Radulfi/1143/CartStBert">Radulfi</a>
+
+  <a href="../cite/Radulfo/1106/CartStBert">Radulfo</a>
+
+  <a href="../cite/Raineri/1165/CartStBert">Raineri</a>
+
+  <a href="../cite/Rainneri/1120/CartStBert">Rainneri</a>
+
+  <a href="../cite/Reinbaldi/1178/CartStBert">Reinbaldi</a>
+
+  <a href="../cite/Reingerum/1168/CartStBert">Reingerum</a>
+
+  <a href="../cite/Riquardi/1169/CartStBert">Riquardi</a>
+
+  <a href="../cite/Riquardo/1178/CartStBert">Riquardo</a>
+
+  <a href="../cite/Riquardus/1169/CartStBert">Riquardus</a>
+
+  <a href="../cite/Roberti/1190/CartStBert">Roberti</a>
+
+  <a href="../cite/Roberti/1119/CartStBert">Roberti</a>
+
+  <a href="../cite/Roberti/1125/CartStBert">Roberti</a>
+
+  <a href="../cite/Roberti/1165/CartStBert">Roberti</a>
+
+  <a href="../cite/Roberti/1120/CartStBert">Roberti</a>
+
+  <a href="../cite/Roberto/1190/CartStBert">Roberto</a>
+
+  <a href="../cite/Roberto/1106/CartStBert">Roberto</a>
+
+  <a href="../cite/Robertus/1179/CartStBert">Robertus</a>
+
+  <a href="../cite/Robertus/1178/CartStBert">Robertus</a>
+
+  <a href="../cite/Robertus/1169/CartStBert">Robertus</a>
+
+  <a href="../cite/Robertus/1107/CartStBert">Robertus</a>
+
+  <a href="../cite/Robertus/1110/CartStBert">Robertus</a>
+
+  <a href="../cite/Rodulfi/1119/CartStBert">Rodulfi</a>
+
+  <a href="../cite/Rodulfum/1151/CartStBert">Rodulfum</a>
+
+  <a href="../cite/Rodulfus/1151/CartStBert">Rodulfus</a>
+
+  <a href="../cite/Rodulfus/1147/CartStBert">Rodulfus</a>
+
+  <a href="../cite/Rodulfus/1110/CartStBert">Rodulfus</a>
+
+  <a href="../cite/Rogerus/1151/CartStBert">Rogerus</a>
+
+  <a href="../cite/Rogerus/1179/CartStBert">Rogerus</a>
+
+  <a href="../cite/Rotberti/1116/CartStBert">Rotberti</a>
+
+  <a href="../cite/Sibilla/1151/CartStBert">Sibilla</a>
+
+  <a href="../cite/Sigero/1133/CartStBert">Sigero</a>
+
+  <a href="../cite/Sygerus/1187/CartStBert">Sygerus</a>
+
+  <a href="../cite/Sygerus/1138/CartStBert">Sygerus</a>
+
+  <a href="../cite/Symon/1143/CartStBert">Symon</a>
+
+  <a href="../cite/Symon/1125/CartStBert">Symon</a>
+
+  <a href="../cite/Symonis/1125/CartStBert">Symonis</a>
+
+  <a href="../cite/Symonis/1168/CartStBert">Symonis</a>
+
+  <a href="../cite/Teoderici/1143/CartStBert">Teoderici</a>
+
+  <a href="../cite/Tetberti/1116/CartStBert">Tetberti</a>
+
+  <a href="../cite/Tetberto/1106/CartStBert">Tetberto</a>
+
+  <a href="../cite/Thancrani/1120/CartStBert">Thancrani</a>
+
+  <a href="../cite/Theinardus/1110/CartStBert">Theinardus</a>
+
+  <a href="../cite/Theingeri/1120/CartStBert">Theingeri</a>
+
+  <a href="../cite/Theoderici/1143/CartStBert">Theoderici</a>
+
+  <a href="../cite/Theoderici/1179/CartStBert">Theoderici</a>
+
+  <a href="../cite/Theoderico/1133/CartStBert">Theoderico</a>
+
+  <a href="../cite/Theodericus/1151/CartStBert">Theodericus</a>
+
+  <a href="../cite/Theodericus/1133/CartStBert">Theodericus</a>
+
+  <a href="../cite/Theodericus/1110/CartStBert">Theodericus</a>
+
+  <a href="../cite/Theodericus/1147/CartStBert">Theodericus</a>
+
+  <a href="../cite/Theodericus/1138/CartStBert">Theodericus</a>
+
+  <a href="../cite/Theodericus/c1130/CartStBert">Theodericus</a>
+
+  <a href="../cite/Theodorico/1133/CartStBert">Theodorico</a>
+
+  <a href="../cite/Thome/1165/CartStBert">Thome</a>
+
+  <a href="../cite/Tursteinus/1138/CartStBert">Tursteinus</a>
+
+  <a href="../cite/Walcheri/1125/CartStBert">Walcheri</a>
+
+  <a href="../cite/Walteri/1168/CartStBert">Walteri</a>
+
+  <a href="../cite/Waltero/1133/CartStBert">Waltero</a>
+
+  <a href="../cite/Waltero/1176/CartStBert">Waltero</a>
+
+  <a href="../cite/Walterum/1168/CartStBert">Walterum</a>
+
+  <a href="../cite/Walterus/1190/CartStBert">Walterus</a>
+
+  <a href="../cite/Walterus/1151/CartStBert">Walterus</a>
+
+  <a href="../cite/Walterus/1169/CartStBert">Walterus</a>
+
+  <a href="../cite/Walterus/1179/CartStBert">Walterus</a>
+
+  <a href="../cite/Walterus/1138/CartStBert">Walterus</a>
+
+  <a href="../cite/Walterus/c1130/CartStBert">Walterus</a>
+
+  <a href="../cite/Walterus/1147/CartStBert">Walterus</a>
+
+  <a href="../cite/Wido/1107/CartStBert">Wido</a>
+
+  <a href="../cite/Willekinus/1169/CartStBert">Willekinus</a>
+
+  <a href="../cite/Willelmi/1176/CartStBert">Willelmi</a>
+
+  <a href="../cite/Willelmo/1190/CartStBert">Willelmo</a>
+
+  <a href="../cite/Willelmo/1133/CartStBert">Willelmo</a>
+
+  <a href="../cite/Willelmus/1179/CartStBert">Willelmus</a>
+
+  <a href="../cite/Willelmus/1138/CartStBert">Willelmus</a>
+
+  <a href="../cite/Windelmod/1190/CartStBert">Windelmod</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

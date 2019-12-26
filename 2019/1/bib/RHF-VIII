@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>RHF-VIII</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>RHF-VIII</dt>
+  <dd>Étienne Clouzot, editor. <em>Pouillés des Provinces d'Aix, d'Arles et d'Embrun Publié sous la Direction de M. Maurice Prou</em>, volume VIII of <em>Recueil des Historiens de la France Publié par l'Académie des Inscriptions et Belles-Lettres:</em>. Paris: Imprimerie Nationale, 1923.</dd>
+</dl>
+
+
+  <a href="../cite/Berengarius/1274/RHF-VIII">Berengarius</a>
+
+  <a href="../cite/Bermondus/1274/RHF-VIII">Bermondus</a>
+
+  <a href="../cite/Bernardi/1274/RHF-VIII">Bernardi</a>
+
+  <a href="../cite/Bernardus/1350/RHF-VIII">Bernardus</a>
+
+  <a href="../cite/Bernaudus/1274/RHF-VIII">Bernaudus</a>
+
+  <a href="../cite/Bertrandus/1274/RHF-VIII">Bertrandus</a>
+
+  <a href="../cite/Bertrandus/1350/RHF-VIII">Bertrandus</a>
+
+  <a href="../cite/Fulco/1274/RHF-VIII">Fulco</a>
+
+  <a href="../cite/Gaufridus/1274/RHF-VIII">Gaufridus</a>
+
+  <a href="../cite/Giraudi/1274/RHF-VIII">Giraudi</a>
+
+  <a href="../cite/Giraudus/1274/RHF-VIII">Giraudus</a>
+
+  <a href="../cite/Guido/1274/RHF-VIII">Guido</a>
+
+  <a href="../cite/Hugo/1274/RHF-VIII">Hugo</a>
+
+  <a href="../cite/Jacobus/1350/RHF-VIII">Jacobus</a>
+
+  <a href="../cite/Jacobus/1274/RHF-VIII">Jacobus</a>
+
+  <a href="../cite/Johannes/1274/RHF-VIII">Johannes</a>
+
+  <a href="../cite/Lambertus/1274/RHF-VIII">Lambertus</a>
+
+  <a href="../cite/Michael/1274/RHF-VIII">Michael</a>
+
+  <a href="../cite/Obertus/1274/RHF-VIII">Obertus</a>
+
+  <a href="../cite/Olivarius/1274/RHF-VIII">Olivarius</a>
+
+  <a href="../cite/Pascalis/1274/RHF-VIII">Pascalis</a>
+
+  <a href="../cite/Petrus/1274/RHF-VIII">Petrus</a>
+
+  <a href="../cite/Pontius/1274/RHF-VIII">Pontius</a>
+
+  <a href="../cite/Raimundus/1350/RHF-VIII">Raimundus</a>
+
+  <a href="../cite/Raymbaudus/1274/RHF-VIII">Raymbaudus</a>
+
+  <a href="../cite/Raymberti/1274/RHF-VIII">Raymberti</a>
+
+  <a href="../cite/Raynaldus/1274/RHF-VIII">Raynaldus</a>
+
+  <a href="../cite/Ricerius/1274/RHF-VIII">Ricerius</a>
+
+  <a href="../cite/Stephanus/1274/RHF-VIII">Stephanus</a>
+
+  <a href="../cite/Valentinus/1274/RHF-VIII">Valentinus</a>
+
+  <a href="../cite/Vincentius/1274/RHF-VIII">Vincentius</a>
+
+  <a href="../cite/Ymbertus/1274/RHF-VIII">Ymbertus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

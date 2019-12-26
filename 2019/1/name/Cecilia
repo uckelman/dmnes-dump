@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Cecilia</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Cecilia</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Caecilia</i>, the feminine form of a Roman <i>gens</i> name which may derive from <span class="lang">Latin</span> <i>caecus</i> 'blind'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an enormously popular medieval saint, the patron saint of music, one of eight women commemorated by name in the Canon of the Mass.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The English diminutives <i>Cys</i> and <i>Cyssot</i> are witnessed in 1379 in the relational bynames <i>Cyssoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 131</span></span>) and <i>Cyssotsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 133</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Cecilia</span> <a href="../cite/Cecilia/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 373</span></a>,
+ <span class="name">Cecilie</span> <a href="../cite/Cecilie/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 324</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 28</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1189</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 178</span></a>;
+ <span class="date">1222</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Sicilia</span> (<span class="case">nom</span>) <a href="../cite/Sicilia/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1240</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1240/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 119</span></a>;
+ <span class="date">1279–80</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Cecilie</span> (<span class="case">gen</span>) <a href="../cite/Cecilie/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1296</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 95a</span></a>,
+ <span class="name">Cecilie</span> (<span class="case">gen</span>) <a href="../cite/Cecilie/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95a</span></a>;
+ <span class="date">1319</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1319/PSS-CXIV"><span class="bib_key">PSS-CXIV</span> <span class="bib_loc">5a</span></a>,
+ <span class="name">Ceciliam</span> (<span class="case">acc</span>) <a href="../cite/Ceciliam/1319/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">5b</span></a>,
+ <span class="name">Cecilie</span> (<span class="case">gen</span>) <a href="../cite/Cecilie/1319/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">5a</span></a>;
+ <span class="date">1322</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1322/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1326</span> <span class="name">Cecilie</span> (<span class="case">gen</span>) <a href="../cite/Cecilie/1326/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Cecilicia</span> (<span class="case">nom</span>) <a href="../cite/Cecilicia/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Cesilia</span> (<span class="case">nom</span>) <a href="../cite/Cesilia/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a>,
+ <span class="name">Cicilia</span> (<span class="case">nom</span>) <a href="../cite/Cicilia/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1377</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1379</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Cicelia</span> (<span class="case">nom</span>) <a href="../cite/Cicelia/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Cicilia</span> (<span class="case">nom</span>) <a href="../cite/Cicilia/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Ciscilia</span> (<span class="case">nom</span>) <a href="../cite/Ciscilia/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Cissilia</span> (<span class="case">nom</span>) <a href="../cite/Cissilia/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1381</span> <span class="name">Ceceli</span> (<span class="case">nom</span>) <a href="../cite/Ceceli/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1381/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Cecilia/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 69</span></a>,
+ <span class="name">Cicilla</span> (<span class="case">nom</span>) <a href="../cite/Cicilla/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Cissilia</span> (<span class="case">nom</span>) <a href="../cite/Cissilia/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1408</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1408/GCCYork"><span class="bib_key">GCCYork</span> <span class="bib_loc">p.12</span></a>;
+ <span class="date">1431</span> <span class="name">Ceciliæ</span> (<span class="case">dat</span>) <a href="../cite/Ceciliæ/1431/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">æ</span></a>;
+ <span class="date">1440</span> <span class="name">Ciciliæ</span> (<span class="case">dat</span>) <a href="../cite/Ciciliæ/1440/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LI</span></a>;
+ <span class="date">1555</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1555/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1559</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1559/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1560</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1560/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1565</span> <span class="name">Cicilia</span> (<span class="case">nom</span>) <a href="../cite/Cicilia/1565/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 4</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1379</span> <span class="name">Cissota</span> (<span class="case">nom</span>) <a href="../cite/Cissota/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Cyssot</span> (<span class="case">nom</span>) <a href="../cite/Cyssot/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Sissot'</span> (<span class="case">nom</span>) <a href="../cite/Sissot'/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1424–25</span> <span class="name">Cecile</span> <a href="../cite/Cecile/1424–25/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1425</span> <span class="name">Cecile</span> <a href="../cite/Cecile/1425/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 63</span></a>;
+ <span class="date">1426</span> <span class="name">Cisily</span> <a href="../cite/Cisily/1426/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 70</span></a>;
+ <span class="date">1436</span> <span class="name">Cicile</span> <a href="../cite/Cicile/1436/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 106</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Cecile</span> <a href="../cite/Cecile/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Cecill</span> <a href="../cite/Cecill/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 79</span></a>,
+ <span class="name">Cecily</span> <a href="../cite/Cecily/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57</span></a>,
+ <span class="name">Secily</span> <a href="../cite/Secily/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1540</span> <span class="name">Syslyth</span> <a href="../cite/Syslyth/1540/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1543</span> <span class="name">Cisley</span> <a href="../cite/Cisley/1543/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1544</span> <span class="name">Syslyeth</span> <a href="../cite/Syslyeth/1544/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1545</span> <span class="name">Ciseley</span> <a href="../cite/Ciseley/1545/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1546</span> <span class="name">Syslyth</span> <a href="../cite/Syslyth/1546/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1548</span> <span class="name">Sisly</span> <a href="../cite/Sisly/1548/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1549</span> <span class="name">Cyseley</span> <a href="../cite/Cyseley/1549/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Sisly</span> <a href="../cite/Sisly/1549/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1555</span> <span class="name">Syslyth</span> <a href="../cite/Syslyth/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1559</span> <span class="name">Ciceli</span> <a href="../cite/Ciceli/1559/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 30</span></a>,
+ <span class="name">Cicelie</span> <a href="../cite/Cicelie/1559/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1560</span> <span class="name">Cicyly</span> <a href="../cite/Cicyly/1560/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1562</span> <span class="name">Sisley</span> <a href="../cite/Sisley/1562/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1569</span> <span class="name">Cicely</span> <a href="../cite/Cicely/1569/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 95</span></a>,
+ <span class="name">Sicilia</span> <a href="../cite/Sicilia/1569/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1570</span> <span class="name">Cicely</span> <a href="../cite/Cicely/1570/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1571</span> <span class="name">Cicely</span> <a href="../cite/Cicely/1571/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1574</span> <span class="name">Sicelye</span> <a href="../cite/Sicelye/1574/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1578</span> <span class="name">Sisley</span> <a href="../cite/Sisley/1578/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1579</span> <span class="name">Sisley</span> <a href="../cite/Sisley/1579/OrpingtonKe"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1580</span> <span class="name">Cicelie</span> <a href="../cite/Cicelie/1580/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1581?</span> <span class="name">Sisilye</span> <a href="../cite/Sisilye/1581?/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 127</span></a>;
+ <span class="date">1584</span> <span class="name">Sisly</span> <a href="../cite/Sisly/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1585/6</span> <span class="name">Cislie</span> <a href="../cite/Cislie/1585s6/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1586</span> <span class="name">Sisly</span> <a href="../cite/Sisly/1586/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1587</span> <span class="name">Sicely</span> <a href="../cite/Sicely/1587/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1588</span> <span class="name">Sessellye</span> <a href="../cite/Sessellye/1588/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1589</span> <span class="name">Sicely</span> <a href="../cite/Sicely/1589/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Sisily</span> <a href="../cite/Sisily/1589/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 128</span></a>,
+ <span class="name">Sisley</span> <a href="../cite/Sisley/1589/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 132</span></a>;
+ <span class="date">1590</span> <span class="name">Sisly</span> <a href="../cite/Sisly/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 22</span></a>,
+ <a href="../cite/Sisly/1590/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1591</span> <span class="name">Cysly</span> <a href="../cite/Cysly/1591/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1592</span> <span class="name">Cicely</span> <a href="../cite/Cicely/1592/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1595</span> <span class="name">Cicelie</span> <a href="../cite/Cicelie/1595/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 54</span></a>,
+ <span class="name">Sysle</span> <a href="../cite/Sysle/1595/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1596</span> <span class="name">Cicely</span> <a href="../cite/Cicely/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Cislye</span> <a href="../cite/Cislye/1596/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Sicelea</span> <a href="../cite/Sicelea/1596/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 66</span></a>;
+ <span class="date">1597</span> <span class="name">Cicelie</span> <a href="../cite/Cicelie/1597/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Sisley</span> <a href="../cite/Sisley/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1598</span> <span class="name">Cicely</span> <a href="../cite/Cicely/1598/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Sicely</span> <a href="../cite/Sicely/1598/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Sisley</span> <a href="../cite/Sisley/1598/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 50</span></a>,
+ <span class="name">Sisly</span> <a href="../cite/Sisly/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Sislye</span> <a href="../cite/Sislye/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1599</span> <span class="name">Cicilie</span> <a href="../cite/Cicilie/1599/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 57</span></a>,
+ <span class="name">Seccely</span> <a href="../cite/Seccely/1599/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 4</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1563</span> <span class="name">Ciceletam</span> <a href="../cite/Ciceletam/1563/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1569</span> <span class="name">Cicelet</span> <a href="../cite/Cicelet/1569/BUmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1583/4</span> <span class="name">Cicille</span> <a href="../cite/Cicille/1583s4/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 8</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1180</span> <span class="name">Cecilie</span> (<span class="case">gen</span>) <a href="../cite/Cecilie/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 3</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1564</span> <span class="name">Cécille</span> <a href="../cite/Cécille/1564/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 65</span></a>;
+ <span class="date">1565</span> <span class="name">Cecille</span> <a href="../cite/Cecille/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 171</span></a>;
+ <span class="date">1566</span> <span class="name">Cicile</span> <a href="../cite/Cicile/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 267</span></a>;
+ <span class="date">1587</span> <span class="name">Cecille</span> <a href="../cite/Cecille/1587/RTFProvins"><span class="bib_key">RTFProvins</span> <span class="bib_loc">11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1348</span> <span class="name">Cecilia</span> (<span class="case">nom</span>) <a href="../cite/Cecilia/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">26</span></a>;
+ <span class="date">1450</span> <span class="name">Ciciliam</span> (<span class="case">acc</span>) <a href="../cite/Ciciliam/1450/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">VIII</span></a>,
+ <span class="name">Cicilie</span> (<span class="case">gen</span>) <a href="../cite/Cicilie/1450/VitAs2"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1527</span> <span class="name">Cicilia</span> (<span class="case">nom</span>) <a href="../cite/Cicilia/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 88</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Cecilia</span> <a href="../cite/Cecilia/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 30</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Sicilia</span> <a href="../cite/Sicilia/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3214</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Cecilie</span> (<span class="case">dat</span>) <a href="../cite/Cecilie/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6037</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Cicell</span> (<span class="case">nom</span>) <a href="../cite/Cicell/1543/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 162</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">14thCx1478</span> <span class="name">Cicillia</span> (<span class="case">nom</span>) <a href="../cite/Cicillia/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(54)</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571</span> <span class="name">Cissill</span> <a href="../cite/Cissill/1571/RegLlantrithyd"><span class="bib_key">RegLlantrithyd</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1577</span> <span class="name">Cissill</span> <a href="../cite/Cissill/1577/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1591</span> <span class="name">Cissill</span> <a href="../cite/Cissill/1591/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1592</span> <span class="name">Cissill</span> <a href="../cite/Cissill/1592/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1594</span> <span class="name">Cissill</span> <a href="../cite/Cissill/1594/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 62</span></a>;
+ <span class="date">1597</span> <span class="name">Cissill</span> <a href="../cite/Cissill/1597/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1598</span> <span class="name">Cissill</span> <a href="../cite/Cissill/1598/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1599</span> <span class="name">Cissill</span> <a href="../cite/Cissill/1599/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, N. Shiel, J. Uckelman, S.L. Uckelman. "Cecilia". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Cecilia.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

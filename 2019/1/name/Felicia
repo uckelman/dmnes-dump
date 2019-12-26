@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Felicia</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Felicia</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>felicia</i> 'happy; blessed, lucky, fortunate; fertile'. Fem. of <a class="nym" href="Felix">Felix</a>.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>The English vernacular <i>ffylys</i> is witnessed in 1379 in the relational byname <i>ffylyssoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 308</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1222</span> <span class="name">Felicia</span> (<span class="case">nom</span>) <a href="../cite/Felicia/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1279–80</span> <span class="name">Felicia</span> (<span class="case">nom</span>) <a href="../cite/Felicia/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Felicie</span> (<span class="case">gen</span>) <a href="../cite/Felicie/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Felicia</span> (<span class="case">nom</span>) <a href="../cite/Felicia/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Felisia</span> (<span class="case">nom</span>) <a href="../cite/Felisia/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">ffelicia</span> (<span class="case">nom</span>) <a href="../cite/ffelicia/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1379</span> <span class="name">Filisia</span> (<span class="case">nom</span>) <a href="../cite/Filisia/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">ffelix</span> (<span class="case">nom</span>) <a href="../cite/ffelix/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1381</span> <span class="name">Felis</span> (<span class="case">nom</span>) <a href="../cite/Felis/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1485–1486</span> <span class="name">ffelicia</span> (<span class="case">abl</span>) <a href="../cite/ffelicia/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1591</span> <span class="name">ffelix</span> (<span class="case">nom</span>) <a href="../cite/ffelix/1591/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 15</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1551</span> <span class="name">Felysse</span> <a href="../cite/Felysse/1551/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1560</span> <span class="name">Pheles</span> <a href="../cite/Pheles/1560/DU-DSMMar"><span class="bib_key">DU-DSMMar</span></a>;
+ <span class="date">1561</span> <span class="name">Felys</span> <a href="../cite/Felys/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1562</span> <span class="name">Felys</span> <a href="../cite/Felys/1562/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1569</span> <span class="name">Felice</span> <a href="../cite/Felice/1569/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1588</span> <span class="name">ffelse</span> <a href="../cite/ffelse/1588/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 14</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Felize</span> <a href="../cite/Felize/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 26</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1527</span> <span class="name">Felix</span> (<span class="case">nom</span>) <a href="../cite/Felix/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 89</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">954</span> <span class="name">felicia</span> (<span class="case">nom</span>) <a href="../cite/felicia/954/CDGH"><span class="bib_key">CDGH</span> <span class="bib_loc">XLVII</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Felicia". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Felicia.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

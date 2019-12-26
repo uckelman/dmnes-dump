@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Reinbald</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Reinbald</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Proto-Germanic</span> <i>*ragin</i> 'counsel, might' + <span class="lang">Old High German</span> <i>bald</i> 'bold'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an 11th C German saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The German vernacular forms <i>Reymbold</i> and <i>Rembold</i> are witnessed in 1273 in the place name <i>Reymboldesberg</i> (<span class="bibl"><span class="key">hennes-vol1</span> <span class="loc">228</span></span>) or <i>Remboldesberg</i> (<span class="bibl"><span class="key">hennes-vol1</span> <span class="loc">229</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">763</span> <span class="name">Reginpald</span> (<span class="case">nom</span>) <a href="../cite/Reginpald/763/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1178</span> <span class="name">Reinbaldi</span> (<span class="case">gen</span>) <a href="../cite/Reinbaldi/1178/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">23</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1361x1377</span> <span class="name">Remboldus</span> (<span class="case">nom</span>) <a href="../cite/Remboldus/1361x1377/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1376</span> <span class="name">Remboldus</span> (<span class="case">nom</span>) <a href="../cite/Remboldus/1376/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1364</span> <span class="name">Rembold</span> <a href="../cite/Rembold/1364/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 334</span></a>;
+ <span class="date">1383</span> <span class="name">Remboldus</span> <a href="../cite/Remboldus/1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 337</span></a>;
+ <span class="date">1405</span> <span class="name">Rembold</span> <a href="../cite/Rembold/1405/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Ragamboldus</span> (<span class="case">nom</span>) <a href="../cite/Ragamboldus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">a, Palatiolum</span></a>,
+ <span class="name">Ragemboldus</span> (<span class="case">nom</span>) <a href="../cite/Ragemboldus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">15, Gaugiacum</span></a>;
+ <span class="date">11thC</span> <span class="name">Raimbaldus</span> (<span class="case">nom</span>) <a href="../cite/Raimbaldus/11thC/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">711</span></a>;
+ <span class="date">1044</span> <span class="name">Raiambaldus</span> (<span class="case">nom</span>) <a href="../cite/Raiambaldus/1044/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">659</span></a>;
+ <span class="date">1055</span> <span class="name">Raimbaldi</span> (<span class="case">gen</span>) <a href="../cite/Raimbaldi/1055/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">739</span></a>,
+ <span class="name">Raimbaldus</span> (<span class="case">nom</span>) <a href="../cite/Raimbaldus/1055/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">739</span></a>;
+ <span class="date">1059</span> <span class="name">Raimbaldi</span> (<span class="case">gen</span>) <a href="../cite/Raimbaldi/1059/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">688</span></a>;
+ <span class="date">1060</span> <span class="name">Raimbaldus</span> (<span class="case">nom</span>) <a href="../cite/Raimbaldus/1060/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">730</span></a>;
+ <span class="date">1075</span> <span class="name">Raiambaldus</span> (<span class="case">nom</span>) <a href="../cite/Raiambaldus/1075/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">731</span></a>,
+ <span class="name">Raimbaldus</span> (<span class="case">nom</span>) <a href="../cite/Raimbaldus/1075/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">732</span></a>;
+ <span class="date">1115</span> <span class="name">Raimbaldus</span> (<span class="case">nom</span>) <a href="../cite/Raimbaldus/1115/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">734</span></a>;
+ <span class="date">1129</span> <span class="name">Raiambaldus</span> (<span class="case">nom</span>) <a href="../cite/Raiambaldus/1129/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">735</span></a>;
+ <span class="date">1138</span> <span class="name">Raimboldus</span> (<span class="case">nom</span>) <a href="../cite/Raimboldus/1138/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIX</span></a>;
+ <span class="date">1274</span> <span class="name">Raymbaudus</span> (<span class="case">nom</span>) <a href="../cite/Raymbaudus/1274/RHF-VIII"><span class="bib_key">RHF-VIII</span> <span class="bib_loc">p. 60</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Raimbaut</span> <a href="../cite/Raimbaut/1292/1292paris"><span class="bib_key">1292paris</span> <span class="bib_loc">p. 1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Rainbaldus</span> (<span class="case">nom</span>) <a href="../cite/Rainbaldus/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§167</span></a>;
+ <span class="date">1134</span> <span class="name">Reimboldus</span> (<span class="case">nom</span>) <a href="../cite/Reimboldus/1134/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1237</span> <span class="name">Remboldo</span> (<span class="case">abl</span>) <a href="../cite/Remboldo/1237/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1257</span> <span class="name">Remboldi</span> (<span class="case">gen</span>) <a href="../cite/Remboldi/1257/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">164</span></a>;
+ <span class="date">1274</span> <span class="name">Reimboldi</span> (<span class="case">gen</span>) <a href="../cite/Reimboldi/1274/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">237</span></a>;
+ <span class="date">1281</span> <span class="name">Reinboldi</span> (<span class="case">gen</span>) <a href="../cite/Reinboldi/1281/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">279</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Reimboldi</span> (<span class="case">gen</span>) <a href="../cite/Reimboldi/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 22</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1067</span> <span class="name">Rembaldi</span> (<span class="case">gen</span>) <a href="../cite/Rembaldi/1067/CartSPL1"><span class="bib_key">CartSPL1</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1164</span> <span class="name">Rambaldo</span> (<span class="case">abl</span>) <a href="../cite/Rambaldo/1164/SDE3"><span class="bib_key">SDE3</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1236</span> <span class="name">Rambaldi</span> (<span class="case">gen</span>) <a href="../cite/Rambaldi/1236/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">8</span></a>,
+ <span class="name">Rambaldo</span> (<span class="case">abl</span>) <a href="../cite/Rambaldo/1236/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1294</span> <span class="name">Reymboldo</span> (<span class="case">dat</span>) <a href="../cite/Reymboldo/1294/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">1004</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1254</span> <span class="name">Renboldus</span> (<span class="case">nom</span>) <a href="../cite/Renboldus/1254/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 294</span></a>,
+ <span class="name">reijbaldi</span> (<span class="case">gen</span>) <a href="../cite/reijbaldi/1254/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 294</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1349</span> <span class="name">Raimbaudi</span> (<span class="case">gen</span>) <a href="../cite/Raimbaudi/1349/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DXXIV</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Reinbald". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Reinbald.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Gauzo</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Gauzo</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A hypocoristic of any of various names beginning with Tribal name <i>Gaut</i> 'Geat', deriving from <span class="lang">Proto-Germanic</span> *<i>Gautaz</i>.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>Diminutive forms such as <i>Jos(s/c)el(y/i)n(e)</i> can also sometimes be diminutives of <a class="nym" href="Jodocus">Jodocus</a>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1176</span> <span class="name">Gocelino</span> (<span class="case">abl</span>) <a href="../cite/Gocelino/1176/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">22</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1348</span> <span class="name">Goslinus</span> (<span class="case">nom</span>) <a href="../cite/Goslinus/1348/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">10</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1185x1186</span> <span class="name">Joscelinus</span> (<span class="case">nom</span>) <a href="../cite/Joscelinus/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1189</span> <span class="name">Gocelini</span> (<span class="case">gen</span>) <a href="../cite/Gocelini/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 127</span></a>,
+ <span class="name">Gocelinus</span> (<span class="case">nom</span>) <a href="../cite/Gocelinus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 105</span></a>;
+ <span class="date">1222</span> <span class="name">Goscelini</span> (<span class="case">gen</span>) <a href="../cite/Goscelini/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 106</span></a>;
+ <span class="date">1381</span> <span class="name">Gocelinus</span> (<span class="case">nom</span>) <a href="../cite/Gocelinus/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 8</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1482–3</span> <span class="name">josselyn</span> <a href="../cite/josselyn/1482–3/BreadBk"><span class="bib_key">BreadBk</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1485</span> <span class="name">Gessilyne</span> <a href="../cite/Gessilyne/1485/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXIX</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1180</span> <span class="name">Josce</span> (<span class="case">gen</span>) <a href="../cite/Josce/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 16</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1032x1064</span> <span class="name">Gauslinus</span> (<span class="case">nom</span>) <a href="../cite/Gauslinus/1032x1064/LDS"><span class="bib_key">LDS</span> <span class="bib_loc">LV</span></a>;
+ <span class="date">1047</span> <span class="name">Gosleni</span> (<span class="case">gen</span>) <a href="../cite/Gosleni/1047/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Joscelini</span> (<span class="case">gen</span>) <a href="../cite/Joscelini/1047/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1067</span> <span class="name">Goscelini</span> (<span class="case">gen</span>) <a href="../cite/Goscelini/1067/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1067x1074</span> <span class="name">Goscelinus</span> (<span class="case">nom</span>) <a href="../cite/Goscelinus/1067x1074/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1067x1086</span> <span class="name">Goscelini</span> (<span class="case">gen</span>) <a href="../cite/Goscelini/1067x1086/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1079x1081</span> <span class="name">Joscelino</span> (<span class="case">abl</span>) <a href="../cite/Joscelino/1079x1081/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">1079x1101</span> <span class="name">Gausleni</span> (<span class="case">gen</span>) <a href="../cite/Gausleni/1079x1101/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">IX</span></a>,
+ <span class="name">Gausleno</span> (<span class="case">abl</span>) <a href="../cite/Gausleno/1079x1101/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>,
+ <span class="name">Gauslenus</span> (<span class="case">nom</span>) <a href="../cite/Gauslenus/1079x1101/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1090x1101</span> <span class="name">Gauslinus</span> (<span class="case">nom</span>) <a href="../cite/Gauslinus/1090x1101/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLIII</span></a>;
+ <span class="date">1107</span> <span class="name">Goslinus</span> (<span class="case">nom</span>) <a href="../cite/Goslinus/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Joscelinus</span> (<span class="case">nom</span>) <a href="../cite/Joscelinus/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Gauslenus</span> (<span class="case">nom</span>) <a href="../cite/Gauslenus/1115x1149/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1119</span> <span class="name">Gocelinus</span> (<span class="case">nom</span>) <a href="../cite/Gocelinus/1119/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">c1120</span> <span class="name">Goscelini</span> (<span class="case">gen</span>) <a href="../cite/Goscelini/c1120/CartNoyers"><span class="bib_key">CartNoyers</span> <span class="bib_loc">CDXXXVI</span></a>;
+ <span class="date">1121</span> <span class="name">Gocelinus</span> (<span class="case">nom</span>) <a href="../cite/Gocelinus/1121/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1123</span> <span class="name">Goscelinus</span> (<span class="case">nom</span>) <a href="../cite/Goscelinus/1123/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXIV</span></a>,
+ <span class="name">Jocelinus</span> (<span class="case">nom</span>) <a href="../cite/Jocelinus/1123/CartYonne1"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXXVI</span></a>;
+ <span class="date">1130x1150</span> <span class="name">Gauslinus</span> (<span class="case">nom</span>) <a href="../cite/Gauslinus/1130x1150/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXVII</span></a>;
+ <span class="date">1131</span> <span class="name">Goscelino</span> (<span class="case">abl</span>) <a href="../cite/Goscelino/1131/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXII</span></a>;
+ <span class="date">1135</span> <span class="name">Joscelinus</span> (<span class="case">nom</span>) <a href="../cite/Joscelinus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1141</span> <span class="name">Gosleno</span> (<span class="case">abl</span>) <a href="../cite/Gosleno/1141/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXXI</span></a>;
+ <span class="date">1146</span> <span class="name">Goislenus</span> (<span class="case">nom</span>) <a href="../cite/Goislenus/1146/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXII</span></a>;
+ <span class="date">1163</span> <span class="name">Joscelinus</span> (<span class="case">nom</span>) <a href="../cite/Joscelinus/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">95</span></a>;
+ <span class="date">1171</span> <span class="name">Joscelinus</span> (<span class="case">nom</span>) <a href="../cite/Joscelinus/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">141</span></a>;
+ <span class="date">1179</span> <span class="name">Joscelini</span> (<span class="case">gen</span>) <a href="../cite/Joscelini/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">178</span></a>,
+ <span class="name">Joscelinus</span> (<span class="case">nom</span>) <a href="../cite/Joscelinus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>,
+ <span class="name">Joslenus</span> (<span class="case">nom</span>) <a href="../cite/Joslenus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">180</span></a>;
+ <span class="date">1180</span> <span class="name">Goscelino</span> (<span class="case">abl</span>) <a href="../cite/Goscelino/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 35</span></a>,
+ <span class="name">Joislini</span> (<span class="case">gen</span>) <a href="../cite/Joislini/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Joscelino</span> (<span class="case">abl</span>) <a href="../cite/Joscelino/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Joscelinus</span> (<span class="case">nom</span>) <a href="../cite/Joscelinus/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1378</span> <span class="name">Gosselini</span> (<span class="case">gen</span>) <a href="../cite/Gosselini/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">2358</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1302x1303</span> <span class="name">Gosset</span> (<span class="case">obl</span>) <a href="../cite/Gosset/1302x1303/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">XXX</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">fin12thC</span> <span class="name">Gocelinus</span> (<span class="case">nom</span>) <a href="../cite/Gocelinus/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 20</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Israel</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1115</span> <span class="name">Goscelino</span> (<span class="case">dat</span>) <a href="../cite/Goscelino/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1120</span> <span class="name">Goscelino</span> (<span class="case">abl</span>) <a href="../cite/Goscelino/1120/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>,
+ <span class="name">Goscelinus</span> (<span class="case">nom</span>) <a href="../cite/Goscelinus/1120/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Gauzo". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Gauzo.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

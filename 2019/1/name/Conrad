@@ -1,0 +1,748 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Conrad</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Conrad</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>kuoni</i> 'daring' from <span class="lang">Proto-Germanic</span> <i>*kōniz</i> 'able, knowledgeable, skillful, clever' +  <span class="lang">Old Saxon</span> <i>rād</i>, <span class="lang">Old High German</span> <i>rāt</i> 'counsel, advice'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of five Holy Roman Emperors or kings of Germany from 9th to 13th C, a 10th C German saint, a 13th C Italian saint, and a 13th C king of Jerusalem and Sicily.</p>
+</div>
+  
+  
+<div class="def">
+  <p>See <a class="nym" href="Cuno">Cuno</a> for possible diminutive forms.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1100</span> <span class="name">Choͮnradus</span> (<span class="case">nom</span>) <a href="../cite/Choͮnradus/c1100/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">92</span></a>,
+ <span class="name">Chuonrad</span> (<span class="case">nom</span>) <a href="../cite/Chuonrad/c1100/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>;
+ <span class="date">1103</span> <span class="name">Choͮnradus</span> (<span class="case">nom</span>) <a href="../cite/Choͮnradus/1103/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">94a</span></a>,
+ <span class="name">Choͮnrat</span> (<span class="case">nom</span>) <a href="../cite/Choͮnrat/1103/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">95</span></a>;
+ <span class="date">c1115</span> <span class="name">Chunrat</span> (<span class="case">nom</span>) <a href="../cite/Chunrat/c1115/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">101</span></a>;
+ <span class="date">c1120</span> <span class="name">Chunradi</span> (<span class="case">gen</span>) <a href="../cite/Chunradi/c1120/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">103</span></a>,
+ <span class="name">Cvͦnrat</span> (<span class="case">nom</span>) <a href="../cite/Cvͦnrat/c1120/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a>;
+ <span class="date">c1125</span> <span class="name">Chunrado</span> (<span class="case">dat</span>) <a href="../cite/Chunrado/c1125/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">111</span></a>,
+ <span class="name">Chuonradus</span> (<span class="case">nom</span>) <a href="../cite/Chuonradus/c1125/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">115</span></a>;
+ <span class="date">c1128</span> <span class="name">Chonradus</span> (<span class="case">nom</span>) <a href="../cite/Chonradus/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Choͮnradus</span> <a href="../cite/Choͮnradus/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">118a</span></a>,
+ <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/c1128/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">119b</span></a>;
+ <span class="date">c1130</span> <span class="name">Chunrado</span> (<span class="case">abl</span>) <a href="../cite/Chunrado/c1130/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">123b</span></a>;
+ <span class="date">1231</span> <span class="name">Chunradi</span> (<span class="case">gen</span>) <a href="../cite/Chunradi/1231/UBEnns3"><span class="bib_key">UBEnns3</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Chunrado</span> (<span class="case">abl</span>) <a href="../cite/Chunrado/1231/UBEnns3"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1231/UBEnns3"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Chvnradus</span> (<span class="case">nom</span>) <a href="../cite/Chvnradus/1231/UBEnns3"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1239</span> <span class="name">Chunrado</span> (<span class="case">abl</span>) <a href="../cite/Chunrado/1239/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">100</span></a>;
+ <span class="date">1277</span> <span class="name">Chunrado</span> (<span class="case">abl</span>) <a href="../cite/Chunrado/1277/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">355</span></a>;
+ <span class="date">1277?</span> <span class="name">Chvnrado</span> (<span class="case">dat</span>) <a href="../cite/Chvnrado/1277?/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">354</span></a>,
+ <span class="name">Chvnradus</span> (<span class="case">nom</span>) <a href="../cite/Chvnradus/1277?/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">354</span></a>;
+ <span class="date">1277</span> <span class="name">Chvnradus</span> (<span class="case">nom</span>) <a href="../cite/Chvnradus/1277/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">355</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Coenraedt</span> <a href="../cite/Coenraedt/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 328</span></a>,
+ <span class="name">Coenraert</span> <a href="../cite/Coenraert/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>,
+ <span class="name">Conraert</span> <a href="../cite/Conraert/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 386</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Conardus</span> (<span class="case">nom</span>) <a href="../cite/Conardus/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Conrardus</span> (<span class="case">nom</span>) <a href="../cite/Conrardus/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1314</span> <span class="name">Chonradus</span> (<span class="case">nom</span>) <a href="../cite/Chonradus/1314/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Conradum</span> (<span class="case">acc</span>) <a href="../cite/Conradum/1314/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1316</span> <span class="name">Cunradum</span> (<span class="case">acc</span>) <a href="../cite/Cunradum/1316/RTT-1.1"><span class="bib_key">RTT-1.1</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1331</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1331/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1337</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1337/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1343</span> <span class="name">Chonradum</span> (<span class="case">acc</span>) <a href="../cite/Chonradum/1343/Rössler2"><span class="bib_key">Rössler2</span> <span class="bib_loc">40, p. 22</span></a>,
+ <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">37, p. 20</span></a>,
+ <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">37, p. 20</span></a>,
+ <span class="name">Conradum</span> (<span class="case">acc</span>) <a href="../cite/Conradum/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">280, p. 129</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">40, p. 22</span></a>;
+ <span class="date">1346</span> <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1346/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">633</span></a>;
+ <span class="date">1348</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1348/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">11</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1348/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1349</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">39</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">145</span></a>;
+ <span class="date">1350</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">173, p. 10</span></a>;
+ <span class="date">1351</span> <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1353</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">75</span></a>,
+ <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">75</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">109</span></a>;
+ <span class="date">1355</span> <span class="name">Cunado</span> (<span class="case">dat</span>) <a href="../cite/Cunado/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1356</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">119</span></a>;
+ <span class="date">1358</span> <span class="name">Conado</span> (<span class="case">dat</span>) <a href="../cite/Conado/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">205, p. 30</span></a>;
+ <span class="date">1360</span> <span class="name">Conradum</span> (<span class="case">acc</span>) <a href="../cite/Conradum/1360/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">471, p. 40</span></a>;
+ <span class="date">1361x1377</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1361x1377/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1387</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1387/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1388</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1388/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1389</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1389/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1390</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1390/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1392</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1392/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1402</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1402/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1347x1382</span> <span class="name">Cunsso</span> (<span class="case">nom</span>) <a href="../cite/Cunsso/1347x1382/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1349</span> <span class="name">Chunso</span> (<span class="case">nom</span>) <a href="../cite/Chunso/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">135</span></a>;
+ <span class="date">1350</span> <span class="name">Chunschoni</span> (<span class="case">dat</span>) <a href="../cite/Chunschoni/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">156</span></a>,
+ <span class="name">Cunczlino</span> (<span class="case">dat</span>) <a href="../cite/Cunczlino/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">213</span></a>;
+ <span class="date">1351</span> <span class="name">Cuna</span> (<span class="case">abl</span>) <a href="../cite/Cuna/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">1</span></a>,
+ <span class="name">Cunsoni</span> (<span class="case">dat</span>) <a href="../cite/Cunsoni/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">50</span></a>;
+ <span class="date">1353</span> <span class="name">Cuna</span> (<span class="case">abl</span>) <a href="../cite/Cuna/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">1, p. 21</span></a>,
+ <span class="name">Cunes</span> (<span class="case">nom</span>) <a href="../cite/Cunes/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">137</span></a>;
+ <span class="date">1356</span> <span class="name">Chunsonis</span> (<span class="case">gen</span>) <a href="../cite/Chunsonis/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">152</span></a>,
+ <span class="name">Cunso</span> (<span class="case">nom</span>) <a href="../cite/Cunso/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">152</span></a>,
+ <span class="name">Kunico</span> (<span class="case">nom</span>) <a href="../cite/Kunico/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1358</span> <span class="name">Chunczlinus</span> (<span class="case">nom</span>) <a href="../cite/Chunczlinus/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">418, p. 37</span></a>,
+ <span class="name">Chunschoni</span> (<span class="case">dat</span>) <a href="../cite/Chunschoni/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">450, p. 39</span></a>,
+ <span class="name">Cunscho</span> (<span class="case">nom</span>) <a href="../cite/Cunscho/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">225, p. 31</span></a>,
+ <span class="name">Cunschoni</span> (<span class="case">dat</span>) <a href="../cite/Cunschoni/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">250, p. 32</span></a>,
+ <span class="name">Kunyk</span> (<span class="case">nom</span>) <a href="../cite/Kunyk/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">427, p. 38</span></a>;
+ <span class="date">1375</span> <span class="name">Cuͦnssone</span> (<span class="case">abl</span>) <a href="../cite/Cuͦnssone/1375/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1376</span> <span class="name">Cunssone</span> (<span class="case">abl</span>) <a href="../cite/Cunssone/1376/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1385</span> <span class="name">Kunsone</span> (<span class="case">abl</span>) <a href="../cite/Kunsone/1385/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1399</span> <span class="name">Cunczo</span> (<span class="case">nom</span>) <a href="../cite/Cunczo/1399/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1404</span> <span class="name">Cunczo</span> (<span class="case">nom</span>) <a href="../cite/Cunczo/1404/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1407</span> <span class="name">Cunssonem</span> (<span class="case">acc</span>) <a href="../cite/Cunssonem/1407/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1318</span> <span class="name">Conrad</span> (<span class="case">nom</span>) <a href="../cite/Conrad/1318/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">45</span></a>;
+ <span class="date">c1339</span> <span class="name">Conrad</span> (<span class="case">nom</span>) <a href="../cite/Conrad/c1339/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/c1339/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1344</span> <span class="name">Conrad</span> (<span class="case">nom</span>) <a href="../cite/Conrad/1344/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1389</span> <span class="name">Conrad</span> (<span class="case">nom</span>) <a href="../cite/Conrad/1389/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">118</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1331</span> <span class="name">Chunzil</span> (<span class="case">nom</span>) <a href="../cite/Chunzil/1331/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1354</span> <span class="name">Cunzlinus</span> (<span class="case">nom</span>) <a href="../cite/Cunzlinus/1354/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">77</span></a>;
+ <span class="date">1373</span> <span class="name">Cunsso</span> (<span class="case">nom</span>) <a href="../cite/Cunsso/1373/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">102</span></a>;
+ <span class="date">1389</span> <span class="name">Cunzil</span> (<span class="case">nom</span>) <a href="../cite/Cunzil/1389/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">118</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1598</span> <span class="name">Coenraert</span> <a href="../cite/Coenraert/1598/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Digrots</span></a>;
+ <span class="date">1599</span> <span class="name">Coinrad</span> <a href="../cite/Coinrad/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Dijgrets</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Conrard</span> <a href="../cite/Conrard/1582/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1583/4</span> <span class="name">Conrood</span> <a href="../cite/Conrood/1583s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1364</span> <span class="name">Cord</span> <a href="../cite/Cord/1364/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 334</span></a>;
+ <span class="date">1376</span> <span class="name">Cord</span> <a href="../cite/Cord/1376/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 335</span></a>;
+ <span class="date">1379</span> <span class="name">Cord</span> <a href="../cite/Cord/1379/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1383</span> <span class="name">Conrad</span> <a href="../cite/Conrad/1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>,
+ <span class="name">Cord</span> <a href="../cite/Cord/1383/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1384</span> <span class="name">Cord</span> <a href="../cite/Cord/1384/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a>;
+ <span class="date">1387</span> <span class="name">Conradus</span> <a href="../cite/Conradus/1387/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 339</span></a>;
+ <span class="date">1390</span> <span class="name">Cord</span> <a href="../cite/Cord/1390/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 339</span></a>;
+ <span class="date">1393</span> <span class="name">Cord</span> <a href="../cite/Cord/1393/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 341</span></a>;
+ <span class="date">1396</span> <span class="name">Cord</span> <a href="../cite/Cord/1396/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 341</span></a>;
+ <span class="date">1398</span> <span class="name">Cord</span> <a href="../cite/Cord/1398/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1401</span> <span class="name">Cord</span> <a href="../cite/Cord/1401/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1404</span> <span class="name">Cord</span> <a href="../cite/Cord/1404/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1408</span> <span class="name">Cord</span> <a href="../cite/Cord/1408/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>;
+ <span class="date">1409</span> <span class="name">Cord</span> <a href="../cite/Cord/1409/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>;
+ <span class="date">1411</span> <span class="name">Cord</span> <a href="../cite/Cord/1411/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1412</span> <span class="name">Cord</span> <a href="../cite/Cord/1412/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1413</span> <span class="name">Cord</span> <a href="../cite/Cord/1413/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 346</span></a>;
+ <span class="date">1414</span> <span class="name">Cord</span> <a href="../cite/Cord/1414/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1415</span> <span class="name">Cord</span> <a href="../cite/Cord/1415/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1416</span> <span class="name">Cord</span> <a href="../cite/Cord/1416/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1420</span> <span class="name">Cord</span> <a href="../cite/Cord/1420/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1421</span> <span class="name">Cord</span> <a href="../cite/Cord/1421/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 349</span></a>;
+ <span class="date">1425</span> <span class="name">Cord</span> <a href="../cite/Cord/1425/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 350</span></a>;
+ <span class="date">1426</span> <span class="name">Coert</span> <a href="../cite/Coert/1426/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 351</span></a>;
+ <span class="date">1428</span> <span class="name">Kord</span> <a href="../cite/Kord/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a>,
+ <span class="name">Kort</span> <a href="../cite/Kort/1428/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a>;
+ <span class="date">1432</span> <span class="name">Kort</span> <a href="../cite/Kort/1432/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 355</span></a>;
+ <span class="date">1433</span> <span class="name">Cord</span> <a href="../cite/Cord/1433/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>;
+ <span class="date">1435</span> <span class="name">Kort</span> <a href="../cite/Kort/1435/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>;
+ <span class="date">1436</span> <span class="name">Kort</span> <a href="../cite/Kort/1436/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 358</span></a>;
+ <span class="date">1437</span> <span class="name">Kort</span> <a href="../cite/Kort/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 361</span></a>;
+ <span class="date">1438</span> <span class="name">Cort</span> <a href="../cite/Cort/1438/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 361</span></a>,
+ <span class="name">Kort</span> <a href="../cite/Kort/1438/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 361</span></a>;
+ <span class="date">1440</span> <span class="name">Kordes</span> (<span class="case">gen</span>) <a href="../cite/Kordes/1440/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 362</span></a>;
+ <span class="date">1442</span> <span class="name">Cort</span> <a href="../cite/Cort/1442/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 364</span></a>;
+ <span class="date">1443</span> <span class="name">Cord</span> <a href="../cite/Cord/1443/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 365</span></a>;
+ <span class="date">1524x1532</span> <span class="name">Chorti</span> (<span class="case">gen</span>) <a href="../cite/Chorti/1524x1532/Saareste1923a"><span class="bib_key">Saareste1923a</span> <span class="bib_loc">p. 102</span></a>;
+ <span class="date">1592</span> <span class="name">Curt</span> <a href="../cite/Curt/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 288</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Kondrat</span> (<span class="case">nom</span>) <a href="../cite/Kondrat/1582/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 171</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">937x993</span> <span class="name">Chuonrado</span> (<span class="case">abl</span>) <a href="../cite/Chuonrado/937x993/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">1</span></a>;
+ <span class="date">989</span> <span class="name">Chuonrado</span> (<span class="case">abl</span>) <a href="../cite/Chuonrado/989/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a>;
+ <span class="date">1167</span> <span class="name">Cuonrardus</span> (<span class="case">nom</span>) <a href="../cite/Cuonrardus/1167/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1229</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1229/CDT1"><span class="bib_key">CDT1</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1345</span> <span class="name">Chunradi</span> (<span class="case">gen</span>) <a href="../cite/Chunradi/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">623</span></a>,
+ <span class="name">Conradum</span> (<span class="case">acc</span>) <a href="../cite/Conradum/1345/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">627</span></a>;
+ <span class="date">1378</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">594</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">896</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Courrat</span> <a href="../cite/Courrat/1292/1292paris"><span class="bib_key">1292paris</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1299</span> <span class="name">Conrat</span> (<span class="case">obl</span>) <a href="../cite/Conrat/1299/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 147</span></a>;
+ <span class="date">1313</span> <span class="name">Courrat</span> <a href="../cite/Courrat/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 23</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Courradin</span> <a href="../cite/Courradin/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 82</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Conrart</span> <a href="../cite/Conrart/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 200</span></a>;
+ <span class="date">1421</span> <span class="name">Conrrart</span> <a href="../cite/Conrrart/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">404</span></a>;
+ <span class="date">1423</span> <span class="name">Conrrard</span> <a href="../cite/Conrrard/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">86</span></a>;
+ <span class="date">1438</span> <span class="name">Conrrat</span> <a href="../cite/Conrrat/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">220</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§220</span></a>;
+ <span class="date">1025</span> <span class="name">Chuonradi</span> (<span class="case">gen</span>) <a href="../cite/Chuonradi/1025/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">43</span></a>,
+ <span class="name">Chuonradus</span> (<span class="case">nom</span>) <a href="../cite/Chuonradus/1025/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">43</span></a>,
+ <span class="name">Coͮnradus</span> (<span class="case">nom</span>) <a href="../cite/Coͮnradus/1025/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>,
+ <span class="name">Kuonradi</span> (<span class="case">gen</span>) <a href="../cite/Kuonradi/1025/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">43</span></a>;
+ <span class="date">1028</span> <span class="name">Chuonradi</span> (<span class="case">gen</span>) <a href="../cite/Chuonradi/1028/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>,
+ <span class="name">Chuonradus</span> (<span class="case">nom</span>) <a href="../cite/Chuonradus/1028/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>,
+ <span class="name">Coͮnradi</span> (<span class="case">gen</span>) <a href="../cite/Coͮnradi/1028/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>;
+ <span class="date">1036</span> <span class="name">Choͮnradus</span> (<span class="case">nom</span>) <a href="../cite/Choͮnradus/1036/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">49</span></a>;
+ <span class="date">1076</span> <span class="name">Cvonradi</span> (<span class="case">gen</span>) <a href="../cite/Cvonradi/1076/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">47</span></a>;
+ <span class="date">1136</span> <span class="name">Cunrardus</span> (<span class="case">nom</span>) <a href="../cite/Cunrardus/1136/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1137</span> <span class="name">Cucnradi</span> (<span class="case">gen</span>) <a href="../cite/Cucnradi/1137/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">102</span></a>,
+ <span class="name">Cuonradus</span> (<span class="case">nom</span>) <a href="../cite/Cuonradus/1137/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">102</span></a>;
+ <span class="date">1138</span> <span class="name">Cunradi</span> (<span class="case">gen</span>) <a href="../cite/Cunradi/1138/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1138/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1140</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1140/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">122</span></a>;
+ <span class="date">1142</span> <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1142/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Chuonrado</span> (<span class="case">abl</span>) <a href="../cite/Chuonrado/1142/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1147</span> <span class="name">Cunradi</span> (<span class="case">gen</span>) <a href="../cite/Cunradi/1147/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">29</span></a>,
+ <span class="name">Cunrado</span> (<span class="case">abl</span>) <a href="../cite/Cunrado/1147/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1147/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1149</span> <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1149/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">1151</span> <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1151/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVI</span></a>,
+ <span class="name">Chunrat</span> (<span class="case">nom</span>) <a href="../cite/Chunrat/1151/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVII</span></a>;
+ <span class="date">1153</span> <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1153/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1173</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1173/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. II</span></a>;
+ <span class="date">1174</span> <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1174/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1180</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1180/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1185</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1185/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>,
+ <span class="name">Cunradi</span> (<span class="case">gen</span>) <a href="../cite/Cunradi/1185/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1185/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a>;
+ <span class="date">1189</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1189/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">82</span></a>;
+ <span class="date">1191</span> <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1191/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">38</span></a>;
+ <span class="date">1192</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1192/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">66</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1192/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a>;
+ <span class="date">1194</span> <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1194/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>;
+ <span class="date">1196</span> <span class="name">Cunrado</span> (<span class="case">abl</span>) <a href="../cite/Cunrado/1196/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1197</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1197/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">1</span></a>,
+ <a href="../cite/Conradus/1197/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">83</span></a>;
+ <span class="date">1200</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1200/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1206</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1206/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1211</span> <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1211/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1212</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1212/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">125</span></a>;
+ <span class="date">1213</span> <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1213/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1214</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1214/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1215</span> <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1215/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1216</span> <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1216/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. V</span></a>,
+ <a href="../cite/Conradus/1216/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">20</span></a>,
+ <span class="name">Cunradi</span> (<span class="case">gen</span>) <a href="../cite/Cunradi/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>;
+ <span class="date">1217</span> <span class="name">Chonradus</span> (<span class="case">nom</span>) <a href="../cite/Chonradus/1217/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1217/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1218</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1218/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">30</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1218/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1219</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">43</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1219/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. VII</span></a>,
+ <a href="../cite/Conradus/1219/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">36</span></a>,
+ <a href="../cite/Conradus/1219/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">73</span></a>,
+ <span class="name">Cunradum</span> (<span class="case">acc</span>) <a href="../cite/Cunradum/1219/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">41</span></a>;
+ <span class="date">1220</span> <span class="name">Chunrad</span> (<span class="case">nom</span>) <a href="../cite/Chunrad/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1220/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>;
+ <span class="date">1221</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">57</span></a>,
+ <span class="name">Cunradi</span> (<span class="case">gen</span>) <a href="../cite/Cunradi/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">61</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1221/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">58</span></a>;
+ <span class="date">1221x1225</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1221x1225/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. VIII</span></a>;
+ <span class="date">1222</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1222/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">62</span></a>,
+ <a href="../cite/Conradus/1222/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">74</span></a>,
+ <a href="../cite/Conradus/1222/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">132</span></a>;
+ <span class="date">1225</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1225/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">68</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1225/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. IX</span></a>,
+ <a href="../cite/Conradus/1225/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">69</span></a>,
+ <span class="name">Cunradi</span> (<span class="case">gen</span>) <a href="../cite/Cunradi/1225/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">67</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1225/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">67</span></a>;
+ <span class="date">1226</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1226/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. X</span></a>;
+ <span class="date">1226x1227</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1226x1227/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. XI</span></a>;
+ <span class="date">1228</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1228/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. XV</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1228/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">74</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1228/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XIII</span></a>;
+ <span class="date">1229</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1229/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">77</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1229/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XVI</span></a>;
+ <span class="date">1230</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1230/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">p. 88</span></a>;
+ <span class="date">1231</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1231/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">86</span></a>;
+ <span class="date">1233</span> <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1233/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">88</span></a>;
+ <span class="date">1234</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1234/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">91</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1234/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">90</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1234/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">89</span></a>;
+ <span class="date">1235</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1235/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XIX</span></a>;
+ <span class="date">1237</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1237/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">98</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1237/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">95</span></a>;
+ <span class="date">1238</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1238/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XXI</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1238/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. XX</span></a>;
+ <span class="date">1239</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1239/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. XXIV</span></a>;
+ <span class="date">1240</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1240/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">102</span></a>,
+ <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1240/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">101</span></a>;
+ <span class="date">1241</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1241/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XXIX</span></a>;
+ <span class="date">1242</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1242/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XVIII</span></a>,
+ <a href="../cite/Conradus/1242/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">109</span></a>;
+ <span class="date">1245</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1245/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1248</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1248/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XXXVI</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1248/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. XXXIV</span></a>,
+ <a href="../cite/Conradus/1248/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">128</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1248/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>;
+ <span class="date">1249</span> <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">134</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">132</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1249/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XXXVIII</span></a>,
+ <a href="../cite/Conradus/1249/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">112</span></a>;
+ <span class="date">1250</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1250/UrkBrzeg"><span class="bib_key">UrkBrzeg</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1250/UrkBrzeg"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>,
+ <a href="../cite/Conradus/1250/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">138</span></a>;
+ <span class="date">1251</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1251/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XLII</span></a>,
+ <a href="../cite/Conradus/1251/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">140</span></a>;
+ <span class="date">1252</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1252/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XLIV</span></a>;
+ <span class="date">1253</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1253/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">147</span></a>;
+ <span class="date">1255</span> <span class="name">Conradum</span> (<span class="case">acc</span>) <a href="../cite/Conradum/1255/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">157</span></a>;
+ <span class="date">1256</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1256/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XLVIII</span></a>,
+ <a href="../cite/Conradus/1256/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">158</span></a>;
+ <span class="date">1257</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1257/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXVIII</span></a>,
+ <a href="../cite/Conradus/1257/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">171</span></a>;
+ <span class="date">1258</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1258/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1258/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">174</span></a>;
+ <span class="date">1259</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1259/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1260</span> <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1260/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">187</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1260/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">190</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1260/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">189</span></a>;
+ <span class="date">1261</span> <span class="name">Chvnradus</span> (<span class="case">nom</span>) <a href="../cite/Chvnradus/1261/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">207</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1261/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">192</span></a>;
+ <span class="date">1264</span> <span class="name">Cunrado</span> (<span class="case">abl</span>) <a href="../cite/Cunrado/1264/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">200</span></a>;
+ <span class="date">1265</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1265/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">206</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1265/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. LIX</span></a>;
+ <span class="date">1266</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1266/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. LXI</span></a>;
+ <span class="date">1270</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1270/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. LXV</span></a>;
+ <span class="date">1271</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1271/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">220</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1271/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">215</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1271/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. LXVII</span></a>;
+ <span class="date">1272</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1272/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">222</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1272/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">222</span></a>;
+ <span class="date">1273</span> <span class="name">Cunradum</span> (<span class="case">acc</span>) <a href="../cite/Cunradum/1273/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">229</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1273/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">229</span></a>;
+ <span class="date">1274</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1274/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">234</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1274/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">234</span></a>;
+ <span class="date">1275</span> <span class="name">Conradum</span> (<span class="case">acc</span>) <a href="../cite/Conradum/1275/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">241</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1275/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">240</span></a>;
+ <span class="date">1276</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1276/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">247</span></a>;
+ <span class="date">1277</span> <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1277/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">256</span></a>;
+ <span class="date">1280</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1280/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">270</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1280/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">268</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1280/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">268</span></a>;
+ <span class="date">1281</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1281/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">277</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1281/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">278</span></a>;
+ <span class="date">1282</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1282/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">281</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1282/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">283</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1282/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. LXXV</span></a>;
+ <span class="date">1283</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1283/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">289</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1283/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. LXXVIII</span></a>;
+ <span class="date">1284</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1284/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">294</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1284/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">296</span></a>;
+ <span class="date">1285</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1285/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">299</span></a>;
+ <span class="date">1286</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1286/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">305</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1286/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">305</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1286/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">302</span></a>;
+ <span class="date">1287</span> <span class="name">Conradum</span> (<span class="case">acc</span>) <a href="../cite/Conradum/1287/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">308</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1287/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">306</span></a>;
+ <span class="date">1288</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1288/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">312</span></a>;
+ <span class="date">1290</span> <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1290/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">319</span></a>;
+ <span class="date">1295</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1295/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">331</span></a>,
+ <span class="name">Cunrado</span> (<span class="case">dat</span>) <a href="../cite/Cunrado/1295/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">331</span></a>,
+ <span class="name">Cunradum</span> (<span class="case">acc</span>) <a href="../cite/Cunradum/1295/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">331</span></a>;
+ <span class="date">1297</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1297/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XCVIII</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1297/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. XCV</span></a>;
+ <span class="date">1298</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1298/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">339</span></a>;
+ <span class="date">1300</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1300/UrkHan"><span class="bib_key">UrkHan</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1301</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1301/BremUrk2"><span class="bib_key">BremUrk2</span> <span class="bib_loc">no. 3</span></a>;
+ <span class="date">1303</span> <span class="name">Conrad</span> (<span class="case">nom</span>) <a href="../cite/Conrad/1303/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 33</span></a>,
+ <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1303/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 33</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1303/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 25</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1303/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 33</span></a>,
+ <span class="name">Cunrado</span> (<span class="case">abl</span>) <a href="../cite/Cunrado/1303/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 29</span></a>;
+ <span class="date">1304</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1304/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 37</span></a>;
+ <span class="date">1305</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1305/CDL-1.2.1"><span class="bib_key">CDL-1.2.1</span> <span class="bib_loc">CXCIII</span></a>,
+ <span class="name">Cunradum</span> (<span class="case">acc</span>) <a href="../cite/Cunradum/1305/CDL-1.2.1"><span class="bib_key">ibid.</span> <span class="bib_loc">CXCIII</span></a>;
+ <span class="date">1310</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1310/UrkHan"><span class="bib_key">UrkHan</span> <span class="bib_loc">4</span></a>,
+ <a href="../cite/Conradus/1310/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1317</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1317/VFBStralsund"><span class="bib_key">ibid.</span> <span class="bib_loc">56</span></a>;
+ <span class="date">1322</span> <span class="name">Cuͦnradi</span> (<span class="case">gen</span>) <a href="../cite/Cuͦnradi/1322/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 158</span></a>,
+ <span class="name">Cuͦnradus</span> (<span class="case">nom</span>) <a href="../cite/Cuͦnradus/1322/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 156</span></a>;
+ <span class="date">1323</span> <span class="name">Conradum</span> (<span class="case">acc</span>) <a href="../cite/Conradum/1323/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">86</span></a>;
+ <span class="date">1341</span> <span class="name">Cuͦnradi</span> (<span class="case">gen</span>) <a href="../cite/Cuͦnradi/1341/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 166</span></a>,
+ <span class="name">Cuͦnradus</span> (<span class="case">nom</span>) <a href="../cite/Cuͦnradus/1341/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 166</span></a>;
+ <span class="date">1342</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1342/UrkHan"><span class="bib_key">UrkHan</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1394</span> <span class="name">Chuͦnradi</span> (<span class="case">gen</span>) <a href="../cite/Chuͦnradi/1394/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 171</span></a>;
+ <span class="date">1400</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1400/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXVI</span></a>;
+ <span class="date">1401</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 1</span></a>,
+ <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1401/HD1401"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 28</span></a>;
+ <span class="date">1408</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1408/UrkJen2"><span class="bib_key">UrkJen2</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1415</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1415/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCC</span></a>;
+ <span class="date">1426</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1426/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXXIII</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1322</span> <span class="name">Cuͦnzelinus</span> (<span class="case">nom</span>) <a href="../cite/Cuͦnzelinus/1322/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 159</span></a>;
+ <span class="date">1394</span> <span class="name">Chuͦnczo</span> (<span class="case">nom</span>) <a href="../cite/Chuͦnczo/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 205</span></a>,
+ <span class="name">Chuͦnczonis</span> (<span class="case">gen</span>) <a href="../cite/Chuͦnczonis/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 170</span></a>,
+ <span class="name">Chuͦnradetti</span> (<span class="case">gen</span>) <a href="../cite/Chuͦnradetti/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 200</span></a>,
+ <span class="name">Chuͦnratschöla</span> (<span class="case">gen</span>) <a href="../cite/Chuͦnratschöla/1394/SMM"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 194</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Cunrad</span> <a href="../cite/Cunrad/1548/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">316</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1282</span> <span class="name">Conrat</span> (<span class="case">nom</span>) <a href="../cite/Conrat/1282/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">284</span></a>;
+ <span class="date">1293</span> <span class="name">Chunrat</span> (<span class="case">nom</span>) <a href="../cite/Chunrat/1293/UrkWitt-II"><span class="bib_key">UrkWitt-II</span> <span class="bib_loc">189</span></a>,
+ <span class="name">Chvnraden</span> (<span class="case">acc</span>) <a href="../cite/Chvnraden/1293/UrkWitt-II"><span class="bib_key">ibid.</span> <span class="bib_loc">187</span></a>,
+ <span class="name">Cuͤnrades</span> (<span class="case">gen</span>) <a href="../cite/Cuͤnrades/1293/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">53</span></a>,
+ <span class="name">Cuͤnrat</span> (<span class="case">nom</span>) <a href="../cite/Cuͤnrat/1293/UrkHeil1"><span class="bib_key">ibid.</span> <span class="bib_loc">53</span></a>,
+ <span class="name">Cuͦnrat</span> (<span class="case">nom</span>) <a href="../cite/Cuͦnrat/1293/UrkHeil1"><span class="bib_key">ibid.</span> <span class="bib_loc">51</span></a>;
+ <span class="date">1339</span> <span class="name">Chuͤnraden</span> (<span class="case">gen</span>) <a href="../cite/Chuͤnraden/1339/UrkHeil1"><span class="bib_key">ibid.</span> <span class="bib_loc">151</span></a>,
+ <span class="name">Chuͤnratz</span> (<span class="case">gen</span>) <a href="../cite/Chuͤnratz/1339/UrkHeil1"><span class="bib_key">ibid.</span> <span class="bib_loc">151</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1360</span> <span class="name">Conrade</span> (<span class="case">dat</span>) <a href="../cite/Conrade/1360/UrkHess-3"><span class="bib_key">UrkHess-3</span> <span class="bib_loc">994</span></a>;
+ <span class="date">1400</span> <span class="name">Conradt</span> (<span class="case">nom</span>) <a href="../cite/Conradt/1400/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXVII</span></a>;
+ <span class="date">1409</span> <span class="name">Conrade</span> (<span class="case">acc</span>) <a href="../cite/Conrade/1409/UrkJen2"><span class="bib_key">UrkJen2</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1410</span> <span class="name">Chunrat</span> (<span class="case">nom</span>) <a href="../cite/Chunrat/1410/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCXCI</span></a>;
+ <span class="date">1419</span> <span class="name">Chunrat</span> (<span class="case">nom</span>) <a href="../cite/Chunrat/1419/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXI</span></a>;
+ <span class="date">1421</span> <span class="name">Chunrat</span> (<span class="case">nom</span>) <a href="../cite/Chunrat/1421/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXVI</span></a>,
+ <span class="name">Chunrats</span> (<span class="case">gen</span>) <a href="../cite/Chunrats/1421/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXVI</span></a>;
+ <span class="date">1497</span> <span class="name">Conra</span> <a href="../cite/Conra/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">1491</span></a>,
+ <span class="name">Conrade</span> <a href="../cite/Conrade/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">1472</span></a>,
+ <span class="name">Conrat</span> <a href="../cite/Conrat/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">46</span></a>;
+ <span class="date">1554</span> <span class="name">Cunrat</span> (<span class="case">nom</span>) <a href="../cite/Cunrat/1554/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">333</span></a>;
+ <span class="date">1555</span> <span class="name">Cünrat</span> (<span class="case">nom</span>) <a href="../cite/Cünrat/1555/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">335</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1360</span> <span class="name">Kuͦnne</span> (<span class="case">nom</span>) <a href="../cite/Kuͦnne/1360/UrkHess-3"><span class="bib_key">UrkHess-3</span> <span class="bib_loc">994</span></a>;
+ <span class="date">1401</span> <span class="name">Cuͦntz</span> (<span class="case">nom</span>) <a href="../cite/Cuͦntz/1401/UrkKH-2"><span class="bib_key">UrkKH-2</span> <span class="bib_loc">909</span></a>,
+ <span class="name">Cuͦntzen</span> (<span class="case">dat</span>) <a href="../cite/Cuͦntzen/1401/UrkKH-2"><span class="bib_key">ibid.</span> <span class="bib_loc">909</span></a>;
+ <span class="date">1402</span> <span class="name">Cuntz</span> (<span class="case">nom</span>) <a href="../cite/Cuntz/1402/UrkKH-2"><span class="bib_key">ibid.</span> <span class="bib_loc">911</span></a>;
+ <span class="date">1405</span> <span class="name">Chunz</span> (<span class="case">nom</span>) <a href="../cite/Chunz/1405/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">DCLXXIX</span></a>;
+ <span class="date">1407</span> <span class="name">Chunzen</span> (<span class="case">dat</span>) <a href="../cite/Chunzen/1407/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCLXXXI</span></a>;
+ <span class="date">1421</span> <span class="name">Chunz</span> (<span class="case">nom</span>) <a href="../cite/Chunz/1421/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">DCCXVII</span></a>;
+ <span class="date">1497</span> <span class="name">Contz</span> <a href="../cite/Contz/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Cuncz</span> <a href="../cite/Cuncz/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">2631</span></a>,
+ <span class="name">Cuntz</span> <a href="../cite/Cuntz/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>,
+ <span class="name">Kuncz</span> <a href="../cite/Kuncz/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">2647</span></a>,
+ <span class="name">Kuͤn</span> <a href="../cite/Kuͤn/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">2674</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1304</span> <span class="name">Conrat</span> (<span class="case">nom</span>) <a href="../cite/Conrat/1304/BremUrk2"><span class="bib_key">BremUrk2</span> <span class="bib_loc">no. 38</span></a>;
+ <span class="date">1453</span> <span class="name">Cord</span> <a href="../cite/Cord/1453/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">677</span></a>;
+ <span class="date">1472</span> <span class="name">Cord</span> <a href="../cite/Cord/1472/VFBStralsund"><span class="bib_key">ibid.</span> <span class="bib_loc">684</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1302</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1302/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 83, s.n. Corrardus</span></a>,
+ <span class="name">Conrardi</span> (<span class="case">gen</span>) <a href="../cite/Conrardi/1302/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83, s.n. Corrardus</span></a>,
+ <span class="name">Conrardus</span> (<span class="case">nom</span>) <a href="../cite/Conrardus/1302/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83, s.n. Corrardus</span></a>;
+ <span class="date">1311</span> <span class="name">Korrady</span> (<span class="case">gen</span>) <a href="../cite/Korrady/1311/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84, s.n. Corrardus</span></a>;
+ <span class="date">1313</span> <span class="name">Conraldo</span> (<span class="case">abl</span>) <a href="../cite/Conraldo/1313/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83, s.n. Corrardus</span></a>,
+ <span class="name">Corrardo</span> (<span class="case">abl</span>) <a href="../cite/Corrardo/1313/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82, s.n. Corrardus</span></a>;
+ <span class="date">1314</span> <span class="name">Corrardi</span> (<span class="case">gen</span>) <a href="../cite/Corrardi/1314/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82, s.n. Corrardus</span></a>;
+ <span class="date">1317</span> <span class="name">Corrardus</span> (<span class="case">nom</span>) <a href="../cite/Corrardus/1317/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82, s.n. Corrardus</span></a>;
+ <span class="date">1319</span> <span class="name">Coraldum</span> (<span class="case">acc</span>) <a href="../cite/Coraldum/1319/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83, s.n. Corrardus</span></a>,
+ <span class="name">korardi</span> (<span class="case">gen</span>) <a href="../cite/korardi/1319/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83, s.n. Corrardus</span></a>;
+ <span class="date">1321</span> <span class="name">Korrardi</span> (<span class="case">gen</span>) <a href="../cite/Korrardi/1321/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84, s.n. Corrardus</span></a>;
+ <span class="date">1322</span> <span class="name">Corrardi</span> (<span class="case">gen</span>) <a href="../cite/Corrardi/1322/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82, s.n. Corrardus</span></a>;
+ <span class="date">1324</span> <span class="name">Corrardi</span> (<span class="case">gen</span>) <a href="../cite/Corrardi/1324/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84, s.n. Corrardus</span></a>,
+ <span class="name">Corrardus</span> (<span class="case">nom</span>) <a href="../cite/Corrardus/1324/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82, s.n. Corrardus</span></a>;
+ <span class="date">1327</span> <span class="name">Corrardus</span> (<span class="case">nom</span>) <a href="../cite/Corrardus/1327/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82, s.n. Corrardus</span></a>;
+ <span class="date">1329</span> <span class="name">Corrardi</span> (<span class="case">gen</span>) <a href="../cite/Corrardi/1329/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82, s.n. Corrardus</span></a>;
+ <span class="date">1330</span> <span class="name">Corrardo</span> (<span class="case">abl</span>) <a href="../cite/Corrardo/1330/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82, s.n. Corrardus</span></a>;
+ <span class="date">1332x1337</span> <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83, s.n. Corrardus</span></a>,
+ <span class="name">Chunraudus</span> (<span class="case">nom</span>) <a href="../cite/Chunraudus/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83, s.n. Corrardus</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83, s.n. Corrardus</span></a>,
+ <span class="name">Corlardus</span> (<span class="case">nom</span>) <a href="../cite/Corlardus/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83, s.n. Corrardus</span></a>,
+ <span class="name">Corradus</span> (<span class="case">nom</span>) <a href="../cite/Corradus/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84, s.n. Corrardus</span></a>,
+ <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84, s.n. Corrardus</span></a>,
+ <span class="name">Gunradus</span> (<span class="case">nom</span>) <a href="../cite/Gunradus/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84, s.n. Corrardus</span></a>;
+ <span class="date">1334</span> <span class="name">Corrardi</span> (<span class="case">gen</span>) <a href="../cite/Corrardi/1334/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82, s.n. Corrardus</span></a>;
+ <span class="date">1337</span> <span class="name">Corrardi</span> (<span class="case">gen</span>) <a href="../cite/Corrardi/1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82, s.n. Corrardus</span></a>;
+ <span class="date">1338</span> <span class="name">Corrardo</span> (<span class="case">abl</span>) <a href="../cite/Corrardo/1338/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82x83, s.n. Corrardus</span></a>,
+ <span class="name">Corrardus</span> (<span class="case">nom</span>) <a href="../cite/Corrardus/1338/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83, s.n. Corrardus</span></a>;
+ <span class="date">1342</span> <span class="name">Corrardi</span> (<span class="case">gen</span>) <a href="../cite/Corrardi/1342/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83, s.n. Corrardus</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Iceland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Icelandic</span></dt>
+<dd><span class="dim">●</span> <span class="date">1500</span> <span class="name">konradz</span> (<span class="case">gen</span>) <a href="../cite/konradz/1500/DipIs-7"><span class="bib_key">DipIs-7</span> <span class="bib_loc">489</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1096</span> <span class="name">Coͮnrat</span> (<span class="case">nom</span>) <a href="../cite/Coͮnrat/1096/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">88</span></a>;
+ <span class="date">1142</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1142/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 333</span></a>;
+ <span class="date">1164</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1164/SDE3"><span class="bib_key">SDE3</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1224</span> <span class="name">Cunradus</span> (<span class="case">nom</span>) <a href="../cite/Cunradus/1224/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">65</span></a>,
+ <span class="name">Cuonradus</span> (<span class="case">nom</span>) <a href="../cite/Cuonradus/1224/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">65</span></a>;
+ <span class="date">1226</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1226/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">70</span></a>;
+ <span class="date">1236</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1236/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1237</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1237/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">578</span></a>;
+ <span class="date">1245</span> <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1245/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1257</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1257/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">167</span></a>;
+ <span class="date">1261</span> <span class="name">Chunradi</span> (<span class="case">gen</span>) <a href="../cite/Chunradi/1261/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">209</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">201</span></a>;
+ <span class="date">1285</span> <span class="name">Corradi</span> (<span class="case">gen</span>) <a href="../cite/Corradi/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 158</span></a>;
+ <span class="date">1326</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 446</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 444</span></a>;
+ <span class="date">1348</span> <span class="name">Corradi</span> (<span class="case">gen</span>) <a href="../cite/Corradi/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1367</span> <span class="name">Chunradus</span> <a href="../cite/Chunradus/1367/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 129</span></a>;
+ <span class="date">1369</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1369/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">253</span></a>;
+ <span class="date">1376</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 228</span></a>,
+ <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1387</span> <span class="name">Corradi</span> (<span class="case">gen</span>) <a href="../cite/Corradi/1387/Venditti"><span class="bib_key">Venditti</span> <span class="bib_loc">II-17</span></a>;
+ <span class="date">1464</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1285</span> <span class="name">Corradutii</span> (<span class="case">gen</span>) <a href="../cite/Corradutii/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 156</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1286</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">324</span></a>;
+ <span class="date">1287</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1287/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">125</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1287/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">214</span></a>;
+ <span class="date">1288</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">333</span></a>;
+ <span class="date">1289</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">217</span></a>;
+ <span class="date">1290</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">224</span></a>;
+ <span class="date">1291</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1291/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1291/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">230</span></a>;
+ <span class="date">1292</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">31</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">233</span></a>;
+ <span class="date">1293</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1293/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">397</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1293/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">241</span></a>;
+ <span class="date">1294</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">158</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">164</span></a>;
+ <span class="date">1295</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1295/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">762</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1295/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">252</span></a>;
+ <span class="date">1296</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1296/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">63</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1296/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">253</span></a>;
+ <span class="date">1297</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1297/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">73</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1297/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">254</span></a>;
+ <span class="date">1298</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1298/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">264</span></a>,
+ <span class="name">Conrat</span> (<span class="case">nom</span>) <a href="../cite/Conrat/1298/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">263</span></a>;
+ <span class="date">1299</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1299/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">87</span></a>;
+ <span class="date">1300</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1300/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">409</span></a>;
+ <span class="date">1303</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1303/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">451</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1303/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">889</span></a>;
+ <span class="date">1305</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1305/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">282</span></a>;
+ <span class="date">1307</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1307/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">942</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1307/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">283</span></a>;
+ <span class="date">1309</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1309/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">290</span></a>;
+ <span class="date">1314</span> <span class="name">Conrado</span> (<span class="case">dat</span>) <a href="../cite/Conrado/1314/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">972</span></a>;
+ <span class="date">1317</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1317/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">293</span></a>;
+ <span class="date">1319</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1319/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">294</span></a>;
+ <span class="date">1321</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1321/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">295</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1294</span> <span class="name">Cunne</span> (<span class="case">nom</span>) <a href="../cite/Cunne/1294/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">251</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1452</span> <span class="name">Coert</span> <a href="../cite/Coert/1452/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 97</span></a>,
+ <span class="name">Korten</span> (<span class="case">gen</span>) <a href="../cite/Korten/1452/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1270</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1270/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 295</span></a>;
+ <span class="date">1311</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1311/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 298</span></a>;
+ <span class="date">1324</span> <span class="name">conradus</span> (<span class="case">nom</span>) <a href="../cite/conradus/1324/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 298</span></a>;
+ <span class="date">1330</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1330/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 299</span></a>;
+ <span class="date">1364</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1364/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302</span></a>;
+ <span class="date">1369</span> <span class="name">conradus</span> (<span class="case">nom</span>) <a href="../cite/conradus/1369/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 303</span></a>;
+ <span class="date">1387</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1387/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 305</span></a>,
+ <span class="name">conradus</span> (<span class="case">nom</span>) <a href="../cite/conradus/1387/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 304</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Coenraet</span> (<span class="case">nom</span>) <a href="../cite/Coenraet/1376/GesOIJ-4"><span class="bib_key">GesOIJ-4</span> <span class="bib_loc">p. 186</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1228</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1228/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">73</span></a>;
+ <span class="date">1232</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1232/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XVII</span></a>;
+ <span class="date">1234</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1234/CDT1"><span class="bib_key">CDT1</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1242</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1242/CDT1"><span class="bib_key">ibid.</span> <span class="bib_loc">XV</span></a>;
+ <span class="date">1288</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1288/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. LXXXIV</span></a>;
+ <span class="date">1289</span> <span class="name">Conrado</span> (<span class="case">abl</span>) <a href="../cite/Conrado/1289/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. LXXXVII</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1289/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. LXXXVI</span></a>;
+ <span class="date">1345</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">616</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1345/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">616</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1333</span> <span class="name">Cunczlini</span> (<span class="case">gen</span>) <a href="../cite/Cunczlini/1333/SBGlatzer"><span class="bib_key">SBGlatzer</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1337</span> <span class="name">Cunczil</span> (<span class="case">nom</span>) <a href="../cite/Cunczil/1337/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1324x1332</span> <span class="name">Cvnat</span> <a href="../cite/Cvnat/1324x1332/SBGlatzer"><span class="bib_key">SBGlatzer</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1332</span> <span class="name">Conrad</span> <a href="../cite/Conrad/1332/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1336x1337</span> <span class="name">Cvnrad</span> <a href="../cite/Cvnrad/1336x1337/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Cvnrat</span> <a href="../cite/Cvnrat/1336x1337/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1325</span> <span class="name">Cunczil</span> <a href="../cite/Cunczil/1325/SBGlatzer"><span class="bib_key">SBGlatzer</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1330x1332</span> <span class="name">Cunczil</span> <a href="../cite/Cunczil/1330x1332/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1332</span> <span class="name">Cunczils</span> (<span class="case">gen</span>) <a href="../cite/Cunczils/1332/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Kunczel</span> <a href="../cite/Kunczel/1332/SBGlatzer"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Slovenia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1261</span> <span class="name">Chunradus</span> (<span class="case">nom</span>) <a href="../cite/Chunradus/1261/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">208</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Conradi</span> (<span class="case">gen</span>) <a href="../cite/Conradi/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6051</span></a>,
+ <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6057</span></a>;
+ <span class="date">1372</span> <span class="name">Conradus</span> (<span class="case">nom</span>) <a href="../cite/Conradus/1372/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 10254</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1505</span> <span class="name">Korts</span> (<span class="case">gen</span>) <a href="../cite/Korts/1505/HGS"><span class="bib_key">HGS</span> <span class="bib_loc">p. 151</span></a>;
+ <span class="date">1506</span> <span class="name">Korts</span> (<span class="case">gen</span>) <a href="../cite/Korts/1506/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 152</span></a>;
+ <span class="date">1507</span> <span class="name">Korts</span> (<span class="case">gen</span>) <a href="../cite/Korts/1507/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 152</span></a>;
+ <span class="date">1508</span> <span class="name">Korts</span> (<span class="case">gen</span>) <a href="../cite/Korts/1508/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 152</span></a>;
+ <span class="date">1510</span> <span class="name">Cort</span> (<span class="case">nom</span>) <a href="../cite/Cort/1510/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 152</span></a>;
+ <span class="date">1511</span> <span class="name">Corth</span> (<span class="case">nom</span>) <a href="../cite/Corth/1511/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 152</span></a>;
+ <span class="date">1512</span> <span class="name">Korth</span> (<span class="case">nom</span>) <a href="../cite/Korth/1512/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 153</span></a>;
+ <span class="date">1513</span> <span class="name">Kort</span> (<span class="case">nom</span>) <a href="../cite/Kort/1513/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 153</span></a>;
+ <span class="date">1514</span> <span class="name">Kort</span> (<span class="case">nom</span>) <a href="../cite/Kort/1514/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 153</span></a>;
+ <span class="date">1515</span> <span class="name">Kort</span> (<span class="case">nom</span>) <a href="../cite/Kort/1515/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 153</span></a>;
+ <span class="date">1516</span> <span class="name">Kort</span> (<span class="case">nom</span>) <a href="../cite/Kort/1516/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 153</span></a>;
+ <span class="date">1517</span> <span class="name">Kort</span> (<span class="case">nom</span>) <a href="../cite/Kort/1517/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 154</span></a>;
+ <span class="date">1518</span> <span class="name">Kort</span> (<span class="case">nom</span>) <a href="../cite/Kort/1518/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 154</span></a>;
+ <span class="date">1519</span> <span class="name">Kort</span> (<span class="case">nom</span>) <a href="../cite/Kort/1519/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 154</span></a>;
+ <span class="date">1520</span> <span class="name">Kort</span> (<span class="case">nom</span>) <a href="../cite/Kort/1520/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 154</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1535</span> <span class="name">Kort</span> (<span class="case">nom</span>) <a href="../cite/Kort/1535/HGS"><span class="bib_key">HGS</span> <span class="bib_loc">p. 156</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1161</span> <span class="name">Conradum</span> (<span class="case">acc</span>) <a href="../cite/Conradum/1161/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1326</span> <span class="name">Chonradum</span> (<span class="case">acc</span>) <a href="../cite/Chonradum/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 429</span></a>,
+ <span class="name">Conradum</span> (<span class="case">acc</span>) <a href="../cite/Conradum/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 429</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1469</span> <span class="name">Cunrado</span> (<span class="case">dat</span>) <a href="../cite/Cunrado/1469/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Cunradum</span> (<span class="case">acc</span>) <a href="../cite/Cunradum/1469/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, M. Slíz, J. Uckelman, S.L. Uckelman. "Conrad". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Conrad.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

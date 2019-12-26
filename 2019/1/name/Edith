@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Edith</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Edith</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>ēad</i> 'riches, wealth' + <span class="lang">Old English</span> <i>gȳð</i> 'war'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 10th C wife of a Holy Roman Emperor, an 11th C English queen, and a very popular 10th C English saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>One of the few Old English feminine names to remain not only in use, but in common use, after the Anglo-Norman conquest.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Ædithe</span> (<span class="case">gen</span>) <a href="../cite/Ædithe/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 192</span></a>;
+ <span class="date">1189</span> <span class="name">Edeta</span> (<span class="case">nom</span>) <a href="../cite/Edeta/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 202</span></a>,
+ <span class="name">Edit</span> (<span class="case">nom</span>) <a href="../cite/Edit/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 137</span></a>,
+ <span class="name">Editha</span> (<span class="case">nom</span>) <a href="../cite/Editha/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 119</span></a>,
+ <span class="name">Edithe</span> (<span class="case">gen</span>) <a href="../cite/Edithe/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 169</span></a>;
+ <span class="date">1222</span> <span class="name">Editha</span> (<span class="case">nom</span>) <a href="../cite/Editha/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1240</span> <span class="name">Editha</span> (<span class="case">nom</span>) <a href="../cite/Editha/1240/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 119</span></a>;
+ <span class="date">1256</span> <span class="name">Editham</span> (<span class="case">acc</span>) <a href="../cite/Editham/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Edithæ</span> (<span class="case">dat</span>) <a href="../cite/Edithæ/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1279–80</span> <span class="name">Editha</span> (<span class="case">nom</span>) <a href="../cite/Editha/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Edytha</span> (<span class="case">nom</span>) <a href="../cite/Edytha/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Editha</span> (<span class="case">nom</span>) <a href="../cite/Editha/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1558</span> <span class="name">Editha</span> (<span class="case">nom</span>) <a href="../cite/Editha/1558/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1561</span> <span class="name">Editha</span> (<span class="case">nom</span>) <a href="../cite/Editha/1561/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1279–80</span> <span class="name">Ede</span> (<span class="case">gen</span>) <a href="../cite/Ede/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 81</span></a>;
+ <span class="date">1379</span> <span class="name">Eden</span> (<span class="case">nom</span>) <a href="../cite/Eden/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 8</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1540</span> <span class="name">Edethe</span> <a href="../cite/Edethe/1540/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1548</span> <span class="name">Edethe</span> <a href="../cite/Edethe/1548/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1548/9</span> <span class="name">Edith</span> <a href="../cite/Edith/1548s9/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">1b</span></a>;
+ <span class="date">1549</span> <span class="name">Edithe</span> <a href="../cite/Edithe/1549/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1550</span> <span class="name">Edyth</span> <a href="../cite/Edyth/1550/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1551</span> <span class="name">Edith</span> <a href="../cite/Edith/1551/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 79</span></a>;
+ <span class="date">1552</span> <span class="name">Edith</span> <a href="../cite/Edith/1552/DEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 80</span></a>,
+ <span class="name">Edithe</span> <a href="../cite/Edithe/1552/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1554</span> <span class="name">Edith</span> <a href="../cite/Edith/1554/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1555</span> <span class="name">Edith</span> <a href="../cite/Edith/1555/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1556</span> <span class="name">Edith</span> <a href="../cite/Edith/1556/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1558</span> <span class="name">Edith</span> <a href="../cite/Edith/1558/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Edithe</span> <a href="../cite/Edithe/1558/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1559</span> <span class="name">Edith</span> <a href="../cite/Edith/1559/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1561</span> <span class="name">Edith</span> <a href="../cite/Edith/1561/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1562</span> <span class="name">Edith</span> <a href="../cite/Edith/1562/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1563</span> <span class="name">Edith</span> <a href="../cite/Edith/1563/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Edithe</span> <a href="../cite/Edithe/1563/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1564</span> <span class="name">Edith</span> <a href="../cite/Edith/1564/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1566</span> <span class="name">Edith</span> <a href="../cite/Edith/1566/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1567</span> <span class="name">Edith</span> <a href="../cite/Edith/1567/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 112</span></a>;
+ <span class="date">1568</span> <span class="name">Edith</span> <a href="../cite/Edith/1568/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1569</span> <span class="name">Edith</span> <a href="../cite/Edith/1569/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1569/70</span> <span class="name">Edith</span> <a href="../cite/Edith/1569s70/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 113</span></a>;
+ <span class="date">1569</span> <span class="name">Edith</span> <a href="../cite/Edith/1569/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1570</span> <span class="name">Edith</span> <a href="../cite/Edith/1570/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 113</span></a>;
+ <span class="date">1571</span> <span class="name">Edith</span> <a href="../cite/Edith/1571/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1572</span> <span class="name">Edith</span> <a href="../cite/Edith/1572/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1573</span> <span class="name">Edith</span> <a href="../cite/Edith/1573/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1574/5</span> <span class="name">Edith</span> <a href="../cite/Edith/1574s5/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 114</span></a>;
+ <span class="date">1574</span> <span class="name">Edith</span> <a href="../cite/Edith/1574/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1575</span> <span class="name">Edith</span> <a href="../cite/Edith/1575/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1576</span> <span class="name">Edith</span> <a href="../cite/Edith/1576/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Edith/1576/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 43</span></a>,
+ <span class="name">Eedith</span> <a href="../cite/Eedith/1576/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 115</span></a>;
+ <span class="date">1577</span> <span class="name">Edith</span> <a href="../cite/Edith/1577/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1578</span> <span class="name">Edith</span> <a href="../cite/Edith/1578/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1579</span> <span class="name">Edith</span> <a href="../cite/Edith/1579/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1580</span> <span class="name">Edith</span> <a href="../cite/Edith/1580/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1580/1</span> <span class="name">Edyth</span> <a href="../cite/Edyth/1580s1/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1581</span> <span class="name">Edyth</span> <a href="../cite/Edyth/1581/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1582</span> <span class="name">Edeth</span> <a href="../cite/Edeth/1582/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1584</span> <span class="name">Edith</span> <a href="../cite/Edith/1584/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1585</span> <span class="name">Edith</span> <a href="../cite/Edith/1585/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 79</span></a>;
+ <span class="date">1586/7</span> <span class="name">Edith</span> <a href="../cite/Edith/1586s7/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1587</span> <span class="name">Edith</span> <a href="../cite/Edith/1587/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1588</span> <span class="name">Edith</span> <a href="../cite/Edith/1588/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 118</span></a>;
+ <span class="date">1589</span> <span class="name">Edith</span> <a href="../cite/Edith/1589/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1590</span> <span class="name">Edith</span> <a href="../cite/Edith/1590/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 120</span></a>;
+ <span class="date">1591</span> <span class="name">Edith</span> <a href="../cite/Edith/1591/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 120</span></a>;
+ <span class="date">1592</span> <span class="name">Edith</span> <a href="../cite/Edith/1592/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1593</span> <span class="name">Edith</span> <a href="../cite/Edith/1593/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1594</span> <span class="name">Edith</span> <a href="../cite/Edith/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 28</span></a>,
+ <a href="../cite/Edith/1594/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1595</span> <span class="name">Edith</span> <a href="../cite/Edith/1595/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1596</span> <span class="name">Edith</span> <a href="../cite/Edith/1596/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1597/8</span> <span class="name">Edith</span> <a href="../cite/Edith/1597s8/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1597</span> <span class="name">Edith</span> <a href="../cite/Edith/1597/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 124</span></a>;
+ <span class="date">1597/8</span> <span class="name">Edith</span> <a href="../cite/Edith/1597s8/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1598</span> <span class="name">Edith</span> <a href="../cite/Edith/1598/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1599</span> <span class="name">Edith</span> <a href="../cite/Edith/1599/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1542</span> <span class="name">Ede</span> <a href="../cite/Ede/1542/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1581</span> <span class="name">Eddye</span> <a href="../cite/Eddye/1581/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1585</span> <span class="name">Ydye</span> <a href="../cite/Ydye/1585/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1586</span> <span class="name">Eden</span> <a href="../cite/Eden/1586/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Eedy</span> <a href="../cite/Eedy/1586/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1587</span> <span class="name">Eden</span> <a href="../cite/Eden/1587/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1596</span> <span class="name">Yeede</span> <a href="../cite/Yeede/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">P. 34</span></a>;
+ <span class="date">1597</span> <span class="name">Edeny</span> <a href="../cite/Edeny/1597/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Yedye</span> <a href="../cite/Yedye/1597/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 132</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">937</span> <span class="name">Eadgide</span> (<span class="case">gen</span>) <a href="../cite/Eadgide/937/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XXXII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1124</span> <span class="name">Eadiue</span> (<span class="case">gen</span>) <a href="../cite/Eadiue/1124/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">L</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Edith". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Edith.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

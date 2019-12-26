@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Marcel</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Marcel</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Marcellus</i>, a cognomen of the Claudian <i>gens</i> originally a diminutive of <span class="lang">Latin</span> <i>Marcus</i> (v. <a class="nym" href="Mark">Mark</a>).
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 4th C pope and a 16th C pope.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The French dim. <i>Marceau</i> is a vocalic form of <i>Marcel</i>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Marcelis</span> <a href="../cite/Marcelis/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 368</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1047x1061</span> <span class="name">Marcelli</span> (<span class="case">gen</span>) <a href="../cite/Marcelli/1047x1061/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1269x70</span> <span class="name">Marcelli</span> (<span class="case">gen</span>) <a href="../cite/Marcelli/1269x70/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XXXII</span></a>;
+ <span class="date">1273</span> <span class="name">Marcelli</span> (<span class="case">gen</span>) <a href="../cite/Marcelli/1273/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLIII</span></a>;
+ <span class="date">1295</span> <span class="name">Marcellus</span> (<span class="case">nom</span>) <a href="../cite/Marcellus/1295/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 130</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Marciau</span> <a href="../cite/Marciau/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1313</span> <span class="name">Marceau</span> <a href="../cite/Marceau/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Marciau</span> <a href="../cite/Marciau/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Marceau</span> <a href="../cite/Marceau/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 201</span></a>,
+ <a href="../cite/Marceau/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 376</span></a>;
+ <span class="date">1423</span> <span class="name">Marcel</span> <a href="../cite/Marcel/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">428</span></a>;
+ <span class="date">1565</span> <span class="name">Marceau</span> <a href="../cite/Marceau/1565/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 176</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1364/5</span> <span class="name">Marcelet</span> <a href="../cite/Marcelet/1364s5/ActsCharlesV"><span class="bib_key">ActsCharlesV</span> <span class="bib_loc">no. 188</span></a>;
+ <span class="date">1418</span> <span class="name">Marcelet</span> <a href="../cite/Marcelet/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 212</span></a>,
+ <a href="../cite/Marcelet/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 387</span></a>;
+ <span class="date">1421</span> <span class="name">Marcelet</span> <a href="../cite/Marcelet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">970</span></a>;
+ <span class="date">1423</span> <span class="name">Marcelet</span> <a href="../cite/Marcelet/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1438</span> <span class="name">Marcelet</span> <a href="../cite/Marcelet/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1324</span> <span class="name">Marcelli</span> (<span class="case">gen</span>) <a href="../cite/Marcelli/1324/CDH-VIII-II"><span class="bib_key">CDH-VIII-II</span> <span class="bib_loc">CCLXX</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1326</span> <span class="name">Marcelli</span> (<span class="case">gen</span>) <a href="../cite/Marcelli/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 440</span></a>;
+ <span class="date">1478</span> <span class="name">Marcelli</span> (<span class="case">gen</span>) <a href="../cite/Marcelli/1478/RCCaetani6"><span class="bib_key">RCCaetani6</span> <span class="bib_loc">2720</span></a>,
+ <span class="name">Marcello</span> (<span class="case">abl</span>) <a href="../cite/Marcello/1478/RCCaetani6"><span class="bib_key">ibid.</span> <span class="bib_loc">2720</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Marcello</span> (<span class="case">nom</span>) <a href="../cite/Marcello/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 53, 37</span></a>;
+ <span class="date">1527</span> <span class="name">Marcelli</span> (<span class="case">gen</span>) <a href="../cite/Marcelli/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 90</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1376</span> <span class="name">Marcelino</span> (<span class="case">abl</span>) <a href="../cite/Marcelino/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1527</span> <span class="name">Marcellini</span> (<span class="case">gen</span>) <a href="../cite/Marcellini/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 89</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">c765</span> <span class="name">Marcellino</span> (<span class="case">abl</span>) <a href="../cite/Marcellino/c765/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 8</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Marcellus</span> <a href="../cite/Marcellus/1581/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1582</span> <span class="name">Marcellus</span> <a href="../cite/Marcellus/1582/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Marcel". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Marcel.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Fulcher</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Fulcher</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>folc</i>, <span class="lang">Old High German</span> <i>folk</i> 'people, nation, tribe, race' + <span class="lang">Old English</span> <i>here</i>, <span class="lang">Old High German</span> <i>heri</i> 'host, army'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Fulcherii</span> (<span class="case">gen</span>) <a href="../cite/Fulcherii/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 20</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">862x876</span> <span class="name">Folcherii</span> (<span class="case">gen</span>) <a href="../cite/Folcherii/862x876/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1032x1100</span> <span class="name">Fulcherius</span> (<span class="case">nom</span>) <a href="../cite/Fulcherius/1032x1100/LDS"><span class="bib_key">LDS</span> <span class="bib_loc">LXV</span></a>;
+ <span class="date">1064</span> <span class="name">Fulcherius</span> (<span class="case">nom</span>) <a href="../cite/Fulcherius/1064/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">715</span></a>;
+ <span class="date">1082x87</span> <span class="name">Folcherius</span> (<span class="case">nom</span>) <a href="../cite/Folcherius/1082x87/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 120</span></a>;
+ <span class="date">1123</span> <span class="name">Fulcherii</span> (<span class="case">gen</span>) <a href="../cite/Fulcherii/1123/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1125</span> <span class="name">Fulcherii</span> (<span class="case">gen</span>) <a href="../cite/Fulcherii/1125/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Fulcherius</span> (<span class="case">nom</span>) <a href="../cite/Fulcherius/1138x1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">69</span></a>;
+ <span class="date">1269/70</span> <span class="name">Foucherii</span> (<span class="case">gen</span>) <a href="../cite/Foucherii/1269s70/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1273</span> <span class="name">Foucheri</span> (<span class="case">gen</span>) <a href="../cite/Foucheri/1273/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLIII</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">Faukeres</span> (<span class="case">nom</span>) <a href="../cite/Faukeres/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 279</span></a>;
+ <span class="date">1327</span> <span class="name">Foucquier</span> <a href="../cite/Foucquier/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 185</span></a>,
+ <span class="name">Fouquier</span> <a href="../cite/Fouquier/1327/MemDocMan-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 175</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">720</span> <span class="name">Folcharium</span> (<span class="case">acc</span>) <a href="../cite/Folcharium/720/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 6</span></a>;
+ <span class="date">726</span> <span class="name">Folcarii</span> (<span class="case">gen</span>) <a href="../cite/Folcarii/726/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 7</span></a>;
+ <span class="date">822x875</span> <span class="name">Folckier</span> (<span class="case">nom</span>) <a href="../cite/Folckier/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§154</span></a>;
+ <span class="date">951</span> <span class="name">Fulcherus</span> (<span class="case">nom</span>) <a href="../cite/Fulcherus/951/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XXXVI</span></a>;
+ <span class="date">963x1023</span> <span class="name">Folcheri</span> (<span class="case">nom</span>) <a href="../cite/Folcheri/963x1023/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§226</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1326</span> <span class="name">Fulcherinum</span> (<span class="case">acc</span>) <a href="../cite/Fulcherinum/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 435</span></a>,
+ <span class="name">Fulcherinus</span> (<span class="case">nom</span>) <a href="../cite/Fulcherinus/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 435</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1277</span> <span class="name">volkerus</span> (<span class="case">nom</span>) <a href="../cite/volkerus/1277/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 296</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1210</span> <span class="name">Fulcherus</span> (<span class="case">nom</span>) <a href="../cite/Fulcherus/1210/CartChart"><span class="bib_key">CartChart</span> <span class="bib_loc">4</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Fulcher". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Fulcher.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

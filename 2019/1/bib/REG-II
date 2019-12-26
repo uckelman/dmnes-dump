@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>REG-II</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>REG-II</dt>
+  <dd><em>Registrum Episcopatus Glasguensis</em>, volume II. Impressum Edinburgi, 1843.</dd>
+</dl>
+
+
+  <a href="../cite/Adam/1413/REG-II">Adam</a>
+
+  <a href="../cite/Alano/1414/REG-II">Alano</a>
+
+  <a href="../cite/Alexander/1425/REG-II">Alexander</a>
+
+  <a href="../cite/Alexandro/1426/REG-II">Alexandro</a>
+
+  <a href="../cite/Andrea/1414/REG-II">Andrea</a>
+
+  <a href="../cite/Andrea/1413/REG-II">Andrea</a>
+
+  <a href="../cite/Andreas/1425/REG-II">Andreas</a>
+
+  <a href="../cite/Andreas/1413/REG-II">Andreas</a>
+
+  <a href="../cite/Benedicti/1413/REG-II">Benedicti</a>
+
+  <a href="../cite/Gilberto/1414/REG-II">Gilberto</a>
+
+  <a href="../cite/Jacobo/1414/REG-II">Jacobo</a>
+
+  <a href="../cite/Jacobus/1426/REG-II">Jacobus</a>
+
+  <a href="../cite/Johanne/1414/REG-II">Johanne</a>
+
+  <a href="../cite/Johanne/1427/REG-II">Johanne</a>
+
+  <a href="../cite/Johanne/1413/REG-II">Johanne</a>
+
+  <a href="../cite/Johannes/1427/REG-II">Johannes</a>
+
+  <a href="../cite/Johannes/1425/REG-II">Johannes</a>
+
+  <a href="../cite/Johannes/1417/REG-II">Johannes</a>
+
+  <a href="../cite/Johannes/1426/REG-II">Johannes</a>
+
+  <a href="../cite/Johanni/1426/REG-II">Johanni</a>
+
+  <a href="../cite/Johannis/1414/REG-II">Johannis</a>
+
+  <a href="../cite/Johannis/1417/REG-II">Johannis</a>
+
+  <a href="../cite/Johannis/1413/REG-II">Johannis</a>
+
+  <a href="../cite/Nicholai/1414/REG-II">Nicholai</a>
+
+  <a href="../cite/Nicholao/1413/REG-II">Nicholao</a>
+
+  <a href="../cite/Nicolaii/1414/REG-II">Nicolaii</a>
+
+  <a href="../cite/Nicolaus/1415/REG-II">Nicolaus</a>
+
+  <a href="../cite/Patricii/1414/REG-II">Patricii</a>
+
+  <a href="../cite/Patricio/1414/REG-II">Patricio</a>
+
+  <a href="../cite/Patricius/1425/REG-II">Patricius</a>
+
+  <a href="../cite/Roberti/1414/REG-II">Roberti</a>
+
+  <a href="../cite/Roberto/1414/REG-II">Roberto</a>
+
+  <a href="../cite/Robertus/1414/REG-II">Robertus</a>
+
+  <a href="../cite/Robertus/1415/REG-II">Robertus</a>
+
+  <a href="../cite/Thoma/1413/REG-II">Thoma</a>
+
+  <a href="../cite/Thoma/1427/REG-II">Thoma</a>
+
+  <a href="../cite/Thomam/1426/REG-II">Thomam</a>
+
+  <a href="../cite/Thomam/1425/REG-II">Thomam</a>
+
+  <a href="../cite/Thomas/1425/REG-II">Thomas</a>
+
+  <a href="../cite/Thome/1426/REG-II">Thome</a>
+
+  <a href="../cite/Willelmi/1414/REG-II">Willelmi</a>
+
+  <a href="../cite/Willelmo/1414/REG-II">Willelmo</a>
+
+  <a href="../cite/Willelmo/1413/REG-II">Willelmo</a>
+
+  <a href="../cite/Willelmum/1413/REG-II">Willelmum</a>
+
+  <a href="../cite/Willelmum/1426/REG-II">Willelmum</a>
+
+  <a href="../cite/Willelmus/1427/REG-II">Willelmus</a>
+
+  <a href="../cite/Willelmus/1425/REG-II">Willelmus</a>
+
+  <a href="../cite/Willelmus/1413/REG-II">Willelmus</a>
+
+  <a href="../cite/Willelmus/1415/REG-II">Willelmus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

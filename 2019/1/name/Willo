@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Willo</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Willo</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>willo</i> 'will', or a pet form of any of various names beginning with this element.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1124</span> <span class="name">Willinc</span> (<span class="case">nom</span>) <a href="../cite/Willinc/1124/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">110</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1428</span> <span class="name">Wyllyngh</span> <a href="../cite/Wyllyngh/1428/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 353</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">c823</span> <span class="name">Willonus</span> (<span class="case">nom</span>) <a href="../cite/Willonus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">86, Ved</span></a>;
+ <span class="date">1121</span> <span class="name">Guilenci</span> (<span class="case">gen</span>) <a href="../cite/Guilenci/1121/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1125x1136</span> <span class="name">Guilenci</span> (<span class="case">gen</span>) <a href="../cite/Guilenci/1125x1136/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXIX</span></a>,
+ <span class="name">Guilencus</span> (<span class="case">nom</span>) <a href="../cite/Guilencus/1125x1136/CartYonne1"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXXIX</span></a>;
+ <span class="date">1131</span> <span class="name">Wilenco</span> (<span class="case">abl</span>) <a href="../cite/Wilenco/1131/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1135</span> <span class="name">Wilenci</span> (<span class="case">gen</span>) <a href="../cite/Wilenci/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Wilenco</span> (<span class="case">abl</span>) <a href="../cite/Wilenco/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Wilencus</span> (<span class="case">nom</span>) <a href="../cite/Wilencus/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1147</span> <span class="name">Wilenci</span> (<span class="case">gen</span>) <a href="../cite/Wilenci/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Wilenco</span> (<span class="case">abl</span>) <a href="../cite/Wilenco/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>,
+ <span class="name">Wilencus</span> (<span class="case">nom</span>) <a href="../cite/Wilencus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Wilencus</span> (<span class="case">nom</span>) <a href="../cite/Wilencus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">52</span></a>,
+ <span class="name">Willencus</span> (<span class="case">nom</span>) <a href="../cite/Willencus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">52</span></a>;
+ <span class="date">1155</span> <span class="name">Wilenchi</span> (<span class="case">gen</span>) <a href="../cite/Wilenchi/1155/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1159</span> <span class="name">Wilenchi</span> (<span class="case">gen</span>) <a href="../cite/Wilenchi/1159/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>,
+ <span class="name">Wilencus</span> (<span class="case">nom</span>) <a href="../cite/Wilencus/1159/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1163</span> <span class="name">Wilenco</span> (<span class="case">abl</span>) <a href="../cite/Wilenco/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1163–64</span> <span class="name">Vilencus</span> (<span class="case">nom</span>) <a href="../cite/Vilencus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1164</span> <span class="name">Vilencus</span> (<span class="case">nom</span>) <a href="../cite/Vilencus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1172</span> <span class="name">Guilenchi</span> (<span class="case">gen</span>) <a href="../cite/Guilenchi/1172/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">150</span></a>;
+ <span class="date">1219</span> <span class="name">Villenc</span> (<span class="case">nom</span>) <a href="../cite/Villenc/1219/CartAub"><span class="bib_key">CartAub</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1386</span> <span class="name">Guillo</span> <a href="../cite/Guillo/1386/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 513</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">963x1023</span> <span class="name">Willo</span> (<span class="case">nom</span>) <a href="../cite/Willo/963x1023/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§226</span></a>;
+ <span class="date">987</span> <span class="name">Willo</span> (<span class="case">nom</span>) <a href="../cite/Willo/987/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XLVIII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1163</span> <span class="name">Willincus</span> (<span class="case">nom</span>) <a href="../cite/Willincus/1163/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">13</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, S.L. Uckelman. "Willo". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Willo.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

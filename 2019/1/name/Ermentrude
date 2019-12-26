@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Ermentrude</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Ermentrude</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>ermen</i>, <span class="lang">Old Saxon</span> <i>irmin</i> 'strong' + <span class="lang">Proto-Germanic</span> <i>*þrūþ</i> 'strength' or <span class="lang">Proto-Germanic</span> <i>*trut</i> 'maiden'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 9th C queen of the Franks.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1050</span> <span class="name">Ermentrudis</span> (<span class="case">nom</span>) <a href="../cite/Ermentrudis/1050/CRS-2-5"><span class="bib_key">CRS-2-5</span> <span class="bib_loc">p. 232</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814</span> <span class="name">Ermentrudis</span> (<span class="case">nom</span>) <a href="../cite/Ermentrudis/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">H2</span></a>;
+ <span class="date">c823</span> <span class="name">Ermedrudis</span> (<span class="case">nom</span>) <a href="../cite/Ermedrudis/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">14, Palatiolum</span></a>,
+ <span class="name">Ermentrudis</span> (<span class="case">nom</span>) <a href="../cite/Ermentrudis/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">15, Palatiolum</span></a>,
+ <span class="name">Ermintrudem</span> (<span class="case">acc</span>) <a href="../cite/Ermintrudem/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">36, Wan</span></a>;
+ <span class="date">862</span> <span class="name">Hirmentrudis</span> (<span class="case">gen</span>) <a href="../cite/Hirmentrudis/862/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1173</span> <span class="name">Ermentrude</span> (<span class="case">abl</span>) <a href="../cite/Ermentrude/1173/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">153</span></a>,
+ <span class="name">Ermentrudis</span> (<span class="case">gen</span>) <a href="../cite/Ermentrudis/1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">153</span></a>;
+ <span class="date">1179</span> <span class="name">Ermantrudis</span> (<span class="case">nom</span>) <a href="../cite/Ermantrudis/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Ermentrudi</span> (<span class="case">abl</span>) <a href="../cite/Ermentrudi/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>,
+ <span class="name">Hermentrude</span> (<span class="case">abl</span>) <a href="../cite/Hermentrude/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">173</span></a>;
+ <span class="date">1214</span> <span class="name">Ermentrudis</span> (<span class="case">gen</span>) <a href="../cite/Ermentrudis/1214/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXLI</span></a>;
+ <span class="date">1268</span> <span class="name">Ermentrudis</span> (<span class="case">nom</span>) <a href="../cite/Ermentrudis/1268/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-V</span></a>;
+ <span class="date">1269</span> <span class="name">Ermentrudis</span> (<span class="case">nom</span>) <a href="../cite/Ermentrudis/1269/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-III</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1147</span> <span class="name">Ermentrudi</span> (<span class="case">dat</span>) <a href="../cite/Ermentrudi/1147/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1283</span> <span class="name">Irmindrudis</span> (<span class="case">nom</span>) <a href="../cite/Irmindrudis/1283/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">289</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1293</span> <span class="name">Irmendtrúde</span> (<span class="case">nom</span>) <a href="../cite/Irmendtrúde/1293/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">53</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">954</span> <span class="name">ermedrudia</span> (<span class="case">nom</span>) <a href="../cite/ermedrudia/954/CDGH"><span class="bib_key">CDGH</span> <span class="bib_loc">XLVII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1235</span> <span class="name">Ermendrudis</span> (<span class="case">nom</span>) <a href="../cite/Ermendrudis/1235/CLC"><span class="bib_key">CLC</span> <span class="bib_loc">p. 22</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Ermentrude". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Ermentrude.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

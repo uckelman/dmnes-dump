@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Herluin</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Herluin</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>eorl</i> 'earl', <span class="lang">Old Saxon</span> <i>erl</i> 'earl, man' + <span class="lang">Old English</span> <i>wine</i>, <span class="lang">Old High German</span> <i>wini</i> 'friend'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Eorlewinus</span> (<span class="case">nom</span>) <a href="../cite/Eorlewinus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 139</span></a>,
+ <span class="name">Erlwinus</span> (<span class="case">nom</span>) <a href="../cite/Erlwinus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 114</span></a>,
+ <span class="name">Harlewinus</span> (<span class="case">nom</span>) <a href="../cite/Harlewinus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 119</span></a>,
+ <span class="name">Herlewine</span> (<span class="case">nom</span>) <a href="../cite/Herlewine/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 120</span></a>,
+ <span class="name">Herlewinus</span> (<span class="case">nom</span>) <a href="../cite/Herlewinus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 134</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1113</span> <span class="name">Herluini</span> (<span class="case">gen</span>) <a href="../cite/Herluini/c1113/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1159</span> <span class="name">Herluini</span> (<span class="case">gen</span>) <a href="../cite/Herluini/1159/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">36</span></a>;
+ <span class="date">1160</span> <span class="name">Herluini</span> (<span class="case">gen</span>) <a href="../cite/Herluini/1160/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXIV</span></a>;
+ <span class="date">1180</span> <span class="name">Herluini</span> (<span class="case">gen</span>) <a href="../cite/Herluini/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Herlewin</span> (<span class="case">nom</span>) <a href="../cite/Herlewin/1292/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">324</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1214</span> <span class="name">Erluinus</span> (<span class="case">nom</span>) <a href="../cite/Erluinus/1214/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1215</span> <span class="name">Erluinus</span> (<span class="case">nom</span>) <a href="../cite/Erluinus/1215/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Herluin". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Herluin.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

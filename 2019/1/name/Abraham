@@ -1,0 +1,251 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Abraham</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Abraham</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>אַבְרָהָם</i> 'father of a multitude'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of one of the Biblical patriarchs, a 4th C martyr, two 4th C Coptic saints, a 5th C French saint, a 5th C Syrian saint, two 5th C Armenian martyrs, a 6th C Syrian saint, a 6th C Persian saint, a 13th C Bulgarian saint, and a 13th C Russian saint. Wycliffite Bible (1395): <i>Abraham</i>. Geneva Bible (1560): <i>Abrahám</i>. Sagradas Escrituras (1569): <i>Abraham</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name was uncommon in England before the 16th C.  For more information see <span class="xr">Withycombe</span>, s.n. Abraham</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">928</span> <span class="name">Abraham</span> (<span class="case">nom</span>) <a href="../cite/Abraham/928/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">18</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1563</span> <span class="name">Abraham</span> (<span class="case">nom</span>) <a href="../cite/Abraham/1563/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 7</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1572/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Anthonis</span></a>;
+ <span class="date">1573</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1573/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bouchenpool</span></a>;
+ <span class="date">1574</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Boone</span></a>;
+ <span class="date">1575</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1575/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Fredrix</span></a>;
+ <span class="date">1576</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bogard</span></a>;
+ <span class="date">1577</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bits</span></a>;
+ <span class="date">1578</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Capellen</span></a>;
+ <span class="date">1579</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bruijnijnck</span></a>;
+ <span class="date">1580</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Billen</span></a>;
+ <span class="date">1581</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1581/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Backer</span></a>;
+ <span class="date">1582</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Brunckhorst</span></a>;
+ <span class="date">1583</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bogardtz</span></a>,
+ <span class="name">Abrahame</span> <a href="../cite/Abrahame/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bauters</span></a>;
+ <span class="date">1585</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beeckmans</span></a>;
+ <span class="date">1586</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bracht</span></a>;
+ <span class="date">1587</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cocx</span></a>;
+ <span class="date">1589</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beijts</span></a>;
+ <span class="date">1590</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bedler</span></a>;
+ <span class="date">1591</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Anyeke</span></a>;
+ <span class="date">1592</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Adams</span></a>;
+ <span class="date">1593</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Berwart</span></a>;
+ <span class="date">1594</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Collij</span></a>;
+ <span class="date">1595</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Acker</span></a>;
+ <span class="date">1596</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bil</span></a>;
+ <span class="date">1597</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Ackom</span></a>;
+ <span class="date">1598</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bil</span></a>;
+ <span class="date">1599</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Atkens</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1563</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1563/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1567</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1567/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1573</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1573/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1575/6</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1575s6/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1575</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1575/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1579</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1579/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Abraham/1579/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1581</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1581/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1584</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1584/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1588</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1588/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1589</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1589/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1590</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1594</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1594/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1598</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1598/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1599</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 41</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1582/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1583/4</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1583s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1590</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1590/1</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1590s1/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1591/2</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1591s2/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1591</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 563</span></a>;
+ <span class="date">1592</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1592/3</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1592s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1593/4</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1594</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Abraham</span> (<span class="case">nom</span>) <a href="../cite/Abraham/1582/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 171</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Abraham</span> (<span class="case">nom</span>) <a href="../cite/Abraham/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">62</span></a>,
+ <span class="name">Abram</span> (<span class="case">nom</span>) <a href="../cite/Abram/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">6, Wan</span></a>;
+ <span class="date">1147</span> <span class="name">Abraham</span> (<span class="case">abl</span>) <a href="../cite/Abraham/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1378</span> <span class="name">Abrahe</span> (<span class="case">dat</span>) <a href="../cite/Abrahe/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">445</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1298</span> <span class="name">Abraham</span> (<span class="case">obl</span>) <a href="../cite/Abraham/1298/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 138</span></a>;
+ <span class="date">1313</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 48</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1561</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1562</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1563</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1564</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1565</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1566</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 202</span></a>;
+ <span class="date">1567</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 279</span></a>;
+ <span class="date">1568</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 413</span></a>;
+ <span class="date">1570</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 427</span></a>;
+ <span class="date">1571</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 440</span></a>;
+ <span class="date">1572</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 490</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">961</span> <span class="name">Abrahę</span> (<span class="case">gen</span>) <a href="../cite/Abrahę/961/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">24</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1302</span> <span class="name">Abraham</span> (<span class="case">nom</span>) <a href="../cite/Abraham/1302/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Abrahe</span> (<span class="case">gen</span>) <a href="../cite/Abrahe/1302/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Abram</span> <a href="../cite/Abram/1302/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1306</span> <span class="name">Abrache</span> (<span class="case">gen</span>) <a href="../cite/Abrache/1306/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1311</span> <span class="name">Abraam</span> <a href="../cite/Abraam/1311/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1320</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1320/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Abram</span> <a href="../cite/Abram/1320/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1322</span> <span class="name">Abraham</span> (<span class="case">nom</span>) <a href="../cite/Abraham/1322/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1323</span> <span class="name">Abraham</span> (<span class="case">nom</span>) <a href="../cite/Abraham/1323/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1324</span> <span class="name">Abraham</span> <a href="../cite/Abraham/1324/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1327</span> <span class="name">Abraam</span> <a href="../cite/Abraam/1327/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1329</span> <span class="name">Abram</span> <a href="../cite/Abram/1329/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1330</span> <span class="name">Abraam</span> <a href="../cite/Abraam/1330/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1331</span> <span class="name">Abrae</span> (<span class="case">gen</span>) <a href="../cite/Abrae/1331/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Abram</span> (<span class="case">nom</span>) <a href="../cite/Abram/1331/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1332–1337</span> <span class="name">Abraham</span> (<span class="case">nom</span>) <a href="../cite/Abraham/1332–1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1332x37</span> <span class="name">Harbahe</span> (<span class="case">gen</span>) <a href="../cite/Harbahe/1332x37/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1332x1337</span> <span class="name">Abraam</span> <a href="../cite/Abraam/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1335</span> <span class="name">Abraam</span> <a href="../cite/Abraam/1335/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1337</span> <span class="name">Abram</span> (<span class="case">nom</span>) <a href="../cite/Abram/1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12-13</span></a>;
+ <span class="date">1341</span> <span class="name">Abraam</span> <a href="../cite/Abraam/1341/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Abram</span> (<span class="case">nom</span>) <a href="../cite/Abram/1341/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1342</span> <span class="name">Abrae</span> (<span class="case">gen</span>) <a href="../cite/Abrae/1342/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Abrank</span> <a href="../cite/Abrank/1313/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1334</span> <span class="name">Abych</span> <a href="../cite/Abych/1334/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1237</span> <span class="name">Abrahe</span> (<span class="case">gen</span>) <a href="../cite/Abrahe/1237/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">580</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1406</span> <span class="name">Abram</span> (<span class="case">gen</span>) <a href="../cite/Abram/1406/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 16646</span></a>;
+ <span class="date">1409</span> <span class="name">Abram</span> (<span class="case">nom</span>) <a href="../cite/Abram/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17139</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Abraham</span> (<span class="case">nom</span>) <a href="../cite/Abraham/1543/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 164</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, R. Le Get, M. Slíz, J. Uckelman, S.L. Uckelman. "Abraham". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Abraham.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

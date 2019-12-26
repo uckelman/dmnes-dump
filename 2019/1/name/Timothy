@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Timothy</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Timothy</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Ancient Greek</span> <i>τιμάω</i> 'I honour' + <span class="lang">Ancient Greek</span> <i>θεός</i> 'god'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 1st C biblical saint and martyr, a 4th C martyr, and a 5th C saint. Wycliffite Bible (1395): <i>Timothe</i>, <i>Tymothe</i>.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1541</span> <span class="name">Timothie</span> <a href="../cite/Timothie/1541/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1542</span> <span class="name">Timothi</span> <a href="../cite/Timothi/1542/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1549</span> <span class="name">Timothy</span> <a href="../cite/Timothy/1549/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1551</span> <span class="name">Timothy</span> <a href="../cite/Timothy/1551/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1553</span> <span class="name">Timothy</span> <a href="../cite/Timothy/1553/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1558</span> <span class="name">Timothe</span> <a href="../cite/Timothe/1558/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 109</span></a>,
+ <span class="name">Tymothe</span> <a href="../cite/Tymothe/1558/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1590</span> <span class="name">Timothe</span> <a href="../cite/Timothe/1590/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1594</span> <span class="name">Tymothie</span> <a href="../cite/Tymothie/1594/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 102</span></a>;
+ <span class="date">1597</span> <span class="name">Timothe</span> <a href="../cite/Timothe/1597/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 124</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1548</span> <span class="name">Timosk</span> (<span class="case">gen</span>) <a href="../cite/Timosk/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 170</span></a>;
+ <span class="date">1582</span> <span class="name">Timo</span> (<span class="case">nom</span>) <a href="../cite/Timo/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 172</span></a>,
+ <span class="name">Timå</span> (<span class="case">nom</span>) <a href="../cite/Timå/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 172</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1565</span> <span class="name">Timothée</span> <a href="../cite/Timothée/1565/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 112</span></a>;
+ <span class="date">1566</span> <span class="name">Thimotée</span> <a href="../cite/Thimotée/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 254</span></a>;
+ <span class="date">1567</span> <span class="name">Thimothée</span> <a href="../cite/Thimothée/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a>;
+ <span class="date">1568</span> <span class="name">Thimotée</span> <a href="../cite/Thimotée/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 371</span></a>,
+ <span class="name">Timothée</span> <a href="../cite/Timothée/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 390</span></a>;
+ <span class="date">1572</span> <span class="name">Thimotée</span> <a href="../cite/Thimotée/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 499</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, S.L. Uckelman. "Timothy". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Timothy.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

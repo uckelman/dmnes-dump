@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>GesOIJ-4</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>GesOIJ-4</dt>
+  <dd>J. I. van Doorninck and J. Nanninga Uitterdijk, editors. <em>Bijdragen tot de Geschiednis van Overijssel</em>, volume 4. Zwolle: De Erven J. J. Tijl, 1878.</dd>
+</dl>
+
+
+  <a href="../cite/Albert/1380/GesOIJ-4">Albert</a>
+
+  <a href="../cite/Alert/1382/GesOIJ-4">Alert</a>
+
+  <a href="../cite/Alijt/1383/GesOIJ-4">Alijt</a>
+
+  <a href="../cite/Arent/1382/GesOIJ-4">Arent</a>
+
+  <a href="../cite/Arents/1380/GesOIJ-4">Arents</a>
+
+  <a href="../cite/Beernts/1383/GesOIJ-4">Beernts</a>
+
+  <a href="../cite/Bertolt/1381/GesOIJ-4">Bertolt</a>
+
+  <a href="../cite/Clawes/1384/GesOIJ-4">Clawes</a>
+
+  <a href="../cite/Clawes/1382/GesOIJ-4">Clawes</a>
+
+  <a href="../cite/Coenraet/1376/GesOIJ-4">Coenraet</a>
+
+  <a href="../cite/Dirxss/1380/GesOIJ-4">Dirxss</a>
+
+  <a href="../cite/Gijsbert/1383/GesOIJ-4">Gijsbert</a>
+
+  <a href="../cite/Heijne/1383/GesOIJ-4">Heijne</a>
+
+  <a href="../cite/Henric/1384/GesOIJ-4">Henric</a>
+
+  <a href="../cite/Henric/1383/GesOIJ-4">Henric</a>
+
+  <a href="../cite/Henrixs/1382/GesOIJ-4">Henrixs</a>
+
+  <a href="../cite/Herman/1383/GesOIJ-4">Herman</a>
+
+  <a href="../cite/Hermen/1384/GesOIJ-4">Hermen</a>
+
+  <a href="../cite/Hermens/1384/GesOIJ-4">Hermens</a>
+
+  <a href="../cite/Hermenss/1380/GesOIJ-4">Hermenss</a>
+
+  <a href="../cite/Jacop/1384/GesOIJ-4">Jacop</a>
+
+  <a href="../cite/Johan/1384/GesOIJ-4">Johan</a>
+
+  <a href="../cite/Johan/1382/GesOIJ-4">Johan</a>
+
+  <a href="../cite/Johan/1380/GesOIJ-4">Johan</a>
+
+  <a href="../cite/Johan/1376/GesOIJ-4">Johan</a>
+
+  <a href="../cite/Johans/1383/GesOIJ-4">Johans</a>
+
+  <a href="../cite/Johanss/1376/GesOIJ-4">Johanss</a>
+
+  <a href="../cite/Kersteken/1383/GesOIJ-4">Kersteken</a>
+
+  <a href="../cite/Lamberts/1383/GesOIJ-4">Lamberts</a>
+
+  <a href="../cite/Lambertss/1380/GesOIJ-4">Lambertss</a>
+
+  <a href="../cite/Lambertus/1383/GesOIJ-4">Lambertus</a>
+
+  <a href="../cite/Ludekens/1383/GesOIJ-4">Ludekens</a>
+
+  <a href="../cite/Mathijs/1383/GesOIJ-4">Mathijs</a>
+
+  <a href="../cite/Merten/1376/GesOIJ-4">Merten</a>
+
+  <a href="../cite/Ottens/1382/GesOIJ-4">Ottens</a>
+
+  <a href="../cite/Reijner/1384/GesOIJ-4">Reijner</a>
+
+  <a href="../cite/Reijnerss/1376/GesOIJ-4">Reijnerss</a>
+
+  <a href="../cite/Roloff/1382/GesOIJ-4">Roloff</a>
+
+  <a href="../cite/Wolter/1383/GesOIJ-4">Wolter</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

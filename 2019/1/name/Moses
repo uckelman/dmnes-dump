@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Moses</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Moses</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Ancient Greek</span> <i>Μωϋσῆς</i> from <span class="lang">Hebrew</span> <i>משה</i> 'to draw out'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a Biblical prophet, two 4th C saints, a 5th C Armenian saint, an 8th C Shiite Imam, and an 11th C Hungarian saint. Wycliffite Bible (1395): <i>Moises</i>, <i>Moyses</i>. Sagradas Escrituras (1569): <i>Moisés</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name was popular among Jews during the Middle Ages, and was not commonly used by non-Jews until the 16th C.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Moyses</span> (<span class="case">nom</span>) <a href="../cite/Moyses/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 236</span></a>;
+ <span class="date">1194</span> <span class="name">Moyses</span> (<span class="case">nom</span>) <a href="../cite/Moyses/1194/RotCur-vol1"><span class="bib_key">RotCur-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1279–80</span> <span class="name">Mosseus</span> (<span class="case">nom</span>) <a href="../cite/Mosseus/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 32</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Moyses</span> <a href="../cite/Moyses/1572/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Baen</span></a>;
+ <span class="date">1574</span> <span class="name">Moses</span> <a href="../cite/Moses/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Angelee</span></a>;
+ <span class="date">1585</span> <span class="name">Moses</span> <a href="../cite/Moses/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bossche</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1560</span> <span class="name">Moyses</span> <a href="../cite/Moyses/1560/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1572</span> <span class="name">Moyeses</span> <a href="../cite/Moyeses/1572/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1587</span> <span class="name">Moyses</span> <a href="../cite/Moyses/1587/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 117</span></a>;
+ <span class="date">1591</span> <span class="name">Moyses</span> <a href="../cite/Moyses/1591/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1592</span> <span class="name">Moyses</span> <a href="../cite/Moyses/1592/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1596</span> <span class="name">Moyses</span> <a href="../cite/Moyses/1596/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1597</span> <span class="name">Moyses</span> <a href="../cite/Moyses/1597/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 123</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1583/4</span> <span class="name">Moyse</span> <a href="../cite/Moyse/1583s4/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1590</span> <span class="name">Moyse</span> <a href="../cite/Moyse/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1591</span> <span class="name">Moyse</span> <a href="../cite/Moyse/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1592</span> <span class="name">Moyse</span> <a href="../cite/Moyse/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1593/4</span> <span class="name">Moyse</span> <a href="../cite/Moyse/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1594</span> <span class="name">Moyse</span> <a href="../cite/Moyse/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Moisze</span> (<span class="case">nom</span>) <a href="../cite/Moisze/1582/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 172</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1563</span> <span class="name">Moyse</span> <a href="../cite/Moyse/1563/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1566</span> <span class="name">Moyse</span> <a href="../cite/Moyse/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 265</span></a>;
+ <span class="date">1588</span> <span class="name">Moïse</span> <a href="../cite/Moïse/1588/raymond1588"><span class="bib_key">raymond1588</span> <span class="bib_loc">p. 567</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1322</span> <span class="name">Mosseke</span> (<span class="case">nom</span>) <a href="../cite/Mosseke/1322/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">71</span></a>,
+ <span class="name">Mosseken</span> (<span class="case">abl</span>) <a href="../cite/Mosseken/1322/VFBStralsund"><span class="bib_key">ibid.</span> <span class="bib_loc">71</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">959</span> <span class="name">Moise</span> (<span class="case">nom</span>) <a href="../cite/Moise/959/RegSAp"><span class="bib_key">RegSAp</span> <span class="bib_loc">1</span></a>,
+ <span class="name">Moisen</span> (<span class="case">gen</span>) <a href="../cite/Moisen/959/RegSAp"><span class="bib_key">ibid.</span> <span class="bib_loc">1</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, S.L. Uckelman. "Moses". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Moses.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Siger</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Siger</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>sigu</i> 'victory' + <span class="lang">Old High German</span> <i>heri</i> 'host, army'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1133</span> <span class="name">Sigero</span> (<span class="case">abl</span>) <a href="../cite/Sigero/1133/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1138</span> <span class="name">Sygerus</span> (<span class="case">nom</span>) <a href="../cite/Sygerus/1138/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1187</span> <span class="name">Sygerus</span> (<span class="case">nom</span>) <a href="../cite/Sygerus/1187/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1336</span> <span class="name">Segers</span> (<span class="case">gen</span>) <a href="../cite/Segers/1336/RSG1336-39"><span class="bib_key">RSG1336-39</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Segre</span> (<span class="case">dat</span>) <a href="../cite/Segre/1336/RSG1336-39"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Segren</span> (<span class="case">dat</span>) <a href="../cite/Segren/1336/RSG1336-39"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Zeghere</span> (<span class="case">dat</span>) <a href="../cite/Zeghere/1336/RSG1336-39"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Zegheren</span> (<span class="case">dat</span>) <a href="../cite/Zegheren/1336/RSG1336-39"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Segari</span> (<span class="case">gen</span>) <a href="../cite/Segari/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1189</span> <span class="name">Segari</span> (<span class="case">gen</span>) <a href="../cite/Segari/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 219</span></a>,
+ <span class="name">Segarus</span> (<span class="case">nom</span>) <a href="../cite/Segarus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 226</span></a>,
+ <span class="name">Sigarus</span> (<span class="case">nom</span>) <a href="../cite/Sigarus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 220</span></a>;
+ <span class="date">1222</span> <span class="name">Sigari</span> (<span class="case">gen</span>) <a href="../cite/Sigari/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 20</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1588</span> <span class="name">Seger</span> <a href="../cite/Seger/1588/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Courcelis</span></a>;
+ <span class="date">1590</span> <span class="name">Seger</span> <a href="../cite/Seger/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Courcelis</span></a>;
+ <span class="date">1592</span> <span class="name">Seger</span> <a href="../cite/Seger/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Courcelis</span></a>;
+ <span class="date">1594</span> <span class="name">Zegher</span> <a href="../cite/Zegher/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Corselis</span></a>;
+ <span class="date">1596</span> <span class="name">Zegher</span> <a href="../cite/Zegher/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Corselis</span></a>;
+ <span class="date">1598</span> <span class="name">Seger</span> <a href="../cite/Seger/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Courcelis</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">697</span> <span class="name">Sicharius</span> (<span class="case">nom</span>) <a href="../cite/Sicharius/697/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">Add. IX</span></a>;
+ <span class="date">699</span> <span class="name">Sicharius</span> (<span class="case">nom</span>) <a href="../cite/Sicharius/699/Chart7th"><span class="bib_key">Chart7th</span> <span class="bib_loc">p. 570</span></a>;
+ <span class="date">c823</span> <span class="name">Sicharius</span> (<span class="case">nom</span>) <a href="../cite/Sicharius/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">65</span></a>;
+ <span class="date">1088</span> <span class="name">Sigeri</span> (<span class="case">gen</span>) <a href="../cite/Sigeri/1088/CartSPL1"><span class="bib_key">CartSPL1</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1090</span> <span class="name">Sigeri</span> (<span class="case">gen</span>) <a href="../cite/Sigeri/1090/CartSPL1"><span class="bib_key">ibid.</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1101</span> <span class="name">Sigeri</span> (<span class="case">gen</span>) <a href="../cite/Sigeri/1101/CartSPL1"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1378</span> <span class="name">Sigero</span> (<span class="case">dat</span>) <a href="../cite/Sigero/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">no. 84</span></a>,
+ <span class="name">Sigerus</span> (<span class="case">nom</span>) <a href="../cite/Sigerus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 84</span></a>,
+ <span class="name">Sygeri</span> (<span class="case">gen</span>) <a href="../cite/Sygeri/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">964</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Segarus</span> (<span class="case">nom</span>) <a href="../cite/Segarus/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 21</span></a>,
+ <span class="name">Segeri</span> (<span class="case">gen</span>) <a href="../cite/Segeri/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 7</span></a>,
+ <span class="name">Sigar</span> (<span class="case">nom</span>) <a href="../cite/Sigar/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 10</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">834</span> <span class="name">Siger</span> (<span class="case">nom</span>) <a href="../cite/Siger/834/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 30</span></a>;
+ <span class="date">1258</span> <span class="name">Sygero</span> (<span class="case">dat</span>) <a href="../cite/Sygero/1258/OHZI-II"><span class="bib_key">OHZI-II</span> <span class="bib_loc">no. 44</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1011</span> <span class="name">Seger</span> (<span class="case">nom</span>) <a href="../cite/Seger/1011/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCLXX</span></a>;
+ <span class="date">1019</span> <span class="name">Segarius</span> (<span class="case">nom</span>) <a href="../cite/Segarius/1019/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXIV</span></a>;
+ <span class="date">1020</span> <span class="name">Segario</span> (<span class="case">nom</span>) <a href="../cite/Segario/1020/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXXV</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Siger". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Siger.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>
