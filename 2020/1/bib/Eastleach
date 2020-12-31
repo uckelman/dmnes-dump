@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Eastleach</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>Eastleach</dt>
+  <dd><em>THE REGISTER BOOK of Eastleach Martin als Bouthrop in the County of GLOUCESTER. AnnoDmi 1538</em>. Eastleach Martin alias Bouthrop, Gloucestershire, England, 1538. Parish Register: Eastleach Martin alias Bouthrop, Gloucestershire: from AD1538: Baptims, Burials &amp; Marriages.</dd>
+</dl>
+
+
+  <a href="../cite/Ales/1538/Eastleach">Ales</a>
+
+  <a href="../cite/Ales/1539/Eastleach">Ales</a>
+
+  <a href="../cite/Annys/1540/Eastleach">Annys</a>
+
+  <a href="../cite/Elizabeth/1541/Eastleach">Elizabeth</a>
+
+  <a href="../cite/James/1539/Eastleach">James</a>
+
+  <a href="../cite/Johan/1540/Eastleach">Johan</a>
+
+  <a href="../cite/Johan/1539/Eastleach">Johan</a>
+
+  <a href="../cite/Johan/1538/Eastleach">Johan</a>
+
+  <a href="../cite/John/1538/Eastleach">John</a>
+
+  <a href="../cite/John/1541/Eastleach">John</a>
+
+  <a href="../cite/John/1540/Eastleach">John</a>
+
+  <a href="../cite/Margerie/1541/Eastleach">Margerie</a>
+
+  <a href="../cite/Richard/1540/Eastleach">Richard</a>
+
+  <a href="../cite/Richard/1539/Eastleach">Richard</a>
+
+  <a href="../cite/Roberte/1538/Eastleach">Roberte</a>
+
+  <a href="../cite/Roberte/1541/Eastleach">Roberte</a>
+
+  <a href="../cite/Thomas/1539/Eastleach">Thomas</a>
+
+  <a href="../cite/William/1541/Eastleach">William</a>
+
+  <a href="../cite/William/1538/Eastleach">William</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>BoldonBuke</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>BoldonBuke</dt>
+  <dd>William Greenwell, editor. <em>Boldon Buke, A Survey of the Possessions of the See of Durham Made by Order of Bishop Hugh Pudsey in the year M.C.L.XXXIII</em>, volume XXV of <em>Publications of the Surtees Society</em>. Durham: George Andrews; London: Whittaker &amp; Co.; Edinburgh: William Blackwood, 1852.</dd>
+</dl>
+
+
+  <a href="../cite/Adam/1183/BoldonBuke">Adam</a>
+
+  <a href="../cite/Alexander/1183/BoldonBuke">Alexander</a>
+
+  <a href="../cite/Christianus/1183/BoldonBuke">Christianus</a>
+
+  <a href="../cite/Eustacii/1183/BoldonBuke">Eustacii</a>
+
+  <a href="../cite/Galfridus/1183/BoldonBuke">Galfridus</a>
+
+  <a href="../cite/Gilbertus/1183/BoldonBuke">Gilbertus</a>
+
+  <a href="../cite/Gualeranni/1183/BoldonBuke">Gualeranni</a>
+
+  <a href="../cite/Gualerannus/1183/BoldonBuke">Gualerannus</a>
+
+  <a href="../cite/Henrici/1183/BoldonBuke">Henrici</a>
+
+  <a href="../cite/Henricus/1183/BoldonBuke">Henricus</a>
+
+  <a href="../cite/Hugo/1183/BoldonBuke">Hugo</a>
+
+  <a href="../cite/Johannes/1183/BoldonBuke">Johannes</a>
+
+  <a href="../cite/Johannis/1183/BoldonBuke">Johannis</a>
+
+  <a href="../cite/Jordano/1183/BoldonBuke">Jordano</a>
+
+  <a href="../cite/Ketellus/1183/BoldonBuke">Ketellus</a>
+
+  <a href="../cite/Lefwyny/1183/BoldonBuke">Lefwyny</a>
+
+  <a href="../cite/Osbertus/1183/BoldonBuke">Osbertus</a>
+
+  <a href="../cite/Osmundi/1183/BoldonBuke">Osmundi</a>
+
+  <a href="../cite/Radulphus/1183/BoldonBuke">Radulphus</a>
+
+  <a href="../cite/Raginaldi/1183/BoldonBuke">Raginaldi</a>
+
+  <a href="../cite/Ricardus/1183/BoldonBuke">Ricardus</a>
+
+  <a href="../cite/Roberti/1183/BoldonBuke">Roberti</a>
+
+  <a href="../cite/Robertus/1183/BoldonBuke">Robertus</a>
+
+  <a href="../cite/Rogerus/1183/BoldonBuke">Rogerus</a>
+
+  <a href="../cite/Simon/1183/BoldonBuke">Simon</a>
+
+  <a href="../cite/Thomas/1183/BoldonBuke">Thomas</a>
+
+  <a href="../cite/Ulkilli/1183/BoldonBuke">Ulkilli</a>
+
+  <a href="../cite/Ulkillus/1183/BoldonBuke">Ulkillus</a>
+
+  <a href="../cite/Umfridi/1183/BoldonBuke">Umfridi</a>
+
+  <a href="../cite/Waltero/1183/BoldonBuke">Waltero</a>
+
+  <a href="../cite/Walterus/1183/BoldonBuke">Walterus</a>
+
+  <a href="../cite/Willelmus/1183/BoldonBuke">Willelmus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

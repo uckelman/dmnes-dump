@@ -1,0 +1,332 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>RegSASel</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>RegSASel</dt>
+  <dd>Mrs. Bulkeley-Owen and Rev. Rossendale Lloyd, editors. <em>The Register of Selattyn, Shropshire</em>, volume LVIII. Parish Register Society, 1906.</dd>
+</dl>
+
+
+  <a href="../cite/Adda/1557/RegSASel">Adda</a>
+
+  <a href="../cite/Adda/1560s1/RegSASel">Adda</a>
+
+  <a href="../cite/Agnes/1560/RegSASel">Agnes</a>
+
+  <a href="../cite/Agnes/1559/RegSASel">Agnes</a>
+
+  <a href="../cite/Ales/1558/RegSASel">Ales</a>
+
+  <a href="../cite/Ales/1559/RegSASel">Ales</a>
+
+  <a href="../cite/Ales/1557/RegSASel">Ales</a>
+
+  <a href="../cite/Ales/1560/RegSASel">Ales</a>
+
+  <a href="../cite/Anne/1560/RegSASel">Anne</a>
+
+  <a href="../cite/Blainch/1559s60/RegSASel">Blainch</a>
+
+  <a href="../cite/Dauid/1559/RegSASel">Dauid</a>
+
+  <a href="../cite/David/1560/RegSASel">David</a>
+
+  <a href="../cite/David/1559s60/RegSASel">David</a>
+
+  <a href="../cite/David/1561/RegSASel">David</a>
+
+  <a href="../cite/David/1558/RegSASel">David</a>
+
+  <a href="../cite/David/1559/RegSASel">David</a>
+
+  <a href="../cite/David/1560s1/RegSASel">David</a>
+
+  <a href="../cite/David/1557/RegSASel">David</a>
+
+  <a href="../cite/Edward/1557/RegSASel">Edward</a>
+
+  <a href="../cite/Edward/1559/RegSASel">Edward</a>
+
+  <a href="../cite/Edward/1560s1/RegSASel">Edward</a>
+
+  <a href="../cite/Edward/1558/RegSASel">Edward</a>
+
+  <a href="../cite/Elen/1560s1/RegSASel">Elen</a>
+
+  <a href="../cite/Elen/1558/RegSASel">Elen</a>
+
+  <a href="../cite/Elis/1559/RegSASel">Elis</a>
+
+  <a href="../cite/Elizabeth/1560/RegSASel">Elizabeth</a>
+
+  <a href="../cite/Elizabethe/1559/RegSASel">Elizabethe</a>
+
+  <a href="../cite/Elnor/1558s9/RegSASel">Elnor</a>
+
+  <a href="../cite/Elnor/1558/RegSASel">Elnor</a>
+
+  <a href="../cite/Elnor/1559/RegSASel">Elnor</a>
+
+  <a href="../cite/Ermine/1560/RegSASel">Ermine</a>
+
+  <a href="../cite/Gwen/1560/RegSASel">Gwen</a>
+
+  <a href="../cite/Gwenhwyvar/1559/RegSASel">Gwenhwyvar</a>
+
+  <a href="../cite/Gwenhwyvar/1560/RegSASel">Gwenhwyvar</a>
+
+  <a href="../cite/Gwenllian/1560/RegSASel">Gwenllian</a>
+
+  <a href="../cite/Howell/1557/RegSASel">Howell</a>
+
+  <a href="../cite/Howell/1560/RegSASel">Howell</a>
+
+  <a href="../cite/Howell/1560s1/RegSASel">Howell</a>
+
+  <a href="../cite/Howell/1558s9/RegSASel">Howell</a>
+
+  <a href="../cite/Howell/1557s8/RegSASel">Howell</a>
+
+  <a href="../cite/Howell/1558/RegSASel">Howell</a>
+
+  <a href="../cite/Howell/1559/RegSASel">Howell</a>
+
+  <a href="../cite/Hughe/1559s60/RegSASel">Hughe</a>
+
+  <a href="../cite/Hughe/1558/RegSASel">Hughe</a>
+
+  <a href="../cite/Hughe/1560/RegSASel">Hughe</a>
+
+  <a href="../cite/Hughe/1557/RegSASel">Hughe</a>
+
+  <a href="../cite/Jane/1559/RegSASel">Jane</a>
+
+  <a href="../cite/Jane/1560/RegSASel">Jane</a>
+
+  <a href="../cite/Jankin/1559s60/RegSASel">Jankin</a>
+
+  <a href="../cite/Jeuan/1560/RegSASel">Jeuan</a>
+
+  <a href="../cite/Jeuan/1558/RegSASel">Jeuan</a>
+
+  <a href="../cite/Jeuan/1559/RegSASel">Jeuan</a>
+
+  <a href="../cite/John/1559s60/RegSASel">John</a>
+
+  <a href="../cite/John/1558/RegSASel">John</a>
+
+  <a href="../cite/John/1560/RegSASel">John</a>
+
+  <a href="../cite/John/1557s8/RegSASel">John</a>
+
+  <a href="../cite/John/1557/RegSASel">John</a>
+
+  <a href="../cite/John/1560s1/RegSASel">John</a>
+
+  <a href="../cite/Jonet/1560/RegSASel">Jonet</a>
+
+  <a href="../cite/Katherine/1559/RegSASel">Katherine</a>
+
+  <a href="../cite/Katherine/1561/RegSASel">Katherine</a>
+
+  <a href="../cite/Katherine/1560/RegSASel">Katherine</a>
+
+  <a href="../cite/Lewis/1560s1/RegSASel">Lewis</a>
+
+  <a href="../cite/Llewelyn/1559/RegSASel">Llewelyn</a>
+
+  <a href="../cite/Llewelyn/1560s1/RegSASel">Llewelyn</a>
+
+  <a href="../cite/Llewelyn/1560/RegSASel">Llewelyn</a>
+
+  <a href="../cite/Llewelyn/1558/RegSASel">Llewelyn</a>
+
+  <a href="../cite/Llewky/1559/RegSASel">Llewky</a>
+
+  <a href="../cite/Lowrye/1560/RegSASel">Lowrye</a>
+
+  <a href="../cite/Margaret/1558s9/RegSASel">Margaret</a>
+
+  <a href="../cite/Margaret/1558/RegSASel">Margaret</a>
+
+  <a href="../cite/Margarett/1557s8/RegSASel">Margarett</a>
+
+  <a href="../cite/Margarett/1560s1/RegSASel">Margarett</a>
+
+  <a href="../cite/Margett/1560s1/RegSASel">Margett</a>
+
+  <a href="../cite/Margett/1559s60/RegSASel">Margett</a>
+
+  <a href="../cite/Margett/1560/RegSASel">Margett</a>
+
+  <a href="../cite/Margett/1559/RegSASel">Margett</a>
+
+  <a href="../cite/Mawld/1558/RegSASel">Mawld</a>
+
+  <a href="../cite/Meredith/1557/RegSASel">Meredith</a>
+
+  <a href="../cite/Meredydd/1560s1/RegSASel">Meredydd</a>
+
+  <a href="../cite/Meredydd/1559s60/RegSASel">Meredydd</a>
+
+  <a href="../cite/Meredydd/1560/RegSASel">Meredydd</a>
+
+  <a href="../cite/Meredydd/1558/RegSASel">Meredydd</a>
+
+  <a href="../cite/Meredydd/1561/RegSASel">Meredydd</a>
+
+  <a href="../cite/Meredydd/1557/RegSASel">Meredydd</a>
+
+  <a href="../cite/Meredydd/1559/RegSASel">Meredydd</a>
+
+  <a href="../cite/Moris/1560s1/RegSASel">Moris</a>
+
+  <a href="../cite/Moris/1560/RegSASel">Moris</a>
+
+  <a href="../cite/Owen/1560s1/RegSASel">Owen</a>
+
+  <a href="../cite/Owen/1560/RegSASel">Owen</a>
+
+  <a href="../cite/Owen/1558/RegSASel">Owen</a>
+
+  <a href="../cite/Owen/1558s9/RegSASel">Owen</a>
+
+  <a href="../cite/Owen/1559/RegSASel">Owen</a>
+
+  <a href="../cite/Richard/1558s9/RegSASel">Richard</a>
+
+  <a href="../cite/Richard/1561/RegSASel">Richard</a>
+
+  <a href="../cite/Richard/1559s60/RegSASel">Richard</a>
+
+  <a href="../cite/Richard/1558/RegSASel">Richard</a>
+
+  <a href="../cite/Richard/1557s8/RegSASel">Richard</a>
+
+  <a href="../cite/Richard/1560s1/RegSASel">Richard</a>
+
+  <a href="../cite/Richard/1560/RegSASel">Richard</a>
+
+  <a href="../cite/Richard/1557/RegSASel">Richard</a>
+
+  <a href="../cite/Rinald/1560/RegSASel">Rinald</a>
+
+  <a href="../cite/Rinald/1558/RegSASel">Rinald</a>
+
+  <a href="../cite/Robert/1560s1/RegSASel">Robert</a>
+
+  <a href="../cite/Robert/1557/RegSASel">Robert</a>
+
+  <a href="../cite/Robert/1560/RegSASel">Robert</a>
+
+  <a href="../cite/Robert/1558/RegSASel">Robert</a>
+
+  <a href="../cite/Robert/1559/RegSASel">Robert</a>
+
+  <a href="../cite/Robert/1559s60/RegSASel">Robert</a>
+
+  <a href="../cite/Robert/1558s9/RegSASel">Robert</a>
+
+  <a href="../cite/Roger/1560s1/RegSASel">Roger</a>
+
+  <a href="../cite/Roger/1560/RegSASel">Roger</a>
+
+  <a href="../cite/Roger/1557s8/RegSASel">Roger</a>
+
+  <a href="../cite/Roger/1561/RegSASel">Roger</a>
+
+  <a href="../cite/Roger/1558/RegSASel">Roger</a>
+
+  <a href="../cite/Rys/1559/RegSASel">Rys</a>
+
+  <a href="../cite/Rys/1560/RegSASel">Rys</a>
+
+  <a href="../cite/Sabel/1560s1/RegSASel">Sabel</a>
+
+  <a href="../cite/Thomas/1557/RegSASel">Thomas</a>
+
+  <a href="../cite/Thomas/1561/RegSASel">Thomas</a>
+
+  <a href="../cite/Thomas/1560s1/RegSASel">Thomas</a>
+
+  <a href="../cite/Thomas/1558s9/RegSASel">Thomas</a>
+
+  <a href="../cite/Thomas/1560/RegSASel">Thomas</a>
+
+  <a href="../cite/Thomas/1558/RegSASel">Thomas</a>
+
+  <a href="../cite/Thomas/1559/RegSASel">Thomas</a>
+
+  <a href="../cite/Tudyr/1560/RegSASel">Tudyr</a>
+
+  <a href="../cite/William/1560s1/RegSASel">William</a>
+
+  <a href="../cite/William/1560/RegSASel">William</a>
+
+  <a href="../cite/William/1558s9/RegSASel">William</a>
+
+  <a href="../cite/William/1558/RegSASel">William</a>
+
+  <a href="../cite/William/1559/RegSASel">William</a>
+
+  <a href="../cite/leyky/1560/RegSASel">leyky</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

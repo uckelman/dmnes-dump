@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Lothar</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Lothar</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>hlūt, lūt</i>, <span class="lang">Old Saxon</span> <i>hlūd</i> from <span class="lang">Proto-Germanic</span> <i>*hlūdaz, *hlūþaz</i> 'loud; famous, renowned' + <span class="lang">Old High German</span> <i>heri</i> 'host, army'..
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 6th C king of the Franks, two 7th C kings of the Franks, an 8th C king of the Franks, a 9th C Holy Roman Emperor and king of Italy, a 9th C king of Lotharingia, a 10th C king of Italy, a 10th C king of the Franks, and a 12th C Holy Roman Emperor.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name was sometimes conflated with <a class="nym" href="Luther">Luther</a>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c550</span> <span class="name">Clotharius</span> (<span class="case">nom</span>) <a href="../cite/Clotharius/c550/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">Add. I</span></a>;
+ <span class="date">628</span> <span class="name">Chlotarii</span> (<span class="case">gen</span>) <a href="../cite/Chlotarii/628/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCXLIV</span></a>;
+ <span class="date">657</span> <span class="name">Clotario</span> (<span class="case">abl</span>) <a href="../cite/Clotario/657/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCXXVIII</span></a>,
+ <span class="name">Clotarius</span> (<span class="case">nom</span>) <a href="../cite/Clotarius/657/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCXXIX</span></a>,
+ <span class="name">Clotharii</span> (<span class="case">gen</span>) <a href="../cite/Clotharii/657/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">658</span> <span class="name">Chlotario</span> (<span class="case">abl</span>) <a href="../cite/Chlotario/658/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">CCCXXXIII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">842</span> <span class="name">Hlotharii</span> (<span class="case">gen</span>) <a href="../cite/Hlotharii/842/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">X</span></a>;
+ <span class="date">844</span> <span class="name">Lotharij</span> (<span class="case">gen</span>) <a href="../cite/Lotharij/844/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">2</span></a>;
+ <span class="date">855</span> <span class="name">Lotharij</span> (<span class="case">nom</span>) <a href="../cite/Lotharij/855/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/855/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">856</span> <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/856/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 46</span></a>,
+ <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/856/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 46</span></a>;
+ <span class="date">858</span> <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/858/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 48</span></a>,
+ <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/858/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 48</span></a>;
+ <span class="date">864</span> <span class="name">Hlohario</span> (<span class="case">abl</span>) <a href="../cite/Hlohario/864/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">884</span> <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/884/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">2</span></a>;
+ <span class="date">888</span> <span class="name">Lotharij</span> (<span class="case">gen</span>) <a href="../cite/Lotharij/888/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>,
+ <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/888/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">930</span> <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/930/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>;
+ <span class="date">966</span> <span class="name">Lotharij</span> (<span class="case">gen</span>) <a href="../cite/Lotharij/966/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>,
+ <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/966/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1114</span> <span class="name">Liutherii</span> (<span class="case">gen</span>) <a href="../cite/Liutherii/1114/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">100b</span></a>,
+ <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/1114/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1125</span> <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/1125/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">109</span></a>;
+ <span class="date">1130</span> <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/1130/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>,
+ <span class="name">Lothario</span> (<span class="case">abl</span>) <a href="../cite/Lothario/1130/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">63</span></a>;
+ <span class="date">1134</span> <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/1134/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">97</span></a>,
+ <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/1134/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1135</span> <span class="name">Lothario</span> (<span class="case">abl</span>) <a href="../cite/Lothario/1135/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>;
+ <span class="date">1136</span> <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/1136/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>,
+ <span class="name">Lothario</span> (<span class="case">abl</span>) <a href="../cite/Lothario/1136/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">80</span></a>,
+ <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/1136/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1137</span> <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/1137/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">102</span></a>,
+ <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/1137/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">102</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">855</span> <span class="name">Lothario</span> (<span class="case">dat</span>) <a href="../cite/Lothario/855/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 44</span></a>,
+ <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/855/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 44</span></a>;
+ <span class="date">1189</span> <span class="name">Lothario</span> (<span class="case">dat</span>) <a href="../cite/Lothario/1189/ChStBo1"><span class="bib_key">ChStBo1</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Lotharium</span> (<span class="case">acc</span>) <a href="../cite/Lotharium/1189/ChStBo1"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/1189/ChStBo1"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Lotherius</span> (<span class="case">nom</span>) <a href="../cite/Lotherius/1189/ChStBo1"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">850</span> <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/850/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 41</span></a>,
+ <span class="name">Lothario</span> (<span class="case">abl</span>) <a href="../cite/Lothario/850/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 40</span></a>,
+ <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/850/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 40</span></a>;
+ <span class="date">860</span> <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/860/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 50</span></a>,
+ <span class="name">Lotharium</span> (<span class="case">acc</span>) <a href="../cite/Lotharium/860/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 50</span></a>,
+ <span class="name">Lotharius</span> (<span class="case">nom</span>) <a href="../cite/Lotharius/860/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 50</span></a>;
+ <span class="date">866</span> <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/866/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 55</span></a>;
+ <span class="date">876</span> <span class="name">Hlotharii</span> (<span class="case">gen</span>) <a href="../cite/Hlotharii/876/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 56</span></a>,
+ <span class="name">Lotharii</span> (<span class="case">gen</span>) <a href="../cite/Lotharii/876/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 56</span></a>;
+ <span class="date">882</span> <span class="name">Hlotharii</span> (<span class="case">gen</span>) <a href="../cite/Hlotharii/882/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 59</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Lothar". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Lothar.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

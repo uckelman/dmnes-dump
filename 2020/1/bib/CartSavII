@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>CartSavII</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>CartSavII</dt>
+  <dd>Auguste Bernard, editor. <em>Cartulaire de l'Abbaye de Savigny suivi du Petit Cartulaire de l'Abbaye d'Ainay</em>, volume II: Cartulaire d'Ainay, Tables, Etc. Paris: Imprimerie Impériale, 1853.</dd>
+</dl>
+
+
+  <a href="../cite/Adalfridi/989/CartSavII">Adalfridi</a>
+
+  <a href="../cite/Adalgiso/a993?/CartSavII">Adalgiso</a>
+
+  <a href="../cite/Adrevoldi/989/CartSavII">Adrevoldi</a>
+
+  <a href="../cite/Aimo/c1200/CartSavII">Aimo</a>
+
+  <a href="../cite/Amblardi/c1010/CartSavII">Amblardi</a>
+
+  <a href="../cite/Antelmi/1013/CartSavII">Antelmi</a>
+
+  <a href="../cite/Antelmi/989/CartSavII">Antelmi</a>
+
+  <a href="../cite/Antelmus/c968/CartSavII">Antelmus</a>
+
+  <a href="../cite/Antelmus/969/CartSavII">Antelmus</a>
+
+  <a href="../cite/Archimboldi/994/CartSavII">Archimboldi</a>
+
+  <a href="../cite/Ariberti/994/CartSavII">Ariberti</a>
+
+  <a href="../cite/Arnulfi/937x993/CartSavII">Arnulfi</a>
+
+  <a href="../cite/Arnulfi/969/CartSavII">Arnulfi</a>
+
+  <a href="../cite/Arnulfi/c996/CartSavII">Arnulfi</a>
+
+  <a href="../cite/Arnulfus/1013/CartSavII">Arnulfus</a>
+
+  <a href="../cite/Asterius/a993?/CartSavII">Asterius</a>
+
+  <a href="../cite/Aymo/c1150/CartSavII">Aymo</a>
+
+  <a href="../cite/Benedicta/c968/CartSavII">Benedicta</a>
+
+  <a href="../cite/Benedicte/c968/CartSavII">Benedicte</a>
+
+  <a href="../cite/Beraldi/937x993/CartSavII">Beraldi</a>
+
+  <a href="../cite/Berardi/c1000/CartSavII">Berardi</a>
+
+  <a href="../cite/Bernardi/1013/CartSavII">Bernardi</a>
+
+  <a href="../cite/Bernardus/c1150/CartSavII">Bernardus</a>
+
+  <a href="../cite/Berolt/c996/CartSavII">Berolt</a>
+
+  <a href="../cite/Chuonrado/989/CartSavII">Chuonrado</a>
+
+  <a href="../cite/Chuonrado/937x993/CartSavII">Chuonrado</a>
+
+  <a href="../cite/Constancie/989/CartSavII">Constancie</a>
+
+  <a href="../cite/Constantini/1013/CartSavII">Constantini</a>
+
+  <a href="../cite/Duranni/1000?/CartSavII">Duranni</a>
+
+  <a href="../cite/Duranni/c1000/CartSavII">Duranni</a>
+
+  <a href="../cite/Duranni/c968/CartSavII">Duranni</a>
+
+  <a href="../cite/Durannus/c1200/CartSavII">Durannus</a>
+
+  <a href="../cite/Durannus/c968/CartSavII">Durannus</a>
+
+  <a href="../cite/Eldeburgę/937x993/CartSavII">Eldeburgę</a>
+
+  <a href="../cite/Eldegardę/989/CartSavII">Eldegardę</a>
+
+  <a href="../cite/Eldegardis/1012/CartSavII">Eldegardis</a>
+
+  <a href="../cite/Eldegardis/1000?/CartSavII">Eldegardis</a>
+
+  <a href="../cite/Elpericus/969/CartSavII">Elpericus</a>
+
+  <a href="../cite/Emma/1000?/CartSavII">Emma</a>
+
+  <a href="../cite/Emma/a993?/CartSavII">Emma</a>
+
+  <a href="../cite/Emmę/a993?/CartSavII">Emmę</a>
+
+  <a href="../cite/Engelsenda/c996/CartSavII">Engelsenda</a>
+
+  <a href="../cite/Ermengardis/1000?/CartSavII">Ermengardis</a>
+
+  <a href="../cite/Gausmari/c1000/CartSavII">Gausmari</a>
+
+  <a href="../cite/Gausmari/1013/CartSavII">Gausmari</a>
+
+  <a href="../cite/Geraldi/c1010/CartSavII">Geraldi</a>
+
+  <a href="../cite/Geraldi/937x993/CartSavII">Geraldi</a>
+
+  <a href="../cite/Geraldi/1013/CartSavII">Geraldi</a>
+
+  <a href="../cite/Geraldus/c1010/CartSavII">Geraldus</a>
+
+  <a href="../cite/Geraldus/1013/CartSavII">Geraldus</a>
+
+  <a href="../cite/Girardi/1012/CartSavII">Girardi</a>
+
+  <a href="../cite/Girardi/994/CartSavII">Girardi</a>
+
+  <a href="../cite/Girardus/994/CartSavII">Girardus</a>
+
+  <a href="../cite/Giroldi/994/CartSavII">Giroldi</a>
+
+  <a href="../cite/Girolt/c996/CartSavII">Girolt</a>
+
+  <a href="../cite/Gislę/c1000/CartSavII">Gislę</a>
+
+  <a href="../cite/Gonrado/969/CartSavII">Gonrado</a>
+
+  <a href="../cite/Gonteldis/989/CartSavII">Gonteldis</a>
+
+  <a href="../cite/Grimoldi/c996/CartSavII">Grimoldi</a>
+
+  <a href="../cite/Grimoldo/c996/CartSavII">Grimoldo</a>
+
+  <a href="../cite/Helie/937x993/CartSavII">Helie</a>
+
+  <a href="../cite/Hugo/c1200/CartSavII">Hugo</a>
+
+  <a href="../cite/Ingelsenda/c996/CartSavII">Ingelsenda</a>
+
+  <a href="../cite/Johannes/c1200/CartSavII">Johannes</a>
+
+  <a href="../cite/Lambertus/c1200/CartSavII">Lambertus</a>
+
+  <a href="../cite/Leutardi/937x993/CartSavII">Leutardi</a>
+
+  <a href="../cite/Martino/c968/CartSavII">Martino</a>
+
+  <a href="../cite/Milo/1012/CartSavII">Milo</a>
+
+  <a href="../cite/Miloni/1012/CartSavII">Miloni</a>
+
+  <a href="../cite/Odo/c1200/CartSavII">Odo</a>
+
+  <a href="../cite/Otberti/989/CartSavII">Otberti</a>
+
+  <a href="../cite/Otbertus/989/CartSavII">Otbertus</a>
+
+  <a href="../cite/Otgerii/c1010/CartSavII">Otgerii</a>
+
+  <a href="../cite/Otgerii/1013/CartSavII">Otgerii</a>
+
+  <a href="../cite/Otgerius/c1010/CartSavII">Otgerius</a>
+
+  <a href="../cite/Petrus/c1150/CartSavII">Petrus</a>
+
+  <a href="../cite/Petrus/c1200/CartSavII">Petrus</a>
+
+  <a href="../cite/Pontię/c1000/CartSavII">Pontię</a>
+
+  <a href="../cite/Radulfo/c996/CartSavII">Radulfo</a>
+
+  <a href="../cite/Radulfo/932/CartSavII">Radulfo</a>
+
+  <a href="../cite/Rainaldo/932/CartSavII">Rainaldo</a>
+
+  <a href="../cite/Rainaldus/1012/CartSavII">Rainaldus</a>
+
+  <a href="../cite/Rainardus/969/CartSavII">Rainardus</a>
+
+  <a href="../cite/Rayna/1013/CartSavII">Rayna</a>
+
+  <a href="../cite/Raynaldus/c996/CartSavII">Raynaldus</a>
+
+  <a href="../cite/Raynaldus/994/CartSavII">Raynaldus</a>
+
+  <a href="../cite/Ricolfi/1013/CartSavII">Ricolfi</a>
+
+  <a href="../cite/Rodulfi/c1000/CartSavII">Rodulfi</a>
+
+  <a href="../cite/Rodulfi/989/CartSavII">Rodulfi</a>
+
+  <a href="../cite/Rodulfi/994/CartSavII">Rodulfi</a>
+
+  <a href="../cite/Rodulfi/937x993/CartSavII">Rodulfi</a>
+
+  <a href="../cite/Rodulfo/994/CartSavII">Rodulfo</a>
+
+  <a href="../cite/Rodulfo/1013/CartSavII">Rodulfo</a>
+
+  <a href="../cite/Rotgerii/932/CartSavII">Rotgerii</a>
+
+  <a href="../cite/Rotlan/c996/CartSavII">Rotlan</a>
+
+  <a href="../cite/Sazie/1012/CartSavII">Sazie</a>
+
+  <a href="../cite/Silvester/1000?/CartSavII">Silvester</a>
+
+  <a href="../cite/Silvestri/969/CartSavII">Silvestri</a>
+
+  <a href="../cite/Silvestri/1000?/CartSavII">Silvestri</a>
+
+  <a href="../cite/Stephani/c1000/CartSavII">Stephani</a>
+
+  <a href="../cite/Stephani/989/CartSavII">Stephani</a>
+
+  <a href="../cite/Stephanus/c1150/CartSavII">Stephanus</a>
+
+  <a href="../cite/Stephanus/c1000/CartSavII">Stephanus</a>
+
+  <a href="../cite/Stephanus/c1200/CartSavII">Stephanus</a>
+
+  <a href="../cite/Teotardus/c1000/CartSavII">Teotardus</a>
+
+  <a href="../cite/Teotgrimmi/c1010/CartSavII">Teotgrimmi</a>
+
+  <a href="../cite/Teothardi/c1000/CartSavII">Teothardi</a>
+
+  <a href="../cite/Teothardus/c1000/CartSavII">Teothardus</a>
+
+  <a href="../cite/Tiddardi/969/CartSavII">Tiddardi</a>
+
+  <a href="../cite/Udulbaldus/c1010/CartSavII">Udulbaldus</a>
+
+  <a href="../cite/Ugoni/1012/CartSavII">Ugoni</a>
+
+  <a href="../cite/Ugonis/c1150/CartSavII">Ugonis</a>
+
+  <a href="../cite/Valterii/1012/CartSavII">Valterii</a>
+
+  <a href="../cite/Vualcherii/a993?/CartSavII">Vualcherii</a>
+
+  <a href="../cite/Vualdradi/c996/CartSavII">Vualdradi</a>
+
+  <a href="../cite/Vuarinus/969/CartSavII">Vuarinus</a>
+
+  <a href="../cite/Vuicardi/1000?/CartSavII">Vuicardi</a>
+
+  <a href="../cite/Vuigonis/937x993/CartSavII">Vuigonis</a>
+
+  <a href="../cite/Yterius/c1150/CartSavII">Yterius</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Reinbod</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Reinbod</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Proto-Germanic</span> <i>*ragin</i> 'counsel, might' + <span class="lang">Old High German</span> <i>boto</i> 'messenger'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1354</span> <span class="name">Reimbote</span> (<span class="case">nom</span>) <a href="../cite/Reimbote/1354/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">56</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1339</span> <span class="name">Reimbot</span> (<span class="case">nom</span>) <a href="../cite/Reimbot/c1339/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1344</span> <span class="name">Reynboth</span> (<span class="case">nom</span>) <a href="../cite/Reynboth/1344/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1354</span> <span class="name">Reinboth</span> (<span class="case">nom</span>) <a href="../cite/Reinboth/1354/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">77</span></a>;
+ <span class="date">1359</span> <span class="name">Reinbots</span> (<span class="case">gen</span>) <a href="../cite/Reinbots/1359/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">699</span> <span class="name">Reginbodi</span> (<span class="case">nom</span>) <a href="../cite/Reginbodi/699/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">XI</span></a>;
+ <span class="date">1151</span> <span class="name">Regenboto</span> (<span class="case">nom</span>) <a href="../cite/Regenboto/1151/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">XXXVIII</span></a>;
+ <span class="date">1218</span> <span class="name">Rempoto</span> (<span class="case">nom</span>) <a href="../cite/Rempoto/1218/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">35</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1293</span> <span class="name">Reinbote</span> (<span class="case">nom</span>) <a href="../cite/Reinbote/1293/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">53</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1288</span> <span class="name">Regebodoni</span> (<span class="case">dat</span>) <a href="../cite/Regebodoni/1288/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">518</span></a>;
+ <span class="date">1292</span> <span class="name">Regenbodoni</span> (<span class="case">dat</span>) <a href="../cite/Regenbodoni/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">700</span></a>;
+ <span class="date">1294</span> <span class="name">Regenbodonis</span> (<span class="case">gen</span>) <a href="../cite/Regenbodonis/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">730</span></a>;
+ <span class="date">1300</span> <span class="name">Regenbodonis</span> (<span class="case">gen</span>) <a href="../cite/Regenbodonis/1300/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">407</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1332</span> <span class="name">Bodoni</span> (<span class="case">dat</span>) <a href="../cite/Bodoni/1332/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">118</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Reinbod". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Reinbod.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

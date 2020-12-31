@@ -1,0 +1,632 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>CDCB-XV</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>CDCB-XV</dt>
+  <dd>Francisco Monsalvatje y Fossas, editor. <em>Colleción Diplomática del Condado Besalú</em>. Olot: Imprenta Y Librería de Juan Bonet, 1907.</dd>
+</dl>
+
+
+  <a href="../cite/Abo/1012/CDCB-XV">Abo</a>
+
+  <a href="../cite/Abone/1010/CDCB-XV">Abone</a>
+
+  <a href="../cite/Adabertus/1011/CDCB-XV">Adabertus</a>
+
+  <a href="../cite/Adalaiz/1020/CDCB-XV">Adalaiz</a>
+
+  <a href="../cite/Adalbert/1019/CDCB-XV">Adalbert</a>
+
+  <a href="../cite/Adalberti/1192/CDCB-XV">Adalberti</a>
+
+  <a href="../cite/Adalbret/1019/CDCB-XV">Adalbret</a>
+
+  <a href="../cite/Adaleiz/1083x1086/CDCB-XV">Adaleiz</a>
+
+  <a href="../cite/Adalez/1006/CDCB-XV">Adalez</a>
+
+  <a href="../cite/Ademar/1011/CDCB-XV">Ademar</a>
+
+  <a href="../cite/Ademar/1020/CDCB-XV">Ademar</a>
+
+  <a href="../cite/Ademar/1190/CDCB-XV">Ademar</a>
+
+  <a href="../cite/Ademari/1190/CDCB-XV">Ademari</a>
+
+  <a href="../cite/Ademarus/1190/CDCB-XV">Ademarus</a>
+
+  <a href="../cite/Adilia/875/CDCB-XV">Adilia</a>
+
+  <a href="../cite/Adrolfus/889/CDCB-XV">Adrolfus</a>
+
+  <a href="../cite/Agone/899/CDCB-XV">Agone</a>
+
+  <a href="../cite/Alarici/1192/CDCB-XV">Alarici</a>
+
+  <a href="../cite/Amalricus/1192/CDCB-XV">Amalricus</a>
+
+  <a href="../cite/Amaltrud/1083x1086/CDCB-XV">Amaltrud</a>
+
+  <a href="../cite/Amil/1019/CDCB-XV">Amil</a>
+
+  <a href="../cite/Andreas/1083x1086/CDCB-XV">Andreas</a>
+
+  <a href="../cite/Arnal/1087/CDCB-XV">Arnal</a>
+
+  <a href="../cite/Arnal/1190/CDCB-XV">Arnal</a>
+
+  <a href="../cite/Arnaldus/1006/CDCB-XV">Arnaldus</a>
+
+  <a href="../cite/Arnaldus/1019/CDCB-XV">Arnaldus</a>
+
+  <a href="../cite/Arnall/1190/CDCB-XV">Arnall</a>
+
+  <a href="../cite/Arnall&#32;Guilem/1087/CDCB-XV">Arnall Guilem</a>
+
+  <a href="../cite/Arnalli/1192/CDCB-XV">Arnalli</a>
+
+  <a href="../cite/Arnalli/1190/CDCB-XV">Arnalli</a>
+
+  <a href="../cite/Arnallo/1192/CDCB-XV">Arnallo</a>
+
+  <a href="../cite/Arnallum/1192/CDCB-XV">Arnallum</a>
+
+  <a href="../cite/Arnallus/1190/CDCB-XV">Arnallus</a>
+
+  <a href="../cite/Arnallus/1192/CDCB-XV">Arnallus</a>
+
+  <a href="../cite/Baro/1019/CDCB-XV">Baro</a>
+
+  <a href="../cite/Barone/1002/CDCB-XV">Barone</a>
+
+  <a href="../cite/Benefilio/1020/CDCB-XV">Benefilio</a>
+
+  <a href="../cite/Bera/899/CDCB-XV">Bera</a>
+
+  <a href="../cite/Berard/1020/CDCB-XV">Berard</a>
+
+  <a href="../cite/Berengarii/1190/CDCB-XV">Berengarii</a>
+
+  <a href="../cite/Berengarii/1086/CDCB-XV">Berengarii</a>
+
+  <a href="../cite/Berengario/1192/CDCB-XV">Berengario</a>
+
+  <a href="../cite/Berengarius/1192/CDCB-XV">Berengarius</a>
+
+  <a href="../cite/Berengarius/1087/CDCB-XV">Berengarius</a>
+
+  <a href="../cite/Berengarius/1083/CDCB-XV">Berengarius</a>
+
+  <a href="../cite/Berenguer/1190/CDCB-XV">Berenguer</a>
+
+  <a href="../cite/Bernad/1190/CDCB-XV">Bernad</a>
+
+  <a href="../cite/Bernad&#32;Guilielm/1087/CDCB-XV">Bernad Guilielm</a>
+
+  <a href="../cite/Bernar/1020/CDCB-XV">Bernar</a>
+
+  <a href="../cite/Bernard/1019/CDCB-XV">Bernard</a>
+
+  <a href="../cite/Bernard/1087/CDCB-XV">Bernard</a>
+
+  <a href="../cite/Bernard/1020/CDCB-XV">Bernard</a>
+
+  <a href="../cite/Bernardi/1192/CDCB-XV">Bernardi</a>
+
+  <a href="../cite/Bernardi/1083/CDCB-XV">Bernardi</a>
+
+  <a href="../cite/Bernardi/1190/CDCB-XV">Bernardi</a>
+
+  <a href="../cite/Bernardo/1087/CDCB-XV">Bernardo</a>
+
+  <a href="../cite/Bernardo/1019/CDCB-XV">Bernardo</a>
+
+  <a href="../cite/Bernardo/1086/CDCB-XV">Bernardo</a>
+
+  <a href="../cite/Bernardo/1190/CDCB-XV">Bernardo</a>
+
+  <a href="../cite/Bernardo/1192/CDCB-XV">Bernardo</a>
+
+  <a href="../cite/Bernardum/1192/CDCB-XV">Bernardum</a>
+
+  <a href="../cite/Bernardum/1087/CDCB-XV">Bernardum</a>
+
+  <a href="../cite/Bernardus/1011/CDCB-XV">Bernardus</a>
+
+  <a href="../cite/Bernardus/1192/CDCB-XV">Bernardus</a>
+
+  <a href="../cite/Bernardus/1190/CDCB-XV">Bernardus</a>
+
+  <a href="../cite/Bernardus/1086/CDCB-XV">Bernardus</a>
+
+  <a href="../cite/Bernardus/11thC/CDCB-XV">Bernardus</a>
+
+  <a href="../cite/Bernardus/1019/CDCB-XV">Bernardus</a>
+
+  <a href="../cite/Bernardus/1006/CDCB-XV">Bernardus</a>
+
+  <a href="../cite/Bernardus/1083x1086/CDCB-XV">Bernardus</a>
+
+  <a href="../cite/Bernardus/1083/CDCB-XV">Bernardus</a>
+
+  <a href="../cite/Bertefred/1019/CDCB-XV">Bertefred</a>
+
+  <a href="../cite/Bertrandi/1190/CDCB-XV">Bertrandi</a>
+
+  <a href="../cite/Bertrandi/1192/CDCB-XV">Bertrandi</a>
+
+  <a href="../cite/Bertrandi/1086/CDCB-XV">Bertrandi</a>
+
+  <a href="../cite/Bertrando/1192/CDCB-XV">Bertrando</a>
+
+  <a href="../cite/Bertrandum/1192/CDCB-XV">Bertrandum</a>
+
+  <a href="../cite/Betfre/1019/CDCB-XV">Betfre</a>
+
+  <a href="../cite/Bonefilio/1022/CDCB-XV">Bonefilio</a>
+
+  <a href="../cite/Bonefilio/1014/CDCB-XV">Bonefilio</a>
+
+  <a href="../cite/Bonefilio/1020/CDCB-XV">Bonefilio</a>
+
+  <a href="../cite/Bonefilius/1006/CDCB-XV">Bonefilius</a>
+
+  <a href="../cite/Bonefilius/1019/CDCB-XV">Bonefilius</a>
+
+  <a href="../cite/Bonifilio/1019/CDCB-XV">Bonifilio</a>
+
+  <a href="../cite/Bonifilio/1192/CDCB-XV">Bonifilio</a>
+
+  <a href="../cite/Caroli/875/CDCB-XV">Caroli</a>
+
+  <a href="../cite/Chocebertus/1020/CDCB-XV">Chocebertus</a>
+
+  <a href="../cite/Dalmat/1190/CDCB-XV">Dalmat</a>
+
+  <a href="../cite/Daniel/896/CDCB-XV">Daniel</a>
+
+  <a href="../cite/Dato/898/CDCB-XV">Dato</a>
+
+  <a href="../cite/Dodo/896/CDCB-XV">Dodo</a>
+
+  <a href="../cite/Donadeo/1019/CDCB-XV">Donadeo</a>
+
+  <a href="../cite/Donadeu/1019/CDCB-XV">Donadeu</a>
+
+  <a href="../cite/Duran/1019/CDCB-XV">Duran</a>
+
+  <a href="../cite/Durandi/1190/CDCB-XV">Durandi</a>
+
+  <a href="../cite/Durando/896/CDCB-XV">Durando</a>
+
+  <a href="../cite/Ecfre/1019/CDCB-XV">Ecfre</a>
+
+  <a href="../cite/Egfred/1019/CDCB-XV">Egfred</a>
+
+  <a href="../cite/Eldovardus/898/CDCB-XV">Eldovardus</a>
+
+  <a href="../cite/Ema/1006/CDCB-XV">Ema</a>
+
+  <a href="../cite/Emam/1006/CDCB-XV">Emam</a>
+
+  <a href="../cite/Emmo/896/CDCB-XV">Emmo</a>
+
+  <a href="../cite/Emmone/875/CDCB-XV">Emmone</a>
+
+  <a href="../cite/Emmone/896/CDCB-XV">Emmone</a>
+
+  <a href="../cite/Ermengaud/1087/CDCB-XV">Ermengaud</a>
+
+  <a href="../cite/Ermesendis/1083/CDCB-XV">Ermesendis</a>
+
+  <a href="../cite/Ermesins/1022/CDCB-XV">Ermesins</a>
+
+  <a href="../cite/Ermessendis/1083/CDCB-XV">Ermessendis</a>
+
+  <a href="../cite/Ermofred/1019/CDCB-XV">Ermofred</a>
+
+  <a href="../cite/Filipi/1192/CDCB-XV">Filipi</a>
+
+  <a href="../cite/Folchoradus/1014/CDCB-XV">Folchoradus</a>
+
+  <a href="../cite/Folcran/1019/CDCB-XV">Folcran</a>
+
+  <a href="../cite/Francone/899/CDCB-XV">Francone</a>
+
+  <a href="../cite/Fruga/1006/CDCB-XV">Fruga</a>
+
+  <a href="../cite/Fulcho/1083/CDCB-XV">Fulcho</a>
+
+  <a href="../cite/Fulcran/1019/CDCB-XV">Fulcran</a>
+
+  <a href="../cite/Gaucefredi/1192/CDCB-XV">Gaucefredi</a>
+
+  <a href="../cite/Gaucefredo/1006/CDCB-XV">Gaucefredo</a>
+
+  <a href="../cite/Gauzfredum/1087/CDCB-XV">Gauzfredum</a>
+
+  <a href="../cite/Gauzfret/1087/CDCB-XV">Gauzfret</a>
+
+  <a href="../cite/Genoario/1019/CDCB-XV">Genoario</a>
+
+  <a href="../cite/Geraldus/1019/CDCB-XV">Geraldus</a>
+
+  <a href="../cite/Geralli/1190/CDCB-XV">Geralli</a>
+
+  <a href="../cite/Gersindis/1009/CDCB-XV">Gersindis</a>
+
+  <a href="../cite/Gilabertu/1006/CDCB-XV">Gilabertu</a>
+
+  <a href="../cite/Gillelmi/1192/CDCB-XV">Gillelmi</a>
+
+  <a href="../cite/Girberga/1020/CDCB-XV">Girberga</a>
+
+  <a href="../cite/Girberti/1190/CDCB-XV">Girberti</a>
+
+  <a href="../cite/Godafre/1019/CDCB-XV">Godafre</a>
+
+  <a href="../cite/Gonbert/1014/CDCB-XV">Gonbert</a>
+
+  <a href="../cite/Gotcefredus/1016/CDCB-XV">Gotcefredus</a>
+
+  <a href="../cite/Gothcefredus/1016/CDCB-XV">Gothcefredus</a>
+
+  <a href="../cite/Gotta/889/CDCB-XV">Gotta</a>
+
+  <a href="../cite/Gualtario/1192/CDCB-XV">Gualtario</a>
+
+  <a href="../cite/Guifredi/1192/CDCB-XV">Guifredi</a>
+
+  <a href="../cite/Guifret/1022/CDCB-XV">Guifret</a>
+
+  <a href="../cite/Guillelmi/1192/CDCB-XV">Guillelmi</a>
+
+  <a href="../cite/Guillelmo/1192/CDCB-XV">Guillelmo</a>
+
+  <a href="../cite/Guillelmo/1011/CDCB-XV">Guillelmo</a>
+
+  <a href="../cite/Guillelmum/1192/CDCB-XV">Guillelmum</a>
+
+  <a href="../cite/Guillelmus/1192/CDCB-XV">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1083x1086/CDCB-XV">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1190/CDCB-XV">Guillelmus</a>
+
+  <a href="../cite/Guillermi/1019/CDCB-XV">Guillermi</a>
+
+  <a href="../cite/Guillermi/1190/CDCB-XV">Guillermi</a>
+
+  <a href="../cite/Guillermi/1192/CDCB-XV">Guillermi</a>
+
+  <a href="../cite/Guillermus/1192/CDCB-XV">Guillermus</a>
+
+  <a href="../cite/Guillermus/1190/CDCB-XV">Guillermus</a>
+
+  <a href="../cite/Guitardus/1019/CDCB-XV">Guitardus</a>
+
+  <a href="../cite/Hemmone/899/CDCB-XV">Hemmone</a>
+
+  <a href="../cite/Hugo/1190/CDCB-XV">Hugo</a>
+
+  <a href="../cite/Issarnus/1014/CDCB-XV">Issarnus</a>
+
+  <a href="../cite/Jenuer/1019/CDCB-XV">Jenuer</a>
+
+  <a href="../cite/Joan/1019/CDCB-XV">Joan</a>
+
+  <a href="../cite/Johan/1019/CDCB-XV">Johan</a>
+
+  <a href="../cite/Johanne/1019/CDCB-XV">Johanne</a>
+
+  <a href="../cite/Johanne/1020/CDCB-XV">Johanne</a>
+
+  <a href="../cite/Johannes/1192/CDCB-XV">Johannes</a>
+
+  <a href="../cite/Johannes/1019/CDCB-XV">Johannes</a>
+
+  <a href="../cite/Johannes/1012/CDCB-XV">Johannes</a>
+
+  <a href="../cite/Johannis/1190/CDCB-XV">Johannis</a>
+
+  <a href="../cite/Johannis/1192/CDCB-XV">Johannis</a>
+
+  <a href="../cite/Jolius/1011/CDCB-XV">Jolius</a>
+
+  <a href="../cite/Karulo/898/CDCB-XV">Karulo</a>
+
+  <a href="../cite/Karulo/896/CDCB-XV">Karulo</a>
+
+  <a href="../cite/Karulo/899/CDCB-XV">Karulo</a>
+
+  <a href="../cite/Languard/1014/CDCB-XV">Languard</a>
+
+  <a href="../cite/Languardo/1019/CDCB-XV">Languardo</a>
+
+  <a href="../cite/Ledgardis/1012/CDCB-XV">Ledgardis</a>
+
+  <a href="../cite/Leudevici/896/CDCB-XV">Leudevici</a>
+
+  <a href="../cite/Leuzegardis/1012/CDCB-XV">Leuzegardis</a>
+
+  <a href="../cite/Longuardo/898/CDCB-XV">Longuardo</a>
+
+  <a href="../cite/Ludevicho/898/CDCB-XV">Ludevicho</a>
+
+  <a href="../cite/Ludovico/899/CDCB-XV">Ludovico</a>
+
+  <a href="../cite/Ludovigo/896/CDCB-XV">Ludovigo</a>
+
+  <a href="../cite/Margarita/915/CDCB-XV">Margarita</a>
+
+  <a href="../cite/Marti/1019/CDCB-XV">Marti</a>
+
+  <a href="../cite/Martino/1019/CDCB-XV">Martino</a>
+
+  <a href="../cite/Natalia/889/CDCB-XV">Natalia</a>
+
+  <a href="../cite/Oddone/889/CDCB-XV">Oddone</a>
+
+  <a href="../cite/Odegario/1020/CDCB-XV">Odegario</a>
+
+  <a href="../cite/Odger/1012/CDCB-XV">Odger</a>
+
+  <a href="../cite/Odo/1016/CDCB-XV">Odo</a>
+
+  <a href="../cite/Odulina/889/CDCB-XV">Odulina</a>
+
+  <a href="../cite/Oliba/1006/CDCB-XV">Oliba</a>
+
+  <a href="../cite/Olibane/1006/CDCB-XV">Olibane</a>
+
+  <a href="../cite/Oreca/889/CDCB-XV">Oreca</a>
+
+  <a href="../cite/Oreka/889/CDCB-XV">Oreka</a>
+
+  <a href="../cite/Orreka/889/CDCB-XV">Orreka</a>
+
+  <a href="../cite/Otonis/1192/CDCB-XV">Otonis</a>
+
+  <a href="../cite/Pere/1190/CDCB-XV">Pere</a>
+
+  <a href="../cite/Petri/1086/CDCB-XV">Petri</a>
+
+  <a href="../cite/Petri/1083/CDCB-XV">Petri</a>
+
+  <a href="../cite/Petri/1087/CDCB-XV">Petri</a>
+
+  <a href="../cite/Petro/1192/CDCB-XV">Petro</a>
+
+  <a href="../cite/Petrucio/889/CDCB-XV">Petrucio</a>
+
+  <a href="../cite/Petrum/1192/CDCB-XV">Petrum</a>
+
+  <a href="../cite/Petrus/1192/CDCB-XV">Petrus</a>
+
+  <a href="../cite/Petrus/1083/CDCB-XV">Petrus</a>
+
+  <a href="../cite/Petrus/1011/CDCB-XV">Petrus</a>
+
+  <a href="../cite/Petrus/1087/CDCB-XV">Petrus</a>
+
+  <a href="../cite/Petrus/1020/CDCB-XV">Petrus</a>
+
+  <a href="../cite/Philipi/1190/CDCB-XV">Philipi</a>
+
+  <a href="../cite/Philipo/1087/CDCB-XV">Philipo</a>
+
+  <a href="../cite/Philippi/1086/CDCB-XV">Philippi</a>
+
+  <a href="../cite/Poncii/1190/CDCB-XV">Poncii</a>
+
+  <a href="../cite/Poncii/1087/CDCB-XV">Poncii</a>
+
+  <a href="../cite/Poncii/1192/CDCB-XV">Poncii</a>
+
+  <a href="../cite/Poncio/1016/CDCB-XV">Poncio</a>
+
+  <a href="../cite/Pontio/1192/CDCB-XV">Pontio</a>
+
+  <a href="../cite/Qualtario/875/CDCB-XV">Qualtario</a>
+
+  <a href="../cite/Radberto/1002/CDCB-XV">Radberto</a>
+
+  <a href="../cite/Radevertus/1006/CDCB-XV">Radevertus</a>
+
+  <a href="../cite/Radevertus/1010/CDCB-XV">Radevertus</a>
+
+  <a href="../cite/Radulfi/1192/CDCB-XV">Radulfi</a>
+
+  <a href="../cite/Raimundi/1192/CDCB-XV">Raimundi</a>
+
+  <a href="../cite/Raimundi/1190/CDCB-XV">Raimundi</a>
+
+  <a href="../cite/Raimundi/1083/CDCB-XV">Raimundi</a>
+
+  <a href="../cite/Raimundi/1087/CDCB-XV">Raimundi</a>
+
+  <a href="../cite/Raimundus/1192/CDCB-XV">Raimundus</a>
+
+  <a href="../cite/Rainard/1020/CDCB-XV">Rainard</a>
+
+  <a href="../cite/Ramun/1019/CDCB-XV">Ramun</a>
+
+  <a href="../cite/Ramun/1087/CDCB-XV">Ramun</a>
+
+  <a href="../cite/Raudeberto/1011/CDCB-XV">Raudeberto</a>
+
+  <a href="../cite/Raudebertus/1016/CDCB-XV">Raudebertus</a>
+
+  <a href="../cite/Raymundum/1192/CDCB-XV">Raymundum</a>
+
+  <a href="../cite/Recosindo/899/CDCB-XV">Recosindo</a>
+
+  <a href="../cite/Reimoundo/1022/CDCB-XV">Reimoundo</a>
+
+  <a href="../cite/Reimundi/1190/CDCB-XV">Reimundi</a>
+
+  <a href="../cite/Reimundo/1019/CDCB-XV">Reimundo</a>
+
+  <a href="../cite/Reimundus/1020/CDCB-XV">Reimundus</a>
+
+  <a href="../cite/Reinardus/1019/CDCB-XV">Reinardus</a>
+
+  <a href="../cite/Remundi/1192/CDCB-XV">Remundi</a>
+
+  <a href="../cite/Remundus/1192/CDCB-XV">Remundus</a>
+
+  <a href="../cite/Renaldus/899/CDCB-XV">Renaldus</a>
+
+  <a href="../cite/Renardus/1012/CDCB-XV">Renardus</a>
+
+  <a href="../cite/Ricardi/1083/CDCB-XV">Ricardi</a>
+
+  <a href="../cite/Richards/1006/CDCB-XV">Richards</a>
+
+  <a href="../cite/Richardum/11thC/CDCB-XV">Richardum</a>
+
+  <a href="../cite/Richardus/11thC/CDCB-XV">Richardus</a>
+
+  <a href="../cite/Richildes/896/CDCB-XV">Richildes</a>
+
+  <a href="../cite/Richulfo/1022/CDCB-XV">Richulfo</a>
+
+  <a href="../cite/Rihcosindus/899/CDCB-XV">Rihcosindus</a>
+
+  <a href="../cite/Roberto/1014/CDCB-XV">Roberto</a>
+
+  <a href="../cite/Roberto/1022/CDCB-XV">Roberto</a>
+
+  <a href="../cite/Roberto/1009/CDCB-XV">Roberto</a>
+
+  <a href="../cite/Rodberto/1012/CDCB-XV">Rodberto</a>
+
+  <a href="../cite/Rodberto/1006/CDCB-XV">Rodberto</a>
+
+  <a href="../cite/Rodberto/1019/CDCB-XV">Rodberto</a>
+
+  <a href="../cite/Rodberto/1020/CDCB-XV">Rodberto</a>
+
+  <a href="../cite/Sabaricus/1010/CDCB-XV">Sabaricus</a>
+
+  <a href="../cite/Sala/1014/CDCB-XV">Sala</a>
+
+  <a href="../cite/Salamon/896/CDCB-XV">Salamon</a>
+
+  <a href="../cite/Samson/1019/CDCB-XV">Samson</a>
+
+  <a href="../cite/Samson/875/CDCB-XV">Samson</a>
+
+  <a href="../cite/Sancia/1190/CDCB-XV">Sancia</a>
+
+  <a href="../cite/Savarico/1019/CDCB-XV">Savarico</a>
+
+  <a href="../cite/Savaricus/1006/CDCB-XV">Savaricus</a>
+
+  <a href="../cite/Savaricus/1019/CDCB-XV">Savaricus</a>
+
+  <a href="../cite/Savarigo/1019/CDCB-XV">Savarigo</a>
+
+  <a href="../cite/Segario/1020/CDCB-XV">Segario</a>
+
+  <a href="../cite/Segarius/1019/CDCB-XV">Segarius</a>
+
+  <a href="../cite/Seger/1011/CDCB-XV">Seger</a>
+
+  <a href="../cite/Segfred/1019/CDCB-XV">Segfred</a>
+
+  <a href="../cite/Senteldes/898/CDCB-XV">Senteldes</a>
+
+  <a href="../cite/Sentildes/875/CDCB-XV">Sentildes</a>
+
+  <a href="../cite/Sicfre/1019/CDCB-XV">Sicfre</a>
+
+  <a href="../cite/Stephani/1083/CDCB-XV">Stephani</a>
+
+  <a href="../cite/Susanna/875/CDCB-XV">Susanna</a>
+
+  <a href="../cite/Tota/1006/CDCB-XV">Tota</a>
+
+  <a href="../cite/Udalardi/1083/CDCB-XV">Udalardi</a>
+
+  <a href="../cite/Udalardus/1083/CDCB-XV">Udalardus</a>
+
+  <a href="../cite/Ugo/896/CDCB-XV">Ugo</a>
+
+  <a href="../cite/Ugone/1006/CDCB-XV">Ugone</a>
+
+  <a href="../cite/Ugonis/1190/CDCB-XV">Ugonis</a>
+
+  <a href="../cite/Urbanus/11thC/CDCB-XV">Urbanus</a>
+
+  <a href="../cite/Wilem/1087/CDCB-XV">Wilem</a>
+
+  <a href="../cite/Wilielmus/1087/CDCB-XV">Wilielmus</a>
+
+  <a href="../cite/Wiliem&#32;Ramun/1087/CDCB-XV">Wiliem Ramun</a>
+
+  <a href="../cite/Willelmus/1020/CDCB-XV">Willelmus</a>
+
+  <a href="../cite/Willermi/1083/CDCB-XV">Willermi</a>
+
+  <a href="../cite/bernard/1011/CDCB-XV">bernard</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

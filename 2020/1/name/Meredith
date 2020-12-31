@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Meredith</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Meredith</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Middle Welsh</span> <i>mawr</i> 'great, noble' + <span class="lang">Old Breton</span>, <span class="lang">Middle Welsh</span> <i>iud</i> 'prince, lord'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of various 10th-12th C Welsh princes.</p>
+</div>
+  
+  
+<div class="def">
+  <p>For the Latinized forms ending in <i>-duc-</i>, see <span class="key">MorganMorgan</span> <span class="loc">s.n. Maredudd</span>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1281</span> <span class="name">Mereduco</span> (<span class="case">abl</span>) <a href="../cite/Mereduco/1281/CHAMont-1"><span class="bib_key">CHAMont-1</span> <span class="bib_loc">p. 45</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1557</span> <span class="name">Meredith</span> <a href="../cite/Meredith/1557/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Meredydd</span> <a href="../cite/Meredydd/1557/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1558</span> <span class="name">Meredydd</span> <a href="../cite/Meredydd/1558/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1559</span> <span class="name">Meredydd</span> <a href="../cite/Meredydd/1559/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1559/60</span> <span class="name">Meredydd</span> <a href="../cite/Meredydd/1559s60/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1560</span> <span class="name">Meredydd</span> <a href="../cite/Meredydd/1560/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1560/1</span> <span class="name">Meredydd</span> <a href="../cite/Meredydd/1560s1/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1561</span> <span class="name">Meredydd</span> <a href="../cite/Meredydd/1561/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1592</span> <span class="name">Meredith</span> <a href="../cite/Meredith/1592/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1593/4</span> <span class="name">Meredith</span> <a href="../cite/Meredith/1593s4/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 121</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1198</span> <span class="name">Maredut</span> (<span class="case">gen</span>) <a href="../cite/Maredut/1198/Pryce-1st"><span class="bib_key">Pryce-1st</span> <span class="bib_loc">no. 8</span></a>,
+ <span class="name">Meredyth</span> (<span class="case">abl</span>) <a href="../cite/Meredyth/1198/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 5</span></a>;
+ <span class="date">1216xc1226</span> <span class="name">Maredud</span> (<span class="case">nom</span>) <a href="../cite/Maredud/1216xc1226/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16</span></a>,
+ <span class="name">Mareduth</span> (<span class="case">nom</span>) <a href="../cite/Mareduth/1216xc1226/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16</span></a>;
+ <span class="date">1223</span> <span class="name">Mereduc</span> (<span class="case">nom</span>) <a href="../cite/Mereduc/1223/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19</span></a>,
+ <span class="name">Mereduc'</span> (<span class="case">nom</span>) <a href="../cite/Mereduc'/1223/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 20</span></a>;
+ <span class="date">1247</span> <span class="name">Maredut</span> (<span class="case">nom</span>) <a href="../cite/Maredut/1247/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 228</span></a>;
+ <span class="date">1360</span> <span class="name">Meredydd</span> (<span class="case">nom</span>) <a href="../cite/Meredydd/1360/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 165</span></a>;
+ <span class="date">1452</span> <span class="name">Meredith</span> (<span class="case">nom</span>) <a href="../cite/Meredith/1452/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1453</span> <span class="name">Meredith</span> (<span class="case">nom</span>) <a href="../cite/Meredith/1453/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 70</span></a>;
+ <span class="date">1454</span> <span class="name">Meredith</span> (<span class="case">nom</span>) <a href="../cite/Meredith/1454/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1455</span> <span class="name">Meredith</span> (<span class="case">nom</span>) <a href="../cite/Meredith/1455/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 258</span></a>;
+ <span class="date">1456</span> <span class="name">Meredith</span> (<span class="case">nom</span>) <a href="../cite/Meredith/1456/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 258</span></a>;
+ <span class="date">1497</span> <span class="name">Mereddith</span> (<span class="case">nom</span>) <a href="../cite/Mereddith/1497/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 107</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Meredith". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Meredith.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

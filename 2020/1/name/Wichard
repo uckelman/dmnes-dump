@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Wichard</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Wichard</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Saxon</span> <i>wig</i>, <span class="lang">Old High German</span> <i>wīc</i> 'war, battle' + <span class="lang">Old Saxon</span> <i>hard</i>, <span class="lang">Old High German</span> <i>hart</i> 'strong, hard'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1070</span> <span class="name">Wichart</span> (<span class="case">nom</span>) <a href="../cite/Wichart/c1070/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">69</span></a>;
+ <span class="date">1237</span> <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1237/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">96</span></a>;
+ <span class="date">1268</span> <span class="name">Weichardus</span> (<span class="case">nom</span>) <a href="../cite/Weichardus/1268/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">197</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1050</span> <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1050/CRS-2-5"><span class="bib_key">CRS-2-5</span> <span class="bib_loc">p. 232</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1356</span> <span class="name">Wicardo</span> (<span class="case">dat</span>) <a href="../cite/Wicardo/1356/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">150</span></a>;
+ <span class="date">1386</span> <span class="name">Wychardi</span> (<span class="case">gen</span>) <a href="../cite/Wychardi/1386/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 13</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1279–80</span> <span class="name">Wychard</span> (<span class="case">nom</span>) <a href="../cite/Wychard/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 85</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">862x876</span> <span class="name">Wicardi</span> (<span class="case">gen</span>) <a href="../cite/Wicardi/862x876/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1000?</span> <span class="name">Vuicardi</span> (<span class="case">gen</span>) <a href="../cite/Vuicardi/1000?/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1135</span> <span class="name">Wichardo</span> (<span class="case">abl</span>) <a href="../cite/Wichardo/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Wichardi</span> (<span class="case">gen</span>) <a href="../cite/Wichardi/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">79</span></a>,
+ <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">79</span></a>;
+ <span class="date">1147</span> <span class="name">Guicardo</span> (<span class="case">abl</span>) <a href="../cite/Guicardo/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Guichardo</span> (<span class="case">abl</span>) <a href="../cite/Guichardo/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Guichardus</span> (<span class="case">nom</span>) <a href="../cite/Guichardus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Wicardo</span> (<span class="case">abl</span>) <a href="../cite/Wicardo/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Wicardus</span> (<span class="case">nom</span>) <a href="../cite/Wicardus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Guichardus</span> (<span class="case">nom</span>) <a href="../cite/Guichardus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>;
+ <span class="date">1164</span> <span class="name">Guichardus</span> (<span class="case">nom</span>) <a href="../cite/Guichardus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">122</span></a>;
+ <span class="date">1168</span> <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1168/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">134</span></a>;
+ <span class="date">1171</span> <span class="name">Guichardus</span> (<span class="case">nom</span>) <a href="../cite/Guichardus/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">142</span></a>;
+ <span class="date">1174</span> <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1174/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">160</span></a>;
+ <span class="date">1179</span> <span class="name">Vichardus</span> (<span class="case">nom</span>) <a href="../cite/Vichardus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">175</span></a>,
+ <span class="name">Wichardi</span> (<span class="case">gen</span>) <a href="../cite/Wichardi/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1187</span> <span class="name">Wicardi</span> (<span class="case">gen</span>) <a href="../cite/Wicardi/1187/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LVII</span></a>;
+ <span class="date">1196</span> <span class="name">Wichardo</span> (<span class="case">abl</span>) <a href="../cite/Wichardo/1196/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXIV</span></a>,
+ <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1196/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXXIX</span></a>;
+ <span class="date">1300</span> <span class="name">Guichardi</span> (<span class="case">gen</span>) <a href="../cite/Guichardi/1300/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">382</span></a>;
+ <span class="date">1301</span> <span class="name">Wicardus</span> (<span class="case">nom</span>) <a href="../cite/Wicardus/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 207</span></a>,
+ <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 229</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">Guichart</span> (<span class="case">obl</span>) <a href="../cite/Guichart/1301/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1307</span> <span class="name">Guichars</span> (<span class="case">nom</span>) <a href="../cite/Guichars/1307/ArchReimsII1"><span class="bib_key">ibid.</span> <span class="bib_loc">LX</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Guichart</span> <a href="../cite/Guichart/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 610</span></a>;
+ <span class="date">1415[1469x1471]</span> <span class="name">Guichard</span> <a href="../cite/Guichard/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 224</span></a>,
+ <span class="name">Wicard</span> <a href="../cite/Wicard/1415[1469x1471]/Waurin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 225</span></a>;
+ <span class="date">1540</span> <span class="name">Guichard</span> <a href="../cite/Guichard/1540/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 14</span></a>;
+ <span class="date">1541</span> <span class="name">Guichard</span> <a href="../cite/Guichard/1541/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 15</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Wichardo</span> (<span class="case">abl</span>) <a href="../cite/Wichardo/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§46</span></a>;
+ <span class="date">1219</span> <span class="name">Wicardum</span> (<span class="case">acc</span>) <a href="../cite/Wicardum/1219/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">41</span></a>;
+ <span class="date">1264</span> <span class="name">Wicardo</span> (<span class="case">abl</span>) <a href="../cite/Wicardo/1264/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">200</span></a>;
+ <span class="date">1282</span> <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1282/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. LXXV</span></a>;
+ <span class="date">1283</span> <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1283/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. LXXX</span></a>;
+ <span class="date">1287</span> <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1287/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. LXXXII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1138</span> <span class="name">Wicarde</span> (<span class="case">voc</span>) <a href="../cite/Wicarde/1138/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 330</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1288</span> <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1288/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. LXXXIV</span></a>;
+ <span class="date">1289</span> <span class="name">Wichardo</span> (<span class="case">abl</span>) <a href="../cite/Wichardo/1289/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. LXXXVII</span></a>,
+ <span class="name">Wichardum</span> (<span class="case">acc</span>) <a href="../cite/Wichardum/1289/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. LXXXVII</span></a>,
+ <span class="name">Wichardus</span> (<span class="case">nom</span>) <a href="../cite/Wichardus/1289/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. LXXXVI</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Wichard". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Wichard.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

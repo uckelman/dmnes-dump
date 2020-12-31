@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Roland</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Roland</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Saxon</span> <i>hrōth</i>, <span class="lang">Old High German</span> <i>hruod</i> 'fame' + <span class="lang">Old High German</span> <i>lant</i>, <span class="lang">Old Saxon</span> <i>land</i> 'land'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an 11th C king of Galloway and a 12th C saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The popularity of the name in the later Middle Ages was influenced by the 8th C Frankish military leader and peer of Charlemagne by this name, who appeared in some of the most important and widely spread courtly literature. <i>Orlando</i> is the Italian form.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1355</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1355/AM6"><span class="bib_key">AM6</span> <span class="bib_loc">p. 6</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1408</span> <span class="name">Roeland</span> (<span class="case">nom</span>) <a href="../cite/Roeland/1408/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1413</span> <span class="name">Roeland</span> (<span class="case">nom</span>) <a href="../cite/Roeland/1413/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1414</span> <span class="name">Roeland</span> (<span class="case">nom</span>) <a href="../cite/Roeland/1414/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1474</span> <span class="name">Roeland</span> (<span class="case">nom</span>) <a href="../cite/Roeland/1474/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1483</span> <span class="name">Roland</span> (<span class="case">nom</span>) <a href="../cite/Roland/1483/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1487</span> <span class="name">Roeland</span> (<span class="case">nom</span>) <a href="../cite/Roeland/1487/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Roeland</span> <a href="../cite/Roeland/1510/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 52 [sic]</span></a>;
+ <span class="date">1512</span> <span class="name">Roeland</span> <a href="../cite/Roeland/1512/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53 [sic]</span></a>;
+ <span class="date">1513</span> <span class="name">Roeland</span> <a href="../cite/Roeland/1513/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54 [sic]</span></a>;
+ <span class="date">1597x1598</span> <span class="name">Roelandt</span> <a href="../cite/Roelandt/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 335</span></a>,
+ <span class="name">Roelandts</span> (<span class="case">gen</span>) <a href="../cite/Roelandts/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 326</span></a>,
+ <span class="name">Roelant</span> <a href="../cite/Roelant/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 354</span></a>,
+ <span class="name">Roelants</span> (<span class="case">gen</span>) <a href="../cite/Roelants/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1340xc1450</span> <span class="name">Rollondi</span> (<span class="case">gen</span>) <a href="../cite/Rollondi/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Roulandus</span> (<span class="case">nom</span>) <a href="../cite/Roulandus/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1552</span> <span class="name">Rowlandus</span> (<span class="case">nom</span>) <a href="../cite/Rowlandus/1552/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1563</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1563/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1564</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1564/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1566</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1566/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1567</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1567/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1568</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1568/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Rolandus</span> (<span class="case">nom</span>) <a href="../cite/Rolandus/1568/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1576</span> <span class="name">Roelandus</span> (<span class="case">nom</span>) <a href="../cite/Roelandus/1576/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Santvoort</span></a></dd>
+<dt><span class="lang">Anglo-French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1245–1250[1586]</span> <span class="name">Rouland</span> <a href="../cite/Rouland/1245–1250[1586]/Glover"><span class="bib_key">Glover</span> <span class="bib_loc">156</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1590</span> <span class="name">Roelant</span> <a href="../cite/Roelant/1590/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Deckere</span></a>;
+ <span class="date">1595</span> <span class="name">Roelandt</span> <a href="../cite/Roelandt/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Veltman</span></a>;
+ <span class="date">1596</span> <span class="name">Roelant</span> <a href="../cite/Roelant/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Veltman</span></a>;
+ <span class="date">1597</span> <span class="name">Roelant</span> <a href="../cite/Roelant/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Veltman</span></a>;
+ <span class="date">1599</span> <span class="name">Rolant</span> <a href="../cite/Rolant/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Veltman</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1526</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1526/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXVII</span></a>;
+ <span class="date">1530</span> <span class="name">Roland</span> <a href="../cite/Roland/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 38</span></a>,
+ <span class="name">Rolland</span> <a href="../cite/Rolland/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84</span></a>;
+ <span class="date">1544</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1544/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1556/57</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1556s57/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1564</span> <span class="name">Rowlyn</span> <a href="../cite/Rowlyn/1564/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1569</span> <span class="name">Rowlande</span> <a href="../cite/Rowlande/1569/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 143</span></a>;
+ <span class="date">1571</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1571/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1572/3</span> <span class="name">Rowlande</span> <a href="../cite/Rowlande/1572s3/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 163</span></a>;
+ <span class="date">1573</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1573/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1576</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1576/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1579</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1579/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1583</span> <span class="name">Roland</span> <a href="../cite/Roland/1583/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1583/4</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1583s4/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 28</span></a>,
+ <span class="name">Rowlande</span> <a href="../cite/Rowlande/1583s4/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1584</span> <span class="name">Roland</span> <a href="../cite/Roland/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Rowland</span> <a href="../cite/Rowland/1584/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 191</span></a>;
+ <span class="date">1585</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1585/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1586</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1586/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1590</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1590/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1591</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1591/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1593</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1593/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1595</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1599</span> <span class="name">Rowland</span> <a href="../cite/Rowland/1599/DU-DSMMar"><span class="bib_key">DU-DSMMar</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1567</span> <span class="name">Roland</span> <a href="../cite/Roland/1567/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Rolant</span> <a href="../cite/Rolant/1567/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Rollant</span> <a href="../cite/Rollant/1567/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1568</span> <span class="name">Roelant</span> <a href="../cite/Roelant/1568/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1569</span> <span class="name">Rolland</span> <a href="../cite/Rolland/1569/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1569/70</span> <span class="name">Rolland</span> <a href="../cite/Rolland/1569s70/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1570</span> <span class="name">Rolland</span> <a href="../cite/Rolland/1570/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1573</span> <span class="name">Roland</span> <a href="../cite/Roland/1573/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1584</span> <span class="name">Rolin</span> <a href="../cite/Rolin/1584/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 18</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1593</span> <span class="name">Rolin</span> <a href="../cite/Rolin/1593/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 27</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1434</span> <span class="name">Rolant</span> <a href="../cite/Rolant/1434/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 356</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814</span> <span class="name">Rodolandus</span> (<span class="case">nom</span>) <a href="../cite/Rodolandus/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">G7</span></a>;
+ <span class="date">937x93</span> <span class="name">Rollandi</span> (<span class="case">gen</span>) <a href="../cite/Rollandi/937x93/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 80</span></a>;
+ <span class="date">c996</span> <span class="name">Rotlan</span> (<span class="case">nom</span>) <a href="../cite/Rotlan/c996/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1054</span> <span class="name">Rolandus</span> (<span class="case">nom</span>) <a href="../cite/Rolandus/1054/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">693</span></a>;
+ <span class="date">1055</span> <span class="name">Rotlandus</span> (<span class="case">nom</span>) <a href="../cite/Rotlandus/1055/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">739</span></a>;
+ <span class="date">1059</span> <span class="name">Rodlandus</span> (<span class="case">nom</span>) <a href="../cite/Rodlandus/1059/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">687</span></a>;
+ <span class="date">1143</span> <span class="name">Rollandi</span> (<span class="case">gen</span>) <a href="../cite/Rollandi/1143/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1147</span> <span class="name">Rolannus</span> (<span class="case">nom</span>) <a href="../cite/Rolannus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Rollannus</span> (<span class="case">nom</span>) <a href="../cite/Rollannus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1147x62</span> <span class="name">Rollanni</span> (<span class="case">gen</span>) <a href="../cite/Rollanni/1147x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Rolandus</span> (<span class="case">nom</span>) <a href="../cite/Rolandus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">46</span></a>,
+ <span class="name">Rolannus</span> (<span class="case">nom</span>) <a href="../cite/Rolannus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>,
+ <span class="name">Rollandi</span> (<span class="case">gen</span>) <a href="../cite/Rollandi/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>,
+ <span class="name">Rollandus</span> (<span class="case">nom</span>) <a href="../cite/Rollandus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>;
+ <span class="date">1153</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1153/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1163</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">99</span></a>,
+ <span class="name">Rolanni</span> (<span class="case">gen</span>) <a href="../cite/Rolanni/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1171</span> <span class="name">Rollandus</span> (<span class="case">nom</span>) <a href="../cite/Rollandus/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">140</span></a>;
+ <span class="date">1179</span> <span class="name">Rollandum</span> (<span class="case">acc</span>) <a href="../cite/Rollandum/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">180</span></a>,
+ <span class="name">Rollandus</span> (<span class="case">nom</span>) <a href="../cite/Rollandus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">175</span></a>;
+ <span class="date">1364</span> <span class="name">Rollandi</span> (<span class="case">gen</span>) <a href="../cite/Rollandi/1364/ActsCharlesV"><span class="bib_key">ActsCharlesV</span> <span class="bib_loc">no. 34</span></a>;
+ <span class="date">1378</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">759</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Rolant</span> <a href="../cite/Rolant/1292/1292paris"><span class="bib_key">1292paris</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1296</span> <span class="name">Rolant</span> <a href="../cite/Rolant/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1297</span> <span class="name">Rollant</span> (<span class="case">obl</span>) <a href="../cite/Rollant/1297/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 136</span></a>;
+ <span class="date">1313</span> <span class="name">Rollant</span> <a href="../cite/Rollant/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 27</span></a>,
+ <span class="name">Rollent</span> <a href="../cite/Rollent/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 104</span></a>,
+ <span class="name">Roulant</span> <a href="../cite/Roulant/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1327</span> <span class="name">Rouland</span> <a href="../cite/Rouland/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 193</span></a>,
+ <span class="name">Roulland</span> <a href="../cite/Roulland/1327/MemDocMan-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 194</span></a>,
+ <span class="name">Roullant</span> <a href="../cite/Roullant/1327/MemDocMan-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 194</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Rolant</span> <a href="../cite/Rolant/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 615</span></a>,
+ <span class="name">Rollan</span> <a href="../cite/Rollan/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 618</span></a>;
+ <span class="date">1418</span> <span class="name">Raoulant</span> <a href="../cite/Raoulant/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 214</span></a>,
+ <a href="../cite/Raoulant/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 388</span></a>;
+ <span class="date">1562</span> <span class="name">Rolant</span> <a href="../cite/Rolant/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1565</span> <span class="name">Rouland</span> <a href="../cite/Rouland/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 189</span></a>;
+ <span class="date">1567</span> <span class="name">Rouland</span> <a href="../cite/Rouland/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 352</span></a>;
+ <span class="date">1568</span> <span class="name">Rouland</span> <a href="../cite/Rouland/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 366</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1354</span> <span class="name">Rolin</span> <a href="../cite/Rolin/1354/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DLX</span></a>;
+ <span class="date">1392</span> <span class="name">Rolin</span> <a href="../cite/Rolin/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 608</span></a>;
+ <span class="date">1404</span> <span class="name">Rolin</span> <a href="../cite/Rolin/1404/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 4</span></a>;
+ <span class="date">1421</span> <span class="name">Rolet</span> <a href="../cite/Rolet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1191</span></a>;
+ <span class="date">1438</span> <span class="name">Rolet</span> <a href="../cite/Rolet/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">550</span></a>,
+ <span class="name">Rolin</span> <a href="../cite/Rolin/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">390</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1157</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1157/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">44</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1099</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1099/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">624</span></a>;
+ <span class="date">1164</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1164/SDE3"><span class="bib_key">SDE3</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1285</span> <span class="name">Orlandi</span> (<span class="case">gen</span>) <a href="../cite/Orlandi/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 160</span></a>;
+ <span class="date">1310</span> <span class="name">Rolandus</span> (<span class="case">nom</span>) <a href="../cite/Rolandus/1310/MonRav-2"><span class="bib_key">MonRav-2</span> <span class="bib_loc">CCCL</span></a>;
+ <span class="date">1376</span> <span class="name">Rolando</span> (<span class="case">abl</span>) <a href="../cite/Rolando/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 96</span></a>;
+ <span class="date">1464</span> <span class="name">Rolandus</span> (<span class="case">nom</span>) <a href="../cite/Rolandus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Orlandus</span> (<span class="case">nom</span>) <a href="../cite/Orlandus/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 57, 20</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1189</span> <span class="name">Rolandini</span> (<span class="case">gen</span>) <a href="../cite/Rolandini/1189/ChStBo1"><span class="bib_key">ChStBo1</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1285</span> <span class="name">Orlandini</span> (<span class="case">gen</span>) <a href="../cite/Orlandini/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 160</span></a>,
+ <span class="name">Orlandutii</span> (<span class="case">gen</span>) <a href="../cite/Orlandutii/1285/Perugia1285"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 160</span></a>;
+ <span class="date">1304</span> <span class="name">Orlandinum</span> (<span class="case">acc</span>) <a href="../cite/Orlandinum/1304/AnnMin6"><span class="bib_key">AnnMin6</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1367</span> <span class="name">Orlandini</span> (<span class="case">gen</span>) <a href="../cite/Orlandini/1367/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">164</span></a>,
+ <span class="name">Orlandinus</span> (<span class="case">nom</span>) <a href="../cite/Orlandinus/1367/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">163</span></a>;
+ <span class="date">1368</span> <span class="name">Orlandini</span> (<span class="case">gen</span>) <a href="../cite/Orlandini/1368/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">204</span></a>;
+ <span class="date">1369</span> <span class="name">Orlandino</span> (<span class="case">abl</span>) <a href="../cite/Orlandino/1369/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">254</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1286</span> <span class="name">Rolekinus</span> (<span class="case">nom</span>) <a href="../cite/Rolekinus/1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">1020</span></a>;
+ <span class="date">1289</span> <span class="name">Rolekino</span> (<span class="case">dat</span>) <a href="../cite/Rolekino/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">559</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1324</span> <span class="name">Rolandus</span> (<span class="case">nom</span>) <a href="../cite/Rolandus/1324/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 298</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1594</span> <span class="name">Roels</span> (<span class="case">gen</span>) <a href="../cite/Roels/1594/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1595</span> <span class="name">Roels</span> (<span class="case">gen</span>) <a href="../cite/Roels/1595/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1459</span> <span class="name">Orlando</span> (<span class="case">abl</span>) <a href="../cite/Orlando/1459/CDP2-2"><span class="bib_key">CDP2-2</span> <span class="bib_loc">CCCCXII</span></a>,
+ <span class="name">Orlanij</span> (<span class="case">gen</span>) <a href="../cite/Orlanij/1459/CDP2-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCCXII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1427</span> <span class="name">Rolandi</span> (<span class="case">gen</span>) <a href="../cite/Rolandi/1427/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">105</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1490</span> <span class="name">Rhothlandus</span> (<span class="case">nom</span>) <a href="../cite/Rhothlandus/1490/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 48</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">14thCx1478</span> <span class="name">Roleti</span> (<span class="case">gen</span>) <a href="../cite/Roleti/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(176)</span></a>,
+ <span class="name">Roletum</span> (<span class="case">acc</span>) <a href="../cite/Roletum/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(209)</span></a>,
+ <span class="name">Roletus</span> (<span class="case">nom</span>) <a href="../cite/Roletus/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(10)</span></a>;
+ <span class="date">1343</span> <span class="name">Roletus</span> (<span class="case">nom</span>) <a href="../cite/Roletus/1343/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(157)</span></a>;
+ <span class="date">1348</span> <span class="name">Rolini</span> (<span class="case">gen</span>) <a href="../cite/Rolini/1348/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DXI</span></a>;
+ <span class="date">1352</span> <span class="name">Roleto</span> (<span class="case">abl</span>) <a href="../cite/Roleto/1352/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXLVII</span></a>,
+ <span class="name">Roletus</span> (<span class="case">nom</span>) <a href="../cite/Roletus/1352/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXLVII</span></a>;
+ <span class="date">1354</span> <span class="name">Roletus</span> (<span class="case">nom</span>) <a href="../cite/Roletus/1354/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DLIX</span></a>;
+ <span class="date">1401</span> <span class="name">Roletum</span> (<span class="case">acc</span>) <a href="../cite/Roletum/1401/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">470</span></a>;
+ <span class="date">1432</span> <span class="name">Roletus</span> (<span class="case">nom</span>) <a href="../cite/Roletus/1432/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">479</span></a>;
+ <span class="date">1432/3</span> <span class="name">Roletus</span> (<span class="case">nom</span>) <a href="../cite/Roletus/1432s3/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">480</span></a>;
+ <span class="date">1438</span> <span class="name">Roletus</span> (<span class="case">nom</span>) <a href="../cite/Roletus/1438/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">212</span></a>;
+ <span class="date">1476</span> <span class="name">Roletus</span> (<span class="case">nom</span>) <a href="../cite/Roletus/1476/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">243</span></a>;
+ <span class="date">1502</span> <span class="name">Roleti</span> (<span class="case">gen</span>) <a href="../cite/Roleti/1502/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">275</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1350</span> <span class="name">Rolin</span> <a href="../cite/Rolin/1350/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DXXVIII</span></a>;
+ <span class="date">1494</span> <span class="name">Rolet</span> <a href="../cite/Rolet/1494/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">258</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Rowlandi</span> (<span class="case">gen</span>) <a href="../cite/Rowlandi/1582/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 36</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Pepe, J. Uckelman, S.L. Uckelman. "Roland". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Roland.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

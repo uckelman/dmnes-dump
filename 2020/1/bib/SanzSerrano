@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>SanzSerrano</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>SanzSerrano</dt>
+  <dd>María Jesús Sanz Serrano. <em>El gremio de plateros sevillano: 1344-1867</em>. Secretariado de Publicaciones de la Universidad de Sevilla, 1991.</dd>
+</dl>
+
+
+  <a href="../cite/Albaro/1567/SanzSerrano">Albaro</a>
+
+  <a href="../cite/Alfonso/1376/SanzSerrano">Alfonso</a>
+
+  <a href="../cite/Alonso/1376/SanzSerrano">Alonso</a>
+
+  <a href="../cite/Alonso/1540/SanzSerrano">Alonso</a>
+
+  <a href="../cite/Alonso/1567/SanzSerrano">Alonso</a>
+
+  <a href="../cite/Alvaro/1567/SanzSerrano">Alvaro</a>
+
+  <a href="../cite/Andres/1567/SanzSerrano">Andres</a>
+
+  <a href="../cite/Antonio/1540/SanzSerrano">Antonio</a>
+
+  <a href="../cite/Antonio/1567/SanzSerrano">Antonio</a>
+
+  <a href="../cite/Antonyo/1567/SanzSerrano">Antonyo</a>
+
+  <a href="../cite/Bernardo/1567/SanzSerrano">Bernardo</a>
+
+  <a href="../cite/Cristobal/1567/SanzSerrano">Cristobal</a>
+
+  <a href="../cite/Diego/1567/SanzSerrano">Diego</a>
+
+  <a href="../cite/Diego/1540/SanzSerrano">Diego</a>
+
+  <a href="../cite/Fernán/1540/SanzSerrano">Fernán</a>
+
+  <a href="../cite/Fernando/1376/SanzSerrano">Fernando</a>
+
+  <a href="../cite/Fernando/1567/SanzSerrano">Fernando</a>
+
+  <a href="../cite/Francisco/1540/SanzSerrano">Francisco</a>
+
+  <a href="../cite/Francisco/1567/SanzSerrano">Francisco</a>
+
+  <a href="../cite/Gaspar/1567/SanzSerrano">Gaspar</a>
+
+  <a href="../cite/Gonçalo/1567/SanzSerrano">Gonçalo</a>
+
+  <a href="../cite/Gonçalo/1540/SanzSerrano">Gonçalo</a>
+
+  <a href="../cite/Gonzalo/1376/SanzSerrano">Gonzalo</a>
+
+  <a href="../cite/Guillen/1376/SanzSerrano">Guillen</a>
+
+  <a href="../cite/Gutierre/1376/SanzSerrano">Gutierre</a>
+
+  <a href="../cite/Hernando/1567/SanzSerrano">Hernando</a>
+
+  <a href="../cite/Joseph/1567/SanzSerrano">Joseph</a>
+
+  <a href="../cite/Juan/1567/SanzSerrano">Juan</a>
+
+  <a href="../cite/Juan/1540/SanzSerrano">Juan</a>
+
+  <a href="../cite/Juan/1376/SanzSerrano">Juan</a>
+
+  <a href="../cite/Luis/1540/SanzSerrano">Luis</a>
+
+  <a href="../cite/Martín/1540/SanzSerrano">Martín</a>
+
+  <a href="../cite/Martin/1567/SanzSerrano">Martin</a>
+
+  <a href="../cite/Melchor/1567/SanzSerrano">Melchor</a>
+
+  <a href="../cite/Miguel/1567/SanzSerrano">Miguel</a>
+
+  <a href="../cite/Pedro/1376/SanzSerrano">Pedro</a>
+
+  <a href="../cite/Pedro/1540/SanzSerrano">Pedro</a>
+
+  <a href="../cite/Pedro/1567/SanzSerrano">Pedro</a>
+
+  <a href="../cite/Pero/1567/SanzSerrano">Pero</a>
+
+  <a href="../cite/Rodrigo/1540/SanzSerrano">Rodrigo</a>
+
+  <a href="../cite/Salbador/1567/SanzSerrano">Salbador</a>
+
+  <a href="../cite/Sancho/1376/SanzSerrano">Sancho</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

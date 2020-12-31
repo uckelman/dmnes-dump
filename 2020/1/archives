@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Archives — Dictionary of Medieval Names from European Sources</title>
+  <link rel="icon" type="image/png" href="static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="about">About</a></li>
+        <li><a href="names">Browse</a></li>
+        <li><a href="guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<h1>Archives</h1>
+<p>These archives contain historical editions of the <i>Dictionary</i>, to ensure the persistence and stability of citations.<p/>
+<ul>
+  <!-- TOP -->
+  <li><a href="http://dmnes.org/2020/1">2020 Number 1</a> (31 December 2020)</li>
+  <li><a href="http://dmnes.org/2019/1">2019 Number 1</a> (26 December 2019)</li>
+  <li><a href="http://dmnes.org/2018/1">2018 Number 1</a> (20 June 2018)</li>
+  <li><a href="http://dmnes.org/2017/1">2017 Number 1</a> (27 August 2017)</li>
+  <li><a href="http://dmnes.org/2016/4">2016 Number 4</a> (7 October 2016)</li>
+  <li><a href="http://dmnes.org/2016/3">2016 Number 3</a> (17 July 2016)</li>
+  <li><a href="http://dmnes.org/2016/2">2016 Number 2</a> (6 April 2016)</li>
+  <li><a href="http://dmnes.org/2016/1">2016 Number 1</a> (2 January 2016)</li>
+  <li><a href="http://dmnes.org/2015/3">2015 Number 3</a> (4 October 2015)</li>
+  <li><a href="http://dmnes.org/2015/2">2015 Number 2</a> (30 June 2015)</li>
+  <li><a href="http://dmnes.org/2015/1">2015 Number 1</a> (27 April 2015)</li>
+</ul>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="archives">Archives</a></li>
+        <li><a href="contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,1110 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>CartStPC</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>CartStPC</dt>
+  <dd>M. Guérard, editor. <em>Cartulaire de l'Abbaye de Saint-Père de Chartres</em>, volume II of <em>Collection des Cartulaires de France</em>. Paris: Imprimerie de Crapelet, 1840.</dd>
+</dl>
+
+
+  <a href="../cite/Adam/1101x1129/CartStPC">Adam</a>
+
+  <a href="../cite/Adela/a1089x1101/CartStPC">Adela</a>
+
+  <a href="../cite/Adelarde/a1116/CartStPC">Adelarde</a>
+
+  <a href="../cite/Adelardus/1101x1120/CartStPC">Adelardus</a>
+
+  <a href="../cite/Adelardus/1101x1129/CartStPC">Adelardus</a>
+
+  <a href="../cite/Adelardus/a1114/CartStPC">Adelardus</a>
+
+  <a href="../cite/Adele/a1089x1101/CartStPC">Adele</a>
+
+  <a href="../cite/Adelonis/1115x1149/CartStPC">Adelonis</a>
+
+  <a href="../cite/Agathe/1127/CartStPC">Agathe</a>
+
+  <a href="../cite/Aimerici/1127/CartStPC">Aimerici</a>
+
+  <a href="../cite/Aimerici/1107/CartStPC">Aimerici</a>
+
+  <a href="../cite/Ainardus/1029x1033/CartStPC">Ainardus</a>
+
+  <a href="../cite/Alberici/1101x1120/CartStPC">Alberici</a>
+
+  <a href="../cite/Albericus/1101x1120/CartStPC">Albericus</a>
+
+  <a href="../cite/Albertus/1029x1033/CartStPC">Albertus</a>
+
+  <a href="../cite/Alburge/1101x1129/CartStPC">Alburge</a>
+
+  <a href="../cite/Alburgis/1101x1129/CartStPC">Alburgis</a>
+
+  <a href="../cite/Alcherius/a1116/CartStPC">Alcherius</a>
+
+  <a href="../cite/Alcherius/1115x1149/CartStPC">Alcherius</a>
+
+  <a href="../cite/Alcherius/1101x1129/CartStPC">Alcherius</a>
+
+  <a href="../cite/Alo/1079x1101/CartStPC">Alo</a>
+
+  <a href="../cite/Alo/1101x1129/CartStPC">Alo</a>
+
+  <a href="../cite/Amalricus/1101x1129/CartStPC">Amalricus</a>
+
+  <a href="../cite/Amalricus/1130x1150/CartStPC">Amalricus</a>
+
+  <a href="../cite/Amaurici/a1114/CartStPC">Amaurici</a>
+
+  <a href="../cite/Amauricus/1115x1149/CartStPC">Amauricus</a>
+
+  <a href="../cite/Andreas/1102x1144/CartStPC">Andreas</a>
+
+  <a href="../cite/Andreas/1130x1150/CartStPC">Andreas</a>
+
+  <a href="../cite/Ansello/1093/CartStPC">Ansello</a>
+
+  <a href="../cite/Ansoldi/1107/CartStPC">Ansoldi</a>
+
+  <a href="../cite/Ansoldi/1102x1144/CartStPC">Ansoldi</a>
+
+  <a href="../cite/Ansoldi/1115x1149/CartStPC">Ansoldi</a>
+
+  <a href="../cite/Ansoldi/1127/CartStPC">Ansoldi</a>
+
+  <a href="../cite/Ansoldo/1127/CartStPC">Ansoldo</a>
+
+  <a href="../cite/Ansoldus/1102x1144/CartStPC">Ansoldus</a>
+
+  <a href="../cite/Ansoldus/1107/CartStPC">Ansoldus</a>
+
+  <a href="../cite/Ansoldus/1101x1129/CartStPC">Ansoldus</a>
+
+  <a href="../cite/Ansoldus/1101x1120/CartStPC">Ansoldus</a>
+
+  <a href="../cite/Ansoldus/a1116/CartStPC">Ansoldus</a>
+
+  <a href="../cite/Arnaldo/1101x1129/CartStPC">Arnaldo</a>
+
+  <a href="../cite/Arnulfi/1013x1033/CartStPC">Arnulfi</a>
+
+  <a href="../cite/Arnulfus/1029x1033/CartStPC">Arnulfus</a>
+
+  <a href="../cite/Arnulfus/1101x1129/CartStPC">Arnulfus</a>
+
+  <a href="../cite/Arnulfus/1013x1033/CartStPC">Arnulfus</a>
+
+  <a href="../cite/Arnulphus/1101x1129/CartStPC">Arnulphus</a>
+
+  <a href="../cite/Arroldus/a1108/CartStPC">Arroldus</a>
+
+  <a href="../cite/Arroldus/1090x1101/CartStPC">Arroldus</a>
+
+  <a href="../cite/Arroldus/1107/CartStPC">Arroldus</a>
+
+  <a href="../cite/Ascelinus/1029x1033/CartStPC">Ascelinus</a>
+
+  <a href="../cite/Balduini/1115x1149/CartStPC">Balduini</a>
+
+  <a href="../cite/Balduino/1107/CartStPC">Balduino</a>
+
+  <a href="../cite/Balduinus/a1108/CartStPC">Balduinus</a>
+
+  <a href="../cite/Bartholomeo/1101x1129/CartStPC">Bartholomeo</a>
+
+  <a href="../cite/Bartholomeus/a1089x1101/CartStPC">Bartholomeus</a>
+
+  <a href="../cite/Bartholomeus/1090x1101/CartStPC">Bartholomeus</a>
+
+  <a href="../cite/Berardus/1029x1033/CartStPC">Berardus</a>
+
+  <a href="../cite/Berengarius/1101x1129/CartStPC">Berengarius</a>
+
+  <a href="../cite/Berengerius/1107/CartStPC">Berengerius</a>
+
+  <a href="../cite/Beringerius/1029x1033/CartStPC">Beringerius</a>
+
+  <a href="../cite/Beringerius/1101x1120/CartStPC">Beringerius</a>
+
+  <a href="../cite/Bernardi/1101x1129/CartStPC">Bernardi</a>
+
+  <a href="../cite/Bernardi/a1116/CartStPC">Bernardi</a>
+
+  <a href="../cite/Bernardus/1126/CartStPC">Bernardus</a>
+
+  <a href="../cite/Bernardus/1090x1101/CartStPC">Bernardus</a>
+
+  <a href="../cite/Bernerius/1130x1150/CartStPC">Bernerius</a>
+
+  <a href="../cite/Berta/1107/CartStPC">Berta</a>
+
+  <a href="../cite/Brithardus/1115x1149/CartStPC">Brithardus</a>
+
+  <a href="../cite/Christiano/1101x1129/CartStPC">Christiano</a>
+
+  <a href="../cite/Christianus/1107/CartStPC">Christianus</a>
+
+  <a href="../cite/Christianus/a1108/CartStPC">Christianus</a>
+
+  <a href="../cite/Christianus/1101x1129/CartStPC">Christianus</a>
+
+  <a href="../cite/Clemente/1101x1129/CartStPC">Clemente</a>
+
+  <a href="../cite/Constantio/1107/CartStPC">Constantio</a>
+
+  <a href="../cite/Cristoforus/1029x1033/CartStPC">Cristoforus</a>
+
+  <a href="../cite/Dodo/1101x1129/CartStPC">Dodo</a>
+
+  <a href="../cite/Dodo/1079x1101/CartStPC">Dodo</a>
+
+  <a href="../cite/Drogo/1107/CartStPC">Drogo</a>
+
+  <a href="../cite/Dudonem/1130x1150/CartStPC">Dudonem</a>
+
+  <a href="../cite/Durandus/a1108/CartStPC">Durandus</a>
+
+  <a href="../cite/Durandus/1090x1101/CartStPC">Durandus</a>
+
+  <a href="../cite/Durandus/1029x1033/CartStPC">Durandus</a>
+
+  <a href="../cite/Ebrardo/1101x1129/CartStPC">Ebrardo</a>
+
+  <a href="../cite/Ebrardus/1101x1129/CartStPC">Ebrardus</a>
+
+  <a href="../cite/Elisabeth/a1114/CartStPC">Elisabeth</a>
+
+  <a href="../cite/Elysabeth/a1114/CartStPC">Elysabeth</a>
+
+  <a href="../cite/Erembertus/a1116/CartStPC">Erembertus</a>
+
+  <a href="../cite/Ermeline/1101x1129/CartStPC">Ermeline</a>
+
+  <a href="../cite/Ermengardem/1101x1129/CartStPC">Ermengardem</a>
+
+  <a href="../cite/Ernaldi/1093/CartStPC">Ernaldi</a>
+
+  <a href="../cite/Ernaldus/1101x1129/CartStPC">Ernaldus</a>
+
+  <a href="../cite/Ernaldus/1101x1120/CartStPC">Ernaldus</a>
+
+  <a href="../cite/Ernaldus/a1116/CartStPC">Ernaldus</a>
+
+  <a href="../cite/Ernaldus/1115x1149/CartStPC">Ernaldus</a>
+
+  <a href="../cite/Ernaldus/1107/CartStPC">Ernaldus</a>
+
+  <a href="../cite/Ernulfus/1107/CartStPC">Ernulfus</a>
+
+  <a href="../cite/Ernulfus/1130x1150/CartStPC">Ernulfus</a>
+
+  <a href="../cite/Eustachii/1093/CartStPC">Eustachii</a>
+
+  <a href="../cite/Eustachio/1079x1101/CartStPC">Eustachio</a>
+
+  <a href="../cite/Eustachio/1101x1129/CartStPC">Eustachio</a>
+
+  <a href="../cite/Eustachius/1090x1101/CartStPC">Eustachius</a>
+
+  <a href="../cite/Eustachius/a1089x1101/CartStPC">Eustachius</a>
+
+  <a href="../cite/Frodo/1029x1033/CartStPC">Frodo</a>
+
+  <a href="../cite/Fulberti/1029x1033/CartStPC">Fulberti</a>
+
+  <a href="../cite/Fulberti/a1108/CartStPC">Fulberti</a>
+
+  <a href="../cite/Fulbertus/a1108/CartStPC">Fulbertus</a>
+
+  <a href="../cite/Fulbertus/1029x1033/CartStPC">Fulbertus</a>
+
+  <a href="../cite/Fulbertus/1101x1129/CartStPC">Fulbertus</a>
+
+  <a href="../cite/Fulbertus/a1116/CartStPC">Fulbertus</a>
+
+  <a href="../cite/Fulcaldus/a1116/CartStPC">Fulcaldus</a>
+
+  <a href="../cite/Fulchardus/1101x1129/CartStPC">Fulchardus</a>
+
+  <a href="../cite/Fulchardus/1107/CartStPC">Fulchardus</a>
+
+  <a href="../cite/Fulcho/1107/CartStPC">Fulcho</a>
+
+  <a href="../cite/Fulchonis/1107/CartStPC">Fulchonis</a>
+
+  <a href="../cite/Fulco/1101x1129/CartStPC">Fulco</a>
+
+  <a href="../cite/Fulconis/1101x1129/CartStPC">Fulconis</a>
+
+  <a href="../cite/Fulconis/a1089x1101/CartStPC">Fulconis</a>
+
+  <a href="../cite/Galonis/a1108/CartStPC">Galonis</a>
+
+  <a href="../cite/Galterii/a1114/CartStPC">Galterii</a>
+
+  <a href="../cite/Galterio/1107/CartStPC">Galterio</a>
+
+  <a href="../cite/Galterius/1126/CartStPC">Galterius</a>
+
+  <a href="../cite/Galterius/1107/CartStPC">Galterius</a>
+
+  <a href="../cite/Galterius/1079x1101/CartStPC">Galterius</a>
+
+  <a href="../cite/Galterius/1101x1120/CartStPC">Galterius</a>
+
+  <a href="../cite/Garini/1090x1101/CartStPC">Garini</a>
+
+  <a href="../cite/Garino/1107/CartStPC">Garino</a>
+
+  <a href="../cite/Garinus/1101x1129/CartStPC">Garinus</a>
+
+  <a href="../cite/Garinus/1127/CartStPC">Garinus</a>
+
+  <a href="../cite/Garinus/1079x1101/CartStPC">Garinus</a>
+
+  <a href="../cite/Garinus/1090x1101/CartStPC">Garinus</a>
+
+  <a href="../cite/Garinus/1115x1149/CartStPC">Garinus</a>
+
+  <a href="../cite/Garinus/a1108/CartStPC">Garinus</a>
+
+  <a href="../cite/Garinus/a1116/CartStPC">Garinus</a>
+
+  <a href="../cite/Gaufredus/1029x1033/CartStPC">Gaufredus</a>
+
+  <a href="../cite/Gaufridi/1127/CartStPC">Gaufridi</a>
+
+  <a href="../cite/Gaufridi/1102x1144/CartStPC">Gaufridi</a>
+
+  <a href="../cite/Gaufridi/a1116/CartStPC">Gaufridi</a>
+
+  <a href="../cite/Gaufrido/1117/CartStPC">Gaufrido</a>
+
+  <a href="../cite/Gaufrido/1130/CartStPC">Gaufrido</a>
+
+  <a href="../cite/Gaufrido/1127/CartStPC">Gaufrido</a>
+
+  <a href="../cite/Gaufrido/1079x1101/CartStPC">Gaufrido</a>
+
+  <a href="../cite/Gaufrido/1101x1129/CartStPC">Gaufrido</a>
+
+  <a href="../cite/Gaufrido/1107/CartStPC">Gaufrido</a>
+
+  <a href="../cite/Gaufridus/a1108/CartStPC">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1126/CartStPC">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1115x1149/CartStPC">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1127/CartStPC">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1101x1129/CartStPC">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/1107/CartStPC">Gaufridus</a>
+
+  <a href="../cite/Gaufridus/a1116/CartStPC">Gaufridus</a>
+
+  <a href="../cite/Gausbertus/1029x1033/CartStPC">Gausbertus</a>
+
+  <a href="../cite/Gausbertus/1107/CartStPC">Gausbertus</a>
+
+  <a href="../cite/Gausfrido/1101x1129/CartStPC">Gausfrido</a>
+
+  <a href="../cite/Gausfridus/1107/CartStPC">Gausfridus</a>
+
+  <a href="../cite/Gausleni/1079x1101/CartStPC">Gausleni</a>
+
+  <a href="../cite/Gausleno/1079x1101/CartStPC">Gausleno</a>
+
+  <a href="../cite/Gauslenus/1079x1101/CartStPC">Gauslenus</a>
+
+  <a href="../cite/Gauslenus/1115x1149/CartStPC">Gauslenus</a>
+
+  <a href="../cite/Gauslini/1107/CartStPC">Gauslini</a>
+
+  <a href="../cite/Gauslino/1107/CartStPC">Gauslino</a>
+
+  <a href="../cite/Gauslinus/1090x1101/CartStPC">Gauslinus</a>
+
+  <a href="../cite/Gauslinus/1130x1150/CartStPC">Gauslinus</a>
+
+  <a href="../cite/Gauslinus/1107/CartStPC">Gauslinus</a>
+
+  <a href="../cite/Gauterii/1115x1149/CartStPC">Gauterii</a>
+
+  <a href="../cite/Gauterio/1107/CartStPC">Gauterio</a>
+
+  <a href="../cite/Gauterio/1115x1149/CartStPC">Gauterio</a>
+
+  <a href="../cite/Gauterius/1115x1149/CartStPC">Gauterius</a>
+
+  <a href="../cite/Gelduinus/1029x1033/CartStPC">Gelduinus</a>
+
+  <a href="../cite/Gilduini/1101x1129/CartStPC">Gilduini</a>
+
+  <a href="../cite/Gilduinus/1079x1101/CartStPC">Gilduinus</a>
+
+  <a href="../cite/Gilduinus/1107/CartStPC">Gilduinus</a>
+
+  <a href="../cite/Gilduinus/a1114/CartStPC">Gilduinus</a>
+
+  <a href="../cite/Gillebertus/1126/CartStPC">Gillebertus</a>
+
+  <a href="../cite/Gilo/1101x1129/CartStPC">Gilo</a>
+
+  <a href="../cite/Giraldus/1101x1129/CartStPC">Giraldus</a>
+
+  <a href="../cite/Girardi/1107/CartStPC">Girardi</a>
+
+  <a href="../cite/Girardo/1101x1129/CartStPC">Girardo</a>
+
+  <a href="../cite/Girardus/1029x1033/CartStPC">Girardus</a>
+
+  <a href="../cite/Girardus/1107/CartStPC">Girardus</a>
+
+  <a href="../cite/Girberti/1107/CartStPC">Girberti</a>
+
+  <a href="../cite/Girbertus/1130x1150/CartStPC">Girbertus</a>
+
+  <a href="../cite/Giroldi/1079x1101/CartStPC">Giroldi</a>
+
+  <a href="../cite/Giroldus/1079x1101/CartStPC">Giroldus</a>
+
+  <a href="../cite/Gisbertus/1101x1129/CartStPC">Gisbertus</a>
+
+  <a href="../cite/Gisleberto/1079x1101/CartStPC">Gisleberto</a>
+
+  <a href="../cite/Gisleberto/1115x1149/CartStPC">Gisleberto</a>
+
+  <a href="../cite/Gislebertus/1126/CartStPC">Gislebertus</a>
+
+  <a href="../cite/Gislebertus/1079x1101/CartStPC">Gislebertus</a>
+
+  <a href="../cite/Gislebertus/1101x1129/CartStPC">Gislebertus</a>
+
+  <a href="../cite/Gislebertus/1107/CartStPC">Gislebertus</a>
+
+  <a href="../cite/Gislebertus/a1108/CartStPC">Gislebertus</a>
+
+  <a href="../cite/Gislebertus/1130x1150/CartStPC">Gislebertus</a>
+
+  <a href="../cite/Godefridus/a1089x1101/CartStPC">Godefridus</a>
+
+  <a href="../cite/Godescaldi/1107/CartStPC">Godescaldi</a>
+
+  <a href="../cite/Godescaldo/1107/CartStPC">Godescaldo</a>
+
+  <a href="../cite/Godescaldum/1107/CartStPC">Godescaldum</a>
+
+  <a href="../cite/Godescalli/1101x1129/CartStPC">Godescalli</a>
+
+  <a href="../cite/Godescalli/1102x1144/CartStPC">Godescalli</a>
+
+  <a href="../cite/Godescallus/1101x1129/CartStPC">Godescallus</a>
+
+  <a href="../cite/Godeschaldi/1107/CartStPC">Godeschaldi</a>
+
+  <a href="../cite/Godeschaldum/1107/CartStPC">Godeschaldum</a>
+
+  <a href="../cite/Godeschaldus/1107/CartStPC">Godeschaldus</a>
+
+  <a href="../cite/Godeschalli/1115x1149/CartStPC">Godeschalli</a>
+
+  <a href="../cite/Godeschallus/1115x1149/CartStPC">Godeschallus</a>
+
+  <a href="../cite/Godeschallus/a1116/CartStPC">Godeschallus</a>
+
+  <a href="../cite/Godeschallus/1079x1101/CartStPC">Godeschallus</a>
+
+  <a href="../cite/Goisbertus/1115x1149/CartStPC">Goisbertus</a>
+
+  <a href="../cite/Gosbertus/1101x1129/CartStPC">Gosbertus</a>
+
+  <a href="../cite/Gosbertus/1130x1150/CartStPC">Gosbertus</a>
+
+  <a href="../cite/Gosbertus/1115x1149/CartStPC">Gosbertus</a>
+
+  <a href="../cite/Goslinus/1107/CartStPC">Goslinus</a>
+
+  <a href="../cite/Grimoldus/a1108/CartStPC">Grimoldus</a>
+
+  <a href="../cite/Grossini/1101x1129/CartStPC">Grossini</a>
+
+  <a href="../cite/Gualo/1079x1101/CartStPC">Gualo</a>
+
+  <a href="../cite/Gualterio/1079x1101/CartStPC">Gualterio</a>
+
+  <a href="../cite/Gualterio/1127/CartStPC">Gualterio</a>
+
+  <a href="../cite/Gualterius/a1108/CartStPC">Gualterius</a>
+
+  <a href="../cite/Gualterius/1107/CartStPC">Gualterius</a>
+
+  <a href="../cite/Gualterius/1102x1144/CartStPC">Gualterius</a>
+
+  <a href="../cite/Gualterius/a1116/CartStPC">Gualterius</a>
+
+  <a href="../cite/Gualterius/1101x1129/CartStPC">Gualterius</a>
+
+  <a href="../cite/Gualterius/1115x1149/CartStPC">Gualterius</a>
+
+  <a href="../cite/Gualterius/1029x1033/CartStPC">Gualterius</a>
+
+  <a href="../cite/Guarino/1107/CartStPC">Guarino</a>
+
+  <a href="../cite/Guarinus/1029x1033/CartStPC">Guarinus</a>
+
+  <a href="../cite/Guarinus/1090x1101/CartStPC">Guarinus</a>
+
+  <a href="../cite/Guerrici/1079x1101/CartStPC">Guerrici</a>
+
+  <a href="../cite/Guerricus/1130x1150/CartStPC">Guerricus</a>
+
+  <a href="../cite/Guido/1101x1129/CartStPC">Guido</a>
+
+  <a href="../cite/Guido/1107/CartStPC">Guido</a>
+
+  <a href="../cite/Guido/a1089x1101/CartStPC">Guido</a>
+
+  <a href="../cite/Guido/1126/CartStPC">Guido</a>
+
+  <a href="../cite/Guidone/1101x1129/CartStPC">Guidone</a>
+
+  <a href="../cite/Guillelmi/1101x1120/CartStPC">Guillelmi</a>
+
+  <a href="../cite/Guillelmi/1127/CartStPC">Guillelmi</a>
+
+  <a href="../cite/Guillelmo/1101x1129/CartStPC">Guillelmo</a>
+
+  <a href="../cite/Guillelmo/1127/CartStPC">Guillelmo</a>
+
+  <a href="../cite/Guillelmo/1196s97/CartStPC">Guillelmo</a>
+
+  <a href="../cite/Guillelmus/a1124/CartStPC">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1115x1149/CartStPC">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1101x1120/CartStPC">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1101x1129/CartStPC">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1107/CartStPC">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1127/CartStPC">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1126/CartStPC">Guillelmus</a>
+
+  <a href="../cite/Guineberto/1101x1129/CartStPC">Guineberto</a>
+
+  <a href="../cite/Guinebertus/1101x1129/CartStPC">Guinebertus</a>
+
+  <a href="../cite/Guinefredus/1029x1033/CartStPC">Guinefredus</a>
+
+  <a href="../cite/Gumbaldo/1079x1101/CartStPC">Gumbaldo</a>
+
+  <a href="../cite/Gumbertus/1029x1033/CartStPC">Gumbertus</a>
+
+  <a href="../cite/Gunterius/1101x1129/CartStPC">Gunterius</a>
+
+  <a href="../cite/Gunterius/a1116/CartStPC">Gunterius</a>
+
+  <a href="../cite/Haimerici/1107/CartStPC">Haimerici</a>
+
+  <a href="../cite/Haimericus/a1114/CartStPC">Haimericus</a>
+
+  <a href="../cite/Haimericus/1029x1033/CartStPC">Haimericus</a>
+
+  <a href="../cite/Haimo/1107/CartStPC">Haimo</a>
+
+  <a href="../cite/Hainardo/1101x1129/CartStPC">Hainardo</a>
+
+  <a href="../cite/Haldrici/1029x1033/CartStPC">Haldrici</a>
+
+  <a href="../cite/Haldricus/1029x1033/CartStPC">Haldricus</a>
+
+  <a href="../cite/Harduini/1101x1129/CartStPC">Harduini</a>
+
+  <a href="../cite/Harduino/1101x1129/CartStPC">Harduino</a>
+
+  <a href="../cite/Harduinus/1079x1101/CartStPC">Harduinus</a>
+
+  <a href="../cite/Henricus/1126/CartStPC">Henricus</a>
+
+  <a href="../cite/Henricus/1101x1120/CartStPC">Henricus</a>
+
+  <a href="../cite/Herberti/1107/CartStPC">Herberti</a>
+
+  <a href="../cite/Herbertus/1029x1033/CartStPC">Herbertus</a>
+
+  <a href="../cite/Herbertus/1101x1129/CartStPC">Herbertus</a>
+
+  <a href="../cite/Herbertus/a1108/CartStPC">Herbertus</a>
+
+  <a href="../cite/Herbertus/a1114/CartStPC">Herbertus</a>
+
+  <a href="../cite/Herbrandus/1029x1033/CartStPC">Herbrandus</a>
+
+  <a href="../cite/Herbranno/1101x1129/CartStPC">Herbranno</a>
+
+  <a href="../cite/Herici/1101x1129/CartStPC">Herici</a>
+
+  <a href="../cite/Hermannus/1101x1129/CartStPC">Hermannus</a>
+
+  <a href="../cite/Hersendis/1101x1129/CartStPC">Hersendis</a>
+
+  <a href="../cite/Hersendis/1127/CartStPC">Hersendis</a>
+
+  <a href="../cite/Hezelinus/1029x1033/CartStPC">Hezelinus</a>
+
+  <a href="../cite/Hildebertus/1107/CartStPC">Hildebertus</a>
+
+  <a href="../cite/Hildegarii/1101x1120/CartStPC">Hildegarii</a>
+
+  <a href="../cite/Hildegarium/1101x1120/CartStPC">Hildegarium</a>
+
+  <a href="../cite/Hildegarius/1107/CartStPC">Hildegarius</a>
+
+  <a href="../cite/Hildegarius/1101x1120/CartStPC">Hildegarius</a>
+
+  <a href="../cite/Hildegarius/1029x1033/CartStPC">Hildegarius</a>
+
+  <a href="../cite/Hildegotus/1126/CartStPC">Hildegotus</a>
+
+  <a href="../cite/Honorii/1127/CartStPC">Honorii</a>
+
+  <a href="../cite/Honorius/1127/CartStPC">Honorius</a>
+
+  <a href="../cite/Huberto/1079x1101/CartStPC">Huberto</a>
+
+  <a href="../cite/Hubertus/1029x1033/CartStPC">Hubertus</a>
+
+  <a href="../cite/Hubertus/1115x1149/CartStPC">Hubertus</a>
+
+  <a href="../cite/Hubertus/1101x1129/CartStPC">Hubertus</a>
+
+  <a href="../cite/Hubertus/1126/CartStPC">Hubertus</a>
+
+  <a href="../cite/Hubertus/a1108/CartStPC">Hubertus</a>
+
+  <a href="../cite/Hubertus/1130x1150/CartStPC">Hubertus</a>
+
+  <a href="../cite/Hubertus/1101x1120/CartStPC">Hubertus</a>
+
+  <a href="../cite/Hugo/1115x1149/CartStPC">Hugo</a>
+
+  <a href="../cite/Hugo/1090x1101/CartStPC">Hugo</a>
+
+  <a href="../cite/Hugo/1127/CartStPC">Hugo</a>
+
+  <a href="../cite/Hugo/1126/CartStPC">Hugo</a>
+
+  <a href="../cite/Hugo/1107/CartStPC">Hugo</a>
+
+  <a href="../cite/Hugo/1101x1120/CartStPC">Hugo</a>
+
+  <a href="../cite/Hugo/1102x1144/CartStPC">Hugo</a>
+
+  <a href="../cite/Hugo/1130x1150/CartStPC">Hugo</a>
+
+  <a href="../cite/Hugo/1101x1129/CartStPC">Hugo</a>
+
+  <a href="../cite/Hugo/a1116/CartStPC">Hugo</a>
+
+  <a href="../cite/Hugo/a1089x1101/CartStPC">Hugo</a>
+
+  <a href="../cite/Hugone/1101x1129/CartStPC">Hugone</a>
+
+  <a href="../cite/Hugone/1107/CartStPC">Hugone</a>
+
+  <a href="../cite/Hugonis/1101x1129/CartStPC">Hugonis</a>
+
+  <a href="../cite/Hulduardus/1101x1129/CartStPC">Hulduardus</a>
+
+  <a href="../cite/Ieronimi/a1116/CartStPC">Ieronimi</a>
+
+  <a href="../cite/Ingelberti/1079x1101/CartStPC">Ingelberti</a>
+
+  <a href="../cite/Ingelranno/1101x1129/CartStPC">Ingelranno</a>
+
+  <a href="../cite/Ingelrannus/1101x1129/CartStPC">Ingelrannus</a>
+
+  <a href="../cite/Ivo/1093/CartStPC">Ivo</a>
+
+  <a href="../cite/Ivo/1102x1144/CartStPC">Ivo</a>
+
+  <a href="../cite/Ivo/1127/CartStPC">Ivo</a>
+
+  <a href="../cite/Ivo/1107/CartStPC">Ivo</a>
+
+  <a href="../cite/Ivone/1107/CartStPC">Ivone</a>
+
+  <a href="../cite/Ivonis/1127/CartStPC">Ivonis</a>
+
+  <a href="../cite/Ivonis/1090x1101/CartStPC">Ivonis</a>
+
+  <a href="../cite/Johanne/1101x1129/CartStPC">Johanne</a>
+
+  <a href="../cite/Johanne/1107/CartStPC">Johanne</a>
+
+  <a href="../cite/Johannes/a1089x1101/CartStPC">Johannes</a>
+
+  <a href="../cite/Johannes/1107/CartStPC">Johannes</a>
+
+  <a href="../cite/Johannes/a1108/CartStPC">Johannes</a>
+
+  <a href="../cite/Johannes/1101x1129/CartStPC">Johannes</a>
+
+  <a href="../cite/Johannis/a1116/CartStPC">Johannis</a>
+
+  <a href="../cite/Johannis/1196s97/CartStPC">Johannis</a>
+
+  <a href="../cite/Joscelinus/1107/CartStPC">Joscelinus</a>
+
+  <a href="../cite/Judallus/1101x1129/CartStPC">Judallus</a>
+
+  <a href="../cite/Juliane/1127/CartStPC">Juliane</a>
+
+  <a href="../cite/Lamberti/1101x1120/CartStPC">Lamberti</a>
+
+  <a href="../cite/Lambertus/a1116/CartStPC">Lambertus</a>
+
+  <a href="../cite/Lambertus/1101x1129/CartStPC">Lambertus</a>
+
+  <a href="../cite/Laurentio/1101x1129/CartStPC">Laurentio</a>
+
+  <a href="../cite/Laurentio/1079x1101/CartStPC">Laurentio</a>
+
+  <a href="../cite/Laurentius/1115x1149/CartStPC">Laurentius</a>
+
+  <a href="../cite/Laurentius/1101x1129/CartStPC">Laurentius</a>
+
+  <a href="../cite/Legardem/a1089x1101/CartStPC">Legardem</a>
+
+  <a href="../cite/Ludovici/1117/CartStPC">Ludovici</a>
+
+  <a href="../cite/Magenardi/1079x1101/CartStPC">Magenardi</a>
+
+  <a href="../cite/Magenardi/1115x1149/CartStPC">Magenardi</a>
+
+  <a href="../cite/Magenardus/1029x1033/CartStPC">Magenardus</a>
+
+  <a href="../cite/Mainardi/a1116/CartStPC">Mainardi</a>
+
+  <a href="../cite/Mainardo/1079x1101/CartStPC">Mainardo</a>
+
+  <a href="../cite/Mainardus/a1116/CartStPC">Mainardus</a>
+
+  <a href="../cite/Mainardus/a1108/CartStPC">Mainardus</a>
+
+  <a href="../cite/Mainardus/1107/CartStPC">Mainardus</a>
+
+  <a href="../cite/Malparent/1101x1129/CartStPC">Malparent</a>
+
+  <a href="../cite/Malparent/a1116/CartStPC">Malparent</a>
+
+  <a href="../cite/Matheus/a1114/CartStPC">Matheus</a>
+
+  <a href="../cite/Matheus/1130/CartStPC">Matheus</a>
+
+  <a href="../cite/Mauricius/1101x1129/CartStPC">Mauricius</a>
+
+  <a href="../cite/Milesende/1115x1149/CartStPC">Milesende</a>
+
+  <a href="../cite/Milesindim/1107/CartStPC">Milesindim</a>
+
+  <a href="../cite/Milo/1107/CartStPC">Milo</a>
+
+  <a href="../cite/Miloni/1107/CartStPC">Miloni</a>
+
+  <a href="../cite/Morini/a1089x1101/CartStPC">Morini</a>
+
+  <a href="../cite/Natalis/a1116/CartStPC">Natalis</a>
+
+  <a href="../cite/Nivardo/1107/CartStPC">Nivardo</a>
+
+  <a href="../cite/Odelina/1079x1101/CartStPC">Odelina</a>
+
+  <a href="../cite/Odelina/1101x1129/CartStPC">Odelina</a>
+
+  <a href="../cite/Odelinam/1079x1101/CartStPC">Odelinam</a>
+
+  <a href="../cite/Odeline/1115x1149/CartStPC">Odeline</a>
+
+  <a href="../cite/Odeline/1079x1101/CartStPC">Odeline</a>
+
+  <a href="../cite/Odo/1079x1101/CartStPC">Odo</a>
+
+  <a href="../cite/Odo/1101x1129/CartStPC">Odo</a>
+
+  <a href="../cite/Odo/a1108/CartStPC">Odo</a>
+
+  <a href="../cite/Odo/a1116/CartStPC">Odo</a>
+
+  <a href="../cite/Odone/1101x1129/CartStPC">Odone</a>
+
+  <a href="../cite/Odonis/a1116/CartStPC">Odonis</a>
+
+  <a href="../cite/Otbertus/1029x1033/CartStPC">Otbertus</a>
+
+  <a href="../cite/Otranno/1101x1129/CartStPC">Otranno</a>
+
+  <a href="../cite/Otranno/1107/CartStPC">Otranno</a>
+
+  <a href="../cite/Pagani/a1114/CartStPC">Pagani</a>
+
+  <a href="../cite/Pagano/1107/CartStPC">Pagano</a>
+
+  <a href="../cite/Pagano/1101x1129/CartStPC">Pagano</a>
+
+  <a href="../cite/Paganus/1115x1149/CartStPC">Paganus</a>
+
+  <a href="../cite/Paganus/1101x1129/CartStPC">Paganus</a>
+
+  <a href="../cite/Paganus/1107/CartStPC">Paganus</a>
+
+  <a href="../cite/Paganus/1126/CartStPC">Paganus</a>
+
+  <a href="../cite/Pascalis/1101x1129/CartStPC">Pascalis</a>
+
+  <a href="../cite/Paschalis/1196s97/CartStPC">Paschalis</a>
+
+  <a href="../cite/Paschalis/1117/CartStPC">Paschalis</a>
+
+  <a href="../cite/Paulo/1079x1101/CartStPC">Paulo</a>
+
+  <a href="../cite/Petro/1101x1129/CartStPC">Petro</a>
+
+  <a href="../cite/Petrum/1130x1150/CartStPC">Petrum</a>
+
+  <a href="../cite/Petrus/a1114/CartStPC">Petrus</a>
+
+  <a href="../cite/Petrus/a1108/CartStPC">Petrus</a>
+
+  <a href="../cite/Petrus/1115x1149/CartStPC">Petrus</a>
+
+  <a href="../cite/Petrus/1029x1033/CartStPC">Petrus</a>
+
+  <a href="../cite/Philippo/1107/CartStPC">Philippo</a>
+
+  <a href="../cite/Radulfi/a1116/CartStPC">Radulfi</a>
+
+  <a href="../cite/Radulfi/1127/CartStPC">Radulfi</a>
+
+  <a href="../cite/Radulfo/1101x1129/CartStPC">Radulfo</a>
+
+  <a href="../cite/Radulfo/a1108/CartStPC">Radulfo</a>
+
+  <a href="../cite/Radulfum/1101x1129/CartStPC">Radulfum</a>
+
+  <a href="../cite/Radulfus/a1114/CartStPC">Radulfus</a>
+
+  <a href="../cite/Radulfus/1115x1149/CartStPC">Radulfus</a>
+
+  <a href="../cite/Radulfus/1101x1129/CartStPC">Radulfus</a>
+
+  <a href="../cite/Radulfus/a1108/CartStPC">Radulfus</a>
+
+  <a href="../cite/Raimundus/1029x1033/CartStPC">Raimundus</a>
+
+  <a href="../cite/Rainaldo/1079x1101/CartStPC">Rainaldo</a>
+
+  <a href="../cite/Rainaldo/1101x1129/CartStPC">Rainaldo</a>
+
+  <a href="../cite/Rainaldo/1107/CartStPC">Rainaldo</a>
+
+  <a href="../cite/Rainaldo/a1116/CartStPC">Rainaldo</a>
+
+  <a href="../cite/Rainaldus/a1108/CartStPC">Rainaldus</a>
+
+  <a href="../cite/Rainaldus/1130x1150/CartStPC">Rainaldus</a>
+
+  <a href="../cite/Rainaldus/1107/CartStPC">Rainaldus</a>
+
+  <a href="../cite/Rainardi/a1116/CartStPC">Rainardi</a>
+
+  <a href="../cite/Rainardo/a1116/CartStPC">Rainardo</a>
+
+  <a href="../cite/Rainardus/1107/CartStPC">Rainardus</a>
+
+  <a href="../cite/Rainardus/1126/CartStPC">Rainardus</a>
+
+  <a href="../cite/Rainardus/1079x1101/CartStPC">Rainardus</a>
+
+  <a href="../cite/Rainardus/1101x1129/CartStPC">Rainardus</a>
+
+  <a href="../cite/Rainardus/1115x1149/CartStPC">Rainardus</a>
+
+  <a href="../cite/Rainerius/1101x1129/CartStPC">Rainerius</a>
+
+  <a href="../cite/Rainerius/a1114/CartStPC">Rainerius</a>
+
+  <a href="../cite/Rainerus/1029x1033/CartStPC">Rainerus</a>
+
+  <a href="../cite/Rascendis/1101x1129/CartStPC">Rascendis</a>
+
+  <a href="../cite/Renerius/1101x1129/CartStPC">Renerius</a>
+
+  <a href="../cite/Richardus/1115x1149/CartStPC">Richardus</a>
+
+  <a href="../cite/Richardus/1101x1129/CartStPC">Richardus</a>
+
+  <a href="../cite/Richerius/1126/CartStPC">Richerius</a>
+
+  <a href="../cite/Roberti/a1116/CartStPC">Roberti</a>
+
+  <a href="../cite/Roberti/1115x1149/CartStPC">Roberti</a>
+
+  <a href="../cite/Roberto/1107/CartStPC">Roberto</a>
+
+  <a href="../cite/Roberto/1102x1144/CartStPC">Roberto</a>
+
+  <a href="../cite/Robertus/1090x1101/CartStPC">Robertus</a>
+
+  <a href="../cite/Robertus/1101x1120/CartStPC">Robertus</a>
+
+  <a href="../cite/Robertus/1102x1144/CartStPC">Robertus</a>
+
+  <a href="../cite/Robertus/a1108/CartStPC">Robertus</a>
+
+  <a href="../cite/Robertus/1029x1033/CartStPC">Robertus</a>
+
+  <a href="../cite/Robertus/a1116/CartStPC">Robertus</a>
+
+  <a href="../cite/Robertus/a1089x1101/CartStPC">Robertus</a>
+
+  <a href="../cite/Robertus/1107/CartStPC">Robertus</a>
+
+  <a href="../cite/Robertus/1079x1101/CartStPC">Robertus</a>
+
+  <a href="../cite/Robertus/1130x1150/CartStPC">Robertus</a>
+
+  <a href="../cite/Robertus/1101x1129/CartStPC">Robertus</a>
+
+  <a href="../cite/Rodulfi/1029x1033/CartStPC">Rodulfi</a>
+
+  <a href="../cite/Rodulfo/1107/CartStPC">Rodulfo</a>
+
+  <a href="../cite/Rodulfus/1029x1033/CartStPC">Rodulfus</a>
+
+  <a href="../cite/Rogerii/1102x1144/CartStPC">Rogerii</a>
+
+  <a href="../cite/Rogerii/1101x1120/CartStPC">Rogerii</a>
+
+  <a href="../cite/Rogerii/a1116/CartStPC">Rogerii</a>
+
+  <a href="../cite/Rogerii/1101x1129/CartStPC">Rogerii</a>
+
+  <a href="../cite/Rogerio/1101x1129/CartStPC">Rogerio</a>
+
+  <a href="../cite/Rogerius/1115x1149/CartStPC">Rogerius</a>
+
+  <a href="../cite/Rogerius/1107/CartStPC">Rogerius</a>
+
+  <a href="../cite/Rogerius/a1108/CartStPC">Rogerius</a>
+
+  <a href="../cite/Rogerius/1101x1129/CartStPC">Rogerius</a>
+
+  <a href="../cite/Rogerius/1090x1101/CartStPC">Rogerius</a>
+
+  <a href="../cite/Rogrini/1101x1129/CartStPC">Rogrini</a>
+
+  <a href="../cite/Rogrini/a1116/CartStPC">Rogrini</a>
+
+  <a href="../cite/Roscelini/1127/CartStPC">Roscelini</a>
+
+  <a href="../cite/Roscelinus/1107/CartStPC">Roscelinus</a>
+
+  <a href="../cite/Roscelinus/1101x1129/CartStPC">Roscelinus</a>
+
+  <a href="../cite/Rotbertus/a1116/CartStPC">Rotbertus</a>
+
+  <a href="../cite/Rotbertus/1107/CartStPC">Rotbertus</a>
+
+  <a href="../cite/Rotgerius/1029x1033/CartStPC">Rotgerius</a>
+
+  <a href="../cite/Salomon/1107/CartStPC">Salomon</a>
+
+  <a href="../cite/Salomon/1090x1101/CartStPC">Salomon</a>
+
+  <a href="../cite/Salomon/1101x1129/CartStPC">Salomon</a>
+
+  <a href="../cite/Salomonis/1101x1129/CartStPC">Salomonis</a>
+
+  <a href="../cite/Savarici/1115x1149/CartStPC">Savarici</a>
+
+  <a href="../cite/Sigeboldi/1101x1129/CartStPC">Sigeboldi</a>
+
+  <a href="../cite/Stephani/a1089x1101/CartStPC">Stephani</a>
+
+  <a href="../cite/Stephani/1101x1129/CartStPC">Stephani</a>
+
+  <a href="../cite/Stephani/1107/CartStPC">Stephani</a>
+
+  <a href="../cite/Stephano/1101x1129/CartStPC">Stephano</a>
+
+  <a href="../cite/Stephano/1079x1101/CartStPC">Stephano</a>
+
+  <a href="../cite/Stephanus/1090x1101/CartStPC">Stephanus</a>
+
+  <a href="../cite/Stephanus/1102x1144/CartStPC">Stephanus</a>
+
+  <a href="../cite/Stephanus/a1089x1101/CartStPC">Stephanus</a>
+
+  <a href="../cite/Stephanus/1101x1120/CartStPC">Stephanus</a>
+
+  <a href="../cite/Stephanus/1107/CartStPC">Stephanus</a>
+
+  <a href="../cite/Stephanus/1079x1101/CartStPC">Stephanus</a>
+
+  <a href="../cite/Stephanus/a1116/CartStPC">Stephanus</a>
+
+  <a href="../cite/Tebaldus/1101x1129/CartStPC">Tebaldus</a>
+
+  <a href="../cite/Teduinus/1079x1101/CartStPC">Teduinus</a>
+
+  <a href="../cite/Teobaldi/1130x1150/CartStPC">Teobaldi</a>
+
+  <a href="../cite/Teobaldi/a1114/CartStPC">Teobaldi</a>
+
+  <a href="../cite/Teobaldo/a1114/CartStPC">Teobaldo</a>
+
+  <a href="../cite/Teobaldus/a1114/CartStPC">Teobaldus</a>
+
+  <a href="../cite/Teobaldus/1101x1129/CartStPC">Teobaldus</a>
+
+  <a href="../cite/Teobaldus/1107/CartStPC">Teobaldus</a>
+
+  <a href="../cite/Teobaldus/a1108/CartStPC">Teobaldus</a>
+
+  <a href="../cite/Teobaldus/1130x1150/CartStPC">Teobaldus</a>
+
+  <a href="../cite/Teobaldus/a1116/CartStPC">Teobaldus</a>
+
+  <a href="../cite/Teobaldus/1101x1120/CartStPC">Teobaldus</a>
+
+  <a href="../cite/Teodericus/1101x1129/CartStPC">Teodericus</a>
+
+  <a href="../cite/Tetboldo/1079x1101/CartStPC">Tetboldo</a>
+
+  <a href="../cite/Teudo/1107/CartStPC">Teudo</a>
+
+  <a href="../cite/Teudone/1079x1101/CartStPC">Teudone</a>
+
+  <a href="../cite/Theobaldi/1102x1144/CartStPC">Theobaldi</a>
+
+  <a href="../cite/Theobaldi/1130x1150/CartStPC">Theobaldi</a>
+
+  <a href="../cite/Theobaldus/a1089x1101/CartStPC">Theobaldus</a>
+
+  <a href="../cite/Udo/1130x1150/CartStPC">Udo</a>
+
+  <a href="../cite/Udone/1130/CartStPC">Udone</a>
+
+  <a href="../cite/Urso/1090x1101/CartStPC">Urso</a>
+
+  <a href="../cite/Ursone/1107/CartStPC">Ursone</a>
+
+  <a href="../cite/Vitalis/a1108/CartStPC">Vitalis</a>
+
+  <a href="../cite/Viviani/1101x1129/CartStPC">Viviani</a>
+
+  <a href="../cite/Vivianum/1013x1033/CartStPC">Vivianum</a>
+
+  <a href="../cite/Vivianum/1101x1129/CartStPC">Vivianum</a>
+
+  <a href="../cite/Vivianus/1101x1129/CartStPC">Vivianus</a>
+
+  <a href="../cite/Vivianus/1115x1149/CartStPC">Vivianus</a>
+
+  <a href="../cite/Walterius/a1116/CartStPC">Walterius</a>
+
+  <a href="../cite/Walterius/1107/CartStPC">Walterius</a>
+
+  <a href="../cite/Willelme/1127/CartStPC">Willelme</a>
+
+  <a href="../cite/Willelmi/1013x1033/CartStPC">Willelmi</a>
+
+  <a href="../cite/Willelmi/1101x1129/CartStPC">Willelmi</a>
+
+  <a href="../cite/Willelmo/1127/CartStPC">Willelmo</a>
+
+  <a href="../cite/Willelmum/1101x1129/CartStPC">Willelmum</a>
+
+  <a href="../cite/Willelmus/1101x1129/CartStPC">Willelmus</a>
+
+  <a href="../cite/Willelmus/1126/CartStPC">Willelmus</a>
+
+  <a href="../cite/Willelmus/1127/CartStPC">Willelmus</a>
+
+  <a href="../cite/Willelmus/a1108/CartStPC">Willelmus</a>
+
+  <a href="../cite/Willemus/1101x1129/CartStPC">Willemus</a>
+
+  <a href="../cite/Winebertus/1107/CartStPC">Winebertus</a>
+
+  <a href="../cite/Yvo/1029x1033/CartStPC">Yvo</a>
+
+  <a href="../cite/Zacharias/1126/CartStPC">Zacharias</a>
+
+  <a href="../cite/Zacharias/1115x1149/CartStPC">Zacharias</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

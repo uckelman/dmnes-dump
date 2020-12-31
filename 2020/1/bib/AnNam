@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>AnNam</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>AnNam</dt>
+  <dd>Analectes namurois. <em>Annales de la Société Archéologique de Namur</em>, 6(1):140–144, 1859.</dd>
+</dl>
+
+
+  <a href="../cite/Aymery/1351/AnNam">Aymery</a>
+
+  <a href="../cite/Baulduins/1246/AnNam">Baulduins</a>
+
+  <a href="../cite/Colar/1343/AnNam">Colar</a>
+
+  <a href="../cite/Colars/14thC/AnNam">Colars</a>
+
+  <a href="../cite/Colart/1343/AnNam">Colart</a>
+
+  <a href="../cite/Colin/1343/AnNam">Colin</a>
+
+  <a href="../cite/Godeffroit/1351/AnNam">Godeffroit</a>
+
+  <a href="../cite/Godefroys/14thC/AnNam">Godefroys</a>
+
+  <a href="../cite/Guiars/14thC/AnNam">Guiars</a>
+
+  <a href="../cite/Guiart/1351/AnNam">Guiart</a>
+
+  <a href="../cite/Guillaume/1351/AnNam">Guillaume</a>
+
+  <a href="../cite/Gyars/14thC/AnNam">Gyars</a>
+
+  <a href="../cite/Henri/1343/AnNam">Henri</a>
+
+  <a href="../cite/Henris/1343/AnNam">Henris</a>
+
+  <a href="../cite/Henry/1351/AnNam">Henry</a>
+
+  <a href="../cite/Hubinon/1351/AnNam">Hubinon</a>
+
+  <a href="../cite/Jaquemart/1351/AnNam">Jaquemart</a>
+
+  <a href="../cite/Jehan/1351/AnNam">Jehan</a>
+
+  <a href="../cite/Joffroit/1351/AnNam">Joffroit</a>
+
+  <a href="../cite/Lambert/1351/AnNam">Lambert</a>
+
+  <a href="../cite/Thiery/1246/AnNam">Thiery</a>
+
+  <a href="../cite/Willames/1343/AnNam">Willames</a>
+
+  <a href="../cite/Willaume/1343/AnNam">Willaume</a>
+
+  <a href="../cite/Willaume/1351/AnNam">Willaume</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

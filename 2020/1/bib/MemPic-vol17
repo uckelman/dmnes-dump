@@ -1,0 +1,872 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>MemPic-vol17</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>MemPic-vol17</dt>
+  <dd><em>Mémoires de la Société des Antiquaires de Picarde</em>, volume XVII. Paris: Librairie de J-B Dumoulin; Amiens: Imprimerie V Herment, 1860.</dd>
+</dl>
+
+
+  <a href="../cite/Ada/1301/MemPic-vol17">Ada</a>
+
+  <a href="../cite/Adam/1301/MemPic-vol17">Adam</a>
+
+  <a href="../cite/Adams/1301/MemPic-vol17">Adams</a>
+
+  <a href="../cite/Adan/1301/MemPic-vol17">Adan</a>
+
+  <a href="../cite/Adans/1301/MemPic-vol17">Adans</a>
+
+  <a href="../cite/Ade/1301/MemPic-vol17">Ade</a>
+
+  <a href="../cite/Adrien/1301/MemPic-vol17">Adrien</a>
+
+  <a href="../cite/Aelidi/1301/MemPic-vol17">Aelidi</a>
+
+  <a href="../cite/Aelidis/1301/MemPic-vol17">Aelidis</a>
+
+  <a href="../cite/Aelis/1301/MemPic-vol17">Aelis</a>
+
+  <a href="../cite/Agne/1301/MemPic-vol17">Agne</a>
+
+  <a href="../cite/Agnelis/1301/MemPic-vol17">Agnelis</a>
+
+  <a href="../cite/Agnes/1301/MemPic-vol17">Agnes</a>
+
+  <a href="../cite/Agnetis/1301/MemPic-vol17">Agnetis</a>
+
+  <a href="../cite/Alart/1301/MemPic-vol17">Alart</a>
+
+  <a href="../cite/Albini/1301/MemPic-vol17">Albini</a>
+
+  <a href="../cite/Alerinus/1301/MemPic-vol17">Alerinus</a>
+
+  <a href="../cite/Aliaume/1301/MemPic-vol17">Aliaume</a>
+
+  <a href="../cite/Aliaumes/1301/MemPic-vol17">Aliaumes</a>
+
+  <a href="../cite/Alous/1301/MemPic-vol17">Alous</a>
+
+  <a href="../cite/Alout/1301/MemPic-vol17">Alout</a>
+
+  <a href="../cite/Aluredi/1301/MemPic-vol17">Aluredi</a>
+
+  <a href="../cite/Amelinne/1301/MemPic-vol17">Amelinne</a>
+
+  <a href="../cite/Andreas/1301/MemPic-vol17">Andreas</a>
+
+  <a href="../cite/Andree/1301/MemPic-vol17">Andree</a>
+
+  <a href="../cite/Andrieus/1301/MemPic-vol17">Andrieus</a>
+
+  <a href="../cite/Anna/1301/MemPic-vol17">Anna</a>
+
+  <a href="../cite/Anne/1301/MemPic-vol17">Anne</a>
+
+  <a href="../cite/Arnaldi/1301/MemPic-vol17">Arnaldi</a>
+
+  <a href="../cite/Arnoldus/1301/MemPic-vol17">Arnoldus</a>
+
+  <a href="../cite/Arnulphi/1301/MemPic-vol17">Arnulphi</a>
+
+  <a href="../cite/Arnulphus/1301/MemPic-vol17">Arnulphus</a>
+
+  <a href="../cite/Asseline/1301/MemPic-vol17">Asseline</a>
+
+  <a href="../cite/Aubert/1301/MemPic-vol17">Aubert</a>
+
+  <a href="../cite/Aubertus/1301/MemPic-vol17">Aubertus</a>
+
+  <a href="../cite/Avisse/1301/MemPic-vol17">Avisse</a>
+
+  <a href="../cite/Avissia/1301/MemPic-vol17">Avissia</a>
+
+  <a href="../cite/Balduini/1301/MemPic-vol17">Balduini</a>
+
+  <a href="../cite/Balduinus/1301/MemPic-vol17">Balduinus</a>
+
+  <a href="../cite/Baldus/1301/MemPic-vol17">Baldus</a>
+
+  <a href="../cite/Bartholomei/1301/MemPic-vol17">Bartholomei</a>
+
+  <a href="../cite/Bartholomeus/1301/MemPic-vol17">Bartholomeus</a>
+
+  <a href="../cite/Bauduin/1301/MemPic-vol17">Bauduin</a>
+
+  <a href="../cite/Bauduins/1301/MemPic-vol17">Bauduins</a>
+
+  <a href="../cite/Beatricis/1301/MemPic-vol17">Beatricis</a>
+
+  <a href="../cite/Beatris/1301/MemPic-vol17">Beatris</a>
+
+  <a href="../cite/Beatrix/1301/MemPic-vol17">Beatrix</a>
+
+  <a href="../cite/Beetris/1301/MemPic-vol17">Beetris</a>
+
+  <a href="../cite/Benedictus/1301/MemPic-vol17">Benedictus</a>
+
+  <a href="../cite/Benois/1301/MemPic-vol17">Benois</a>
+
+  <a href="../cite/Bernard/1301/MemPic-vol17">Bernard</a>
+
+  <a href="../cite/Bernardi/1301/MemPic-vol17">Bernardi</a>
+
+  <a href="../cite/Bernardus/1301/MemPic-vol17">Bernardus</a>
+
+  <a href="../cite/Bernars/1301/MemPic-vol17">Bernars</a>
+
+  <a href="../cite/Bernart/1301/MemPic-vol17">Bernart</a>
+
+  <a href="../cite/Berte/1301/MemPic-vol17">Berte</a>
+
+  <a href="../cite/Berthelemieu/1301/MemPic-vol17">Berthelemieu</a>
+
+  <a href="../cite/Bertholomeus/1301/MemPic-vol17">Bertholomeus</a>
+
+  <a href="../cite/Bertin/1301/MemPic-vol17">Bertin</a>
+
+  <a href="../cite/Bertremieu/1301/MemPic-vol17">Bertremieu</a>
+
+  <a href="../cite/Bertremiex/1301/MemPic-vol17">Bertremiex</a>
+
+  <a href="../cite/Castellana/1301/MemPic-vol17">Castellana</a>
+
+  <a href="../cite/Christiani/1301/MemPic-vol17">Christiani</a>
+
+  <a href="../cite/Christofori/1301/MemPic-vol17">Christofori</a>
+
+  <a href="../cite/Claricia/1301/MemPic-vol17">Claricia</a>
+
+  <a href="../cite/Clarisse/1301/MemPic-vol17">Clarisse</a>
+
+  <a href="../cite/Clemens/1301/MemPic-vol17">Clemens</a>
+
+  <a href="../cite/Clementia/1301/MemPic-vol17">Clementia</a>
+
+  <a href="../cite/Climenche/1301/MemPic-vol17">Climenche</a>
+
+  <a href="../cite/Climens/1301/MemPic-vol17">Climens</a>
+
+  <a href="../cite/Colardi/1301/MemPic-vol17">Colardi</a>
+
+  <a href="../cite/Colardus/1301/MemPic-vol17">Colardus</a>
+
+  <a href="../cite/Colars/1301/MemPic-vol17">Colars</a>
+
+  <a href="../cite/Colart/1301/MemPic-vol17">Colart</a>
+
+  <a href="../cite/Colins/1301/MemPic-vol17">Colins</a>
+
+  <a href="../cite/Constanche/1301/MemPic-vol17">Constanche</a>
+
+  <a href="../cite/David/1301/MemPic-vol17">David</a>
+
+  <a href="../cite/Drieue/1301/MemPic-vol17">Drieue</a>
+
+  <a href="../cite/Droco/1301/MemPic-vol17">Droco</a>
+
+  <a href="../cite/Dyonisius/1301/MemPic-vol17">Dyonisius</a>
+
+  <a href="../cite/Edouart/1301/MemPic-vol17">Edouart</a>
+
+  <a href="../cite/Egidia/1301/MemPic-vol17">Egidia</a>
+
+  <a href="../cite/Egidius/1301/MemPic-vol17">Egidius</a>
+
+  <a href="../cite/Egydius/1301/MemPic-vol17">Egydius</a>
+
+  <a href="../cite/Emeline/1301/MemPic-vol17">Emeline</a>
+
+  <a href="../cite/Emmeline/1301/MemPic-vol17">Emmeline</a>
+
+  <a href="../cite/Enardi/1301/MemPic-vol17">Enardi</a>
+
+  <a href="../cite/Engelais/1301/MemPic-vol17">Engelais</a>
+
+  <a href="../cite/Engerant/1301/MemPic-vol17">Engerant</a>
+
+  <a href="../cite/Engerrans/1301/MemPic-vol17">Engerrans</a>
+
+  <a href="../cite/Enghelaidis/1301/MemPic-vol17">Enghelaidis</a>
+
+  <a href="../cite/Englaidis/1301/MemPic-vol17">Englaidis</a>
+
+  <a href="../cite/Engualaidis/1301/MemPic-vol17">Engualaidis</a>
+
+  <a href="../cite/Enguerran/1301/MemPic-vol17">Enguerran</a>
+
+  <a href="../cite/Enguerrani/1301/MemPic-vol17">Enguerrani</a>
+
+  <a href="../cite/Ernaudi/1301/MemPic-vol17">Ernaudi</a>
+
+  <a href="../cite/Ernous/1301/MemPic-vol17">Ernous</a>
+
+  <a href="../cite/Ertaut/1301/MemPic-vol17">Ertaut</a>
+
+  <a href="../cite/Estacius/1301/MemPic-vol17">Estacius</a>
+
+  <a href="../cite/Euerart/1301/MemPic-vol17">Euerart</a>
+
+  <a href="../cite/Eustachii/1301/MemPic-vol17">Eustachii</a>
+
+  <a href="../cite/Eustachius/1301/MemPic-vol17">Eustachius</a>
+
+  <a href="../cite/Eustacius/1301/MemPic-vol17">Eustacius</a>
+
+  <a href="../cite/Eva/1301/MemPic-vol17">Eva</a>
+
+  <a href="../cite/Eve/1301/MemPic-vol17">Eve</a>
+
+  <a href="../cite/Evrard/1301/MemPic-vol17">Evrard</a>
+
+  <a href="../cite/Evrardi/1301/MemPic-vol17">Evrardi</a>
+
+  <a href="../cite/Evrardus/1301/MemPic-vol17">Evrardus</a>
+
+  <a href="../cite/Evrart/1301/MemPic-vol17">Evrart</a>
+
+  <a href="../cite/Faukeres/1301/MemPic-vol17">Faukeres</a>
+
+  <a href="../cite/Fermin/1301/MemPic-vol17">Fermin</a>
+
+  <a href="../cite/Fermins/1301/MemPic-vol17">Fermins</a>
+
+  <a href="../cite/Firmini/1301/MemPic-vol17">Firmini</a>
+
+  <a href="../cite/Firmino/1301/MemPic-vol17">Firmino</a>
+
+  <a href="../cite/Firminus/1301/MemPic-vol17">Firminus</a>
+
+  <a href="../cite/Flourie/1301/MemPic-vol17">Flourie</a>
+
+  <a href="../cite/Fouberti/1301/MemPic-vol17">Fouberti</a>
+
+  <a href="../cite/Fouke/1301/MemPic-vol17">Fouke</a>
+
+  <a href="../cite/Foukes/1301/MemPic-vol17">Foukes</a>
+
+  <a href="../cite/Fremin/1301/MemPic-vol17">Fremin</a>
+
+  <a href="../cite/Fremins/1301/MemPic-vol17">Fremins</a>
+
+  <a href="../cite/Fusciani/1301/MemPic-vol17">Fusciani</a>
+
+  <a href="../cite/Fuscien/1301/MemPic-vol17">Fuscien</a>
+
+  <a href="../cite/Gaufridi/1301/MemPic-vol17">Gaufridi</a>
+
+  <a href="../cite/Gerars/1301/MemPic-vol17">Gerars</a>
+
+  <a href="../cite/Gerart/1301/MemPic-vol17">Gerart</a>
+
+  <a href="../cite/Ghilebertus/1301/MemPic-vol17">Ghilebertus</a>
+
+  <a href="../cite/Gileberti/1301/MemPic-vol17">Gileberti</a>
+
+  <a href="../cite/Gilebertus/1301/MemPic-vol17">Gilebertus</a>
+
+  <a href="../cite/Giles/1301/MemPic-vol17">Giles</a>
+
+  <a href="../cite/Gille/1301/MemPic-vol17">Gille</a>
+
+  <a href="../cite/Gilles/1301/MemPic-vol17">Gilles</a>
+
+  <a href="../cite/Gillon/1301/MemPic-vol17">Gillon</a>
+
+  <a href="../cite/Gillot/1301/MemPic-vol17">Gillot</a>
+
+  <a href="../cite/Gilonis/1301/MemPic-vol17">Gilonis</a>
+
+  <a href="../cite/Girard/1301/MemPic-vol17">Girard</a>
+
+  <a href="../cite/Girardi/1301/MemPic-vol17">Girardi</a>
+
+  <a href="../cite/Girardo/1301/MemPic-vol17">Girardo</a>
+
+  <a href="../cite/Girardus/1301/MemPic-vol17">Girardus</a>
+
+  <a href="../cite/Girars/1301/MemPic-vol17">Girars</a>
+
+  <a href="../cite/Girart/1301/MemPic-vol17">Girart</a>
+
+  <a href="../cite/Gobert/1301/MemPic-vol17">Gobert</a>
+
+  <a href="../cite/Goberti/1301/MemPic-vol17">Goberti</a>
+
+  <a href="../cite/Gobini/1301/MemPic-vol17">Gobini</a>
+
+  <a href="../cite/Godardus/1301/MemPic-vol17">Godardus</a>
+
+  <a href="../cite/Goillete/1301/MemPic-vol17">Goillete</a>
+
+  <a href="../cite/Gonterus/1301/MemPic-vol17">Gonterus</a>
+
+  <a href="../cite/Grigoire/1301/MemPic-vol17">Grigoire</a>
+
+  <a href="../cite/Guidoni/1301/MemPic-vol17">Guidoni</a>
+
+  <a href="../cite/Guidonis/1301/MemPic-vol17">Guidonis</a>
+
+  <a href="../cite/Guiffridi/1301/MemPic-vol17">Guiffridi</a>
+
+  <a href="../cite/Guiffroy/1301/MemPic-vol17">Guiffroy</a>
+
+  <a href="../cite/Guifridi/1301/MemPic-vol17">Guifridi</a>
+
+  <a href="../cite/Guillaume/1301/MemPic-vol17">Guillaume</a>
+
+  <a href="../cite/Guillelmi/1301/MemPic-vol17">Guillelmi</a>
+
+  <a href="../cite/Guillelmus/1301/MemPic-vol17">Guillelmus</a>
+
+  <a href="../cite/Hauwidis/1301/MemPic-vol17">Hauwidis</a>
+
+  <a href="../cite/Havidis/1301/MemPic-vol17">Havidis</a>
+
+  <a href="../cite/Hawis/1301/MemPic-vol17">Hawis</a>
+
+  <a href="../cite/Hebertus/1301/MemPic-vol17">Hebertus</a>
+
+  <a href="../cite/Heluis/1301/MemPic-vol17">Heluis</a>
+
+  <a href="../cite/Helvidis/1301/MemPic-vol17">Helvidis</a>
+
+  <a href="../cite/Henri/1301/MemPic-vol17">Henri</a>
+
+  <a href="../cite/Henrici/1301/MemPic-vol17">Henrici</a>
+
+  <a href="../cite/Henris/1301/MemPic-vol17">Henris</a>
+
+  <a href="../cite/Herberti/1301/MemPic-vol17">Herberti</a>
+
+  <a href="../cite/Hermer/1301/MemPic-vol17">Hermer</a>
+
+  <a href="../cite/Honere/1301/MemPic-vol17">Honere</a>
+
+  <a href="../cite/Honorata/1301/MemPic-vol17">Honorata</a>
+
+  <a href="../cite/Honorati/1301/MemPic-vol17">Honorati</a>
+
+  <a href="../cite/Honoratus/1301/MemPic-vol17">Honoratus</a>
+
+  <a href="../cite/Hubers/1301/MemPic-vol17">Hubers</a>
+
+  <a href="../cite/Hubert/1301/MemPic-vol17">Hubert</a>
+
+  <a href="../cite/Huberti/1301/MemPic-vol17">Huberti</a>
+
+  <a href="../cite/Huelin/1301/MemPic-vol17">Huelin</a>
+
+  <a href="../cite/Hues/1301/MemPic-vol17">Hues</a>
+
+  <a href="../cite/Hugo/1301/MemPic-vol17">Hugo</a>
+
+  <a href="../cite/Hugonis/1301/MemPic-vol17">Hugonis</a>
+
+  <a href="../cite/Huon/1301/MemPic-vol17">Huon</a>
+
+  <a href="../cite/Iacobi/1301/MemPic-vol17">Iacobi</a>
+
+  <a href="../cite/Iake/1301/MemPic-vol17">Iake</a>
+
+  <a href="../cite/Iakemon/1301/MemPic-vol17">Iakemon</a>
+
+  <a href="../cite/Iehans/1301/MemPic-vol17">Iehans</a>
+
+  <a href="../cite/Ingerani/1301/MemPic-vol17">Ingerani</a>
+
+  <a href="../cite/Ingeranni/1301/MemPic-vol17">Ingeranni</a>
+
+  <a href="../cite/Ingerannus/1301/MemPic-vol17">Ingerannus</a>
+
+  <a href="../cite/Ingeranus/1301/MemPic-vol17">Ingeranus</a>
+
+  <a href="../cite/Ingerrani/1301/MemPic-vol17">Ingerrani</a>
+
+  <a href="../cite/Ingerranni/1301/MemPic-vol17">Ingerranni</a>
+
+  <a href="../cite/Ingerrannus/1301/MemPic-vol17">Ingerrannus</a>
+
+  <a href="../cite/Ingerrano/1301/MemPic-vol17">Ingerrano</a>
+
+  <a href="../cite/Ingerranus/1301/MemPic-vol17">Ingerranus</a>
+
+  <a href="../cite/Iohannes/1301/MemPic-vol17">Iohannes</a>
+
+  <a href="../cite/Iohannis/1301/MemPic-vol17">Iohannis</a>
+
+  <a href="../cite/Isabelle/1301/MemPic-vol17">Isabelle</a>
+
+  <a href="../cite/Jacobi/1301/MemPic-vol17">Jacobi</a>
+
+  <a href="../cite/Jacobo/1301/MemPic-vol17">Jacobo</a>
+
+  <a href="../cite/Jacobus/1301/MemPic-vol17">Jacobus</a>
+
+  <a href="../cite/Jahans/1301/MemPic-vol17">Jahans</a>
+
+  <a href="../cite/Jake/1301/MemPic-vol17">Jake</a>
+
+  <a href="../cite/Jakes/1301/MemPic-vol17">Jakes</a>
+
+  <a href="../cite/Jehan/1301/MemPic-vol17">Jehan</a>
+
+  <a href="../cite/Jehans/1301/MemPic-vol17">Jehans</a>
+
+  <a href="../cite/Jehenne/1301/MemPic-vol17">Jehenne</a>
+
+  <a href="../cite/Jehennes/1301/MemPic-vol17">Jehennes</a>
+
+  <a href="../cite/Joannes/1301/MemPic-vol17">Joannes</a>
+
+  <a href="../cite/Johanna/1301/MemPic-vol17">Johanna</a>
+
+  <a href="../cite/Johanne/1301/MemPic-vol17">Johanne</a>
+
+  <a href="../cite/Johannes/1301/MemPic-vol17">Johannes</a>
+
+  <a href="../cite/Johannis/1301/MemPic-vol17">Johannis</a>
+
+  <a href="../cite/Juliana/1301/MemPic-vol17">Juliana</a>
+
+  <a href="../cite/Juliane/1301/MemPic-vol17">Juliane</a>
+
+  <a href="../cite/Justes/1301/MemPic-vol17">Justes</a>
+
+  <a href="../cite/Justus/1301/MemPic-vol17">Justus</a>
+
+  <a href="../cite/Katerina/1301/MemPic-vol17">Katerina</a>
+
+  <a href="../cite/Katerine/1301/MemPic-vol17">Katerine</a>
+
+  <a href="../cite/Lamberti/1301/MemPic-vol17">Lamberti</a>
+
+  <a href="../cite/Lambertus/1301/MemPic-vol17">Lambertus</a>
+
+  <a href="../cite/Laurentii/1301/MemPic-vol17">Laurentii</a>
+
+  <a href="../cite/Laurentius/1301/MemPic-vol17">Laurentius</a>
+
+  <a href="../cite/Leodegarii/1301/MemPic-vol17">Leodegarii</a>
+
+  <a href="../cite/Leonardi/1301/MemPic-vol17">Leonardi</a>
+
+  <a href="../cite/Leonardus/1301/MemPic-vol17">Leonardus</a>
+
+  <a href="../cite/Leurens/1301/MemPic-vol17">Leurens</a>
+
+  <a href="../cite/Leurent/1301/MemPic-vol17">Leurent</a>
+
+  <a href="../cite/Lorete/1301/MemPic-vol17">Lorete</a>
+
+  <a href="../cite/Mahaut/1301/MemPic-vol17">Mahaut</a>
+
+  <a href="../cite/Mahieu/1301/MemPic-vol17">Mahieu</a>
+
+  <a href="../cite/Mahieus/1301/MemPic-vol17">Mahieus</a>
+
+  <a href="../cite/Mahiex/1301/MemPic-vol17">Mahiex</a>
+
+  <a href="../cite/Maihieu/1301/MemPic-vol17">Maihieu</a>
+
+  <a href="../cite/Mainerius/1301/MemPic-vol17">Mainerius</a>
+
+  <a href="../cite/Malthidis/1301/MemPic-vol17">Malthidis</a>
+
+  <a href="../cite/Marga/1301/MemPic-vol17">Marga</a>
+
+  <a href="../cite/Margarita/1301/MemPic-vol17">Margarita</a>
+
+  <a href="../cite/Margarite/1301/MemPic-vol17">Margarite</a>
+
+  <a href="../cite/Marge/1301/MemPic-vol17">Marge</a>
+
+  <a href="../cite/Maria/1301/MemPic-vol17">Maria</a>
+
+  <a href="../cite/Marie/1301/MemPic-vol17">Marie</a>
+
+  <a href="../cite/Maroie/1301/MemPic-vol17">Maroie</a>
+
+  <a href="../cite/Martin/1301/MemPic-vol17">Martin</a>
+
+  <a href="../cite/Martini/1301/MemPic-vol17">Martini</a>
+
+  <a href="../cite/Martino/1301/MemPic-vol17">Martino</a>
+
+  <a href="../cite/Martins/1301/MemPic-vol17">Martins</a>
+
+  <a href="../cite/Martinus/1301/MemPic-vol17">Martinus</a>
+
+  <a href="../cite/Mathei/1301/MemPic-vol17">Mathei</a>
+
+  <a href="../cite/Matheo/1301/MemPic-vol17">Matheo</a>
+
+  <a href="../cite/Matheum/1301/MemPic-vol17">Matheum</a>
+
+  <a href="../cite/Matheus/1301/MemPic-vol17">Matheus</a>
+
+  <a href="../cite/Mathias/1301/MemPic-vol17">Mathias</a>
+
+  <a href="../cite/Mathieu/1301/MemPic-vol17">Mathieu</a>
+
+  <a href="../cite/Mathildis/1301/MemPic-vol17">Mathildis</a>
+
+  <a href="../cite/Mathilidis/1301/MemPic-vol17">Mathilidis</a>
+
+  <a href="../cite/Mauricii/1301/MemPic-vol17">Mauricii</a>
+
+  <a href="../cite/Mauricius/1301/MemPic-vol17">Mauricius</a>
+
+  <a href="../cite/Michael/1301/MemPic-vol17">Michael</a>
+
+  <a href="../cite/Michaele/1301/MemPic-vol17">Michaele</a>
+
+  <a href="../cite/Michaelis/1301/MemPic-vol17">Michaelis</a>
+
+  <a href="../cite/Mikiel/1301/MemPic-vol17">Mikiel</a>
+
+  <a href="../cite/Miles/1301/MemPic-vol17">Miles</a>
+
+  <a href="../cite/Milesens/1301/MemPic-vol17">Milesens</a>
+
+  <a href="../cite/Milesent/1301/MemPic-vol17">Milesent</a>
+
+  <a href="../cite/Milo/1301/MemPic-vol17">Milo</a>
+
+  <a href="../cite/Milon/1301/MemPic-vol17">Milon</a>
+
+  <a href="../cite/Milonis/1301/MemPic-vol17">Milonis</a>
+
+  <a href="../cite/Mouret/1301/MemPic-vol17">Mouret</a>
+
+  <a href="../cite/Mychaelis/1301/MemPic-vol17">Mychaelis</a>
+
+  <a href="../cite/Nicholai/1301/MemPic-vol17">Nicholai</a>
+
+  <a href="../cite/Nicholao/1301/MemPic-vol17">Nicholao</a>
+
+  <a href="../cite/Nicholaus/1301/MemPic-vol17">Nicholaus</a>
+
+  <a href="../cite/Nicholon/1301/MemPic-vol17">Nicholon</a>
+
+  <a href="../cite/Nicholoys/1301/MemPic-vol17">Nicholoys</a>
+
+  <a href="../cite/Nicolai/1301/MemPic-vol17">Nicolai</a>
+
+  <a href="../cite/Nicolaus/1301/MemPic-vol17">Nicolaus</a>
+
+  <a href="../cite/Nicole/1301/MemPic-vol17">Nicole</a>
+
+  <a href="../cite/Nicolo/1301/MemPic-vol17">Nicolo</a>
+
+  <a href="../cite/Nycholai/1301/MemPic-vol17">Nycholai</a>
+
+  <a href="../cite/Nycholaus/1301/MemPic-vol17">Nycholaus</a>
+
+  <a href="../cite/Ode/1301/MemPic-vol17">Ode</a>
+
+  <a href="../cite/Odeline/1301/MemPic-vol17">Odeline</a>
+
+  <a href="../cite/Odonis/1301/MemPic-vol17">Odonis</a>
+
+  <a href="../cite/Onnere/1301/MemPic-vol17">Onnere</a>
+
+  <a href="../cite/Onneres/1301/MemPic-vol17">Onneres</a>
+
+  <a href="../cite/Osebert/1301/MemPic-vol17">Osebert</a>
+
+  <a href="../cite/Oudart/1301/MemPic-vol17">Oudart</a>
+
+  <a href="../cite/Patris/1301/MemPic-vol17">Patris</a>
+
+  <a href="../cite/Perron/1301/MemPic-vol17">Perron</a>
+
+  <a href="../cite/Perrota/1301/MemPic-vol17">Perrota</a>
+
+  <a href="../cite/Perrote/1301/MemPic-vol17">Perrote</a>
+
+  <a href="../cite/Petri/1301/MemPic-vol17">Petri</a>
+
+  <a href="../cite/Petronilla/1301/MemPic-vol17">Petronilla</a>
+
+  <a href="../cite/Petrus/1301/MemPic-vol17">Petrus</a>
+
+  <a href="../cite/Phelippe/1301/MemPic-vol17">Phelippe</a>
+
+  <a href="../cite/Phelippres/1301/MemPic-vol17">Phelippres</a>
+
+  <a href="../cite/Philippi/1301/MemPic-vol17">Philippi</a>
+
+  <a href="../cite/Philippo/1301/MemPic-vol17">Philippo</a>
+
+  <a href="../cite/Pierres/1301/MemPic-vol17">Pierres</a>
+
+  <a href="../cite/Pierron/1301/MemPic-vol17">Pierron</a>
+
+  <a href="../cite/Radulfi/1301/MemPic-vol17">Radulfi</a>
+
+  <a href="../cite/Radulfus/1301/MemPic-vol17">Radulfus</a>
+
+  <a href="../cite/Radulphi/1301/MemPic-vol17">Radulphi</a>
+
+  <a href="../cite/Radulphus/1301/MemPic-vol17">Radulphus</a>
+
+  <a href="../cite/Raimondi/1301/MemPic-vol17">Raimondi</a>
+
+  <a href="../cite/Raoul/1301/MemPic-vol17">Raoul</a>
+
+  <a href="../cite/Raous/1301/MemPic-vol17">Raous</a>
+
+  <a href="../cite/Reginaldi/1301/MemPic-vol17">Reginaldi</a>
+
+  <a href="../cite/Reginaldo/1301/MemPic-vol17">Reginaldo</a>
+
+  <a href="../cite/Reginaldus/1301/MemPic-vol17">Reginaldus</a>
+
+  <a href="../cite/Remigii/1301/MemPic-vol17">Remigii</a>
+
+  <a href="../cite/Remigius/1301/MemPic-vol17">Remigius</a>
+
+  <a href="../cite/Remundi/1301/MemPic-vol17">Remundi</a>
+
+  <a href="../cite/Renaudi/1301/MemPic-vol17">Renaudi</a>
+
+  <a href="../cite/Renaudus/1301/MemPic-vol17">Renaudus</a>
+
+  <a href="../cite/Renaus/1301/MemPic-vol17">Renaus</a>
+
+  <a href="../cite/Reneri/1301/MemPic-vol17">Reneri</a>
+
+  <a href="../cite/Renier/1301/MemPic-vol17">Renier</a>
+
+  <a href="../cite/Reniers/1301/MemPic-vol17">Reniers</a>
+
+  <a href="../cite/Ricars/1301/MemPic-vol17">Ricars</a>
+
+  <a href="../cite/Ricart/1301/MemPic-vol17">Ricart</a>
+
+  <a href="../cite/Richardi/1301/MemPic-vol17">Richardi</a>
+
+  <a href="../cite/Richardo/1301/MemPic-vol17">Richardo</a>
+
+  <a href="../cite/Richart/1301/MemPic-vol17">Richart</a>
+
+  <a href="../cite/Richaudus/1301/MemPic-vol17">Richaudus</a>
+
+  <a href="../cite/Rikier/1301/MemPic-vol17">Rikier</a>
+
+  <a href="../cite/Robelot/1301/MemPic-vol17">Robelot</a>
+
+  <a href="../cite/Robers/1301/MemPic-vol17">Robers</a>
+
+  <a href="../cite/Robert/1301/MemPic-vol17">Robert</a>
+
+  <a href="../cite/Roberti/1301/MemPic-vol17">Roberti</a>
+
+  <a href="../cite/Robertus/1301/MemPic-vol17">Robertus</a>
+
+  <a href="../cite/Robin/1301/MemPic-vol17">Robin</a>
+
+  <a href="../cite/Rogeri/1301/MemPic-vol17">Rogeri</a>
+
+  <a href="../cite/Rogero/1301/MemPic-vol17">Rogero</a>
+
+  <a href="../cite/Rogerus/1301/MemPic-vol17">Rogerus</a>
+
+  <a href="../cite/Rogiers/1301/MemPic-vol17">Rogiers</a>
+
+  <a href="../cite/Rose/1301/MemPic-vol17">Rose</a>
+
+  <a href="../cite/Sains/1301/MemPic-vol17">Sains</a>
+
+  <a href="../cite/Salemons/1301/MemPic-vol17">Salemons</a>
+
+  <a href="../cite/Sancta/1301/MemPic-vol17">Sancta</a>
+
+  <a href="../cite/Sarra/1301/MemPic-vol17">Sarra</a>
+
+  <a href="../cite/Sarre/1301/MemPic-vol17">Sarre</a>
+
+  <a href="../cite/Simon/1301/MemPic-vol17">Simon</a>
+
+  <a href="../cite/Simonis/1301/MemPic-vol17">Simonis</a>
+
+  <a href="../cite/Simons/1301/MemPic-vol17">Simons</a>
+
+  <a href="../cite/Souplice/1301/MemPic-vol17">Souplice</a>
+
+  <a href="../cite/Stephani/1301/MemPic-vol17">Stephani</a>
+
+  <a href="../cite/Stephanus/1301/MemPic-vol17">Stephanus</a>
+
+  <a href="../cite/Sulpicia/1301/MemPic-vol17">Sulpicia</a>
+
+  <a href="../cite/Suplicia/1301/MemPic-vol17">Suplicia</a>
+
+  <a href="../cite/Symon/1301/MemPic-vol17">Symon</a>
+
+  <a href="../cite/Symonis/1301/MemPic-vol17">Symonis</a>
+
+  <a href="../cite/Symons/1301/MemPic-vol17">Symons</a>
+
+  <a href="../cite/Teophanie/1301/MemPic-vol17">Teophanie</a>
+
+  <a href="../cite/Terri/1301/MemPic-vol17">Terri</a>
+
+  <a href="../cite/Theobaldi/1301/MemPic-vol17">Theobaldi</a>
+
+  <a href="../cite/Theobaldus/1301/MemPic-vol17">Theobaldus</a>
+
+  <a href="../cite/Theophania/1301/MemPic-vol17">Theophania</a>
+
+  <a href="../cite/Theophanie/1301/MemPic-vol17">Theophanie</a>
+
+  <a href="../cite/Thiebaus/1301/MemPic-vol17">Thiebaus</a>
+
+  <a href="../cite/Thiebaut/1301/MemPic-vol17">Thiebaut</a>
+
+  <a href="../cite/Thomae/1301/MemPic-vol17">Thomae</a>
+
+  <a href="../cite/Thomas/1301/MemPic-vol17">Thomas</a>
+
+  <a href="../cite/Thome/1301/MemPic-vol17">Thome</a>
+
+  <a href="../cite/Thumas/1301/MemPic-vol17">Thumas</a>
+
+  <a href="../cite/Verrici/1301/MemPic-vol17">Verrici</a>
+
+  <a href="../cite/Vibertus/1301/MemPic-vol17">Vibertus</a>
+
+  <a href="../cite/Villelmi/1301/MemPic-vol17">Villelmi</a>
+
+  <a href="../cite/Villermus/1301/MemPic-vol17">Villermus</a>
+
+  <a href="../cite/Vincenti/1301/MemPic-vol17">Vincenti</a>
+
+  <a href="../cite/Vincentii/1301/MemPic-vol17">Vincentii</a>
+
+  <a href="../cite/Vincentius/1301/MemPic-vol17">Vincentius</a>
+
+  <a href="../cite/Walonis/1301/MemPic-vol17">Walonis</a>
+
+  <a href="../cite/Walteri/1301/MemPic-vol17">Walteri</a>
+
+  <a href="../cite/Walterii/1301/MemPic-vol17">Walterii</a>
+
+  <a href="../cite/Walterus/1301/MemPic-vol17">Walterus</a>
+
+  <a href="../cite/Warini/1301/MemPic-vol17">Warini</a>
+
+  <a href="../cite/Wautier/1301/MemPic-vol17">Wautier</a>
+
+  <a href="../cite/Wautiers/1301/MemPic-vol17">Wautiers</a>
+
+  <a href="../cite/Wermont/1301/MemPic-vol17">Wermont</a>
+
+  <a href="../cite/Werrici/1301/MemPic-vol17">Werrici</a>
+
+  <a href="../cite/Wiart/1301/MemPic-vol17">Wiart</a>
+
+  <a href="../cite/Wicardus/1301/MemPic-vol17">Wicardus</a>
+
+  <a href="../cite/Wichardus/1301/MemPic-vol17">Wichardus</a>
+
+  <a href="../cite/Wilardi/1301/MemPic-vol17">Wilardi</a>
+
+  <a href="../cite/Wilars/1301/MemPic-vol17">Wilars</a>
+
+  <a href="../cite/Willardus/1301/MemPic-vol17">Willardus</a>
+
+  <a href="../cite/Willars/1301/MemPic-vol17">Willars</a>
+
+  <a href="../cite/Willart/1301/MemPic-vol17">Willart</a>
+
+  <a href="../cite/Willaume/1301/MemPic-vol17">Willaume</a>
+
+  <a href="../cite/Willaumes/1301/MemPic-vol17">Willaumes</a>
+
+  <a href="../cite/Willelmi/1301/MemPic-vol17">Willelmi</a>
+
+  <a href="../cite/Willelmus/1301/MemPic-vol17">Willelmus</a>
+
+  <a href="../cite/Willermi/1301/MemPic-vol17">Willermi</a>
+
+  <a href="../cite/Willermo/1301/MemPic-vol17">Willermo</a>
+
+  <a href="../cite/Willermus/1301/MemPic-vol17">Willermus</a>
+
+  <a href="../cite/Xristophori/1301/MemPic-vol17">Xristophori</a>
+
+  <a href="../cite/Yfeme/1301/MemPic-vol17">Yfeme</a>
+
+  <a href="../cite/Ysabeau/1301/MemPic-vol17">Ysabeau</a>
+
+  <a href="../cite/Ysabel/1301/MemPic-vol17">Ysabel</a>
+
+  <a href="../cite/Ysabella/1301/MemPic-vol17">Ysabella</a>
+
+  <a href="../cite/Ysabiaus/1301/MemPic-vol17">Ysabiaus</a>
+
+  <a href="../cite/Æelidis/1301/MemPic-vol17">Æelidis</a>
+
+  <a href="../cite/Ælidis/1301/MemPic-vol17">Ælidis</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

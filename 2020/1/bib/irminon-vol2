@@ -1,0 +1,1832 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>irminon-vol2</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>irminon-vol2</dt>
+  <dd>M. B. Guérard, editor. <em>Polyptyque de l'Abbé Irminon, ou Dénombrement des Manses, des Serfs, et des Revenus de l'Abbaye de Saint-Germain-des-Prés, sous le Regne de Charlemagne</em>, volume 2. Paris: Imprimé par Autorisation du Roi a l'Imprimerie Royale, 1844.</dd>
+</dl>
+
+
+  <a href="../cite/Aales/c823/irminon-vol2">Aales</a>
+
+  <a href="../cite/Abraham/c823/irminon-vol2">Abraham</a>
+
+  <a href="../cite/Abram/c823/irminon-vol2">Abram</a>
+
+  <a href="../cite/Acbertus/c823/irminon-vol2">Acbertus</a>
+
+  <a href="../cite/Acco/c823/irminon-vol2">Acco</a>
+
+  <a href="../cite/Acfreda/c823/irminon-vol2">Acfreda</a>
+
+  <a href="../cite/Acfredus/c823/irminon-vol2">Acfredus</a>
+
+  <a href="../cite/Achardus/c823/irminon-vol2">Achardus</a>
+
+  <a href="../cite/Acharius/c823/irminon-vol2">Acharius</a>
+
+  <a href="../cite/Achildis/c823/irminon-vol2">Achildis</a>
+
+  <a href="../cite/Acleberta/c823/irminon-vol2">Acleberta</a>
+
+  <a href="../cite/Aclebolda/c823/irminon-vol2">Aclebolda</a>
+
+  <a href="../cite/Acledrudis/c823/irminon-vol2">Acledrudis</a>
+
+  <a href="../cite/Acledulfus/c823/irminon-vol2">Acledulfus</a>
+
+  <a href="../cite/Aclefredus/c823/irminon-vol2">Aclefredus</a>
+
+  <a href="../cite/Aclehardus/c823/irminon-vol2">Aclehardus</a>
+
+  <a href="../cite/Acleharius/c823/irminon-vol2">Acleharius</a>
+
+  <a href="../cite/Aclehildis/c823/irminon-vol2">Aclehildis</a>
+
+  <a href="../cite/Aclemandus/c823/irminon-vol2">Aclemandus</a>
+
+  <a href="../cite/Aclemans/c823/irminon-vol2">Aclemans</a>
+
+  <a href="../cite/Aclemundus/c823/irminon-vol2">Aclemundus</a>
+
+  <a href="../cite/Aclevolda/c823/irminon-vol2">Aclevolda</a>
+
+  <a href="../cite/Aclildis/c823/irminon-vol2">Aclildis</a>
+
+  <a href="../cite/Aclindis/c823/irminon-vol2">Aclindis</a>
+
+  <a href="../cite/Aclulfus/c823/irminon-vol2">Aclulfus</a>
+
+  <a href="../cite/Actardus/c823/irminon-vol2">Actardus</a>
+
+  <a href="../cite/Actoinus/c823/irminon-vol2">Actoinus</a>
+
+  <a href="../cite/Ada/c823/irminon-vol2">Ada</a>
+
+  <a href="../cite/Adalardus/c823/irminon-vol2">Adalardus</a>
+
+  <a href="../cite/Adalberta/c823/irminon-vol2">Adalberta</a>
+
+  <a href="../cite/Adalbertus/c823/irminon-vol2">Adalbertus</a>
+
+  <a href="../cite/Adalboldus/c823/irminon-vol2">Adalboldus</a>
+
+  <a href="../cite/Adalburgs/c823/irminon-vol2">Adalburgs</a>
+
+  <a href="../cite/Adalelmus/c823/irminon-vol2">Adalelmus</a>
+
+  <a href="../cite/Adalfredus/c823/irminon-vol2">Adalfredus</a>
+
+  <a href="../cite/Adalfrida/c823/irminon-vol2">Adalfrida</a>
+
+  <a href="../cite/Adalgardis/c823/irminon-vol2">Adalgardis</a>
+
+  <a href="../cite/Adalgaria/c823/irminon-vol2">Adalgaria</a>
+
+  <a href="../cite/Adalgarius/c823/irminon-vol2">Adalgarius</a>
+
+  <a href="../cite/Adalgaudus/c823/irminon-vol2">Adalgaudus</a>
+
+  <a href="../cite/Adalgildis/c823/irminon-vol2">Adalgildis</a>
+
+  <a href="../cite/Adalgindis/c823/irminon-vol2">Adalgindis</a>
+
+  <a href="../cite/Adalgis/c823/irminon-vol2">Adalgis</a>
+
+  <a href="../cite/Adalgis/c823/irminon-vol2">Adalgis</a>
+
+  <a href="../cite/Adalgisdis/c823/irminon-vol2">Adalgisdis</a>
+
+  <a href="../cite/Adalgrims/c823/irminon-vol2">Adalgrims</a>
+
+  <a href="../cite/Adalgrimus/c823/irminon-vol2">Adalgrimus</a>
+
+  <a href="../cite/Adalgudis/c823/irminon-vol2">Adalgudis</a>
+
+  <a href="../cite/Adalgundis/c823/irminon-vol2">Adalgundis</a>
+
+  <a href="../cite/Adalhardus/c823/irminon-vol2">Adalhardus</a>
+
+  <a href="../cite/Adalharius/c823/irminon-vol2">Adalharius</a>
+
+  <a href="../cite/Adalhart/c823/irminon-vol2">Adalhart</a>
+
+  <a href="../cite/Adalhildis/c823/irminon-vol2">Adalhildis</a>
+
+  <a href="../cite/Adalia/c823/irminon-vol2">Adalia</a>
+
+  <a href="../cite/Adalindis/c823/irminon-vol2">Adalindis</a>
+
+  <a href="../cite/Adalmarus/c823/irminon-vol2">Adalmarus</a>
+
+  <a href="../cite/Adalmodus/c823/irminon-vol2">Adalmodus</a>
+
+  <a href="../cite/Adaloldus/c823/irminon-vol2">Adaloldus</a>
+
+  <a href="../cite/Adalongus/c823/irminon-vol2">Adalongus</a>
+
+  <a href="../cite/Adalrad/c823/irminon-vol2">Adalrad</a>
+
+  <a href="../cite/Adalrada/c823/irminon-vol2">Adalrada</a>
+
+  <a href="../cite/Adalradus/c823/irminon-vol2">Adalradus</a>
+
+  <a href="../cite/Adalrammus/c823/irminon-vol2">Adalrammus</a>
+
+  <a href="../cite/Adalranus/c823/irminon-vol2">Adalranus</a>
+
+  <a href="../cite/Adalricus/c823/irminon-vol2">Adalricus</a>
+
+  <a href="../cite/Adalsada/c823/irminon-vol2">Adalsada</a>
+
+  <a href="../cite/Adalsadus/c823/irminon-vol2">Adalsadus</a>
+
+  <a href="../cite/Adalsindis/c823/irminon-vol2">Adalsindis</a>
+
+  <a href="../cite/Adalsundis/c823/irminon-vol2">Adalsundis</a>
+
+  <a href="../cite/Adaltrudis/c823/irminon-vol2">Adaltrudis</a>
+
+  <a href="../cite/Adaluinus/c823/irminon-vol2">Adaluinus</a>
+
+  <a href="../cite/Adalulfus/c823/irminon-vol2">Adalulfus</a>
+
+  <a href="../cite/Adda/c823/irminon-vol2">Adda</a>
+
+  <a href="../cite/Adegarius/c823/irminon-vol2">Adegarius</a>
+
+  <a href="../cite/Ademarus/c823/irminon-vol2">Ademarus</a>
+
+  <a href="../cite/Adericus/c823/irminon-vol2">Adericus</a>
+
+  <a href="../cite/Ado/c823/irminon-vol2">Ado</a>
+
+  <a href="../cite/Adrabaldus/c823/irminon-vol2">Adrabaldus</a>
+
+  <a href="../cite/Adrebaldus/c823/irminon-vol2">Adrebaldus</a>
+
+  <a href="../cite/Adreharius/c823/irminon-vol2">Adreharius</a>
+
+  <a href="../cite/Adrehildis/c823/irminon-vol2">Adrehildis</a>
+
+  <a href="../cite/Adremarus/c823/irminon-vol2">Adremarus</a>
+
+  <a href="../cite/Adreveus/c823/irminon-vol2">Adreveus</a>
+
+  <a href="../cite/Adriana/c823/irminon-vol2">Adriana</a>
+
+  <a href="../cite/Adrianus/c823/irminon-vol2">Adrianus</a>
+
+  <a href="../cite/Adrildis/c823/irminon-vol2">Adrildis</a>
+
+  <a href="../cite/Adrulfus/c823/irminon-vol2">Adrulfus</a>
+
+  <a href="../cite/Agebertus/c823/irminon-vol2">Agebertus</a>
+
+  <a href="../cite/Agedrudis/c823/irminon-vol2">Agedrudis</a>
+
+  <a href="../cite/Agembertus/c823/irminon-vol2">Agembertus</a>
+
+  <a href="../cite/Agena/c823/irminon-vol2">Agena</a>
+
+  <a href="../cite/Agenildis/c823/irminon-vol2">Agenildis</a>
+
+  <a href="../cite/Agenteus/c823/irminon-vol2">Agenteus</a>
+
+  <a href="../cite/Agentrudis/c823/irminon-vol2">Agentrudis</a>
+
+  <a href="../cite/Agenulfus/c823/irminon-vol2">Agenulfus</a>
+
+  <a href="../cite/Agia/c823/irminon-vol2">Agia</a>
+
+  <a href="../cite/Agina/c823/irminon-vol2">Agina</a>
+
+  <a href="../cite/Agledrudis/c823/irminon-vol2">Agledrudis</a>
+
+  <a href="../cite/Agleharius/c823/irminon-vol2">Agleharius</a>
+
+  <a href="../cite/Aglildis/c823/irminon-vol2">Aglildis</a>
+
+  <a href="../cite/Aglindis/c823/irminon-vol2">Aglindis</a>
+
+  <a href="../cite/Agnes/c823/irminon-vol2">Agnes</a>
+
+  <a href="../cite/Aiardi/c823/irminon-vol2">Aiardi</a>
+
+  <a href="../cite/Aicfrida/c823/irminon-vol2">Aicfrida</a>
+
+  <a href="../cite/Aichildis/c823/irminon-vol2">Aichildis</a>
+
+  <a href="../cite/Aictardus/c823/irminon-vol2">Aictardus</a>
+
+  <a href="../cite/Aimardus/c823/irminon-vol2">Aimardus</a>
+
+  <a href="../cite/Airhardus/c823/irminon-vol2">Airhardus</a>
+
+  <a href="../cite/Airmarus/c823/irminon-vol2">Airmarus</a>
+
+  <a href="../cite/Airoenus/c823/irminon-vol2">Airoenus</a>
+
+  <a href="../cite/Aitardus/c823/irminon-vol2">Aitardus</a>
+
+  <a href="../cite/Aitildis/c823/irminon-vol2">Aitildis</a>
+
+  <a href="../cite/Aitla/c823/irminon-vol2">Aitla</a>
+
+  <a href="../cite/Aitlandus/c823/irminon-vol2">Aitlandus</a>
+
+  <a href="../cite/Aitulfus/c823/irminon-vol2">Aitulfus</a>
+
+  <a href="../cite/Alafredus/c823/irminon-vol2">Alafredus</a>
+
+  <a href="../cite/Alanteus/c823/irminon-vol2">Alanteus</a>
+
+  <a href="../cite/Alaricus/c823/irminon-vol2">Alaricus</a>
+
+  <a href="../cite/Albericus/c823/irminon-vol2">Albericus</a>
+
+  <a href="../cite/Alberta/c823/irminon-vol2">Alberta</a>
+
+  <a href="../cite/Alboelt/c823/irminon-vol2">Alboelt</a>
+
+  <a href="../cite/Albuinus/c823/irminon-vol2">Albuinus</a>
+
+  <a href="../cite/Alburgis/c823/irminon-vol2">Alburgis</a>
+
+  <a href="../cite/Aldeberga/c823/irminon-vol2">Aldeberga</a>
+
+  <a href="../cite/Aldedrudis/c823/irminon-vol2">Aldedrudis</a>
+
+  <a href="../cite/Aldegarius/c823/irminon-vol2">Aldegarius</a>
+
+  <a href="../cite/Aldeildis/c823/irminon-vol2">Aldeildis</a>
+
+  <a href="../cite/Aldeverta/c823/irminon-vol2">Aldeverta</a>
+
+  <a href="../cite/Aldina/c823/irminon-vol2">Aldina</a>
+
+  <a href="../cite/Aldinga/c823/irminon-vol2">Aldinga</a>
+
+  <a href="../cite/Aldingus/c823/irminon-vol2">Aldingus</a>
+
+  <a href="../cite/Aldo/c823/irminon-vol2">Aldo</a>
+
+  <a href="../cite/Aldrannus/c823/irminon-vol2">Aldrannus</a>
+
+  <a href="../cite/Aldricus/c823/irminon-vol2">Aldricus</a>
+
+  <a href="../cite/Aldulfus/c823/irminon-vol2">Aldulfus</a>
+
+  <a href="../cite/Alexander/c823/irminon-vol2">Alexander</a>
+
+  <a href="../cite/Alexandra/c823/irminon-vol2">Alexandra</a>
+
+  <a href="../cite/Alfredus/c823/irminon-vol2">Alfredus</a>
+
+  <a href="../cite/Alkerus/c823/irminon-vol2">Alkerus</a>
+
+  <a href="../cite/Allo/c823/irminon-vol2">Allo</a>
+
+  <a href="../cite/Aloardus/c823/irminon-vol2">Aloardus</a>
+
+  <a href="../cite/Alsindis/c823/irminon-vol2">Alsindis</a>
+
+  <a href="../cite/Altbertus/c823/irminon-vol2">Altbertus</a>
+
+  <a href="../cite/Altchildis/c823/irminon-vol2">Altchildis</a>
+
+  <a href="../cite/Altegeberga/c823/irminon-vol2">Altegeberga</a>
+
+  <a href="../cite/Altelmus/c823/irminon-vol2">Altelmus</a>
+
+  <a href="../cite/Altildis/c823/irminon-vol2">Altildis</a>
+
+  <a href="../cite/Amadildis/c823/irminon-vol2">Amadildis</a>
+
+  <a href="../cite/Amalberga/c823/irminon-vol2">Amalberga</a>
+
+  <a href="../cite/Amalbertus/c823/irminon-vol2">Amalbertus</a>
+
+  <a href="../cite/Amalfredus/c823/irminon-vol2">Amalfredus</a>
+
+  <a href="../cite/Amalfrida/c823/irminon-vol2">Amalfrida</a>
+
+  <a href="../cite/Amalgardis/c823/irminon-vol2">Amalgardis</a>
+
+  <a href="../cite/Amalgaudus/c823/irminon-vol2">Amalgaudus</a>
+
+  <a href="../cite/Amalgildis/c823/irminon-vol2">Amalgildis</a>
+
+  <a href="../cite/Amalhildis/c823/irminon-vol2">Amalhildis</a>
+
+  <a href="../cite/Amalricus/c823/irminon-vol2">Amalricus</a>
+
+  <a href="../cite/Amaltrudis/c823/irminon-vol2">Amaltrudis</a>
+
+  <a href="../cite/Amelius/c823/irminon-vol2">Amelius</a>
+
+  <a href="../cite/Amicus/c823/irminon-vol2">Amicus</a>
+
+  <a href="../cite/Ansberta/c823/irminon-vol2">Ansberta</a>
+
+  <a href="../cite/Ansbertus/c823/irminon-vol2">Ansbertus</a>
+
+  <a href="../cite/Ansboldus/c823/irminon-vol2">Ansboldus</a>
+
+  <a href="../cite/Ansbrandus/c823/irminon-vol2">Ansbrandus</a>
+
+  <a href="../cite/Ansegarius/c823/irminon-vol2">Ansegarius</a>
+
+  <a href="../cite/Ansegaudus/c823/irminon-vol2">Ansegaudus</a>
+
+  <a href="../cite/Ansegildis/c823/irminon-vol2">Ansegildis</a>
+
+  <a href="../cite/Ansevoldus/c823/irminon-vol2">Ansevoldus</a>
+
+  <a href="../cite/Ansfredus/c823/irminon-vol2">Ansfredus</a>
+
+  <a href="../cite/Ansoildis/c823/irminon-vol2">Ansoildis</a>
+
+  <a href="../cite/Ansoinus/c823/irminon-vol2">Ansoinus</a>
+
+  <a href="../cite/Ansois/c823/irminon-vol2">Ansois</a>
+
+  <a href="../cite/Arcoinus/c823/irminon-vol2">Arcoinus</a>
+
+  <a href="../cite/Ardegarius/c823/irminon-vol2">Ardegarius</a>
+
+  <a href="../cite/Ardegildis/c823/irminon-vol2">Ardegildis</a>
+
+  <a href="../cite/Ardinga/c823/irminon-vol2">Ardinga</a>
+
+  <a href="../cite/Ardois/c823/irminon-vol2">Ardois</a>
+
+  <a href="../cite/Ardricus/c823/irminon-vol2">Ardricus</a>
+
+  <a href="../cite/Ardulfus/c823/irminon-vol2">Ardulfus</a>
+
+  <a href="../cite/Aregia/c823/irminon-vol2">Aregia</a>
+
+  <a href="../cite/Aregildis/c823/irminon-vol2">Aregildis</a>
+
+  <a href="../cite/Arnulfus/c823/irminon-vol2">Arnulfus</a>
+
+  <a href="../cite/Aroildis/c823/irminon-vol2">Aroildis</a>
+
+  <a href="../cite/Aroinus/c823/irminon-vol2">Aroinus</a>
+
+  <a href="../cite/Arois/c823/irminon-vol2">Arois</a>
+
+  <a href="../cite/Artcarius/c823/irminon-vol2">Artcarius</a>
+
+  <a href="../cite/Atingus/c823/irminon-vol2">Atingus</a>
+
+  <a href="../cite/Audrada/c823/irminon-vol2">Audrada</a>
+
+  <a href="../cite/Audradus/c823/irminon-vol2">Audradus</a>
+
+  <a href="../cite/Auresma/c823/irminon-vol2">Auresma</a>
+
+  <a href="../cite/Aurisma/c823/irminon-vol2">Aurisma</a>
+
+  <a href="../cite/Autbertus/c823/irminon-vol2">Autbertus</a>
+
+  <a href="../cite/Autgelindis/c823/irminon-vol2">Autgelindis</a>
+
+  <a href="../cite/Authildis/c823/irminon-vol2">Authildis</a>
+
+  <a href="../cite/Autlaicus/c823/irminon-vol2">Autlaicus</a>
+
+  <a href="../cite/Autrannus/c823/irminon-vol2">Autrannus</a>
+
+  <a href="../cite/Auttrudis/c823/irminon-vol2">Auttrudis</a>
+
+  <a href="../cite/Balda/c823/irminon-vol2">Balda</a>
+
+  <a href="../cite/Baldegildis/c823/irminon-vol2">Baldegildis</a>
+
+  <a href="../cite/Baldinga/c823/irminon-vol2">Baldinga</a>
+
+  <a href="../cite/Baldoarium/c823/irminon-vol2">Baldoarium</a>
+
+  <a href="../cite/Baldoina/c823/irminon-vol2">Baldoina</a>
+
+  <a href="../cite/Baldrannus/c823/irminon-vol2">Baldrannus</a>
+
+  <a href="../cite/Baldricus/c823/irminon-vol2">Baldricus</a>
+
+  <a href="../cite/Baldulfus/c823/irminon-vol2">Baldulfus</a>
+
+  <a href="../cite/Balsinda/c823/irminon-vol2">Balsinda</a>
+
+  <a href="../cite/Baltadus/c823/irminon-vol2">Baltadus</a>
+
+  <a href="../cite/Baltrudis/c823/irminon-vol2">Baltrudis</a>
+
+  <a href="../cite/Bartolomeus/c823/irminon-vol2">Bartolomeus</a>
+
+  <a href="../cite/Benedicta/c823/irminon-vol2">Benedicta</a>
+
+  <a href="../cite/Benedictus/c823/irminon-vol2">Benedictus</a>
+
+  <a href="../cite/Benegarius/c823/irminon-vol2">Benegarius</a>
+
+  <a href="../cite/Beraldus/c823/irminon-vol2">Beraldus</a>
+
+  <a href="../cite/Berengarius/c823/irminon-vol2">Berengarius</a>
+
+  <a href="../cite/Berengaus/c823/irminon-vol2">Berengaus</a>
+
+  <a href="../cite/Berloinus/c823/irminon-vol2">Berloinus</a>
+
+  <a href="../cite/Berneardus/c823/irminon-vol2">Berneardus</a>
+
+  <a href="../cite/Bernegaria/c823/irminon-vol2">Bernegaria</a>
+
+  <a href="../cite/Bernegarius/c823/irminon-vol2">Bernegarius</a>
+
+  <a href="../cite/Bernegildis/c823/irminon-vol2">Bernegildis</a>
+
+  <a href="../cite/Bernehardus/c823/irminon-vol2">Bernehardus</a>
+
+  <a href="../cite/Berneharius/c823/irminon-vol2">Berneharius</a>
+
+  <a href="../cite/Bernehaus/c823/irminon-vol2">Bernehaus</a>
+
+  <a href="../cite/Berneherus/c823/irminon-vol2">Berneherus</a>
+
+  <a href="../cite/Bernehildis/c823/irminon-vol2">Bernehildis</a>
+
+  <a href="../cite/Bernoara/c823/irminon-vol2">Bernoara</a>
+
+  <a href="../cite/Bernoinus/c823/irminon-vol2">Bernoinus</a>
+
+  <a href="../cite/Bernoldus/c823/irminon-vol2">Bernoldus</a>
+
+  <a href="../cite/Beroildis/c823/irminon-vol2">Beroildis</a>
+
+  <a href="../cite/Beroldus/c823/irminon-vol2">Beroldus</a>
+
+  <a href="../cite/Berta/c823/irminon-vol2">Berta</a>
+
+  <a href="../cite/Bertara/c823/irminon-vol2">Bertara</a>
+
+  <a href="../cite/Bertegarius/c823/irminon-vol2">Bertegarius</a>
+
+  <a href="../cite/Bertegildis/c823/irminon-vol2">Bertegildis</a>
+
+  <a href="../cite/Bertfredus/c823/irminon-vol2">Bertfredus</a>
+
+  <a href="../cite/Bertgarius/c823/irminon-vol2">Bertgarius</a>
+
+  <a href="../cite/Bertgaudus/c823/irminon-vol2">Bertgaudus</a>
+
+  <a href="../cite/Berthildis/c823/irminon-vol2">Berthildis</a>
+
+  <a href="../cite/Bertildis/c823/irminon-vol2">Bertildis</a>
+
+  <a href="../cite/Bertinga/c823/irminon-vol2">Bertinga</a>
+
+  <a href="../cite/Bertingaudus/c823/irminon-vol2">Bertingaudus</a>
+
+  <a href="../cite/Bertingus/c823/irminon-vol2">Bertingus</a>
+
+  <a href="../cite/Bertisma/c823/irminon-vol2">Bertisma</a>
+
+  <a href="../cite/Bertla/c823/irminon-vol2">Bertla</a>
+
+  <a href="../cite/Bertleis/c823/irminon-vol2">Bertleis</a>
+
+  <a href="../cite/Bertlindis/c823/irminon-vol2">Bertlindis</a>
+
+  <a href="../cite/Bertoildis/c823/irminon-vol2">Bertoildis</a>
+
+  <a href="../cite/Bertoinus/c823/irminon-vol2">Bertoinus</a>
+
+  <a href="../cite/Bertrada/c823/irminon-vol2">Bertrada</a>
+
+  <a href="../cite/Bertradus/c823/irminon-vol2">Bertradus</a>
+
+  <a href="../cite/Bertrannus/c823/irminon-vol2">Bertrannus</a>
+
+  <a href="../cite/Bertraus/c823/irminon-vol2">Bertraus</a>
+
+  <a href="../cite/Bertsuindis/c823/irminon-vol2">Bertsuindis</a>
+
+  <a href="../cite/Bertulfus/c823/irminon-vol2">Bertulfus</a>
+
+  <a href="../cite/Betta/c823/irminon-vol2">Betta</a>
+
+  <a href="../cite/Blathildis/c823/irminon-vol2">Blathildis</a>
+
+  <a href="../cite/Blitgildis/c823/irminon-vol2">Blitgildis</a>
+
+  <a href="../cite/Blitharius/c823/irminon-vol2">Blitharius</a>
+
+  <a href="../cite/Bona/c823/irminon-vol2">Bona</a>
+
+  <a href="../cite/Boso/c823/irminon-vol2">Boso</a>
+
+  <a href="../cite/Cesarius/c823/irminon-vol2">Cesarius</a>
+
+  <a href="../cite/Constancia/c823/irminon-vol2">Constancia</a>
+
+  <a href="../cite/Constantina/c823/irminon-vol2">Constantina</a>
+
+  <a href="../cite/Constantinus/c823/irminon-vol2">Constantinus</a>
+
+  <a href="../cite/Cristina/c823/irminon-vol2">Cristina</a>
+
+  <a href="../cite/Cristofolus/c823/irminon-vol2">Cristofolus</a>
+
+  <a href="../cite/Cristoforus/c823/irminon-vol2">Cristoforus</a>
+
+  <a href="../cite/Cristoina/c823/irminon-vol2">Cristoina</a>
+
+  <a href="../cite/Cristoinus/c823/irminon-vol2">Cristoinus</a>
+
+  <a href="../cite/Dalbertus/c823/irminon-vol2">Dalbertus</a>
+
+  <a href="../cite/Daniel/c823/irminon-vol2">Daniel</a>
+
+  <a href="../cite/Daroinus/c823/irminon-vol2">Daroinus</a>
+
+  <a href="../cite/Deodoinus/c823/irminon-vol2">Deodoinus</a>
+
+  <a href="../cite/Deodulfus/c823/irminon-vol2">Deodulfus</a>
+
+  <a href="../cite/Ditfredus/c823/irminon-vol2">Ditfredus</a>
+
+  <a href="../cite/Doctramna/c823/irminon-vol2">Doctramna</a>
+
+  <a href="../cite/Doda/c823/irminon-vol2">Doda</a>
+
+  <a href="../cite/Dodeus/c823/irminon-vol2">Dodeus</a>
+
+  <a href="../cite/Dodinus/c823/irminon-vol2">Dodinus</a>
+
+  <a href="../cite/Dodo/c823/irminon-vol2">Dodo</a>
+
+  <a href="../cite/Dominica/c823/irminon-vol2">Dominica</a>
+
+  <a href="../cite/Dominicus/c823/irminon-vol2">Dominicus</a>
+
+  <a href="../cite/Dotbertus/c823/irminon-vol2">Dotbertus</a>
+
+  <a href="../cite/Droctboldus/c823/irminon-vol2">Droctboldus</a>
+
+  <a href="../cite/Dulcedramnus/c823/irminon-vol2">Dulcedramnus</a>
+
+  <a href="../cite/Ebregrims/c823/irminon-vol2">Ebregrims</a>
+
+  <a href="../cite/Ebreharius/c823/irminon-vol2">Ebreharius</a>
+
+  <a href="../cite/Ebrevertus/c823/irminon-vol2">Ebrevertus</a>
+
+  <a href="../cite/Ebrulfus/c823/irminon-vol2">Ebrulfus</a>
+
+  <a href="../cite/Echardus/c823/irminon-vol2">Echardus</a>
+
+  <a href="../cite/Eda/c823/irminon-vol2">Eda</a>
+
+  <a href="../cite/Edenelt/c823/irminon-vol2">Edenelt</a>
+
+  <a href="../cite/Eitfredus/c823/irminon-vol2">Eitfredus</a>
+
+  <a href="../cite/Elaria/c823/irminon-vol2">Elaria</a>
+
+  <a href="../cite/Eldrada/c823/irminon-vol2">Eldrada</a>
+
+  <a href="../cite/Eldradus/c823/irminon-vol2">Eldradus</a>
+
+  <a href="../cite/Electa/c823/irminon-vol2">Electa</a>
+
+  <a href="../cite/Electelmus/c823/irminon-vol2">Electelmus</a>
+
+  <a href="../cite/Electeus/c823/irminon-vol2">Electeus</a>
+
+  <a href="../cite/Electrudis/c823/irminon-vol2">Electrudis</a>
+
+  <a href="../cite/Electulfs/c823/irminon-vol2">Electulfs</a>
+
+  <a href="../cite/Electus/c823/irminon-vol2">Electus</a>
+
+  <a href="../cite/Elegia/c823/irminon-vol2">Elegia</a>
+
+  <a href="../cite/Elisabet/c823/irminon-vol2">Elisabet</a>
+
+  <a href="../cite/Elisanna/c823/irminon-vol2">Elisanna</a>
+
+  <a href="../cite/Elisaria/c823/irminon-vol2">Elisaria</a>
+
+  <a href="../cite/Ercamarus/c823/irminon-vol2">Ercamarus</a>
+
+  <a href="../cite/Ercamberta/c823/irminon-vol2">Ercamberta</a>
+
+  <a href="../cite/Ercamboldus/c823/irminon-vol2">Ercamboldus</a>
+
+  <a href="../cite/Ercanarius/c823/irminon-vol2">Ercanarius</a>
+
+  <a href="../cite/Ercanfredus/c823/irminon-vol2">Ercanfredus</a>
+
+  <a href="../cite/Ercanildis/c823/irminon-vol2">Ercanildis</a>
+
+  <a href="../cite/Ercanoldus/c823/irminon-vol2">Ercanoldus</a>
+
+  <a href="../cite/Ercanradus/c823/irminon-vol2">Ercanradus</a>
+
+  <a href="../cite/Ercanricus/c823/irminon-vol2">Ercanricus</a>
+
+  <a href="../cite/Ercantrudis/c823/irminon-vol2">Ercantrudis</a>
+
+  <a href="../cite/Eriberta/c823/irminon-vol2">Eriberta</a>
+
+  <a href="../cite/Eribertus/c823/irminon-vol2">Eribertus</a>
+
+  <a href="../cite/Eribrandus/c823/irminon-vol2">Eribrandus</a>
+
+  <a href="../cite/Erimgaudus/c823/irminon-vol2">Erimgaudus</a>
+
+  <a href="../cite/Eriveus/c823/irminon-vol2">Eriveus</a>
+
+  <a href="../cite/Erlindis/c823/irminon-vol2">Erlindis</a>
+
+  <a href="../cite/Erlulf/c823/irminon-vol2">Erlulf</a>
+
+  <a href="../cite/Erlulfus/c823/irminon-vol2">Erlulfus</a>
+
+  <a href="../cite/Ermbertus/c823/irminon-vol2">Ermbertus</a>
+
+  <a href="../cite/Ermedrudis/c823/irminon-vol2">Ermedrudis</a>
+
+  <a href="../cite/Ermeharius/c823/irminon-vol2">Ermeharius</a>
+
+  <a href="../cite/Ermehildis/c823/irminon-vol2">Ermehildis</a>
+
+  <a href="../cite/Ermemberga/c823/irminon-vol2">Ermemberga</a>
+
+  <a href="../cite/Ermemberta/c823/irminon-vol2">Ermemberta</a>
+
+  <a href="../cite/Ermembertus/c823/irminon-vol2">Ermembertus</a>
+
+  <a href="../cite/Ermenaldus/c823/irminon-vol2">Ermenaldus</a>
+
+  <a href="../cite/Ermenardus/c823/irminon-vol2">Ermenardus</a>
+
+  <a href="../cite/Ermenarius/c823/irminon-vol2">Ermenarius</a>
+
+  <a href="../cite/Ermenberga/c823/irminon-vol2">Ermenberga</a>
+
+  <a href="../cite/Ermenberta/c823/irminon-vol2">Ermenberta</a>
+
+  <a href="../cite/Ermenbertus/c823/irminon-vol2">Ermenbertus</a>
+
+  <a href="../cite/Ermenbolda/c823/irminon-vol2">Ermenbolda</a>
+
+  <a href="../cite/Ermenfredus/c823/irminon-vol2">Ermenfredus</a>
+
+  <a href="../cite/Ermengardis/c823/irminon-vol2">Ermengardis</a>
+
+  <a href="../cite/Ermengarius/c823/irminon-vol2">Ermengarius</a>
+
+  <a href="../cite/Ermengauda/c823/irminon-vol2">Ermengauda</a>
+
+  <a href="../cite/Ermengaudus/c823/irminon-vol2">Ermengaudus</a>
+
+  <a href="../cite/Ermengaut/c823/irminon-vol2">Ermengaut</a>
+
+  <a href="../cite/Ermengildis/c823/irminon-vol2">Ermengildis</a>
+
+  <a href="../cite/Ermenildis/c823/irminon-vol2">Ermenildis</a>
+
+  <a href="../cite/Ermenoldus/c823/irminon-vol2">Ermenoldus</a>
+
+  <a href="../cite/Ermenolt/c823/irminon-vol2">Ermenolt</a>
+
+  <a href="../cite/Ermenricus/c823/irminon-vol2">Ermenricus</a>
+
+  <a href="../cite/Ermensindis/c823/irminon-vol2">Ermensindis</a>
+
+  <a href="../cite/Ermentarius/c823/irminon-vol2">Ermentarius</a>
+
+  <a href="../cite/Ermentera/c823/irminon-vol2">Ermentera</a>
+
+  <a href="../cite/Ermentildis/c823/irminon-vol2">Ermentildis</a>
+
+  <a href="../cite/Ermentrudis/c823/irminon-vol2">Ermentrudis</a>
+
+  <a href="../cite/Ermenulfus/c823/irminon-vol2">Ermenulfus</a>
+
+  <a href="../cite/Ermgaudus/c823/irminon-vol2">Ermgaudus</a>
+
+  <a href="../cite/Ermina/c823/irminon-vol2">Ermina</a>
+
+  <a href="../cite/Ermintrudem/c823/irminon-vol2">Ermintrudem</a>
+
+  <a href="../cite/Ermoildis/c823/irminon-vol2">Ermoildis</a>
+
+  <a href="../cite/Ermsindis/c823/irminon-vol2">Ermsindis</a>
+
+  <a href="../cite/Ernaldus/c823/irminon-vol2">Ernaldus</a>
+
+  <a href="../cite/Ernaudus/c823/irminon-vol2">Ernaudus</a>
+
+  <a href="../cite/Ernoldus/c823/irminon-vol2">Ernoldus</a>
+
+  <a href="../cite/Eudimia/c823/irminon-vol2">Eudimia</a>
+
+  <a href="../cite/Eureboldus/c823/irminon-vol2">Eureboldus</a>
+
+  <a href="../cite/Euremodus/c823/irminon-vol2">Euremodus</a>
+
+  <a href="../cite/Eva/c823/irminon-vol2">Eva</a>
+
+  <a href="../cite/Faber/c823/irminon-vol2">Faber</a>
+
+  <a href="../cite/Farberta/c823/irminon-vol2">Farberta</a>
+
+  <a href="../cite/Farbertus/c823/irminon-vol2">Farbertus</a>
+
+  <a href="../cite/Feregildis/c823/irminon-vol2">Feregildis</a>
+
+  <a href="../cite/Flodoinus/c823/irminon-vol2">Flodoinus</a>
+
+  <a href="../cite/Framberta/c823/irminon-vol2">Framberta</a>
+
+  <a href="../cite/Frambolda/c823/irminon-vol2">Frambolda</a>
+
+  <a href="../cite/Framengarius/c823/irminon-vol2">Framengarius</a>
+
+  <a href="../cite/Framengildis/c823/irminon-vol2">Framengildis</a>
+
+  <a href="../cite/Framoinus/c823/irminon-vol2">Framoinus</a>
+
+  <a href="../cite/Framtrudis/c823/irminon-vol2">Framtrudis</a>
+
+  <a href="../cite/Fredebertus/c823/irminon-vol2">Fredebertus</a>
+
+  <a href="../cite/Fredegarius/c823/irminon-vol2">Fredegarius</a>
+
+  <a href="../cite/Frodeberga/c823/irminon-vol2">Frodeberga</a>
+
+  <a href="../cite/Frodegardus/c823/irminon-vol2">Frodegardus</a>
+
+  <a href="../cite/Frodinus/c823/irminon-vol2">Frodinus</a>
+
+  <a href="../cite/Frotberga/c823/irminon-vol2">Frotberga</a>
+
+  <a href="../cite/Frotbolda/c823/irminon-vol2">Frotbolda</a>
+
+  <a href="../cite/Frotboldus/c823/irminon-vol2">Frotboldus</a>
+
+  <a href="../cite/Frotfredus/c823/irminon-vol2">Frotfredus</a>
+
+  <a href="../cite/Frotfridus/c823/irminon-vol2">Frotfridus</a>
+
+  <a href="../cite/Frotgarius/c823/irminon-vol2">Frotgarius</a>
+
+  <a href="../cite/Frothildis/c823/irminon-vol2">Frothildis</a>
+
+  <a href="../cite/Frotlindis/c823/irminon-vol2">Frotlindis</a>
+
+  <a href="../cite/Fulbertus/c823/irminon-vol2">Fulbertus</a>
+
+  <a href="../cite/Fulca/c823/irminon-vol2">Fulca</a>
+
+  <a href="../cite/Fulcardus/c823/irminon-vol2">Fulcardus</a>
+
+  <a href="../cite/Fulcoinus/c823/irminon-vol2">Fulcoinus</a>
+
+  <a href="../cite/Fulcoldi/c823/irminon-vol2">Fulcoldi</a>
+
+  <a href="../cite/Fulcoldus/c823/irminon-vol2">Fulcoldus</a>
+
+  <a href="../cite/Fulcrada/c823/irminon-vol2">Fulcrada</a>
+
+  <a href="../cite/Fulcranus/c823/irminon-vol2">Fulcranus</a>
+
+  <a href="../cite/Gairberga/c823/irminon-vol2">Gairberga</a>
+
+  <a href="../cite/Gairbertus/c823/irminon-vol2">Gairbertus</a>
+
+  <a href="../cite/Gairoinus/c823/irminon-vol2">Gairoinus</a>
+
+  <a href="../cite/Galterius/c823/irminon-vol2">Galterius</a>
+
+  <a href="../cite/Garinus/c823/irminon-vol2">Garinus</a>
+
+  <a href="../cite/Gaudimia/c823/irminon-vol2">Gaudimia</a>
+
+  <a href="../cite/Gaugia/c823/irminon-vol2">Gaugia</a>
+
+  <a href="../cite/Gaugina/c823/irminon-vol2">Gaugina</a>
+
+  <a href="../cite/Gausbertus/c823/irminon-vol2">Gausbertus</a>
+
+  <a href="../cite/Gaustrudis/c823/irminon-vol2">Gaustrudis</a>
+
+  <a href="../cite/Gautlindis/c823/irminon-vol2">Gautlindis</a>
+
+  <a href="../cite/Gautmarus/c823/irminon-vol2">Gautmarus</a>
+
+  <a href="../cite/Gautselmus/c823/irminon-vol2">Gautselmus</a>
+
+  <a href="../cite/Geirberta/c823/irminon-vol2">Geirberta</a>
+
+  <a href="../cite/Gendrada/c823/irminon-vol2">Gendrada</a>
+
+  <a href="../cite/Genovefa/c823/irminon-vol2">Genovefa</a>
+
+  <a href="../cite/Geraldus/c823/irminon-vol2">Geraldus</a>
+
+  <a href="../cite/Gerardus/c823/irminon-vol2">Gerardus</a>
+
+  <a href="../cite/Gerbalda/c823/irminon-vol2">Gerbalda</a>
+
+  <a href="../cite/Gerberga/c823/irminon-vol2">Gerberga</a>
+
+  <a href="../cite/Gerbertus/c823/irminon-vol2">Gerbertus</a>
+
+  <a href="../cite/Gerburc/c823/irminon-vol2">Gerburc</a>
+
+  <a href="../cite/Gerelmus/c823/irminon-vol2">Gerelmus</a>
+
+  <a href="../cite/Gerharius/c823/irminon-vol2">Gerharius</a>
+
+  <a href="../cite/Gerhaus/c823/irminon-vol2">Gerhaus</a>
+
+  <a href="../cite/Gerhildis/c823/irminon-vol2">Gerhildis</a>
+
+  <a href="../cite/Geringus/c823/irminon-vol2">Geringus</a>
+
+  <a href="../cite/Gerlindis/c823/irminon-vol2">Gerlindis</a>
+
+  <a href="../cite/Germana/c823/irminon-vol2">Germana</a>
+
+  <a href="../cite/Germanus/c823/irminon-vol2">Germanus</a>
+
+  <a href="../cite/Germarus/c823/irminon-vol2">Germarus</a>
+
+  <a href="../cite/Germundus/c823/irminon-vol2">Germundus</a>
+
+  <a href="../cite/Geroardus/c823/irminon-vol2">Geroardus</a>
+
+  <a href="../cite/Geroildis/c823/irminon-vol2">Geroildis</a>
+
+  <a href="../cite/Geroldus/c823/irminon-vol2">Geroldus</a>
+
+  <a href="../cite/Gerosmus/c823/irminon-vol2">Gerosmus</a>
+
+  <a href="../cite/Gertrudis/c823/irminon-vol2">Gertrudis</a>
+
+  <a href="../cite/Gerulfus/c823/irminon-vol2">Gerulfus</a>
+
+  <a href="../cite/Gillermus/c823/irminon-vol2">Gillermus</a>
+
+  <a href="../cite/Giraldus/c823/irminon-vol2">Giraldus</a>
+
+  <a href="../cite/Girardus/c823/irminon-vol2">Girardus</a>
+
+  <a href="../cite/Girbaudus/c823/irminon-vol2">Girbaudus</a>
+
+  <a href="../cite/Girberga/c823/irminon-vol2">Girberga</a>
+
+  <a href="../cite/Girboldus/c823/irminon-vol2">Girboldus</a>
+
+  <a href="../cite/Girelma/c823/irminon-vol2">Girelma</a>
+
+  <a href="../cite/Girfredus/c823/irminon-vol2">Girfredus</a>
+
+  <a href="../cite/Girhaus/c823/irminon-vol2">Girhaus</a>
+
+  <a href="../cite/Giroardus/c823/irminon-vol2">Giroardus</a>
+
+  <a href="../cite/Giroinus/c823/irminon-vol2">Giroinus</a>
+
+  <a href="../cite/Giroldus/c823/irminon-vol2">Giroldus</a>
+
+  <a href="../cite/Gisa/c823/irminon-vol2">Gisa</a>
+
+  <a href="../cite/Gislara/c823/irminon-vol2">Gislara</a>
+
+  <a href="../cite/Gislebertus/c823/irminon-vol2">Gislebertus</a>
+
+  <a href="../cite/Gisleboldus/c823/irminon-vol2">Gisleboldus</a>
+
+  <a href="../cite/Gisledrudis/c823/irminon-vol2">Gisledrudis</a>
+
+  <a href="../cite/Gislehardus/c823/irminon-vol2">Gislehardus</a>
+
+  <a href="../cite/Gisleharius/c823/irminon-vol2">Gisleharius</a>
+
+  <a href="../cite/Gislemar/c823/irminon-vol2">Gislemar</a>
+
+  <a href="../cite/Gislemundus/c823/irminon-vol2">Gislemundus</a>
+
+  <a href="../cite/Gislera/c823/irminon-vol2">Gislera</a>
+
+  <a href="../cite/Gislildis/c823/irminon-vol2">Gislildis</a>
+
+  <a href="../cite/Gisloinus/c823/irminon-vol2">Gisloinus</a>
+
+  <a href="../cite/Gisloldus/c823/irminon-vol2">Gisloldus</a>
+
+  <a href="../cite/Goda/c823/irminon-vol2">Goda</a>
+
+  <a href="../cite/Godeboldus/c823/irminon-vol2">Godeboldus</a>
+
+  <a href="../cite/Godelhildis/c823/irminon-vol2">Godelhildis</a>
+
+  <a href="../cite/Godelildis/c823/irminon-vol2">Godelildis</a>
+
+  <a href="../cite/Godelindis/c823/irminon-vol2">Godelindis</a>
+
+  <a href="../cite/Godemarus/c823/irminon-vol2">Godemarus</a>
+
+  <a href="../cite/Godila/c823/irminon-vol2">Godila</a>
+
+  <a href="../cite/Godina/c823/irminon-vol2">Godina</a>
+
+  <a href="../cite/Godingus/c823/irminon-vol2">Godingus</a>
+
+  <a href="../cite/Godinus/c823/irminon-vol2">Godinus</a>
+
+  <a href="../cite/Gotberga/c823/irminon-vol2">Gotberga</a>
+
+  <a href="../cite/Gotbolda/c823/irminon-vol2">Gotbolda</a>
+
+  <a href="../cite/Gotlanda/c823/irminon-vol2">Gotlanda</a>
+
+  <a href="../cite/Gregoria/c823/irminon-vol2">Gregoria</a>
+
+  <a href="../cite/Gregorius/c823/irminon-vol2">Gregorius</a>
+
+  <a href="../cite/Grima/c823/irminon-vol2">Grima</a>
+
+  <a href="../cite/Grimaldus/c823/irminon-vol2">Grimaldus</a>
+
+  <a href="../cite/Grimberga/c823/irminon-vol2">Grimberga</a>
+
+  <a href="../cite/Grimboldus/c823/irminon-vol2">Grimboldus</a>
+
+  <a href="../cite/Grimhardus/c823/irminon-vol2">Grimhardus</a>
+
+  <a href="../cite/Grimharius/c823/irminon-vol2">Grimharius</a>
+
+  <a href="../cite/Grimoildis/c823/irminon-vol2">Grimoildis</a>
+
+  <a href="../cite/Grimoinus/c823/irminon-vol2">Grimoinus</a>
+
+  <a href="../cite/Grimoldus/c823/irminon-vol2">Grimoldus</a>
+
+  <a href="../cite/Guido/c823/irminon-vol2">Guido</a>
+
+  <a href="../cite/Gundoildis/c823/irminon-vol2">Gundoildis</a>
+
+  <a href="../cite/Gundoinus/c823/irminon-vol2">Gundoinus</a>
+
+  <a href="../cite/Gundulfus/c823/irminon-vol2">Gundulfus</a>
+
+  <a href="../cite/Gunfredi/c823/irminon-vol2">Gunfredi</a>
+
+  <a href="../cite/Gunsoildis/c823/irminon-vol2">Gunsoildis</a>
+
+  <a href="../cite/Gunsoinus/c823/irminon-vol2">Gunsoinus</a>
+
+  <a href="../cite/Guntardus/c823/irminon-vol2">Guntardus</a>
+
+  <a href="../cite/Guntarius/c823/irminon-vol2">Guntarius</a>
+
+  <a href="../cite/Guntberga/c823/irminon-vol2">Guntberga</a>
+
+  <a href="../cite/Guntbertus/c823/irminon-vol2">Guntbertus</a>
+
+  <a href="../cite/Guntboldus/c823/irminon-vol2">Guntboldus</a>
+
+  <a href="../cite/Gunterii/c823/irminon-vol2">Gunterii</a>
+
+  <a href="../cite/Guntfredus/c823/irminon-vol2">Guntfredus</a>
+
+  <a href="../cite/Gunthardus/c823/irminon-vol2">Gunthardus</a>
+
+  <a href="../cite/Guntharius/c823/irminon-vol2">Guntharius</a>
+
+  <a href="../cite/Guntoldus/c823/irminon-vol2">Guntoldus</a>
+
+  <a href="../cite/Gyroardus/c823/irminon-vol2">Gyroardus</a>
+
+  <a href="../cite/Gysla/c823/irminon-vol2">Gysla</a>
+
+  <a href="../cite/Hadelindis/c823/irminon-vol2">Hadelindis</a>
+
+  <a href="../cite/Hadena/c823/irminon-vol2">Hadena</a>
+
+  <a href="../cite/Hadoardus/c823/irminon-vol2">Hadoardus</a>
+
+  <a href="../cite/Hairberta/c823/irminon-vol2">Hairberta</a>
+
+  <a href="../cite/Hairbertus/c823/irminon-vol2">Hairbertus</a>
+
+  <a href="../cite/Hairiberta/c823/irminon-vol2">Hairiberta</a>
+
+  <a href="../cite/Hairiboldus/c823/irminon-vol2">Hairiboldus</a>
+
+  <a href="../cite/Hairoardus/c823/irminon-vol2">Hairoardus</a>
+
+  <a href="../cite/Haldegarius/c823/irminon-vol2">Haldegarius</a>
+
+  <a href="../cite/Haldrada/c823/irminon-vol2">Haldrada</a>
+
+  <a href="../cite/Haldulfus/c823/irminon-vol2">Haldulfus</a>
+
+  <a href="../cite/Haltbert/c823/irminon-vol2">Haltbert</a>
+
+  <a href="../cite/Haltbertus/c823/irminon-vol2">Haltbertus</a>
+
+  <a href="../cite/Hardradus/c823/irminon-vol2">Hardradus</a>
+
+  <a href="../cite/Hariberta/c823/irminon-vol2">Hariberta</a>
+
+  <a href="../cite/Hartmarus/c823/irminon-vol2">Hartmarus</a>
+
+  <a href="../cite/Hauis/c823/irminon-vol2">Hauis</a>
+
+  <a href="../cite/Herbertus/c823/irminon-vol2">Herbertus</a>
+
+  <a href="../cite/Hercanildis/c823/irminon-vol2">Hercanildis</a>
+
+  <a href="../cite/Hermenalda/c823/irminon-vol2">Hermenalda</a>
+
+  <a href="../cite/Hermenalde/c823/irminon-vol2">Hermenalde</a>
+
+  <a href="../cite/Hildealdis/c823/irminon-vol2">Hildealdis</a>
+
+  <a href="../cite/Hildeardis/c823/irminon-vol2">Hildeardis</a>
+
+  <a href="../cite/Hildeberga/c823/irminon-vol2">Hildeberga</a>
+
+  <a href="../cite/Hildebert/c823/irminon-vol2">Hildebert</a>
+
+  <a href="../cite/Hildebertus/c823/irminon-vol2">Hildebertus</a>
+
+  <a href="../cite/Hildebodus/c823/irminon-vol2">Hildebodus</a>
+
+  <a href="../cite/Hildeboldus/c823/irminon-vol2">Hildeboldus</a>
+
+  <a href="../cite/Hildebrandus/c823/irminon-vol2">Hildebrandus</a>
+
+  <a href="../cite/Hildeburgis/c823/irminon-vol2">Hildeburgis</a>
+
+  <a href="../cite/Hildefredus/c823/irminon-vol2">Hildefredus</a>
+
+  <a href="../cite/Hildegardis/c823/irminon-vol2">Hildegardis</a>
+
+  <a href="../cite/Hildegarius/c823/irminon-vol2">Hildegarius</a>
+
+  <a href="../cite/Hildegaudus/c823/irminon-vol2">Hildegaudus</a>
+
+  <a href="../cite/Hildegaus/c823/irminon-vol2">Hildegaus</a>
+
+  <a href="../cite/Hildegerus/c823/irminon-vol2">Hildegerus</a>
+
+  <a href="../cite/Hildegildis/c823/irminon-vol2">Hildegildis</a>
+
+  <a href="../cite/Hildegudis/c823/irminon-vol2">Hildegudis</a>
+
+  <a href="../cite/Hildegundis/c823/irminon-vol2">Hildegundis</a>
+
+  <a href="../cite/Hildelindis/c823/irminon-vol2">Hildelindis</a>
+
+  <a href="../cite/Hildemans/c823/irminon-vol2">Hildemans</a>
+
+  <a href="../cite/Hildemarus/c823/irminon-vol2">Hildemarus</a>
+
+  <a href="../cite/Hildenibia/c823/irminon-vol2">Hildenibia</a>
+
+  <a href="../cite/Hildetrudis/c823/irminon-vol2">Hildetrudis</a>
+
+  <a href="../cite/Hildevoldus/c823/irminon-vol2">Hildevoldus</a>
+
+  <a href="../cite/Hildoardus/c823/irminon-vol2">Hildoardus</a>
+
+  <a href="../cite/Hildoinus/c823/irminon-vol2">Hildoinus</a>
+
+  <a href="../cite/Hildois/c823/irminon-vol2">Hildois</a>
+
+  <a href="../cite/Hildrada/c823/irminon-vol2">Hildrada</a>
+
+  <a href="../cite/Hildradus/c823/irminon-vol2">Hildradus</a>
+
+  <a href="../cite/Hildricus/c823/irminon-vol2">Hildricus</a>
+
+  <a href="../cite/Hilduinus/c823/irminon-vol2">Hilduinus</a>
+
+  <a href="../cite/Hildulfus/c823/irminon-vol2">Hildulfus</a>
+
+  <a href="../cite/Hiltbert/c823/irminon-vol2">Hiltbert</a>
+
+  <a href="../cite/Hiltberta/c823/irminon-vol2">Hiltberta</a>
+
+  <a href="../cite/Hiltbertus/c823/irminon-vol2">Hiltbertus</a>
+
+  <a href="../cite/Hiltbodus/c823/irminon-vol2">Hiltbodus</a>
+
+  <a href="../cite/Hiltrudis/c823/irminon-vol2">Hiltrudis</a>
+
+  <a href="../cite/Hincbertus/c823/irminon-vol2">Hincbertus</a>
+
+  <a href="../cite/Hubertus/c823/irminon-vol2">Hubertus</a>
+
+  <a href="../cite/Hugo/c823/irminon-vol2">Hugo</a>
+
+  <a href="../cite/Idalia/c823/irminon-vol2">Idalia</a>
+
+  <a href="../cite/Idelindis/c823/irminon-vol2">Idelindis</a>
+
+  <a href="../cite/Idina/c823/irminon-vol2">Idina</a>
+
+  <a href="../cite/Ingalbertus/c823/irminon-vol2">Ingalbertus</a>
+
+  <a href="../cite/Ingalrada/c823/irminon-vol2">Ingalrada</a>
+
+  <a href="../cite/Ingalsindis/c823/irminon-vol2">Ingalsindis</a>
+
+  <a href="../cite/Ingaltrudis/c823/irminon-vol2">Ingaltrudis</a>
+
+  <a href="../cite/Ingardis/c823/irminon-vol2">Ingardis</a>
+
+  <a href="../cite/Ingberta/c823/irminon-vol2">Ingberta</a>
+
+  <a href="../cite/Ingbolda/c823/irminon-vol2">Ingbolda</a>
+
+  <a href="../cite/Ingboldus/c823/irminon-vol2">Ingboldus</a>
+
+  <a href="../cite/Ingedrudis/c823/irminon-vol2">Ingedrudis</a>
+
+  <a href="../cite/Isabel/c823/irminon-vol2">Isabel</a>
+
+  <a href="../cite/Isembertus/c823/irminon-vol2">Isembertus</a>
+
+  <a href="../cite/Isnardus/c823/irminon-vol2">Isnardus</a>
+
+  <a href="../cite/Israhel/c823/irminon-vol2">Israhel</a>
+
+  <a href="../cite/Itharius/c823/irminon-vol2">Itharius</a>
+
+  <a href="../cite/Itta/c823/irminon-vol2">Itta</a>
+
+  <a href="../cite/Jacob/c823/irminon-vol2">Jacob</a>
+
+  <a href="../cite/Jacobus/c823/irminon-vol2">Jacobus</a>
+
+  <a href="../cite/Jagobus/c823/irminon-vol2">Jagobus</a>
+
+  <a href="../cite/Joffredus/c823/irminon-vol2">Joffredus</a>
+
+  <a href="../cite/Johanes/c823/irminon-vol2">Johanes</a>
+
+  <a href="../cite/Johanna/c823/irminon-vol2">Johanna</a>
+
+  <a href="../cite/Johannes/c823/irminon-vol2">Johannes</a>
+
+  <a href="../cite/Jonam/c823/irminon-vol2">Jonam</a>
+
+  <a href="../cite/Jonildis/c823/irminon-vol2">Jonildis</a>
+
+  <a href="../cite/Julia/c823/irminon-vol2">Julia</a>
+
+  <a href="../cite/Landedrudis/c823/irminon-vol2">Landedrudis</a>
+
+  <a href="../cite/Landoinus/c823/irminon-vol2">Landoinus</a>
+
+  <a href="../cite/Landrada/c823/irminon-vol2">Landrada</a>
+
+  <a href="../cite/Landradus/c823/irminon-vol2">Landradus</a>
+
+  <a href="../cite/Landricus/c823/irminon-vol2">Landricus</a>
+
+  <a href="../cite/Landulfus/c823/irminon-vol2">Landulfus</a>
+
+  <a href="../cite/Lantberga/c823/irminon-vol2">Lantberga</a>
+
+  <a href="../cite/Lantberta/c823/irminon-vol2">Lantberta</a>
+
+  <a href="../cite/Lantbertus/c823/irminon-vol2">Lantbertus</a>
+
+  <a href="../cite/Lantbodus/c823/irminon-vol2">Lantbodus</a>
+
+  <a href="../cite/Lantfredus/c823/irminon-vol2">Lantfredus</a>
+
+  <a href="../cite/Lantharius/c823/irminon-vol2">Lantharius</a>
+
+  <a href="../cite/Lantildis/c823/irminon-vol2">Lantildis</a>
+
+  <a href="../cite/Laurentius/c823/irminon-vol2">Laurentius</a>
+
+  <a href="../cite/Lederius/c823/irminon-vol2">Lederius</a>
+
+  <a href="../cite/Leodardus/c823/irminon-vol2">Leodardus</a>
+
+  <a href="../cite/Leodoardus/c823/irminon-vol2">Leodoardus</a>
+
+  <a href="../cite/Leudelindis/c823/irminon-vol2">Leudelindis</a>
+
+  <a href="../cite/Leudisma/c823/irminon-vol2">Leudisma</a>
+
+  <a href="../cite/Leudrada/c823/irminon-vol2">Leudrada</a>
+
+  <a href="../cite/Leutardus/c823/irminon-vol2">Leutardus</a>
+
+  <a href="../cite/Leutberga/c823/irminon-vol2">Leutberga</a>
+
+  <a href="../cite/Leutbertus/c823/irminon-vol2">Leutbertus</a>
+
+  <a href="../cite/Leutboldus/c823/irminon-vol2">Leutboldus</a>
+
+  <a href="../cite/Leutfridus/c823/irminon-vol2">Leutfridus</a>
+
+  <a href="../cite/Leutgardis/c823/irminon-vol2">Leutgardis</a>
+
+  <a href="../cite/Leutgarius/c823/irminon-vol2">Leutgarius</a>
+
+  <a href="../cite/Leutgaudus/c823/irminon-vol2">Leutgaudus</a>
+
+  <a href="../cite/Leutharia/c823/irminon-vol2">Leutharia</a>
+
+  <a href="../cite/Leutharius/c823/irminon-vol2">Leutharius</a>
+
+  <a href="../cite/Leutharus/c823/irminon-vol2">Leutharus</a>
+
+  <a href="../cite/Leuthildis/c823/irminon-vol2">Leuthildis</a>
+
+  <a href="../cite/Leutildis/c823/irminon-vol2">Leutildis</a>
+
+  <a href="../cite/Ligart/c823/irminon-vol2">Ligart</a>
+
+  <a href="../cite/Liutardus/c823/irminon-vol2">Liutardus</a>
+
+  <a href="../cite/Liutfridus/c823/irminon-vol2">Liutfridus</a>
+
+  <a href="../cite/Lotberta/c823/irminon-vol2">Lotberta</a>
+
+  <a href="../cite/Madalberta/c823/irminon-vol2">Madalberta</a>
+
+  <a href="../cite/Madalbertus/c823/irminon-vol2">Madalbertus</a>
+
+  <a href="../cite/Madalgarius/c823/irminon-vol2">Madalgarius</a>
+
+  <a href="../cite/Madalgudis/c823/irminon-vol2">Madalgudis</a>
+
+  <a href="../cite/Madalharius/c823/irminon-vol2">Madalharius</a>
+
+  <a href="../cite/Madalhildis/c823/irminon-vol2">Madalhildis</a>
+
+  <a href="../cite/Madaltrudis/c823/irminon-vol2">Madaltrudis</a>
+
+  <a href="../cite/Madaluinus/c823/irminon-vol2">Madaluinus</a>
+
+  <a href="../cite/Madalulfus/c823/irminon-vol2">Madalulfus</a>
+
+  <a href="../cite/Madilindis/c823/irminon-vol2">Madilindis</a>
+
+  <a href="../cite/Magdalena/c823/irminon-vol2">Magdalena</a>
+
+  <a href="../cite/Magenardus/c823/irminon-vol2">Magenardus</a>
+
+  <a href="../cite/Magenildis/c823/irminon-vol2">Magenildis</a>
+
+  <a href="../cite/Magenulfus/c823/irminon-vol2">Magenulfus</a>
+
+  <a href="../cite/Maitelmus/c823/irminon-vol2">Maitelmus</a>
+
+  <a href="../cite/Maiulfus/c823/irminon-vol2">Maiulfus</a>
+
+  <a href="../cite/Mandisma/c823/irminon-vol2">Mandisma</a>
+
+  <a href="../cite/Marcarius/c823/irminon-vol2">Marcarius</a>
+
+  <a href="../cite/Maria/c823/irminon-vol2">Maria</a>
+
+  <a href="../cite/Marinus/c823/irminon-vol2">Marinus</a>
+
+  <a href="../cite/Marta/c823/irminon-vol2">Marta</a>
+
+  <a href="../cite/Martinus/c823/irminon-vol2">Martinus</a>
+
+  <a href="../cite/Mauriciolus/c823/irminon-vol2">Mauriciolus</a>
+
+  <a href="../cite/Mauringa/c823/irminon-vol2">Mauringa</a>
+
+  <a href="../cite/Maurus/c823/irminon-vol2">Maurus</a>
+
+  <a href="../cite/Merardus/c823/irminon-vol2">Merardus</a>
+
+  <a href="../cite/Milesenda/c823/irminon-vol2">Milesenda</a>
+
+  <a href="../cite/Nadalberga/c823/irminon-vol2">Nadalberga</a>
+
+  <a href="../cite/Nadalburgs/c823/irminon-vol2">Nadalburgs</a>
+
+  <a href="../cite/Nadalfredus/c823/irminon-vol2">Nadalfredus</a>
+
+  <a href="../cite/Nadalgarius/c823/irminon-vol2">Nadalgarius</a>
+
+  <a href="../cite/Nadalia/c823/irminon-vol2">Nadalia</a>
+
+  <a href="../cite/Nadalindis/c823/irminon-vol2">Nadalindis</a>
+
+  <a href="../cite/Nadalradus/c823/irminon-vol2">Nadalradus</a>
+
+  <a href="../cite/Nadaltrudis/c823/irminon-vol2">Nadaltrudis</a>
+
+  <a href="../cite/Natalia/c823/irminon-vol2">Natalia</a>
+
+  <a href="../cite/Natalisma/c823/irminon-vol2">Natalisma</a>
+
+  <a href="../cite/Nodalbertus/c823/irminon-vol2">Nodalbertus</a>
+
+  <a href="../cite/Nodalindis/c823/irminon-vol2">Nodalindis</a>
+
+  <a href="../cite/Nortmannus/c823/irminon-vol2">Nortmannus</a>
+
+  <a href="../cite/Odelberga/c823/irminon-vol2">Odelberga</a>
+
+  <a href="../cite/Odelegius/c823/irminon-vol2">Odelegius</a>
+
+  <a href="../cite/Odelelmus/c823/irminon-vol2">Odelelmus</a>
+
+  <a href="../cite/Odelgardis/c823/irminon-vol2">Odelgardis</a>
+
+  <a href="../cite/Odelgildis/c823/irminon-vol2">Odelgildis</a>
+
+  <a href="../cite/Odelhart/c823/irminon-vol2">Odelhart</a>
+
+  <a href="../cite/Odelhildis/c823/irminon-vol2">Odelhildis</a>
+
+  <a href="../cite/Odelina/c823/irminon-vol2">Odelina</a>
+
+  <a href="../cite/Odila/c823/irminon-vol2">Odila</a>
+
+  <a href="../cite/Odilheus/c823/irminon-vol2">Odilheus</a>
+
+  <a href="../cite/Odo/c823/irminon-vol2">Odo</a>
+
+  <a href="../cite/Oldalricus/c823/irminon-vol2">Oldalricus</a>
+
+  <a href="../cite/Oliva/c823/irminon-vol2">Oliva</a>
+
+  <a href="../cite/Orienta/c823/irminon-vol2">Orienta</a>
+
+  <a href="../cite/Osanna/c823/irminon-vol2">Osanna</a>
+
+  <a href="../cite/Osegarius/c823/irminon-vol2">Osegarius</a>
+
+  <a href="../cite/Osgarius/c823/irminon-vol2">Osgarius</a>
+
+  <a href="../cite/Otbertus/c823/irminon-vol2">Otbertus</a>
+
+  <a href="../cite/Otfredus/c823/irminon-vol2">Otfredus</a>
+
+  <a href="../cite/Otgarius/c823/irminon-vol2">Otgarius</a>
+
+  <a href="../cite/Otmundus/c823/irminon-vol2">Otmundus</a>
+
+  <a href="../cite/Paulinus/c823/irminon-vol2">Paulinus</a>
+
+  <a href="../cite/Paulus/c823/irminon-vol2">Paulus</a>
+
+  <a href="../cite/Pelagia/c823/irminon-vol2">Pelagia</a>
+
+  <a href="../cite/Petrus/c823/irminon-vol2">Petrus</a>
+
+  <a href="../cite/Plectrudis/c823/irminon-vol2">Plectrudis</a>
+
+  <a href="../cite/Pura/c823/irminon-vol2">Pura</a>
+
+  <a href="../cite/Rachildis/c823/irminon-vol2">Rachildis</a>
+
+  <a href="../cite/Radohilt/c823/irminon-vol2">Radohilt</a>
+
+  <a href="../cite/Radohis/c823/irminon-vol2">Radohis</a>
+
+  <a href="../cite/Radulfus/c823/irminon-vol2">Radulfus</a>
+
+  <a href="../cite/Ragamberga/c823/irminon-vol2">Ragamberga</a>
+
+  <a href="../cite/Ragamberta/c823/irminon-vol2">Ragamberta</a>
+
+  <a href="../cite/Ragambertus/c823/irminon-vol2">Ragambertus</a>
+
+  <a href="../cite/Ragambolda/c823/irminon-vol2">Ragambolda</a>
+
+  <a href="../cite/Ragamboldus/c823/irminon-vol2">Ragamboldus</a>
+
+  <a href="../cite/Raganfredus/c823/irminon-vol2">Raganfredus</a>
+
+  <a href="../cite/Raganhelmus/c823/irminon-vol2">Raganhelmus</a>
+
+  <a href="../cite/Ragbalda/c823/irminon-vol2">Ragbalda</a>
+
+  <a href="../cite/Ragbertus/c823/irminon-vol2">Ragbertus</a>
+
+  <a href="../cite/Ragemboldus/c823/irminon-vol2">Ragemboldus</a>
+
+  <a href="../cite/Ragenardus/c823/irminon-vol2">Ragenardus</a>
+
+  <a href="../cite/Ragenarius/c823/irminon-vol2">Ragenarius</a>
+
+  <a href="../cite/Ragenildis/c823/irminon-vol2">Ragenildis</a>
+
+  <a href="../cite/Ragenoldus/c823/irminon-vol2">Ragenoldus</a>
+
+  <a href="../cite/Ragenteus/c823/irminon-vol2">Ragenteus</a>
+
+  <a href="../cite/Ragentildis/c823/irminon-vol2">Ragentildis</a>
+
+  <a href="../cite/Ragentrudis/c823/irminon-vol2">Ragentrudis</a>
+
+  <a href="../cite/Ragenulfus/c823/irminon-vol2">Ragenulfus</a>
+
+  <a href="../cite/Ragnericus/c823/irminon-vol2">Ragnericus</a>
+
+  <a href="../cite/Ragnoardus/c823/irminon-vol2">Ragnoardus</a>
+
+  <a href="../cite/Ragnois/c823/irminon-vol2">Ragnois</a>
+
+  <a href="../cite/Raimberga/c823/irminon-vol2">Raimberga</a>
+
+  <a href="../cite/Rainardus/c823/irminon-vol2">Rainardus</a>
+
+  <a href="../cite/Raintbertus/c823/irminon-vol2">Raintbertus</a>
+
+  <a href="../cite/Ratberga/c823/irminon-vol2">Ratberga</a>
+
+  <a href="../cite/Ratberta/c823/irminon-vol2">Ratberta</a>
+
+  <a href="../cite/Ratbertus/c823/irminon-vol2">Ratbertus</a>
+
+  <a href="../cite/Ratboldus/c823/irminon-vol2">Ratboldus</a>
+
+  <a href="../cite/Ratgis/c823/irminon-vol2">Ratgis</a>
+
+  <a href="../cite/Ratgundis/c823/irminon-vol2">Ratgundis</a>
+
+  <a href="../cite/Rathelmus/c823/irminon-vol2">Rathelmus</a>
+
+  <a href="../cite/Ratrudis/c823/irminon-vol2">Ratrudis</a>
+
+  <a href="../cite/Rattrudis/c823/irminon-vol2">Rattrudis</a>
+
+  <a href="../cite/Regina/c823/irminon-vol2">Regina</a>
+
+  <a href="../cite/Renburgis/c823/irminon-vol2">Renburgis</a>
+
+  <a href="../cite/Ricberga/c823/irminon-vol2">Ricberga</a>
+
+  <a href="../cite/Ricbertus/c823/irminon-vol2">Ricbertus</a>
+
+  <a href="../cite/Richardus/c823/irminon-vol2">Richardus</a>
+
+  <a href="../cite/Richarius/c823/irminon-vol2">Richarius</a>
+
+  <a href="../cite/Richerius/c823/irminon-vol2">Richerius</a>
+
+  <a href="../cite/Richildis/c823/irminon-vol2">Richildis</a>
+
+  <a href="../cite/Riulfus/c823/irminon-vol2">Riulfus</a>
+
+  <a href="../cite/Rodulfus/c823/irminon-vol2">Rodulfus</a>
+
+  <a href="../cite/Rotbertus/c823/irminon-vol2">Rotbertus</a>
+
+  <a href="../cite/Rotgarius/c823/irminon-vol2">Rotgarius</a>
+
+  <a href="../cite/Rænburgis/c823/irminon-vol2">Rænburgis</a>
+
+  <a href="../cite/Sadraboldus/c823/irminon-vol2">Sadraboldus</a>
+
+  <a href="../cite/Sadreharius/c823/irminon-vol2">Sadreharius</a>
+
+  <a href="../cite/Sadrildis/c823/irminon-vol2">Sadrildis</a>
+
+  <a href="../cite/Saidra/c823/irminon-vol2">Saidra</a>
+
+  <a href="../cite/Salamon/c823/irminon-vol2">Salamon</a>
+
+  <a href="../cite/Salamonus/c823/irminon-vol2">Salamonus</a>
+
+  <a href="../cite/Salvia/c823/irminon-vol2">Salvia</a>
+
+  <a href="../cite/Samanildis/c823/irminon-vol2">Samanildis</a>
+
+  <a href="../cite/Samuel/c823/irminon-vol2">Samuel</a>
+
+  <a href="../cite/Sanson/c823/irminon-vol2">Sanson</a>
+
+  <a href="../cite/Saroildis/c823/irminon-vol2">Saroildis</a>
+
+  <a href="../cite/Saroinus/c823/irminon-vol2">Saroinus</a>
+
+  <a href="../cite/Sicfredus/c823/irminon-vol2">Sicfredus</a>
+
+  <a href="../cite/Sichardus/c823/irminon-vol2">Sichardus</a>
+
+  <a href="../cite/Sicharius/c823/irminon-vol2">Sicharius</a>
+
+  <a href="../cite/Sichaus/c823/irminon-vol2">Sichaus</a>
+
+  <a href="../cite/Sichildis/c823/irminon-vol2">Sichildis</a>
+
+  <a href="../cite/Siclebertus/c823/irminon-vol2">Siclebertus</a>
+
+  <a href="../cite/Siclebolda/c823/irminon-vol2">Siclebolda</a>
+
+  <a href="../cite/Sicleboldus/c823/irminon-vol2">Sicleboldus</a>
+
+  <a href="../cite/Sicledrudis/c823/irminon-vol2">Sicledrudis</a>
+
+  <a href="../cite/Siclefredus/c823/irminon-vol2">Siclefredus</a>
+
+  <a href="../cite/Siclehardus/c823/irminon-vol2">Siclehardus</a>
+
+  <a href="../cite/Siclehildis/c823/irminon-vol2">Siclehildis</a>
+
+  <a href="../cite/Sicleholda/c823/irminon-vol2">Sicleholda</a>
+
+  <a href="../cite/Sicleramna/c823/irminon-vol2">Sicleramna</a>
+
+  <a href="../cite/Sigebertus/c823/irminon-vol2">Sigebertus</a>
+
+  <a href="../cite/Sigefredus/c823/irminon-vol2">Sigefredus</a>
+
+  <a href="../cite/Sigoildis/c823/irminon-vol2">Sigoildis</a>
+
+  <a href="../cite/Sigoinus/c823/irminon-vol2">Sigoinus</a>
+
+  <a href="../cite/Sigradus/c823/irminon-vol2">Sigradus</a>
+
+  <a href="../cite/Sigrida/c823/irminon-vol2">Sigrida</a>
+
+  <a href="../cite/Sointhada/c823/irminon-vol2">Sointhada</a>
+
+  <a href="../cite/Stainardus/c823/irminon-vol2">Stainardus</a>
+
+  <a href="../cite/Stephanus/c823/irminon-vol2">Stephanus</a>
+
+  <a href="../cite/Susanna/c823/irminon-vol2">Susanna</a>
+
+  <a href="../cite/Suspecta/c823/irminon-vol2">Suspecta</a>
+
+  <a href="../cite/Tanculfus/c823/irminon-vol2">Tanculfus</a>
+
+  <a href="../cite/Tebaldus/c823/irminon-vol2">Tebaldus</a>
+
+  <a href="../cite/Teodaldus/c823/irminon-vol2">Teodaldus</a>
+
+  <a href="../cite/Teodara/c823/irminon-vol2">Teodara</a>
+
+  <a href="../cite/Teodarus/c823/irminon-vol2">Teodarus</a>
+
+  <a href="../cite/Teodelindis/c823/irminon-vol2">Teodelindis</a>
+
+  <a href="../cite/Teodo/c823/irminon-vol2">Teodo</a>
+
+  <a href="../cite/Teodoinus/c823/irminon-vol2">Teodoinus</a>
+
+  <a href="../cite/Teodradus/c823/irminon-vol2">Teodradus</a>
+
+  <a href="../cite/Teudaldus/c823/irminon-vol2">Teudaldus</a>
+
+  <a href="../cite/Teudericus/c823/irminon-vol2">Teudericus</a>
+
+  <a href="../cite/Teudhardus/c823/irminon-vol2">Teudhardus</a>
+
+  <a href="../cite/Teudhildis/c823/irminon-vol2">Teudhildis</a>
+
+  <a href="../cite/Teudoldus/c823/irminon-vol2">Teudoldus</a>
+
+  <a href="../cite/Teudricus/c823/irminon-vol2">Teudricus</a>
+
+  <a href="../cite/Teutbaldus/c823/irminon-vol2">Teutbaldus</a>
+
+  <a href="../cite/Teutbardus/c823/irminon-vol2">Teutbardus</a>
+
+  <a href="../cite/Teutberga/c823/irminon-vol2">Teutberga</a>
+
+  <a href="../cite/Teutberta/c823/irminon-vol2">Teutberta</a>
+
+  <a href="../cite/Teutbertus/c823/irminon-vol2">Teutbertus</a>
+
+  <a href="../cite/Teutburgs/c823/irminon-vol2">Teutburgs</a>
+
+  <a href="../cite/Teutfredus/c823/irminon-vol2">Teutfredus</a>
+
+  <a href="../cite/Teutgardis/c823/irminon-vol2">Teutgardis</a>
+
+  <a href="../cite/Teutgaria/c823/irminon-vol2">Teutgaria</a>
+
+  <a href="../cite/Teutgrims/c823/irminon-vol2">Teutgrims</a>
+
+  <a href="../cite/Teuthardus/c823/irminon-vol2">Teuthardus</a>
+
+  <a href="../cite/Teutharius/c823/irminon-vol2">Teutharius</a>
+
+  <a href="../cite/Teuthildis/c823/irminon-vol2">Teuthildis</a>
+
+  <a href="../cite/Teutlindis/c823/irminon-vol2">Teutlindis</a>
+
+  <a href="../cite/Teutmarus/c823/irminon-vol2">Teutmarus</a>
+
+  <a href="../cite/Trutboldus/c823/irminon-vol2">Trutboldus</a>
+
+  <a href="../cite/Ulfardus/c823/irminon-vol2">Ulfardus</a>
+
+  <a href="../cite/Valdegarius/c823/irminon-vol2">Valdegarius</a>
+
+  <a href="../cite/Valteris/c823/irminon-vol2">Valteris</a>
+
+  <a href="../cite/Valterius/c823/irminon-vol2">Valterius</a>
+
+  <a href="../cite/Verinus/c823/irminon-vol2">Verinus</a>
+
+  <a href="../cite/Villermus/c823/irminon-vol2">Villermus</a>
+
+  <a href="../cite/Vulfaldus/c823/irminon-vol2">Vulfaldus</a>
+
+  <a href="../cite/Vulfardus/c823/irminon-vol2">Vulfardus</a>
+
+  <a href="../cite/Vulfedrudis/c823/irminon-vol2">Vulfedrudis</a>
+
+  <a href="../cite/Vulfegarus/c823/irminon-vol2">Vulfegarus</a>
+
+  <a href="../cite/Vulfradus/c823/irminon-vol2">Vulfradus</a>
+
+  <a href="../cite/Vulfricus/c823/irminon-vol2">Vulfricus</a>
+
+  <a href="../cite/Walafredus/c823/irminon-vol2">Walafredus</a>
+
+  <a href="../cite/Walahildis/c823/irminon-vol2">Walahildis</a>
+
+  <a href="../cite/Walantrudis/c823/irminon-vol2">Walantrudis</a>
+
+  <a href="../cite/Walateo/c823/irminon-vol2">Walateo</a>
+
+  <a href="../cite/Walateus/c823/irminon-vol2">Walateus</a>
+
+  <a href="../cite/Waldeburgs/c823/irminon-vol2">Waldeburgs</a>
+
+  <a href="../cite/Waldegarius/c823/irminon-vol2">Waldegarius</a>
+
+  <a href="../cite/Waldegaudus/c823/irminon-vol2">Waldegaudus</a>
+
+  <a href="../cite/Waldegilgildis/c823/irminon-vol2">Waldegilgildis</a>
+
+  <a href="../cite/Waldehildis/c823/irminon-vol2">Waldehildis</a>
+
+  <a href="../cite/Waldina/c823/irminon-vol2">Waldina</a>
+
+  <a href="../cite/Waldinus/c823/irminon-vol2">Waldinus</a>
+
+  <a href="../cite/Waldo/c823/irminon-vol2">Waldo</a>
+
+  <a href="../cite/Walonis/c823/irminon-vol2">Walonis</a>
+
+  <a href="../cite/Waltadus/c823/irminon-vol2">Waltadus</a>
+
+  <a href="../cite/Waltarius/c823/irminon-vol2">Waltarius</a>
+
+  <a href="../cite/Waltbertus/c823/irminon-vol2">Waltbertus</a>
+
+  <a href="../cite/Waltcaudus/c823/irminon-vol2">Waltcaudus</a>
+
+  <a href="../cite/Waltildis/c823/irminon-vol2">Waltildis</a>
+
+  <a href="../cite/Waltrudis/c823/irminon-vol2">Waltrudis</a>
+
+  <a href="../cite/Wandalbertus/c823/irminon-vol2">Wandalbertus</a>
+
+  <a href="../cite/Wandalfredus/c823/irminon-vol2">Wandalfredus</a>
+
+  <a href="../cite/Wandalgarius/c823/irminon-vol2">Wandalgarius</a>
+
+  <a href="../cite/Wandelgaudus/c823/irminon-vol2">Wandelgaudus</a>
+
+  <a href="../cite/Wandilbalda/c823/irminon-vol2">Wandilbalda</a>
+
+  <a href="../cite/Wanegarius/c823/irminon-vol2">Wanegarius</a>
+
+  <a href="../cite/Wanthildis/c823/irminon-vol2">Wanthildis</a>
+
+  <a href="../cite/Warimbertus/c823/irminon-vol2">Warimbertus</a>
+
+  <a href="../cite/Warmenfredus/c823/irminon-vol2">Warmenfredus</a>
+
+  <a href="../cite/Wilelmus/c823/irminon-vol2">Wilelmus</a>
+
+  <a href="../cite/Wilharius/c823/irminon-vol2">Wilharius</a>
+
+  <a href="../cite/Wilhildis/c823/irminon-vol2">Wilhildis</a>
+
+  <a href="../cite/Willermus/c823/irminon-vol2">Willermus</a>
+
+  <a href="../cite/Willonus/c823/irminon-vol2">Willonus</a>
+
+  <a href="../cite/Wina/c823/irminon-vol2">Wina</a>
+
+  <a href="../cite/Wineberga/c823/irminon-vol2">Wineberga</a>
+
+  <a href="../cite/Wineboldus/c823/irminon-vol2">Wineboldus</a>
+
+  <a href="../cite/Winefredus/c823/irminon-vol2">Winefredus</a>
+
+  <a href="../cite/Winegardis/c823/irminon-vol2">Winegardis</a>
+
+  <a href="../cite/Winegardus/c823/irminon-vol2">Winegardus</a>
+
+  <a href="../cite/Winegarius/c823/irminon-vol2">Winegarius</a>
+
+  <a href="../cite/Winegildis/c823/irminon-vol2">Winegildis</a>
+
+  <a href="../cite/Winegis/c823/irminon-vol2">Winegis</a>
+
+  <a href="../cite/Winemar/c823/irminon-vol2">Winemar</a>
+
+  <a href="../cite/Winemarus/c823/irminon-vol2">Winemarus</a>
+
+  <a href="../cite/Winemundus/c823/irminon-vol2">Winemundus</a>
+
+  <a href="../cite/Wineradus/c823/irminon-vol2">Wineradus</a>
+
+  <a href="../cite/Winerannus/c823/irminon-vol2">Winerannus</a>
+
+  <a href="../cite/Winevoldus/c823/irminon-vol2">Winevoldus</a>
+
+  <a href="../cite/Winigis/c823/irminon-vol2">Winigis</a>
+
+  <a href="../cite/Wintbertus/c823/irminon-vol2">Wintbertus</a>
+
+  <a href="../cite/Wintboldus/c823/irminon-vol2">Wintboldus</a>
+
+  <a href="../cite/Winulfus/c823/irminon-vol2">Winulfus</a>
+
+  <a href="../cite/Wistrildis/c823/irminon-vol2">Wistrildis</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

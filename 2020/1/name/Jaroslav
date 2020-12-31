@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Jaroslav</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Jaroslav</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Slavic</span> <i>Jarilo</i>, the name of a god of vegetation, fertility, and springtime, from <span class="lang">Proto-Slavic</span> <i>*jaro, *jarъ, *jarь, *jara</i> 'spring (season)' + <span class="lang">Slavic</span> <i>sława, slava</i> 'glory, fame'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1287</span> <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1287/RTT-1.1"><span class="bib_key">RTT-1.1</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1291</span> <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1291/RTT-1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1345</span> <span class="name">Jeroslai</span> (<span class="case">gen</span>) <a href="../cite/Jeroslai/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">605</span></a>,
+ <span class="name">Jeroslao</span> (<span class="case">abl</span>) <a href="../cite/Jeroslao/1345/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">605</span></a>,
+ <span class="name">Jeroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jeroslaus/1345/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">605</span></a>;
+ <span class="date">1348</span> <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1348/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1349</span> <span class="name">Jarosius</span> (<span class="case">nom</span>) <a href="../cite/Jarosius/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">128</span></a>,
+ <span class="name">Jaroslao</span> (<span class="case">dat</span>) <a href="../cite/Jaroslao/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">114</span></a>,
+ <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">26</span></a>,
+ <span class="name">Jarossio</span> (<span class="case">dat</span>) <a href="../cite/Jarossio/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">76</span></a>;
+ <span class="date">1350</span> <span class="name">Jaroslao</span> (<span class="case">dat</span>) <a href="../cite/Jaroslao/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">168</span></a>,
+ <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">175</span></a>,
+ <span class="name">Jerusschio</span> (<span class="case">dat</span>) <a href="../cite/Jerusschio/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1351</span> <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>,
+ <span class="name">Jarossius</span> (<span class="case">nom</span>) <a href="../cite/Jarossius/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1353</span> <span class="name">Jaroslao</span> (<span class="case">abl</span>) <a href="../cite/Jaroslao/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">60</span></a>,
+ <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">82</span></a>;
+ <span class="date">1355</span> <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">65</span></a>;
+ <span class="date">1356</span> <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">178, p. 29</span></a>;
+ <span class="date">1358</span> <span class="name">Jaroslao</span> (<span class="case">dat</span>) <a href="../cite/Jaroslao/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">465, p. 39</span></a>,
+ <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">320, p. 34</span></a>;
+ <span class="date">1376</span> <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1376/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Jheroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jheroslaus/1376/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1389</span> <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1389/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1397</span> <span class="name">Jarislaus</span> (<span class="case">nom</span>) <a href="../cite/Jarislaus/1397/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1353</span> <span class="name">Jaros</span> (<span class="case">nom</span>) <a href="../cite/Jaros/1353/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">49, p. 23</span></a>;
+ <span class="date">1358</span> <span class="name">Jarco</span> (<span class="case">nom</span>) <a href="../cite/Jarco/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">415, p. 37</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1240</span> <span class="name">Jerezlaus</span> (<span class="case">nom</span>) <a href="../cite/Jerezlaus/1240/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XXVII</span></a>;
+ <span class="date">1244</span> <span class="name">jerezlaus</span> (<span class="case">nom</span>) <a href="../cite/jerezlaus/1244/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. XXXII</span></a>;
+ <span class="date">1252</span> <span class="name">Jeroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jeroslaus/1252/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. XLIV</span></a>;
+ <span class="date">1256</span> <span class="name">Jeroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jeroslaus/1256/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. XLVIII</span></a>;
+ <span class="date">1257</span> <span class="name">Jerezlaus</span> (<span class="case">nom</span>) <a href="../cite/Jerezlaus/1257/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. L</span></a>;
+ <span class="date">1271</span> <span class="name">Jerezlaus</span> (<span class="case">nom</span>) <a href="../cite/Jerezlaus/1271/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. LXVI</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1447</span> <span class="name">Jaroslao</span> (<span class="case">abl</span>) <a href="../cite/Jaroslao/1447/CDP2-2"><span class="bib_key">CDP2-2</span> <span class="bib_loc">CCXCIX</span></a>;
+ <span class="date">1461</span> <span class="name">Jaroslao</span> (<span class="case">abl</span>) <a href="../cite/Jaroslao/1461/CDP2-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCCXV</span></a>,
+ <span class="name">Jaroslaus</span> (<span class="case">nom</span>) <a href="../cite/Jaroslaus/1461/CDP2-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCCXV</span></a>;
+ <span class="date">1466</span> <span class="name">Jaroslao</span> (<span class="case">abl</span>) <a href="../cite/Jaroslao/1466/CDP2-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCCXIX</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1209</span> <span class="name">Jarosz</span> (<span class="case">nom</span>) <a href="../cite/Jarosz/1209/CDT1"><span class="bib_key">CDT1</span> <span class="bib_loc">II</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Jaroslav". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Jaroslav.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

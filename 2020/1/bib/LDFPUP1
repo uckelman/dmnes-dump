@@ -1,0 +1,866 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>LDFPUP1</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>LDFPUP1</dt>
+  <dd><em>Album seu Matricula Facultatis Juridicae Universitatis Pragensis ab anno Christi 1372 usque ad annum 1418 e Codice Membranaceo Illius Aetatis...Pars I</em>, volume II of <em>Monumenta Historica Universitatis Carolo-Ferdinandeae Pragensis</em>. Prague: Typis Joan. Spurny, 1834.</dd>
+</dl>
+
+
+  <a href="../cite/Adae/1377/LDFPUP1">Adae</a>
+
+  <a href="../cite/Adam/1408/LDFPUP1">Adam</a>
+
+  <a href="../cite/Adam/1390/LDFPUP1">Adam</a>
+
+  <a href="../cite/Adam/1383/LDFPUP1">Adam</a>
+
+  <a href="../cite/Adam/1412/LDFPUP1">Adam</a>
+
+  <a href="../cite/Adam/1384/LDFPUP1">Adam</a>
+
+  <a href="../cite/Adam/1389/LDFPUP1">Adam</a>
+
+  <a href="../cite/Adam/1409/LDFPUP1">Adam</a>
+
+  <a href="../cite/Alberti/1372/LDFPUP1">Alberti</a>
+
+  <a href="../cite/Albertus/1385/LDFPUP1">Albertus</a>
+
+  <a href="../cite/Albertus/1387/LDFPUP1">Albertus</a>
+
+  <a href="../cite/Albertus/1375/LDFPUP1">Albertus</a>
+
+  <a href="../cite/Albertus/1384/LDFPUP1">Albertus</a>
+
+  <a href="../cite/Andreae/1347x1382/LDFPUP1">Andreae</a>
+
+  <a href="../cite/Andream/1407/LDFPUP1">Andream</a>
+
+  <a href="../cite/Andreas/1406/LDFPUP1">Andreas</a>
+
+  <a href="../cite/Andreas/1377/LDFPUP1">Andreas</a>
+
+  <a href="../cite/Andreas/1376/LDFPUP1">Andreas</a>
+
+  <a href="../cite/Andreas/1407/LDFPUP1">Andreas</a>
+
+  <a href="../cite/Andreas/1375/LDFPUP1">Andreas</a>
+
+  <a href="../cite/Aristoteles/1361x1377/LDFPUP1">Aristoteles</a>
+
+  <a href="../cite/Arnestus/1415/LDFPUP1">Arnestus</a>
+
+  <a href="../cite/Bartholomaeus/1375/LDFPUP1">Bartholomaeus</a>
+
+  <a href="../cite/Bartholomaeus/1387/LDFPUP1">Bartholomaeus</a>
+
+  <a href="../cite/Bartoldus/1386/LDFPUP1">Bartoldus</a>
+
+  <a href="../cite/Benesius/1372/LDFPUP1">Benesius</a>
+
+  <a href="../cite/Berengarius/1377/LDFPUP1">Berengarius</a>
+
+  <a href="../cite/Berengerus/1385/LDFPUP1">Berengerus</a>
+
+  <a href="../cite/Bernardus/1403/LDFPUP1">Bernardus</a>
+
+  <a href="../cite/Bernardus/1405/LDFPUP1">Bernardus</a>
+
+  <a href="../cite/Bertholdus/1386/LDFPUP1">Bertholdus</a>
+
+  <a href="../cite/Bertoldus/1389/LDFPUP1">Bertoldus</a>
+
+  <a href="../cite/Bertolldus/1387/LDFPUP1">Bertolldus</a>
+
+  <a href="../cite/Bohuncko/1372/LDFPUP1">Bohuncko</a>
+
+  <a href="../cite/Bohuslao/1385/LDFPUP1">Bohuslao</a>
+
+  <a href="../cite/Bohuslaus/1347x1382/LDFPUP1">Bohuslaus</a>
+
+  <a href="../cite/Bohuslaus/1372/LDFPUP1">Bohuslaus</a>
+
+  <a href="../cite/Borchardus/1386/LDFPUP1">Borchardus</a>
+
+  <a href="../cite/Burckardi/1386/LDFPUP1">Burckardi</a>
+
+  <a href="../cite/Carolus/1383/LDFPUP1">Carolus</a>
+
+  <a href="../cite/Carolus/1382/LDFPUP1">Carolus</a>
+
+  <a href="../cite/Carolus/1373/LDFPUP1">Carolus</a>
+
+  <a href="../cite/Conradus/1389/LDFPUP1">Conradus</a>
+
+  <a href="../cite/Conradus/1390/LDFPUP1">Conradus</a>
+
+  <a href="../cite/Conradus/1361x1377/LDFPUP1">Conradus</a>
+
+  <a href="../cite/Conradus/1402/LDFPUP1">Conradus</a>
+
+  <a href="../cite/Conradus/1387/LDFPUP1">Conradus</a>
+
+  <a href="../cite/Conradus/1388/LDFPUP1">Conradus</a>
+
+  <a href="../cite/Conradus/1392/LDFPUP1">Conradus</a>
+
+  <a href="../cite/Constantini/1399/LDFPUP1">Constantini</a>
+
+  <a href="../cite/Cosmas/1377/LDFPUP1">Cosmas</a>
+
+  <a href="../cite/Cristanus/1388/LDFPUP1">Cristanus</a>
+
+  <a href="../cite/Cristanus/1391/LDFPUP1">Cristanus</a>
+
+  <a href="../cite/Cunczo/1404/LDFPUP1">Cunczo</a>
+
+  <a href="../cite/Cunczo/1399/LDFPUP1">Cunczo</a>
+
+  <a href="../cite/Cunsso/1347x1382/LDFPUP1">Cunsso</a>
+
+  <a href="../cite/Cunssone/1376/LDFPUP1">Cunssone</a>
+
+  <a href="../cite/Cuͦnssone/1375/LDFPUP1">Cuͦnssone</a>
+
+  <a href="../cite/Cunssonem/1407/LDFPUP1">Cunssonem</a>
+
+  <a href="../cite/Czenko/1395/LDFPUP1">Czenko</a>
+
+  <a href="../cite/Daniel/1400/LDFPUP1">Daniel</a>
+
+  <a href="../cite/David/1408/LDFPUP1">David</a>
+
+  <a href="../cite/Dionysius/1376/LDFPUP1">Dionysius</a>
+
+  <a href="../cite/Ditmarum/1405/LDFPUP1">Ditmarum</a>
+
+  <a href="../cite/Ditmarus/1388/LDFPUP1">Ditmarus</a>
+
+  <a href="../cite/Dodo/1385/LDFPUP1">Dodo</a>
+
+  <a href="../cite/Donaldus/1392/LDFPUP1">Donaldus</a>
+
+  <a href="../cite/Eghardus/1387/LDFPUP1">Eghardus</a>
+
+  <a href="../cite/Eghardus/1386/LDFPUP1">Eghardus</a>
+
+  <a href="../cite/Emericum/1407/LDFPUP1">Emericum</a>
+
+  <a href="../cite/Emericus/1404/LDFPUP1">Emericus</a>
+
+  <a href="../cite/Engelbertus/1395/LDFPUP1">Engelbertus</a>
+
+  <a href="../cite/Florianus/1400/LDFPUP1">Florianus</a>
+
+  <a href="../cite/Francisco/1373/LDFPUP1">Francisco</a>
+
+  <a href="../cite/Franciscus/1373/LDFPUP1">Franciscus</a>
+
+  <a href="../cite/Frederici/1390/LDFPUP1">Frederici</a>
+
+  <a href="../cite/Fridericus/1361x1377/LDFPUP1">Fridericus</a>
+
+  <a href="../cite/Fridericus/1377/LDFPUP1">Fridericus</a>
+
+  <a href="../cite/Fridericus/1387/LDFPUP1">Fridericus</a>
+
+  <a href="../cite/Fridericus/1408/LDFPUP1">Fridericus</a>
+
+  <a href="../cite/Fridericus/1385/LDFPUP1">Fridericus</a>
+
+  <a href="../cite/Fridrici/1372/LDFPUP1">Fridrici</a>
+
+  <a href="../cite/Georgii/1375/LDFPUP1">Georgii</a>
+
+  <a href="../cite/Georgii/1383/LDFPUP1">Georgii</a>
+
+  <a href="../cite/Georgium/1393/LDFPUP1">Georgium</a>
+
+  <a href="../cite/Georgium/1407/LDFPUP1">Georgium</a>
+
+  <a href="../cite/Georgius/1383/LDFPUP1">Georgius</a>
+
+  <a href="../cite/Georgius/1397/LDFPUP1">Georgius</a>
+
+  <a href="../cite/Georgius/1386/LDFPUP1">Georgius</a>
+
+  <a href="../cite/Georgius/1396/LDFPUP1">Georgius</a>
+
+  <a href="../cite/Georgius/1377/LDFPUP1">Georgius</a>
+
+  <a href="../cite/Georgius/1387/LDFPUP1">Georgius</a>
+
+  <a href="../cite/Gerardus/1384/LDFPUP1">Gerardus</a>
+
+  <a href="../cite/Gerardus/1387/LDFPUP1">Gerardus</a>
+
+  <a href="../cite/Gerechini/1406/LDFPUP1">Gerechini</a>
+
+  <a href="../cite/Gerechini/1407/LDFPUP1">Gerechini</a>
+
+  <a href="../cite/Gerhardus/1372/LDFPUP1">Gerhardus</a>
+
+  <a href="../cite/Gerichini/1407/LDFPUP1">Gerichini</a>
+
+  <a href="../cite/Gerlaci/1376/LDFPUP1">Gerlaci</a>
+
+  <a href="../cite/Gerlacus/1388/LDFPUP1">Gerlacus</a>
+
+  <a href="../cite/Gheiselerus/1383/LDFPUP1">Gheiselerus</a>
+
+  <a href="../cite/Gherardus/1387/LDFPUP1">Gherardus</a>
+
+  <a href="../cite/Gherhardum/1386/LDFPUP1">Gherhardum</a>
+
+  <a href="../cite/Ghysebertus/1387/LDFPUP1">Ghysebertus</a>
+
+  <a href="../cite/Gotfridus/1404/LDFPUP1">Gotfridus</a>
+
+  <a href="../cite/Gotfridus/1379/LDFPUP1">Gotfridus</a>
+
+  <a href="../cite/Gotfridus/1382/LDFPUP1">Gotfridus</a>
+
+  <a href="../cite/Gregorius/1376/LDFPUP1">Gregorius</a>
+
+  <a href="../cite/Hanko/1377/LDFPUP1">Hanko</a>
+
+  <a href="../cite/Hanko/1386/LDFPUP1">Hanko</a>
+
+  <a href="../cite/Haquini/1383/LDFPUP1">Haquini</a>
+
+  <a href="../cite/Hardus/1384/LDFPUP1">Hardus</a>
+
+  <a href="../cite/Hartmann/1389/LDFPUP1">Hartmann</a>
+
+  <a href="../cite/Haynczelman/1390/LDFPUP1">Haynczelman</a>
+
+  <a href="../cite/Helye/1387/LDFPUP1">Helye</a>
+
+  <a href="../cite/Heningus/1382/LDFPUP1">Heningus</a>
+
+  <a href="../cite/Heningus/1410/LDFPUP1">Heningus</a>
+
+  <a href="../cite/Henningus/1361x1377/LDFPUP1">Henningus</a>
+
+  <a href="../cite/Hennyghus/1384/LDFPUP1">Hennyghus</a>
+
+  <a href="../cite/Hennynghus/1398/LDFPUP1">Hennynghus</a>
+
+  <a href="../cite/Henrico/1383/LDFPUP1">Henrico</a>
+
+  <a href="../cite/Henricum/1386/LDFPUP1">Henricum</a>
+
+  <a href="../cite/Henricus/1378/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1377/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1388/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1392/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1347x1382/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1384/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1381/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1408/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1394/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1375/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1411/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1396/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1383/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1389/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1412/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1387/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1386/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Henricus/1397/LDFPUP1">Henricus</a>
+
+  <a href="../cite/Hermanni/1377/LDFPUP1">Hermanni</a>
+
+  <a href="../cite/Hermanni/1382/LDFPUP1">Hermanni</a>
+
+  <a href="../cite/Hermannum/1405/LDFPUP1">Hermannum</a>
+
+  <a href="../cite/Hermannum/1382/LDFPUP1">Hermannum</a>
+
+  <a href="../cite/Hermannus/1395/LDFPUP1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1386/LDFPUP1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1383/LDFPUP1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1403/LDFPUP1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1388/LDFPUP1">Hermannus</a>
+
+  <a href="../cite/Hermannus/1390/LDFPUP1">Hermannus</a>
+
+  <a href="../cite/Hermmanus/1361x1377/LDFPUP1">Hermmanus</a>
+
+  <a href="../cite/Heynricus/1388/LDFPUP1">Heynricus</a>
+
+  <a href="../cite/Hieronymus/1373/LDFPUP1">Hieronymus</a>
+
+  <a href="../cite/Hildbrandus/1389/LDFPUP1">Hildbrandus</a>
+
+  <a href="../cite/Hinco/1372/LDFPUP1">Hinco</a>
+
+  <a href="../cite/Hoyke/1402/LDFPUP1">Hoyke</a>
+
+  <a href="../cite/Jacobum/1411/LDFPUP1">Jacobum</a>
+
+  <a href="../cite/Jacobus/1374/LDFPUP1">Jacobus</a>
+
+  <a href="../cite/Jacobus/1413/LDFPUP1">Jacobus</a>
+
+  <a href="../cite/Jacobus/1389/LDFPUP1">Jacobus</a>
+
+  <a href="../cite/Jacobus/1399/LDFPUP1">Jacobus</a>
+
+  <a href="../cite/Jacobus/1396/LDFPUP1">Jacobus</a>
+
+  <a href="../cite/Jacobus/1379/LDFPUP1">Jacobus</a>
+
+  <a href="../cite/Jacobus/1361x1377/LDFPUP1">Jacobus</a>
+
+  <a href="../cite/Jacobus/1373/LDFPUP1">Jacobus</a>
+
+  <a href="../cite/Jacobus/1387/LDFPUP1">Jacobus</a>
+
+  <a href="../cite/Jacobus/1377/LDFPUP1">Jacobus</a>
+
+  <a href="../cite/Jacobus/1375/LDFPUP1">Jacobus</a>
+
+  <a href="../cite/Janko/1372/LDFPUP1">Janko</a>
+
+  <a href="../cite/Jarislaus/1397/LDFPUP1">Jarislaus</a>
+
+  <a href="../cite/Jaroslaus/1389/LDFPUP1">Jaroslaus</a>
+
+  <a href="../cite/Jaroslaus/1376/LDFPUP1">Jaroslaus</a>
+
+  <a href="../cite/Jeklinus/1372/LDFPUP1">Jeklinus</a>
+
+  <a href="../cite/Jesko/1373/LDFPUP1">Jesko</a>
+
+  <a href="../cite/Jheroslaus/1376/LDFPUP1">Jheroslaus</a>
+
+  <a href="../cite/Joanne/1378/LDFPUP1">Joanne</a>
+
+  <a href="../cite/Joanne/1375/LDFPUP1">Joanne</a>
+
+  <a href="../cite/Joannem/1394/LDFPUP1">Joannem</a>
+
+  <a href="../cite/Joannem/1407/LDFPUP1">Joannem</a>
+
+  <a href="../cite/Joannem/1385/LDFPUP1">Joannem</a>
+
+  <a href="../cite/Joannem/1405/LDFPUP1">Joannem</a>
+
+  <a href="../cite/Joannem/1372/LDFPUP1">Joannem</a>
+
+  <a href="../cite/Joannem/1396/LDFPUP1">Joannem</a>
+
+  <a href="../cite/Joannes/1392/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1378/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1399/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1396/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1390/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1383/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1391/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1373/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1398/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1386/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1400/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1384/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1404/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1387/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1397/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1395/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1408/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1375/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1389/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1374/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1388/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1372/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1385/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1393/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1415/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1394/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1377/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1379/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1402/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannes/1347x1382/LDFPUP1">Joannes</a>
+
+  <a href="../cite/Joannis/1400/LDFPUP1">Joannis</a>
+
+  <a href="../cite/Joannis/1387/LDFPUP1">Joannis</a>
+
+  <a href="../cite/Joannis/1377/LDFPUP1">Joannis</a>
+
+  <a href="../cite/Joannis/1411/LDFPUP1">Joannis</a>
+
+  <a href="../cite/Jodocus/1393/LDFPUP1">Jodocus</a>
+
+  <a href="../cite/Kunsone/1385/LDFPUP1">Kunsone</a>
+
+  <a href="../cite/Lambertus/1400/LDFPUP1">Lambertus</a>
+
+  <a href="../cite/Laurentius/1361x1377/LDFPUP1">Laurentius</a>
+
+  <a href="../cite/Laurentius/1376/LDFPUP1">Laurentius</a>
+
+  <a href="../cite/Laurentius/1382/LDFPUP1">Laurentius</a>
+
+  <a href="../cite/Laurentius/1398/LDFPUP1">Laurentius</a>
+
+  <a href="../cite/Leo/1375/LDFPUP1">Leo</a>
+
+  <a href="../cite/Lewtlini/1389/LDFPUP1">Lewtlini</a>
+
+  <a href="../cite/Lucas/1396/LDFPUP1">Lucas</a>
+
+  <a href="../cite/Ludolphus/1361x1377/LDFPUP1">Ludolphus</a>
+
+  <a href="../cite/Ludovicus/1400/LDFPUP1">Ludovicus</a>
+
+  <a href="../cite/Ludovicus/1372/LDFPUP1">Ludovicus</a>
+
+  <a href="../cite/Ludovicus/1383/LDFPUP1">Ludovicus</a>
+
+  <a href="../cite/Ludovicus/1382/LDFPUP1">Ludovicus</a>
+
+  <a href="../cite/Ludwicus/1388/LDFPUP1">Ludwicus</a>
+
+  <a href="../cite/Ludwikus/1387/LDFPUP1">Ludwikus</a>
+
+  <a href="../cite/Marcus/1385/LDFPUP1">Marcus</a>
+
+  <a href="../cite/Marquardus/1389/LDFPUP1">Marquardus</a>
+
+  <a href="../cite/Marquardus/1384/LDFPUP1">Marquardus</a>
+
+  <a href="../cite/Marquardus/1376/LDFPUP1">Marquardus</a>
+
+  <a href="../cite/Martini/1377/LDFPUP1">Martini</a>
+
+  <a href="../cite/Martinus/1414/LDFPUP1">Martinus</a>
+
+  <a href="../cite/Mathias/1361x1377/LDFPUP1">Mathias</a>
+
+  <a href="../cite/Mathias/1373/LDFPUP1">Mathias</a>
+
+  <a href="../cite/Mathias/1407/LDFPUP1">Mathias</a>
+
+  <a href="../cite/Mathias/1372/LDFPUP1">Mathias</a>
+
+  <a href="../cite/Mathias/1414/LDFPUP1">Mathias</a>
+
+  <a href="../cite/Mathias/1347x1382/LDFPUP1">Mathias</a>
+
+  <a href="../cite/Mathias/1410/LDFPUP1">Mathias</a>
+
+  <a href="../cite/Mathias/1413/LDFPUP1">Mathias</a>
+
+  <a href="../cite/Mathias/1386/LDFPUP1">Mathias</a>
+
+  <a href="../cite/Matthaeus/1388/LDFPUP1">Matthaeus</a>
+
+  <a href="../cite/Matthias/1410/LDFPUP1">Matthias</a>
+
+  <a href="../cite/Meynhardi/1402/LDFPUP1">Meynhardi</a>
+
+  <a href="../cite/Meynhardus/1376/LDFPUP1">Meynhardus</a>
+
+  <a href="../cite/Michael/1399/LDFPUP1">Michael</a>
+
+  <a href="../cite/Michael/1397/LDFPUP1">Michael</a>
+
+  <a href="../cite/Michaelis/1384/LDFPUP1">Michaelis</a>
+
+  <a href="../cite/Nicholaus/1377/LDFPUP1">Nicholaus</a>
+
+  <a href="../cite/Nicolai/1410/LDFPUP1">Nicolai</a>
+
+  <a href="../cite/Nicolao/1397/LDFPUP1">Nicolao</a>
+
+  <a href="../cite/Nicolaum/1394/LDFPUP1">Nicolaum</a>
+
+  <a href="../cite/Nicolaum/1412/LDFPUP1">Nicolaum</a>
+
+  <a href="../cite/Nicolaum/1381/LDFPUP1">Nicolaum</a>
+
+  <a href="../cite/Nicolaum/1407/LDFPUP1">Nicolaum</a>
+
+  <a href="../cite/Nicolaum/1411/LDFPUP1">Nicolaum</a>
+
+  <a href="../cite/Nicolaus/1377/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1393/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1390/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1374/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1408/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1384/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1397/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1372/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1398/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1396/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1400/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1388/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1385/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1403/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1387/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1409/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1401/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1361x1377/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1402/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1404/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1386/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1347x1382/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1399/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1389/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1395/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1375/LDFPUP1">Nicolaus</a>
+
+  <a href="../cite/Nycolai/1379/LDFPUP1">Nycolai</a>
+
+  <a href="../cite/Odolenus/1377/LDFPUP1">Odolenus</a>
+
+  <a href="../cite/Olaus/1372/LDFPUP1">Olaus</a>
+
+  <a href="../cite/Pauli/1404/LDFPUP1">Pauli</a>
+
+  <a href="../cite/Paulus/1347x1382/LDFPUP1">Paulus</a>
+
+  <a href="../cite/Paulus/1396/LDFPUP1">Paulus</a>
+
+  <a href="../cite/Pertholdus/1374/LDFPUP1">Pertholdus</a>
+
+  <a href="../cite/Petri/1372/LDFPUP1">Petri</a>
+
+  <a href="../cite/Petri/1375/LDFPUP1">Petri</a>
+
+  <a href="../cite/Petro/1396/LDFPUP1">Petro</a>
+
+  <a href="../cite/Petrum/1410/LDFPUP1">Petrum</a>
+
+  <a href="../cite/Petrum/1406/LDFPUP1">Petrum</a>
+
+  <a href="../cite/Petrus/1389/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1347x1382/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1397/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1400/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1377/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1385/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1361x1377/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1376/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1386/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1372/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1408/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1375/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1373/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Petrus/1392/LDFPUP1">Petrus</a>
+
+  <a href="../cite/Philippus/1382/LDFPUP1">Philippus</a>
+
+  <a href="../cite/Procopius/1372/LDFPUP1">Procopius</a>
+
+  <a href="../cite/Procopius/1388/LDFPUP1">Procopius</a>
+
+  <a href="../cite/Remboldus/1376/LDFPUP1">Remboldus</a>
+
+  <a href="../cite/Remboldus/1361x1377/LDFPUP1">Remboldus</a>
+
+  <a href="../cite/Rudolfus/1387/LDFPUP1">Rudolfus</a>
+
+  <a href="../cite/Seghardus/1384/LDFPUP1">Seghardus</a>
+
+  <a href="../cite/Seghehardum/1386/LDFPUP1">Seghehardum</a>
+
+  <a href="../cite/Sigismundum/1411/LDFPUP1">Sigismundum</a>
+
+  <a href="../cite/Simon/1410/LDFPUP1">Simon</a>
+
+  <a href="../cite/Simon/1400/LDFPUP1">Simon</a>
+
+  <a href="../cite/Simon/1404/LDFPUP1">Simon</a>
+
+  <a href="../cite/Siwoldi/1383/LDFPUP1">Siwoldi</a>
+
+  <a href="../cite/Smilo/1377/LDFPUP1">Smilo</a>
+
+  <a href="../cite/Smilonis/1377/LDFPUP1">Smilonis</a>
+
+  <a href="../cite/Smylo/1387/LDFPUP1">Smylo</a>
+
+  <a href="../cite/Smylo/1388/LDFPUP1">Smylo</a>
+
+  <a href="../cite/Stanislaus/1391/LDFPUP1">Stanislaus</a>
+
+  <a href="../cite/Stanislaus/1396/LDFPUP1">Stanislaus</a>
+
+  <a href="../cite/Stanislaus/1372/LDFPUP1">Stanislaus</a>
+
+  <a href="../cite/Stephani/1410/LDFPUP1">Stephani</a>
+
+  <a href="../cite/Stephani/1372/LDFPUP1">Stephani</a>
+
+  <a href="../cite/Stephanus/1395/LDFPUP1">Stephanus</a>
+
+  <a href="../cite/Stephanus/1372/LDFPUP1">Stephanus</a>
+
+  <a href="../cite/Stephanus/1400/LDFPUP1">Stephanus</a>
+
+  <a href="../cite/Syardum/1386/LDFPUP1">Syardum</a>
+
+  <a href="../cite/Sygardus/1376/LDFPUP1">Sygardus</a>
+
+  <a href="../cite/Tammo/1389/LDFPUP1">Tammo</a>
+
+  <a href="../cite/Teodoricus/1388/LDFPUP1">Teodoricus</a>
+
+  <a href="../cite/Teodoricus/1372/LDFPUP1">Teodoricus</a>
+
+  <a href="../cite/Theodoricus/1404/LDFPUP1">Theodoricus</a>
+
+  <a href="../cite/Theodoricus/1385/LDFPUP1">Theodoricus</a>
+
+  <a href="../cite/Theodoricus/1398/LDFPUP1">Theodoricus</a>
+
+  <a href="../cite/Theodoricus/1379/LDFPUP1">Theodoricus</a>
+
+  <a href="../cite/Thomas/1385/LDFPUP1">Thomas</a>
+
+  <a href="../cite/Thomas/1399/LDFPUP1">Thomas</a>
+
+  <a href="../cite/Thomas/1372/LDFPUP1">Thomas</a>
+
+  <a href="../cite/Thomas/1373/LDFPUP1">Thomas</a>
+
+  <a href="../cite/Thomas/1379/LDFPUP1">Thomas</a>
+
+  <a href="../cite/Thomas/1402/LDFPUP1">Thomas</a>
+
+  <a href="../cite/Thomas/1376/LDFPUP1">Thomas</a>
+
+  <a href="../cite/Thomas/1375/LDFPUP1">Thomas</a>
+
+  <a href="../cite/Thomas/1401/LDFPUP1">Thomas</a>
+
+  <a href="../cite/Thordo/1361x1377/LDFPUP1">Thordo</a>
+
+  <a href="../cite/Tidricus/1400/LDFPUP1">Tidricus</a>
+
+  <a href="../cite/Tilmannus/1375/LDFPUP1">Tilmannus</a>
+
+  <a href="../cite/Tobias/1372/LDFPUP1">Tobias</a>
+
+  <a href="../cite/Tydericus/1388/LDFPUP1">Tydericus</a>
+
+  <a href="../cite/Ulricus/1375/LDFPUP1">Ulricus</a>
+
+  <a href="../cite/Ulricus/1410/LDFPUP1">Ulricus</a>
+
+  <a href="../cite/Ulricus/1389/LDFPUP1">Ulricus</a>
+
+  <a href="../cite/Ulricus/1373/LDFPUP1">Ulricus</a>
+
+  <a href="../cite/Ulricus/1408/LDFPUP1">Ulricus</a>
+
+  <a href="../cite/Ulricus/1385/LDFPUP1">Ulricus</a>
+
+  <a href="../cite/Ulricus/1416/LDFPUP1">Ulricus</a>
+
+  <a href="../cite/Ulricus/1372/LDFPUP1">Ulricus</a>
+
+  <a href="../cite/Ulricus/1377/LDFPUP1">Ulricus</a>
+
+  <a href="../cite/Valentinus/1373/LDFPUP1">Valentinus</a>
+
+  <a href="../cite/Wasmodi/1386/LDFPUP1">Wasmodi</a>
+
+  <a href="../cite/Wasmodus/1378/LDFPUP1">Wasmodus</a>
+
+  <a href="../cite/Wenceslai/1407/LDFPUP1">Wenceslai</a>
+
+  <a href="../cite/Wenceslai/1377/LDFPUP1">Wenceslai</a>
+
+  <a href="../cite/Wenceslaum/1407/LDFPUP1">Wenceslaum</a>
+
+  <a href="../cite/Wenceslaus/1376/LDFPUP1">Wenceslaus</a>
+
+  <a href="../cite/Wenceslaus/1375/LDFPUP1">Wenceslaus</a>
+
+  <a href="../cite/Wenceslaus/1400/LDFPUP1">Wenceslaus</a>
+
+  <a href="../cite/Wenceslaus/1377/LDFPUP1">Wenceslaus</a>
+
+  <a href="../cite/Wenceslaus/1372/LDFPUP1">Wenceslaus</a>
+
+  <a href="../cite/Wenceslaus/1373/LDFPUP1">Wenceslaus</a>
+
+  <a href="../cite/Wenceslaus/1383/LDFPUP1">Wenceslaus</a>
+
+  <a href="../cite/Wensyslaus/1377/LDFPUP1">Wensyslaus</a>
+
+  <a href="../cite/Wernerus/1383/LDFPUP1">Wernerus</a>
+
+  <a href="../cite/Wigandi/1397/LDFPUP1">Wigandi</a>
+
+  <a href="../cite/Wilhelmi/1373/LDFPUP1">Wilhelmi</a>
+
+  <a href="../cite/Wilhelmus/1386/LDFPUP1">Wilhelmus</a>
+
+  <a href="../cite/Wilhelmus/1390/LDFPUP1">Wilhelmus</a>
+
+  <a href="../cite/Wilhelmus/1377/LDFPUP1">Wilhelmus</a>
+
+  <a href="../cite/Wilhelmus/1347x1382/LDFPUP1">Wilhelmus</a>
+
+  <a href="../cite/Wlframi/1377/LDFPUP1">Wlframi</a>
+
+  <a href="../cite/Wlframus/1377/LDFPUP1">Wlframus</a>
+
+  <a href="../cite/Wulfardus/1403/LDFPUP1">Wulfardus</a>
+
+  <a href="../cite/Wychardi/1386/LDFPUP1">Wychardi</a>
+
+  <a href="../cite/Wygandus/1377/LDFPUP1">Wygandus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

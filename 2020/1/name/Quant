@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Quant</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Quant</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Middle High German, Middle Low German</span> <i>quant</i> 'smart aleck, pranskter, rogue, imp'.
+  </span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1591</span> <span class="name">Qwant</span> (<span class="case">nom</span>) <a href="../cite/Qwant/1591/HGS"><span class="bib_key">HGS</span> <span class="bib_loc">p. 161</span></a>;
+ <span class="date">1593</span> <span class="name">Quant</span> (<span class="case">nom</span>) <a href="../cite/Quant/1593/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 161</span></a>;
+ <span class="date">1594</span> <span class="name">Qwant</span> (<span class="case">nom</span>) <a href="../cite/Qwant/1594/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 162</span></a>;
+ <span class="date">1595</span> <span class="name">Quante</span> (<span class="case">nom</span>) <a href="../cite/Quante/1595/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 162</span></a>;
+ <span class="date">1596</span> <span class="name">Quant</span> (<span class="case">nom</span>) <a href="../cite/Quant/1596/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 162</span></a>;
+ <span class="date">1597</span> <span class="name">Quante</span> (<span class="case">nom</span>) <a href="../cite/Quante/1597/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 162</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Quant". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Quant.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

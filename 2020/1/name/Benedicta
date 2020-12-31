@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Benedicta</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Benedicta</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>benedicta</i> 'blessed'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Beneita</span> (<span class="case">nom</span>) <a href="../cite/Beneita/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 183</span></a>;
+ <span class="date">1564</span> <span class="name">Benedicta</span> (<span class="case">nom</span>) <a href="../cite/Benedicta/1564/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 9</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1558</span> <span class="name">Benet</span> <a href="../cite/Benet/1558/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1578</span> <span class="name">Bennet</span> <a href="../cite/Bennet/1578/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1583</span> <span class="name">Benit</span> <a href="../cite/Benit/1583/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Benedicta</span> (<span class="case">nom</span>) <a href="../cite/Benedicta/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">94, Ved</span></a>;
+ <span class="date">c968</span> <span class="name">Benedicta</span> (<span class="case">nom</span>) <a href="../cite/Benedicta/c968/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Benedicte</span> (<span class="case">gen</span>) <a href="../cite/Benedicte/c968/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Benoite</span> <a href="../cite/Benoite/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 41</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1562</span> <span class="name">Benoiste</span> <a href="../cite/Benoiste/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1564</span> <span class="name">Benoiste</span> <a href="../cite/Benoiste/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1565</span> <span class="name">Benoiste</span> <a href="../cite/Benoiste/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 113</span></a>;
+ <span class="date">1566</span> <span class="name">Beneste</span> <a href="../cite/Beneste/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 221</span></a>;
+ <span class="date">1567</span> <span class="name">Beneste</span> <a href="../cite/Beneste/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 343</span></a>;
+ <span class="date">1570</span> <span class="name">Beneste</span> <a href="../cite/Beneste/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 427</span></a>;
+ <span class="date">1571</span> <span class="name">Beneste</span> <a href="../cite/Beneste/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 482</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1329</span> <span class="name">Benedicta</span> (<span class="case">nom</span>) <a href="../cite/Benedicta/1329/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 51, s.n. Benedicta</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Benedicta</span> (<span class="case">nom</span>) <a href="../cite/Benedicta/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">118</span></a>;
+ <span class="date">1521</span> <span class="name">Benedicta</span> (<span class="case">nom</span>) <a href="../cite/Benedicta/1521/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Benedecta</span> (<span class="case">nom</span>) <a href="../cite/Benedecta/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 51, 24</span></a>;
+ <span class="date">1527</span> <span class="name">Benedicta</span> (<span class="case">nom</span>) <a href="../cite/Benedicta/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 87</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1488</span> <span class="name">Benedicta</span> (<span class="case">nom</span>) <a href="../cite/Benedicta/1488/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1489</span> <span class="name">Beneta</span> (<span class="case">nom</span>) <a href="../cite/Beneta/1489/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1490</span> <span class="name">Beneta</span> (<span class="case">nom</span>) <a href="../cite/Beneta/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Beneyta</span> <a href="../cite/Beneyta/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3968</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Benedicta</span> <a href="../cite/Benedicta/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1918</span></a>;
+ <span class="date">1420</span> <span class="name">Beynktæ</span> (<span class="case">nom</span>) <a href="../cite/Beynktæ/1420/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 19553</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>M. Slíz, S.L. Uckelman. "Benedicta". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Benedicta.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

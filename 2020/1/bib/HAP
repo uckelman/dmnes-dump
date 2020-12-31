@@ -1,0 +1,560 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>HAP</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>HAP</dt>
+  <dd>M. V.-B. Henry, editor. <em>Histoire de l'Abbaye de Pontigny, Ordre de Citeaux, Département de l'Yonne</em>. Auxerre: Chez Maillefer; Avallon: Chez Gree, 1839.</dd>
+</dl>
+
+
+  <a href="../cite/Adam/1284/HAP">Adam</a>
+
+  <a href="../cite/Adeline/1346/HAP">Adeline</a>
+
+  <a href="../cite/Adriani/1156/HAP">Adriani</a>
+
+  <a href="../cite/Adrianus/1154x1159/HAP">Adrianus</a>
+
+  <a href="../cite/Adrianus/1156/HAP">Adrianus</a>
+
+  <a href="../cite/Aggate/1346/HAP">Aggate</a>
+
+  <a href="../cite/Agnes/1139/HAP">Agnes</a>
+
+  <a href="../cite/Albericus/1142/HAP">Albericus</a>
+
+  <a href="../cite/Albericus/1254/HAP">Albericus</a>
+
+  <a href="../cite/Alexander/1159/HAP">Alexander</a>
+
+  <a href="../cite/Alexander/1255/HAP">Alexander</a>
+
+  <a href="../cite/Alexander/1159x1181/HAP">Alexander</a>
+
+  <a href="../cite/Alexander/1166/HAP">Alexander</a>
+
+  <a href="../cite/Alexander/1260/HAP">Alexander</a>
+
+  <a href="../cite/Alexandri/1159/HAP">Alexandri</a>
+
+  <a href="../cite/Alexandri/1166/HAP">Alexandri</a>
+
+  <a href="../cite/Alixans/1346/HAP">Alixans</a>
+
+  <a href="../cite/Amelina/1139/HAP">Amelina</a>
+
+  <a href="../cite/Ansello/1139/HAP">Ansello</a>
+
+  <a href="../cite/Ansellus/1139/HAP">Ansellus</a>
+
+  <a href="../cite/Anselmus/1138/HAP">Anselmus</a>
+
+  <a href="../cite/Antoine/1421/HAP">Antoine</a>
+
+  <a href="../cite/Attone/1142/HAP">Attone</a>
+
+  <a href="../cite/Azo/1138/HAP">Azo</a>
+
+  <a href="../cite/Benedictum/1240/HAP">Benedictum</a>
+
+  <a href="../cite/Benedictus/1240/HAP">Benedictus</a>
+
+  <a href="../cite/Bernardi/1249/HAP">Bernardi</a>
+
+  <a href="../cite/Bertranni/1143/HAP">Bertranni</a>
+
+  <a href="../cite/Bertranni/1139/HAP">Bertranni</a>
+
+  <a href="../cite/Bertrannus/1139/HAP">Bertrannus</a>
+
+  <a href="../cite/Bochardus/1139/HAP">Bochardus</a>
+
+  <a href="../cite/Bonet/1299s1300/HAP">Bonet</a>
+
+  <a href="../cite/Buchardus/1143/HAP">Buchardus</a>
+
+  <a href="../cite/Celestinus/1193/HAP">Celestinus</a>
+
+  <a href="../cite/Clarembaudi/1289/HAP">Clarembaudi</a>
+
+  <a href="../cite/Clarinus/1240/HAP">Clarinus</a>
+
+  <a href="../cite/Clemens/1265/HAP">Clemens</a>
+
+  <a href="../cite/Colin/1346/HAP">Colin</a>
+
+  <a href="../cite/Conradus/1142/HAP">Conradus</a>
+
+  <a href="../cite/Emelina/1143/HAP">Emelina</a>
+
+  <a href="../cite/Engelberto/1146/HAP">Engelberto</a>
+
+  <a href="../cite/Ermengarde/1209/HAP">Ermengarde</a>
+
+  <a href="../cite/Ermengardis/1209/HAP">Ermengardis</a>
+
+  <a href="../cite/Ermengardis/1248/HAP">Ermengardis</a>
+
+  <a href="../cite/Estienne/1421/HAP">Estienne</a>
+
+  <a href="../cite/Estiennes/1346/HAP">Estiennes</a>
+
+  <a href="../cite/François/1527/HAP">François</a>
+
+  <a href="../cite/Galcherus/1241/HAP">Galcherus</a>
+
+  <a href="../cite/Garino/1166/HAP">Garino</a>
+
+  <a href="../cite/Garmundi/1139/HAP">Garmundi</a>
+
+  <a href="../cite/Garnier/1346/HAP">Garnier</a>
+
+  <a href="../cite/Gaucheri/1235/HAP">Gaucheri</a>
+
+  <a href="../cite/Gaucherus/1235/HAP">Gaucherus</a>
+
+  <a href="../cite/Gauterii/1139/HAP">Gauterii</a>
+
+  <a href="../cite/Gauterio/1146/HAP">Gauterio</a>
+
+  <a href="../cite/Gauterius/1139/HAP">Gauterius</a>
+
+  <a href="../cite/Georgin/1346/HAP">Georgin</a>
+
+  <a href="../cite/Gerardi/1166/HAP">Gerardi</a>
+
+  <a href="../cite/Godart/1346/HAP">Godart</a>
+
+  <a href="../cite/Goduvinus/1227/HAP">Goduvinus</a>
+
+  <a href="../cite/Gosberto/1146/HAP">Gosberto</a>
+
+  <a href="../cite/Gregorius/1235/HAP">Gregorius</a>
+
+  <a href="../cite/Gregorius/1275/HAP">Gregorius</a>
+
+  <a href="../cite/Gregorius/1272/HAP">Gregorius</a>
+
+  <a href="../cite/Gregorius/1138/HAP">Gregorius</a>
+
+  <a href="../cite/Gregorius/1142/HAP">Gregorius</a>
+
+  <a href="../cite/Gregorius/1234/HAP">Gregorius</a>
+
+  <a href="../cite/Gregorius/1227/HAP">Gregorius</a>
+
+  <a href="../cite/Guarino/1159x1181/HAP">Guarino</a>
+
+  <a href="../cite/Guarnerio/1146/HAP">Guarnerio</a>
+
+  <a href="../cite/Guerin/1346/HAP">Guerin</a>
+
+  <a href="../cite/Guermundo/1154x1159/HAP">Guermundo</a>
+
+  <a href="../cite/Guiardi/1139/HAP">Guiardi</a>
+
+  <a href="../cite/Guiardo/1139/HAP">Guiardo</a>
+
+  <a href="../cite/Guiardus/1139/HAP">Guiardus</a>
+
+  <a href="../cite/Guido/1227/HAP">Guido</a>
+
+  <a href="../cite/Guido/1139/HAP">Guido</a>
+
+  <a href="../cite/Guido/1142/HAP">Guido</a>
+
+  <a href="../cite/Guido/1138/HAP">Guido</a>
+
+  <a href="../cite/Guido/1209/HAP">Guido</a>
+
+  <a href="../cite/Guido/1143/HAP">Guido</a>
+
+  <a href="../cite/Guidone/1146/HAP">Guidone</a>
+
+  <a href="../cite/Guidonis/1224/HAP">Guidonis</a>
+
+  <a href="../cite/Guillaume/1345/HAP">Guillaume</a>
+
+  <a href="../cite/Guillaume/1346/HAP">Guillaume</a>
+
+  <a href="../cite/Guillaume/1276/HAP">Guillaume</a>
+
+  <a href="../cite/Guillaume/1299s1300/HAP">Guillaume</a>
+
+  <a href="../cite/Guillaumes/1346/HAP">Guillaumes</a>
+
+  <a href="../cite/Guillelmi/1139/HAP">Guillelmi</a>
+
+  <a href="../cite/Guillelmus/1156/HAP">Guillelmus</a>
+
+  <a href="../cite/Guillermum/1240/HAP">Guillermum</a>
+
+  <a href="../cite/Guiot/1346/HAP">Guiot</a>
+
+  <a href="../cite/Guioz/1346/HAP">Guioz</a>
+
+  <a href="../cite/Guy/1299s1300/HAP">Guy</a>
+
+  <a href="../cite/Hagano/1240/HAP">Hagano</a>
+
+  <a href="../cite/Haganonis/1240/HAP">Haganonis</a>
+
+  <a href="../cite/Hatto/1202/HAP">Hatto</a>
+
+  <a href="../cite/Helias/1143/HAP">Helias</a>
+
+  <a href="../cite/Helias/1213/HAP">Helias</a>
+
+  <a href="../cite/Helyenors/1226s7/HAP">Helyenors</a>
+
+  <a href="../cite/Henri/1527/HAP">Henri</a>
+
+  <a href="../cite/Henrici/1138/HAP">Henrici</a>
+
+  <a href="../cite/Henrico/1142/HAP">Henrico</a>
+
+  <a href="../cite/Henricus/1166/HAP">Henricus</a>
+
+  <a href="../cite/Hermanni/1159/HAP">Hermanni</a>
+
+  <a href="../cite/Honorius/1222/HAP">Honorius</a>
+
+  <a href="../cite/Honorius/1220/HAP">Honorius</a>
+
+  <a href="../cite/Honorius/1224/HAP">Honorius</a>
+
+  <a href="../cite/Honorius/1225/HAP">Honorius</a>
+
+  <a href="../cite/Huberto/1240/HAP">Huberto</a>
+
+  <a href="../cite/Hugo/1139/HAP">Hugo</a>
+
+  <a href="../cite/Hugo/1143/HAP">Hugo</a>
+
+  <a href="../cite/Hugonis/1138/HAP">Hugonis</a>
+
+  <a href="../cite/Hugues/1421/HAP">Hugues</a>
+
+  <a href="../cite/Hugues/1346/HAP">Hugues</a>
+
+  <a href="../cite/Humbaldi/1138/HAP">Humbaldi</a>
+
+  <a href="../cite/Innocentii/1254/HAP">Innocentii</a>
+
+  <a href="../cite/Innocentio/1139/HAP">Innocentio</a>
+
+  <a href="../cite/Innocentius/1250/HAP">Innocentius</a>
+
+  <a href="../cite/Innocentius/1204/HAP">Innocentius</a>
+
+  <a href="../cite/Innocentius/1244/HAP">Innocentius</a>
+
+  <a href="../cite/Innocentius/1200/HAP">Innocentius</a>
+
+  <a href="../cite/Innocentius/1213/HAP">Innocentius</a>
+
+  <a href="../cite/Innocentius/1138/HAP">Innocentius</a>
+
+  <a href="../cite/Innocentius/1249/HAP">Innocentius</a>
+
+  <a href="../cite/Innocentius/1246/HAP">Innocentius</a>
+
+  <a href="../cite/Innocentius/1202/HAP">Innocentius</a>
+
+  <a href="../cite/Innocentius/1212/HAP">Innocentius</a>
+
+  <a href="../cite/Innocentius/1481/HAP">Innocentius</a>
+
+  <a href="../cite/Innocentius/1210/HAP">Innocentius</a>
+
+  <a href="../cite/Innocentius/1142/HAP">Innocentius</a>
+
+  <a href="../cite/Iterius/1139/HAP">Iterius</a>
+
+  <a href="../cite/Iterius/1143/HAP">Iterius</a>
+
+  <a href="../cite/Ithier/1421/HAP">Ithier</a>
+
+  <a href="../cite/Ivo/1138/HAP">Ivo</a>
+
+  <a href="../cite/Jacobum/1260/HAP">Jacobum</a>
+
+  <a href="../cite/Jacobus/1260/HAP">Jacobus</a>
+
+  <a href="../cite/Jacques/1527/HAP">Jacques</a>
+
+  <a href="../cite/Janhan/1284/HAP">Janhan</a>
+
+  <a href="../cite/Jaquaut/1346/HAP">Jaquaut</a>
+
+  <a href="../cite/Jaques/1345/HAP">Jaques</a>
+
+  <a href="../cite/Jean/1527/HAP">Jean</a>
+
+  <a href="../cite/Jehan/1299s1300/HAP">Jehan</a>
+
+  <a href="../cite/Jehan/1346/HAP">Jehan</a>
+
+  <a href="../cite/Jehan/1421/HAP">Jehan</a>
+
+  <a href="../cite/Jehan/1345/HAP">Jehan</a>
+
+  <a href="../cite/Jehaneite/1346/HAP">Jehaneite</a>
+
+  <a href="../cite/Jehanne/1421/HAP">Jehanne</a>
+
+  <a href="../cite/Jehannet/1346/HAP">Jehannet</a>
+
+  <a href="../cite/Jehans/1345/HAP">Jehans</a>
+
+  <a href="../cite/Jehanz/1295s6/HAP">Jehanz</a>
+
+  <a href="../cite/Jehanz/1276/HAP">Jehanz</a>
+
+  <a href="../cite/Johanna/1226s7/HAP">Johanna</a>
+
+  <a href="../cite/Johanne/1146/HAP">Johanne</a>
+
+  <a href="../cite/Johanne/1346/HAP">Johanne</a>
+
+  <a href="../cite/Johannes/1241/HAP">Johannes</a>
+
+  <a href="../cite/Johannes/1219/HAP">Johannes</a>
+
+  <a href="../cite/Johannes/1261/HAP">Johannes</a>
+
+  <a href="../cite/Johanni/1481/HAP">Johanni</a>
+
+  <a href="../cite/Johanni/1418/HAP">Johanni</a>
+
+  <a href="../cite/Johannis/1210/HAP">Johannis</a>
+
+  <a href="../cite/Johannis/1235/HAP">Johannis</a>
+
+  <a href="../cite/Landricus/1146/HAP">Landricus</a>
+
+  <a href="../cite/Louis/1421/HAP">Louis</a>
+
+  <a href="../cite/Loys/1482/HAP">Loys</a>
+
+  <a href="../cite/Loys/1527/HAP">Loys</a>
+
+  <a href="../cite/Lucas/1138/HAP">Lucas</a>
+
+  <a href="../cite/Ludovico/1139/HAP">Ludovico</a>
+
+  <a href="../cite/Ludovico/1135/HAP">Ludovico</a>
+
+  <a href="../cite/Ludovico/1143/HAP">Ludovico</a>
+
+  <a href="../cite/Ludovicus/1248/HAP">Ludovicus</a>
+
+  <a href="../cite/Ludovicus/1135/HAP">Ludovicus</a>
+
+  <a href="../cite/Mahot/1240/HAP">Mahot</a>
+
+  <a href="../cite/Mainiart/1346/HAP">Mainiart</a>
+
+  <a href="../cite/Manasse/1139/HAP">Manasse</a>
+
+  <a href="../cite/Margareta/1241/HAP">Margareta</a>
+
+  <a href="../cite/Margareta/1261/HAP">Margareta</a>
+
+  <a href="../cite/Margerite/1299s1300/HAP">Margerite</a>
+
+  <a href="../cite/Marguerite/1421/HAP">Marguerite</a>
+
+  <a href="../cite/Marguerite/1295s6/HAP">Marguerite</a>
+
+  <a href="../cite/Marie/1346/HAP">Marie</a>
+
+  <a href="../cite/Martinus/1418/HAP">Martinus</a>
+
+  <a href="../cite/Martinus/1138/HAP">Martinus</a>
+
+  <a href="../cite/Michel/1421/HAP">Michel</a>
+
+  <a href="../cite/Miles/1276/HAP">Miles</a>
+
+  <a href="../cite/Miles/1295s6/HAP">Miles</a>
+
+  <a href="../cite/Millot/1527/HAP">Millot</a>
+
+  <a href="../cite/Milo/1210/HAP">Milo</a>
+
+  <a href="../cite/Miloni/1240/HAP">Miloni</a>
+
+  <a href="../cite/Nicolao/1139/HAP">Nicolao</a>
+
+  <a href="../cite/Nicolas/1346/HAP">Nicolas</a>
+
+  <a href="../cite/Nycholas/1284/HAP">Nycholas</a>
+
+  <a href="../cite/Odelinæ/1143/HAP">Odelinæ</a>
+
+  <a href="../cite/Osanne/1346/HAP">Osanne</a>
+
+  <a href="../cite/Osberto/1146/HAP">Osberto</a>
+
+  <a href="../cite/Otto/1142/HAP">Otto</a>
+
+  <a href="../cite/Otto/1138/HAP">Otto</a>
+
+  <a href="../cite/Perraute/1346/HAP">Perraute</a>
+
+  <a href="../cite/Perrinet/1299s1300/HAP">Perrinet</a>
+
+  <a href="../cite/Perrins/1346/HAP">Perrins</a>
+
+  <a href="../cite/Petri/1210/HAP">Petri</a>
+
+  <a href="../cite/Petrus/1210/HAP">Petrus</a>
+
+  <a href="../cite/Philippus/1248/HAP">Philippus</a>
+
+  <a href="../cite/Philippus/1213/HAP">Philippus</a>
+
+  <a href="../cite/Pierre/1346/HAP">Pierre</a>
+
+  <a href="../cite/Pierre/1284/HAP">Pierre</a>
+
+  <a href="../cite/Pierre/1299s1300/HAP">Pierre</a>
+
+  <a href="../cite/Pierre/1345/HAP">Pierre</a>
+
+  <a href="../cite/Raoul/1299s1300/HAP">Raoul</a>
+
+  <a href="../cite/Raoul/1346/HAP">Raoul</a>
+
+  <a href="../cite/Regnaut/1346/HAP">Regnaut</a>
+
+  <a href="../cite/Renaudus/1248/HAP">Renaudus</a>
+
+  <a href="../cite/Robert/1346/HAP">Robert</a>
+
+  <a href="../cite/Robertum/1240/HAP">Robertum</a>
+
+  <a href="../cite/Rocelino/1139/HAP">Rocelino</a>
+
+  <a href="../cite/Roscelinus/1143/HAP">Roscelinus</a>
+
+  <a href="../cite/Salo/1143/HAP">Salo</a>
+
+  <a href="../cite/Salo/1139/HAP">Salo</a>
+
+  <a href="../cite/Stephani/1289/HAP">Stephani</a>
+
+  <a href="../cite/Stephano/1146/HAP">Stephano</a>
+
+  <a href="../cite/Stephanus/1289/HAP">Stephanus</a>
+
+  <a href="../cite/Stephanus/1261/HAP">Stephanus</a>
+
+  <a href="../cite/Stephanus/1142/HAP">Stephanus</a>
+
+  <a href="../cite/Stephanus/1139/HAP">Stephanus</a>
+
+  <a href="../cite/Stephanus/1143/HAP">Stephanus</a>
+
+  <a href="../cite/Symon/1226s7/HAP">Symon</a>
+
+  <a href="../cite/Symon/1346/HAP">Symon</a>
+
+  <a href="../cite/Symons/1346/HAP">Symons</a>
+
+  <a href="../cite/Tevenin/1345/HAP">Tevenin</a>
+
+  <a href="../cite/Theobaldo/1224/HAP">Theobaldo</a>
+
+  <a href="../cite/Theobaldo/1193/HAP">Theobaldo</a>
+
+  <a href="../cite/Theobaldus/1235/HAP">Theobaldus</a>
+
+  <a href="../cite/Theodewinus/1138/HAP">Theodewinus</a>
+
+  <a href="../cite/Thevenin/1346/HAP">Thevenin</a>
+
+  <a href="../cite/Thomas/1346/HAP">Thomas</a>
+
+  <a href="../cite/Urbanus/1263/HAP">Urbanus</a>
+
+  <a href="../cite/Walterii/1143/HAP">Walterii</a>
+
+  <a href="../cite/Walterius/1143/HAP">Walterius</a>
+
+  <a href="../cite/Walterus/1249/HAP">Walterus</a>
+
+  <a href="../cite/Wicarde/1138/HAP">Wicarde</a>
+
+  <a href="../cite/Willelmus/1226s7/HAP">Willelmus</a>
+
+  <a href="../cite/Willelmus/1143/HAP">Willelmus</a>
+
+  <a href="../cite/Willermus/1213/HAP">Willermus</a>
+
+  <a href="../cite/Willermus/1249/HAP">Willermus</a>
+
+  <a href="../cite/Ysabeau/1346/HAP">Ysabeau</a>
+
+  <a href="../cite/Ysabeaux/1346/HAP">Ysabeaux</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Simone</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Simone</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Fem. of <a class="nym" href="Simon">Simon</a>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of the 11th-12th C wife of El Cid and ruler of Valencia.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1573</span> <span class="name">Simone</span> <a href="../cite/Simone/1573/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 9</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1592</span> <span class="name">Simonne</span> <a href="../cite/Simonne/1592/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1593</span> <span class="name">Simonne</span> <a href="../cite/Simonne/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1423</span> <span class="name">Symonne</span> <a href="../cite/Symonne/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">258</span></a>;
+ <span class="date">1562</span> <span class="name">Simonne</span> <a href="../cite/Simonne/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1563</span> <span class="name">Symonne</span> <a href="../cite/Symonne/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1565</span> <span class="name">Symonne</span> <a href="../cite/Symonne/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 113</span></a>;
+ <span class="date">1567</span> <span class="name">Symonne</span> <a href="../cite/Symonne/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 305</span></a>;
+ <span class="date">1568</span> <span class="name">Symonne</span> <a href="../cite/Symonne/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 364</span></a>;
+ <span class="date">1570</span> <span class="name">Symonne</span> <a href="../cite/Symonne/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 546</span></a>;
+ <span class="date">1571</span> <span class="name">Symonne</span> <a href="../cite/Symonne/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 461</span></a>;
+ <span class="date">1572</span> <span class="name">Symonne</span> <a href="../cite/Symonne/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 514</span></a>;
+ <span class="date">1587</span> <span class="name">Symonne</span> <a href="../cite/Symonne/1587/RTFProvins"><span class="bib_key">RTFProvins</span> <span class="bib_loc">57</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Simona</span> (<span class="case">nom</span>) <a href="../cite/Simona/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">839</span></a>;
+ <span class="date">1367</span> <span class="name">Simona</span> (<span class="case">abl</span>) <a href="../cite/Simona/1367/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">149</span></a>;
+ <span class="date">1370</span> <span class="name">Simona</span> (<span class="case">abl</span>) <a href="../cite/Simona/1370/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">257</span></a>;
+ <span class="date">1527</span> <span class="name">Simona</span> (<span class="case">nom</span>) <a href="../cite/Simona/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 83</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1343</span> <span class="name">Symoneta</span> (<span class="case">nom</span>) <a href="../cite/Symoneta/1343/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(159)</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, J. Uckelman, S.L. Uckelman. "Simone". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Simone.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

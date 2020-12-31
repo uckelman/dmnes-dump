@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Nicaise</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Nicaise</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Nicasius</i>, a Roman cognomen derived from <span class="lang">Greek</span> <i>Νίκη</i>, the goddess of victory.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a legendary 3rd C martyr, a 5th C French saint, a 12th C Italian martyr, and a 16th C Dutch martyr.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1336</span> <span class="name">Nichasise</span> (<span class="case">dat</span>) <a href="../cite/Nichasise/1336/RSG1336-39"><span class="bib_key">RSG1336-39</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1377</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1377/RSG1376-89"><span class="bib_key">RSG1376-89</span> <span class="bib_loc">p. 77</span></a>;
+ <span class="date">1423</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1423/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1424</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1424/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1427</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1427/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1431</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1431/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1435</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1435/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1438</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1438/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1442</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1442/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1443</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1443/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1444</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1444/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1446</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1446/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1448</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1448/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1450</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1450/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1451</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1451/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1452</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1452/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1453</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1453/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1454</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1454/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1455</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1455/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1457</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1457/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1458</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1458/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1459</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1459/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1461</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1461/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1463</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1463/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1464</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1464/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1466</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1466/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1468</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1468/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1469</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1469/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1471</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1471/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1472</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1472/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1474</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1474/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1475</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1475/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1476</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1476/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1477</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1477/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1478</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1478/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1479</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1479/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1481</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1481/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1483</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1483/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1484</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1484/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1485</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1485/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1486</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1486/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1489</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1489/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1490</span> <span class="name">Nicasis</span> (<span class="case">nom</span>) <a href="../cite/Nicasis/1490/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 55</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1596</span> <span class="name">Nicasius</span> <a href="../cite/Nicasius/1596/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Russel</span></a>;
+ <span class="date">1598</span> <span class="name">Nicasius</span> <a href="../cite/Nicasius/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Russeel</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1567</span> <span class="name">Nicas</span> <a href="../cite/Nicas/1567/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 3</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1584</span> <span class="name">Nicaise</span> <a href="../cite/Nicaise/1584/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1592/3</span> <span class="name">Nicaise</span> <a href="../cite/Nicaise/1592s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593</span> <span class="name">Nicaise</span> <a href="../cite/Nicaise/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1378</span> <span class="name">Nicasio</span> (<span class="case">dat</span>) <a href="../cite/Nicasio/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">151</span></a>,
+ <span class="name">Nichasio</span> (<span class="case">dat</span>) <a href="../cite/Nichasio/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">567</span></a>,
+ <span class="name">Nichasius</span> (<span class="case">nom</span>) <a href="../cite/Nichasius/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1406</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1293</span> <span class="name">Nigaise</span> (<span class="case">obl</span>) <a href="../cite/Nigaise/1293/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 120</span></a>;
+ <span class="date">1296</span> <span class="name">Nichaise</span> <a href="../cite/Nichaise/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1313</span> <span class="name">Nicaise</span> <a href="../cite/Nicaise/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 48</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1404</span> <span class="name">Nicaise</span> <a href="../cite/Nicaise/1404/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 4</span></a>;
+ <span class="date">1418</span> <span class="name">Nicaise</span> <a href="../cite/Nicaise/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 380</span></a>;
+ <span class="date">1421</span> <span class="name">Nicaise</span> <a href="../cite/Nicaise/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">525</span></a>;
+ <span class="date">1423</span> <span class="name">Nicaise</span> <a href="../cite/Nicaise/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">408</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Caisin</span> <a href="../cite/Caisin/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">120</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Nicasi</span> <a href="../cite/Nicasi/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">1616</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Nicaise". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Nicaise.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>
