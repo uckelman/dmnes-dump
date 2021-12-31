@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Walram</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Walram</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Frankish</span>, <span class="lang">Old German</span> <i>walh</i> 'foreigner, stranger; slave' from <span class="lang">Proto-Germanic</span> <i>*walhaz</i>, from a Celtic tribal name + <span class="lang">Old Saxon</span> <i>hram</i> 'raven'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1238</span> <span class="name">Walerammi</span> (<span class="case">gen</span>) <a href="../cite/Walerammi/1238/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">3</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Waelraevens</span> (<span class="case">gen</span>) <a href="../cite/Waelraevens/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 353</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Walramus</span> (<span class="case">nom</span>) <a href="../cite/Walramus/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 31</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Walerand</span> (<span class="case">nom</span>) <a href="../cite/Walerand/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1183</span> <span class="name">Gualeranni</span> (<span class="case">gen</span>) <a href="../cite/Gualeranni/1183/BoldonBuke"><span class="bib_key">BoldonBuke</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Gualerannus</span> (<span class="case">nom</span>) <a href="../cite/Gualerannus/1183/BoldonBuke"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1594</span> <span class="name">Walram</span> <a href="../cite/Walram/1594/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Cornu</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1569</span> <span class="name">Wallerand</span> <a href="../cite/Wallerand/1569/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1570</span> <span class="name">Wallerant</span> <a href="../cite/Wallerant/1570/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1572</span> <span class="name">Wallerant</span> <a href="../cite/Wallerant/1572/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1576</span> <span class="name">Wallerant</span> <a href="../cite/Wallerant/1576/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1580</span> <span class="name">Wallerant</span> <a href="../cite/Wallerant/1580/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 87</span></a>;
+ <span class="date">1583</span> <span class="name">Wallerant</span> <a href="../cite/Wallerant/1583/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1584</span> <span class="name">Walram</span> <a href="../cite/Walram/1584/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Walran</span> <a href="../cite/Walran/1584/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 104</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Walerand</span> <a href="../cite/Walerand/1582/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1583</span> <span class="name">Walerand</span> <a href="../cite/Walerand/1583/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 563</span></a>;
+ <span class="date">1583/4</span> <span class="name">Walerand</span> <a href="../cite/Walerand/1583s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1584</span> <span class="name">Wallerand</span> <a href="../cite/Wallerand/1584/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1590</span> <span class="name">Walerand</span> <a href="../cite/Walerand/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1591</span> <span class="name">Walleran</span> <a href="../cite/Walleran/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1592</span> <span class="name">Walleran</span> <a href="../cite/Walleran/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1593</span> <span class="name">Walleran</span> <a href="../cite/Walleran/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1593/4</span> <span class="name">Walleran</span> <a href="../cite/Walleran/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1596</span> <span class="name">Walleran</span> <a href="../cite/Walleran/1596/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">a1072</span> <span class="name">Waleranni</span> (<span class="case">gen</span>) <a href="../cite/Waleranni/a1072/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">1-XVI</span></a>;
+ <span class="date">1133</span> <span class="name">Galeranno</span> (<span class="case">dat</span>) <a href="../cite/Galeranno/1133/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXVIII</span></a>,
+ <span class="name">Gualeranno</span> (<span class="case">abl</span>) <a href="../cite/Gualeranno/1133/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXX</span></a>,
+ <span class="name">Walerannus</span> (<span class="case">nom</span>) <a href="../cite/Walerannus/1133/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXI</span></a>;
+ <span class="date">1135</span> <span class="name">Gualeranno</span> (<span class="case">dat</span>) <a href="../cite/Gualeranno/1135/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXVIII</span></a>;
+ <span class="date">c1136</span> <span class="name">Galeranni</span> (<span class="case">gen</span>) <a href="../cite/Galeranni/c1136/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXI</span></a>,
+ <span class="name">Gualeranni</span> (<span class="case">gen</span>) <a href="../cite/Gualeranni/c1136/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXI</span></a>;
+ <span class="date">1138</span> <span class="name">Gauleranni</span> (<span class="case">gen</span>) <a href="../cite/Gauleranni/1138/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CLI</span></a>,
+ <span class="name">Gualerannus</span> (<span class="case">nom</span>) <a href="../cite/Gualerannus/1138/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXIX</span></a>;
+ <span class="date">c1140</span> <span class="name">Galeranno</span> (<span class="case">abl</span>) <a href="../cite/Galeranno/c1140/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XCVIII</span></a>;
+ <span class="date">1141</span> <span class="name">Gualeranno</span> (<span class="case">dat</span>) <a href="../cite/Gualeranno/1141/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXXI</span></a>,
+ <span class="name">Gualerannus</span> (<span class="case">nom</span>) <a href="../cite/Gualerannus/1141/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXXI</span></a>;
+ <span class="date">1144x1153</span> <span class="name">Galerannus</span> (<span class="case">nom</span>) <a href="../cite/Galerannus/1144x1153/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1146</span> <span class="name">Galeranno</span> (<span class="case">abl</span>) <a href="../cite/Galeranno/1146/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXII</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1297</span> <span class="name">Galeran</span> (<span class="case">obl</span>) <a href="../cite/Galeran/1297/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 136</span></a>;
+ <span class="date">1298</span> <span class="name">Galeran</span> (<span class="case">obl</span>) <a href="../cite/Galeran/1298/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 141</span></a>;
+ <span class="date">1313</span> <span class="name">Galeran</span> <a href="../cite/Galeran/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 169</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1358</span> <span class="name">Waleran</span> <a href="../cite/Waleran/1358/LeCoq"><span class="bib_key">LeCoq</span> <span class="bib_loc">p. 382</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1134</span> <span class="name">Waleramus</span> (<span class="case">nom</span>) <a href="../cite/Waleramus/1134/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1135</span> <span class="name">Walerami</span> (<span class="case">gen</span>) <a href="../cite/Walerami/1135/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>;
+ <span class="date">1136</span> <span class="name">Walerannus</span> (<span class="case">nom</span>) <a href="../cite/Walerannus/1136/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>,
+ <span class="name">Walramus</span> (<span class="case">nom</span>) <a href="../cite/Walramus/1136/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1138</span> <span class="name">Wallerannus</span> (<span class="case">nom</span>) <a href="../cite/Wallerannus/1138/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1155x1190</span> <span class="name">Walramus</span> (<span class="case">nom</span>) <a href="../cite/Walramus/1155x1190/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">52</span></a>;
+ <span class="date">1173</span> <span class="name">Waleramus</span> (<span class="case">nom</span>) <a href="../cite/Waleramus/1173/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">81</span></a>,
+ <span class="name">Wallerando</span> (<span class="case">abl</span>) <a href="../cite/Wallerando/1173/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1191</span> <span class="name">Wallerannus</span> (<span class="case">nom</span>) <a href="../cite/Wallerannus/1191/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">38</span></a>;
+ <span class="date">1208</span> <span class="name">Waleramus</span> (<span class="case">nom</span>) <a href="../cite/Waleramus/1208/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">124</span></a>;
+ <span class="date">1215</span> <span class="name">Walleramus</span> (<span class="case">nom</span>) <a href="../cite/Walleramus/1215/quix-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1222?</span> <span class="name">Walramum</span> (<span class="case">acc</span>) <a href="../cite/Walramum/1222?/quix-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">133</span></a>,
+ <span class="name">Walramus</span> (<span class="case">nom</span>) <a href="../cite/Walramus/1222?/quix-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">133</span></a>;
+ <span class="date">1313</span> <span class="name">Wolraven</span> (<span class="case">nom</span>) <a href="../cite/Wolraven/1313/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1401</span> <span class="name">Walramo</span> (<span class="case">dat</span>) <a href="../cite/Walramo/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 9</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Valarano</span> (<span class="case">abl</span>) <a href="../cite/Valarano/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 50</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">855</span> <span class="name">Walthrabhan</span> (<span class="case">nom</span>) <a href="../cite/Walthrabhan/855/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 45</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Walram". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Walram.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

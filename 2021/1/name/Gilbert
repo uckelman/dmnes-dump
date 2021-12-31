@@ -1,0 +1,436 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Gilbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Gilbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>gīsal</i> 'pledge, hostage' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an 11th C French saint, a 12th C English saint, and a 13th C Scottish saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The English diminutives <i>Gib</i>, <i>Gyb</i>, and <i>Gybon</i> are witnessed in 1379 in the relational bynames <i>Gibwyf'</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 18</span></span>), <i>Gybsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 18</span></span>), and <i>Gybonsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 149</span></span>).
+  
+The name <a class="nym" href="Gilo">Gilo</a> was sometimes used as a nickname of <a class="nym" href="Gilbert">Gilbert</a>, as in the 1271 example of <i>Giselbertus dictus Gillo</i> (<span class="key">hennes-vol1</span>, <span class="loc">218</span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1100</span> <span class="name">Gisilberto</span> (<span class="case">dat</span>) <a href="../cite/Gisilberto/c1100/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">91</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1147</span> <span class="name">Giselbertus</span> (<span class="case">nom</span>) <a href="../cite/Giselbertus/1147/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1165</span> <span class="name">Gisleberti</span> (<span class="case">gen</span>) <a href="../cite/Gisleberti/1165/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1176</span> <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1176/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1336</span> <span class="name">Ghiselbrecht</span> (<span class="case">nom</span>) <a href="../cite/Ghiselbrecht/1336/RSG1336-39"><span class="bib_key">RSG1336-39</span> <span class="bib_loc">p. 47</span></a>,
+ <span class="name">Ghiselbrechte</span> (<span class="case">obl</span>) <a href="../cite/Ghiselbrechte/1336/RSG1336-39"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Ghiselbrechts</span> (<span class="case">gen</span>) <a href="../cite/Ghiselbrechts/1336/RSG1336-39"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1376</span> <span class="name">Ghiselbrecht</span> (<span class="case">nom</span>) <a href="../cite/Ghiselbrecht/1376/RSG1376-89"><span class="bib_key">RSG1376-89</span> <span class="bib_loc">p. 1</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1337</span> <span class="name">Gilkin</span> <a href="../cite/Gilkin/1337/RSG1336-39"><span class="bib_key">RSG1336-39</span> <span class="bib_loc">p. 75</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Ghiselberti</span> (<span class="case">gen</span>) <a href="../cite/Ghiselberti/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Ghiselbertum</span> (<span class="case">acc</span>) <a href="../cite/Ghiselbertum/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Ghiselbertus</span> (<span class="case">nom</span>) <a href="../cite/Ghiselbertus/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1343</span> <span class="name">Gaysilprechto</span> (<span class="case">dat</span>) <a href="../cite/Gaysilprechto/1343/Rössler2"><span class="bib_key">Rössler2</span> <span class="bib_loc">326, p. 149</span></a>,
+ <span class="name">Gaysilprechtum</span> (<span class="case">acc</span>) <a href="../cite/Gaysilprechtum/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">326, p. 149</span></a>,
+ <span class="name">Gaysilprechtus</span> (<span class="case">nom</span>) <a href="../cite/Gaysilprechtus/1343/Rössler2"><span class="bib_key">ibid.</span> <span class="bib_loc">326, p. 149</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1132</span> <span class="name">Gilleberto</span> (<span class="case">abl</span>) <a href="../cite/Gilleberto/c1132/MemStMF"><span class="bib_key">MemStMF</span> <span class="bib_loc">II-I</span></a>;
+ <span class="date">1155</span> <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1161x1184</span> <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1161x1184/MDE"><span class="bib_key">MDE</span> <span class="bib_loc">p. 227, no. 1</span></a>;
+ <span class="date">1181</span> <span class="name">Gileberti</span> (<span class="case">gen</span>) <a href="../cite/Gileberti/1181/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 109</span></a>,
+ <span class="name">Gileberto</span> (<span class="case">abl</span>) <a href="../cite/Gileberto/1181/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1183</span> <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1183/BoldonBuke"><span class="bib_key">BoldonBuke</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Gilleberti</span> (<span class="case">gen</span>) <a href="../cite/Gilleberti/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Gilleberto</span> (<span class="case">abl</span>) <a href="../cite/Gilleberto/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1189</span> <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 82</span></a>,
+ <span class="name">Gileberti</span> (<span class="case">gen</span>) <a href="../cite/Gileberti/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 119</span></a>,
+ <span class="name">Gilebertus</span> (<span class="case">nom</span>) <a href="../cite/Gilebertus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82</span></a>,
+ <span class="name">Gileburtus</span> (<span class="case">nom</span>) <a href="../cite/Gileburtus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 164</span></a>,
+ <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 225</span></a>;
+ <span class="date">c1198</span> <span class="name">Gilebertus</span> (<span class="case">nom</span>) <a href="../cite/Gilebertus/c1198/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 246</span></a>;
+ <span class="date">1222</span> <span class="name">Giliberti</span> (<span class="case">gen</span>) <a href="../cite/Giliberti/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Gilibertus</span> (<span class="case">nom</span>) <a href="../cite/Gilibertus/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1240</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1240/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 119</span></a>;
+ <span class="date">1246</span> <span class="name">Gilebertum</span> (<span class="case">acc</span>) <a href="../cite/Gilebertum/1246/PSS-II"><span class="bib_key">PSS-II</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1256</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Gilberto</span> (<span class="case">dat</span>) <a href="../cite/Gilberto/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1279–80</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 67</span></a>,
+ <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>,
+ <span class="name">Gylbertus</span> (<span class="case">nom</span>) <a href="../cite/Gylbertus/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1296</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 94b</span></a>,
+ <span class="name">Gilberto</span> (<span class="case">dat</span>) <a href="../cite/Gilberto/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94b</span></a>,
+ <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93a</span></a>;
+ <span class="date">1300</span> <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 240</span></a>;
+ <span class="date">1323</span> <span class="name">Gilberto</span> (<span class="case">abl</span>) <a href="../cite/Gilberto/1323/CTG-6"><span class="bib_key">CTG-6</span> <span class="bib_loc">79, p. 302</span></a>,
+ <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1323/CTG-6"><span class="bib_key">ibid.</span> <span class="bib_loc">79, p. 302</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Gylbertus</span> (<span class="case">nom</span>) <a href="../cite/Gylbertus/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1377</span> <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1379</span> <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1381</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 91</span></a>,
+ <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Gilbertus/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 82</span></a>;
+ <span class="date">1408</span> <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1408/GCCYork"><span class="bib_key">GCCYork</span> <span class="bib_loc">p.12</span></a>;
+ <span class="date">1540</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1540/SA12"><span class="bib_key">SA12</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1564</span> <span class="name">Gilberty</span> (<span class="case">gen</span>) <a href="../cite/Gilberty/1564/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1565</span> <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1565/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1566</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1566/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1566/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1567</span> <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1567/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1568/9</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1568s9/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1570</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1570/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1570/1</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1570s1/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1571</span> <span class="name">Gilbert</span> (<span class="case">gen</span>) <a href="../cite/Gilbert/1571/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1597/8</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1597s8/RegBeb"><span class="bib_key">RegBeb</span> <span class="bib_loc">p. 145</span></a>;
+ <span class="date">1598/9</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1598s9/RegBeb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a></dd>
+<dt><span class="lang">Anglo-French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1245–1250[1586]</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1245–1250[1586]/Glover"><span class="bib_key">Glover</span> <span class="bib_loc">60</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1580</span> <span class="name">Gijselbrehct</span> <a href="../cite/Gijselbrehct/1580/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">p. 84</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Gylbart</span> <a href="../cite/Gylbart/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Gylberd</span> <a href="../cite/Gylberd/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>,
+ <span class="name">Gylbert</span> <a href="../cite/Gylbert/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1543</span> <span class="name">Gilberd</span> <a href="../cite/Gilberd/1543/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1545</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1545/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1550</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1550/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">XCV</span></a>;
+ <span class="date">1557/8</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1557s8/RegIng"><span class="bib_key">RegIng</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1558/9</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1558s9/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1560</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1560/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1569</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1569/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1570</span> <span class="name">Jelbart</span> <a href="../cite/Jelbart/1570/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1572/3</span> <span class="name">Gilberd</span> <a href="../cite/Gilberd/1572s3/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 170</span></a>;
+ <span class="date">1572</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1572/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1572/3</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1572s3/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 163</span></a>,
+ <span class="name">Gilberte</span> <a href="../cite/Gilberte/1572s3/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 164</span></a>;
+ <span class="date">1576</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1576/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1579</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1579/RegBeb"><span class="bib_key">RegBeb</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Gilberte</span> <a href="../cite/Gilberte/1579/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1581</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1581/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1583</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1583/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 185</span></a>;
+ <span class="date">1583/4</span> <span class="name">Gilberte</span> <a href="../cite/Gilberte/1583s4/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Gylbert</span> <a href="../cite/Gylbert/1583s4/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 110</span></a>,
+ <span class="name">Gylberte</span> <a href="../cite/Gylberte/1583s4/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1584</span> <span class="name">Gilberte</span> <a href="../cite/Gilberte/1584/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 193</span></a>;
+ <span class="date">1589</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1589/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1590</span> <span class="name">Gilberte</span> <a href="../cite/Gilberte/1590/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1591</span> <span class="name">Gylbert</span> <a href="../cite/Gylbert/1591/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1592</span> <span class="name">Gylbert</span> <a href="../cite/Gylbert/1592/HAmar-vol9"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1593</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1594</span> <span class="name">Gylbert</span> <a href="../cite/Gylbert/1594/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 98</span></a>;
+ <span class="date">1595</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1596</span> <span class="name">Guilbart</span> <a href="../cite/Guilbart/1596/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1597</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 37</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1550</span> <span class="name">Gilbot</span> <a href="../cite/Gilbot/1550/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2a</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1579</span> <span class="name">Guillebert</span> <a href="../cite/Guillebert/1579/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1588</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1588/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Guilbert</span> <a href="../cite/Guilbert/1581/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1583</span> <span class="name">Guilbert</span> <a href="../cite/Guilbert/1583/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1590/1</span> <span class="name">Guillebert</span> <a href="../cite/Guillebert/1590s1/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1591</span> <span class="name">Guillebert</span> <a href="../cite/Guillebert/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1592</span> <span class="name">Guilbert</span> <a href="../cite/Guilbert/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1593</span> <span class="name">Guilbert</span> <a href="../cite/Guilbert/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1594</span> <span class="name">Guilbert</span> <a href="../cite/Guilbert/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1594/5</span> <span class="name">Guilbert</span> <a href="../cite/Guilbert/1594s5/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1595</span> <span class="name">Guilbert</span> <a href="../cite/Guilbert/1595/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">30, CE</span></a>;
+ <span class="date">854</span> <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/854/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1047</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1047/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1079x1101</span> <span class="name">Gisleberto</span> (<span class="case">abl</span>) <a href="../cite/Gisleberto/1079x1101/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXXVII</span></a>,
+ <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/1079x1101/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLI</span></a>;
+ <span class="date">1107</span> <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">a1108</span> <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">c1113</span> <span class="name">Gisleberto</span> (<span class="case">abl</span>) <a href="../cite/Gisleberto/c1113/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Gisleberto</span> (<span class="case">abl</span>) <a href="../cite/Gisleberto/1115x1149/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1123</span> <span class="name">Giliberti</span> (<span class="case">gen</span>) <a href="../cite/Giliberti/1123/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1124</span> <span class="name">Gisleberti</span> (<span class="case">gen</span>) <a href="../cite/Gisleberti/1124/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXVII</span></a>;
+ <span class="date">1126</span> <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1126/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">VII</span></a>,
+ <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/1126/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1130x1150</span> <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/1130x1150/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVII</span></a>;
+ <span class="date">1135</span> <span class="name">Gisleberto</span> (<span class="case">abl</span>) <a href="../cite/Gisleberto/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x62</span> <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">70</span></a>,
+ <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">61</span></a>;
+ <span class="date">1142</span> <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1142/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>,
+ <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/1142/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1147</span> <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Gisleberto</span> (<span class="case">abl</span>) <a href="../cite/Gisleberto/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>;
+ <span class="date">c1150</span> <span class="name">Gileberti</span> (<span class="case">gen</span>) <a href="../cite/Gileberti/c1150/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXIII</span></a>;
+ <span class="date">1154</span> <span class="name">Gileberto</span> (<span class="case">abl</span>) <a href="../cite/Gileberto/1154/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LIV</span></a>;
+ <span class="date">c1156</span> <span class="name">Gileberti</span> (<span class="case">gen</span>) <a href="../cite/Gileberti/c1156/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1160</span> <span class="name">Gileberti</span> (<span class="case">gen</span>) <a href="../cite/Gileberti/1160/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXIV</span></a>;
+ <span class="date">c1160</span> <span class="name">Gilebertus</span> (<span class="case">nom</span>) <a href="../cite/Gilebertus/c1160/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>,
+ <span class="name">Gilleberti</span> (<span class="case">gen</span>) <a href="../cite/Gilleberti/c1160/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">1162</span> <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">40</span></a>;
+ <span class="date">1163</span> <span class="name">Gileberti</span> (<span class="case">gen</span>) <a href="../cite/Gileberti/1163/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XV</span></a>,
+ <span class="name">Gilleberti</span> (<span class="case">gen</span>) <a href="../cite/Gilleberti/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">103</span></a>;
+ <span class="date">1163–64</span> <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">116</span></a>;
+ <span class="date">1164</span> <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1165</span> <span class="name">Gilleberto</span> (<span class="case">dat</span>) <a href="../cite/Gilleberto/1165/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1166</span> <span class="name">Gilebertus</span> (<span class="case">nom</span>) <a href="../cite/Gilebertus/1166/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XC</span></a>;
+ <span class="date">1168</span> <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/1168/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">134</span></a>;
+ <span class="date">1173</span> <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/1173/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">157</span></a>;
+ <span class="date">c1175–1180</span> <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/c1175–1180/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 62</span></a>;
+ <span class="date">1178</span> <span class="name">Gilberto</span> (<span class="case">abl</span>) <a href="../cite/Gilberto/1178/NotSLdN"><span class="bib_key">NotSLdN</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1179</span> <span class="name">Gilleberti</span> (<span class="case">gen</span>) <a href="../cite/Gilleberti/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">169</span></a>,
+ <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">178</span></a>,
+ <span class="name">Gisleberto</span> (<span class="case">abl</span>) <a href="../cite/Gisleberto/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1180</span> <span class="name">Gislebertus</span> (<span class="case">nom</span>) <a href="../cite/Gislebertus/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1194</span> <span class="name">Gileberto</span> (<span class="case">abl</span>) <a href="../cite/Gileberto/1194/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CLVI</span></a>;
+ <span class="date">1203</span> <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1203/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXXV</span></a>;
+ <span class="date">1209</span> <span class="name">Gilebertus</span> (<span class="case">nom</span>) <a href="../cite/Gilebertus/1209/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LII</span></a>;
+ <span class="date">1210x11</span> <span class="name">Gilibertus</span> (<span class="case">nom</span>) <a href="../cite/Gilibertus/1210x11/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LXVI</span></a>;
+ <span class="date">1260</span> <span class="name">Guilebertus</span> (<span class="case">nom</span>) <a href="../cite/Guilebertus/1260/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">IX, Candlemas</span></a>,
+ <span class="name">Guilleberti</span> (<span class="case">gen</span>) <a href="../cite/Guilleberti/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">IX, Candlemas</span></a>;
+ <span class="date">1266</span> <span class="name">Gilebertus</span> (<span class="case">nom</span>) <a href="../cite/Gilebertus/1266/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">1-XIII</span></a>;
+ <span class="date">1270</span> <span class="name">Gileberti</span> (<span class="case">gen</span>) <a href="../cite/Gileberti/1270/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLI</span></a>;
+ <span class="date">1273</span> <span class="name">Guilaberto</span> (<span class="case">abl</span>) <a href="../cite/Guilaberto/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Guilabertus</span> (<span class="case">nom</span>) <a href="../cite/Guilabertus/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1301</span> <span class="name">Ghilebertus</span> (<span class="case">nom</span>) <a href="../cite/Ghilebertus/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 222</span></a>,
+ <span class="name">Gileberti</span> (<span class="case">gen</span>) <a href="../cite/Gileberti/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 219</span></a>,
+ <span class="name">Gilebertus</span> (<span class="case">nom</span>) <a href="../cite/Gilebertus/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 197</span></a>;
+ <span class="date">1378</span> <span class="name">Ghiselberto</span> (<span class="case">dat</span>) <a href="../cite/Ghiselberto/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">614</span></a>,
+ <span class="name">Gilberto</span> (<span class="case">dat</span>) <a href="../cite/Gilberto/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1602</span></a>,
+ <span class="name">Gilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gilbertus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 103</span></a>,
+ <span class="name">Giselberto</span> (<span class="case">dat</span>) <a href="../cite/Giselberto/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1235</span></a>,
+ <span class="name">Guiselberti</span> (<span class="case">gen</span>) <a href="../cite/Guiselberti/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1101x1129</span> <span class="name">Gilo</span> (<span class="case">nom</span>) <a href="../cite/Gilo/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXII</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1291</span> <span class="name">Guillebert</span> (<span class="case">nom</span>) <a href="../cite/Guillebert/1291/StOuen"><span class="bib_key">StOuen</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1292</span> <span class="name">Gilebert</span> (<span class="case">obl</span>) <a href="../cite/Gilebert/1292/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1293</span> <span class="name">Gilebert</span> (<span class="case">obl</span>) <a href="../cite/Gilebert/1293/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1296</span> <span class="name">Gilebert</span> <a href="../cite/Gilebert/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 3</span></a>,
+ (<span class="case">obl</span>) <a href="../cite/Gilebert/1296/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 134</span></a>,
+ <span class="name">Gillebert</span> <a href="../cite/Gillebert/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1299</span> <span class="name">Gilebert</span> (<span class="case">obl</span>) <a href="../cite/Gilebert/1299/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 147</span></a>;
+ <span class="date">1313</span> <span class="name">Gilebert</span> <a href="../cite/Gilebert/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Gilibert</span> <a href="../cite/Gilibert/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Gillebert</span> <a href="../cite/Gillebert/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1327</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 189</span></a>,
+ <span class="name">Gillebert</span> <a href="../cite/Gillebert/1327/MemDocMan-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 194</span></a>,
+ <span class="name">Guillebert</span> <a href="../cite/Guillebert/1327/MemDocMan-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 179</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Gilebin</span> <a href="../cite/Gilebin/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 43</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1388</span> <span class="name">Guilebert</span> <a href="../cite/Guilebert/1388/thierry"><span class="bib_key">thierry</span></a>,
+ <span class="name">Guillebert</span> <a href="../cite/Guillebert/1388/thierry"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1392</span> <span class="name">Gillebert</span> <a href="../cite/Gillebert/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 607</span></a>;
+ <span class="date">1415[1469x1471]</span> <span class="name">Guilbert</span> <a href="../cite/Guilbert/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 229</span></a>,
+ <span class="name">Guillebert</span> <a href="../cite/Guillebert/1415[1469x1471]/Waurin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 230</span></a>;
+ <span class="date">1418</span> <span class="name">Gillebert</span> <a href="../cite/Gillebert/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 209</span></a>,
+ <a href="../cite/Gillebert/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 383</span></a>;
+ <span class="date">1421</span> <span class="name">Gillebert</span> <a href="../cite/Gillebert/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">100</span></a>;
+ <span class="date">1438</span> <span class="name">Gilbert</span> <a href="../cite/Gilbert/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1571</span> <span class="name">Guillebert</span> <a href="../cite/Guillebert/1571/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 586</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1418</span> <span class="name">Guilebot</span> <a href="../cite/Guilebot/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 203</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">930</span> <span class="name">gisalbertus</span> (<span class="case">nom</span>) <a href="../cite/gisalbertus/930/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">10</span></a>;
+ <span class="date">c1006x1020</span> <span class="name">Gislebret</span> (<span class="case">nom</span>) <a href="../cite/Gislebret/c1006x1020/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">22</span></a>;
+ <span class="date">1061</span> <span class="name">Giselbertus</span> (<span class="case">nom</span>) <a href="../cite/Giselbertus/1061/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">60</span></a>;
+ <span class="date">1100</span> <span class="name">Giselbertus</span> (<span class="case">nom</span>) <a href="../cite/Giselbertus/1100/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1103</span> <span class="name">Giselberto</span> (<span class="case">abl</span>) <a href="../cite/Giselberto/1103/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">62</span></a>,
+ <span class="name">Giselbertus</span> (<span class="case">nom</span>) <a href="../cite/Giselbertus/1103/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">62</span></a>;
+ <span class="date">1108</span> <span class="name">Gilleberto</span> (<span class="case">abl</span>) <a href="../cite/Gilleberto/1108/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>,
+ <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1108/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1135</span> <span class="name">Giselbertus</span> (<span class="case">nom</span>) <a href="../cite/Giselbertus/1135/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>;
+ <span class="date">1186</span> <span class="name">Giselbertus</span> (<span class="case">nom</span>) <a href="../cite/Giselbertus/1186/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">123</span></a>;
+ <span class="date">1211</span> <span class="name">Giselbertus</span> (<span class="case">nom</span>) <a href="../cite/Giselbertus/1211/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1212</span> <span class="name">Giselberto</span> (<span class="case">abl</span>) <a href="../cite/Giselberto/1212/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">125</span></a>;
+ <span class="date">1216</span> <span class="name">Giselbertus</span> (<span class="case">nom</span>) <a href="../cite/Giselbertus/1216/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">22</span></a>;
+ <span class="date">1218</span> <span class="name">Giselbertus</span> (<span class="case">nom</span>) <a href="../cite/Giselbertus/1218/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1219</span> <span class="name">Giselberti</span> (<span class="case">gen</span>) <a href="../cite/Giselberti/1219/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">73</span></a>;
+ <span class="date">1231</span> <span class="name">Giselbertus</span> (<span class="case">nom</span>) <a href="../cite/Giselbertus/1231/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">86</span></a>;
+ <span class="date">1249</span> <span class="name">Gisilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gisilbertus/1249/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">131</span></a>;
+ <span class="date">1259</span> <span class="name">Giselberto</span> (<span class="case">abl</span>) <a href="../cite/Giselberto/1259/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">186</span></a>;
+ <span class="date">1264</span> <span class="name">Giselberto</span> (<span class="case">abl</span>) <a href="../cite/Giselberto/1264/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">200</span></a>;
+ <span class="date">1271</span> <span class="name">Giselbertus</span> (<span class="case">nom</span>) <a href="../cite/Giselbertus/1271/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">218</span></a>;
+ <span class="date">1273</span> <span class="name">Giselberto</span> (<span class="case">abl</span>) <a href="../cite/Giselberto/1273/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">229</span></a>;
+ <span class="date">1274</span> <span class="name">Giselberto</span> (<span class="case">abl</span>) <a href="../cite/Giselberto/1274/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">236</span></a>;
+ <span class="date">1284</span> <span class="name">Gyselberto</span> (<span class="case">abl</span>) <a href="../cite/Gyselberto/1284/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">296</span></a>;
+ <span class="date">1294</span> <span class="name">Gisilbertus</span> (<span class="case">nom</span>) <a href="../cite/Gisilbertus/1294/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">330</span></a>;
+ <span class="date">1301</span> <span class="name">Giselberto</span> (<span class="case">abl</span>) <a href="../cite/Giselberto/1301/BremUrk2"><span class="bib_key">BremUrk2</span> <span class="bib_loc">no. 2</span></a>,
+ <span class="name">Giselbertus</span> (<span class="case">nom</span>) <a href="../cite/Giselbertus/1301/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 10</span></a>,
+ <span class="name">Gyselbertus</span> (<span class="case">nom</span>) <a href="../cite/Gyselbertus/1301/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1</span></a>;
+ <span class="date">1302</span> <span class="name">Gyselbertus</span> (<span class="case">nom</span>) <a href="../cite/Gyselbertus/1302/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 23</span></a>;
+ <span class="date">1303</span> <span class="name">Ghiselbertus</span> (<span class="case">nom</span>) <a href="../cite/Ghiselbertus/1303/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 30</span></a>,
+ <span class="name">Ghyselbertus</span> (<span class="case">nom</span>) <a href="../cite/Ghyselbertus/1303/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 31</span></a>,
+ <span class="name">Giselberti</span> (<span class="case">gen</span>) <a href="../cite/Giselberti/1303/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 25</span></a>,
+ <span class="name">Gyselberto</span> (<span class="case">abl</span>) <a href="../cite/Gyselberto/1303/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 27</span></a>,
+ <span class="name">Gyselbertus</span> (<span class="case">nom</span>) <a href="../cite/Gyselbertus/1303/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 28</span></a>;
+ <span class="date">1401</span> <span class="name">gyselberto</span> (<span class="case">dat</span>) <a href="../cite/gyselberto/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 80</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Gilibertus</span> (<span class="case">nom</span>) <a href="../cite/Gilibertus/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 5</span></a>,
+ <span class="name">Gillibertus</span> (<span class="case">nom</span>) <a href="../cite/Gillibertus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 3</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Gisalberti</span> (<span class="case">gen</span>) <a href="../cite/Gisalberti/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">37</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Gilibertus</span> (<span class="case">nom</span>) <a href="../cite/Gilibertus/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 59, 49</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1257</span> <span class="name">Ghileberto</span> (<span class="case">dat</span>) <a href="../cite/Ghileberto/1257/OHZI-II"><span class="bib_key">OHZI-II</span> <span class="bib_loc">no. 28</span></a>,
+ <span class="name">Ghilebertus</span> (<span class="case">nom</span>) <a href="../cite/Ghilebertus/1257/OHZI-II"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 28</span></a>;
+ <span class="date">1330</span> <span class="name">Ghijselberti</span> (<span class="case">gen</span>) <a href="../cite/Ghijselberti/1330/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 299</span></a>;
+ <span class="date">1356</span> <span class="name">ghijselberti</span> (<span class="case">gen</span>) <a href="../cite/ghijselberti/1356/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 301</span></a>;
+ <span class="date">1361</span> <span class="name">Ghijselbertus</span> (<span class="case">nom</span>) <a href="../cite/Ghijselbertus/1361/GesOIJ-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 302</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1095</span> <span class="name">Gilberto</span> (<span class="case">abl</span>) <a href="../cite/Gilberto/1095/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XV</span></a>;
+ <span class="date">1238</span> <span class="name">Gilberto</span> (<span class="case">abl</span>) <a href="../cite/Gilberto/1238/CartLevenax"><span class="bib_key">CartLevenax</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Gilberto/1238/CartStAndrew"><span class="bib_key">CartStAndrew</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1309</span> <span class="name">Gilberto</span> (<span class="case">abl</span>) <a href="../cite/Gilberto/1309/CartStAndrew"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1376</span> <span class="name">Gilberti</span> (<span class="case">gen</span>) <a href="../cite/Gilberti/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Gilberto</span> (<span class="case">dat</span>) <a href="../cite/Gilberto/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1381x1388</span> <span class="name">Gilberto</span> (<span class="case">abl</span>) <a href="../cite/Gilberto/1381x1388/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">[p. xxxvii]</span></a>;
+ <span class="date">1414</span> <span class="name">Gilberto</span> (<span class="case">abl</span>) <a href="../cite/Gilberto/1414/REG-II"><span class="bib_key">REG-II</span> <span class="bib_loc">324</span></a>;
+ <span class="date">1425</span> <span class="name">Gilberto</span> (<span class="case">abl</span>) <a href="../cite/Gilberto/1425/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">20</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1006</span> <span class="name">Gilabertu</span> (<span class="case">nom</span>) <a href="../cite/Gilabertu/1006/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCLXVI</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Gilabert</span> <a href="../cite/Gilabert/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">4593</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1195</span> <span class="name">Gilliebertus</span> (<span class="case">nom</span>) <a href="../cite/Gilliebertus/1195/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1214</span> <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1214/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1220</span> <span class="name">Gillebertus</span> (<span class="case">nom</span>) <a href="../cite/Gillebertus/1220/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, J. Pepe, N. Shiel, J. Uckelman, S.L. Uckelman. "Gilbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Gilbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

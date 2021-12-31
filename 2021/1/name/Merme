@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Merme</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Merme</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>minimus</i> 'smallest, littlest'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1378</span> <span class="name">Mermetus</span> (<span class="case">nom</span>) <a href="../cite/Mermetus/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">2334b</span></a>;
+ <span class="date">1432</span> <span class="name">Mermetus</span> (<span class="case">nom</span>) <a href="../cite/Mermetus/1432/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">477</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Mermi</span> (<span class="case">nom</span>) <a href="../cite/Mermi/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">1723</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">14thCx1478</span> <span class="name">Mermecii</span> (<span class="case">gen</span>) <a href="../cite/Mermecii/14thCx1478/Ob-SPVn"><span class="bib_key">Ob-SPVn</span> <span class="bib_loc">(190)</span></a>,
+ <span class="name">Mermeti</span> (<span class="case">gen</span>) <a href="../cite/Mermeti/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(189)</span></a>,
+ <span class="name">Mermetum</span> (<span class="case">acc</span>) <a href="../cite/Mermetum/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(82)</span></a>,
+ <span class="name">Mermetus</span> (<span class="case">nom</span>) <a href="../cite/Mermetus/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(78)</span></a>,
+ <span class="name">Mermodi</span> (<span class="case">gen</span>) <a href="../cite/Mermodi/14thCx1478/Ob-SPVn"><span class="bib_key">ibid.</span> <span class="bib_loc">(144)</span></a>;
+ <span class="date">1351</span> <span class="name">Mermeto</span> (<span class="case">abl</span>) <a href="../cite/Mermeto/1351/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DXLI</span></a>;
+ <span class="date">1352</span> <span class="name">Mermeto</span> (<span class="case">abl</span>) <a href="../cite/Mermeto/1352/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXLVII</span></a>,
+ <span class="name">Mermetus</span> (<span class="case">nom</span>) <a href="../cite/Mermetus/1352/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DXLVII</span></a>;
+ <span class="date">1354</span> <span class="name">Mermetum</span> (<span class="case">acc</span>) <a href="../cite/Mermetum/1354/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DLIX</span></a>;
+ <span class="date">1393/4</span> <span class="name">Mermetus</span> (<span class="case">nom</span>) <a href="../cite/Mermetus/1393s4/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">467</span></a>;
+ <span class="date">1398</span> <span class="name">Mermeto</span> (<span class="case">abl</span>) <a href="../cite/Mermeto/1398/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">469</span></a>;
+ <span class="date">1432/3</span> <span class="name">Mermetus</span> (<span class="case">nom</span>) <a href="../cite/Mermetus/1432s3/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">480</span></a>;
+ <span class="date">1438</span> <span class="name">Mermetus</span> (<span class="case">nom</span>) <a href="../cite/Mermetus/1438/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">212</span></a>;
+ <span class="date">1456/7</span> <span class="name">Mermetus</span> (<span class="case">nom</span>) <a href="../cite/Mermetus/1456s7/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">227</span></a>;
+ <span class="date">1476</span> <span class="name">Mermeto</span> (<span class="case">dat</span>) <a href="../cite/Mermeto/1476/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">243</span></a>;
+ <span class="date">1515</span> <span class="name">Mermeti</span> (<span class="case">gen</span>) <a href="../cite/Mermeti/1515/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">288</span></a>;
+ <span class="date">1516</span> <span class="name">Mermeti</span> (<span class="case">gen</span>) <a href="../cite/Mermeti/1516/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">290</span></a>;
+ <span class="date">1522x1524</span> <span class="name">Mammerti</span> (<span class="case">gen</span>) <a href="../cite/Mammerti/1522x1524/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">294</span></a>,
+ <span class="name">Mammertus</span> (<span class="case">nom</span>) <a href="../cite/Mammertus/1522x1524/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">294</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1494</span> <span class="name">Marmet</span> <a href="../cite/Marmet/1494/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">258</span></a>;
+ <span class="date">1504</span> <span class="name">Marmet</span> <a href="../cite/Marmet/1504/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">281</span></a>;
+ <span class="date">1507</span> <span class="name">Marmet</span> <a href="../cite/Marmet/1507/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">260</span></a>;
+ <span class="date">1514</span> <span class="name">Mamert</span> <a href="../cite/Mamert/1514/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">287</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, S.L. Uckelman. "Merme". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Merme.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

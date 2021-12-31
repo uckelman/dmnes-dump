@@ -1,0 +1,485 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>David</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">David</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>דָּוִד</i> 'beloved'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an important Biblical character, a 6th C Welsh saint, a 7th C prince of Armenia, an 11th C Anglo-Saxon saint, an 11th C Russian saint, an 11th/12th C king of Georgia, a 12th C king of the Scots, a 12th C king of Georgia, a 12th C king of Scotland, two 13th C kings of Georgia, two 13th C princes of Wales, a 13th/14th C king of Georgia, a 14th C king of Georgia, and a 14th C King of Scotland. Vulgate (405): <i>David</i>. Wycliffite Bible (1395): <i>Dauid</i>, <i>David</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The English diminutives <i>Dau</i>, <i>Daue</i>, <i>Dawe</i>, and <i>Dowe</i> witnessed in 1379 in the relational bynames <i>Dausoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 169</span></span>), <i>Dauewyfe</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 134</span></span>), <i>Dawesoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 18</span></span>), and <i>Dowesoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 21</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">776</span> <span class="name">Dauid</span> (<span class="case">nom</span>) <a href="../cite/Dauid/776/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">4</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">David</span> <a href="../cite/David/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 355</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1408</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1408/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 22</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Dauid</span> (<span class="case">nom</span>) <a href="../cite/Dauid/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1189</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 94</span></a>;
+ <span class="date">1222</span> <span class="name">David</span> (<span class="case">gen</span>) <a href="../cite/David/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1296</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 95a</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Dauid</span> (<span class="case">nom</span>) <a href="../cite/Dauid/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1485–1486</span> <span class="name">David'</span> (<span class="case">abl</span>) <a href="../cite/David'/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 65</span></a>;
+ <span class="date">1563</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1563/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1563/4</span> <span class="name">Davidis</span> (<span class="case">gen</span>) <a href="../cite/Davidis/1563s4/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1592</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1592/RegBeb"><span class="bib_key">RegBeb</span> <span class="bib_loc">p. 119</span></a>;
+ <span class="date">1592/3</span> <span class="name">Davidi</span> (<span class="case">gen</span>) <a href="../cite/Davidi/1592s3/RegBeb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1593</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1593/RegBeb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 120</span></a>;
+ <span class="date">1594</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1594/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1595</span> <span class="name">Davidi</span> (<span class="case">gen</span>) <a href="../cite/Davidi/1595/RegBeb"><span class="bib_key">RegBeb</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1596</span> <span class="name">Davidis</span> (<span class="case">gen</span>) <a href="../cite/Davidis/1596/RegBeb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1598</span> <span class="name">Davidi</span> (<span class="case">gen</span>) <a href="../cite/Davidi/1598/RegBeb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1485–1486</span> <span class="name">Dauy</span> (<span class="case">abl</span>) <a href="../cite/Dauy/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 66</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571</span> <span class="name">David</span> <a href="../cite/David/1571/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Angeler</span></a>;
+ <span class="date">1572</span> <span class="name">David</span> <a href="../cite/David/1572/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Spiere</span></a>;
+ <span class="date">1573</span> <span class="name">David</span> <a href="../cite/David/1573/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Jansen</span></a>;
+ <span class="date">1574</span> <span class="name">David</span> <a href="../cite/David/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Damme</span></a>;
+ <span class="date">1575</span> <span class="name">David</span> <a href="../cite/David/1575/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Frilichoven</span></a>;
+ <span class="date">1576</span> <span class="name">David</span> <a href="../cite/David/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Grave</span></a>;
+ <span class="date">1577</span> <span class="name">David</span> <a href="../cite/David/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Alaert</span></a>;
+ <span class="date">1578</span> <span class="name">David</span> <a href="../cite/David/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Ghijsbertsen</span></a>;
+ <span class="date">1579</span> <span class="name">David</span> <a href="../cite/David/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bode</span></a>;
+ <span class="date">1580</span> <span class="name">David</span> <a href="../cite/David/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Marien</span></a>;
+ <span class="date">1582</span> <span class="name">David</span> <a href="../cite/David/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Leijngle</span></a>;
+ <span class="date">1584</span> <span class="name">David</span> <a href="../cite/David/1584/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Leijngele</span></a>;
+ <span class="date">1585</span> <span class="name">David</span> <a href="../cite/David/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Caluwe</span></a>;
+ <span class="date">1586</span> <span class="name">David</span> <a href="../cite/David/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Lingle</span></a>;
+ <span class="date">1588</span> <span class="name">David</span> <a href="../cite/David/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Achtschellinck</span></a>;
+ <span class="date">1589</span> <span class="name">David</span> <a href="../cite/David/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Sneps</span></a>;
+ <span class="date">1590</span> <span class="name">David</span> <a href="../cite/David/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Langle</span></a>;
+ <span class="date">1591</span> <span class="name">David</span> <a href="../cite/David/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Blomme</span></a>;
+ <span class="date">1592</span> <span class="name">David</span> <a href="../cite/David/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Hoste</span></a>;
+ <span class="date">1593</span> <span class="name">David</span> <a href="../cite/David/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Claessen</span></a>;
+ <span class="date">1594</span> <span class="name">David</span> <a href="../cite/David/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Hoorebeke</span></a>;
+ <span class="date">1595</span> <span class="name">David</span> <a href="../cite/David/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cambier</span></a>;
+ <span class="date">1596</span> <span class="name">David</span> <a href="../cite/David/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Jansen</span></a>;
+ <span class="date">1597</span> <span class="name">David</span> <a href="../cite/David/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cambier</span></a>;
+ <span class="date">1598</span> <span class="name">David</span> <a href="../cite/David/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Maire</span></a>;
+ <span class="date">1599</span> <span class="name">David</span> <a href="../cite/David/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cambier</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1575</span> <span class="name">Davie</span> <a href="../cite/Davie/1575/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Cleijmans</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1422</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1422/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 50</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Dauyd</span> <a href="../cite/Dauyd/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 28</span></a>,
+ <span class="name">David</span> <a href="../cite/David/1530/SRS-XXI"><span class="bib_key">SRS-XXI</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1542</span> <span class="name">David</span> <a href="../cite/David/1542/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1544</span> <span class="name">Davyd</span> <a href="../cite/Davyd/1544/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1545</span> <span class="name">Davyd</span> <a href="../cite/Davyd/1545/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1547</span> <span class="name">David</span> <a href="../cite/David/1547/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Davyd</span> <a href="../cite/Davyd/1547/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1548</span> <span class="name">Davyd</span> <a href="../cite/Davyd/1548/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1552</span> <span class="name">Davyd</span> <a href="../cite/Davyd/1552/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1554</span> <span class="name">Davyd</span> <a href="../cite/Davyd/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1556</span> <span class="name">Davy</span> <a href="../cite/Davy/1556/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1557</span> <span class="name">David</span> <a href="../cite/David/1557/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1558</span> <span class="name">David</span> <a href="../cite/David/1558/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1559</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1559/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">David</span> <a href="../cite/David/1559/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1559/60</span> <span class="name">David</span> <a href="../cite/David/1559s60/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1560</span> <span class="name">David</span> <a href="../cite/David/1560/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1560/1</span> <span class="name">David</span> <a href="../cite/David/1560s1/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1561</span> <span class="name">David</span> <a href="../cite/David/1561/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 60</span></a>,
+ <a href="../cite/David/1561/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/David/1561/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Davyd</span> <a href="../cite/Davyd/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1563</span> <span class="name">David</span> <a href="../cite/David/1563/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1564/5</span> <span class="name">David</span> <a href="../cite/David/1564s5/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1566</span> <span class="name">David</span> <a href="../cite/David/1566/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 81</span></a>,
+ <a href="../cite/David/1566/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1569</span> <span class="name">David</span> <a href="../cite/David/1569/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/David/1569/Redruth-Co"><span class="bib_key">Redruth-Co</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/David/1569/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1576</span> <span class="name">David</span> <a href="../cite/David/1576/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1579</span> <span class="name">David</span> <a href="../cite/David/1579/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1583</span> <span class="name">David</span> <a href="../cite/David/1583/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1587</span> <span class="name">David</span> <a href="../cite/David/1587/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1588</span> <span class="name">David</span> <a href="../cite/David/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1589</span> <span class="name">David</span> <a href="../cite/David/1589/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1590</span> <span class="name">David</span> <a href="../cite/David/1590/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1591/2</span> <span class="name">David</span> <a href="../cite/David/1591s2/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1592</span> <span class="name">David</span> <a href="../cite/David/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1594</span> <span class="name">David</span> <a href="../cite/David/1594/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 96</span></a>,
+ <a href="../cite/David/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 28</span></a>,
+ <a href="../cite/David/1594/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1595</span> <span class="name">David</span> <a href="../cite/David/1595/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 141</span></a>;
+ <span class="date">1595/6</span> <span class="name">David</span> <a href="../cite/David/1595s6/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1596</span> <span class="name">David</span> <a href="../cite/David/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 34</span></a>,
+ <a href="../cite/David/1596/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1597</span> <span class="name">David</span> <a href="../cite/David/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 36</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1481</span> <span class="name">Davy</span> <a href="../cite/Davy/1481/HHB1481-90"><span class="bib_key">HHB1481-90</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1529</span> <span class="name">Davie</span> <a href="../cite/Davie/1529/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 84</span></a>;
+ <span class="date">1532–1533</span> <span class="name">Dauy</span> <a href="../cite/Dauy/1532–1533/CovGuild-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 110</span></a>,
+ <span class="name">Davy</span> <a href="../cite/Davy/1532–1533/CovGuild-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1534</span> <span class="name">Dauy</span> <a href="../cite/Dauy/1534/CovGuild-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 133</span></a>;
+ <span class="date">1539</span> <span class="name">Davy</span> <a href="../cite/Davy/1539/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1540</span> <span class="name">Davy</span> <a href="../cite/Davy/1540/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1541</span> <span class="name">Davy</span> <a href="../cite/Davy/1541/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1542</span> <span class="name">Davy</span> <a href="../cite/Davy/1542/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1544</span> <span class="name">Davy</span> <a href="../cite/Davy/1544/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1545</span> <span class="name">Davy</span> <a href="../cite/Davy/1545/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Davye</span> <a href="../cite/Davye/1545/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1546</span> <span class="name">Davy</span> <a href="../cite/Davy/1546/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1548</span> <span class="name">Davy</span> <a href="../cite/Davy/1548/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1551</span> <span class="name">Davy</span> <a href="../cite/Davy/1551/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1552</span> <span class="name">Davy</span> <a href="../cite/Davy/1552/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1553</span> <span class="name">Davy</span> <a href="../cite/Davy/1553/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1554</span> <span class="name">Davy</span> <a href="../cite/Davy/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1558</span> <span class="name">Davie</span> <a href="../cite/Davie/1558/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1558–9</span> <span class="name">Davy</span> <a href="../cite/Davy/1558–9/StMary-Ke"><span class="bib_key">StMary-Ke</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1560</span> <span class="name">Davy</span> <a href="../cite/Davy/1560/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1561</span> <span class="name">Davy</span> <a href="../cite/Davy/1561/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1564</span> <span class="name">Davy</span> <a href="../cite/Davy/1564/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1569</span> <span class="name">Davy</span> <a href="../cite/Davy/1569/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1570</span> <span class="name">Davy</span> <a href="../cite/Davy/1570/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1572/3</span> <span class="name">Davye</span> <a href="../cite/Davye/1572s3/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 166</span></a>;
+ <span class="date">1574</span> <span class="name">Davye</span> <a href="../cite/Davye/1574/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 175</span></a>;
+ <span class="date">1577</span> <span class="name">Davy</span> <a href="../cite/Davy/1577/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1578</span> <span class="name">Davy</span> <a href="../cite/Davy/1578/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 70</span></a>,
+ <a href="../cite/Davy/1578/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1579/80</span> <span class="name">Davy</span> <a href="../cite/Davy/1579s80/RegBath"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1581/2</span> <span class="name">Davy</span> <a href="../cite/Davy/1581s2/RegBath"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1582</span> <span class="name">Davye</span> <a href="../cite/Davye/1582/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1583/4</span> <span class="name">Davy</span> <a href="../cite/Davy/1583s4/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Davye</span> <a href="../cite/Davye/1583s4/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1583</span> <span class="name">dauye</span> <a href="../cite/dauye/1583/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 188</span></a>;
+ <span class="date">1587/8</span> <span class="name">Davy</span> <a href="../cite/Davy/1587s8/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1592</span> <span class="name">davy</span> <a href="../cite/davy/1592/HWCP2"><span class="bib_key">HWCP2</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1599</span> <span class="name">Davy</span> <a href="../cite/Davy/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 41</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1567</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1567/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1568</span> <span class="name">Dauit</span> <a href="../cite/Dauit/1568/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1572</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1572/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1573</span> <span class="name">dauid</span> <a href="../cite/dauid/1573/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1574</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1574/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1575</span> <span class="name">dauid</span> <a href="../cite/dauid/1575/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1576</span> <span class="name">dauid</span> <a href="../cite/dauid/1576/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1581</span> <span class="name">dauid</span> <a href="../cite/dauid/1581/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1583</span> <span class="name">dauid</span> <a href="../cite/dauid/1583/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 103</span></a>;
+ <span class="date">1584</span> <span class="name">dauid</span> <a href="../cite/dauid/1584/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1585</span> <span class="name">David</span> <a href="../cite/David/1585/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1586</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1586/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1590</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1590/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1593</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1593/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1595</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1595/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1598</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1598/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 106</span></a>;
+ <span class="date">1599</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1599/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1590</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1590/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1590/1</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1590s1/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1591</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1592</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1592/3</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1592s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1593/4</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1594</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1594/5</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1594s5/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1595</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1595/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1596</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1596/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1441</span> <span class="name">Dauyt</span> <a href="../cite/Dauyt/1441/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 363</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Dauids</span> (<span class="case">gen</span>) <a href="../cite/Dauids/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 168</span></a>;
+ <span class="date">1582</span> <span class="name">Dauidh</span> <a href="../cite/Dauidh/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 171</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">909</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/909/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 77</span></a>;
+ <span class="date">941x986</span> <span class="name">David</span> (<span class="case">abl</span>) <a href="../cite/David/941x986/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 92</span></a>;
+ <span class="date">c1120</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/c1120/CartNoyers"><span class="bib_key">CartNoyers</span> <span class="bib_loc">CDXXXVI</span></a>;
+ <span class="date">1131</span> <span class="name">David</span> (<span class="case">gen</span>) <a href="../cite/David/1131/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1147</span> <span class="name">David</span> (<span class="case">gen</span>) <a href="../cite/David/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1179</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>;
+ <span class="date">1180</span> <span class="name">David</span> (<span class="case">gen</span>) <a href="../cite/David/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Davidi</span> (<span class="case">gen</span>) <a href="../cite/Davidi/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1301</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 205</span></a>;
+ <span class="date">1503</span> <span class="name">Davidis</span> (<span class="case">gen</span>) <a href="../cite/Davidis/1503/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">278</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">David</span> <a href="../cite/David/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 167</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1562</span> <span class="name">David</span> <a href="../cite/David/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1563</span> <span class="name">David</span> <a href="../cite/David/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1564</span> <span class="name">David</span> <a href="../cite/David/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1565</span> <span class="name">David</span> <a href="../cite/David/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 139</span></a>;
+ <span class="date">1566</span> <span class="name">David</span> <a href="../cite/David/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 207</span></a>;
+ <span class="date">1567</span> <span class="name">David</span> <a href="../cite/David/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 285</span></a>;
+ <span class="date">1568</span> <span class="name">David</span> <a href="../cite/David/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 365</span></a>;
+ <span class="date">1570</span> <span class="name">David</span> <a href="../cite/David/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 423</span></a>;
+ <span class="date">1571</span> <span class="name">David</span> <a href="../cite/David/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 441</span></a>;
+ <span class="date">1572</span> <span class="name">David</span> <a href="../cite/David/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 501</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1301/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 89, s.n. David</span></a>;
+ <span class="date">1309</span> <span class="name">Dauid</span> (<span class="case">nom</span>) <a href="../cite/Dauid/1309/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90, s.n. David</span></a>;
+ <span class="date">1312</span> <span class="name">dauid</span> (<span class="case">nom</span>) <a href="../cite/dauid/1312/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90, s.n. David</span></a>;
+ <span class="date">1318</span> <span class="name">Dauid</span> (<span class="case">nom</span>) <a href="../cite/Dauid/1318/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90, s.n. David</span></a>;
+ <span class="date">1329</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1329/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 89x90, s.n. David</span></a>;
+ <span class="date">1332x1337</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90, s.n. David</span></a>;
+ <span class="date">1339</span> <span class="name">David</span> (<span class="case">gen</span>) <a href="../cite/David/1339/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90, s.n. David</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1304</span> <span class="name">dusa</span> (<span class="case">nom</span>) <a href="../cite/dusa/1304/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 90, s.n. David</span></a>;
+ <span class="date">1322</span> <span class="name">Dausa</span> (<span class="case">nom</span>) <a href="../cite/Dausa/1322/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90, s.n. David</span></a>;
+ <span class="date">1328</span> <span class="name">Dousa</span> (<span class="case">nom</span>) <a href="../cite/Dousa/1328/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90, s.n. David</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Dauid</span> (<span class="case">nom</span>) <a href="../cite/Dauid/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 9</span></a>,
+ <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 7</span></a>;
+ <span class="date">c1431</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/c1431/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">53</span></a>;
+ <span class="date">1431</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1431/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">56</span></a>;
+ <span class="date">1433</span> <span class="name">David</span> (<span class="case">abl</span>) <a href="../cite/David/1433/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">60</span></a>;
+ <span class="date">1434</span> <span class="name">David</span> (<span class="case">gen</span>) <a href="../cite/David/1434/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">119</span></a>;
+ <span class="date">1460</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1460/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">27</span></a>;
+ <span class="date">1479</span> <span class="name">David</span> (<span class="case">acc</span>) <a href="../cite/David/1479/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1501</span> <span class="name">David</span> (<span class="case">acc</span>) <a href="../cite/David/1501/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1522</span> <span class="name">Davyd</span> <a href="../cite/Davyd/1522/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1539</span> <span class="name">David</span> <a href="../cite/David/1539/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">73</span></a>;
+ <span class="date">1540</span> <span class="name">David</span> <a href="../cite/David/1540/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1370</span> <span class="name">Davizi</span> (<span class="case">gen</span>) <a href="../cite/Davizi/1370/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">260</span></a>;
+ <span class="date">1406</span> <span class="name">David</span> (<span class="case">dat</span>) <a href="../cite/David/1406/CatTir1"><span class="bib_key">CatTir1</span> <span class="bib_loc">29</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1460x1465</span> <span class="name">David</span> <a href="../cite/David/1460x1465/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 5</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1573</span> <span class="name">David</span> <a href="../cite/David/1573/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1574</span> <span class="name">David</span> <a href="../cite/David/1574/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1575</span> <span class="name">David</span> <a href="../cite/David/1575/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1576</span> <span class="name">David</span> <a href="../cite/David/1576/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1579</span> <span class="name">David</span> <a href="../cite/David/1579/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1580</span> <span class="name">David</span> <a href="../cite/David/1580/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1583</span> <span class="name">David</span> <a href="../cite/David/1583/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1584</span> <span class="name">David</span> <a href="../cite/David/1584/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1585</span> <span class="name">David</span> <a href="../cite/David/1585/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1586</span> <span class="name">David</span> <a href="../cite/David/1586/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1587</span> <span class="name">David</span> <a href="../cite/David/1587/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1588</span> <span class="name">David</span> <a href="../cite/David/1588/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1589</span> <span class="name">David</span> <a href="../cite/David/1589/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1590</span> <span class="name">David</span> <a href="../cite/David/1590/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1591</span> <span class="name">David</span> <a href="../cite/David/1591/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1592</span> <span class="name">David</span> <a href="../cite/David/1592/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1093x1097</span> <span class="name">David</span> (<span class="case">abl</span>) <a href="../cite/David/1093x1097/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1093x1107</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1093x1107/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1107x1117</span> <span class="name">David</span> (<span class="case">dat</span>) <a href="../cite/David/1107x1117/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">c1110</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/c1110/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVI</span></a>;
+ <span class="date">c1117</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/c1117/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIX</span></a>;
+ <span class="date">1117x1124</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1117x1124/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIV</span></a>;
+ <span class="date">c1118</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/c1118/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">c1120</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/c1120/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXV</span></a>;
+ <span class="date">1123</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1123/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVI</span></a>;
+ <span class="date">1124</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1124/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">L</span></a>;
+ <span class="date">1214–1226</span> <span class="name">Dauid</span> (<span class="case">abl</span>) <a href="../cite/Dauid/1214–1226/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1272x1360</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1272x1360/CartStAndrew"><span class="bib_key">CartStAndrew</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1376</span> <span class="name">Dauid</span> (<span class="case">dat</span>) <a href="../cite/Dauid/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1390–1406</span> <span class="name">Dauid</span> (<span class="case">nom</span>) <a href="../cite/Dauid/1390–1406/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1425</span> <span class="name">David</span> (<span class="case">dat</span>) <a href="../cite/David/1425/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1426</span> <span class="name">David</span> (<span class="case">gen</span>) <a href="../cite/David/1426/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">56</span></a>;
+ <span class="date">1427</span> <span class="name">David</span> (<span class="case">abl</span>) <a href="../cite/David/1427/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">88</span></a>;
+ <span class="date">1428</span> <span class="name">David</span> (<span class="case">abl</span>) <a href="../cite/David/1428/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">110</span></a></dd>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">●</span> <span class="date">1506</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1506/RegDunf"><span class="bib_key">RegDunf</span> <span class="bib_loc">497</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Davis</span> <a href="../cite/Davis/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">1054</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1583</span> <span class="name">Dauids</span> (<span class="case">gen</span>) <a href="../cite/Dauids/1583/HGS"><span class="bib_key">HGS</span> <span class="bib_loc">p. 159</span></a>;
+ <span class="date">1593</span> <span class="name">Dauid</span> (<span class="case">gen</span>) <a href="../cite/Dauid/1593/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 161</span></a>;
+ <span class="date">1594</span> <span class="name">Dauid</span> (<span class="case">gen</span>) <a href="../cite/Dauid/1594/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 162</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1146x1151</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1146x1151/Pryce-1st"><span class="bib_key">Pryce-1st</span> <span class="bib_loc">no. 22</span></a>;
+ <span class="date">1198</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1198/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 8</span></a>;
+ <span class="date">1216xc1226</span> <span class="name">David</span> (<span class="case">acc</span>) <a href="../cite/David/1216xc1226/Pryce-1st"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16</span></a>;
+ <span class="date">1360</span> <span class="name">Dafydd</span> (<span class="case">nom</span>) <a href="../cite/Dafydd/1360/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 165</span></a>;
+ <span class="date">1452</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1452/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1453</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1453/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1454</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1454/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 70</span></a>;
+ <span class="date">1455</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1455/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1456</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1456/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 258</span></a>;
+ <span class="date">1457</span> <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1457/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 259</span></a>;
+ <span class="date">1497</span> <span class="name">Dauid</span> (<span class="case">nom</span>) <a href="../cite/Dauid/1497/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 68</span></a>,
+ <span class="name">David</span> (<span class="case">nom</span>) <a href="../cite/David/1497/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a>;
+ <span class="date">1581</span> <span class="name">davidi</span> (<span class="case">gen</span>) <a href="../cite/davidi/1581/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1582</span> <span class="name">davidi</span> (<span class="case">gen</span>) <a href="../cite/davidi/1582/RegCon1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1452</span> <span class="name">Deicus</span> (<span class="case">nom</span>) <a href="../cite/Deicus/1452/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 72</span></a>,
+ <span class="name">Dicus</span> (<span class="case">nom</span>) <a href="../cite/Dicus/1452/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 72</span></a>,
+ <span class="name">Dio</span> (<span class="case">nom</span>) <a href="../cite/Dio/1452/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1453</span> <span class="name">Dackin</span> (<span class="case">nom</span>) <a href="../cite/Dackin/1453/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 70</span></a>,
+ <span class="name">Decus</span> (<span class="case">nom</span>) <a href="../cite/Decus/1453/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 70</span></a>,
+ <span class="name">Dio</span> (<span class="case">nom</span>) <a href="../cite/Dio/1453/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1454</span> <span class="name">Dio</span> (<span class="case">nom</span>) <a href="../cite/Dio/1454/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1455</span> <span class="name">Dicus</span> (<span class="case">nom</span>) <a href="../cite/Dicus/1455/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 72</span></a>,
+ <span class="name">Dicws</span> (<span class="case">nom</span>) <a href="../cite/Dicws/1455/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 258</span></a>,
+ <span class="name">Dio</span> (<span class="case">nom</span>) <a href="../cite/Dio/1455/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1456</span> <span class="name">Dicus</span> (<span class="case">nom</span>) <a href="../cite/Dicus/1456/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 259</span></a>,
+ <span class="name">Dio</span> (<span class="case">nom</span>) <a href="../cite/Dio/1456/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 259</span></a>;
+ <span class="date">1457</span> <span class="name">Dio</span> (<span class="case">nom</span>) <a href="../cite/Dio/1457/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 259</span></a>;
+ <span class="date">1497</span> <span class="name">Deycus</span> (<span class="case">nom</span>) <a href="../cite/Deycus/1497/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 68</span></a>,
+ <span class="name">Deyo</span> (<span class="case">nom</span>) <a href="../cite/Deyo/1497/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 68</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1571/RegLlantrithyd"><span class="bib_key">RegLlantrithyd</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1574</span> <span class="name">David</span> <a href="../cite/David/1574/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1579</span> <span class="name">David</span> <a href="../cite/David/1579/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1581</span> <span class="name">David</span> <a href="../cite/David/1581/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1588</span> <span class="name">David</span> <a href="../cite/David/1588/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1592</span> <span class="name">David</span> <a href="../cite/David/1592/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1596</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1596/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>,
+ <span class="name">David</span> <a href="../cite/David/1596/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1598</span> <span class="name">Dauid</span> <a href="../cite/Dauid/1598/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1599</span> <span class="name">David</span> <a href="../cite/David/1599/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a></dd>
+<dt><span class="lang">Welsh</span></dt>
+<dd><span class="dim">●</span> <span class="date">1560</span> <span class="name">David</span> <a href="../cite/David/1560/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1581</span> <span class="name">david</span> <a href="../cite/david/1581/RegCon1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1582</span> <span class="name">David</span> <a href="../cite/David/1582/RegCon1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1583</span> <span class="name">David</span> <a href="../cite/David/1583/RegCon1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, R. Le Get, M. Slíz, J. Uckelman, S.L. Uckelman. "David". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/David.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

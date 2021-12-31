@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Adriana</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Adriana</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Fem. of <a class="nym" href="Adrian">Adrian</a>.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1591</span> <span class="name">Adriana</span> <a href="../cite/Adriana/1591/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Mol</span></a>;
+ <span class="date">1597</span> <span class="name">Adriana</span> <a href="../cite/Adriana/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Jode</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1571</span> <span class="name">Adriaenken</span> <a href="../cite/Adriaenken/1571/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">p. 88</span></a>,
+ <span class="name">Adriaentgen</span> <a href="../cite/Adriaentgen/1571/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90</span></a>;
+ <span class="date">1573</span> <span class="name">Adriaenken</span> <a href="../cite/Adriaenken/1573/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Stark</span></a>,
+ <span class="name">Adrianeken</span> <a href="../cite/Adrianeken/1573/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Liesvelt</span></a>;
+ <span class="date">1596</span> <span class="name">Adriaenken</span> <a href="../cite/Adriaenken/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Vrbanus</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1588</span> <span class="name">Adryan</span> <a href="../cite/Adryan/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 16</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1583</span> <span class="name">Adriene</span> <a href="../cite/Adriene/1583/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 437</span></a>;
+ <span class="date">1590</span> <span class="name">Adriane</span> <a href="../cite/Adriane/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1595</span> <span class="name">Adriane</span> <a href="../cite/Adriane/1595/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Adriana</span> (<span class="case">nom</span>) <a href="../cite/Adriana/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">80, Ved</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1565</span> <span class="name">Adrienne</span> <a href="../cite/Adrienne/1565/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 160</span></a>;
+ <span class="date">1566</span> <span class="name">Adriane</span> <a href="../cite/Adriane/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 257</span></a>,
+ <span class="name">Adrienne</span> <a href="../cite/Adrienne/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 200</span></a>;
+ <span class="date">1568</span> <span class="name">Adriane</span> <a href="../cite/Adriane/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 416</span></a>;
+ <span class="date">1571</span> <span class="name">Adrianne</span> <a href="../cite/Adrianne/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 455</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Adriana</span> <a href="../cite/Adriana/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 29</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Adriana". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Adriana.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Otbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Otbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>ōt</i>, <span class="lang">Old Saxon</span> <i>ōd</i> 'wealth, riches' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>Later Italian spellings typically omit the initial <i>t</i>.</p>
+<p>Similarly, in French, <i>Aubert</i> can be a form of this name or of <a class="nym" href="Albert">Albert</a>; in many cases it is impossible to tell which is the root.  The variant <i>Autbert</i> can also be a form of <a class="nym" href="Altbert">Altbert</a></p>
+<p></p>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">658</span> <span class="name">Adebertus</span> (<span class="case">nom</span>) <a href="../cite/Adebertus/658/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">CCCXXXIII</span></a>;
+ <span class="date">745</span> <span class="name">Odberti</span> (<span class="case">gen</span>) <a href="../cite/Odberti/745/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">1</span></a>;
+ <span class="date">c823</span> <span class="name">Autbertus</span> (<span class="case">nom</span>) <a href="../cite/Autbertus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">14, Gaugiacum</span></a>,
+ <span class="name">Otbertus</span> (<span class="case">nom</span>) <a href="../cite/Otbertus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">19, Ved</span></a>;
+ <span class="date">989</span> <span class="name">Otberti</span> (<span class="case">gen</span>) <a href="../cite/Otberti/989/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">105</span></a>,
+ <span class="name">Otbertus</span> (<span class="case">nom</span>) <a href="../cite/Otbertus/989/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a>;
+ <span class="date">1018x1032</span> <span class="name">Odbertus</span> (<span class="case">nom</span>) <a href="../cite/Odbertus/1018x1032/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">666</span></a>;
+ <span class="date">1029x1033</span> <span class="name">Otbertus</span> (<span class="case">nom</span>) <a href="../cite/Otbertus/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">c1040</span> <span class="name">Autberto</span> (<span class="case">abl</span>) <a href="../cite/Autberto/c1040/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">671</span></a>;
+ <span class="date">1044</span> <span class="name">Autbertus</span> (<span class="case">nom</span>) <a href="../cite/Autbertus/1044/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">659</span></a>;
+ <span class="date">1048</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1048/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">737</span></a>;
+ <span class="date">c1050</span> <span class="name">Odbertus</span> (<span class="case">nom</span>) <a href="../cite/Odbertus/c1050/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">675</span></a>;
+ <span class="date">1067</span> <span class="name">Othberti</span> (<span class="case">gen</span>) <a href="../cite/Othberti/1067/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1131</span> <span class="name">Audeberti</span> (<span class="case">gen</span>) <a href="../cite/Audeberti/1131/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII</span></a>,
+ <span class="name">Audebertus</span> (<span class="case">nom</span>) <a href="../cite/Audebertus/1131/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII</span></a>;
+ <span class="date">1138x62</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1138x62/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">71</span></a>;
+ <span class="date">1147</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1163–64</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">107</span></a>;
+ <span class="date">1164</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1179</span> <span class="name">Oberto</span> (<span class="case">abl</span>) <a href="../cite/Oberto/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">179</span></a>;
+ <span class="date">1188</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1188/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCIV</span></a>;
+ <span class="date">1274</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1274/RHF-VIII"><span class="bib_key">RHF-VIII</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1378</span> <span class="name">Audeberti</span> (<span class="case">gen</span>) <a href="../cite/Audeberti/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1303</span></a>,
+ <span class="name">Oberto</span> (<span class="case">dat</span>) <a href="../cite/Oberto/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1438</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Audebert</span> <a href="../cite/Audebert/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 200</span></a>,
+ <a href="../cite/Audebert/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 376</span></a>;
+ <span class="date">1423</span> <span class="name">Audebert</span> <a href="../cite/Audebert/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">828</span> <span class="name">Otberti</span> (<span class="case">gen</span>) <a href="../cite/Otberti/828/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 29</span></a>;
+ <span class="date">1098</span> <span class="name">Oberti</span> (<span class="case">gen</span>) <a href="../cite/Oberti/1098/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1100</span> <span class="name">Otberto</span> (<span class="case">nom</span>) <a href="../cite/Otberto/1100/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1103</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1103/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">62</span></a>;
+ <span class="date">1108</span> <span class="name">Oberto</span> (<span class="case">abl</span>) <a href="../cite/Oberto/1108/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1211</span> <span class="name">Opertus</span> (<span class="case">nom</span>) <a href="../cite/Opertus/1211/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1218</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1218/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">30</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1164</span> <span class="name">Obertum</span> (<span class="case">acc</span>) <a href="../cite/Obertum/1164/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Oberti</span> (<span class="case">gen</span>) <a href="../cite/Oberti/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">178</span></a>;
+ <span class="date">1268</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1268/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLI</span></a>;
+ <span class="date">1276</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1276/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLII</span></a>;
+ <span class="date">1280</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1280/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIII</span></a>;
+ <span class="date">1282</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1282/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVII</span></a>;
+ <span class="date">1284</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1284/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIII</span></a>;
+ <span class="date">1376</span> <span class="name">Obertho</span> (<span class="case">abl</span>) <a href="../cite/Obertho/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Oberti</span> (<span class="case">gen</span>) <a href="../cite/Oberti/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 225</span></a>,
+ <span class="name">Oberto</span> (<span class="case">abl</span>) <a href="../cite/Oberto/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1464</span> <span class="name">Obertus</span> (<span class="case">nom</span>) <a href="../cite/Obertus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1282</span> <span class="name">Obertino</span> (<span class="case">abl</span>) <a href="../cite/Obertino/1282/DSS5-1-4"><span class="bib_key">DSS5-1-4</span> <span class="bib_loc">I</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Otbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Otbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

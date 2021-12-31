@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Alwin</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Alwin</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>æþel</i>, <span class="lang">Old High German</span> <i>adal</i> 'noble' + <span class="lang">Old English</span> <i>wine</i>, <span class="lang">Old High German</span> <i>wini</i> 'friend'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of three 7th C Anglo-Saxon saints.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">798</span> <span class="name">Adaluuino</span> (<span class="case">dat</span>) <a href="../cite/Adaluuino/798/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">2</span></a>;
+ <span class="date">864</span> <span class="name">Adelwini</span> (<span class="case">gen</span>) <a href="../cite/Adelwini/864/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">966</span> <span class="name">Ailwinus</span> (<span class="case">nom</span>) <a href="../cite/Ailwinus/966/CDAS"><span class="bib_key">CDAS</span> <span class="bib_loc">DXXVIII</span></a>;
+ <span class="date">967</span> <span class="name">Æðeluuine</span> (<span class="case">nom</span>) <a href="../cite/Æðeluuine/967/CDAS"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXXVI</span></a>,
+ <span class="name">Æðelwine</span> (<span class="case">nom</span>) <a href="../cite/Æðelwine/967/CDAS"><span class="bib_key">ibid.</span> <span class="bib_loc">DXXXIII</span></a>;
+ <span class="date">1155</span> <span class="name">Eilwinus</span> (<span class="case">nom</span>) <a href="../cite/Eilwinus/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1181</span> <span class="name">Alwini</span> (<span class="case">gen</span>) <a href="../cite/Alwini/1181/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 115</span></a>,
+ <span class="name">Alwinus</span> (<span class="case">nom</span>) <a href="../cite/Alwinus/1181/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 114</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Ailwinus</span> (<span class="case">nom</span>) <a href="../cite/Ailwinus/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1189</span> <span class="name">Ailwinus</span> (<span class="case">nom</span>) <a href="../cite/Ailwinus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 138</span></a>,
+ <span class="name">Alwini</span> (<span class="case">gen</span>) <a href="../cite/Alwini/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 204</span></a>,
+ <span class="name">Alwinus</span> (<span class="case">nom</span>) <a href="../cite/Alwinus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 130</span></a>,
+ <span class="name">Eluinus</span> (<span class="case">nom</span>) <a href="../cite/Eluinus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 177</span></a>,
+ <span class="name">Elwini</span> (<span class="case">gen</span>) <a href="../cite/Elwini/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 112</span></a>,
+ <span class="name">Elwinus</span> (<span class="case">nom</span>) <a href="../cite/Elwinus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 108</span></a>,
+ <span class="name">Elwyne</span> (<span class="case">nom</span>) <a href="../cite/Elwyne/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1222</span> <span class="name">Ailwinus</span> (<span class="case">nom</span>) <a href="../cite/Ailwinus/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 85</span></a>,
+ <span class="name">Alwini</span> (<span class="case">gen</span>) <a href="../cite/Alwini/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">ailwini</span> (<span class="case">gen</span>) <a href="../cite/ailwini/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Adaluinus</span> (<span class="case">nom</span>) <a href="../cite/Adaluinus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">30, Palatiolum</span></a>;
+ <span class="date">c1175–1180</span> <span class="name">Aelevini</span> (<span class="case">gen</span>) <a href="../cite/Aelevini/c1175–1180/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 64</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">802</span> <span class="name">Adaluuino</span> (<span class="case">abl</span>) <a href="../cite/Adaluuino/802/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">8</span></a>;
+ <span class="date">846</span> <span class="name">Athalwini</span> (<span class="case">gen</span>) <a href="../cite/Athalwini/846/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 38</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Alwini</span> (<span class="case">gen</span>) <a href="../cite/Alwini/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">855</span> <span class="name">Athalvini</span> (<span class="case">nom</span>) <a href="../cite/Athalvini/855/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 45</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1120</span> <span class="name">Alwyno</span> (<span class="case">abl</span>) <a href="../cite/Alwyno/c1120/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XXXV</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Alwin". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Alwin.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

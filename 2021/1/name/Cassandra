@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Cassandra</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Cassandra</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Greek</span> <i>Κασ(σ)άνδρα</i>, of uncertain etymology.  The second element may be derived from <span class="lang">Greek</span> <i>ἀνήρ</i> 'man', while <span class="xr">de Felice</span> s.n. Cassandra suggests that the prototheme is pre-Greek <i>*kad-</i> 'excel'.  Another alternative, suggested by <cite>Beekes</cite>, derives the name from <span class="lang">Proto-Indo-European</span> <i>*(s)kend-</i> 'raise'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>In Greek mythology, the name of a daughter of King Priam of Troy and famous prophetess.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name first came into use in England in the 12th C, a period where many fanciful names of Greek and Latin origin were introduced or coined.  Many of these names remained in use only a century or two, but <i>Cassandra</i> appears again in England in the 16th C.  In Italy, the name was introduced as part of the general revival of classical names in the Renaissance.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Kesaunder</span> <a href="../cite/Kesaunder/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 15</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1514</span> <span class="name">Cassandra</span> (<span class="case">nom</span>) <a href="../cite/Cassandra/1514/SSPI"><span class="bib_key">SSPI</span> <span class="bib_loc">p. 274</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Cassandra". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Cassandra.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

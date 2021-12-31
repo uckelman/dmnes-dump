@@ -1,0 +1,1006 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>OrkGZ</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>OrkGZ</dt>
+  <dd>L. A. J. W. Baron Sloet, editor. <em>Oorkondenboek der Graafschappen Gelre en Zutfen tot op den Slag van Woeringen, 5 Juni 1288</em>, volume 1: tot den Dood van Graaf Gerard, 23 October 1229. s'Gravenhage: Martinus Nijhoff, 1872.</dd>
+</dl>
+
+
+  <a href="../cite/Abbo/855/OrkGZ">Abbo</a>
+
+  <a href="../cite/Abbo/834/OrkGZ">Abbo</a>
+
+  <a href="../cite/Abbonis/850/OrkGZ">Abbonis</a>
+
+  <a href="../cite/Adagrim/828/OrkGZ">Adagrim</a>
+
+  <a href="../cite/Adalardus/860/OrkGZ">Adalardus</a>
+
+  <a href="../cite/Adalbertus/714/OrkGZ">Adalbertus</a>
+
+  <a href="../cite/Adalgard/828/OrkGZ">Adalgard</a>
+
+  <a href="../cite/Adalungo/814x815/OrkGZ">Adalungo</a>
+
+  <a href="../cite/Adalwardus/814x815/OrkGZ">Adalwardus</a>
+
+  <a href="../cite/Addo/834/OrkGZ">Addo</a>
+
+  <a href="../cite/Adelgod/828/OrkGZ">Adelgod</a>
+
+  <a href="../cite/Adricharius/714/OrkGZ">Adricharius</a>
+
+  <a href="../cite/Aengelbertus/709/OrkGZ">Aengelbertus</a>
+
+  <a href="../cite/Agnes/fin8thC/OrkGZ">Agnes</a>
+
+  <a href="../cite/Alberico/714/OrkGZ">Alberico</a>
+
+  <a href="../cite/Albericus/fin8thC/OrkGZ">Albericus</a>
+
+  <a href="../cite/Albger/814x815/OrkGZ">Albger</a>
+
+  <a href="../cite/Albric/828/OrkGZ">Albric</a>
+
+  <a href="../cite/Albrici/828/OrkGZ">Albrici</a>
+
+  <a href="../cite/Albrico/777/OrkGZ">Albrico</a>
+
+  <a href="../cite/Albricus/777/OrkGZ">Albricus</a>
+
+  <a href="../cite/Albricus/838/OrkGZ">Albricus</a>
+
+  <a href="../cite/Aldberti/845/OrkGZ">Aldberti</a>
+
+  <a href="../cite/Aldger/850/OrkGZ">Aldger</a>
+
+  <a href="../cite/Aldo/726/OrkGZ">Aldo</a>
+
+  <a href="../cite/Alduino/709/OrkGZ">Alduino</a>
+
+  <a href="../cite/Alfger/814x815/OrkGZ">Alfger</a>
+
+  <a href="../cite/Alfgeri/838/OrkGZ">Alfgeri</a>
+
+  <a href="../cite/Alfric/834/OrkGZ">Alfric</a>
+
+  <a href="../cite/Algeri/828/OrkGZ">Algeri</a>
+
+  <a href="../cite/Anastasii/875/OrkGZ">Anastasii</a>
+
+  <a href="../cite/Andger/845/OrkGZ">Andger</a>
+
+  <a href="../cite/Andgeri/845/OrkGZ">Andgeri</a>
+
+  <a href="../cite/Ansbaldo/711/OrkGZ">Ansbaldo</a>
+
+  <a href="../cite/Ansbaldus/711/OrkGZ">Ansbaldus</a>
+
+  <a href="../cite/Ansbolt/814x815/OrkGZ">Ansbolt</a>
+
+  <a href="../cite/Ansbraht/855/OrkGZ">Ansbraht</a>
+
+  <a href="../cite/Ansfrid/814x815/OrkGZ">Ansfrid</a>
+
+  <a href="../cite/Ansfrid/863/OrkGZ">Ansfrid</a>
+
+  <a href="../cite/Ansfridi/863/OrkGZ">Ansfridi</a>
+
+  <a href="../cite/Ansfridi/855/OrkGZ">Ansfridi</a>
+
+  <a href="../cite/Ansfrido/856/OrkGZ">Ansfrido</a>
+
+  <a href="../cite/Ansfrido/863/OrkGZ">Ansfrido</a>
+
+  <a href="../cite/Ansgisili/714/OrkGZ">Ansgisili</a>
+
+  <a href="../cite/Arnolf/828/OrkGZ">Arnolf</a>
+
+  <a href="../cite/Asgrim/855/OrkGZ">Asgrim</a>
+
+  <a href="../cite/Atalgot/802/OrkGZ">Atalgot</a>
+
+  <a href="../cite/Athalbald/855/OrkGZ">Athalbald</a>
+
+  <a href="../cite/Athalbodo/846/OrkGZ">Athalbodo</a>
+
+  <a href="../cite/Athalgot/855/OrkGZ">Athalgot</a>
+
+  <a href="../cite/Athalvini/855/OrkGZ">Athalvini</a>
+
+  <a href="../cite/Athalward/855/OrkGZ">Athalward</a>
+
+  <a href="../cite/Athalwini/846/OrkGZ">Athalwini</a>
+
+  <a href="../cite/Autgarius/776x798/OrkGZ">Autgarius</a>
+
+  <a href="../cite/Bago/796/OrkGZ">Bago</a>
+
+  <a href="../cite/Baldericus/814x815/OrkGZ">Baldericus</a>
+
+  <a href="../cite/Baldric/855/OrkGZ">Baldric</a>
+
+  <a href="../cite/Baldric/850/OrkGZ">Baldric</a>
+
+  <a href="../cite/Baldricus/850/OrkGZ">Baldricus</a>
+
+  <a href="../cite/Benno/855/OrkGZ">Benno</a>
+
+  <a href="../cite/Berahtwini/855/OrkGZ">Berahtwini</a>
+
+  <a href="../cite/Beratheri/806/OrkGZ">Beratheri</a>
+
+  <a href="../cite/Beren/834/OrkGZ">Beren</a>
+
+  <a href="../cite/Berhard/850/OrkGZ">Berhard</a>
+
+  <a href="../cite/Berhtrici/796/OrkGZ">Berhtrici</a>
+
+  <a href="../cite/Bernhardi/794/OrkGZ">Bernhardi</a>
+
+  <a href="../cite/Bernhardi/796/OrkGZ">Bernhardi</a>
+
+  <a href="../cite/Bernhardi/797/OrkGZ">Bernhardi</a>
+
+  <a href="../cite/Bernheri/797/OrkGZ">Bernheri</a>
+
+  <a href="../cite/Bernheri/850/OrkGZ">Bernheri</a>
+
+  <a href="../cite/Bernheri/845/OrkGZ">Bernheri</a>
+
+  <a href="../cite/Bernold/834/OrkGZ">Bernold</a>
+
+  <a href="../cite/Bernoldus/834/OrkGZ">Bernoldus</a>
+
+  <a href="../cite/Bernsuide/793/OrkGZ">Bernsuide</a>
+
+  <a href="../cite/Bernsuide/796/OrkGZ">Bernsuide</a>
+
+  <a href="../cite/Blictrudis/714/OrkGZ">Blictrudis</a>
+
+  <a href="../cite/Blittrudem/714/OrkGZ">Blittrudem</a>
+
+  <a href="../cite/Blittrudis/714/OrkGZ">Blittrudis</a>
+
+  <a href="../cite/Boso/834/OrkGZ">Boso</a>
+
+  <a href="../cite/Boso/855/OrkGZ">Boso</a>
+
+  <a href="../cite/Carli/799/OrkGZ">Carli</a>
+
+  <a href="../cite/Carli/800/OrkGZ">Carli</a>
+
+  <a href="../cite/Carli/796/OrkGZ">Carli</a>
+
+  <a href="../cite/Carli/805/OrkGZ">Carli</a>
+
+  <a href="../cite/Carli/797/OrkGZ">Carli</a>
+
+  <a href="../cite/Carli/806/OrkGZ">Carli</a>
+
+  <a href="../cite/Carli/794/OrkGZ">Carli</a>
+
+  <a href="../cite/Caroli/779/OrkGZ">Caroli</a>
+
+  <a href="../cite/Caroli/793x794/OrkGZ">Caroli</a>
+
+  <a href="../cite/Caroli/875/OrkGZ">Caroli</a>
+
+  <a href="../cite/Carolo/876/OrkGZ">Carolo</a>
+
+  <a href="../cite/Carolus/870/OrkGZ">Carolus</a>
+
+  <a href="../cite/Carolus/779/OrkGZ">Carolus</a>
+
+  <a href="../cite/Carolus/875/OrkGZ">Carolus</a>
+
+  <a href="../cite/Carolus/882/OrkGZ">Carolus</a>
+
+  <a href="../cite/Childeberti/709/OrkGZ">Childeberti</a>
+
+  <a href="../cite/Craft/850/OrkGZ">Craft</a>
+
+  <a href="../cite/Crodegerus/714/OrkGZ">Crodegerus</a>
+
+  <a href="../cite/Dagoberti/711/OrkGZ">Dagoberti</a>
+
+  <a href="../cite/Dagoberti/714/OrkGZ">Dagoberti</a>
+
+  <a href="../cite/Daniel/858/OrkGZ">Daniel</a>
+
+  <a href="../cite/Drogonis/714/OrkGZ">Drogonis</a>
+
+  <a href="../cite/Eberhardus/881/OrkGZ">Eberhardus</a>
+
+  <a href="../cite/Ebroino/720/OrkGZ">Ebroino</a>
+
+  <a href="../cite/Ebroinus/720/OrkGZ">Ebroinus</a>
+
+  <a href="../cite/Eccihardus/837/OrkGZ">Eccihardus</a>
+
+  <a href="../cite/Edelgardi/838/OrkGZ">Edelgardi</a>
+
+  <a href="../cite/Egbald/828/OrkGZ">Egbald</a>
+
+  <a href="../cite/Engilberti/800/OrkGZ">Engilberti</a>
+
+  <a href="../cite/Engilberti/801/OrkGZ">Engilberti</a>
+
+  <a href="../cite/Erkenfridi/726/OrkGZ">Erkenfridi</a>
+
+  <a href="../cite/Everardus/726/OrkGZ">Everardus</a>
+
+  <a href="../cite/Everhardus/726/OrkGZ">Everhardus</a>
+
+  <a href="../cite/Everuwini/801/OrkGZ">Everuwini</a>
+
+  <a href="../cite/Evhard/834/OrkGZ">Evhard</a>
+
+  <a href="../cite/Evorold/855/OrkGZ">Evorold</a>
+
+  <a href="../cite/Evurgrim/855/OrkGZ">Evurgrim</a>
+
+  <a href="../cite/Folcardi/800/OrkGZ">Folcardi</a>
+
+  <a href="../cite/Folcarii/726/OrkGZ">Folcarii</a>
+
+  <a href="../cite/Folcberti/845/OrkGZ">Folcberti</a>
+
+  <a href="../cite/Folcberti/806/OrkGZ">Folcberti</a>
+
+  <a href="../cite/Folchardi/800/OrkGZ">Folchardi</a>
+
+  <a href="../cite/Folchardus/800/OrkGZ">Folchardus</a>
+
+  <a href="../cite/Folcharium/720/OrkGZ">Folcharium</a>
+
+  <a href="../cite/Folchbrectus/720/OrkGZ">Folchbrectus</a>
+
+  <a href="../cite/Folcheri/850/OrkGZ">Folcheri</a>
+
+  <a href="../cite/Folckerus/855/OrkGZ">Folckerus</a>
+
+  <a href="../cite/Folclebi/793/OrkGZ">Folclebi</a>
+
+  <a href="../cite/Folcradi/796/OrkGZ">Folcradi</a>
+
+  <a href="../cite/Folcradi/806/OrkGZ">Folcradi</a>
+
+  <a href="../cite/Folcradi/805/OrkGZ">Folcradi</a>
+
+  <a href="../cite/Folcwic/828/OrkGZ">Folcwic</a>
+
+  <a href="../cite/Folkeri/855/OrkGZ">Folkeri</a>
+
+  <a href="../cite/Folobrat/850/OrkGZ">Folobrat</a>
+
+  <a href="../cite/Frederic/850/OrkGZ">Frederic</a>
+
+  <a href="../cite/Frederico/834/OrkGZ">Frederico</a>
+
+  <a href="../cite/Frederico/828/OrkGZ">Frederico</a>
+
+  <a href="../cite/Fredericus/827x838/OrkGZ">Fredericus</a>
+
+  <a href="../cite/Frideberti/828/OrkGZ">Frideberti</a>
+
+  <a href="../cite/Frideric/834/OrkGZ">Frideric</a>
+
+  <a href="../cite/Frithubald/855/OrkGZ">Frithubald</a>
+
+  <a href="../cite/Frithubaldi/845/OrkGZ">Frithubaldi</a>
+
+  <a href="../cite/Frithuric/855/OrkGZ">Frithuric</a>
+
+  <a href="../cite/Frodgeri/794/OrkGZ">Frodgeri</a>
+
+  <a href="../cite/Gaerhardus/779/OrkGZ">Gaerhardus</a>
+
+  <a href="../cite/Gelbold/834/OrkGZ">Gelbold</a>
+
+  <a href="../cite/Geldolf/855/OrkGZ">Geldolf</a>
+
+  <a href="../cite/Geldolfi/850/OrkGZ">Geldolfi</a>
+
+  <a href="../cite/Gerahrii/828/OrkGZ">Gerahrii</a>
+
+  <a href="../cite/Geraldus/714/OrkGZ">Geraldus</a>
+
+  <a href="../cite/Gerbaldi/802/OrkGZ">Gerbaldi</a>
+
+  <a href="../cite/Gerberti/806/OrkGZ">Gerberti</a>
+
+  <a href="../cite/Gerberti/828/OrkGZ">Gerberti</a>
+
+  <a href="../cite/Gerberti/838/OrkGZ">Gerberti</a>
+
+  <a href="../cite/Gerberti/805/OrkGZ">Gerberti</a>
+
+  <a href="../cite/Gerbodi/838/OrkGZ">Gerbodi</a>
+
+  <a href="../cite/Gerbodi/828/OrkGZ">Gerbodi</a>
+
+  <a href="../cite/Gerburgh/850/OrkGZ">Gerburgh</a>
+
+  <a href="../cite/Gerhardi/800/OrkGZ">Gerhardi</a>
+
+  <a href="../cite/Gerhardi/799/OrkGZ">Gerhardi</a>
+
+  <a href="../cite/Gerhardus/800/OrkGZ">Gerhardus</a>
+
+  <a href="../cite/Geri/838/OrkGZ">Geri</a>
+
+  <a href="../cite/Gerici/828/OrkGZ">Gerici</a>
+
+  <a href="../cite/Gerlec/855/OrkGZ">Gerlec</a>
+
+  <a href="../cite/Germani/779/OrkGZ">Germani</a>
+
+  <a href="../cite/Germundi/797/OrkGZ">Germundi</a>
+
+  <a href="../cite/Germundi/801/OrkGZ">Germundi</a>
+
+  <a href="../cite/Gerolf/828/OrkGZ">Gerolf</a>
+
+  <a href="../cite/Gerowardi/828/OrkGZ">Gerowardi</a>
+
+  <a href="../cite/Gerowardus/828/OrkGZ">Gerowardus</a>
+
+  <a href="../cite/Gerwardi/838/OrkGZ">Gerwardi</a>
+
+  <a href="../cite/Gerwardus/814x815/OrkGZ">Gerwardus</a>
+
+  <a href="../cite/Gerwini/799/OrkGZ">Gerwini</a>
+
+  <a href="../cite/Gislam/882/OrkGZ">Gislam</a>
+
+  <a href="../cite/Godeberti/838/OrkGZ">Godeberti</a>
+
+  <a href="../cite/Godefrido/884/OrkGZ">Godefrido</a>
+
+  <a href="../cite/Godefridus/882/OrkGZ">Godefridus</a>
+
+  <a href="../cite/Godin/834/OrkGZ">Godin</a>
+
+  <a href="../cite/Godobrectus/720/OrkGZ">Godobrectus</a>
+
+  <a href="../cite/Gotafridum/882/OrkGZ">Gotafridum</a>
+
+  <a href="../cite/Gregorium/c765/OrkGZ">Gregorium</a>
+
+  <a href="../cite/Gregorius/c765/OrkGZ">Gregorius</a>
+
+  <a href="../cite/Grimbald/828/OrkGZ">Grimbald</a>
+
+  <a href="../cite/Grimoaldi/714/OrkGZ">Grimoaldi</a>
+
+  <a href="../cite/Grimoaldo/714/OrkGZ">Grimoaldo</a>
+
+  <a href="../cite/Gundulfi/837/OrkGZ">Gundulfi</a>
+
+  <a href="../cite/Guntbrechtus/720/OrkGZ">Guntbrechtus</a>
+
+  <a href="../cite/Guntharii/858/OrkGZ">Guntharii</a>
+
+  <a href="../cite/Hardrad/855/OrkGZ">Hardrad</a>
+
+  <a href="../cite/Heinricus/884/OrkGZ">Heinricus</a>
+
+  <a href="../cite/Helmberhtus/800/OrkGZ">Helmberhtus</a>
+
+  <a href="../cite/Helmberti/800/OrkGZ">Helmberti</a>
+
+  <a href="../cite/Helmger/864/OrkGZ">Helmger</a>
+
+  <a href="../cite/Helmoinus/714/OrkGZ">Helmoinus</a>
+
+  <a href="../cite/Helmrici/806/OrkGZ">Helmrici</a>
+
+  <a href="../cite/Helmrici/796/OrkGZ">Helmrici</a>
+
+  <a href="../cite/Helmrici/805/OrkGZ">Helmrici</a>
+
+  <a href="../cite/Herebreth/850/OrkGZ">Herebreth</a>
+
+  <a href="../cite/Hereman/828/OrkGZ">Hereman</a>
+
+  <a href="../cite/Herewini/805/OrkGZ">Herewini</a>
+
+  <a href="../cite/Heriberti/838/OrkGZ">Heriberti</a>
+
+  <a href="../cite/Herigeri/726/OrkGZ">Herigeri</a>
+
+  <a href="../cite/Herioldi/850/OrkGZ">Herioldi</a>
+
+  <a href="../cite/Heriwini/806/OrkGZ">Heriwini</a>
+
+  <a href="../cite/Hermingarde/858/OrkGZ">Hermingarde</a>
+
+  <a href="../cite/Hildebertus/726/OrkGZ">Hildebertus</a>
+
+  <a href="../cite/Hildeboldi/850/OrkGZ">Hildeboldi</a>
+
+  <a href="../cite/Hilderadi/828/OrkGZ">Hilderadi</a>
+
+  <a href="../cite/Hildibaldi/794/OrkGZ">Hildibaldi</a>
+
+  <a href="../cite/Hildiberti/797/OrkGZ">Hildiberti</a>
+
+  <a href="../cite/Hildigaeri/797/OrkGZ">Hildigaeri</a>
+
+  <a href="../cite/Hildigeri/799/OrkGZ">Hildigeri</a>
+
+  <a href="../cite/Hildigeri/801/OrkGZ">Hildigeri</a>
+
+  <a href="../cite/Hildigeri/800/OrkGZ">Hildigeri</a>
+
+  <a href="../cite/Hildigerus/794/OrkGZ">Hildigerus</a>
+
+  <a href="../cite/Hildigrimi/793/OrkGZ">Hildigrimi</a>
+
+  <a href="../cite/Hildigrimus/797/OrkGZ">Hildigrimus</a>
+
+  <a href="../cite/Hildirad/855/OrkGZ">Hildirad</a>
+
+  <a href="../cite/Hildirat/814x815/OrkGZ">Hildirat</a>
+
+  <a href="../cite/Hildiric/855/OrkGZ">Hildiric</a>
+
+  <a href="../cite/Hildiwardi/806/OrkGZ">Hildiwardi</a>
+
+  <a href="../cite/Hlotharii/876/OrkGZ">Hlotharii</a>
+
+  <a href="../cite/Hlotharii/882/OrkGZ">Hlotharii</a>
+
+  <a href="../cite/Hludovicum/870/OrkGZ">Hludovicum</a>
+
+  <a href="../cite/Hludovicus/870/OrkGZ">Hludovicus</a>
+
+  <a href="../cite/Hludovicus/876/OrkGZ">Hludovicus</a>
+
+  <a href="../cite/Hludowico/855/OrkGZ">Hludowico</a>
+
+  <a href="../cite/Hludowicus/880/OrkGZ">Hludowicus</a>
+
+  <a href="../cite/Hredgeri/796/OrkGZ">Hredgeri</a>
+
+  <a href="../cite/Hredgeri/805/OrkGZ">Hredgeri</a>
+
+  <a href="../cite/Hrodberti/800/OrkGZ">Hrodberti</a>
+
+  <a href="../cite/Hrodberti/796/OrkGZ">Hrodberti</a>
+
+  <a href="../cite/Hrodgaeri/793/OrkGZ">Hrodgaeri</a>
+
+  <a href="../cite/Hrodger/855/OrkGZ">Hrodger</a>
+
+  <a href="../cite/Hrodulfi/801/OrkGZ">Hrodulfi</a>
+
+  <a href="../cite/Hrodulfus/801/OrkGZ">Hrodulfus</a>
+
+  <a href="../cite/Hrotbertus/779/OrkGZ">Hrotbertus</a>
+
+  <a href="../cite/Hucbertus/856/OrkGZ">Hucbertus</a>
+
+  <a href="../cite/Hudrici/838/OrkGZ">Hudrici</a>
+
+  <a href="../cite/Hugoberti/714/OrkGZ">Hugoberti</a>
+
+  <a href="../cite/Hundolf/850/OrkGZ">Hundolf</a>
+
+  <a href="../cite/Hungrim/828/OrkGZ">Hungrim</a>
+
+  <a href="../cite/Ioannes/875/OrkGZ">Ioannes</a>
+
+  <a href="../cite/Isinbaldi/793/OrkGZ">Isinbaldi</a>
+
+  <a href="../cite/Karoli/772/OrkGZ">Karoli</a>
+
+  <a href="../cite/Karoli/726/OrkGZ">Karoli</a>
+
+  <a href="../cite/Karoli/777/OrkGZ">Karoli</a>
+
+  <a href="../cite/Karoli/870/OrkGZ">Karoli</a>
+
+  <a href="../cite/Karolo/776x798/OrkGZ">Karolo</a>
+
+  <a href="../cite/Karolo/726/OrkGZ">Karolo</a>
+
+  <a href="../cite/Karolo/855/OrkGZ">Karolo</a>
+
+  <a href="../cite/Karolum/870/OrkGZ">Karolum</a>
+
+  <a href="../cite/Karolus/777/OrkGZ">Karolus</a>
+
+  <a href="../cite/Karolus/882/OrkGZ">Karolus</a>
+
+  <a href="../cite/Karolus/726/OrkGZ">Karolus</a>
+
+  <a href="../cite/Karolus/776x798/OrkGZ">Karolus</a>
+
+  <a href="../cite/Knut/834/OrkGZ">Knut</a>
+
+  <a href="../cite/Landgrim/855/OrkGZ">Landgrim</a>
+
+  <a href="../cite/Landradi/846/OrkGZ">Landradi</a>
+
+  <a href="../cite/Landric/828/OrkGZ">Landric</a>
+
+  <a href="../cite/Landulfus/794/OrkGZ">Landulfus</a>
+
+  <a href="../cite/Landwardii/828/OrkGZ">Landwardii</a>
+
+  <a href="../cite/Lantfridus/814x815/OrkGZ">Lantfridus</a>
+
+  <a href="../cite/Lantwardus/814x815/OrkGZ">Lantwardus</a>
+
+  <a href="../cite/Laurentius/720/OrkGZ">Laurentius</a>
+
+  <a href="../cite/Laurentius/711/OrkGZ">Laurentius</a>
+
+  <a href="../cite/Lebuinus/c765/OrkGZ">Lebuinus</a>
+
+  <a href="../cite/Ledhrad/855/OrkGZ">Ledhrad</a>
+
+  <a href="../cite/Ledoci/805/OrkGZ">Ledoci</a>
+
+  <a href="../cite/Ledoci/794/OrkGZ">Ledoci</a>
+
+  <a href="../cite/Ledradi/828/OrkGZ">Ledradi</a>
+
+  <a href="../cite/Letheri/850/OrkGZ">Letheri</a>
+
+  <a href="../cite/Liafwinus/c765/OrkGZ">Liafwinus</a>
+
+  <a href="../cite/Liudberti/806/OrkGZ">Liudberti</a>
+
+  <a href="../cite/Liudgeri/801/OrkGZ">Liudgeri</a>
+
+  <a href="../cite/Liudgeri/799/OrkGZ">Liudgeri</a>
+
+  <a href="../cite/Liudgeri/806/OrkGZ">Liudgeri</a>
+
+  <a href="../cite/Liudgeri/796/OrkGZ">Liudgeri</a>
+
+  <a href="../cite/Liudgeri/793/OrkGZ">Liudgeri</a>
+
+  <a href="../cite/Liudgeri/794/OrkGZ">Liudgeri</a>
+
+  <a href="../cite/Liudgeri/805/OrkGZ">Liudgeri</a>
+
+  <a href="../cite/Liudgero/793/OrkGZ">Liudgero</a>
+
+  <a href="../cite/Liudgero/800/OrkGZ">Liudgero</a>
+
+  <a href="../cite/Liudgero/805/OrkGZ">Liudgero</a>
+
+  <a href="../cite/Liudgero/797/OrkGZ">Liudgero</a>
+
+  <a href="../cite/Liudgero/806/OrkGZ">Liudgero</a>
+
+  <a href="../cite/Liudgero/794/OrkGZ">Liudgero</a>
+
+  <a href="../cite/Liudgerus/796/OrkGZ">Liudgerus</a>
+
+  <a href="../cite/Liudgerus/801/OrkGZ">Liudgerus</a>
+
+  <a href="../cite/Liudgerus/793/OrkGZ">Liudgerus</a>
+
+  <a href="../cite/Liudgerus/800/OrkGZ">Liudgerus</a>
+
+  <a href="../cite/Liudgerus/802/OrkGZ">Liudgerus</a>
+
+  <a href="../cite/Liudgerus/805/OrkGZ">Liudgerus</a>
+
+  <a href="../cite/Liudric/850/OrkGZ">Liudric</a>
+
+  <a href="../cite/Liudward/828/OrkGZ">Liudward</a>
+
+  <a href="../cite/Liutberhti/796/OrkGZ">Liutberhti</a>
+
+  <a href="../cite/Liutberti/805/OrkGZ">Liutberti</a>
+
+  <a href="../cite/Lotharii/858/OrkGZ">Lotharii</a>
+
+  <a href="../cite/Lotharii/860/OrkGZ">Lotharii</a>
+
+  <a href="../cite/Lotharii/856/OrkGZ">Lotharii</a>
+
+  <a href="../cite/Lotharii/850/OrkGZ">Lotharii</a>
+
+  <a href="../cite/Lotharii/866/OrkGZ">Lotharii</a>
+
+  <a href="../cite/Lotharii/876/OrkGZ">Lotharii</a>
+
+  <a href="../cite/Lothario/855/OrkGZ">Lothario</a>
+
+  <a href="../cite/Lothario/850/OrkGZ">Lothario</a>
+
+  <a href="../cite/Lotharium/860/OrkGZ">Lotharium</a>
+
+  <a href="../cite/Lotharius/850/OrkGZ">Lotharius</a>
+
+  <a href="../cite/Lotharius/855/OrkGZ">Lotharius</a>
+
+  <a href="../cite/Lotharius/858/OrkGZ">Lotharius</a>
+
+  <a href="../cite/Lotharius/860/OrkGZ">Lotharius</a>
+
+  <a href="../cite/Lotharius/856/OrkGZ">Lotharius</a>
+
+  <a href="../cite/Lothowici/858/OrkGZ">Lothowici</a>
+
+  <a href="../cite/Lothowici/834/OrkGZ">Lothowici</a>
+
+  <a href="../cite/Lothowici/838/OrkGZ">Lothowici</a>
+
+  <a href="../cite/Lothowici/828/OrkGZ">Lothowici</a>
+
+  <a href="../cite/Ludold/850/OrkGZ">Ludold</a>
+
+  <a href="../cite/Ludovici/814x815/OrkGZ">Ludovici</a>
+
+  <a href="../cite/Ludovico/855/OrkGZ">Ludovico</a>
+
+  <a href="../cite/Ludowici/854/OrkGZ">Ludowici</a>
+
+  <a href="../cite/Ludowici/839/OrkGZ">Ludowici</a>
+
+  <a href="../cite/Ludowici/814x815/OrkGZ">Ludowici</a>
+
+  <a href="../cite/Ludowici/863/OrkGZ">Ludowici</a>
+
+  <a href="../cite/Luidgerus/850/OrkGZ">Luidgerus</a>
+
+  <a href="../cite/Luidolfi/726/OrkGZ">Luidolfi</a>
+
+  <a href="../cite/Luitgeri/850/OrkGZ">Luitgeri</a>
+
+  <a href="../cite/Madalgarde/806/OrkGZ">Madalgarde</a>
+
+  <a href="../cite/Maga/850/OrkGZ">Maga</a>
+
+  <a href="../cite/Maginharii/726/OrkGZ">Maginharii</a>
+
+  <a href="../cite/Marcellino/c765/OrkGZ">Marcellino</a>
+
+  <a href="../cite/Marcrad/828/OrkGZ">Marcrad</a>
+
+  <a href="../cite/Marcrici/799/OrkGZ">Marcrici</a>
+
+  <a href="../cite/Mathalwim/855/OrkGZ">Mathalwim</a>
+
+  <a href="../cite/Meginbaldi/796/OrkGZ">Meginbaldi</a>
+
+  <a href="../cite/Meginberti/797/OrkGZ">Meginberti</a>
+
+  <a href="../cite/Meginberti/801/OrkGZ">Meginberti</a>
+
+  <a href="../cite/Meginfrid/828/OrkGZ">Meginfrid</a>
+
+  <a href="../cite/Meginhardi/845/OrkGZ">Meginhardi</a>
+
+  <a href="../cite/Meginhardi/881/OrkGZ">Meginhardi</a>
+
+  <a href="../cite/Meginhardi/794/OrkGZ">Meginhardi</a>
+
+  <a href="../cite/Meginhardi/846/OrkGZ">Meginhardi</a>
+
+  <a href="../cite/Meginulfi/799/OrkGZ">Meginulfi</a>
+
+  <a href="../cite/Meinhardi/828/OrkGZ">Meinhardi</a>
+
+  <a href="../cite/Oda/720/OrkGZ">Oda</a>
+
+  <a href="../cite/Odaccar/855/OrkGZ">Odaccar</a>
+
+  <a href="../cite/Odbald/855/OrkGZ">Odbald</a>
+
+  <a href="../cite/Odelrad/850/OrkGZ">Odelrad</a>
+
+  <a href="../cite/Odilbaldi/828/OrkGZ">Odilbaldi</a>
+
+  <a href="../cite/Odo/855/OrkGZ">Odo</a>
+
+  <a href="../cite/Odonis/726/OrkGZ">Odonis</a>
+
+  <a href="../cite/Odrad/855/OrkGZ">Odrad</a>
+
+  <a href="../cite/Oric/850/OrkGZ">Oric</a>
+
+  <a href="../cite/Otberti/828/OrkGZ">Otberti</a>
+
+  <a href="../cite/Paulus/709/OrkGZ">Paulus</a>
+
+  <a href="../cite/Plectrude/714/OrkGZ">Plectrude</a>
+
+  <a href="../cite/Raadald/802/OrkGZ">Raadald</a>
+
+  <a href="../cite/Raadgeri/796/OrkGZ">Raadgeri</a>
+
+  <a href="../cite/Radbold/834/OrkGZ">Radbold</a>
+
+  <a href="../cite/Radini/828/OrkGZ">Radini</a>
+
+  <a href="../cite/Radoni/779/OrkGZ">Radoni</a>
+
+  <a href="../cite/Raedbrectus/720/OrkGZ">Raedbrectus</a>
+
+  <a href="../cite/Redualdo/720/OrkGZ">Redualdo</a>
+
+  <a href="../cite/Reghenlend/850/OrkGZ">Reghenlend</a>
+
+  <a href="../cite/Reginaldi/800/OrkGZ">Reginaldi</a>
+
+  <a href="../cite/Reginaldus/800/OrkGZ">Reginaldus</a>
+
+  <a href="../cite/Reginbald/855/OrkGZ">Reginbald</a>
+
+  <a href="../cite/Reginbaldi/845/OrkGZ">Reginbaldi</a>
+
+  <a href="../cite/Regingeri/805/OrkGZ">Regingeri</a>
+
+  <a href="../cite/Reginhardi/793/OrkGZ">Reginhardi</a>
+
+  <a href="../cite/Reginhelm/855/OrkGZ">Reginhelm</a>
+
+  <a href="../cite/Reginold/834/OrkGZ">Reginold</a>
+
+  <a href="../cite/Reginoldi/850/OrkGZ">Reginoldi</a>
+
+  <a href="../cite/Reinheri/828/OrkGZ">Reinheri</a>
+
+  <a href="../cite/Remigius/714/OrkGZ">Remigius</a>
+
+  <a href="../cite/Ricbreth/834/OrkGZ">Ricbreth</a>
+
+  <a href="../cite/Richard/850/OrkGZ">Richard</a>
+
+  <a href="../cite/Richardi/882/OrkGZ">Richardi</a>
+
+  <a href="../cite/Richbodo/800/OrkGZ">Richbodo</a>
+
+  <a href="../cite/Richbodonis/793x794/OrkGZ">Richbodonis</a>
+
+  <a href="../cite/Richelem/850/OrkGZ">Richelem</a>
+
+  <a href="../cite/Richlint/793x794/OrkGZ">Richlint</a>
+
+  <a href="../cite/Rodgario/838/OrkGZ">Rodgario</a>
+
+  <a href="../cite/Rodhard/834/OrkGZ">Rodhard</a>
+
+  <a href="../cite/Rodolfi/850/OrkGZ">Rodolfi</a>
+
+  <a href="../cite/Rotberti/828/OrkGZ">Rotberti</a>
+
+  <a href="../cite/Rotgarius/838/OrkGZ">Rotgarius</a>
+
+  <a href="../cite/Rothardi/828/OrkGZ">Rothardi</a>
+
+  <a href="../cite/Ruthardo/800/OrkGZ">Ruthardo</a>
+
+  <a href="../cite/Sahsger/855/OrkGZ">Sahsger</a>
+
+  <a href="../cite/Saleconis/726/OrkGZ">Saleconis</a>
+
+  <a href="../cite/Samuele/854/OrkGZ">Samuele</a>
+
+  <a href="../cite/Sigeberti/828/OrkGZ">Sigeberti</a>
+
+  <a href="../cite/Sigehard/850/OrkGZ">Sigehard</a>
+
+  <a href="../cite/Siger/834/OrkGZ">Siger</a>
+
+  <a href="../cite/Sigeric/834/OrkGZ">Sigeric</a>
+
+  <a href="../cite/Sigibaldi/845/OrkGZ">Sigibaldi</a>
+
+  <a href="../cite/Sigiberti/838/OrkGZ">Sigiberti</a>
+
+  <a href="../cite/Thathumeri/799/OrkGZ">Thathumeri</a>
+
+  <a href="../cite/Theatradi/845/OrkGZ">Theatradi</a>
+
+  <a href="../cite/Theodelindae/720/OrkGZ">Theodelindae</a>
+
+  <a href="../cite/Theodericus/673x691/OrkGZ">Theodericus</a>
+
+  <a href="../cite/Theodgarium/838/OrkGZ">Theodgarium</a>
+
+  <a href="../cite/Theodlinda/799/OrkGZ">Theodlinda</a>
+
+  <a href="../cite/Theodorici/720/OrkGZ">Theodorici</a>
+
+  <a href="../cite/Theodorico/726/OrkGZ">Theodorico</a>
+
+  <a href="../cite/Thiadmar/855/OrkGZ">Thiadmar</a>
+
+  <a href="../cite/Thiadrad/855/OrkGZ">Thiadrad</a>
+
+  <a href="../cite/Thiadulfi/793/OrkGZ">Thiadulfi</a>
+
+  <a href="../cite/Thiatbaldi/805/OrkGZ">Thiatbaldi</a>
+
+  <a href="../cite/Thiatbaldi/846/OrkGZ">Thiatbaldi</a>
+
+  <a href="../cite/Thiatbaldus/799/OrkGZ">Thiatbaldus</a>
+
+  <a href="../cite/Thiatbaldus/805/OrkGZ">Thiatbaldus</a>
+
+  <a href="../cite/Thiatbaldus/800/OrkGZ">Thiatbaldus</a>
+
+  <a href="../cite/Thiatbaldus/801/OrkGZ">Thiatbaldus</a>
+
+  <a href="../cite/Thiatbaldus/806/OrkGZ">Thiatbaldus</a>
+
+  <a href="../cite/Thiatbaldus/796/OrkGZ">Thiatbaldus</a>
+
+  <a href="../cite/Thiatger/855/OrkGZ">Thiatger</a>
+
+  <a href="../cite/Thiathardus/846/OrkGZ">Thiathardus</a>
+
+  <a href="../cite/Thiathardus/845/OrkGZ">Thiathardus</a>
+
+  <a href="../cite/Thiatric/855/OrkGZ">Thiatric</a>
+
+  <a href="../cite/Thiodbold/855/OrkGZ">Thiodbold</a>
+
+  <a href="../cite/Thitbald/834/OrkGZ">Thitbald</a>
+
+  <a href="../cite/Tieto/860/OrkGZ">Tieto</a>
+
+  <a href="../cite/Uddo/834/OrkGZ">Uddo</a>
+
+  <a href="../cite/Ulfbald/828/OrkGZ">Ulfbald</a>
+
+  <a href="../cite/Virgilius/709/OrkGZ">Virgilius</a>
+
+  <a href="../cite/Vulfgrim/855/OrkGZ">Vulfgrim</a>
+
+  <a href="../cite/Vulfhelm/855/OrkGZ">Vulfhelm</a>
+
+  <a href="../cite/Vulfi/846/OrkGZ">Vulfi</a>
+
+  <a href="../cite/Vulfrici/793/OrkGZ">Vulfrici</a>
+
+  <a href="../cite/Vulfrici/796/OrkGZ">Vulfrici</a>
+
+  <a href="../cite/Walarici/882/OrkGZ">Walarici</a>
+
+  <a href="../cite/Walda/802/OrkGZ">Walda</a>
+
+  <a href="../cite/Waldbertus/834/OrkGZ">Waldbertus</a>
+
+  <a href="../cite/Waldo/814x815/OrkGZ">Waldo</a>
+
+  <a href="../cite/Walonis/828/OrkGZ">Walonis</a>
+
+  <a href="../cite/Walthere/863/OrkGZ">Walthere</a>
+
+  <a href="../cite/Waltheri/793x794/OrkGZ">Waltheri</a>
+
+  <a href="../cite/Walthrabhan/855/OrkGZ">Walthrabhan</a>
+
+  <a href="../cite/Warmundi/828/OrkGZ">Warmundi</a>
+
+  <a href="../cite/Wendilbaldi/793/OrkGZ">Wendilbaldi</a>
+
+  <a href="../cite/Wendilberti/828/OrkGZ">Wendilberti</a>
+
+  <a href="../cite/Werbert/802/OrkGZ">Werbert</a>
+
+  <a href="../cite/Werenbold/828/OrkGZ">Werenbold</a>
+
+  <a href="../cite/Werenburgh/850/OrkGZ">Werenburgh</a>
+
+  <a href="../cite/Werenhild/828/OrkGZ">Werenhild</a>
+
+  <a href="../cite/Werinbaldum/838/OrkGZ">Werinbaldum</a>
+
+  <a href="../cite/Werinberti/800/OrkGZ">Werinberti</a>
+
+  <a href="../cite/Weringer/855/OrkGZ">Weringer</a>
+
+  <a href="../cite/Weringeri/796/OrkGZ">Weringeri</a>
+
+  <a href="../cite/Werinhardi/800/OrkGZ">Werinhardi</a>
+
+  <a href="../cite/Werinherdi/828/OrkGZ">Werinherdi</a>
+
+  <a href="../cite/Wibaldi/801/OrkGZ">Wibaldi</a>
+
+  <a href="../cite/Wido/814x815/OrkGZ">Wido</a>
+
+  <a href="../cite/Wigbaldi/796/OrkGZ">Wigbaldi</a>
+
+  <a href="../cite/Wigbaldi/793/OrkGZ">Wigbaldi</a>
+
+  <a href="../cite/Wigbaldus/814x815/OrkGZ">Wigbaldus</a>
+
+  <a href="../cite/Wiger/855/OrkGZ">Wiger</a>
+
+  <a href="../cite/Wiggerus/777/OrkGZ">Wiggerus</a>
+
+  <a href="../cite/Wigibaldi/711/OrkGZ">Wigibaldi</a>
+
+  <a href="../cite/Wigrad/850/OrkGZ">Wigrad</a>
+
+  <a href="../cite/Wilbald/834/OrkGZ">Wilbald</a>
+
+  <a href="../cite/Wilbaldi/805/OrkGZ">Wilbaldi</a>
+
+  <a href="../cite/Wilbaldi/806/OrkGZ">Wilbaldi</a>
+
+  <a href="../cite/Wilbaldi/796/OrkGZ">Wilbaldi</a>
+
+  <a href="../cite/Wildradi/838/OrkGZ">Wildradi</a>
+
+  <a href="../cite/Willibaldi/838/OrkGZ">Willibaldi</a>
+
+  <a href="../cite/Wolf/845/OrkGZ">Wolf</a>
+
+  <a href="../cite/Wolfhart/814x815/OrkGZ">Wolfhart</a>
+
+  <a href="../cite/Wolfhramni/845/OrkGZ">Wolfhramni</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

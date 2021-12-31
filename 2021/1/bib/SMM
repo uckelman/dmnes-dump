@@ -1,0 +1,508 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>SMM</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>SMM</dt>
+  <dd>P. Basilius Schwitzer, editor. <em>Urbare der Stifte Marienberg und Münster, Peters von Liebenberg-Hohenwart un Hansens von Annenberg, der Pfarrkirchen von Meran und Sarnthein</em>, volume III. Innsbruck: Wagner'schen Universitaets-Buchhandlung, 1891.</dd>
+</dl>
+
+
+  <a href="../cite/Adam/1322/SMM">Adam</a>
+
+  <a href="../cite/Adelhaidis/1394/SMM">Adelhaidis</a>
+
+  <a href="../cite/Agnes/1394/SMM">Agnes</a>
+
+  <a href="../cite/Agnetis/1394/SMM">Agnetis</a>
+
+  <a href="../cite/Albertalle/1322/SMM">Albertalle</a>
+
+  <a href="../cite/Albertallus/1322/SMM">Albertallus</a>
+
+  <a href="../cite/Alberti/1394/SMM">Alberti</a>
+
+  <a href="../cite/Albertus/1394/SMM">Albertus</a>
+
+  <a href="../cite/Albertus/1322/SMM">Albertus</a>
+
+  <a href="../cite/Alexii/1394/SMM">Alexii</a>
+
+  <a href="../cite/Andreas/1322/SMM">Andreas</a>
+
+  <a href="../cite/Andree/1394/SMM">Andree</a>
+
+  <a href="../cite/Andree/1322/SMM">Andree</a>
+
+  <a href="../cite/Angelice/1394/SMM">Angelice</a>
+
+  <a href="../cite/Anne/1394/SMM">Anne</a>
+
+  <a href="../cite/Anshalmus/1322/SMM">Anshalmus</a>
+
+  <a href="../cite/Anthonii/1394/SMM">Anthonii</a>
+
+  <a href="../cite/Anthonius/1341/SMM">Anthonius</a>
+
+  <a href="../cite/Arandi/1341/SMM">Arandi</a>
+
+  <a href="../cite/Arandus/1341/SMM">Arandus</a>
+
+  <a href="../cite/Arnoldini/1322/SMM">Arnoldini</a>
+
+  <a href="../cite/Arnoldus/1367/SMM">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1322/SMM">Arnoldus</a>
+
+  <a href="../cite/Awardi/1394/SMM">Awardi</a>
+
+  <a href="../cite/Bartholomei/1394/SMM">Bartholomei</a>
+
+  <a href="../cite/Bartholomeus/1322/SMM">Bartholomeus</a>
+
+  <a href="../cite/Bartholomeus/1394/SMM">Bartholomeus</a>
+
+  <a href="../cite/Benedicti/1394/SMM">Benedicti</a>
+
+  <a href="../cite/Benedictus/1394/SMM">Benedictus</a>
+
+  <a href="../cite/Berchtoldus/1322/SMM">Berchtoldus</a>
+
+  <a href="../cite/Berhte/1322/SMM">Berhte</a>
+
+  <a href="../cite/Berhtoldi/1394/SMM">Berhtoldi</a>
+
+  <a href="../cite/Beronis/1322/SMM">Beronis</a>
+
+  <a href="../cite/Bertoldi/1394/SMM">Bertoldi</a>
+
+  <a href="../cite/Bertoldus/1367/SMM">Bertoldus</a>
+
+  <a href="../cite/Bertrammi/1394/SMM">Bertrammi</a>
+
+  <a href="../cite/Bertrandi/1341/SMM">Bertrandi</a>
+
+  <a href="../cite/Bertrandum/1341/SMM">Bertrandum</a>
+
+  <a href="../cite/Bertrandus/1341/SMM">Bertrandus</a>
+
+  <a href="../cite/Bethe/1394/SMM">Bethe</a>
+
+  <a href="../cite/Bethline/1394/SMM">Bethline</a>
+
+  <a href="../cite/Bettline/1394/SMM">Bettline</a>
+
+  <a href="../cite/Blasia/1394/SMM">Blasia</a>
+
+  <a href="../cite/Burchardi/1394/SMM">Burchardi</a>
+
+  <a href="../cite/Burkardi/1394/SMM">Burkardi</a>
+
+  <a href="../cite/Caspar/1394/SMM">Caspar</a>
+
+  <a href="../cite/Caspari/1367/SMM">Caspari</a>
+
+  <a href="../cite/Chrispani/1394/SMM">Chrispani</a>
+
+  <a href="../cite/Christani/1394/SMM">Christani</a>
+
+  <a href="../cite/Christanus/1394/SMM">Christanus</a>
+
+  <a href="../cite/Christofori/1394/SMM">Christofori</a>
+
+  <a href="../cite/Christoforus/1394/SMM">Christoforus</a>
+
+  <a href="../cite/Chuͦnczo/1394/SMM">Chuͦnczo</a>
+
+  <a href="../cite/Chuͦnczonis/1394/SMM">Chuͦnczonis</a>
+
+  <a href="../cite/Chuͦno/1322/SMM">Chuͦno</a>
+
+  <a href="../cite/Chuͦno/1394/SMM">Chuͦno</a>
+
+  <a href="../cite/Chuͦnonis/1394/SMM">Chuͦnonis</a>
+
+  <a href="../cite/Chuͦnradetti/1394/SMM">Chuͦnradetti</a>
+
+  <a href="../cite/Chuͦnradi/1394/SMM">Chuͦnradi</a>
+
+  <a href="../cite/Chunradus/1367/SMM">Chunradus</a>
+
+  <a href="../cite/Chuͦnratschöla/1394/SMM">Chuͦnratschöla</a>
+
+  <a href="../cite/Claülini/1394/SMM">Claülini</a>
+
+  <a href="../cite/Cristel/1367/SMM">Cristel</a>
+
+  <a href="../cite/Cuͦnoni/1322/SMM">Cuͦnoni</a>
+
+  <a href="../cite/Cuͦnradi/1341/SMM">Cuͦnradi</a>
+
+  <a href="../cite/Cuͦnradi/1322/SMM">Cuͦnradi</a>
+
+  <a href="../cite/Cuͦnradus/1341/SMM">Cuͦnradus</a>
+
+  <a href="../cite/Cuͦnradus/1322/SMM">Cuͦnradus</a>
+
+  <a href="../cite/Cuͦnzelinus/1322/SMM">Cuͦnzelinus</a>
+
+  <a href="../cite/Cyprianus/1394/SMM">Cyprianus</a>
+
+  <a href="../cite/Danielis/1394/SMM">Danielis</a>
+
+  <a href="../cite/Dietmari/1322/SMM">Dietmari</a>
+
+  <a href="../cite/Dominici/1394/SMM">Dominici</a>
+
+  <a href="../cite/Dominicus/1367/SMM">Dominicus</a>
+
+  <a href="../cite/Egeno/1322/SMM">Egeno</a>
+
+  <a href="../cite/Egenonis/1322/SMM">Egenonis</a>
+
+  <a href="../cite/Egno/1394/SMM">Egno</a>
+
+  <a href="../cite/Egnonis/1394/SMM">Egnonis</a>
+
+  <a href="../cite/Elisabet/1322/SMM">Elisabet</a>
+
+  <a href="../cite/Francisci/1394/SMM">Francisci</a>
+
+  <a href="../cite/Friczonis/1394/SMM">Friczonis</a>
+
+  <a href="../cite/Friderici/1322/SMM">Friderici</a>
+
+  <a href="../cite/Friderici/1394/SMM">Friderici</a>
+
+  <a href="../cite/Friderici/1341/SMM">Friderici</a>
+
+  <a href="../cite/Fridericus/1322/SMM">Fridericus</a>
+
+  <a href="../cite/Gabrielis/1394/SMM">Gabrielis</a>
+
+  <a href="../cite/Gebhardi/1394/SMM">Gebhardi</a>
+
+  <a href="../cite/Gregorii/1394/SMM">Gregorii</a>
+
+  <a href="../cite/Gregorius/1394/SMM">Gregorius</a>
+
+  <a href="../cite/Gyrardi/1394/SMM">Gyrardi</a>
+
+  <a href="../cite/Hainczonis/1394/SMM">Hainczonis</a>
+
+  <a href="../cite/Hainrici/1322/SMM">Hainrici</a>
+
+  <a href="../cite/Hainrici/1394/SMM">Hainrici</a>
+
+  <a href="../cite/Hainrico/1341/SMM">Hainrico</a>
+
+  <a href="../cite/Hainricus/1322/SMM">Hainricus</a>
+
+  <a href="../cite/Hainricus/1394/SMM">Hainricus</a>
+
+  <a href="../cite/Hänslin/1394/SMM">Hänslin</a>
+
+  <a href="../cite/Härtwini/1394/SMM">Härtwini</a>
+
+  <a href="../cite/Harwardus/1322/SMM">Harwardus</a>
+
+  <a href="../cite/Heinrici/1341/SMM">Heinrici</a>
+
+  <a href="../cite/Hermanni/1322/SMM">Hermanni</a>
+
+  <a href="../cite/Hermannus/1322/SMM">Hermannus</a>
+
+  <a href="../cite/Jaͤclini/1394/SMM">Jaͤclini</a>
+
+  <a href="../cite/Jacobi/1394/SMM">Jacobi</a>
+
+  <a href="../cite/Jacobus/1322/SMM">Jacobus</a>
+
+  <a href="../cite/Jacobus/1394/SMM">Jacobus</a>
+
+  <a href="../cite/Janneti/1394/SMM">Janneti</a>
+
+  <a href="../cite/Jännlini/1394/SMM">Jännlini</a>
+
+  <a href="../cite/Jannuti/1394/SMM">Jannuti</a>
+
+  <a href="../cite/Johanne/1394/SMM">Johanne</a>
+
+  <a href="../cite/Johannes/1322/SMM">Johannes</a>
+
+  <a href="../cite/Johannes/1341/SMM">Johannes</a>
+
+  <a href="../cite/Johannes/1367/SMM">Johannes</a>
+
+  <a href="../cite/Johannes/1394/SMM">Johannes</a>
+
+  <a href="../cite/Johanni/1394/SMM">Johanni</a>
+
+  <a href="../cite/Johannis/1322/SMM">Johannis</a>
+
+  <a href="../cite/Johannis/1394/SMM">Johannis</a>
+
+  <a href="../cite/Jordani/1394/SMM">Jordani</a>
+
+  <a href="../cite/Judoci/1394/SMM">Judoci</a>
+
+  <a href="../cite/Judocus/1394/SMM">Judocus</a>
+
+  <a href="../cite/Kaspar/1394/SMM">Kaspar</a>
+
+  <a href="../cite/Katherina/1322/SMM">Katherina</a>
+
+  <a href="../cite/Katherina/1367/SMM">Katherina</a>
+
+  <a href="../cite/Katherine/1394/SMM">Katherine</a>
+
+  <a href="../cite/Lantfredi/1394/SMM">Lantfredi</a>
+
+  <a href="../cite/Laurencii/1394/SMM">Laurencii</a>
+
+  <a href="../cite/Laurencii/1367/SMM">Laurencii</a>
+
+  <a href="../cite/Lucia/1394/SMM">Lucia</a>
+
+  <a href="../cite/Ludwicus/1367/SMM">Ludwicus</a>
+
+  <a href="../cite/Lutfridi/1322/SMM">Lutfridi</a>
+
+  <a href="../cite/Mahthildis/1322/SMM">Mahthildis</a>
+
+  <a href="../cite/Mahthildis/1394/SMM">Mahthildis</a>
+
+  <a href="../cite/Malicia/1322/SMM">Malicia</a>
+
+  <a href="../cite/Marci/1394/SMM">Marci</a>
+
+  <a href="../cite/Margarethe/1394/SMM">Margarethe</a>
+
+  <a href="../cite/Marquardi/1322/SMM">Marquardi</a>
+
+  <a href="../cite/Marquardus/1341/SMM">Marquardus</a>
+
+  <a href="../cite/Martini/1394/SMM">Martini</a>
+
+  <a href="../cite/Martinus/1322/SMM">Martinus</a>
+
+  <a href="../cite/Martinütschi/1394/SMM">Martinütschi</a>
+
+  <a href="../cite/Materia/1367/SMM">Materia</a>
+
+  <a href="../cite/Mathei/1394/SMM">Mathei</a>
+
+  <a href="../cite/Mathie/1394/SMM">Mathie</a>
+
+  <a href="../cite/Mathye/1394/SMM">Mathye</a>
+
+  <a href="../cite/Matusche/1322/SMM">Matusche</a>
+
+  <a href="../cite/Michael/1341/SMM">Michael</a>
+
+  <a href="../cite/Michaelem/1341/SMM">Michaelem</a>
+
+  <a href="../cite/Michaelis/1341/SMM">Michaelis</a>
+
+  <a href="../cite/Michahel/1322/SMM">Michahel</a>
+
+  <a href="../cite/Michahel/1367/SMM">Michahel</a>
+
+  <a href="../cite/Michahel/1394/SMM">Michahel</a>
+
+  <a href="../cite/Michahelez/1322/SMM">Michahelez</a>
+
+  <a href="../cite/Michahelis/1322/SMM">Michahelis</a>
+
+  <a href="../cite/Michahelis/1394/SMM">Michahelis</a>
+
+  <a href="../cite/Michel/1322/SMM">Michel</a>
+
+  <a href="../cite/Minige/1394/SMM">Minige</a>
+
+  <a href="../cite/Minigo/1394/SMM">Minigo</a>
+
+  <a href="../cite/Minigo/1367/SMM">Minigo</a>
+
+  <a href="../cite/Minigonis/1394/SMM">Minigonis</a>
+
+  <a href="../cite/Minigus/1322/SMM">Minigus</a>
+
+  <a href="../cite/Nesa/1367/SMM">Nesa</a>
+
+  <a href="../cite/Nesa/1394/SMM">Nesa</a>
+
+  <a href="../cite/Nicolai/1394/SMM">Nicolai</a>
+
+  <a href="../cite/Nicolaus/1394/SMM">Nicolaus</a>
+
+  <a href="../cite/Nycolai/1322/SMM">Nycolai</a>
+
+  <a href="../cite/Nycolai/1341/SMM">Nycolai</a>
+
+  <a href="../cite/Nycolaum/1341/SMM">Nycolaum</a>
+
+  <a href="../cite/Nycolaus/1322/SMM">Nycolaus</a>
+
+  <a href="../cite/Nycolaus/1341/SMM">Nycolaus</a>
+
+  <a href="../cite/Ottonis/1394/SMM">Ottonis</a>
+
+  <a href="../cite/Ottonis/1367/SMM">Ottonis</a>
+
+  <a href="../cite/Pältlinus/1367/SMM">Pältlinus</a>
+
+  <a href="../cite/Pascual/1394/SMM">Pascual</a>
+
+  <a href="../cite/Pauli/1394/SMM">Pauli</a>
+
+  <a href="../cite/Paulus/1322/SMM">Paulus</a>
+
+  <a href="../cite/Pero/1341/SMM">Pero</a>
+
+  <a href="../cite/Petri/1394/SMM">Petri</a>
+
+  <a href="../cite/Petrise/1394/SMM">Petrise</a>
+
+  <a href="../cite/Petrus/1322/SMM">Petrus</a>
+
+  <a href="../cite/Petrus/1394/SMM">Petrus</a>
+
+  <a href="../cite/Petrus/1367/SMM">Petrus</a>
+
+  <a href="../cite/Prunallus/1322/SMM">Prunallus</a>
+
+  <a href="../cite/Pruno/1322/SMM">Pruno</a>
+
+  <a href="../cite/Pultonis/1394/SMM">Pultonis</a>
+
+  <a href="../cite/Purchardi/1394/SMM">Purchardi</a>
+
+  <a href="../cite/Raphaelis/1394/SMM">Raphaelis</a>
+
+  <a href="../cite/Romanus/1322/SMM">Romanus</a>
+
+  <a href="../cite/Rüdlini/1394/SMM">Rüdlini</a>
+
+  <a href="../cite/Ruͦdolfi/1322/SMM">Ruͦdolfi</a>
+
+  <a href="../cite/Ruͦdolfus/1394/SMM">Ruͦdolfus</a>
+
+  <a href="../cite/Ruͦdolfus/1322/SMM">Ruͦdolfus</a>
+
+  <a href="../cite/Sigfridi/1394/SMM">Sigfridi</a>
+
+  <a href="../cite/Symonis/1394/SMM">Symonis</a>
+
+  <a href="../cite/Thomas/1394/SMM">Thomas</a>
+
+  <a href="../cite/Thomas/1367/SMM">Thomas</a>
+
+  <a href="../cite/Thomasii/1394/SMM">Thomasii</a>
+
+  <a href="../cite/Thome/1394/SMM">Thome</a>
+
+  <a href="../cite/Trauta/1367/SMM">Trauta</a>
+
+  <a href="../cite/Trautina/1367/SMM">Trautina</a>
+
+  <a href="../cite/Trawte/1394/SMM">Trawte</a>
+
+  <a href="../cite/Truta/1322/SMM">Truta</a>
+
+  <a href="../cite/Ulrici/1394/SMM">Ulrici</a>
+
+  <a href="../cite/Ulrico/1341/SMM">Ulrico</a>
+
+  <a href="../cite/Ulricum/1394/SMM">Ulricum</a>
+
+  <a href="../cite/Ulricum/1341/SMM">Ulricum</a>
+
+  <a href="../cite/Ulricus/1367/SMM">Ulricus</a>
+
+  <a href="../cite/Ulricus/1394/SMM">Ulricus</a>
+
+  <a href="../cite/Valentini/1394/SMM">Valentini</a>
+
+  <a href="../cite/Valentinus/1394/SMM">Valentinus</a>
+
+  <a href="../cite/Victoris/1394/SMM">Victoris</a>
+
+  <a href="../cite/Vigilii/1394/SMM">Vigilii</a>
+
+  <a href="../cite/Vigilius/1322/SMM">Vigilius</a>
+
+  <a href="../cite/V̈llini/1367/SMM">V̈llini</a>
+
+  <a href="../cite/Waltheri/1394/SMM">Waltheri</a>
+
+  <a href="../cite/Waltheri/1322/SMM">Waltheri</a>
+
+  <a href="../cite/Weinmar/1394/SMM">Weinmar</a>
+
+  <a href="../cite/Weinmari/1394/SMM">Weinmari</a>
+
+  <a href="../cite/Wernherus/1322/SMM">Wernherus</a>
+
+  <a href="../cite/Wilhalmi/1394/SMM">Wilhalmi</a>
+
+  <a href="../cite/Wolfhardus/1322/SMM">Wolfhardus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

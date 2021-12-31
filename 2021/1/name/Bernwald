@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Bernwald</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Bernwald</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span>, <span class="lang">Old Saxon</span> <i>bero</i> 'bear' + <span class="lang">Old Saxon</span> <i>wald</i>, <span class="lang">Old High German</span> <i>walt</i> 'power, authority'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an 11th C Dutch saint.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Beraldus</span> (<span class="case">nom</span>) <a href="../cite/Beraldus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">50, Ved</span></a>,
+ <span class="name">Bernoldus</span> (<span class="case">nom</span>) <a href="../cite/Bernoldus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">94, Ved</span></a>,
+ <span class="name">Beroldus</span> (<span class="case">nom</span>) <a href="../cite/Beroldus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">36, Palatiolum</span></a>;
+ <span class="date">937x993</span> <span class="name">Beraldi</span> (<span class="case">gen</span>) <a href="../cite/Beraldi/937x993/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">1</span></a>;
+ <span class="date">c996</span> <span class="name">Berolt</span> (<span class="case">nom</span>) <a href="../cite/Berolt/c996/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1030</span> <span class="name">Beraldus</span> (<span class="case">nom</span>) <a href="../cite/Beraldus/1030/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">712</span></a>;
+ <span class="date">c1030</span> <span class="name">Beraldus</span> (<span class="case">nom</span>) <a href="../cite/Beraldus/c1030/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">714</span></a>;
+ <span class="date">c1035</span> <span class="name">Beraldus</span> (<span class="case">nom</span>) <a href="../cite/Beraldus/c1035/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">718</span></a>;
+ <span class="date">c1040</span> <span class="name">Beraldus</span> (<span class="case">nom</span>) <a href="../cite/Beraldus/c1040/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">723</span></a>;
+ <span class="date">1054</span> <span class="name">Beraldus</span> (<span class="case">nom</span>) <a href="../cite/Beraldus/1054/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">693</span></a>;
+ <span class="date">1058</span> <span class="name">Barnaldus</span> (<span class="case">nom</span>) <a href="../cite/Barnaldus/1058/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">694</span></a>;
+ <span class="date">1064x1079</span> <span class="name">Beraldus</span> (<span class="case">nom</span>) <a href="../cite/Beraldus/1064x1079/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">716</span></a>;
+ <span class="date">1131</span> <span class="name">Beraudo</span> (<span class="case">abl</span>) <a href="../cite/Beraudo/1131/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXII</span></a>;
+ <span class="date">1147</span> <span class="name">Beroldi</span> (<span class="case">gen</span>) <a href="../cite/Beroldi/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1274</span> <span class="name">Bernaudus</span> (<span class="case">nom</span>) <a href="../cite/Bernaudus/1274/RHF-VIII"><span class="bib_key">RHF-VIII</span> <span class="bib_loc">p. 58</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Beronald</span> <a href="../cite/Beronald/1572/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 491</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1145</span> <span class="name">Pernoldus</span> (<span class="case">nom</span>) <a href="../cite/Pernoldus/1145/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1147</span> <span class="name">Pernoldi</span> (<span class="case">gen</span>) <a href="../cite/Pernoldi/1147/mairhofer"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII</span></a>;
+ <span class="date">1238</span> <span class="name">Baroldus</span> (<span class="case">nom</span>) <a href="../cite/Baroldus/1238/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XXI</span></a>;
+ <span class="date">1240</span> <span class="name">Baroldus</span> (<span class="case">nom</span>) <a href="../cite/Baroldus/1240/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. XXVI</span></a>;
+ <span class="date">1315</span> <span class="name">Barolt</span> (<span class="case">nom</span>) <a href="../cite/Barolt/1315/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">39</span></a>;
+ <span class="date">1332</span> <span class="name">Baroldus</span> (<span class="case">nom</span>) <a href="../cite/Baroldus/1332/UrkMeck-8"><span class="bib_key">UrkMeck-8</span> <span class="bib_loc">5370</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1287</span> <span class="name">Bernoldus</span> (<span class="case">nom</span>) <a href="../cite/Bernoldus/1287/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">125</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">834</span> <span class="name">Bernold</span> (<span class="case">nom</span>) <a href="../cite/Bernold/834/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 30</span></a>,
+ <span class="name">Bernoldus</span> (<span class="case">nom</span>) <a href="../cite/Bernoldus/834/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 30</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1235</span> <span class="name">Beroldus</span> (<span class="case">nom</span>) <a href="../cite/Beroldus/1235/CLC"><span class="bib_key">CLC</span> <span class="bib_loc">p. 46</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Bernwald". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Bernwald.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

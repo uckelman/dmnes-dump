@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Supplice</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Supplice</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A derivative of <span class="lang">Latin</span> <i>supplex</i> 'supplicant'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Soupplice</span> <a href="../cite/Soupplice/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 33</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Soupplicet</span> <a href="../cite/Soupplicet/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 152</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1565</span> <span class="name">Suplys</span> <a href="../cite/Suplys/1565/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 120</span></a>;
+ <span class="date">1566</span> <span class="name">Supplis</span> <a href="../cite/Supplis/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 196</span></a>,
+ <span class="name">Supplys</span> <a href="../cite/Supplys/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 215</span></a>;
+ <span class="date">1568</span> <span class="name">Supplix</span> <a href="../cite/Supplix/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 404</span></a>;
+ <span class="date">1570</span> <span class="name">Supplix</span> <a href="../cite/Supplix/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 425</span></a>;
+ <span class="date">1571</span> <span class="name">Supplys</span> <a href="../cite/Supplys/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 477</span></a>;
+ <span class="date">1572</span> <span class="name">Suplys</span> <a href="../cite/Suplys/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 505</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Supplice". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Supplice.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

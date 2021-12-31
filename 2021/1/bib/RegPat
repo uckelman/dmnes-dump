@@ -1,0 +1,938 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>RegPat</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>RegPat</dt>
+  <dd>Rev. Henry Edward Maddock, editor. <em>The Registers of Patrington, Co. York. 1570-1731</em>, volume VI of <em>The Publications of the Yorkshire Parish Register Society</em>. Privately Printed for the Yorkshire Parish Register Society, 1900.</dd>
+</dl>
+
+
+  <a href="../cite/Agnes/1590/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1580s1/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1596/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1595/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1570s1/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1584/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1593/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1575s6/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1578s9/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1582s3/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1577/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1571/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1592/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1594/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1571s2/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1579/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1591/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1589/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1582/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1586/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1583/RegPat">Agnes</a>
+
+  <a href="../cite/Agnes/1581s2/RegPat">Agnes</a>
+
+  <a href="../cite/Alice/1584/RegPat">Alice</a>
+
+  <a href="../cite/Alice/1570/RegPat">Alice</a>
+
+  <a href="../cite/Alice/1585/RegPat">Alice</a>
+
+  <a href="../cite/Alice/1581/RegPat">Alice</a>
+
+  <a href="../cite/Alice/1584s5/RegPat">Alice</a>
+
+  <a href="../cite/Ambros/1571/RegPat">Ambros</a>
+
+  <a href="../cite/Ambros/1570/RegPat">Ambros</a>
+
+  <a href="../cite/Ambros/1574/RegPat">Ambros</a>
+
+  <a href="../cite/Ambros/1573/RegPat">Ambros</a>
+
+  <a href="../cite/Ambros/1582s3/RegPat">Ambros</a>
+
+  <a href="../cite/Ambros/1588s9/RegPat">Ambros</a>
+
+  <a href="../cite/Ambross/1580/RegPat">Ambross</a>
+
+  <a href="../cite/Andrei/1570s1/RegPat">Andrei</a>
+
+  <a href="../cite/Annas/1581/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1592s3/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1574/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1577/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1590/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1571/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1572/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1580/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1598s9/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1580s1/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1587s8/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1571s2/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1579s80/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1587/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1578/RegPat">Annas</a>
+
+  <a href="../cite/Annas/1576/RegPat">Annas</a>
+
+  <a href="../cite/Anne/1570/RegPat">Anne</a>
+
+  <a href="../cite/Annes/1587s8/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1582/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1585s6/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1587/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1581/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1582s3/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1586/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1584/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1594/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1583/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1593/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1589s90/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1591s2/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1585/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1588s9/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1597/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1589/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1583s4/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1592/RegPat">Annes</a>
+
+  <a href="../cite/Annes/1586s7/RegPat">Annes</a>
+
+  <a href="../cite/Annis/1587s8/RegPat">Annis</a>
+
+  <a href="../cite/Annis/1588/RegPat">Annis</a>
+
+  <a href="../cite/Annis/1587/RegPat">Annis</a>
+
+  <a href="../cite/Annis/1589/RegPat">Annis</a>
+
+  <a href="../cite/Anthonye/1577/RegPat">Anthonye</a>
+
+  <a href="../cite/Anthonye/1594/RegPat">Anthonye</a>
+
+  <a href="../cite/Anthonye/1572/RegPat">Anthonye</a>
+
+  <a href="../cite/Barbara/1598/RegPat">Barbara</a>
+
+  <a href="../cite/Barbara/1591/RegPat">Barbara</a>
+
+  <a href="../cite/Barbara/1592s3/RegPat">Barbara</a>
+
+  <a href="../cite/Barbara/1592/RegPat">Barbara</a>
+
+  <a href="../cite/Barbara/1597s8/RegPat">Barbara</a>
+
+  <a href="../cite/Barbara/1583/RegPat">Barbara</a>
+
+  <a href="../cite/Barbara/1594/RegPat">Barbara</a>
+
+  <a href="../cite/Barbara/1599/RegPat">Barbara</a>
+
+  <a href="../cite/Barbara/1591s2/RegPat">Barbara</a>
+
+  <a href="../cite/Barbarai/1597/RegPat">Barbarai</a>
+
+  <a href="../cite/Barbarai/1591/RegPat">Barbarai</a>
+
+  <a href="../cite/Barbarai/1598/RegPat">Barbarai</a>
+
+  <a href="../cite/Barbarai/1590/RegPat">Barbarai</a>
+
+  <a href="../cite/Barbaray/1582/RegPat">Barbaray</a>
+
+  <a href="../cite/Barbaray/1592/RegPat">Barbaray</a>
+
+  <a href="../cite/Barbary/1593/RegPat">Barbary</a>
+
+  <a href="../cite/Bartlemew/1588/RegPat">Bartlemew</a>
+
+  <a href="../cite/Bartlemue/1572/RegPat">Bartlemue</a>
+
+  <a href="../cite/Bartlemue/1571s2/RegPat">Bartlemue</a>
+
+  <a href="../cite/Bettric/1598s9/RegPat">Bettric</a>
+
+  <a href="../cite/Bettric/1593/RegPat">Bettric</a>
+
+  <a href="../cite/Bettris/1573/RegPat">Bettris</a>
+
+  <a href="../cite/Bettris/1587/RegPat">Bettris</a>
+
+  <a href="../cite/Bettris/1588/RegPat">Bettris</a>
+
+  <a href="../cite/Bettris/1583/RegPat">Bettris</a>
+
+  <a href="../cite/Bettris/1572s3/RegPat">Bettris</a>
+
+  <a href="../cite/Bettris/1595/RegPat">Bettris</a>
+
+  <a href="../cite/Bettris/1593/RegPat">Bettris</a>
+
+  <a href="../cite/Bettris/1570s1/RegPat">Bettris</a>
+
+  <a href="../cite/Bettris/1594/RegPat">Bettris</a>
+
+  <a href="../cite/Bettris/1574/RegPat">Bettris</a>
+
+  <a href="../cite/Bettriss/1572/RegPat">Bettriss</a>
+
+  <a href="../cite/Brian/1589/RegPat">Brian</a>
+
+  <a href="../cite/Briani/1594/RegPat">Briani</a>
+
+  <a href="../cite/Briani/1589/RegPat">Briani</a>
+
+  <a href="../cite/Briani/1592s3/RegPat">Briani</a>
+
+  <a href="../cite/Briani/1598/RegPat">Briani</a>
+
+  <a href="../cite/Briani/1596/RegPat">Briani</a>
+
+  <a href="../cite/Briani/1592/RegPat">Briani</a>
+
+  <a href="../cite/Bridget/1584/RegPat">Bridget</a>
+
+  <a href="../cite/Bridget/1582/RegPat">Bridget</a>
+
+  <a href="../cite/Bryan/1587/RegPat">Bryan</a>
+
+  <a href="../cite/Bryane/1598/RegPat">Bryane</a>
+
+  <a href="../cite/Catheran/1599/RegPat">Catheran</a>
+
+  <a href="../cite/Cicile/1571/RegPat">Cicile</a>
+
+  <a href="../cite/Cicilie/1576s7/RegPat">Cicilie</a>
+
+  <a href="../cite/Cicilie/1597/RegPat">Cicilie</a>
+
+  <a href="../cite/Cicilie/1580/RegPat">Cicilie</a>
+
+  <a href="../cite/Cicilie/1595s6/RegPat">Cicilie</a>
+
+  <a href="../cite/Cornelius/1574/RegPat">Cornelius</a>
+
+  <a href="../cite/Custance/1599/RegPat">Custance</a>
+
+  <a href="../cite/Custance/1589/RegPat">Custance</a>
+
+  <a href="../cite/Cuthbert/1589/RegPat">Cuthbert</a>
+
+  <a href="../cite/Cuthbert/1571/RegPat">Cuthbert</a>
+
+  <a href="../cite/David/1576/RegPat">David</a>
+
+  <a href="../cite/Dorathie/1592/RegPat">Dorathie</a>
+
+  <a href="../cite/Dorathie/1595/RegPat">Dorathie</a>
+
+  <a href="../cite/Dorythie/1578/RegPat">Dorythie</a>
+
+  <a href="../cite/Dynas/1591s2/RegPat">Dynas</a>
+
+  <a href="../cite/Dynes/1586s7/RegPat">Dynes</a>
+
+  <a href="../cite/Dynis/1596/RegPat">Dynis</a>
+
+  <a href="../cite/Edmonde/1574s5/RegPat">Edmonde</a>
+
+  <a href="../cite/Edmund/1570s1/RegPat">Edmund</a>
+
+  <a href="../cite/Effome/1578/RegPat">Effome</a>
+
+  <a href="../cite/Ellen/1582s3/RegPat">Ellen</a>
+
+  <a href="../cite/Ellen/1577/RegPat">Ellen</a>
+
+  <a href="../cite/Ellen/1592s3/RegPat">Ellen</a>
+
+  <a href="../cite/Ellen/1585/RegPat">Ellen</a>
+
+  <a href="../cite/Ellen/1570/RegPat">Ellen</a>
+
+  <a href="../cite/Ellen/1575/RegPat">Ellen</a>
+
+  <a href="../cite/Ellin/1599/RegPat">Ellin</a>
+
+  <a href="../cite/Ellin/1578s9/RegPat">Ellin</a>
+
+  <a href="../cite/Elling/1585/RegPat">Elling</a>
+
+  <a href="../cite/Ellis/1596/RegPat">Ellis</a>
+
+  <a href="../cite/Ellis/1589/RegPat">Ellis</a>
+
+  <a href="../cite/Ellis/1591/RegPat">Ellis</a>
+
+  <a href="../cite/Ellis/1579/RegPat">Ellis</a>
+
+  <a href="../cite/Ellis/1571/RegPat">Ellis</a>
+
+  <a href="../cite/Elliss/1571s2/RegPat">Elliss</a>
+
+  <a href="../cite/Elsabeth/1594/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1580/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1583/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1579/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1598s9/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1587/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1581/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1570/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1572/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1591/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1585/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1593/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1574/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1595s6/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1590/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1573/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1592/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1588/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1577s8/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1571s2/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1582/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1589/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1570s1/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1591s2/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1575/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1588s9/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1584s5/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1576s7/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1598/RegPat">Elsabeth</a>
+
+  <a href="../cite/Elsabeth/1595/RegPat">Elsabeth</a>
+
+  <a href="../cite/Emat/1570s1/RegPat">Emat</a>
+
+  <a href="../cite/Emme/1596/RegPat">Emme</a>
+
+  <a href="../cite/Emme/1598/RegPat">Emme</a>
+
+  <a href="../cite/Emme/1573/RegPat">Emme</a>
+
+  <a href="../cite/Emmot/1589/RegPat">Emmot</a>
+
+  <a href="../cite/Emmot/1587/RegPat">Emmot</a>
+
+  <a href="../cite/Emmote/1591/RegPat">Emmote</a>
+
+  <a href="../cite/Frances/1582/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1593/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1585s6/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1585/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1593s4/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1596/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1573/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1578/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1578s9/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1580/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1598/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1588/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1595/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1577/RegPat">Frances</a>
+
+  <a href="../cite/Frances/1579s80/RegPat">Frances</a>
+
+  <a href="../cite/Francis/1572/RegPat">Francis</a>
+
+  <a href="../cite/Francis/1589/RegPat">Francis</a>
+
+  <a href="../cite/Francis/1593s4/RegPat">Francis</a>
+
+  <a href="../cite/Francis/1575s6/RegPat">Francis</a>
+
+  <a href="../cite/Gabriel/1583/RegPat">Gabriel</a>
+
+  <a href="../cite/Gabrielis/1599/RegPat">Gabrielis</a>
+
+  <a href="../cite/Garrat/1574/RegPat">Garrat</a>
+
+  <a href="../cite/Gennet/1578/RegPat">Gennet</a>
+
+  <a href="../cite/George/1592/RegPat">George</a>
+
+  <a href="../cite/George/1598/RegPat">George</a>
+
+  <a href="../cite/George/1575/RegPat">George</a>
+
+  <a href="../cite/George/1583/RegPat">George</a>
+
+  <a href="../cite/George/1578/RegPat">George</a>
+
+  <a href="../cite/George/1586/RegPat">George</a>
+
+  <a href="../cite/George/1589/RegPat">George</a>
+
+  <a href="../cite/George/1595/RegPat">George</a>
+
+  <a href="../cite/George/1574/RegPat">George</a>
+
+  <a href="../cite/George/1594/RegPat">George</a>
+
+  <a href="../cite/George/1570/RegPat">George</a>
+
+  <a href="../cite/George/1593/RegPat">George</a>
+
+  <a href="../cite/Georgi/1588/RegPat">Georgi</a>
+
+  <a href="../cite/Georgi/1570s1/RegPat">Georgi</a>
+
+  <a href="../cite/Georgi/1589s90/RegPat">Georgi</a>
+
+  <a href="../cite/Georgi/1570/RegPat">Georgi</a>
+
+  <a href="../cite/Georgi/1577s8/RegPat">Georgi</a>
+
+  <a href="../cite/Georgi/1583/RegPat">Georgi</a>
+
+  <a href="../cite/Georgi/1584/RegPat">Georgi</a>
+
+  <a href="../cite/Georgi/1594/RegPat">Georgi</a>
+
+  <a href="../cite/Georgi/1593s4/RegPat">Georgi</a>
+
+  <a href="../cite/Georgi/1585/RegPat">Georgi</a>
+
+  <a href="../cite/Georgi/1591s2/RegPat">Georgi</a>
+
+  <a href="../cite/Georgii/1581/RegPat">Georgii</a>
+
+  <a href="../cite/Georgii/1573/RegPat">Georgii</a>
+
+  <a href="../cite/Georgii/1592/RegPat">Georgii</a>
+
+  <a href="../cite/Georgii/1598s9/RegPat">Georgii</a>
+
+  <a href="../cite/Georgii/1596/RegPat">Georgii</a>
+
+  <a href="../cite/Georgii/1585s6/RegPat">Georgii</a>
+
+  <a href="../cite/Georgii/1597/RegPat">Georgii</a>
+
+  <a href="../cite/Georgii/1580/RegPat">Georgii</a>
+
+  <a href="../cite/Georgii/1583/RegPat">Georgii</a>
+
+  <a href="../cite/Gilian/1590/RegPat">Gilian</a>
+
+  <a href="../cite/Grace/1590/RegPat">Grace</a>
+
+  <a href="../cite/Gregorie/1572/RegPat">Gregorie</a>
+
+  <a href="../cite/Gregorie/1570/RegPat">Gregorie</a>
+
+  <a href="../cite/Gregorie/1593/RegPat">Gregorie</a>
+
+  <a href="../cite/Gregorij/1572/RegPat">Gregorij</a>
+
+  <a href="../cite/Gwalter/1589s90/RegPat">Gwalter</a>
+
+  <a href="../cite/Hellen/1591/RegPat">Hellen</a>
+
+  <a href="../cite/Henrie/1575/RegPat">Henrie</a>
+
+  <a href="../cite/Henrie/1594/RegPat">Henrie</a>
+
+  <a href="../cite/Henrie/1598s9/RegPat">Henrie</a>
+
+  <a href="../cite/Humfray/1585s6/RegPat">Humfray</a>
+
+  <a href="../cite/Humfray/1582/RegPat">Humfray</a>
+
+  <a href="../cite/Humfray/1586/RegPat">Humfray</a>
+
+  <a href="../cite/Humfray/1578/RegPat">Humfray</a>
+
+  <a href="../cite/Humfray/1594/RegPat">Humfray</a>
+
+  <a href="../cite/Humfray/1574/RegPat">Humfray</a>
+
+  <a href="../cite/Isabell/1599/RegPat">Isabell</a>
+
+  <a href="../cite/James/1574/RegPat">James</a>
+
+  <a href="../cite/James/1570s1/RegPat">James</a>
+
+  <a href="../cite/James/1576/RegPat">James</a>
+
+  <a href="../cite/James/1572/RegPat">James</a>
+
+  <a href="../cite/James/1571s2/RegPat">James</a>
+
+  <a href="../cite/Jayne/1589/RegPat">Jayne</a>
+
+  <a href="../cite/Jayne/1592/RegPat">Jayne</a>
+
+  <a href="../cite/Jeams/1599/RegPat">Jeams</a>
+
+  <a href="../cite/Jeane/1580/RegPat">Jeane</a>
+
+  <a href="../cite/Jeane/1585/RegPat">Jeane</a>
+
+  <a href="../cite/Jeane/1582s3/RegPat">Jeane</a>
+
+  <a href="../cite/Jeane/1591/RegPat">Jeane</a>
+
+  <a href="../cite/Jeane/1578/RegPat">Jeane</a>
+
+  <a href="../cite/Jeane/1597s8/RegPat">Jeane</a>
+
+  <a href="../cite/Jeane/1583s4/RegPat">Jeane</a>
+
+  <a href="../cite/Jeane/1576s7/RegPat">Jeane</a>
+
+  <a href="../cite/Jeane/1592s3/RegPat">Jeane</a>
+
+  <a href="../cite/Jeane/1584s5/RegPat">Jeane</a>
+
+  <a href="../cite/Jeane/1584/RegPat">Jeane</a>
+
+  <a href="../cite/Jeane/1592/RegPat">Jeane</a>
+
+  <a href="../cite/Jelian/1587s8/RegPat">Jelian</a>
+
+  <a href="../cite/Jennet/1592s3/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1583/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1582s3/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1596s7/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1589/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1578/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1588/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1586s7/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1595/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1591s2/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1592/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1584s5/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1587/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1585/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1597/RegPat">Jennet</a>
+
+  <a href="../cite/Jennet/1590s1/RegPat">Jennet</a>
+
+  <a href="../cite/Johan/1588/RegPat">Johan</a>
+
+  <a href="../cite/Johan/1585/RegPat">Johan</a>
+
+  <a href="../cite/Johan/1594/RegPat">Johan</a>
+
+  <a href="../cite/Johan/1587/RegPat">Johan</a>
+
+  <a href="../cite/Johan/1581/RegPat">Johan</a>
+
+  <a href="../cite/Johan/1570/RegPat">Johan</a>
+
+  <a href="../cite/Johan/1593/RegPat">Johan</a>
+
+  <a href="../cite/Johan/1597/RegPat">Johan</a>
+
+  <a href="../cite/Johan/1572/RegPat">Johan</a>
+
+  <a href="../cite/Johan/1579s80/RegPat">Johan</a>
+
+  <a href="../cite/Johan/1573/RegPat">Johan</a>
+
+  <a href="../cite/John/1576s7/RegPat">John</a>
+
+  <a href="../cite/John/1595s6/RegPat">John</a>
+
+  <a href="../cite/John/1570/RegPat">John</a>
+
+  <a href="../cite/John/1579s80/RegPat">John</a>
+
+  <a href="../cite/John/1577s8/RegPat">John</a>
+
+  <a href="../cite/Katheran/1589/RegPat">Katheran</a>
+
+  <a href="../cite/Katherin/1599/RegPat">Katherin</a>
+
+  <a href="../cite/Katherin/1588/RegPat">Katherin</a>
+
+  <a href="../cite/Katherine/1595/RegPat">Katherine</a>
+
+  <a href="../cite/Katherine/1570/RegPat">Katherine</a>
+
+  <a href="../cite/Katherine/1579s80/RegPat">Katherine</a>
+
+  <a href="../cite/Katherine/1591/RegPat">Katherine</a>
+
+  <a href="../cite/Katherine/1597s8/RegPat">Katherine</a>
+
+  <a href="../cite/Katherine/1575/RegPat">Katherine</a>
+
+  <a href="../cite/Katherine/1576/RegPat">Katherine</a>
+
+  <a href="../cite/Katherine/1572/RegPat">Katherine</a>
+
+  <a href="../cite/Katherine/1585/RegPat">Katherine</a>
+
+  <a href="../cite/Katheron/1597/RegPat">Katheron</a>
+
+  <a href="../cite/Katheron/1581s2/RegPat">Katheron</a>
+
+  <a href="../cite/Katheron/1584/RegPat">Katheron</a>
+
+  <a href="../cite/Leonard/1582/RegPat">Leonard</a>
+
+  <a href="../cite/Leonard/1596/RegPat">Leonard</a>
+
+  <a href="../cite/Leonardi/1570/RegPat">Leonardi</a>
+
+  <a href="../cite/Leonardi/1598/RegPat">Leonardi</a>
+
+  <a href="../cite/Lettice/1598s9/RegPat">Lettice</a>
+
+  <a href="../cite/Lettis/1586/RegPat">Lettis</a>
+
+  <a href="../cite/Lettise/1599/RegPat">Lettise</a>
+
+  <a href="../cite/Magdalen/1590/RegPat">Magdalen</a>
+
+  <a href="../cite/Margaret/1571s2/RegPat">Margaret</a>
+
+  <a href="../cite/Margerie/1599/RegPat">Margerie</a>
+
+  <a href="../cite/Margret/1574/RegPat">Margret</a>
+
+  <a href="../cite/Margret/1573/RegPat">Margret</a>
+
+  <a href="../cite/Margret/1571/RegPat">Margret</a>
+
+  <a href="../cite/Margret/1570/RegPat">Margret</a>
+
+  <a href="../cite/Margret/1599/RegPat">Margret</a>
+
+  <a href="../cite/Marmaduke/1581/RegPat">Marmaduke</a>
+
+  <a href="../cite/Martha/1583s4/RegPat">Martha</a>
+
+  <a href="../cite/Martha/1585s6/RegPat">Martha</a>
+
+  <a href="../cite/Mathei/1599/RegPat">Mathei</a>
+
+  <a href="../cite/Mathew/1570s1/RegPat">Mathew</a>
+
+  <a href="../cite/Mathew/1596s7/RegPat">Mathew</a>
+
+  <a href="../cite/Mathew/1573/RegPat">Mathew</a>
+
+  <a href="../cite/Mathew/1584/RegPat">Mathew</a>
+
+  <a href="../cite/Mathew/1597/RegPat">Mathew</a>
+
+  <a href="../cite/Mathew/1583s4/RegPat">Mathew</a>
+
+  <a href="../cite/Maude/1577s8/RegPat">Maude</a>
+
+  <a href="../cite/Maudlin/1586/RegPat">Maudlin</a>
+
+  <a href="../cite/Mawde/1579/RegPat">Mawde</a>
+
+  <a href="../cite/Mawde/1588/RegPat">Mawde</a>
+
+  <a href="../cite/Nicholas/1588s9/RegPat">Nicholas</a>
+
+  <a href="../cite/Oliver/1591/RegPat">Oliver</a>
+
+  <a href="../cite/Oliver/1583/RegPat">Oliver</a>
+
+  <a href="../cite/Oliver/1586/RegPat">Oliver</a>
+
+  <a href="../cite/Oliver/1588/RegPat">Oliver</a>
+
+  <a href="../cite/Osswolde/1593/RegPat">Osswolde</a>
+
+  <a href="../cite/Osswoldi/1570s1/RegPat">Osswoldi</a>
+
+  <a href="../cite/Pattrick/1571/RegPat">Pattrick</a>
+
+  <a href="../cite/Percevall/1581/RegPat">Percevall</a>
+
+  <a href="../cite/Perceyvall/1590/RegPat">Perceyvall</a>
+
+  <a href="../cite/Percivall/1597/RegPat">Percivall</a>
+
+  <a href="../cite/Percivall/1593/RegPat">Percivall</a>
+
+  <a href="../cite/Percivall/1582/RegPat">Percivall</a>
+
+  <a href="../cite/Percivell/1591/RegPat">Percivell</a>
+
+  <a href="../cite/Philip/1571s2/RegPat">Philip</a>
+
+  <a href="../cite/Philip/1580/RegPat">Philip</a>
+
+  <a href="../cite/Phillipp/1573/RegPat">Phillipp</a>
+
+  <a href="../cite/Rahel/1597/RegPat">Rahel</a>
+
+  <a href="../cite/Rainold/1583/RegPat">Rainold</a>
+
+  <a href="../cite/Richardi/1574/RegPat">Richardi</a>
+
+  <a href="../cite/Richardi/1570/RegPat">Richardi</a>
+
+  <a href="../cite/Richardi/1581/RegPat">Richardi</a>
+
+  <a href="../cite/Robert/1585/RegPat">Robert</a>
+
+  <a href="../cite/Rowland/1573/RegPat">Rowland</a>
+
+  <a href="../cite/Samuel/1573/RegPat">Samuel</a>
+
+  <a href="../cite/Samuel/1572/RegPat">Samuel</a>
+
+  <a href="../cite/Sarai/1585/RegPat">Sarai</a>
+
+  <a href="../cite/Stephen/1583/RegPat">Stephen</a>
+
+  <a href="../cite/Stephen/1591/RegPat">Stephen</a>
+
+  <a href="../cite/Stephen/1592/RegPat">Stephen</a>
+
+  <a href="../cite/Stephen/1592s3/RegPat">Stephen</a>
+
+  <a href="../cite/Stephen/1589/RegPat">Stephen</a>
+
+  <a href="../cite/Stephen/1597/RegPat">Stephen</a>
+
+  <a href="../cite/Stephen/1583s4/RegPat">Stephen</a>
+
+  <a href="../cite/Stephen/1576/RegPat">Stephen</a>
+
+  <a href="../cite/Stephen/1572/RegPat">Stephen</a>
+
+  <a href="../cite/Steven/1598s9/RegPat">Steven</a>
+
+  <a href="../cite/Steven/1599/RegPat">Steven</a>
+
+  <a href="../cite/Susanna/1589s90/RegPat">Susanna</a>
+
+  <a href="../cite/Susanna/1590/RegPat">Susanna</a>
+
+  <a href="../cite/Susanna/1591s2/RegPat">Susanna</a>
+
+  <a href="../cite/Susanna/1588/RegPat">Susanna</a>
+
+  <a href="../cite/Susanna/1589/RegPat">Susanna</a>
+
+  <a href="../cite/Susanna/1591/RegPat">Susanna</a>
+
+  <a href="../cite/Syimon/1598/RegPat">Syimon</a>
+
+  <a href="../cite/Symond/1587s8/RegPat">Symond</a>
+
+  <a href="../cite/Theophilus/1590s1/RegPat">Theophilus</a>
+
+  <a href="../cite/Theophilus/1578/RegPat">Theophilus</a>
+
+  <a href="../cite/Thomae/1570s1/RegPat">Thomae</a>
+
+  <a href="../cite/Thomae/1572s3/RegPat">Thomae</a>
+
+  <a href="../cite/Thomae/1571/RegPat">Thomae</a>
+
+  <a href="../cite/Thomæ/1571/RegPat">Thomæ</a>
+
+  <a href="../cite/Thomæ/1571s2/RegPat">Thomæ</a>
+
+  <a href="../cite/Ursilla/1590/RegPat">Ursilla</a>
+
+  <a href="../cite/Ursula/1587/RegPat">Ursula</a>
+
+  <a href="../cite/Ursula/1597/RegPat">Ursula</a>
+
+  <a href="../cite/Ursula/1582/RegPat">Ursula</a>
+
+  <a href="../cite/Ursula/1596/RegPat">Ursula</a>
+
+  <a href="../cite/Ursula/1573/RegPat">Ursula</a>
+
+  <a href="../cite/Ursula/1599/RegPat">Ursula</a>
+
+  <a href="../cite/Ursulai/1589s90/RegPat">Ursulai</a>
+
+  <a href="../cite/Ursulay/1590s1/RegPat">Ursulay</a>
+
+  <a href="../cite/Ursulay/1588/RegPat">Ursulay</a>
+
+  <a href="../cite/Vrsula/1570/RegPat">Vrsula</a>
+
+  <a href="../cite/Walter/1594/RegPat">Walter</a>
+
+  <a href="../cite/Walter/1573/RegPat">Walter</a>
+
+  <a href="../cite/Wilfride/1592/RegPat">Wilfride</a>
+
+  <a href="../cite/Wilhelmi/1572/RegPat">Wilhelmi</a>
+
+  <a href="../cite/Wilhelmi/1571/RegPat">Wilhelmi</a>
+
+  <a href="../cite/Wilhelmi/1570/RegPat">Wilhelmi</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

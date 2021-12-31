@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Lance</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Lance</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A hypocoristic of any of various names beginning with <span class="lang">Old High German</span> <i>lant</i>, <span class="lang">Old Saxon</span> <i>land</i> 'land'.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>The diminutive <i>Lancelot</i> was, due to the influence of the Arthurian character by the same name, far more popular throughout the later Middle Ages than the radiconym.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1353</span> <span class="name">Lansony</span> (<span class="case">dat</span>) <a href="../cite/Lansony/1353/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1355</span> <span class="name">Lancz</span> (<span class="case">nom</span>) <a href="../cite/Lancz/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">69</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1358</span> <span class="name">Lanczlini</span> (<span class="case">gen</span>) <a href="../cite/Lanczlini/1358/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">268, p. 32</span></a>,
+ <span class="name">Lanczlinum</span> (<span class="case">acc</span>) <a href="../cite/Lanczlinum/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">463, p. 39</span></a>,
+ <span class="name">Lanczlinus</span> (<span class="case">nom</span>) <a href="../cite/Lanczlinus/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">267, p. 32</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1554</span> <span class="name">Lawncelett</span> (<span class="case">nom</span>) <a href="../cite/Lawncelett/1554/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1555</span> <span class="name">Lawncelott</span> (<span class="case">nom</span>) <a href="../cite/Lawncelott/1555/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1571</span> <span class="name">Lansloot</span> <a href="../cite/Lansloot/1571/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Perremans</span></a>;
+ <span class="date">1574</span> <span class="name">Lanselot</span> <a href="../cite/Lanselot/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Carremans</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1485</span> <span class="name">Lancelot</span> <a href="../cite/Lancelot/1485/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXIX</span></a>;
+ <span class="date">1547</span> <span class="name">Lanslet</span> <a href="../cite/Lanslet/1547/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">XCIV</span></a>;
+ <span class="date">1550</span> <span class="name">Lancelot</span> <a href="../cite/Lancelot/1550/RegIng"><span class="bib_key">RegIng</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1557</span> <span class="name">Lancelote</span> <a href="../cite/Lancelote/1557/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Lancelott</span> <a href="../cite/Lancelott/1557/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1560</span> <span class="name">Lancelott</span> <a href="../cite/Lancelott/1560/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1561</span> <span class="name">Launcelott</span> <a href="../cite/Launcelott/1561/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 110</span></a>;
+ <span class="date">1562</span> <span class="name">Lancellott</span> <a href="../cite/Lancellott/1562/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1564</span> <span class="name">Launcellott</span> <a href="../cite/Launcellott/1564/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1571</span> <span class="name">Launcellott</span> <a href="../cite/Launcellott/1571/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 113</span></a>;
+ <span class="date">1580</span> <span class="name">Lancelot</span> <a href="../cite/Lancelot/1580/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1583/4</span> <span class="name">Lancelet</span> <a href="../cite/Lancelet/1583s4/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1588</span> <span class="name">Launcellott</span> <a href="../cite/Launcellott/1588/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1589</span> <span class="name">Launcellott</span> <a href="../cite/Launcellott/1589/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1592</span> <span class="name">Launcellott</span> <a href="../cite/Launcellott/1592/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1594</span> <span class="name">Lancellot</span> <a href="../cite/Lancellot/1594/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 122</span></a>,
+ <span class="name">Lancelot</span> <a href="../cite/Lancelot/1594/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Launcellott</span> <a href="../cite/Launcellott/1594/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1595</span> <span class="name">Launcellot</span> <a href="../cite/Launcellot/1595/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1596</span> <span class="name">Launcellott</span> <a href="../cite/Launcellott/1596/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1597</span> <span class="name">Launcellott</span> <a href="../cite/Launcellott/1597/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1599</span> <span class="name">Lancellye</span> <a href="../cite/Lancellye/1599/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 131</span></a>,
+ <span class="name">Lancelot</span> <a href="../cite/Lancelot/1599/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Launcellott</span> <a href="../cite/Launcellott/1599/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 57</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1269</span> <span class="name">Lancelini</span> (<span class="case">gen</span>) <a href="../cite/Lancelini/1269/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-III</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Lancelot</span> <a href="../cite/Lancelot/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 611</span></a>,
+ <span class="name">Lansselot</span> <a href="../cite/Lansselot/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 613</span></a>;
+ <span class="date">1393</span> <span class="name">Lancelot</span> <a href="../cite/Lancelot/1393/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 619</span></a>;
+ <span class="date">1415[1469x1471]</span> <span class="name">Lancellot</span> (<span class="case">nom</span>) <a href="../cite/Lancellot/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 227</span></a>,
+ <span class="name">Lancelot</span> <a href="../cite/Lancelot/1415[1469x1471]/Waurin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 225</span></a>;
+ <span class="date">1421</span> <span class="name">Lancelet</span> <a href="../cite/Lancelet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1149</span></a>,
+ <span class="name">Lancelot</span> <a href="../cite/Lancelot/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 239</span></a>;
+ <span class="date">1438</span> <span class="name">Lancelot</span> <a href="../cite/Lancelot/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1070</span> <span class="name">Lanzo</span> (<span class="case">nom</span>) <a href="../cite/Lanzo/c1070/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">72</span></a>,
+ <span class="name">Lanzone</span> (<span class="case">abl</span>) <a href="../cite/Lanzone/c1070/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">73</span></a>;
+ <span class="date">1186</span> <span class="name">Lanzo</span> (<span class="case">nom</span>) <a href="../cite/Lanzo/1186/quix-vol2"><span class="bib_key">quix-vol2</span> <span class="bib_loc">123</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1444</span> <span class="name">Launcelot</span> (<span class="case">acc</span>) <a href="../cite/Launcelot/1444/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">83</span></a>;
+ <span class="date">1490/1</span> <span class="name">Laucelote</span> (<span class="case">acc</span>) <a href="../cite/Laucelote/1490s1/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Launcelote</span> (<span class="case">nom</span>) <a href="../cite/Launcelote/1490s1/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1491</span> <span class="name">Launcelote</span> (<span class="case">nom</span>) <a href="../cite/Launcelote/1491/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1198</span> <span class="name">Lanzus</span> (<span class="case">nom</span>) <a href="../cite/Lanzus/1198/ChStBo1"><span class="bib_key">ChStBo1</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1236</span> <span class="name">Lanço</span> (<span class="case">abl</span>) <a href="../cite/Lanço/1236/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">12</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1464</span> <span class="name">Lancelotus</span> (<span class="case">nom</span>) <a href="../cite/Lancelotus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1513x1521</span> <span class="name">Lancellotto</span> <a href="../cite/Lancellotto/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Lancillotto</span> <a href="../cite/Lancillotto/1513x1521/LeoX"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Lance". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Lance.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

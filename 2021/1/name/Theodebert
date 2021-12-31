@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Theodebert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Theodebert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Gothic</span> <i>þiuda</i> 'people, folk' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 6th C Frankish king, a 7th C Frankish king, and a 13th C saint.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1128</span> <span class="name">Diepreht</span> (<span class="case">nom</span>) <a href="../cite/Diepreht/c1128/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">118a</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1106</span> <span class="name">Tetberto</span> (<span class="case">abl</span>) <a href="../cite/Tetberto/1106/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1116</span> <span class="name">Tetberti</span> (<span class="case">gen</span>) <a href="../cite/Tetberti/1116/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">519</span> <span class="name">Tudebertus</span> (<span class="case">nom</span>) <a href="../cite/Tudebertus/519/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">I</span></a>;
+ <span class="date">658</span> <span class="name">Teoberctus</span> (<span class="case">nom</span>) <a href="../cite/Teoberctus/658/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">CCCXXXI</span></a>;
+ <span class="date">814</span> <span class="name">Teobertus</span> (<span class="case">nom</span>) <a href="../cite/Teobertus/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">G7</span></a>,
+ <span class="name">Teutebertus</span> (<span class="case">nom</span>) <a href="../cite/Teutebertus/814/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">H4</span></a>;
+ <span class="date">c823</span> <span class="name">Teutbardus</span> (<span class="case">nom</span>) <a href="../cite/Teutbardus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">27, Palatiolum</span></a>,
+ <span class="name">Teutbertus</span> (<span class="case">nom</span>) <a href="../cite/Teutbertus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">19, Palatiolum</span></a>;
+ <span class="date">10thC</span> <span class="name">Teotbert</span> (<span class="case">gen</span>) <a href="../cite/Teotbert/10thC/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 114</span></a>;
+ <span class="date">909</span> <span class="name">Teutberto</span> (<span class="case">nom</span>) <a href="../cite/Teutberto/909/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 77</span></a>;
+ <span class="date">933x1000</span> <span class="name">Teotberti</span> (<span class="case">gen</span>) <a href="../cite/Teotberti/933x1000/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">148</span></a>,
+ <span class="name">Teotbertus</span> (<span class="case">nom</span>) <a href="../cite/Teotbertus/933x1000/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 148</span></a>;
+ <span class="date">952</span> <span class="name">Teodbert</span> (<span class="case">abl</span>) <a href="../cite/Teodbert/952/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 108</span></a>;
+ <span class="date">1018x1032</span> <span class="name">Teubertus</span> (<span class="case">nom</span>) <a href="../cite/Teubertus/1018x1032/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">666</span></a>;
+ <span class="date">c1050</span> <span class="name">Teutberto</span> (<span class="case">abl</span>) <a href="../cite/Teutberto/c1050/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">672</span></a>;
+ <span class="date">1088x1119</span> <span class="name">Teotbertus</span> (<span class="case">nom</span>) <a href="../cite/Teotbertus/1088x1119/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 149</span></a>;
+ <span class="date">1096</span> <span class="name">Teotberti</span> (<span class="case">gen</span>) <a href="../cite/Teotberti/1096/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">138</span></a>;
+ <span class="date">fin11thC</span> <span class="name">Teotberti</span> (<span class="case">gen</span>) <a href="../cite/Teotberti/fin11thC/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 150</span></a>;
+ <span class="date">1108</span> <span class="name">Theotberto</span> (<span class="case">abl</span>) <a href="../cite/Theotberto/1108/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 155</span></a>;
+ <span class="date">c1120</span> <span class="name">Tetberti</span> (<span class="case">gen</span>) <a href="../cite/Tetberti/c1120/CartNoyers"><span class="bib_key">CartNoyers</span> <span class="bib_loc">CDXXXVI</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Thiatberttus</span> (<span class="case">nom</span>) <a href="../cite/Thiatberttus/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§14</span></a>;
+ <span class="date">954</span> <span class="name">Thietpraht</span> (<span class="case">nom</span>) <a href="../cite/Thietpraht/954/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">23</span></a>,
+ <span class="name">Thietpreht</span> (<span class="case">nom</span>) <a href="../cite/Thietpreht/954/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>;
+ <span class="date">961</span> <span class="name">Diotpert</span> (<span class="case">abl</span>) <a href="../cite/Diotpert/961/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>,
+ <span class="name">Thietpreht</span> (<span class="case">nom</span>) <a href="../cite/Thietpreht/961/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Theodebert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Theodebert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

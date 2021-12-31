@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Wolf</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Wolf</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Norse</span> <i>úlfr</i>, <span class="lang">Old High German</span> <i>wolf</i>, <span class="lang">Old English</span>, <span class="lang">Gothic</span> <i>wulf</i> 'wolf'.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>Also used as a pet form of various names beginning with this element, such as <a class="nym" href="Wolfgang">Wolfgang</a>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">c1128</span> <span class="name">Wuluingus</span> (<span class="case">nom</span>) <a href="../cite/Wuluingus/c1128/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">120</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1439</span> <span class="name">Wolf</span> (<span class="case">nom</span>) <a href="../cite/Wolf/1439/ChronSH"><span class="bib_key">ChronSH</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1570</span> <span class="name">Wolf</span> (<span class="case">nom</span>) <a href="../cite/Wolf/1570/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1353</span> <span class="name">Wolf</span> (<span class="case">nom</span>) <a href="../cite/Wolf/1353/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">28, p. 22</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1314</span> <span class="name">Wolflinus</span> (<span class="case">nom</span>) <a href="../cite/Wolflinus/1314/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1337</span> <span class="name">Wolflinus</span> (<span class="case">nom</span>) <a href="../cite/Wolflinus/1337/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">29</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">c1339</span> <span class="name">Wolfil</span> (<span class="case">nom</span>) <a href="../cite/Wolfil/c1339/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">93</span></a>,
+ <span class="name">Wolfleins</span> (<span class="case">gen</span>) <a href="../cite/Wolfleins/c1339/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1340</span> <span class="name">Wolfel</span> (<span class="case">nom</span>) <a href="../cite/Wolfel/1340/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1341</span> <span class="name">Wolfel</span> (<span class="case">nom</span>) <a href="../cite/Wolfel/1341/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">33</span></a>;
+ <span class="date">1349</span> <span class="name">Wolfels</span> (<span class="case">gen</span>) <a href="../cite/Wolfels/1349/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>;
+ <span class="date">1359</span> <span class="name">Wolfel</span> (<span class="case">nom</span>) <a href="../cite/Wolfel/1359/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1360</span> <span class="name">Wolflynus</span> (<span class="case">nom</span>) <a href="../cite/Wolflynus/1360/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">57</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Wulff</span> <a href="../cite/Wulff/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1419</span> <span class="name">Vlff</span> (<span class="case">nom</span>) <a href="../cite/Vlff/1419/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 19326</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Ulfi</span> (<span class="case">gen</span>) <a href="../cite/Ulfi/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 149</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">699</span> <span class="name">Wolfo</span> (<span class="case">abl</span>) <a href="../cite/Wolfo/699/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">Add. X</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">845</span> <span class="name">Wolf</span> (<span class="case">gen</span>) <a href="../cite/Wolf/845/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 37</span></a>;
+ <span class="date">846</span> <span class="name">Vulfi</span> (<span class="case">gen</span>) <a href="../cite/Vulfi/846/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 38</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1210</span> <span class="name">Wulfingi</span> (<span class="case">gen</span>) <a href="../cite/Wulfingi/1210/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">10</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1293</span> <span class="name">Wolf</span> (<span class="case">nom</span>) <a href="../cite/Wolf/1293/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">53</span></a>,
+ <span class="name">Wolves</span> (<span class="case">gen</span>) <a href="../cite/Wolves/1293/UrkHeil1"><span class="bib_key">ibid.</span> <span class="bib_loc">53</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Wolff</span> <a href="../cite/Wolff/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">1181</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1324x1332</span> <span class="name">Wolfeln</span> (<span class="case">dat</span>) <a href="../cite/Wolfeln/1324x1332/SBGlatzer"><span class="bib_key">SBGlatzer</span> <span class="bib_loc">p. 1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1094</span> <span class="name">Ulf</span> (<span class="case">nom</span>) <a href="../cite/Ulf/1094/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Ulfs</span> (<span class="case">gen</span>) <a href="../cite/Ulfs/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6022</span></a>,
+ <span class="name">Vlphonis</span> (<span class="case">gen</span>) <a href="../cite/Vlphonis/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6014</span></a>,
+ <span class="name">Vlps</span> (<span class="case">gen</span>) <a href="../cite/Vlps/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6002</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1352</span> <span class="name">Vlf</span> (<span class="case">gen</span>) <a href="../cite/Vlf/1352/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6314</span></a>;
+ <span class="date">1377</span> <span class="name">Vlf</span> (<span class="case">gen</span>) <a href="../cite/Vlf/1377/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11085</span></a>;
+ <span class="date">1383</span> <span class="name">Vlf</span> <a href="../cite/Vlf/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1900</span></a>,
+ <span class="name">Vlfs</span> (<span class="case">gen</span>) <a href="../cite/Vlfs/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1905</span></a>,
+ <span class="name">Wlf</span> <a href="../cite/Wlf/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1923</span></a>,
+ <span class="name">Wlfs</span> (<span class="case">gen</span>) <a href="../cite/Wlfs/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1930</span></a>;
+ <span class="date">1409</span> <span class="name">Vlf</span> (<span class="case">nom</span>) <a href="../cite/Vlf/1409/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 17273</span></a>,
+ <span class="name">Vlff</span> (<span class="case">nom</span>) <a href="../cite/Vlff/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17265</span></a>,
+ <span class="name">Wlf</span> (<span class="case">nom</span>) <a href="../cite/Wlf/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17263</span></a>,
+ <span class="name">Wlff</span> (<span class="case">nom</span>) <a href="../cite/Wlff/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17337</span></a>;
+ <span class="date">1414</span> <span class="name">Wlf</span> (<span class="case">gen</span>) <a href="../cite/Wlf/1414/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18236</span></a>;
+ <span class="date">1418</span> <span class="name">Wlfs</span> (<span class="case">gen</span>) <a href="../cite/Wlfs/1418/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19083</span></a>;
+ <span class="date">1419</span> <span class="name">Wlfs</span> (<span class="case">gen</span>) <a href="../cite/Wlfs/1419/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19273</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1541</span> <span class="name">Wlff</span> (<span class="case">nom</span>) <a href="../cite/Wlff/1541/HGS"><span class="bib_key">HGS</span> <span class="bib_loc">p. 159</span></a>;
+ <span class="date">1542</span> <span class="name">Wlff</span> (<span class="case">nom</span>) <a href="../cite/Wlff/1542/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 158</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1500</span> <span class="name">Wolffs</span> (<span class="case">gen</span>) <a href="../cite/Wolffs/1500/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">267</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Wolf". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Wolf.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,1992 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>RigSB</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>RigSB</dt>
+  <dd>Hermann Hildebrand, editor. <em>Das Rigische Schuldbuch (1286-1352)</em>. St. Petersburg: Commissionäre der Kaiserlichen Akademie der Wissenschaften, 1872.</dd>
+</dl>
+
+
+  <a href="../cite/Adam/1299/RigSB">Adam</a>
+
+  <a href="../cite/Adam/1290/RigSB">Adam</a>
+
+  <a href="../cite/Adam/1294/RigSB">Adam</a>
+
+  <a href="../cite/Adam/1296/RigSB">Adam</a>
+
+  <a href="../cite/Adam/1297/RigSB">Adam</a>
+
+  <a href="../cite/Ade/1297/RigSB">Ade</a>
+
+  <a href="../cite/Adolpho/1287/RigSB">Adolpho</a>
+
+  <a href="../cite/Alanus/a1286/RigSB">Alanus</a>
+
+  <a href="../cite/Alberto/1300/RigSB">Alberto</a>
+
+  <a href="../cite/Alberto/1293/RigSB">Alberto</a>
+
+  <a href="../cite/Alberto/1289/RigSB">Alberto</a>
+
+  <a href="../cite/Alberto/1296/RigSB">Alberto</a>
+
+  <a href="../cite/Alberto/1286/RigSB">Alberto</a>
+
+  <a href="../cite/Alberto/1288/RigSB">Alberto</a>
+
+  <a href="../cite/Alberto/1301/RigSB">Alberto</a>
+
+  <a href="../cite/Alberto/a1286/RigSB">Alberto</a>
+
+  <a href="../cite/Alberto/1297/RigSB">Alberto</a>
+
+  <a href="../cite/Alberto/1303/RigSB">Alberto</a>
+
+  <a href="../cite/Alberto/1292/RigSB">Alberto</a>
+
+  <a href="../cite/Alberto/1290/RigSB">Alberto</a>
+
+  <a href="../cite/Albertus/1297/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1302/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1294/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1319/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1337/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1296/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1301/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1292/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1305/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1307/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1299/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1303/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1291/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1290/RigSB">Albertus</a>
+
+  <a href="../cite/Albertus/1288/RigSB">Albertus</a>
+
+  <a href="../cite/Aleidis/1305/RigSB">Aleidis</a>
+
+  <a href="../cite/Aleke/1297/RigSB">Aleke</a>
+
+  <a href="../cite/Alexander/1300/RigSB">Alexander</a>
+
+  <a href="../cite/Alexandri/1294/RigSB">Alexandri</a>
+
+  <a href="../cite/Alexi/1296/RigSB">Alexi</a>
+
+  <a href="../cite/Alexi/1295/RigSB">Alexi</a>
+
+  <a href="../cite/Aleydis/1330/RigSB">Aleydis</a>
+
+  <a href="../cite/Alheydis/1289/RigSB">Alheydis</a>
+
+  <a href="../cite/Alheydis/1296/RigSB">Alheydis</a>
+
+  <a href="../cite/Alheydis/1307/RigSB">Alheydis</a>
+
+  <a href="../cite/Alheydis/1295/RigSB">Alheydis</a>
+
+  <a href="../cite/Alheydis/1332/RigSB">Alheydis</a>
+
+  <a href="../cite/Alheydis/1303/RigSB">Alheydis</a>
+
+  <a href="../cite/Alheyt/1294/RigSB">Alheyt</a>
+
+  <a href="../cite/Alice/1291/RigSB">Alice</a>
+
+  <a href="../cite/Ambrosii/1290/RigSB">Ambrosii</a>
+
+  <a href="../cite/Ambrosio/1292/RigSB">Ambrosio</a>
+
+  <a href="../cite/Ambrosius/1289/RigSB">Ambrosius</a>
+
+  <a href="../cite/Ambrosius/1296/RigSB">Ambrosius</a>
+
+  <a href="../cite/Ambrosius/1290/RigSB">Ambrosius</a>
+
+  <a href="../cite/Andre/1290/RigSB">Andre</a>
+
+  <a href="../cite/Andre/1292/RigSB">Andre</a>
+
+  <a href="../cite/Andre/1293/RigSB">Andre</a>
+
+  <a href="../cite/Andre/1289/RigSB">Andre</a>
+
+  <a href="../cite/Andreas/1297/RigSB">Andreas</a>
+
+  <a href="../cite/Andreas/1302/RigSB">Andreas</a>
+
+  <a href="../cite/Andreas/1290/RigSB">Andreas</a>
+
+  <a href="../cite/Andreas/1307/RigSB">Andreas</a>
+
+  <a href="../cite/Andreas/1319/RigSB">Andreas</a>
+
+  <a href="../cite/Andreas/1286/RigSB">Andreas</a>
+
+  <a href="../cite/Andreas/1303/RigSB">Andreas</a>
+
+  <a href="../cite/Andreas/1294/RigSB">Andreas</a>
+
+  <a href="../cite/Andree/1290/RigSB">Andree</a>
+
+  <a href="../cite/Andree/1294/RigSB">Andree</a>
+
+  <a href="../cite/Andree/1288/RigSB">Andree</a>
+
+  <a href="../cite/Andree/1289/RigSB">Andree</a>
+
+  <a href="../cite/Andree/1317/RigSB">Andree</a>
+
+  <a href="../cite/Andree/1301/RigSB">Andree</a>
+
+  <a href="../cite/Andree/1287/RigSB">Andree</a>
+
+  <a href="../cite/Andrey/1296/RigSB">Andrey</a>
+
+  <a href="../cite/Anna/1291/RigSB">Anna</a>
+
+  <a href="../cite/Arnoldi/1294/RigSB">Arnoldi</a>
+
+  <a href="../cite/Arnoldo/1288/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldo/1291/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldo/1301/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldo/1294/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldo/1307/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldo/1305/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldo/1299/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldo/1289/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldo/1297/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldo/1293/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldo/1295/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldo/1300/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldo/1321/RigSB">Arnoldo</a>
+
+  <a href="../cite/Arnoldus/1295/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1294/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1289/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1292/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1297/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/a1286/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1290/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1293/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1287/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1307/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1299/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1303/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1291/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1328/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1288/RigSB">Arnoldus</a>
+
+  <a href="../cite/Arnoldus/1286/RigSB">Arnoldus</a>
+
+  <a href="../cite/Beringero/1287/RigSB">Beringero</a>
+
+  <a href="../cite/Beringhero/1303/RigSB">Beringhero</a>
+
+  <a href="../cite/Bernardi/1300/RigSB">Bernardi</a>
+
+  <a href="../cite/Bernardi/1292/RigSB">Bernardi</a>
+
+  <a href="../cite/Bernardo/1307/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1288/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1299/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1303/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1304/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1291/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1289/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1296/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1301/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1305/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1292/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1293/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1309/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardo/1297/RigSB">Bernardo</a>
+
+  <a href="../cite/Bernardus/1327/RigSB">Bernardus</a>
+
+  <a href="../cite/Bernardus/1289/RigSB">Bernardus</a>
+
+  <a href="../cite/Bernardus/1293/RigSB">Bernardus</a>
+
+  <a href="../cite/Bernardus/1295/RigSB">Bernardus</a>
+
+  <a href="../cite/Bernardus/1314/RigSB">Bernardus</a>
+
+  <a href="../cite/Bernardus/1330/RigSB">Bernardus</a>
+
+  <a href="../cite/Bernardus/1299/RigSB">Bernardus</a>
+
+  <a href="../cite/Bernardus/1294/RigSB">Bernardus</a>
+
+  <a href="../cite/Bernardus/1302/RigSB">Bernardus</a>
+
+  <a href="../cite/Bernardus/1297/RigSB">Bernardus</a>
+
+  <a href="../cite/Bernardus/1296/RigSB">Bernardus</a>
+
+  <a href="../cite/Bernoldus/1287/RigSB">Bernoldus</a>
+
+  <a href="../cite/Bertheline/1299/RigSB">Bertheline</a>
+
+  <a href="../cite/Bertholdo/1286/RigSB">Bertholdo</a>
+
+  <a href="../cite/Bertholdus/1287/RigSB">Bertholdus</a>
+
+  <a href="../cite/Bertoldo/1288/RigSB">Bertoldo</a>
+
+  <a href="../cite/Bertoldo/1289/RigSB">Bertoldo</a>
+
+  <a href="../cite/Bertoldo/1303/RigSB">Bertoldo</a>
+
+  <a href="../cite/Bertoldus/1291/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1307/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1295/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1306/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1294/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1289/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1293/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1290/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1292/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1296/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1297/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1287/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1302/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertoldus/1299/RigSB">Bertoldus</a>
+
+  <a href="../cite/Bertram/1299/RigSB">Bertram</a>
+
+  <a href="../cite/Bertrammo/1287/RigSB">Bertrammo</a>
+
+  <a href="../cite/Bodo/1296/RigSB">Bodo</a>
+
+  <a href="../cite/Bodo/1290/RigSB">Bodo</a>
+
+  <a href="../cite/Bodo/1294/RigSB">Bodo</a>
+
+  <a href="../cite/Bodoni/1332/RigSB">Bodoni</a>
+
+  <a href="../cite/Bogedan/1292/RigSB">Bogedan</a>
+
+  <a href="../cite/Brendeke/1302/RigSB">Brendeke</a>
+
+  <a href="../cite/Brosius/1314/RigSB">Brosius</a>
+
+  <a href="../cite/Bruno/1304/RigSB">Bruno</a>
+
+  <a href="../cite/Bruno/1290/RigSB">Bruno</a>
+
+  <a href="../cite/Bruno/1287/RigSB">Bruno</a>
+
+  <a href="../cite/Bruno/1307/RigSB">Bruno</a>
+
+  <a href="../cite/Brunoni/1290/RigSB">Brunoni</a>
+
+  <a href="../cite/Brunoni/1297/RigSB">Brunoni</a>
+
+  <a href="../cite/Brunoni/1287/RigSB">Brunoni</a>
+
+  <a href="../cite/Brunoni/1319/RigSB">Brunoni</a>
+
+  <a href="../cite/Brunonis/1295/RigSB">Brunonis</a>
+
+  <a href="../cite/Brunonis/1290/RigSB">Brunonis</a>
+
+  <a href="../cite/Christiani/1300/RigSB">Christiani</a>
+
+  <a href="../cite/Christiano/1289/RigSB">Christiano</a>
+
+  <a href="../cite/Christiano/1288/RigSB">Christiano</a>
+
+  <a href="../cite/Christiano/1290/RigSB">Christiano</a>
+
+  <a href="../cite/Christiano/1291/RigSB">Christiano</a>
+
+  <a href="../cite/Christiano/1292/RigSB">Christiano</a>
+
+  <a href="../cite/Christianus/1289/RigSB">Christianus</a>
+
+  <a href="../cite/Christine/a1286/RigSB">Christine</a>
+
+  <a href="../cite/Christine/1289/RigSB">Christine</a>
+
+  <a href="../cite/Christine/1294/RigSB">Christine</a>
+
+  <a href="../cite/Ciffridus/1309/RigSB">Ciffridus</a>
+
+  <a href="../cite/Ciffridus/1307/RigSB">Ciffridus</a>
+
+  <a href="../cite/Clawes/1294/RigSB">Clawes</a>
+
+  <a href="../cite/Clemente/1289/RigSB">Clemente</a>
+
+  <a href="../cite/Conegundis/1345/RigSB">Conegundis</a>
+
+  <a href="../cite/Coneke/1299/RigSB">Coneke</a>
+
+  <a href="../cite/Coneke/1290/RigSB">Coneke</a>
+
+  <a href="../cite/Conrado/1290/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1292/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1286/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1307/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1296/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1289/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1314/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1295/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1287/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1294/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1291/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1293/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1297/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1300/RigSB">Conrado</a>
+
+  <a href="../cite/Conrado/1303/RigSB">Conrado</a>
+
+  <a href="../cite/Conradus/1321/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1289/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1297/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1305/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1294/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1290/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1295/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1288/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1291/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1298/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1299/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1307/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1296/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1292/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1303/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1287/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1319/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1317/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1309/RigSB">Conradus</a>
+
+  <a href="../cite/Conradus/1293/RigSB">Conradus</a>
+
+  <a href="../cite/Conrat/1298/RigSB">Conrat</a>
+
+  <a href="../cite/Cristiano/1287/RigSB">Cristiano</a>
+
+  <a href="../cite/Cristianus/1299/RigSB">Cristianus</a>
+
+  <a href="../cite/Cristine/1300/RigSB">Cristine</a>
+
+  <a href="../cite/Cunne/1294/RigSB">Cunne</a>
+
+  <a href="../cite/Daniel/1315/RigSB">Daniel</a>
+
+  <a href="../cite/Daniel/1293/RigSB">Daniel</a>
+
+  <a href="../cite/Daniel/1290/RigSB">Daniel</a>
+
+  <a href="../cite/Daniel/1292/RigSB">Daniel</a>
+
+  <a href="../cite/Daniel/1316/RigSB">Daniel</a>
+
+  <a href="../cite/Daniel/1294/RigSB">Daniel</a>
+
+  <a href="../cite/Demiter/1301/RigSB">Demiter</a>
+
+  <a href="../cite/Demitere/1292/RigSB">Demitere</a>
+
+  <a href="../cite/Demitre/1301/RigSB">Demitre</a>
+
+  <a href="../cite/Demytere/1295/RigSB">Demytere</a>
+
+  <a href="../cite/Dethardi/1303/RigSB">Dethardi</a>
+
+  <a href="../cite/Dethardo/1317/RigSB">Dethardo</a>
+
+  <a href="../cite/Dethardo/1305/RigSB">Dethardo</a>
+
+  <a href="../cite/Dethardo/1304/RigSB">Dethardo</a>
+
+  <a href="../cite/Dethardo/1300/RigSB">Dethardo</a>
+
+  <a href="../cite/Dethardo/1319/RigSB">Dethardo</a>
+
+  <a href="../cite/Dethardo/1303/RigSB">Dethardo</a>
+
+  <a href="../cite/Dethardo/1307/RigSB">Dethardo</a>
+
+  <a href="../cite/Dethardo/1302/RigSB">Dethardo</a>
+
+  <a href="../cite/Dethardus/1301/RigSB">Dethardus</a>
+
+  <a href="../cite/Dethardus/1333/RigSB">Dethardus</a>
+
+  <a href="../cite/Dethardus/1319/RigSB">Dethardus</a>
+
+  <a href="../cite/Dethardus/1299/RigSB">Dethardus</a>
+
+  <a href="../cite/Dethardus/1303/RigSB">Dethardus</a>
+
+  <a href="../cite/Dethmaro/1304/RigSB">Dethmaro</a>
+
+  <a href="../cite/Dethmaro/1302/RigSB">Dethmaro</a>
+
+  <a href="../cite/Detmaro/1304/RigSB">Detmaro</a>
+
+  <a href="../cite/Detmarus/1303/RigSB">Detmarus</a>
+
+  <a href="../cite/Dimiter/1302/RigSB">Dimiter</a>
+
+  <a href="../cite/Dithardo/1306/RigSB">Dithardo</a>
+
+  <a href="../cite/Dithardus/1306/RigSB">Dithardus</a>
+
+  <a href="../cite/Dithardus/1307/RigSB">Dithardus</a>
+
+  <a href="../cite/Druda/1315/RigSB">Druda</a>
+
+  <a href="../cite/Druda/1301/RigSB">Druda</a>
+
+  <a href="../cite/Druda/1292/RigSB">Druda</a>
+
+  <a href="../cite/Druͦdike/1315/RigSB">Druͦdike</a>
+
+  <a href="../cite/Drydike/1317/RigSB">Drydike</a>
+
+  <a href="../cite/Egberto/1302/RigSB">Egberto</a>
+
+  <a href="../cite/Egbrachto/1303/RigSB">Egbrachto</a>
+
+  <a href="../cite/Eggehardi/1286/RigSB">Eggehardi</a>
+
+  <a href="../cite/Eggelbertus/1288/RigSB">Eggelbertus</a>
+
+  <a href="../cite/Eggelbertus/1293/RigSB">Eggelbertus</a>
+
+  <a href="../cite/Eggelbertus/1294/RigSB">Eggelbertus</a>
+
+  <a href="../cite/Eggelbertus/1290/RigSB">Eggelbertus</a>
+
+  <a href="../cite/Eggelbertus/1289/RigSB">Eggelbertus</a>
+
+  <a href="../cite/Eggelbertus/1291/RigSB">Eggelbertus</a>
+
+  <a href="../cite/Eghardi/1289/RigSB">Eghardi</a>
+
+  <a href="../cite/Eghardi/1291/RigSB">Eghardi</a>
+
+  <a href="../cite/Elizabet/1289/RigSB">Elizabet</a>
+
+  <a href="../cite/Elizabet/1296/RigSB">Elizabet</a>
+
+  <a href="../cite/Elizabeth/1288/RigSB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1291/RigSB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1292/RigSB">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1301/RigSB">Elizabeth</a>
+
+  <a href="../cite/Elyzabet/1297/RigSB">Elyzabet</a>
+
+  <a href="../cite/Engelbert/1300/RigSB">Engelbert</a>
+
+  <a href="../cite/Engelberti/1289/RigSB">Engelberti</a>
+
+  <a href="../cite/Engelbertus/1286/RigSB">Engelbertus</a>
+
+  <a href="../cite/Engelbertus/1303/RigSB">Engelbertus</a>
+
+  <a href="../cite/Engelbertus/1299/RigSB">Engelbertus</a>
+
+  <a href="../cite/Engelbertus/1289/RigSB">Engelbertus</a>
+
+  <a href="../cite/Engilbertus/1307/RigSB">Engilbertus</a>
+
+  <a href="../cite/Ernesto/1306/RigSB">Ernesto</a>
+
+  <a href="../cite/Everhardi/1290/RigSB">Everhardi</a>
+
+  <a href="../cite/Everhardi/1292/RigSB">Everhardi</a>
+
+  <a href="../cite/Everhardi/1303/RigSB">Everhardi</a>
+
+  <a href="../cite/Everhardo/1291/RigSB">Everhardo</a>
+
+  <a href="../cite/Everhardo/1300/RigSB">Everhardo</a>
+
+  <a href="../cite/Everhardo/1287/RigSB">Everhardo</a>
+
+  <a href="../cite/Everhardo/1293/RigSB">Everhardo</a>
+
+  <a href="../cite/Everhardus/1297/RigSB">Everhardus</a>
+
+  <a href="../cite/Everhardus/1295/RigSB">Everhardus</a>
+
+  <a href="../cite/Everhardus/1319/RigSB">Everhardus</a>
+
+  <a href="../cite/Everhardus/1290/RigSB">Everhardus</a>
+
+  <a href="../cite/Everhardus/1296/RigSB">Everhardus</a>
+
+  <a href="../cite/Everhardus/1303/RigSB">Everhardus</a>
+
+  <a href="../cite/Everhardus/1305/RigSB">Everhardus</a>
+
+  <a href="../cite/Everhardus/1289/RigSB">Everhardus</a>
+
+  <a href="../cite/Everhardus/1302/RigSB">Everhardus</a>
+
+  <a href="../cite/Everrardo/1296/RigSB">Everrardo</a>
+
+  <a href="../cite/Everrardus/1297/RigSB">Everrardus</a>
+
+  <a href="../cite/Frederico/1292/RigSB">Frederico</a>
+
+  <a href="../cite/Frederico/1293/RigSB">Frederico</a>
+
+  <a href="../cite/Frederico/1301/RigSB">Frederico</a>
+
+  <a href="../cite/Frederico/1290/RigSB">Frederico</a>
+
+  <a href="../cite/Fredericus/1286/RigSB">Fredericus</a>
+
+  <a href="../cite/Fredericus/1293/RigSB">Fredericus</a>
+
+  <a href="../cite/Fredericus/1297/RigSB">Fredericus</a>
+
+  <a href="../cite/Fredericus/1298/RigSB">Fredericus</a>
+
+  <a href="../cite/Fredericus/1296/RigSB">Fredericus</a>
+
+  <a href="../cite/Fredericus/1288/RigSB">Fredericus</a>
+
+  <a href="../cite/Fredericus/1291/RigSB">Fredericus</a>
+
+  <a href="../cite/Fredericus/1289/RigSB">Fredericus</a>
+
+  <a href="../cite/Fredericus/1292/RigSB">Fredericus</a>
+
+  <a href="../cite/Gerardo/1325/RigSB">Gerardo</a>
+
+  <a href="../cite/Gerberto/1287/RigSB">Gerberto</a>
+
+  <a href="../cite/Gerbertus/1294/RigSB">Gerbertus</a>
+
+  <a href="../cite/Gerhardi/1292/RigSB">Gerhardi</a>
+
+  <a href="../cite/Gerhardo/1294/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1301/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1288/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1303/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1292/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1298/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1307/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1297/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1291/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1302/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1305/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1290/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1293/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1289/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1333/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardo/1300/RigSB">Gerhardo</a>
+
+  <a href="../cite/Gerhardus/1306/RigSB">Gerhardus</a>
+
+  <a href="../cite/Gerhardus/1289/RigSB">Gerhardus</a>
+
+  <a href="../cite/Gerhardus/1293/RigSB">Gerhardus</a>
+
+  <a href="../cite/Gerhardus/1286/RigSB">Gerhardus</a>
+
+  <a href="../cite/Gerhardus/1307/RigSB">Gerhardus</a>
+
+  <a href="../cite/Gerlaci/1296/RigSB">Gerlaci</a>
+
+  <a href="../cite/Gerlaco/1293/RigSB">Gerlaco</a>
+
+  <a href="../cite/Gerlaco/1294/RigSB">Gerlaco</a>
+
+  <a href="../cite/Gerlaco/1292/RigSB">Gerlaco</a>
+
+  <a href="../cite/Gerlaco/1287/RigSB">Gerlaco</a>
+
+  <a href="../cite/Gerlaco/1286/RigSB">Gerlaco</a>
+
+  <a href="../cite/Gerlaco/1307/RigSB">Gerlaco</a>
+
+  <a href="../cite/Gerlaco/1291/RigSB">Gerlaco</a>
+
+  <a href="../cite/Gerlaco/1290/RigSB">Gerlaco</a>
+
+  <a href="../cite/Gerrardus/1296/RigSB">Gerrardus</a>
+
+  <a href="../cite/Gertrudis/1286/RigSB">Gertrudis</a>
+
+  <a href="../cite/Gese/1299/RigSB">Gese</a>
+
+  <a href="../cite/Ghisekino/1304/RigSB">Ghisekino</a>
+
+  <a href="../cite/Godeken/1307/RigSB">Godeken</a>
+
+  <a href="../cite/Godekino/1291/RigSB">Godekino</a>
+
+  <a href="../cite/Godekino/1299/RigSB">Godekino</a>
+
+  <a href="../cite/Godekino/1301/RigSB">Godekino</a>
+
+  <a href="../cite/Godeschalco/1287/RigSB">Godeschalco</a>
+
+  <a href="../cite/Godfrido/1296/RigSB">Godfrido</a>
+
+  <a href="../cite/Godfrido/1295/RigSB">Godfrido</a>
+
+  <a href="../cite/Godike/1300/RigSB">Godike</a>
+
+  <a href="../cite/Goscalco/1297/RigSB">Goscalco</a>
+
+  <a href="../cite/Goschalco/1330/RigSB">Goschalco</a>
+
+  <a href="../cite/Goschalcus/1300/RigSB">Goschalcus</a>
+
+  <a href="../cite/Gotfrido/1302/RigSB">Gotfrido</a>
+
+  <a href="../cite/Gotfrido/1291/RigSB">Gotfrido</a>
+
+  <a href="../cite/Gotfrido/1290/RigSB">Gotfrido</a>
+
+  <a href="../cite/Gotscalci/1304/RigSB">Gotscalci</a>
+
+  <a href="../cite/Gotscalco/1303/RigSB">Gotscalco</a>
+
+  <a href="../cite/Gotscalco/1291/RigSB">Gotscalco</a>
+
+  <a href="../cite/Gotscalco/1290/RigSB">Gotscalco</a>
+
+  <a href="../cite/Gotscalcus/1292/RigSB">Gotscalcus</a>
+
+  <a href="../cite/Gotscalcus/1291/RigSB">Gotscalcus</a>
+
+  <a href="../cite/Gotsuino/1289/RigSB">Gotsuino</a>
+
+  <a href="../cite/Gotzvino/1289/RigSB">Gotzvino</a>
+
+  <a href="../cite/Greta/1288/RigSB">Greta</a>
+
+  <a href="../cite/Grete/1292/RigSB">Grete</a>
+
+  <a href="../cite/Greten/1298/RigSB">Greten</a>
+
+  <a href="../cite/Grethen/1301/RigSB">Grethen</a>
+
+  <a href="../cite/Gyselero/1302/RigSB">Gyselero</a>
+
+  <a href="../cite/Hartmanni/1290/RigSB">Hartmanni</a>
+
+  <a href="../cite/Hartmanno/1289/RigSB">Hartmanno</a>
+
+  <a href="../cite/Hartvici/1288/RigSB">Hartvici</a>
+
+  <a href="../cite/Hartvicus/1292/RigSB">Hartvicus</a>
+
+  <a href="../cite/Hartvicus/1288/RigSB">Hartvicus</a>
+
+  <a href="../cite/Hartwico/1291/RigSB">Hartwico</a>
+
+  <a href="../cite/Hartwico/1332/RigSB">Hartwico</a>
+
+  <a href="../cite/Hartwicus/1286/RigSB">Hartwicus</a>
+
+  <a href="../cite/Hartwicus/1293/RigSB">Hartwicus</a>
+
+  <a href="../cite/Hartwicus/1303/RigSB">Hartwicus</a>
+
+  <a href="../cite/Hartwicus/1300/RigSB">Hartwicus</a>
+
+  <a href="../cite/Hartwicus/1290/RigSB">Hartwicus</a>
+
+  <a href="../cite/Heinrico/1289/RigSB">Heinrico</a>
+
+  <a href="../cite/Heinrico/1287/RigSB">Heinrico</a>
+
+  <a href="../cite/Heinrico/1292/RigSB">Heinrico</a>
+
+  <a href="../cite/Heinrico/1291/RigSB">Heinrico</a>
+
+  <a href="../cite/Heinrico/1293/RigSB">Heinrico</a>
+
+  <a href="../cite/Heinrico/1286/RigSB">Heinrico</a>
+
+  <a href="../cite/Heinrico/1288/RigSB">Heinrico</a>
+
+  <a href="../cite/Heinrico/1290/RigSB">Heinrico</a>
+
+  <a href="../cite/Heinricus/1286/RigSB">Heinricus</a>
+
+  <a href="../cite/Heinricus/1295/RigSB">Heinricus</a>
+
+  <a href="../cite/Heinricus/1293/RigSB">Heinricus</a>
+
+  <a href="../cite/Heinricus/1288/RigSB">Heinricus</a>
+
+  <a href="../cite/Heinricus/1287/RigSB">Heinricus</a>
+
+  <a href="../cite/Heinricus/1291/RigSB">Heinricus</a>
+
+  <a href="../cite/Henneke/1287/RigSB">Henneke</a>
+
+  <a href="../cite/Henneke/1302/RigSB">Henneke</a>
+
+  <a href="../cite/Henneke/1294/RigSB">Henneke</a>
+
+  <a href="../cite/Hennekino/1286/RigSB">Hennekino</a>
+
+  <a href="../cite/Henrici/1298/RigSB">Henrici</a>
+
+  <a href="../cite/Henrici/1300/RigSB">Henrici</a>
+
+  <a href="../cite/Henrico/1309/RigSB">Henrico</a>
+
+  <a href="../cite/Henrico/1299/RigSB">Henrico</a>
+
+  <a href="../cite/Henrico/1305/RigSB">Henrico</a>
+
+  <a href="../cite/Henrico/1297/RigSB">Henrico</a>
+
+  <a href="../cite/Henrico/1290/RigSB">Henrico</a>
+
+  <a href="../cite/Henrico/1306/RigSB">Henrico</a>
+
+  <a href="../cite/Henrico/1307/RigSB">Henrico</a>
+
+  <a href="../cite/Henrico/1301/RigSB">Henrico</a>
+
+  <a href="../cite/Henrico/1304/RigSB">Henrico</a>
+
+  <a href="../cite/Henrico/1302/RigSB">Henrico</a>
+
+  <a href="../cite/Henrico/1300/RigSB">Henrico</a>
+
+  <a href="../cite/Henricus/1303/RigSB">Henricus</a>
+
+  <a href="../cite/Henricus/1302/RigSB">Henricus</a>
+
+  <a href="../cite/Henricus/1307/RigSB">Henricus</a>
+
+  <a href="../cite/Henricus/1306/RigSB">Henricus</a>
+
+  <a href="../cite/Henricus/1301/RigSB">Henricus</a>
+
+  <a href="../cite/Henricus/1299/RigSB">Henricus</a>
+
+  <a href="../cite/Henricus/1305/RigSB">Henricus</a>
+
+  <a href="../cite/Henricus/1300/RigSB">Henricus</a>
+
+  <a href="../cite/Herman/1297/RigSB">Herman</a>
+
+  <a href="../cite/Herman/1303/RigSB">Herman</a>
+
+  <a href="../cite/Herman/1300/RigSB">Herman</a>
+
+  <a href="../cite/Herman/1290/RigSB">Herman</a>
+
+  <a href="../cite/Herman/1302/RigSB">Herman</a>
+
+  <a href="../cite/Herman/1301/RigSB">Herman</a>
+
+  <a href="../cite/Hermanni/1290/RigSB">Hermanni</a>
+
+  <a href="../cite/Hermanni/1301/RigSB">Hermanni</a>
+
+  <a href="../cite/Hermanni/1352/RigSB">Hermanni</a>
+
+  <a href="../cite/Hermanni/1287/RigSB">Hermanni</a>
+
+  <a href="../cite/Hermanni/1300/RigSB">Hermanni</a>
+
+  <a href="../cite/Hermanno/1289/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1296/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1306/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1297/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1293/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1303/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1288/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1307/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1291?/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1290/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1294/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1313/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1295/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1292/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1328/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1298/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1319/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1286/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1287/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermanno/1291/RigSB">Hermanno</a>
+
+  <a href="../cite/Hermannum/1345/RigSB">Hermannum</a>
+
+  <a href="../cite/Hermannus/1303/RigSB">Hermannus</a>
+
+  <a href="../cite/Hermannus/1287/RigSB">Hermannus</a>
+
+  <a href="../cite/Hermannus/1291/RigSB">Hermannus</a>
+
+  <a href="../cite/Hermannus/1301/RigSB">Hermannus</a>
+
+  <a href="../cite/Hermannus/1286/RigSB">Hermannus</a>
+
+  <a href="../cite/Hermannus/1290/RigSB">Hermannus</a>
+
+  <a href="../cite/Hermannus/1300/RigSB">Hermannus</a>
+
+  <a href="../cite/Hermannus/1302/RigSB">Hermannus</a>
+
+  <a href="../cite/Hermannus/1307/RigSB">Hermannus</a>
+
+  <a href="../cite/Hesselo/1300/RigSB">Hesselo</a>
+
+  <a href="../cite/Hesselo/1301/RigSB">Hesselo</a>
+
+  <a href="../cite/Heydekino/1291/RigSB">Heydekino</a>
+
+  <a href="../cite/Heyneman/1289/RigSB">Heyneman</a>
+
+  <a href="../cite/Heynrico/1289/RigSB">Heynrico</a>
+
+  <a href="../cite/Hilboldo/1299/RigSB">Hilboldo</a>
+
+  <a href="../cite/Hildeboldo/1292/RigSB">Hildeboldo</a>
+
+  <a href="../cite/Hildeboldo/a1286/RigSB">Hildeboldo</a>
+
+  <a href="../cite/Hildeboldo/1287/RigSB">Hildeboldo</a>
+
+  <a href="../cite/Hildeboldo/1301/RigSB">Hildeboldo</a>
+
+  <a href="../cite/Hildeboldo/1295/RigSB">Hildeboldo</a>
+
+  <a href="../cite/Hildeboldo/1291/RigSB">Hildeboldo</a>
+
+  <a href="../cite/Hildeboldo/1294/RigSB">Hildeboldo</a>
+
+  <a href="../cite/Hildebrando/1288/RigSB">Hildebrando</a>
+
+  <a href="../cite/Hildebrando/1287/RigSB">Hildebrando</a>
+
+  <a href="../cite/Hildebrandus/1287/RigSB">Hildebrandus</a>
+
+  <a href="../cite/Hildegaro/1286/RigSB">Hildegaro</a>
+
+  <a href="../cite/Hildeger/1300/RigSB">Hildeger</a>
+
+  <a href="../cite/Hildegero/1289/RigSB">Hildegero</a>
+
+  <a href="../cite/Hildegero/1287/RigSB">Hildegero</a>
+
+  <a href="../cite/Hildegero/1290/RigSB">Hildegero</a>
+
+  <a href="../cite/Hildegundis/1289/RigSB">Hildegundis</a>
+
+  <a href="../cite/Hilleboldi/1304/RigSB">Hilleboldi</a>
+
+  <a href="../cite/Hilleboldo/1301/RigSB">Hilleboldo</a>
+
+  <a href="../cite/Hilleboldo/1307/RigSB">Hilleboldo</a>
+
+  <a href="../cite/Hilleboldo/1302/RigSB">Hilleboldo</a>
+
+  <a href="../cite/Hinrici/1338/RigSB">Hinrici</a>
+
+  <a href="../cite/Hinrici/1339/RigSB">Hinrici</a>
+
+  <a href="../cite/Hinrici/1294/RigSB">Hinrici</a>
+
+  <a href="../cite/Hinrico/1317/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1307/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1294/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1299/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1318/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1296/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1315/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1295/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1297/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1302/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1303/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1298/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1327/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1301/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinrico/1316/RigSB">Hinrico</a>
+
+  <a href="../cite/Hinricus/1303/RigSB">Hinricus</a>
+
+  <a href="../cite/Hinricus/1302/RigSB">Hinricus</a>
+
+  <a href="../cite/Hinricus/1299/RigSB">Hinricus</a>
+
+  <a href="../cite/Hinricus/1318/RigSB">Hinricus</a>
+
+  <a href="../cite/Hinricus/1296/RigSB">Hinricus</a>
+
+  <a href="../cite/Hugo/1303/RigSB">Hugo</a>
+
+  <a href="../cite/Hugoni/1290/RigSB">Hugoni</a>
+
+  <a href="../cite/Jachim/1296/RigSB">Jachim</a>
+
+  <a href="../cite/Jachim/1305/RigSB">Jachim</a>
+
+  <a href="../cite/Jachim/1301/RigSB">Jachim</a>
+
+  <a href="../cite/Jachym/1295/RigSB">Jachym</a>
+
+  <a href="../cite/Jacob/1292/RigSB">Jacob</a>
+
+  <a href="../cite/Jacob/1290/RigSB">Jacob</a>
+
+  <a href="../cite/Jacob/1291/RigSB">Jacob</a>
+
+  <a href="../cite/Jacobi/1338/RigSB">Jacobi</a>
+
+  <a href="../cite/Jacobi/1318/RigSB">Jacobi</a>
+
+  <a href="../cite/Jacobi/1288/RigSB">Jacobi</a>
+
+  <a href="../cite/Jacobi/1289/RigSB">Jacobi</a>
+
+  <a href="../cite/Jacobo/1300/RigSB">Jacobo</a>
+
+  <a href="../cite/Jacobo/1294/RigSB">Jacobo</a>
+
+  <a href="../cite/Jacobo/1292/RigSB">Jacobo</a>
+
+  <a href="../cite/Jacobus/1307/RigSB">Jacobus</a>
+
+  <a href="../cite/Jacobus/1305/RigSB">Jacobus</a>
+
+  <a href="../cite/Jacobus/1318/RigSB">Jacobus</a>
+
+  <a href="../cite/Jacobus/1291/RigSB">Jacobus</a>
+
+  <a href="../cite/Jacobus/1287/RigSB">Jacobus</a>
+
+  <a href="../cite/Jacobus/1288/RigSB">Jacobus</a>
+
+  <a href="../cite/Jacobus/1297/RigSB">Jacobus</a>
+
+  <a href="../cite/Jacobus/1302/RigSB">Jacobus</a>
+
+  <a href="../cite/Jacobus/1286/RigSB">Jacobus</a>
+
+  <a href="../cite/Jacobus/1303/RigSB">Jacobus</a>
+
+  <a href="../cite/Jacov/1289/RigSB">Jacov</a>
+
+  <a href="../cite/Jacowe/1303/RigSB">Jacowe</a>
+
+  <a href="../cite/Jacowe/1302/RigSB">Jacowe</a>
+
+  <a href="../cite/Jani/1295/RigSB">Jani</a>
+
+  <a href="../cite/Joachim/1307/RigSB">Joachim</a>
+
+  <a href="../cite/Joachim/1302/RigSB">Joachim</a>
+
+  <a href="../cite/Johachim/1307/RigSB">Johachim</a>
+
+  <a href="../cite/Johan/1298/RigSB">Johan</a>
+
+  <a href="../cite/Johan/1300/RigSB">Johan</a>
+
+  <a href="../cite/Johan/1290/RigSB">Johan</a>
+
+  <a href="../cite/Johan/1297/RigSB">Johan</a>
+
+  <a href="../cite/Johan/1301/RigSB">Johan</a>
+
+  <a href="../cite/Johan/1293/RigSB">Johan</a>
+
+  <a href="../cite/Johanne/1289/RigSB">Johanne</a>
+
+  <a href="../cite/Johannem/1288/RigSB">Johannem</a>
+
+  <a href="../cite/Johannes/1287/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1306/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1328/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1327/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1286/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1305/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1317/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1297/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1315/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1292/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1289/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1295/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1303/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1325/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1332/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1304/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1338/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1314/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1300/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1307/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1301/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1313/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1293/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1291/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1316/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1294/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1336/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1334/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1302/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1296/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1299/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1288/RigSB">Johannes</a>
+
+  <a href="../cite/Johannes/1323/RigSB">Johannes</a>
+
+  <a href="../cite/Johanni/1297/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1288/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1301/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1304/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1323/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1286/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1294/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1306/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1291/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1290/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1296/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1300/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1313/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1332/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1315/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1314/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1295/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1298/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1293/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1287/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1327/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1303/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1334/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1307/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1338/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1289/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1299/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1302/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1305/RigSB">Johanni</a>
+
+  <a href="../cite/Johanni/1292/RigSB">Johanni</a>
+
+  <a href="../cite/Johannis/1287/RigSB">Johannis</a>
+
+  <a href="../cite/Johannis/1289/RigSB">Johannis</a>
+
+  <a href="../cite/Johannis/1302/RigSB">Johannis</a>
+
+  <a href="../cite/Johannis/1291/RigSB">Johannis</a>
+
+  <a href="../cite/Johannis/1328/RigSB">Johannis</a>
+
+  <a href="../cite/Johannis/1300/RigSB">Johannis</a>
+
+  <a href="../cite/Johannis/1294/RigSB">Johannis</a>
+
+  <a href="../cite/Johannis/1305/RigSB">Johannis</a>
+
+  <a href="../cite/Johannis/1292/RigSB">Johannis</a>
+
+  <a href="../cite/Johannis/1352/RigSB">Johannis</a>
+
+  <a href="../cite/Johannis/1299/RigSB">Johannis</a>
+
+  <a href="../cite/Jordano/1297/RigSB">Jordano</a>
+
+  <a href="../cite/Jordanus/1289/RigSB">Jordanus</a>
+
+  <a href="../cite/Jordanus/1287/RigSB">Jordanus</a>
+
+  <a href="../cite/Joseph/1299/RigSB">Joseph</a>
+
+  <a href="../cite/Jurge/1303/RigSB">Jurge</a>
+
+  <a href="../cite/Jurian/1301/RigSB">Jurian</a>
+
+  <a href="../cite/Jutta/1297/RigSB">Jutta</a>
+
+  <a href="../cite/Jutta/1299/RigSB">Jutta</a>
+
+  <a href="../cite/Jutte/1303/RigSB">Jutte</a>
+
+  <a href="../cite/Katerina/1300/RigSB">Katerina</a>
+
+  <a href="../cite/Katerina/1289/RigSB">Katerina</a>
+
+  <a href="../cite/Ketelbern/1290/RigSB">Ketelbern</a>
+
+  <a href="../cite/Ketelberne/1300/RigSB">Ketelberne</a>
+
+  <a href="../cite/Ketelberne/1294/RigSB">Ketelberne</a>
+
+  <a href="../cite/Keye/1338/RigSB">Keye</a>
+
+  <a href="../cite/Konike/1298/RigSB">Konike</a>
+
+  <a href="../cite/Lamberto/1296/RigSB">Lamberto</a>
+
+  <a href="../cite/Lamberto/1305/RigSB">Lamberto</a>
+
+  <a href="../cite/Lamberto/1303/RigSB">Lamberto</a>
+
+  <a href="../cite/Lamberto/1295/RigSB">Lamberto</a>
+
+  <a href="../cite/Lamberto/1299/RigSB">Lamberto</a>
+
+  <a href="../cite/Lamberto/1286/RigSB">Lamberto</a>
+
+  <a href="../cite/Lamberto/1307/RigSB">Lamberto</a>
+
+  <a href="../cite/Lamberto/1292/RigSB">Lamberto</a>
+
+  <a href="../cite/Lamberto/1301/RigSB">Lamberto</a>
+
+  <a href="../cite/Lamberto/1297/RigSB">Lamberto</a>
+
+  <a href="../cite/Lamberto/1287/RigSB">Lamberto</a>
+
+  <a href="../cite/Lambertus/1303/RigSB">Lambertus</a>
+
+  <a href="../cite/Lambertus/1288/RigSB">Lambertus</a>
+
+  <a href="../cite/Lambertus/1291/RigSB">Lambertus</a>
+
+  <a href="../cite/Lambertus/1289/RigSB">Lambertus</a>
+
+  <a href="../cite/Lambertus/1290/RigSB">Lambertus</a>
+
+  <a href="../cite/Lambertus/1300/RigSB">Lambertus</a>
+
+  <a href="../cite/Lambertus/1287/RigSB">Lambertus</a>
+
+  <a href="../cite/Lambertus/1297/RigSB">Lambertus</a>
+
+  <a href="../cite/Laurencii/1289/RigSB">Laurencii</a>
+
+  <a href="../cite/Laurencii/1299/RigSB">Laurencii</a>
+
+  <a href="../cite/Laurencio/1289/RigSB">Laurencio</a>
+
+  <a href="../cite/Laurencio/1301/RigSB">Laurencio</a>
+
+  <a href="../cite/Lazar/1292/RigSB">Lazar</a>
+
+  <a href="../cite/Leticien/1300/RigSB">Leticien</a>
+
+  <a href="../cite/Lodewici/1319/RigSB">Lodewici</a>
+
+  <a href="../cite/Lodewico/1304/RigSB">Lodewico</a>
+
+  <a href="../cite/Lodewico/1295/RigSB">Lodewico</a>
+
+  <a href="../cite/Lodewico/1289/RigSB">Lodewico</a>
+
+  <a href="../cite/Lodewico/1286/RigSB">Lodewico</a>
+
+  <a href="../cite/Lodewico/1290/RigSB">Lodewico</a>
+
+  <a href="../cite/Lodewico/1291/RigSB">Lodewico</a>
+
+  <a href="../cite/Lodewico/1301/RigSB">Lodewico</a>
+
+  <a href="../cite/Lubberti/1286/RigSB">Lubberti</a>
+
+  <a href="../cite/Lubberto/1287/RigSB">Lubberto</a>
+
+  <a href="../cite/Lubbertus/1305/RigSB">Lubbertus</a>
+
+  <a href="../cite/Lubbertus/1286/RigSB">Lubbertus</a>
+
+  <a href="../cite/Lubbertus/1287/RigSB">Lubbertus</a>
+
+  <a href="../cite/Lubece/1289/RigSB">Lubece</a>
+
+  <a href="../cite/Lubecen/1294/RigSB">Lubecen</a>
+
+  <a href="../cite/Luberto/1289/RigSB">Luberto</a>
+
+  <a href="../cite/Luberto/1297/RigSB">Luberto</a>
+
+  <a href="../cite/Lubertus/1295/RigSB">Lubertus</a>
+
+  <a href="../cite/Ludberti/1291/RigSB">Ludberti</a>
+
+  <a href="../cite/Ludberto/1294/RigSB">Ludberto</a>
+
+  <a href="../cite/Ludbertus/1289/RigSB">Ludbertus</a>
+
+  <a href="../cite/Ludbertus/1291/RigSB">Ludbertus</a>
+
+  <a href="../cite/Ludbertus/1293/RigSB">Ludbertus</a>
+
+  <a href="../cite/Ludeke/1288/RigSB">Ludeke</a>
+
+  <a href="../cite/Ludeke/1289/RigSB">Ludeke</a>
+
+  <a href="../cite/Ludeke/1291/RigSB">Ludeke</a>
+
+  <a href="../cite/Ludekino/1295/RigSB">Ludekino</a>
+
+  <a href="../cite/Ludekino/1292/RigSB">Ludekino</a>
+
+  <a href="../cite/Ludekino/1286/RigSB">Ludekino</a>
+
+  <a href="../cite/Ludekino/1287/RigSB">Ludekino</a>
+
+  <a href="../cite/Ludekino/1294/RigSB">Ludekino</a>
+
+  <a href="../cite/Ludekinus/1290/RigSB">Ludekinus</a>
+
+  <a href="../cite/Ludekinus/1286/RigSB">Ludekinus</a>
+
+  <a href="../cite/Ludekinus/1288/RigSB">Ludekinus</a>
+
+  <a href="../cite/Ludekinus/1287/RigSB">Ludekinus</a>
+
+  <a href="../cite/Ludekinus/1289/RigSB">Ludekinus</a>
+
+  <a href="../cite/Luden/1303/RigSB">Luden</a>
+
+  <a href="../cite/Luden/1302/RigSB">Luden</a>
+
+  <a href="../cite/Ludiken/1298/RigSB">Ludiken</a>
+
+  <a href="../cite/Ludolfi/1286/RigSB">Ludolfi</a>
+
+  <a href="../cite/Ludolfo/1304/RigSB">Ludolfo</a>
+
+  <a href="../cite/Ludolfo/1336/RigSB">Ludolfo</a>
+
+  <a href="../cite/Ludolfo/1314/RigSB">Ludolfo</a>
+
+  <a href="../cite/Ludolfo/1296/RigSB">Ludolfo</a>
+
+  <a href="../cite/Ludolfus/1287/RigSB">Ludolfus</a>
+
+  <a href="../cite/Ludolphi/1288/RigSB">Ludolphi</a>
+
+  <a href="../cite/Ludolpho/1290/RigSB">Ludolpho</a>
+
+  <a href="../cite/Ludolpho/1292/RigSB">Ludolpho</a>
+
+  <a href="../cite/Ludolpho/1304/RigSB">Ludolpho</a>
+
+  <a href="../cite/Ludolpho/1288/RigSB">Ludolpho</a>
+
+  <a href="../cite/Ludolpho/1294/RigSB">Ludolpho</a>
+
+  <a href="../cite/Ludolpho/1293/RigSB">Ludolpho</a>
+
+  <a href="../cite/Ludolpho/1291/RigSB">Ludolpho</a>
+
+  <a href="../cite/Ludolphus/1289/RigSB">Ludolphus</a>
+
+  <a href="../cite/Lutberto/1294/RigSB">Lutberto</a>
+
+  <a href="../cite/Lutbertus/1303/RigSB">Lutbertus</a>
+
+  <a href="../cite/Margarete/1288/RigSB">Margarete</a>
+
+  <a href="../cite/Martini/1302/RigSB">Martini</a>
+
+  <a href="../cite/Mathe/1289/RigSB">Mathe</a>
+
+  <a href="../cite/Mauricii/1297/RigSB">Mauricii</a>
+
+  <a href="../cite/Mauricio/1288/RigSB">Mauricio</a>
+
+  <a href="../cite/Mauricio/1290/RigSB">Mauricio</a>
+
+  <a href="../cite/Mauricio/1286/RigSB">Mauricio</a>
+
+  <a href="../cite/Mauricio/1295/RigSB">Mauricio</a>
+
+  <a href="../cite/Mauricio/1291/RigSB">Mauricio</a>
+
+  <a href="../cite/Mauricio/1287/RigSB">Mauricio</a>
+
+  <a href="../cite/Mauricio/1292/RigSB">Mauricio</a>
+
+  <a href="../cite/Maxim/1292/RigSB">Maxim</a>
+
+  <a href="../cite/Mechtildis/1327/RigSB">Mechtildis</a>
+
+  <a href="../cite/Meynardi/1314/RigSB">Meynardi</a>
+
+  <a href="../cite/Meynardi/1338/RigSB">Meynardi</a>
+
+  <a href="../cite/Meynardo/1304/RigSB">Meynardo</a>
+
+  <a href="../cite/Meynekino/1291/RigSB">Meynekino</a>
+
+  <a href="../cite/Meynike/1297/RigSB">Meynike</a>
+
+  <a href="../cite/Michal/1303/RigSB">Michal</a>
+
+  <a href="../cite/Nicolao/1288/RigSB">Nicolao</a>
+
+  <a href="../cite/Nicolao/1287/RigSB">Nicolao</a>
+
+  <a href="../cite/Nicolao/1316/RigSB">Nicolao</a>
+
+  <a href="../cite/Nicolao/1290/RigSB">Nicolao</a>
+
+  <a href="../cite/Nicolaus/1287/RigSB">Nicolaus</a>
+
+  <a href="../cite/Olao/1297/RigSB">Olao</a>
+
+  <a href="../cite/Olifer/1287/RigSB">Olifer</a>
+
+  <a href="../cite/Olrico/1291/RigSB">Olrico</a>
+
+  <a href="../cite/Otthoni/1291/RigSB">Otthoni</a>
+
+  <a href="../cite/Otthoni/1294/RigSB">Otthoni</a>
+
+  <a href="../cite/Otto/1293/RigSB">Otto</a>
+
+  <a href="../cite/Otto/1289/RigSB">Otto</a>
+
+  <a href="../cite/Otto/1288/RigSB">Otto</a>
+
+  <a href="../cite/Otto/1290/RigSB">Otto</a>
+
+  <a href="../cite/Ottone/1291/RigSB">Ottone</a>
+
+  <a href="../cite/Ottoni/1289/RigSB">Ottoni</a>
+
+  <a href="../cite/Ottoni/1288/RigSB">Ottoni</a>
+
+  <a href="../cite/Ottoni/1296/RigSB">Ottoni</a>
+
+  <a href="../cite/Ottoni/1294/RigSB">Ottoni</a>
+
+  <a href="../cite/Ottonis/1299/RigSB">Ottonis</a>
+
+  <a href="../cite/Paule/1294/RigSB">Paule</a>
+
+  <a href="../cite/Peregrino/1290/RigSB">Peregrino</a>
+
+  <a href="../cite/Peregrinus/1290/RigSB">Peregrinus</a>
+
+  <a href="../cite/Peter/1289/RigSB">Peter</a>
+
+  <a href="../cite/Peter/1291/RigSB">Peter</a>
+
+  <a href="../cite/Peter/1292/RigSB">Peter</a>
+
+  <a href="../cite/Peter/1293/RigSB">Peter</a>
+
+  <a href="../cite/Petri/1296/RigSB">Petri</a>
+
+  <a href="../cite/Petro/1307/RigSB">Petro</a>
+
+  <a href="../cite/Petro/1302/RigSB">Petro</a>
+
+  <a href="../cite/Petro/1305/RigSB">Petro</a>
+
+  <a href="../cite/Petro/1290/RigSB">Petro</a>
+
+  <a href="../cite/Petrus/1289/RigSB">Petrus</a>
+
+  <a href="../cite/Petrus/1295/RigSB">Petrus</a>
+
+  <a href="../cite/Petrus/1300/RigSB">Petrus</a>
+
+  <a href="../cite/Petrus/1297/RigSB">Petrus</a>
+
+  <a href="../cite/Poloni/1297/RigSB">Poloni</a>
+
+  <a href="../cite/Raslowe/1294/RigSB">Raslowe</a>
+
+  <a href="../cite/Regebodoni/1288/RigSB">Regebodoni</a>
+
+  <a href="../cite/Regenbodoni/1292/RigSB">Regenbodoni</a>
+
+  <a href="../cite/Regenbodonis/1294/RigSB">Regenbodonis</a>
+
+  <a href="../cite/Regenbodonis/1300/RigSB">Regenbodonis</a>
+
+  <a href="../cite/Reymaro/1305/RigSB">Reymaro</a>
+
+  <a href="../cite/Reymaro/1304/RigSB">Reymaro</a>
+
+  <a href="../cite/Reymboldo/1294/RigSB">Reymboldo</a>
+
+  <a href="../cite/Reymer/1305/RigSB">Reymer</a>
+
+  <a href="../cite/Reynero/1295/RigSB">Reynero</a>
+
+  <a href="../cite/Reynero/1290/RigSB">Reynero</a>
+
+  <a href="../cite/Richardo/1291/RigSB">Richardo</a>
+
+  <a href="../cite/Richardo/1288/RigSB">Richardo</a>
+
+  <a href="../cite/Richardo/1295/RigSB">Richardo</a>
+
+  <a href="../cite/Richardo/1296/RigSB">Richardo</a>
+
+  <a href="../cite/Richardo/1286/RigSB">Richardo</a>
+
+  <a href="../cite/Richardo/1294/RigSB">Richardo</a>
+
+  <a href="../cite/Riquino/1291/RigSB">Riquino</a>
+
+  <a href="../cite/Rodolfus/1303/RigSB">Rodolfus</a>
+
+  <a href="../cite/Rolekino/1289/RigSB">Rolekino</a>
+
+  <a href="../cite/Rolekinus/1286/RigSB">Rolekinus</a>
+
+  <a href="../cite/Rolof/1330/RigSB">Rolof</a>
+
+  <a href="../cite/Rolof/1314/RigSB">Rolof</a>
+
+  <a href="../cite/Rotchero/1290/RigSB">Rotchero</a>
+
+  <a href="../cite/Rotcherus/1290/RigSB">Rotcherus</a>
+
+  <a href="../cite/Rotghero/1289/RigSB">Rotghero</a>
+
+  <a href="../cite/Rudolfo/1332/RigSB">Rudolfo</a>
+
+  <a href="../cite/Segebodonis/1288/RigSB">Segebodonis</a>
+
+  <a href="../cite/Seymoni/1290/RigSB">Seymoni</a>
+
+  <a href="../cite/Seymoni/1297/RigSB">Seymoni</a>
+
+  <a href="../cite/Seymonis/1289/RigSB">Seymonis</a>
+
+  <a href="../cite/Siffridi/1288/RigSB">Siffridi</a>
+
+  <a href="../cite/Siffridi/1292/RigSB">Siffridi</a>
+
+  <a href="../cite/Siffrido/1289/RigSB">Siffrido</a>
+
+  <a href="../cite/Siffrido/1290/RigSB">Siffrido</a>
+
+  <a href="../cite/Siffrido/1303/RigSB">Siffrido</a>
+
+  <a href="../cite/Siffrido/1302/RigSB">Siffrido</a>
+
+  <a href="../cite/Siffrido/1292/RigSB">Siffrido</a>
+
+  <a href="../cite/Siffrido/1294/RigSB">Siffrido</a>
+
+  <a href="../cite/Sifridi/1296/RigSB">Sifridi</a>
+
+  <a href="../cite/Sifridi/1295/RigSB">Sifridi</a>
+
+  <a href="../cite/Sifrido/1295/RigSB">Sifrido</a>
+
+  <a href="../cite/Sifrido/1300/RigSB">Sifrido</a>
+
+  <a href="../cite/Sifrido/1301/RigSB">Sifrido</a>
+
+  <a href="../cite/Sifrido/1304/RigSB">Sifrido</a>
+
+  <a href="../cite/Sifrido/1307/RigSB">Sifrido</a>
+
+  <a href="../cite/Sifrido/1299/RigSB">Sifrido</a>
+
+  <a href="../cite/Sifrido/1305/RigSB">Sifrido</a>
+
+  <a href="../cite/Sifridus/1300/RigSB">Sifridus</a>
+
+  <a href="../cite/Sophie/1288/RigSB">Sophie</a>
+
+  <a href="../cite/Steffanus/1307/RigSB">Steffanus</a>
+
+  <a href="../cite/Steppan/1293/RigSB">Steppan</a>
+
+  <a href="../cite/Steppan/1296/RigSB">Steppan</a>
+
+  <a href="../cite/Steppan/1297/RigSB">Steppan</a>
+
+  <a href="../cite/Steppan/1292/RigSB">Steppan</a>
+
+  <a href="../cite/Teoderico/1287/RigSB">Teoderico</a>
+
+  <a href="../cite/Tethmari/1298/RigSB">Tethmari</a>
+
+  <a href="../cite/Tethmaro/1296/RigSB">Tethmaro</a>
+
+  <a href="../cite/Tetmarus/1292/RigSB">Tetmarus</a>
+
+  <a href="../cite/Theoderico/1302/RigSB">Theoderico</a>
+
+  <a href="../cite/Theoderico/1315/RigSB">Theoderico</a>
+
+  <a href="../cite/Theoderico/1307/RigSB">Theoderico</a>
+
+  <a href="../cite/Theodericus/1307/RigSB">Theodericus</a>
+
+  <a href="../cite/Thidemanno/1303/RigSB">Thidemanno</a>
+
+  <a href="../cite/Thidemanno/1286/RigSB">Thidemanno</a>
+
+  <a href="../cite/Thidemanno/1314/RigSB">Thidemanno</a>
+
+  <a href="../cite/Thiderici/1295/RigSB">Thiderici</a>
+
+  <a href="../cite/Thiderici/1293/RigSB">Thiderici</a>
+
+  <a href="../cite/Thiderici/1294/RigSB">Thiderici</a>
+
+  <a href="../cite/Thiderico/1293/RigSB">Thiderico</a>
+
+  <a href="../cite/Thiderico/1287/RigSB">Thiderico</a>
+
+  <a href="../cite/Thiderico/1291/RigSB">Thiderico</a>
+
+  <a href="../cite/Thiderico/1286/RigSB">Thiderico</a>
+
+  <a href="../cite/Thiderico/1292/RigSB">Thiderico</a>
+
+  <a href="../cite/Thiderico/1303/RigSB">Thiderico</a>
+
+  <a href="../cite/Thidericus/1286/RigSB">Thidericus</a>
+
+  <a href="../cite/Thidericus/1290/RigSB">Thidericus</a>
+
+  <a href="../cite/Thidericus/1298/RigSB">Thidericus</a>
+
+  <a href="../cite/Thimmoni/1300/RigSB">Thimmoni</a>
+
+  <a href="../cite/Thinnoni/1299/RigSB">Thinnoni</a>
+
+  <a href="../cite/Thomas/1289/RigSB">Thomas</a>
+
+  <a href="../cite/Thomas/1302/RigSB">Thomas</a>
+
+  <a href="../cite/Thome/1290/RigSB">Thome</a>
+
+  <a href="../cite/Thome/1295/RigSB">Thome</a>
+
+  <a href="../cite/Tidemanni/1332/RigSB">Tidemanni</a>
+
+  <a href="../cite/Tidemanno/1303/RigSB">Tidemanno</a>
+
+  <a href="../cite/Tidemanno/1302/RigSB">Tidemanno</a>
+
+  <a href="../cite/Tiderici/1289/RigSB">Tiderici</a>
+
+  <a href="../cite/Tiderico/1290/RigSB">Tiderico</a>
+
+  <a href="../cite/Tiderico/1289/RigSB">Tiderico</a>
+
+  <a href="../cite/Tiderico/1288/RigSB">Tiderico</a>
+
+  <a href="../cite/Tidericus/1290/RigSB">Tidericus</a>
+
+  <a href="../cite/Tidericus/1289/RigSB">Tidericus</a>
+
+  <a href="../cite/Timmoni/1288/RigSB">Timmoni</a>
+
+  <a href="../cite/Timmoni/1301/RigSB">Timmoni</a>
+
+  <a href="../cite/Timmoni/1291/RigSB">Timmoni</a>
+
+  <a href="../cite/Timmoni/1300/RigSB">Timmoni</a>
+
+  <a href="../cite/Tydericus/1342/RigSB">Tydericus</a>
+
+  <a href="../cite/Ulrico/1289/RigSB">Ulrico</a>
+
+  <a href="../cite/Ulrico/1288/RigSB">Ulrico</a>
+
+  <a href="../cite/Volquino/1286/RigSB">Volquino</a>
+
+  <a href="../cite/Volquino/1295/RigSB">Volquino</a>
+
+  <a href="../cite/Wacil/1301/RigSB">Wacil</a>
+
+  <a href="../cite/Walburgi/1287/RigSB">Walburgi</a>
+
+  <a href="../cite/Waltero/1293/RigSB">Waltero</a>
+
+  <a href="../cite/Waltero/1304/RigSB">Waltero</a>
+
+  <a href="../cite/Waltherus/1301/RigSB">Waltherus</a>
+
+  <a href="../cite/Wascil/1296/RigSB">Wascil</a>
+
+  <a href="../cite/Wasile/1302/RigSB">Wasile</a>
+
+  <a href="../cite/Wasile/1307/RigSB">Wasile</a>
+
+  <a href="../cite/Wassile/1287/RigSB">Wassile</a>
+
+  <a href="../cite/Watsyle/1287/RigSB">Watsyle</a>
+
+  <a href="../cite/Wedekino/1287/RigSB">Wedekino</a>
+
+  <a href="../cite/Wernero/1286/RigSB">Wernero</a>
+
+  <a href="../cite/Wernero/1323/RigSB">Wernero</a>
+
+  <a href="../cite/Wernerus/1295/RigSB">Wernerus</a>
+
+  <a href="../cite/Wicboldo/1302/RigSB">Wicboldo</a>
+
+  <a href="../cite/Wicboldo/1303/RigSB">Wicboldo</a>
+
+  <a href="../cite/Wicboldo/1295/RigSB">Wicboldo</a>
+
+  <a href="../cite/Wicboldo/1287/RigSB">Wicboldo</a>
+
+  <a href="../cite/Wigant/1293/RigSB">Wigant</a>
+
+  <a href="../cite/Wigboldo/1295/RigSB">Wigboldo</a>
+
+  <a href="../cite/Wigboldo/1290/RigSB">Wigboldo</a>
+
+  <a href="../cite/Wigboldo/1293/RigSB">Wigboldo</a>
+
+  <a href="../cite/Wigboldus/1286/RigSB">Wigboldus</a>
+
+  <a href="../cite/Wiggheri/1302/RigSB">Wiggheri</a>
+
+  <a href="../cite/Wigheri/1302/RigSB">Wigheri</a>
+
+  <a href="../cite/Willekini/1286/RigSB">Willekini</a>
+
+  <a href="../cite/Willekino/1292/RigSB">Willekino</a>
+
+  <a href="../cite/Willekino/1300/RigSB">Willekino</a>
+
+  <a href="../cite/Willekino/1290/RigSB">Willekino</a>
+
+  <a href="../cite/Willekinus/1292/RigSB">Willekinus</a>
+
+  <a href="../cite/Willekinus/1288/RigSB">Willekinus</a>
+
+  <a href="../cite/Willekinus/1289/RigSB">Willekinus</a>
+
+  <a href="../cite/Willikini/1301/RigSB">Willikini</a>
+
+  <a href="../cite/Willikino/1296/RigSB">Willikino</a>
+
+  <a href="../cite/Willikino/1315/RigSB">Willikino</a>
+
+  <a href="../cite/Willikinus/1339/RigSB">Willikinus</a>
+
+  <a href="../cite/Winando/1296/RigSB">Winando</a>
+
+  <a href="../cite/Winando/1293/RigSB">Winando</a>
+
+  <a href="../cite/Winando/1292/RigSB">Winando</a>
+
+  <a href="../cite/Winando/1304/RigSB">Winando</a>
+
+  <a href="../cite/Winando/1295/RigSB">Winando</a>
+
+  <a href="../cite/Winandus/1304/RigSB">Winandus</a>
+
+  <a href="../cite/Woltero/1287/RigSB">Woltero</a>
+
+  <a href="../cite/Yachim/1292/RigSB">Yachim</a>
+
+  <a href="../cite/Yachim/1287/RigSB">Yachim</a>
+
+  <a href="../cite/Yachim/1305/RigSB">Yachim</a>
+
+  <a href="../cite/Yachim/1290/RigSB">Yachim</a>
+
+  <a href="../cite/Yachim/1291/RigSB">Yachim</a>
+
+  <a href="../cite/Yake/1292/RigSB">Yake</a>
+
+  <a href="../cite/Yane/1317/RigSB">Yane</a>
+
+  <a href="../cite/Yda/1292/RigSB">Yda</a>
+
+  <a href="../cite/Yosep/1297/RigSB">Yosep</a>
+
+  <a href="../cite/Yutte/1287/RigSB">Yutte</a>
+
+  <a href="../cite/Ywan/1290/RigSB">Ywan</a>
+
+  <a href="../cite/Ywan/1293/RigSB">Ywan</a>
+
+  <a href="../cite/Ywan/1297/RigSB">Ywan</a>
+
+  <a href="../cite/Ywan/1291/RigSB">Ywan</a>
+
+  <a href="../cite/Ywan/1289/RigSB">Ywan</a>
+
+  <a href="../cite/Ywano/1292/RigSB">Ywano</a>
+
+  <a href="../cite/Zacharie/1291/RigSB">Zacharie</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

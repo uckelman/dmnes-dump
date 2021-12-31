@@ -1,0 +1,498 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>BremUrk2</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>BremUrk2</dt>
+  <dd>D. R. Ehmck and W. von Bippen, editors. <em>Bremisches Urkundenbuch</em>, volume 2. Bremen: C. Ed. Müller, 1876.</dd>
+</dl>
+
+
+  <a href="../cite/Alardo/1303/BremUrk2">Alardo</a>
+
+  <a href="../cite/Albero/1302/BremUrk2">Albero</a>
+
+  <a href="../cite/Alberone/1302/BremUrk2">Alberone</a>
+
+  <a href="../cite/Alberonem/1302/BremUrk2">Alberonem</a>
+
+  <a href="../cite/Alberonem/1303/BremUrk2">Alberonem</a>
+
+  <a href="../cite/Alberoni/1303/BremUrk2">Alberoni</a>
+
+  <a href="../cite/Alberonis/1302/BremUrk2">Alberonis</a>
+
+  <a href="../cite/Alberto/1303/BremUrk2">Alberto</a>
+
+  <a href="../cite/Albertus/1304/BremUrk2">Albertus</a>
+
+  <a href="../cite/Alexander/1304/BremUrk2">Alexander</a>
+
+  <a href="../cite/Alexander/1301/BremUrk2">Alexander</a>
+
+  <a href="../cite/Alexandri/1303/BremUrk2">Alexandri</a>
+
+  <a href="../cite/Alheydi/1303/BremUrk2">Alheydi</a>
+
+  <a href="../cite/Allexandri/1303/BremUrk2">Allexandri</a>
+
+  <a href="../cite/Allexandri/1302/BremUrk2">Allexandri</a>
+
+  <a href="../cite/Alverici/1304/BremUrk2">Alverici</a>
+
+  <a href="../cite/Alvericus/1304/BremUrk2">Alvericus</a>
+
+  <a href="../cite/Alwardes/1304/BremUrk2">Alwardes</a>
+
+  <a href="../cite/Anscharius/1304/BremUrk2">Anscharius</a>
+
+  <a href="../cite/Arnoldus/1303/BremUrk2">Arnoldus</a>
+
+  <a href="../cite/Arnolt/1304/BremUrk2">Arnolt</a>
+
+  <a href="../cite/Basilius/1304/BremUrk2">Basilius</a>
+
+  <a href="../cite/Bernardus/1302/BremUrk2">Bernardus</a>
+
+  <a href="../cite/Bernart/1304/BremUrk2">Bernart</a>
+
+  <a href="../cite/Berthe/1304/BremUrk2">Berthe</a>
+
+  <a href="../cite/Bertrammum/1303/BremUrk2">Bertrammum</a>
+
+  <a href="../cite/Bertrammus/1302/BremUrk2">Bertrammus</a>
+
+  <a href="../cite/Bertrammus/1303/BremUrk2">Bertrammus</a>
+
+  <a href="../cite/Bonifatius/1302/BremUrk2">Bonifatius</a>
+
+  <a href="../cite/Boydekines/1304/BremUrk2">Boydekines</a>
+
+  <a href="../cite/Boydekini/1302/BremUrk2">Boydekini</a>
+
+  <a href="../cite/Conegunt/1304/BremUrk2">Conegunt</a>
+
+  <a href="../cite/Conrad/1303/BremUrk2">Conrad</a>
+
+  <a href="../cite/Conradi/1303/BremUrk2">Conradi</a>
+
+  <a href="../cite/Conrado/1303/BremUrk2">Conrado</a>
+
+  <a href="../cite/Conradus/1304/BremUrk2">Conradus</a>
+
+  <a href="../cite/Conradus/1301/BremUrk2">Conradus</a>
+
+  <a href="../cite/Conradus/1303/BremUrk2">Conradus</a>
+
+  <a href="../cite/Conrat/1304/BremUrk2">Conrat</a>
+
+  <a href="../cite/Cristiano/1303/BremUrk2">Cristiano</a>
+
+  <a href="../cite/Cristianus/1303/BremUrk2">Cristianus</a>
+
+  <a href="../cite/Cunrado/1303/BremUrk2">Cunrado</a>
+
+  <a href="../cite/Dante/1304/BremUrk2">Dante</a>
+
+  <a href="../cite/Dudoni/1303/BremUrk2">Dudoni</a>
+
+  <a href="../cite/Elizabet/1302/BremUrk2">Elizabet</a>
+
+  <a href="../cite/Elizabeth/1302/BremUrk2">Elizabeth</a>
+
+  <a href="../cite/Elsebe/1304/BremUrk2">Elsebe</a>
+
+  <a href="../cite/Elyzabeth/1302/BremUrk2">Elyzabeth</a>
+
+  <a href="../cite/Engelberti/1303/BremUrk2">Engelberti</a>
+
+  <a href="../cite/Engelbertus/1303/BremUrk2">Engelbertus</a>
+
+  <a href="../cite/Ericus/1304/BremUrk2">Ericus</a>
+
+  <a href="../cite/Florentius/1302/BremUrk2">Florentius</a>
+
+  <a href="../cite/Francisco/1303/BremUrk2">Francisco</a>
+
+  <a href="../cite/Fredderico/1303/BremUrk2">Fredderico</a>
+
+  <a href="../cite/Freddherico/1302/BremUrk2">Freddherico</a>
+
+  <a href="../cite/Frederici/1301/BremUrk2">Frederici</a>
+
+  <a href="../cite/Fredericus/1304/BremUrk2">Fredericus</a>
+
+  <a href="../cite/Frethericus/1301/BremUrk2">Frethericus</a>
+
+  <a href="../cite/Fridericus/1303/BremUrk2">Fridericus</a>
+
+  <a href="../cite/Geraldo/1303/BremUrk2">Geraldo</a>
+
+  <a href="../cite/Gerardes/1304/BremUrk2">Gerardes</a>
+
+  <a href="../cite/Gerfridus/1303/BremUrk2">Gerfridus</a>
+
+  <a href="../cite/Gerhardi/1303/BremUrk2">Gerhardi</a>
+
+  <a href="../cite/Gerhardus/1302/BremUrk2">Gerhardus</a>
+
+  <a href="../cite/Gherardus/1301/BremUrk2">Gherardus</a>
+
+  <a href="../cite/Ghiselbertus/1303/BremUrk2">Ghiselbertus</a>
+
+  <a href="../cite/Ghyselbertus/1303/BremUrk2">Ghyselbertus</a>
+
+  <a href="../cite/Giselberti/1303/BremUrk2">Giselberti</a>
+
+  <a href="../cite/Giselberto/1301/BremUrk2">Giselberto</a>
+
+  <a href="../cite/Giselbertus/1301/BremUrk2">Giselbertus</a>
+
+  <a href="../cite/Godeke/1304/BremUrk2">Godeke</a>
+
+  <a href="../cite/Gotfridus/1303/BremUrk2">Gotfridus</a>
+
+  <a href="../cite/Gotscalc/1304/BremUrk2">Gotscalc</a>
+
+  <a href="../cite/Gotscalci/1303/BremUrk2">Gotscalci</a>
+
+  <a href="../cite/Gotscalco/1303/BremUrk2">Gotscalco</a>
+
+  <a href="../cite/Gotscalcus/1304/BremUrk2">Gotscalcus</a>
+
+  <a href="../cite/Gotscalcus/1303/BremUrk2">Gotscalcus</a>
+
+  <a href="../cite/Gotscalkes/1304/BremUrk2">Gotscalkes</a>
+
+  <a href="../cite/Gotschalci/1301/BremUrk2">Gotschalci</a>
+
+  <a href="../cite/Grete/1304/BremUrk2">Grete</a>
+
+  <a href="../cite/Gyselberto/1303/BremUrk2">Gyselberto</a>
+
+  <a href="../cite/Gyselbertus/1303/BremUrk2">Gyselbertus</a>
+
+  <a href="../cite/Gyselbertus/1301/BremUrk2">Gyselbertus</a>
+
+  <a href="../cite/Gyselbertus/1302/BremUrk2">Gyselbertus</a>
+
+  <a href="../cite/Gysla/1303/BremUrk2">Gysla</a>
+
+  <a href="../cite/Gysle/1303/BremUrk2">Gysle</a>
+
+  <a href="../cite/Hartcheri/1302/BremUrk2">Hartcheri</a>
+
+  <a href="../cite/Hartger/1304/BremUrk2">Hartger</a>
+
+  <a href="../cite/Hartgeri/1304/BremUrk2">Hartgeri</a>
+
+  <a href="../cite/Hartgheri/1302/BremUrk2">Hartgheri</a>
+
+  <a href="../cite/Henke/1304/BremUrk2">Henke</a>
+
+  <a href="../cite/Henric/1304/BremUrk2">Henric</a>
+
+  <a href="../cite/Henrici/1303/BremUrk2">Henrici</a>
+
+  <a href="../cite/Henrico/1303/BremUrk2">Henrico</a>
+
+  <a href="../cite/Henricus/1301/BremUrk2">Henricus</a>
+
+  <a href="../cite/Henricus/1302/BremUrk2">Henricus</a>
+
+  <a href="../cite/Henricus/1303/BremUrk2">Henricus</a>
+
+  <a href="../cite/Herman/1304/BremUrk2">Herman</a>
+
+  <a href="../cite/Hermann/1304/BremUrk2">Hermann</a>
+
+  <a href="../cite/Hermanno/1303/BremUrk2">Hermanno</a>
+
+  <a href="../cite/Hermanno/1302/BremUrk2">Hermanno</a>
+
+  <a href="../cite/Hermannus/1302/BremUrk2">Hermannus</a>
+
+  <a href="../cite/Hermannus/1303/BremUrk2">Hermannus</a>
+
+  <a href="../cite/Hertgeri/1303/BremUrk2">Hertgeri</a>
+
+  <a href="../cite/Heynric/1304/BremUrk2">Heynric</a>
+
+  <a href="../cite/Heynricus/1301/BremUrk2">Heynricus</a>
+
+  <a href="../cite/Heynrikes/1304/BremUrk2">Heynrikes</a>
+
+  <a href="../cite/Hildewardus/1304/BremUrk2">Hildewardus</a>
+
+  <a href="../cite/Hinrico/1303/BremUrk2">Hinrico</a>
+
+  <a href="../cite/Hinricum/1303/BremUrk2">Hinricum</a>
+
+  <a href="../cite/Hinricus/1303/BremUrk2">Hinricus</a>
+
+  <a href="../cite/Immes/1304/BremUrk2">Immes</a>
+
+  <a href="../cite/Joannes/1303/BremUrk2">Joannes</a>
+
+  <a href="../cite/Johan/1304/BremUrk2">Johan</a>
+
+  <a href="../cite/Johanne/1301/BremUrk2">Johanne</a>
+
+  <a href="../cite/Johanne/1302/BremUrk2">Johanne</a>
+
+  <a href="../cite/Johanne/1303/BremUrk2">Johanne</a>
+
+  <a href="../cite/Johannem/1301/BremUrk2">Johannem</a>
+
+  <a href="../cite/Johannem/1303/BremUrk2">Johannem</a>
+
+  <a href="../cite/Johannes/1302/BremUrk2">Johannes</a>
+
+  <a href="../cite/Johannes/1301/BremUrk2">Johannes</a>
+
+  <a href="../cite/Johannes/1304/BremUrk2">Johannes</a>
+
+  <a href="../cite/Johannes/1303/BremUrk2">Johannes</a>
+
+  <a href="../cite/Johanni/1303/BremUrk2">Johanni</a>
+
+  <a href="../cite/Johanni/1301/BremUrk2">Johanni</a>
+
+  <a href="../cite/Johannis/1303/BremUrk2">Johannis</a>
+
+  <a href="../cite/Johannis/1302/BremUrk2">Johannis</a>
+
+  <a href="../cite/Johannis/1301/BremUrk2">Johannis</a>
+
+  <a href="../cite/Luderi/1303/BremUrk2">Luderi</a>
+
+  <a href="../cite/Luderus/1303/BremUrk2">Luderus</a>
+
+  <a href="../cite/Ludolfus/1301/BremUrk2">Ludolfus</a>
+
+  <a href="../cite/Ludolpho/1301/BremUrk2">Ludolpho</a>
+
+  <a href="../cite/Lutbrandi/1304/BremUrk2">Lutbrandi</a>
+
+  <a href="../cite/Lutgardis/1303/BremUrk2">Lutgardis</a>
+
+  <a href="../cite/Lutwordes/1304/BremUrk2">Lutwordes</a>
+
+  <a href="../cite/Manegoldus/1303/BremUrk2">Manegoldus</a>
+
+  <a href="../cite/Margareta/1301/BremUrk2">Margareta</a>
+
+  <a href="../cite/Margareta/1303/BremUrk2">Margareta</a>
+
+  <a href="../cite/Margareta/1302/BremUrk2">Margareta</a>
+
+  <a href="../cite/Margaretam/1302/BremUrk2">Margaretam</a>
+
+  <a href="../cite/Margarete/1302/BremUrk2">Margarete</a>
+
+  <a href="../cite/Martino/1303/BremUrk2">Martino</a>
+
+  <a href="../cite/Mechtilde/1303/BremUrk2">Mechtilde</a>
+
+  <a href="../cite/Mechtildis/1303/BremUrk2">Mechtildis</a>
+
+  <a href="../cite/Mechtolde/1304/BremUrk2">Mechtolde</a>
+
+  <a href="../cite/Metteke/1304/BremUrk2">Metteke</a>
+
+  <a href="../cite/Meyneke/1304/BremUrk2">Meyneke</a>
+
+  <a href="../cite/Meynwardus/1303/BremUrk2">Meynwardus</a>
+
+  <a href="../cite/Odeke/1304/BremUrk2">Odeke</a>
+
+  <a href="../cite/Odylie/1301/BremUrk2">Odylie</a>
+
+  <a href="../cite/Otonem/1303/BremUrk2">Otonem</a>
+
+  <a href="../cite/Otto/1304/BremUrk2">Otto</a>
+
+  <a href="../cite/Otto/1301/BremUrk2">Otto</a>
+
+  <a href="../cite/Otto/1303/BremUrk2">Otto</a>
+
+  <a href="../cite/Otto/1302/BremUrk2">Otto</a>
+
+  <a href="../cite/Ottone/1303/BremUrk2">Ottone</a>
+
+  <a href="../cite/Ottone/1302/BremUrk2">Ottone</a>
+
+  <a href="../cite/Ottonem/1301/BremUrk2">Ottonem</a>
+
+  <a href="../cite/Ottoni/1303/BremUrk2">Ottoni</a>
+
+  <a href="../cite/Ottonis/1303/BremUrk2">Ottonis</a>
+
+  <a href="../cite/Radolfi/1302/BremUrk2">Radolfi</a>
+
+  <a href="../cite/Reinoldus/1301/BremUrk2">Reinoldus</a>
+
+  <a href="../cite/Reymari/1303/BremUrk2">Reymari</a>
+
+  <a href="../cite/Reymari/1302/BremUrk2">Reymari</a>
+
+  <a href="../cite/Reymmari/1301/BremUrk2">Reymmari</a>
+
+  <a href="../cite/Reyneke/1304/BremUrk2">Reyneke</a>
+
+  <a href="../cite/Reynerus/1301/BremUrk2">Reynerus</a>
+
+  <a href="../cite/Reynoldus/1303/BremUrk2">Reynoldus</a>
+
+  <a href="../cite/Reynoldus/1301/BremUrk2">Reynoldus</a>
+
+  <a href="../cite/Reynoldus/1304/BremUrk2">Reynoldus</a>
+
+  <a href="../cite/Rodolfi/1301/BremUrk2">Rodolfi</a>
+
+  <a href="../cite/Rodolfus/1301/BremUrk2">Rodolfus</a>
+
+  <a href="../cite/Rodolfus/1303/BremUrk2">Rodolfus</a>
+
+  <a href="../cite/Rolves/1304/BremUrk2">Rolves</a>
+
+  <a href="../cite/Segebandus/1303/BremUrk2">Segebandus</a>
+
+  <a href="../cite/Segebodonis/1304/BremUrk2">Segebodonis</a>
+
+  <a href="../cite/Segebodonis/1303/BremUrk2">Segebodonis</a>
+
+  <a href="../cite/Siffrido/1303/BremUrk2">Siffrido</a>
+
+  <a href="../cite/Siffridum/1303/BremUrk2">Siffridum</a>
+
+  <a href="../cite/Sifridus/1303/BremUrk2">Sifridus</a>
+
+  <a href="../cite/Theoderico/1303/BremUrk2">Theoderico</a>
+
+  <a href="../cite/Theodericus/1303/BremUrk2">Theodericus</a>
+
+  <a href="../cite/Thetmarum/1303/BremUrk2">Thetmarum</a>
+
+  <a href="../cite/Thiderici/1303/BremUrk2">Thiderici</a>
+
+  <a href="../cite/Thiderico/1301/BremUrk2">Thiderico</a>
+
+  <a href="../cite/Thiderico/1303/BremUrk2">Thiderico</a>
+
+  <a href="../cite/Thidericum/1302/BremUrk2">Thidericum</a>
+
+  <a href="../cite/Thidericus/1301/BremUrk2">Thidericus</a>
+
+  <a href="../cite/Thidericus/1304/BremUrk2">Thidericus</a>
+
+  <a href="../cite/Thimaro/1303/BremUrk2">Thimaro</a>
+
+  <a href="../cite/Thithart/1304/BremUrk2">Thithart</a>
+
+  <a href="../cite/Thitmarum/1303/BremUrk2">Thitmarum</a>
+
+  <a href="../cite/Thome/1301/BremUrk2">Thome</a>
+
+  <a href="../cite/Tidericus/1303/BremUrk2">Tidericus</a>
+
+  <a href="../cite/Volbertum/1301/BremUrk2">Volbertum</a>
+
+  <a href="../cite/Volcmarus/1302/BremUrk2">Volcmarus</a>
+
+  <a href="../cite/Volquardes/1304/BremUrk2">Volquardes</a>
+
+  <a href="../cite/Volquardus/1304/BremUrk2">Volquardus</a>
+
+  <a href="../cite/Volquino/1302/BremUrk2">Volquino</a>
+
+  <a href="../cite/Volquino/1303/BremUrk2">Volquino</a>
+
+  <a href="../cite/Volquinum/1302/BremUrk2">Volquinum</a>
+
+  <a href="../cite/Volquinum/1303/BremUrk2">Volquinum</a>
+
+  <a href="../cite/Volquinus/1302/BremUrk2">Volquinus</a>
+
+  <a href="../cite/Werinberte/1303/BremUrk2">Werinberte</a>
+
+  <a href="../cite/Werinberto/1303/BremUrk2">Werinberto</a>
+
+  <a href="../cite/Werinberto/1301/BremUrk2">Werinberto</a>
+
+  <a href="../cite/Werinberto/1302/BremUrk2">Werinberto</a>
+
+  <a href="../cite/Werinbertus/1303/BremUrk2">Werinbertus</a>
+
+  <a href="../cite/Wibertes/1304/BremUrk2">Wibertes</a>
+
+  <a href="../cite/Willekin/1304/BremUrk2">Willekin</a>
+
+  <a href="../cite/Willekino/1303/BremUrk2">Willekino</a>
+
+  <a href="../cite/Willekinus/1303/BremUrk2">Willekinus</a>
+
+  <a href="../cite/Willekinus/1301/BremUrk2">Willekinus</a>
+
+  <a href="../cite/Willerus/1303/BremUrk2">Willerus</a>
+
+  <a href="../cite/Wolderic/1304/BremUrk2">Wolderic</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

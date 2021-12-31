@@ -1,0 +1,898 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Reg-KirkElla</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>Reg-KirkElla</dt>
+  <dd>James Foord and A. B. Wilson-Barkworth, editors. <em>The Register of Kirk Ella, Co. York</em>, volume Xi. London: Privately printed for the Parish Register Society, 1897.</dd>
+</dl>
+
+
+  <a href="../cite/Agnes/1563/Reg-KirkElla">Agnes</a>
+
+  <a href="../cite/Agnes/1564/Reg-KirkElla">Agnes</a>
+
+  <a href="../cite/Agnes/1562/Reg-KirkElla">Agnes</a>
+
+  <a href="../cite/Agnes/1559/Reg-KirkElla">Agnes</a>
+
+  <a href="../cite/Agnes/1567/Reg-KirkElla">Agnes</a>
+
+  <a href="../cite/Agnes/1569/Reg-KirkElla">Agnes</a>
+
+  <a href="../cite/Agnes/1568/Reg-KirkElla">Agnes</a>
+
+  <a href="../cite/Agnes/1565/Reg-KirkElla">Agnes</a>
+
+  <a href="../cite/Agnes/1566/Reg-KirkElla">Agnes</a>
+
+  <a href="../cite/Alicia/1559/Reg-KirkElla">Alicia</a>
+
+  <a href="../cite/Alicia/1562/Reg-KirkElla">Alicia</a>
+
+  <a href="../cite/Alicia/1572/Reg-KirkElla">Alicia</a>
+
+  <a href="../cite/Alicia/1571/Reg-KirkElla">Alicia</a>
+
+  <a href="../cite/Alicia/1563/Reg-KirkElla">Alicia</a>
+
+  <a href="../cite/Alicia/1563s4/Reg-KirkElla">Alicia</a>
+
+  <a href="../cite/Alicia/1579s80/Reg-KirkElla">Alicia</a>
+
+  <a href="../cite/Alicia/1568/Reg-KirkElla">Alicia</a>
+
+  <a href="../cite/Alicia/1560/Reg-KirkElla">Alicia</a>
+
+  <a href="../cite/Alicia/1565/Reg-KirkElla">Alicia</a>
+
+  <a href="../cite/Anna/1564/Reg-KirkElla">Anna</a>
+
+  <a href="../cite/Anna/1580/Reg-KirkElla">Anna</a>
+
+  <a href="../cite/Anna/1563s4/Reg-KirkElla">Anna</a>
+
+  <a href="../cite/Anna/1572/Reg-KirkElla">Anna</a>
+
+  <a href="../cite/Anna/1565s6/Reg-KirkElla">Anna</a>
+
+  <a href="../cite/Anna/1566/Reg-KirkElla">Anna</a>
+
+  <a href="../cite/Anna/1560s1/Reg-KirkElla">Anna</a>
+
+  <a href="../cite/Anthonij/1568/Reg-KirkElla">Anthonij</a>
+
+  <a href="../cite/Barbara/1572/Reg-KirkElla">Barbara</a>
+
+  <a href="../cite/Barbara/1579/Reg-KirkElla">Barbara</a>
+
+  <a href="../cite/Barbara/1579s80/Reg-KirkElla">Barbara</a>
+
+  <a href="../cite/Bartholemeus/1561/Reg-KirkElla">Bartholemeus</a>
+
+  <a href="../cite/Bryani/1562/Reg-KirkElla">Bryani</a>
+
+  <a href="../cite/Bryani/1564s5/Reg-KirkElla">Bryani</a>
+
+  <a href="../cite/Bryanni/1558/Reg-KirkElla">Bryanni</a>
+
+  <a href="../cite/Bryanus/1565s6/Reg-KirkElla">Bryanus</a>
+
+  <a href="../cite/Bryanus/1558/Reg-KirkElla">Bryanus</a>
+
+  <a href="../cite/Christoferi/1580/Reg-KirkElla">Christoferi</a>
+
+  <a href="../cite/Christopheri/1564s5/Reg-KirkElla">Christopheri</a>
+
+  <a href="../cite/Christopheri/1563/Reg-KirkElla">Christopheri</a>
+
+  <a href="../cite/Christopheri/1571/Reg-KirkElla">Christopheri</a>
+
+  <a href="../cite/Christopheri/1570/Reg-KirkElla">Christopheri</a>
+
+  <a href="../cite/Christopherus/1563s4/Reg-KirkElla">Christopherus</a>
+
+  <a href="../cite/Christopherus/1580/Reg-KirkElla">Christopherus</a>
+
+  <a href="../cite/Christopherus/1572s3/Reg-KirkElla">Christopherus</a>
+
+  <a href="../cite/Christopherus/1562/Reg-KirkElla">Christopherus</a>
+
+  <a href="../cite/Christophorus/1569/Reg-KirkElla">Christophorus</a>
+
+  <a href="../cite/Christophorus/1566s7/Reg-KirkElla">Christophorus</a>
+
+  <a href="../cite/Cicilia/1563/Reg-KirkElla">Cicilia</a>
+
+  <a href="../cite/Cicilia/1572s3/Reg-KirkElla">Cicilia</a>
+
+  <a href="../cite/Cicilia/1563s4/Reg-KirkElla">Cicilia</a>
+
+  <a href="../cite/Cicilia/1567s8/Reg-KirkElla">Cicilia</a>
+
+  <a href="../cite/Clemens/1564/Reg-KirkElla">Clemens</a>
+
+  <a href="../cite/Constantia/1564/Reg-KirkElla">Constantia</a>
+
+  <a href="../cite/Constantia/1562s3/Reg-KirkElla">Constantia</a>
+
+  <a href="../cite/Cornelius/1567/Reg-KirkElla">Cornelius</a>
+
+  <a href="../cite/Daniel/1561/Reg-KirkElla">Daniel</a>
+
+  <a href="../cite/Dionissa/1567/Reg-KirkElla">Dionissa</a>
+
+  <a href="../cite/Dorethea/1558/Reg-KirkElla">Dorethea</a>
+
+  <a href="../cite/Dorethia/1569/Reg-KirkElla">Dorethia</a>
+
+  <a href="../cite/Dorethia/1580s1/Reg-KirkElla">Dorethia</a>
+
+  <a href="../cite/Dorithea/1571/Reg-KirkElla">Dorithea</a>
+
+  <a href="../cite/Dorithia/1562/Reg-KirkElla">Dorithia</a>
+
+  <a href="../cite/Edmundus/1563/Reg-KirkElla">Edmundus</a>
+
+  <a href="../cite/Edwardi/1564/Reg-KirkElla">Edwardi</a>
+
+  <a href="../cite/Edwardi/1568/Reg-KirkElla">Edwardi</a>
+
+  <a href="../cite/Edwardi/1562/Reg-KirkElla">Edwardi</a>
+
+  <a href="../cite/Edwardi/1567/Reg-KirkElla">Edwardi</a>
+
+  <a href="../cite/Edwardus/1578/Reg-KirkElla">Edwardus</a>
+
+  <a href="../cite/Edwardus/1559/Reg-KirkElla">Edwardus</a>
+
+  <a href="../cite/Edwardus/1562/Reg-KirkElla">Edwardus</a>
+
+  <a href="../cite/Edwardus/1561/Reg-KirkElla">Edwardus</a>
+
+  <a href="../cite/Edwardus/1570/Reg-KirkElla">Edwardus</a>
+
+  <a href="../cite/Egidius/1571s2/Reg-KirkElla">Egidius</a>
+
+  <a href="../cite/Elizabeth/1580s1/Reg-KirkElla">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1580/Reg-KirkElla">Elizabeth</a>
+
+  <a href="../cite/Elizabetha/1571/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1563/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1563s4/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1561/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1568/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1565s6/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1578/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1579/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1569s70/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1579s80/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1559/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1564/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1572/Reg-KirkElla">Elizabetha</a>
+
+  <a href="../cite/Ellena/1560s1/Reg-KirkElla">Ellena</a>
+
+  <a href="../cite/Ellena/1570/Reg-KirkElla">Ellena</a>
+
+  <a href="../cite/Ellena/1567/Reg-KirkElla">Ellena</a>
+
+  <a href="../cite/Ellena/1572/Reg-KirkElla">Ellena</a>
+
+  <a href="../cite/Ellena/1564/Reg-KirkElla">Ellena</a>
+
+  <a href="../cite/Ellena/1569/Reg-KirkElla">Ellena</a>
+
+  <a href="../cite/Ellena/1565/Reg-KirkElla">Ellena</a>
+
+  <a href="../cite/Ellena/1566/Reg-KirkElla">Ellena</a>
+
+  <a href="../cite/Ellena/1579/Reg-KirkElla">Ellena</a>
+
+  <a href="../cite/Ellena/1562/Reg-KirkElla">Ellena</a>
+
+  <a href="../cite/Ellena/1571/Reg-KirkElla">Ellena</a>
+
+  <a href="../cite/Ellena/1579s80/Reg-KirkElla">Ellena</a>
+
+  <a href="../cite/Ellizabeth/1561/Reg-KirkElla">Ellizabeth</a>
+
+  <a href="../cite/Georgii/1563s4/Reg-KirkElla">Georgii</a>
+
+  <a href="../cite/Georgij/1561/Reg-KirkElla">Georgij</a>
+
+  <a href="../cite/Georgij/1570/Reg-KirkElla">Georgij</a>
+
+  <a href="../cite/Georgius/1559/Reg-KirkElla">Georgius</a>
+
+  <a href="../cite/Georgius/1566s7/Reg-KirkElla">Georgius</a>
+
+  <a href="../cite/Georgius/1562/Reg-KirkElla">Georgius</a>
+
+  <a href="../cite/Georgius/1579/Reg-KirkElla">Georgius</a>
+
+  <a href="../cite/Georgius/1571/Reg-KirkElla">Georgius</a>
+
+  <a href="../cite/Gracia/1579/Reg-KirkElla">Gracia</a>
+
+  <a href="../cite/Gratia/1579/Reg-KirkElla">Gratia</a>
+
+  <a href="../cite/Helina/1559/Reg-KirkElla">Helina</a>
+
+  <a href="../cite/Hellena/1560/Reg-KirkElla">Hellena</a>
+
+  <a href="../cite/Henrici/1558/Reg-KirkElla">Henrici</a>
+
+  <a href="../cite/Henrici/1570/Reg-KirkElla">Henrici</a>
+
+  <a href="../cite/Henrici/1570s1/Reg-KirkElla">Henrici</a>
+
+  <a href="../cite/Henrici/1578/Reg-KirkElla">Henrici</a>
+
+  <a href="../cite/Henrici/1566s7/Reg-KirkElla">Henrici</a>
+
+  <a href="../cite/Henrici/1564/Reg-KirkElla">Henrici</a>
+
+  <a href="../cite/Henrici/1561/Reg-KirkElla">Henrici</a>
+
+  <a href="../cite/Henricus/1559/Reg-KirkElla">Henricus</a>
+
+  <a href="../cite/Henricus/1579s80/Reg-KirkElla">Henricus</a>
+
+  <a href="../cite/Henricus/1569/Reg-KirkElla">Henricus</a>
+
+  <a href="../cite/Henricus/1571/Reg-KirkElla">Henricus</a>
+
+  <a href="../cite/Isabella/1567/Reg-KirkElla">Isabella</a>
+
+  <a href="../cite/Isabella/1568/Reg-KirkElla">Isabella</a>
+
+  <a href="../cite/Isabella/1565s6/Reg-KirkElla">Isabella</a>
+
+  <a href="../cite/Isabella/1560/Reg-KirkElla">Isabella</a>
+
+  <a href="../cite/Isabella/1562/Reg-KirkElla">Isabella</a>
+
+  <a href="../cite/Isabella/1566/Reg-KirkElla">Isabella</a>
+
+  <a href="../cite/Isabella/1565/Reg-KirkElla">Isabella</a>
+
+  <a href="../cite/Isabella/1579/Reg-KirkElla">Isabella</a>
+
+  <a href="../cite/Isabella/1571s2/Reg-KirkElla">Isabella</a>
+
+  <a href="../cite/Isabella/1564s5/Reg-KirkElla">Isabella</a>
+
+  <a href="../cite/Isabella/1561/Reg-KirkElla">Isabella</a>
+
+  <a href="../cite/Jacobus/1580/Reg-KirkElla">Jacobus</a>
+
+  <a href="../cite/Jeneta/1562/Reg-KirkElla">Jeneta</a>
+
+  <a href="../cite/Joanna/1566s7/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1567s8/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1563s4/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1572s3/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1569/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1561/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1558/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1579/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1566/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1580/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1563/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1578/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1560/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1579s80/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1568/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1571/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1567/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Joanna/1564s5/Reg-KirkElla">Joanna</a>
+
+  <a href="../cite/Johanes/1579s80/Reg-KirkElla">Johanes</a>
+
+  <a href="../cite/Johanes/1569s70/Reg-KirkElla">Johanes</a>
+
+  <a href="../cite/Johanes/1572/Reg-KirkElla">Johanes</a>
+
+  <a href="../cite/Johanes/1569/Reg-KirkElla">Johanes</a>
+
+  <a href="../cite/Johanes/1566/Reg-KirkElla">Johanes</a>
+
+  <a href="../cite/Johanes/1565s6/Reg-KirkElla">Johanes</a>
+
+  <a href="../cite/Johanes/1571/Reg-KirkElla">Johanes</a>
+
+  <a href="../cite/Johanes/1564/Reg-KirkElla">Johanes</a>
+
+  <a href="../cite/Johanes/1578/Reg-KirkElla">Johanes</a>
+
+  <a href="../cite/Johanis/1569s70/Reg-KirkElla">Johanis</a>
+
+  <a href="../cite/Johanis/1569/Reg-KirkElla">Johanis</a>
+
+  <a href="../cite/Johanis/1565s6/Reg-KirkElla">Johanis</a>
+
+  <a href="../cite/Johanis/1567/Reg-KirkElla">Johanis</a>
+
+  <a href="../cite/Johanis/1570/Reg-KirkElla">Johanis</a>
+
+  <a href="../cite/Johanis/1568/Reg-KirkElla">Johanis</a>
+
+  <a href="../cite/Johanis/1563s4/Reg-KirkElla">Johanis</a>
+
+  <a href="../cite/Johanna/1561/Reg-KirkElla">Johanna</a>
+
+  <a href="../cite/Johanna/1559/Reg-KirkElla">Johanna</a>
+
+  <a href="../cite/Johanna/1569/Reg-KirkElla">Johanna</a>
+
+  <a href="../cite/Johanna/1563/Reg-KirkElla">Johanna</a>
+
+  <a href="../cite/Johannes/1567s8/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannes/1572/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannes/1567/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannes/1571/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannes/1563/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannes/1562/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannes/1559/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannes/1580/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannes/1560/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannes/1572s3/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannes/1579/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannes/1564/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannes/1561/Reg-KirkElla">Johannes</a>
+
+  <a href="../cite/Johannis/1563/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1565/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1566/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1562/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1566s7/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1569/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1568/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1572s3/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1571/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1578/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1559/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1572/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1560s1/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1580s1/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1571s2/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1579s80/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1561/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Johannis/1564/Reg-KirkElla">Johannis</a>
+
+  <a href="../cite/Juliana/1580/Reg-KirkElla">Juliana</a>
+
+  <a href="../cite/Katherina/1568s9/Reg-KirkElla">Katherina</a>
+
+  <a href="../cite/Katterina/1571/Reg-KirkElla">Katterina</a>
+
+  <a href="../cite/Katterina/1562/Reg-KirkElla">Katterina</a>
+
+  <a href="../cite/Katterina/1566/Reg-KirkElla">Katterina</a>
+
+  <a href="../cite/Lawrentij/1565/Reg-KirkElla">Lawrentij</a>
+
+  <a href="../cite/Lawrentius/1579s80/Reg-KirkElla">Lawrentius</a>
+
+  <a href="../cite/Margareta/1567s8/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1566/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1570/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1568/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1580/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1572/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1578s9/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1561s2/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1569/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1571/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1565/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1561/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1562/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1580s1/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Margareta/1579/Reg-KirkElla">Margareta</a>
+
+  <a href="../cite/Maria/1564/Reg-KirkElla">Maria</a>
+
+  <a href="../cite/Marmaduci/1566/Reg-KirkElla">Marmaduci</a>
+
+  <a href="../cite/Marmaduci/1569/Reg-KirkElla">Marmaduci</a>
+
+  <a href="../cite/Marmaducus/1580/Reg-KirkElla">Marmaducus</a>
+
+  <a href="../cite/Marmaducus/1579/Reg-KirkElla">Marmaducus</a>
+
+  <a href="../cite/Martinus/1571/Reg-KirkElla">Martinus</a>
+
+  <a href="../cite/Nathaniel/1580/Reg-KirkElla">Nathaniel</a>
+
+  <a href="../cite/Nicholai/1580/Reg-KirkElla">Nicholai</a>
+
+  <a href="../cite/Nicholaus/1569/Reg-KirkElla">Nicholaus</a>
+
+  <a href="../cite/Nicholaus/1560/Reg-KirkElla">Nicholaus</a>
+
+  <a href="../cite/Nicolai/1563/Reg-KirkElla">Nicolai</a>
+
+  <a href="../cite/Nicolaus/1565/Reg-KirkElla">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1564/Reg-KirkElla">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1579/Reg-KirkElla">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1578s9/Reg-KirkElla">Nicolaus</a>
+
+  <a href="../cite/Petri/1562/Reg-KirkElla">Petri</a>
+
+  <a href="../cite/Petri/1572/Reg-KirkElla">Petri</a>
+
+  <a href="../cite/Petri/1558/Reg-KirkElla">Petri</a>
+
+  <a href="../cite/Petri/1568/Reg-KirkElla">Petri</a>
+
+  <a href="../cite/Petri/1564s5/Reg-KirkElla">Petri</a>
+
+  <a href="../cite/Petri/1562s3/Reg-KirkElla">Petri</a>
+
+  <a href="../cite/Petri/1561/Reg-KirkElla">Petri</a>
+
+  <a href="../cite/Petri/1566/Reg-KirkElla">Petri</a>
+
+  <a href="../cite/Petri/1578s9/Reg-KirkElla">Petri</a>
+
+  <a href="../cite/Petri/1565/Reg-KirkElla">Petri</a>
+
+  <a href="../cite/Petri/1560s1/Reg-KirkElla">Petri</a>
+
+  <a href="../cite/Petrus/1559/Reg-KirkElla">Petrus</a>
+
+  <a href="../cite/Petrus/1558/Reg-KirkElla">Petrus</a>
+
+  <a href="../cite/Radulphi/1566/Reg-KirkElla">Radulphi</a>
+
+  <a href="../cite/Radulphi/1563/Reg-KirkElla">Radulphi</a>
+
+  <a href="../cite/Radulphi/1561/Reg-KirkElla">Radulphi</a>
+
+  <a href="../cite/Radulphi/1561s2/Reg-KirkElla">Radulphi</a>
+
+  <a href="../cite/Radulphi/1568/Reg-KirkElla">Radulphi</a>
+
+  <a href="../cite/Radulphi/1562/Reg-KirkElla">Radulphi</a>
+
+  <a href="../cite/Radulphus/1571/Reg-KirkElla">Radulphus</a>
+
+  <a href="../cite/Radulphus/1560/Reg-KirkElla">Radulphus</a>
+
+  <a href="../cite/Radulphus/1564s5/Reg-KirkElla">Radulphus</a>
+
+  <a href="../cite/Radulphus/1559/Reg-KirkElla">Radulphus</a>
+
+  <a href="../cite/Radulphus/1569s70/Reg-KirkElla">Radulphus</a>
+
+  <a href="../cite/Radulphus/1580/Reg-KirkElla">Radulphus</a>
+
+  <a href="../cite/Reonaldus/1567s8/Reg-KirkElla">Reonaldus</a>
+
+  <a href="../cite/Richardi/1567/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardi/1564s5/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardi/1571s2/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardi/1568/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardi/1579/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardi/1572/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardi/1561s2/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardi/1563/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardi/1561/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardi/1562/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardi/1570/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardi/1559/Reg-KirkElla">Richardi</a>
+
+  <a href="../cite/Richardus/1561/Reg-KirkElla">Richardus</a>
+
+  <a href="../cite/Richardus/1569s70/Reg-KirkElla">Richardus</a>
+
+  <a href="../cite/Richardus/1562/Reg-KirkElla">Richardus</a>
+
+  <a href="../cite/Richardus/1567/Reg-KirkElla">Richardus</a>
+
+  <a href="../cite/Richardus/1570/Reg-KirkElla">Richardus</a>
+
+  <a href="../cite/Richardus/1558/Reg-KirkElla">Richardus</a>
+
+  <a href="../cite/Richardus/1568s9/Reg-KirkElla">Richardus</a>
+
+  <a href="../cite/Richardus/1559/Reg-KirkElla">Richardus</a>
+
+  <a href="../cite/Roberti/1565s6/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1564/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1569/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1567/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1579/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1580/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1561/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1563/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1579s80/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1562/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1567s8/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1571/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1568/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1570/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Roberti/1563s4/Reg-KirkElla">Roberti</a>
+
+  <a href="../cite/Robertus/1570/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1567/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1558/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1560/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1572/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1563/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1571/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1568/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1561/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1562/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1566s7/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1566/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1578s9/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1565/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1562s3/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Robertus/1568s9/Reg-KirkElla">Robertus</a>
+
+  <a href="../cite/Roger/1564s5/Reg-KirkElla">Roger</a>
+
+  <a href="../cite/Rogeri/1562/Reg-KirkElla">Rogeri</a>
+
+  <a href="../cite/Rogeri/1571/Reg-KirkElla">Rogeri</a>
+
+  <a href="../cite/Rogerus/1570/Reg-KirkElla">Rogerus</a>
+
+  <a href="../cite/Rogerus/1571/Reg-KirkElla">Rogerus</a>
+
+  <a href="../cite/Sibilla/1562/Reg-KirkElla">Sibilla</a>
+
+  <a href="../cite/Sibilla/1558/Reg-KirkElla">Sibilla</a>
+
+  <a href="../cite/Sibilla/1564s5/Reg-KirkElla">Sibilla</a>
+
+  <a href="../cite/Sibilla/1560/Reg-KirkElla">Sibilla</a>
+
+  <a href="../cite/Sicilia/1561/Reg-KirkElla">Sicilia</a>
+
+  <a href="../cite/Simon/1559/Reg-KirkElla">Simon</a>
+
+  <a href="../cite/Simon/1558/Reg-KirkElla">Simon</a>
+
+  <a href="../cite/Thoma/1567/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1571/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1568/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1579s80/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1561/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1558/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1572/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1562/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1570/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1564/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1559/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1578/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1579/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1563/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1566/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1580s1/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thoma/1565s6/Reg-KirkElla">Thoma</a>
+
+  <a href="../cite/Thomas/1559/Reg-KirkElla">Thomas</a>
+
+  <a href="../cite/Thomas/1579/Reg-KirkElla">Thomas</a>
+
+  <a href="../cite/Thomæ/1563s4/Reg-KirkElla">Thomæ</a>
+
+  <a href="../cite/Thomæ/1566/Reg-KirkElla">Thomæ</a>
+
+  <a href="../cite/Thomæ/1580s1/Reg-KirkElla">Thomæ</a>
+
+  <a href="../cite/Thomæ/1562/Reg-KirkElla">Thomæ</a>
+
+  <a href="../cite/Thomæ/1579s80/Reg-KirkElla">Thomæ</a>
+
+  <a href="../cite/Thomæ/1563/Reg-KirkElla">Thomæ</a>
+
+  <a href="../cite/Thomæ/1568s9/Reg-KirkElla">Thomæ</a>
+
+  <a href="../cite/Thomæ/1571/Reg-KirkElla">Thomæ</a>
+
+  <a href="../cite/Thomæ/1559/Reg-KirkElla">Thomæ</a>
+
+  <a href="../cite/Thomæ/1561/Reg-KirkElla">Thomæ</a>
+
+  <a href="../cite/Ursula/1572/Reg-KirkElla">Ursula</a>
+
+  <a href="../cite/Wellelmi/1567/Reg-KirkElla">Wellelmi</a>
+
+  <a href="../cite/Willelmi/1580/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1569/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1571/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1564/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1563/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1567/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1568/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1563s4/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1564s5/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1562/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1570/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1566/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1569s70/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1579s80/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1567s8/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1578s9/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1565s6/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmi/1565/Reg-KirkElla">Willelmi</a>
+
+  <a href="../cite/Willelmus/1558/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1564/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1571/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1563/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1580/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1566/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1568/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1561/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1565s6/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1567s8/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1562s3/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1570/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1572/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1569/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1559s60/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1579/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1579s80/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1578/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1562/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1564s5/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1559/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/Willelmus/1560/Reg-KirkElla">Willelmus</a>
+
+  <a href="../cite/britii/1571/Reg-KirkElla">britii</a>
+
+  <a href="../cite/ffrancisca/1569/Reg-KirkElla">ffrancisca</a>
+
+  <a href="../cite/ffrancisca/1567/Reg-KirkElla">ffrancisca</a>
+
+  <a href="../cite/ffrancisca/1569s70/Reg-KirkElla">ffrancisca</a>
+
+  <a href="../cite/ffrancisca/1565/Reg-KirkElla">ffrancisca</a>
+
+  <a href="../cite/ffrancisca/1568s9/Reg-KirkElla">ffrancisca</a>
+
+  <a href="../cite/ffranciscus/1563s4/Reg-KirkElla">ffranciscus</a>
+
+  <a href="../cite/ffranciscus/1564/Reg-KirkElla">ffranciscus</a>
+
+  <a href="../cite/ffransisca/1578s9/Reg-KirkElla">ffransisca</a>
+
+  <a href="../cite/ffransisca/1571/Reg-KirkElla">ffransisca</a>
+
+  <a href="../cite/ffransiscus/1579s80/Reg-KirkElla">ffransiscus</a>
+
+  <a href="../cite/ffransiscus/1561s2/Reg-KirkElla">ffransiscus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

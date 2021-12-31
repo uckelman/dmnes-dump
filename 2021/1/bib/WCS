@@ -1,0 +1,3542 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>WCS</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>WCS</dt>
+  <dd>Humphrey Marett Godfray, editor. <em>Registre des Baptesmes, Mariages, &amp; Morts, et Jeusnes. De Leglise Wallonne et des Isles de Jersey, Guernesey, Serq, Origny, &amp;tc., Etablie a Southampton par Patente du Roy Edouard Sixe et da le Reine Elizabeth</em>. Lymington: Chas. T. King, for the Huguenot Society of London, 1890.</dd>
+</dl>
+
+
+  <a href="../cite/Aaron/1579/WCS">Aaron</a>
+
+  <a href="../cite/Abraham/1571/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1594/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1574/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1580/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1593/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1570/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1590/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1596/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1576/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1573/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1575/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1581/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1585/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1591/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1583/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1588/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1578/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1571s2/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1579/WCS">Abraham</a>
+
+  <a href="../cite/Abraham/1597/WCS">Abraham</a>
+
+  <a href="../cite/Achilés/1568/WCS">Achilés</a>
+
+  <a href="../cite/Achilles/1567/WCS">Achilles</a>
+
+  <a href="../cite/Adrian/1567/WCS">Adrian</a>
+
+  <a href="../cite/Adrien/1599/WCS">Adrien</a>
+
+  <a href="../cite/Adrien/1595/WCS">Adrien</a>
+
+  <a href="../cite/Adrien/1585/WCS">Adrien</a>
+
+  <a href="../cite/Adrien/1579/WCS">Adrien</a>
+
+  <a href="../cite/Adrien/1581/WCS">Adrien</a>
+
+  <a href="../cite/Adrien/1597/WCS">Adrien</a>
+
+  <a href="../cite/Adrien/1593/WCS">Adrien</a>
+
+  <a href="../cite/Adrien/1573/WCS">Adrien</a>
+
+  <a href="../cite/Adrien/1576/WCS">Adrien</a>
+
+  <a href="../cite/Adrien/1572/WCS">Adrien</a>
+
+  <a href="../cite/Adrien/1569s70/WCS">Adrien</a>
+
+  <a href="../cite/Adrien/1586/WCS">Adrien</a>
+
+  <a href="../cite/Adrien/1572s3/WCS">Adrien</a>
+
+  <a href="../cite/Aliennor/1580/WCS">Aliennor</a>
+
+  <a href="../cite/Alizon/1580/WCS">Alizon</a>
+
+  <a href="../cite/Alizon/1595/WCS">Alizon</a>
+
+  <a href="../cite/Alizon/1592/WCS">Alizon</a>
+
+  <a href="../cite/Alizon/1598/WCS">Alizon</a>
+
+  <a href="../cite/Allard/1577/WCS">Allard</a>
+
+  <a href="../cite/Alles/1582/WCS">Alles</a>
+
+  <a href="../cite/Ambroise/1582/WCS">Ambroise</a>
+
+  <a href="../cite/Ambroise/1577/WCS">Ambroise</a>
+
+  <a href="../cite/Ambroise/1581/WCS">Ambroise</a>
+
+  <a href="../cite/Andre/1578/WCS">Andre</a>
+
+  <a href="../cite/André/1587/WCS">André</a>
+
+  <a href="../cite/André/1578/WCS">André</a>
+
+  <a href="../cite/André/1599/WCS">André</a>
+
+  <a href="../cite/André/1584/WCS">André</a>
+
+  <a href="../cite/André/1577/WCS">André</a>
+
+  <a href="../cite/André/1593/WCS">André</a>
+
+  <a href="../cite/André/1596/WCS">André</a>
+
+  <a href="../cite/André/1576/WCS">André</a>
+
+  <a href="../cite/André/1579/WCS">André</a>
+
+  <a href="../cite/André/1574/WCS">André</a>
+
+  <a href="../cite/Andrieu/1571/WCS">Andrieu</a>
+
+  <a href="../cite/Andrieu/1570/WCS">Andrieu</a>
+
+  <a href="../cite/Andrieu/1569/WCS">Andrieu</a>
+
+  <a href="../cite/Andrine/1590/WCS">Andrine</a>
+
+  <a href="../cite/Andrine/1587/WCS">Andrine</a>
+
+  <a href="../cite/Andrue/1567/WCS">Andrue</a>
+
+  <a href="../cite/Anne/1582/WCS">Anne</a>
+
+  <a href="../cite/Anne/1596/WCS">Anne</a>
+
+  <a href="../cite/Anne/1580/WCS">Anne</a>
+
+  <a href="../cite/Anne/1573/WCS">Anne</a>
+
+  <a href="../cite/Anne/1594/WCS">Anne</a>
+
+  <a href="../cite/Anne/1570/WCS">Anne</a>
+
+  <a href="../cite/Anne/1579/WCS">Anne</a>
+
+  <a href="../cite/Anne/1592/WCS">Anne</a>
+
+  <a href="../cite/Anne/1571/WCS">Anne</a>
+
+  <a href="../cite/Anne/1574/WCS">Anne</a>
+
+  <a href="../cite/Anne/1588/WCS">Anne</a>
+
+  <a href="../cite/Anne/1586/WCS">Anne</a>
+
+  <a href="../cite/Anne/1590/WCS">Anne</a>
+
+  <a href="../cite/Anne/1577/WCS">Anne</a>
+
+  <a href="../cite/Anne/1595/WCS">Anne</a>
+
+  <a href="../cite/Anne/1599/WCS">Anne</a>
+
+  <a href="../cite/Anne/1585/WCS">Anne</a>
+
+  <a href="../cite/Anne/1591/WCS">Anne</a>
+
+  <a href="../cite/Anne/1598/WCS">Anne</a>
+
+  <a href="../cite/Anne/1581/WCS">Anne</a>
+
+  <a href="../cite/Anne/1589/WCS">Anne</a>
+
+  <a href="../cite/Anne/1587/WCS">Anne</a>
+
+  <a href="../cite/Anthoine/1571s2/WCS">Anthoine</a>
+
+  <a href="../cite/Anthoine/1576/WCS">Anthoine</a>
+
+  <a href="../cite/Anthoine/1572/WCS">Anthoine</a>
+
+  <a href="../cite/Anthoine/1569/WCS">Anthoine</a>
+
+  <a href="../cite/Anthoine/1573/WCS">Anthoine</a>
+
+  <a href="../cite/Anthoine/1567/WCS">Anthoine</a>
+
+  <a href="../cite/Anthoine/1568/WCS">Anthoine</a>
+
+  <a href="../cite/Anthoine/1589/WCS">Anthoine</a>
+
+  <a href="../cite/Anthoine/1587/WCS">Anthoine</a>
+
+  <a href="../cite/Anthoine/1571/WCS">Anthoine</a>
+
+  <a href="../cite/Anthoine/1574/WCS">Anthoine</a>
+
+  <a href="../cite/Anthoine/1583/WCS">Anthoine</a>
+
+  <a href="../cite/Anthoinette/1569s70/WCS">Anthoinette</a>
+
+  <a href="../cite/Anthoinette/1570/WCS">Anthoinette</a>
+
+  <a href="../cite/Anthoinette/1571/WCS">Anthoinette</a>
+
+  <a href="../cite/Antoine/1574/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1575/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1576/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1579/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1595/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1597/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1592/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1594/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1577/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1583/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1586/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1582/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1573/WCS">Antoine</a>
+
+  <a href="../cite/Antoine/1580/WCS">Antoine</a>
+
+  <a href="../cite/Antoinette/1576/WCS">Antoinette</a>
+
+  <a href="../cite/Antoinette/1586/WCS">Antoinette</a>
+
+  <a href="../cite/Antonnette/1586/WCS">Antonnette</a>
+
+  <a href="../cite/Antonnette/1583/WCS">Antonnette</a>
+
+  <a href="../cite/Archilles/1572/WCS">Archilles</a>
+
+  <a href="../cite/Arnoul/1568/WCS">Arnoul</a>
+
+  <a href="../cite/Arnoul/1580/WCS">Arnoul</a>
+
+  <a href="../cite/Arnoul/1581/WCS">Arnoul</a>
+
+  <a href="../cite/Arnoul/1577/WCS">Arnoul</a>
+
+  <a href="../cite/Arnoux/1572/WCS">Arnoux</a>
+
+  <a href="../cite/Arristot/1580/WCS">Arristot</a>
+
+  <a href="../cite/Arron/1575/WCS">Arron</a>
+
+  <a href="../cite/Augustin/1580/WCS">Augustin</a>
+
+  <a href="../cite/Augustin/1567/WCS">Augustin</a>
+
+  <a href="../cite/Augustin/1581/WCS">Augustin</a>
+
+  <a href="../cite/Augustin/1587/WCS">Augustin</a>
+
+  <a href="../cite/Augustin/1576/WCS">Augustin</a>
+
+  <a href="../cite/Baltasar/1576/WCS">Baltasar</a>
+
+  <a href="../cite/Baltazar/1584/WCS">Baltazar</a>
+
+  <a href="../cite/Balthasar/1588/WCS">Balthasar</a>
+
+  <a href="../cite/Balthasar/1598/WCS">Balthasar</a>
+
+  <a href="../cite/Balthasar/1589/WCS">Balthasar</a>
+
+  <a href="../cite/Balthasar/1587/WCS">Balthasar</a>
+
+  <a href="../cite/Barbe/1575/WCS">Barbe</a>
+
+  <a href="../cite/Barbe/1570s1/WCS">Barbe</a>
+
+  <a href="../cite/Barbe/1586/WCS">Barbe</a>
+
+  <a href="../cite/Barbe/1569/WCS">Barbe</a>
+
+  <a href="../cite/Bastien/1572/WCS">Bastien</a>
+
+  <a href="../cite/Bastien/1570/WCS">Bastien</a>
+
+  <a href="../cite/Bastien/1567/WCS">Bastien</a>
+
+  <a href="../cite/Bastienne/1588/WCS">Bastienne</a>
+
+  <a href="../cite/Benjamin/1587/WCS">Benjamin</a>
+
+  <a href="../cite/Bernard/1571/WCS">Bernard</a>
+
+  <a href="../cite/Bernard/1574/WCS">Bernard</a>
+
+  <a href="../cite/Bernard/1572/WCS">Bernard</a>
+
+  <a href="../cite/Bernard/1573/WCS">Bernard</a>
+
+  <a href="../cite/Bernart/1571/WCS">Bernart</a>
+
+  <a href="../cite/Blancet/1573/WCS">Blancet</a>
+
+  <a href="../cite/Bon/1568/WCS">Bon</a>
+
+  <a href="../cite/Bon/1567/WCS">Bon</a>
+
+  <a href="../cite/Cardin/1589/WCS">Cardin</a>
+
+  <a href="../cite/Cardin/1594/WCS">Cardin</a>
+
+  <a href="../cite/Cardin/1599/WCS">Cardin</a>
+
+  <a href="../cite/Cardin/1595/WCS">Cardin</a>
+
+  <a href="../cite/Cardin/1581/WCS">Cardin</a>
+
+  <a href="../cite/Cardin/1569/WCS">Cardin</a>
+
+  <a href="../cite/Cardin/1588/WCS">Cardin</a>
+
+  <a href="../cite/Cardin/1592/WCS">Cardin</a>
+
+  <a href="../cite/Cardine/1594/WCS">Cardine</a>
+
+  <a href="../cite/Cardine/1573/WCS">Cardine</a>
+
+  <a href="../cite/Caterine/1577/WCS">Caterine</a>
+
+  <a href="../cite/Caterine/1582/WCS">Caterine</a>
+
+  <a href="../cite/Caterine/1579/WCS">Caterine</a>
+
+  <a href="../cite/Caterine/1583/WCS">Caterine</a>
+
+  <a href="../cite/Caterine/1578/WCS">Caterine</a>
+
+  <a href="../cite/Caterine/1580/WCS">Caterine</a>
+
+  <a href="../cite/Caterine/1573/WCS">Caterine</a>
+
+  <a href="../cite/Catharine/1594/WCS">Catharine</a>
+
+  <a href="../cite/Catharine/1599/WCS">Catharine</a>
+
+  <a href="../cite/Catharine/1598/WCS">Catharine</a>
+
+  <a href="../cite/Catherine/1592/WCS">Catherine</a>
+
+  <a href="../cite/Catherine/1575/WCS">Catherine</a>
+
+  <a href="../cite/Catherine/1574/WCS">Catherine</a>
+
+  <a href="../cite/Catherine/1573/WCS">Catherine</a>
+
+  <a href="../cite/Catherine/1572s3/WCS">Catherine</a>
+
+  <a href="../cite/Catherine/1580/WCS">Catherine</a>
+
+  <a href="../cite/Catherine/1591/WCS">Catherine</a>
+
+  <a href="../cite/Catherine/1571s2/WCS">Catherine</a>
+
+  <a href="../cite/Catherine/1595/WCS">Catherine</a>
+
+  <a href="../cite/Catherine/1587/WCS">Catherine</a>
+
+  <a href="../cite/Cecille/1573/WCS">Cecille</a>
+
+  <a href="../cite/Cesar/1576/WCS">Cesar</a>
+
+  <a href="../cite/Charles/1579/WCS">Charles</a>
+
+  <a href="../cite/Charles/1572/WCS">Charles</a>
+
+  <a href="../cite/Charles/1569s70/WCS">Charles</a>
+
+  <a href="../cite/Charles/1590/WCS">Charles</a>
+
+  <a href="../cite/Charles/1576/WCS">Charles</a>
+
+  <a href="../cite/Charles/1586/WCS">Charles</a>
+
+  <a href="../cite/Charles/1588/WCS">Charles</a>
+
+  <a href="../cite/Charles/1567/WCS">Charles</a>
+
+  <a href="../cite/Charles/1570/WCS">Charles</a>
+
+  <a href="../cite/Charles/1594/WCS">Charles</a>
+
+  <a href="../cite/Charles/1577/WCS">Charles</a>
+
+  <a href="../cite/Charles/1575/WCS">Charles</a>
+
+  <a href="../cite/Charles/1578/WCS">Charles</a>
+
+  <a href="../cite/Charles/1572s3/WCS">Charles</a>
+
+  <a href="../cite/Charles/1584/WCS">Charles</a>
+
+  <a href="../cite/Charlote/1572s3/WCS">Charlote</a>
+
+  <a href="../cite/Charlotte/1573/WCS">Charlotte</a>
+
+  <a href="../cite/Chatarine/1599/WCS">Chatarine</a>
+
+  <a href="../cite/Chaterine/1591/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1568s9/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1579/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1586/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1585/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1569/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1593/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1590/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1588/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1570/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1587/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1573/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1576/WCS">Chaterine</a>
+
+  <a href="../cite/Chaterine/1577/WCS">Chaterine</a>
+
+  <a href="../cite/Chrestienne/1568/WCS">Chrestienne</a>
+
+  <a href="../cite/Christofle/1569/WCS">Christofle</a>
+
+  <a href="../cite/Christofle/1578/WCS">Christofle</a>
+
+  <a href="../cite/Christofle/1572/WCS">Christofle</a>
+
+  <a href="../cite/Cicile/1584/WCS">Cicile</a>
+
+  <a href="../cite/Cicile/1583/WCS">Cicile</a>
+
+  <a href="../cite/Cicile/1567/WCS">Cicile</a>
+
+  <a href="../cite/Cicille/1588/WCS">Cicille</a>
+
+  <a href="../cite/Cicille/1570/WCS">Cicille</a>
+
+  <a href="../cite/Cicille/1572/WCS">Cicille</a>
+
+  <a href="../cite/Cicille/1582/WCS">Cicille</a>
+
+  <a href="../cite/Cicille/1596/WCS">Cicille</a>
+
+  <a href="../cite/Cisille/1569/WCS">Cisille</a>
+
+  <a href="../cite/Clare/1573/WCS">Clare</a>
+
+  <a href="../cite/Clarette/1594/WCS">Clarette</a>
+
+  <a href="../cite/Clarette/1569s70/WCS">Clarette</a>
+
+  <a href="../cite/Clarette/1583/WCS">Clarette</a>
+
+  <a href="../cite/Claude/1592/WCS">Claude</a>
+
+  <a href="../cite/Claude/1589/WCS">Claude</a>
+
+  <a href="../cite/Claude/1594/WCS">Claude</a>
+
+  <a href="../cite/Claude/1576/WCS">Claude</a>
+
+  <a href="../cite/Claude/1577/WCS">Claude</a>
+
+  <a href="../cite/Claude/1573/WCS">Claude</a>
+
+  <a href="../cite/Claude/1588/WCS">Claude</a>
+
+  <a href="../cite/Claude/1586/WCS">Claude</a>
+
+  <a href="../cite/Claude/1596/WCS">Claude</a>
+
+  <a href="../cite/Claude/1585/WCS">Claude</a>
+
+  <a href="../cite/Claude/1573/WCS">Claude</a>
+
+  <a href="../cite/Claude/1572s3/WCS">Claude</a>
+
+  <a href="../cite/Claude/1580/WCS">Claude</a>
+
+  <a href="../cite/Claude/1587/WCS">Claude</a>
+
+  <a href="../cite/Claude/1590/WCS">Claude</a>
+
+  <a href="../cite/Claude/1591/WCS">Claude</a>
+
+  <a href="../cite/Claude/1593/WCS">Claude</a>
+
+  <a href="../cite/Claudine/1589/WCS">Claudine</a>
+
+  <a href="../cite/Claudine/1598/WCS">Claudine</a>
+
+  <a href="../cite/Claudine/1594/WCS">Claudine</a>
+
+  <a href="../cite/Clemence/1578/WCS">Clemence</a>
+
+  <a href="../cite/Clement/1590/WCS">Clement</a>
+
+  <a href="../cite/Clement/1586/WCS">Clement</a>
+
+  <a href="../cite/Clement/1597/WCS">Clement</a>
+
+  <a href="../cite/Clement/1593/WCS">Clement</a>
+
+  <a href="../cite/Clement/1585/WCS">Clement</a>
+
+  <a href="../cite/Clement/1580/WCS">Clement</a>
+
+  <a href="../cite/Clement/1592/WCS">Clement</a>
+
+  <a href="../cite/Clement/1595/WCS">Clement</a>
+
+  <a href="../cite/Clement/1584/WCS">Clement</a>
+
+  <a href="../cite/Clement/1581/WCS">Clement</a>
+
+  <a href="../cite/Clement/1587/WCS">Clement</a>
+
+  <a href="../cite/Clement/1599/WCS">Clement</a>
+
+  <a href="../cite/Colette/1587/WCS">Colette</a>
+
+  <a href="../cite/Colette/1575/WCS">Colette</a>
+
+  <a href="../cite/Colette/1586/WCS">Colette</a>
+
+  <a href="../cite/Colette/1591/WCS">Colette</a>
+
+  <a href="../cite/Colette/1573/WCS">Colette</a>
+
+  <a href="../cite/Collette/1574/WCS">Collette</a>
+
+  <a href="../cite/Collette/1588/WCS">Collette</a>
+
+  <a href="../cite/Collette/1577/WCS">Collette</a>
+
+  <a href="../cite/Collette/1586/WCS">Collette</a>
+
+  <a href="../cite/Collette/1594/WCS">Collette</a>
+
+  <a href="../cite/Collette/1583/WCS">Collette</a>
+
+  <a href="../cite/Collette/1598/WCS">Collette</a>
+
+  <a href="../cite/Collette/1596/WCS">Collette</a>
+
+  <a href="../cite/Corneille/1569/WCS">Corneille</a>
+
+  <a href="../cite/Cornelis/1567/WCS">Cornelis</a>
+
+  <a href="../cite/Cornille/1568/WCS">Cornille</a>
+
+  <a href="../cite/Cornille/1568s9/WCS">Cornille</a>
+
+  <a href="../cite/Cornille/1576/WCS">Cornille</a>
+
+  <a href="../cite/Daniel/1595/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1568/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1586/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1570/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1597/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1594/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1573/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1591/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1593/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1598/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1596/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1590/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1575/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1589/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1588/WCS">Daniel</a>
+
+  <a href="../cite/Daniel/1587/WCS">Daniel</a>
+
+  <a href="../cite/Dauid/1572/WCS">Dauid</a>
+
+  <a href="../cite/Dauid/1593/WCS">Dauid</a>
+
+  <a href="../cite/Dauid/1598/WCS">Dauid</a>
+
+  <a href="../cite/Dauid/1590/WCS">Dauid</a>
+
+  <a href="../cite/Dauid/1567/WCS">Dauid</a>
+
+  <a href="../cite/Dauid/1595/WCS">Dauid</a>
+
+  <a href="../cite/Dauid/1586/WCS">Dauid</a>
+
+  <a href="../cite/Dauid/1599/WCS">Dauid</a>
+
+  <a href="../cite/Dauid/1574/WCS">Dauid</a>
+
+  <a href="../cite/Dauit/1568/WCS">Dauit</a>
+
+  <a href="../cite/David/1585/WCS">David</a>
+
+  <a href="../cite/Debora/1588/WCS">Debora</a>
+
+  <a href="../cite/Denis/1589/WCS">Denis</a>
+
+  <a href="../cite/Denis/1598/WCS">Denis</a>
+
+  <a href="../cite/Denis/1569/WCS">Denis</a>
+
+  <a href="../cite/Denis/1588/WCS">Denis</a>
+
+  <a href="../cite/Denis/1579/WCS">Denis</a>
+
+  <a href="../cite/Dominic/1585/WCS">Dominic</a>
+
+  <a href="../cite/Dominic/1590/WCS">Dominic</a>
+
+  <a href="../cite/Dominic/1588/WCS">Dominic</a>
+
+  <a href="../cite/Dominic/1586/WCS">Dominic</a>
+
+  <a href="../cite/Dominic/1589/WCS">Dominic</a>
+
+  <a href="../cite/Dominicq/1588/WCS">Dominicq</a>
+
+  <a href="../cite/Edouart/1598/WCS">Edouart</a>
+
+  <a href="../cite/Edouart/1582/WCS">Edouart</a>
+
+  <a href="../cite/Edouart/1594/WCS">Edouart</a>
+
+  <a href="../cite/Edouart/1599/WCS">Edouart</a>
+
+  <a href="../cite/Edouart/1596/WCS">Edouart</a>
+
+  <a href="../cite/Edouart/1592/WCS">Edouart</a>
+
+  <a href="../cite/Eduart/1599/WCS">Eduart</a>
+
+  <a href="../cite/Elie/1592/WCS">Elie</a>
+
+  <a href="../cite/Elie/1588/WCS">Elie</a>
+
+  <a href="../cite/Elie/1593/WCS">Elie</a>
+
+  <a href="../cite/Elie/1590/WCS">Elie</a>
+
+  <a href="../cite/Elie/1594/WCS">Elie</a>
+
+  <a href="../cite/Elie/1589/WCS">Elie</a>
+
+  <a href="../cite/Elie/1585/WCS">Elie</a>
+
+  <a href="../cite/Elisabeth/1582/WCS">Elisabeth</a>
+
+  <a href="../cite/Elisabeth/1579/WCS">Elisabeth</a>
+
+  <a href="../cite/Elisabeth/1583/WCS">Elisabeth</a>
+
+  <a href="../cite/Elisabeth/1578/WCS">Elisabeth</a>
+
+  <a href="../cite/Elisabeth/1584/WCS">Elisabeth</a>
+
+  <a href="../cite/Elisabeth/1581/WCS">Elisabeth</a>
+
+  <a href="../cite/Elizabet/1592/WCS">Elizabet</a>
+
+  <a href="../cite/Elizabeth/1584/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1588/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1592/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1585/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1581/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1594/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1598/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1596/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1580/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1595/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1586/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1583/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1587/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1589/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1590/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1599/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1593/WCS">Elizabeth</a>
+
+  <a href="../cite/Elizabeth/1591/WCS">Elizabeth</a>
+
+  <a href="../cite/Emanuel/1587/WCS">Emanuel</a>
+
+  <a href="../cite/Emanuel/1588/WCS">Emanuel</a>
+
+  <a href="../cite/Emanuel/1586/WCS">Emanuel</a>
+
+  <a href="../cite/Emanuel/1590/WCS">Emanuel</a>
+
+  <a href="../cite/Erasme/1593/WCS">Erasme</a>
+
+  <a href="../cite/Esaie/1589/WCS">Esaie</a>
+
+  <a href="../cite/Esaie/1588/WCS">Esaie</a>
+
+  <a href="../cite/Esaie/1595/WCS">Esaie</a>
+
+  <a href="../cite/Esaie/1583/WCS">Esaie</a>
+
+  <a href="../cite/Esaie/1578/WCS">Esaie</a>
+
+  <a href="../cite/Esaie/1580/WCS">Esaie</a>
+
+  <a href="../cite/Esaye/1594/WCS">Esaye</a>
+
+  <a href="../cite/Esaye/1592/WCS">Esaye</a>
+
+  <a href="../cite/Esaye/1596/WCS">Esaye</a>
+
+  <a href="../cite/Esaye/1593/WCS">Esaye</a>
+
+  <a href="../cite/Esaye/1595/WCS">Esaye</a>
+
+  <a href="../cite/Ester/1582/WCS">Ester</a>
+
+  <a href="../cite/Ester/1598/WCS">Ester</a>
+
+  <a href="../cite/Ester/1596/WCS">Ester</a>
+
+  <a href="../cite/Esther/1594/WCS">Esther</a>
+
+  <a href="../cite/Esther/1596/WCS">Esther</a>
+
+  <a href="../cite/Esther/1597/WCS">Esther</a>
+
+  <a href="../cite/Esther/1598/WCS">Esther</a>
+
+  <a href="../cite/Esther/1586/WCS">Esther</a>
+
+  <a href="../cite/Esther/1589/WCS">Esther</a>
+
+  <a href="../cite/Esther/1595/WCS">Esther</a>
+
+  <a href="../cite/Esther/1587/WCS">Esther</a>
+
+  <a href="../cite/Esther/1588/WCS">Esther</a>
+
+  <a href="../cite/Esther/1591/WCS">Esther</a>
+
+  <a href="../cite/Esther/1593/WCS">Esther</a>
+
+  <a href="../cite/Esther/1599/WCS">Esther</a>
+
+  <a href="../cite/Estienne/1592/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1580/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1582/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1595/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1598/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1588/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1593/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1579/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1581/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1586/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1594/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1583/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1585/WCS">Estienne</a>
+
+  <a href="../cite/Estienne/1589/WCS">Estienne</a>
+
+  <a href="../cite/Ether/1596/WCS">Ether</a>
+
+  <a href="../cite/Eustace/1588/WCS">Eustace</a>
+
+  <a href="../cite/Eustache/1586/WCS">Eustache</a>
+
+  <a href="../cite/Eustache/1587/WCS">Eustache</a>
+
+  <a href="../cite/Exter/1584/WCS">Exter</a>
+
+  <a href="../cite/Franchois/1586/WCS">Franchois</a>
+
+  <a href="../cite/Franchois/1585/WCS">Franchois</a>
+
+  <a href="../cite/Francois/1567/WCS">Francois</a>
+
+  <a href="../cite/François/1588/WCS">François</a>
+
+  <a href="../cite/François/1596/WCS">François</a>
+
+  <a href="../cite/François/1592/WCS">François</a>
+
+  <a href="../cite/Francoise/1585/WCS">Francoise</a>
+
+  <a href="../cite/Francoise/1587/WCS">Francoise</a>
+
+  <a href="../cite/Francoise/1589/WCS">Francoise</a>
+
+  <a href="../cite/Françoise/1598/WCS">Françoise</a>
+
+  <a href="../cite/Françoise/1584/WCS">Françoise</a>
+
+  <a href="../cite/Françoise/1589/WCS">Françoise</a>
+
+  <a href="../cite/Gabriel/1579/WCS">Gabriel</a>
+
+  <a href="../cite/Gabriel/1593/WCS">Gabriel</a>
+
+  <a href="../cite/Gabriel/1567/WCS">Gabriel</a>
+
+  <a href="../cite/Gabriel/1582/WCS">Gabriel</a>
+
+  <a href="../cite/Gabriel/1588/WCS">Gabriel</a>
+
+  <a href="../cite/Gaspar/1576/WCS">Gaspar</a>
+
+  <a href="../cite/Gaspard/1588/WCS">Gaspard</a>
+
+  <a href="../cite/Gaspard/1585/WCS">Gaspard</a>
+
+  <a href="../cite/Gaspart/1576/WCS">Gaspart</a>
+
+  <a href="../cite/Gaspart/1584/WCS">Gaspart</a>
+
+  <a href="../cite/Gaspart/1570/WCS">Gaspart</a>
+
+  <a href="../cite/Gaspart/1569/WCS">Gaspart</a>
+
+  <a href="../cite/Gaspart/1580/WCS">Gaspart</a>
+
+  <a href="../cite/Gaspart/1583/WCS">Gaspart</a>
+
+  <a href="../cite/Gedeon/1588/WCS">Gedeon</a>
+
+  <a href="../cite/Gedeon/1585/WCS">Gedeon</a>
+
+  <a href="../cite/Genefieue/1573/WCS">Genefieue</a>
+
+  <a href="../cite/George/1597/WCS">George</a>
+
+  <a href="../cite/George/1592/WCS">George</a>
+
+  <a href="../cite/George/1591/WCS">George</a>
+
+  <a href="../cite/George/1589/WCS">George</a>
+
+  <a href="../cite/George/1568/WCS">George</a>
+
+  <a href="../cite/George/1577/WCS">George</a>
+
+  <a href="../cite/George/1586/WCS">George</a>
+
+  <a href="../cite/George/1585/WCS">George</a>
+
+  <a href="../cite/George/1587/WCS">George</a>
+
+  <a href="../cite/Georges/1585/WCS">Georges</a>
+
+  <a href="../cite/Gerard/1580/WCS">Gerard</a>
+
+  <a href="../cite/Gerarde/1580/WCS">Gerarde</a>
+
+  <a href="../cite/Germain/1593/WCS">Germain</a>
+
+  <a href="../cite/Germain/1580/WCS">Germain</a>
+
+  <a href="../cite/Germain/1579/WCS">Germain</a>
+
+  <a href="../cite/Germain/1588/WCS">Germain</a>
+
+  <a href="../cite/Germain/1597/WCS">Germain</a>
+
+  <a href="../cite/Germain/1591/WCS">Germain</a>
+
+  <a href="../cite/Germain/1596/WCS">Germain</a>
+
+  <a href="../cite/Germain/1586/WCS">Germain</a>
+
+  <a href="../cite/Germain/1595/WCS">Germain</a>
+
+  <a href="../cite/Germain/1567/WCS">Germain</a>
+
+  <a href="../cite/Germain/1581/WCS">Germain</a>
+
+  <a href="../cite/Germain/1583/WCS">Germain</a>
+
+  <a href="../cite/Gilbert/1588/WCS">Gilbert</a>
+
+  <a href="../cite/Giles/1584/WCS">Giles</a>
+
+  <a href="../cite/Gillame/1568/WCS">Gillame</a>
+
+  <a href="../cite/Gillame/1572s3/WCS">Gillame</a>
+
+  <a href="../cite/Gille/1584/WCS">Gille</a>
+
+  <a href="../cite/Gilles/1567/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1580/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1586/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1581/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1578/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1584/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1588/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1593/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1598/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1596/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1579/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1575/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1582/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1574/WCS">Gilles</a>
+
+  <a href="../cite/Gilles/1577/WCS">Gilles</a>
+
+  <a href="../cite/Gillette/1594/WCS">Gillette</a>
+
+  <a href="../cite/Gillette/1593/WCS">Gillette</a>
+
+  <a href="../cite/Gillette/1595/WCS">Gillette</a>
+
+  <a href="../cite/Gillette/1590/WCS">Gillette</a>
+
+  <a href="../cite/Gillette/1589/WCS">Gillette</a>
+
+  <a href="../cite/Gillette/1587/WCS">Gillette</a>
+
+  <a href="../cite/Glaude/1569s70/WCS">Glaude</a>
+
+  <a href="../cite/Glaude/1569/WCS">Glaude</a>
+
+  <a href="../cite/Glaude/1582/WCS">Glaude</a>
+
+  <a href="../cite/Glaude/1583/WCS">Glaude</a>
+
+  <a href="../cite/Glaude/1581/WCS">Glaude</a>
+
+  <a href="../cite/Glaude/1579/WCS">Glaude</a>
+
+  <a href="../cite/Glaudine/1576/WCS">Glaudine</a>
+
+  <a href="../cite/Godefroy/1597/WCS">Godefroy</a>
+
+  <a href="../cite/Godefroy/1596/WCS">Godefroy</a>
+
+  <a href="../cite/Godefroy/1590/WCS">Godefroy</a>
+
+  <a href="../cite/Godefroy/1592/WCS">Godefroy</a>
+
+  <a href="../cite/Godefroy/1599/WCS">Godefroy</a>
+
+  <a href="../cite/Godefroy/1589/WCS">Godefroy</a>
+
+  <a href="../cite/Godefroy/1595/WCS">Godefroy</a>
+
+  <a href="../cite/Godefroy/1593/WCS">Godefroy</a>
+
+  <a href="../cite/Gorge/1572s3/WCS">Gorge</a>
+
+  <a href="../cite/Gorgette/1579/WCS">Gorgette</a>
+
+  <a href="../cite/Gregoire/1597/WCS">Gregoire</a>
+
+  <a href="../cite/Gregoire/1594/WCS">Gregoire</a>
+
+  <a href="../cite/Gregoire/1590/WCS">Gregoire</a>
+
+  <a href="../cite/Gregoire/1598/WCS">Gregoire</a>
+
+  <a href="../cite/Gregoire/1595/WCS">Gregoire</a>
+
+  <a href="../cite/Guillaume/1573/WCS">Guillaume</a>
+
+  <a href="../cite/Guillaume/1567/WCS">Guillaume</a>
+
+  <a href="../cite/Guillaume/1568/WCS">Guillaume</a>
+
+  <a href="../cite/Guillaume/1598/WCS">Guillaume</a>
+
+  <a href="../cite/Guillebert/1579/WCS">Guillebert</a>
+
+  <a href="../cite/Guillemette/1588/WCS">Guillemette</a>
+
+  <a href="../cite/Guillemette/1585/WCS">Guillemette</a>
+
+  <a href="../cite/Guillemine/1592/WCS">Guillemine</a>
+
+  <a href="../cite/Guillemine/1596/WCS">Guillemine</a>
+
+  <a href="../cite/Hanry/1568s9/WCS">Hanry</a>
+
+  <a href="../cite/Hector/1572/WCS">Hector</a>
+
+  <a href="../cite/Heleine/1585/WCS">Heleine</a>
+
+  <a href="../cite/Heleine/1586/WCS">Heleine</a>
+
+  <a href="../cite/Helie/1570/WCS">Helie</a>
+
+  <a href="../cite/Helie/1575/WCS">Helie</a>
+
+  <a href="../cite/Helie/1577/WCS">Helie</a>
+
+  <a href="../cite/Helie/1578/WCS">Helie</a>
+
+  <a href="../cite/Helie/1582/WCS">Helie</a>
+
+  <a href="../cite/Henri/1570/WCS">Henri</a>
+
+  <a href="../cite/Henricus/1567/WCS">Henricus</a>
+
+  <a href="../cite/Hercilles/1574/WCS">Hercilles</a>
+
+  <a href="../cite/Hercules/1574/WCS">Hercules</a>
+
+  <a href="../cite/Hester/1569/WCS">Hester</a>
+
+  <a href="../cite/Hester/1570/WCS">Hester</a>
+
+  <a href="../cite/Hester/1572/WCS">Hester</a>
+
+  <a href="../cite/Hester/1571/WCS">Hester</a>
+
+  <a href="../cite/Hester/1576/WCS">Hester</a>
+
+  <a href="../cite/Hubert/1573/WCS">Hubert</a>
+
+  <a href="../cite/Huge/1568s9/WCS">Huge</a>
+
+  <a href="../cite/Huge/1567/WCS">Huge</a>
+
+  <a href="../cite/Isäac/1596/WCS">Isäac</a>
+
+  <a href="../cite/Isaac/1580/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1593/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1587/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1582/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1568/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1596/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1590/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1595/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1585/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1586/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1594/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1591/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1599/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1589/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1597/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1592/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1588/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1579/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1581/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1584/WCS">Isaac</a>
+
+  <a href="../cite/Isaac/1598/WCS">Isaac</a>
+
+  <a href="../cite/Isabeau/1572s3/WCS">Isabeau</a>
+
+  <a href="../cite/Isabeau/1569/WCS">Isabeau</a>
+
+  <a href="../cite/Isabeau/1573/WCS">Isabeau</a>
+
+  <a href="../cite/Isabeau/1574/WCS">Isabeau</a>
+
+  <a href="../cite/Isac/1580/WCS">Isac</a>
+
+  <a href="../cite/Isac/1575/WCS">Isac</a>
+
+  <a href="../cite/Isacq/1573/WCS">Isacq</a>
+
+  <a href="../cite/Isaie/1580/WCS">Isaie</a>
+
+  <a href="../cite/Isaie/1584/WCS">Isaie</a>
+
+  <a href="../cite/Isaie/1591/WCS">Isaie</a>
+
+  <a href="../cite/Isaie/1589/WCS">Isaie</a>
+
+  <a href="../cite/Isaye/1590/WCS">Isaye</a>
+
+  <a href="../cite/Israel/1572/WCS">Israel</a>
+
+  <a href="../cite/Israel/1573/WCS">Israel</a>
+
+  <a href="../cite/Israel/1589/WCS">Israel</a>
+
+  <a href="../cite/Israel/1576/WCS">Israel</a>
+
+  <a href="../cite/Israël/1595/WCS">Israël</a>
+
+  <a href="../cite/Iudicht/1582/WCS">Iudicht</a>
+
+  <a href="../cite/Jacob/1590/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1586/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1592/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1598/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1576/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1593/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1583/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1597/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1595/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1588/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1587/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1578/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1568/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1573/WCS">Jacob</a>
+
+  <a href="../cite/Jacob/1594/WCS">Jacob</a>
+
+  <a href="../cite/Jacqueline/1573/WCS">Jacqueline</a>
+
+  <a href="../cite/Jacqueline/1599/WCS">Jacqueline</a>
+
+  <a href="../cite/Jacqueline/1568/WCS">Jacqueline</a>
+
+  <a href="../cite/Jacqueline/1588/WCS">Jacqueline</a>
+
+  <a href="../cite/Jacquemine/1568s9/WCS">Jacquemine</a>
+
+  <a href="../cite/Jacquemine/1570/WCS">Jacquemine</a>
+
+  <a href="../cite/Jacquemine/1569/WCS">Jacquemine</a>
+
+  <a href="../cite/Jacquemine/1595/WCS">Jacquemine</a>
+
+  <a href="../cite/Jacquemine/1574/WCS">Jacquemine</a>
+
+  <a href="../cite/Jacques/1589/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1570/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1588/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1572/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1597/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1572s3/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1574/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1598/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1595/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1585/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1568/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1569/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1571/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1577/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1596/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1599/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1592/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1576/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1587/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1590/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1593/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1591/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1586/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1573/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1575/WCS">Jacques</a>
+
+  <a href="../cite/Jacques/1594/WCS">Jacques</a>
+
+  <a href="../cite/Jael/1573/WCS">Jael</a>
+
+  <a href="../cite/Jahel/1584/WCS">Jahel</a>
+
+  <a href="../cite/Jamet/1572/WCS">Jamet</a>
+
+  <a href="../cite/Jan/1578/WCS">Jan</a>
+
+  <a href="../cite/Jan/1595/WCS">Jan</a>
+
+  <a href="../cite/Jan/1598/WCS">Jan</a>
+
+  <a href="../cite/Jan/1585/WCS">Jan</a>
+
+  <a href="../cite/Jan/1581/WCS">Jan</a>
+
+  <a href="../cite/Jan/1571s2/WCS">Jan</a>
+
+  <a href="../cite/Jan/1575/WCS">Jan</a>
+
+  <a href="../cite/Jan/1584/WCS">Jan</a>
+
+  <a href="../cite/Jan/1594/WCS">Jan</a>
+
+  <a href="../cite/Jan/1572/WCS">Jan</a>
+
+  <a href="../cite/Jan/1596/WCS">Jan</a>
+
+  <a href="../cite/Jan/1590/WCS">Jan</a>
+
+  <a href="../cite/Jan/1570s1/WCS">Jan</a>
+
+  <a href="../cite/Jan/1577/WCS">Jan</a>
+
+  <a href="../cite/Jan/1571/WCS">Jan</a>
+
+  <a href="../cite/Jan/1569s70/WCS">Jan</a>
+
+  <a href="../cite/Jan/1587/WCS">Jan</a>
+
+  <a href="../cite/Jan/1580/WCS">Jan</a>
+
+  <a href="../cite/Jan/1568s9/WCS">Jan</a>
+
+  <a href="../cite/Jan/1568/WCS">Jan</a>
+
+  <a href="../cite/Jan/1569/WCS">Jan</a>
+
+  <a href="../cite/Jan/1586/WCS">Jan</a>
+
+  <a href="../cite/Jan/1583/WCS">Jan</a>
+
+  <a href="../cite/Jan/1599/WCS">Jan</a>
+
+  <a href="../cite/Jan/1570/WCS">Jan</a>
+
+  <a href="../cite/Jan/1579/WCS">Jan</a>
+
+  <a href="../cite/Jan/1597/WCS">Jan</a>
+
+  <a href="../cite/Jan/1573/WCS">Jan</a>
+
+  <a href="../cite/Jan/1588/WCS">Jan</a>
+
+  <a href="../cite/Jan/1593/WCS">Jan</a>
+
+  <a href="../cite/Jan/1576/WCS">Jan</a>
+
+  <a href="../cite/Jan/1589/WCS">Jan</a>
+
+  <a href="../cite/Jan/1572s3/WCS">Jan</a>
+
+  <a href="../cite/Jan/1592/WCS">Jan</a>
+
+  <a href="../cite/Jan/1591/WCS">Jan</a>
+
+  <a href="../cite/Jan/1574/WCS">Jan</a>
+
+  <a href="../cite/Jan/1582/WCS">Jan</a>
+
+  <a href="../cite/Jâne/1580/WCS">Jâne</a>
+
+  <a href="../cite/Jane/1589/WCS">Jane</a>
+
+  <a href="../cite/Jane/1597/WCS">Jane</a>
+
+  <a href="../cite/Jane/1587/WCS">Jane</a>
+
+  <a href="../cite/Jane/1588/WCS">Jane</a>
+
+  <a href="../cite/Jane/1592/WCS">Jane</a>
+
+  <a href="../cite/Jane/1593/WCS">Jane</a>
+
+  <a href="../cite/Jane/1595/WCS">Jane</a>
+
+  <a href="../cite/Jane/1579/WCS">Jane</a>
+
+  <a href="../cite/Jane/1591/WCS">Jane</a>
+
+  <a href="../cite/Jane/1594/WCS">Jane</a>
+
+  <a href="../cite/Jane/1599/WCS">Jane</a>
+
+  <a href="../cite/Jane/1590/WCS">Jane</a>
+
+  <a href="../cite/Jane/1598/WCS">Jane</a>
+
+  <a href="../cite/Jane/1584/WCS">Jane</a>
+
+  <a href="../cite/Janne/1586/WCS">Janne</a>
+
+  <a href="../cite/Janne/1589/WCS">Janne</a>
+
+  <a href="../cite/Janne/1583/WCS">Janne</a>
+
+  <a href="../cite/Janne/1582/WCS">Janne</a>
+
+  <a href="../cite/Janne/1575/WCS">Janne</a>
+
+  <a href="../cite/Janne/1578/WCS">Janne</a>
+
+  <a href="../cite/Janne/1579/WCS">Janne</a>
+
+  <a href="../cite/Janne/1573/WCS">Janne</a>
+
+  <a href="../cite/Janne/1570s1/WCS">Janne</a>
+
+  <a href="../cite/Janne/1581/WCS">Janne</a>
+
+  <a href="../cite/Janne/1585/WCS">Janne</a>
+
+  <a href="../cite/Janne/1576/WCS">Janne</a>
+
+  <a href="../cite/Janne/1571/WCS">Janne</a>
+
+  <a href="../cite/Janne/1571s2/WCS">Janne</a>
+
+  <a href="../cite/Janne/1568s9/WCS">Janne</a>
+
+  <a href="../cite/Janne/1569s70/WCS">Janne</a>
+
+  <a href="../cite/Janne/1572/WCS">Janne</a>
+
+  <a href="../cite/Janne/1574/WCS">Janne</a>
+
+  <a href="../cite/Janne/1569/WCS">Janne</a>
+
+  <a href="../cite/Janne/1591/WCS">Janne</a>
+
+  <a href="../cite/Janne/1584/WCS">Janne</a>
+
+  <a href="../cite/Janne/1590/WCS">Janne</a>
+
+  <a href="../cite/Janne/1577/WCS">Janne</a>
+
+  <a href="../cite/Janne/1588/WCS">Janne</a>
+
+  <a href="../cite/Janne/1570/WCS">Janne</a>
+
+  <a href="../cite/Janne/1580/WCS">Janne</a>
+
+  <a href="../cite/Jaqeline/1574/WCS">Jaqeline</a>
+
+  <a href="../cite/Jaque/1580/WCS">Jaque</a>
+
+  <a href="../cite/Jaqueline/1578/WCS">Jaqueline</a>
+
+  <a href="../cite/Jaqueline/1583/WCS">Jaqueline</a>
+
+  <a href="../cite/Jaqueline/1595/WCS">Jaqueline</a>
+
+  <a href="../cite/Jaquemine/1583/WCS">Jaquemine</a>
+
+  <a href="../cite/Jaquemine/1577/WCS">Jaquemine</a>
+
+  <a href="../cite/Jaques/1581/WCS">Jaques</a>
+
+  <a href="../cite/Jaques/1578/WCS">Jaques</a>
+
+  <a href="../cite/Jaques/1582/WCS">Jaques</a>
+
+  <a href="../cite/Jaques/1577/WCS">Jaques</a>
+
+  <a href="../cite/Jaques/1576/WCS">Jaques</a>
+
+  <a href="../cite/Jaques/1567/WCS">Jaques</a>
+
+  <a href="../cite/Jaques/1584/WCS">Jaques</a>
+
+  <a href="../cite/Jaques/1579/WCS">Jaques</a>
+
+  <a href="../cite/Jaques/1580/WCS">Jaques</a>
+
+  <a href="../cite/Jaques/1583/WCS">Jaques</a>
+
+  <a href="../cite/Jasepar/1574/WCS">Jasepar</a>
+
+  <a href="../cite/Jasepar/1578/WCS">Jasepar</a>
+
+  <a href="../cite/Jasepard/1578/WCS">Jasepard</a>
+
+  <a href="../cite/Jasepart/1573/WCS">Jasepart</a>
+
+  <a href="../cite/Jasepart/1578/WCS">Jasepart</a>
+
+  <a href="../cite/Jasepart/1577/WCS">Jasepart</a>
+
+  <a href="../cite/Jasepart/1576/WCS">Jasepart</a>
+
+  <a href="../cite/Jaspar/1574/WCS">Jaspar</a>
+
+  <a href="../cite/Jaspar/1578/WCS">Jaspar</a>
+
+  <a href="../cite/Jaspar/1580/WCS">Jaspar</a>
+
+  <a href="../cite/Jaspart/1577/WCS">Jaspart</a>
+
+  <a href="../cite/Jaspart/1580/WCS">Jaspart</a>
+
+  <a href="../cite/Jaspart/1581/WCS">Jaspart</a>
+
+  <a href="../cite/Jaspart/1578/WCS">Jaspart</a>
+
+  <a href="../cite/Jaspart/1569s70/WCS">Jaspart</a>
+
+  <a href="../cite/Jean/1567/WCS">Jean</a>
+
+  <a href="../cite/Jean/1568/WCS">Jean</a>
+
+  <a href="../cite/Jean/1584/WCS">Jean</a>
+
+  <a href="../cite/Jean/1598/WCS">Jean</a>
+
+  <a href="../cite/Jeanne/1589/WCS">Jeanne</a>
+
+  <a href="../cite/Jeanne/1586/WCS">Jeanne</a>
+
+  <a href="../cite/Jeanne/1568/WCS">Jeanne</a>
+
+  <a href="../cite/Jefry/1579/WCS">Jefry</a>
+
+  <a href="../cite/Jehan/1568/WCS">Jehan</a>
+
+  <a href="../cite/Jehan/1567/WCS">Jehan</a>
+
+  <a href="../cite/Jehanne/1568s9/WCS">Jehanne</a>
+
+  <a href="../cite/Jehanne/1568/WCS">Jehanne</a>
+
+  <a href="../cite/Jehanne/1569s70/WCS">Jehanne</a>
+
+  <a href="../cite/Jenne/1575/WCS">Jenne</a>
+
+  <a href="../cite/Jenne/1569s70/WCS">Jenne</a>
+
+  <a href="../cite/Jenne/1586/WCS">Jenne</a>
+
+  <a href="../cite/Jenne/1573/WCS">Jenne</a>
+
+  <a href="../cite/Jenne/1576/WCS">Jenne</a>
+
+  <a href="../cite/Jenne/1587/WCS">Jenne</a>
+
+  <a href="../cite/Jenne/1588/WCS">Jenne</a>
+
+  <a href="../cite/Jenne/1584/WCS">Jenne</a>
+
+  <a href="../cite/Jenne/1568s9/WCS">Jenne</a>
+
+  <a href="../cite/Jenneuiere/1569/WCS">Jenneuiere</a>
+
+  <a href="../cite/Jeremie/1576/WCS">Jeremie</a>
+
+  <a href="../cite/Jeremie/1594/WCS">Jeremie</a>
+
+  <a href="../cite/Jeremie/1591/WCS">Jeremie</a>
+
+  <a href="../cite/Jeremie/1595/WCS">Jeremie</a>
+
+  <a href="../cite/Jeremie/1588/WCS">Jeremie</a>
+
+  <a href="../cite/Jeremie/1583/WCS">Jeremie</a>
+
+  <a href="../cite/Jeremie/1574/WCS">Jeremie</a>
+
+  <a href="../cite/Jeremie/1586/WCS">Jeremie</a>
+
+  <a href="../cite/Jeremie/1597/WCS">Jeremie</a>
+
+  <a href="../cite/Jherome/1570/WCS">Jherome</a>
+
+  <a href="../cite/Jonas/1568/WCS">Jonas</a>
+
+  <a href="../cite/Jonas/1588/WCS">Jonas</a>
+
+  <a href="../cite/Jonas/1586/WCS">Jonas</a>
+
+  <a href="../cite/Jonas/1578/WCS">Jonas</a>
+
+  <a href="../cite/Jonas/1580/WCS">Jonas</a>
+
+  <a href="../cite/Jonas/1579/WCS">Jonas</a>
+
+  <a href="../cite/Jonas/1591/WCS">Jonas</a>
+
+  <a href="../cite/Jonas/1575/WCS">Jonas</a>
+
+  <a href="../cite/Jonatan/1572/WCS">Jonatan</a>
+
+  <a href="../cite/Jonathan/1574/WCS">Jonathan</a>
+
+  <a href="../cite/Jorge/1570/WCS">Jorge</a>
+
+  <a href="../cite/Jorge/1571/WCS">Jorge</a>
+
+  <a href="../cite/Jorge/1580/WCS">Jorge</a>
+
+  <a href="../cite/Jorgette/1583/WCS">Jorgette</a>
+
+  <a href="../cite/Joseph/1568/WCS">Joseph</a>
+
+  <a href="../cite/Joseph/1574/WCS">Joseph</a>
+
+  <a href="../cite/Joseph/1591/WCS">Joseph</a>
+
+  <a href="../cite/Josias/1597/WCS">Josias</a>
+
+  <a href="../cite/Josué/1583/WCS">Josué</a>
+
+  <a href="../cite/Josué/1590/WCS">Josué</a>
+
+  <a href="../cite/Judich/1578/WCS">Judich</a>
+
+  <a href="../cite/Judich/1576/WCS">Judich</a>
+
+  <a href="../cite/Judich/1574/WCS">Judich</a>
+
+  <a href="../cite/Judicht/1580/WCS">Judicht</a>
+
+  <a href="../cite/Judicht/1583/WCS">Judicht</a>
+
+  <a href="../cite/Judict/1578/WCS">Judict</a>
+
+  <a href="../cite/Judict/1583/WCS">Judict</a>
+
+  <a href="../cite/Judict/1581/WCS">Judict</a>
+
+  <a href="../cite/Judith/1589/WCS">Judith</a>
+
+  <a href="../cite/Judith/1597/WCS">Judith</a>
+
+  <a href="../cite/Judith/1590/WCS">Judith</a>
+
+  <a href="../cite/Judith/1579/WCS">Judith</a>
+
+  <a href="../cite/Judith/1572/WCS">Judith</a>
+
+  <a href="../cite/Judith/1592/WCS">Judith</a>
+
+  <a href="../cite/Judith/1593/WCS">Judith</a>
+
+  <a href="../cite/Judith/1599/WCS">Judith</a>
+
+  <a href="../cite/Judith/1583/WCS">Judith</a>
+
+  <a href="../cite/Judith/1598/WCS">Judith</a>
+
+  <a href="../cite/Judith/1594/WCS">Judith</a>
+
+  <a href="../cite/Judith/1573/WCS">Judith</a>
+
+  <a href="../cite/Judith/1595/WCS">Judith</a>
+
+  <a href="../cite/Judith/1586/WCS">Judith</a>
+
+  <a href="../cite/Judith/1577/WCS">Judith</a>
+
+  <a href="../cite/Judith/1587/WCS">Judith</a>
+
+  <a href="../cite/Judith/1591/WCS">Judith</a>
+
+  <a href="../cite/Judith/1596/WCS">Judith</a>
+
+  <a href="../cite/Judith/1588/WCS">Judith</a>
+
+  <a href="../cite/Juliane/1590/WCS">Juliane</a>
+
+  <a href="../cite/Jullite/1574/WCS">Jullite</a>
+
+  <a href="../cite/Katherine/1584/WCS">Katherine</a>
+
+  <a href="../cite/Katherine/1567/WCS">Katherine</a>
+
+  <a href="../cite/Lambert/1577/WCS">Lambert</a>
+
+  <a href="../cite/Lea/1588/WCS">Lea</a>
+
+  <a href="../cite/Leonard/1579/WCS">Leonard</a>
+
+  <a href="../cite/Leonnard/1579/WCS">Leonnard</a>
+
+  <a href="../cite/Lois/1568/WCS">Lois</a>
+
+  <a href="../cite/Louis/1597/WCS">Louis</a>
+
+  <a href="../cite/Louis/1591/WCS">Louis</a>
+
+  <a href="../cite/Louis/1576/WCS">Louis</a>
+
+  <a href="../cite/Louis/1599/WCS">Louis</a>
+
+  <a href="../cite/Louis/1577/WCS">Louis</a>
+
+  <a href="../cite/Louis/1593/WCS">Louis</a>
+
+  <a href="../cite/Louis/1584/WCS">Louis</a>
+
+  <a href="../cite/Louis/1598/WCS">Louis</a>
+
+  <a href="../cite/Louis/1589/WCS">Louis</a>
+
+  <a href="../cite/Louis/1575/WCS">Louis</a>
+
+  <a href="../cite/Louis/1585/WCS">Louis</a>
+
+  <a href="../cite/Louis/1568/WCS">Louis</a>
+
+  <a href="../cite/Louis/1594/WCS">Louis</a>
+
+  <a href="../cite/Louis/1582/WCS">Louis</a>
+
+  <a href="../cite/Louise/1581/WCS">Louise</a>
+
+  <a href="../cite/Louise/1595/WCS">Louise</a>
+
+  <a href="../cite/Louise/1593/WCS">Louise</a>
+
+  <a href="../cite/Louyes/1584/WCS">Louyes</a>
+
+  <a href="../cite/Louys/1579/WCS">Louys</a>
+
+  <a href="../cite/Louys/1578/WCS">Louys</a>
+
+  <a href="../cite/Louys/1593/WCS">Louys</a>
+
+  <a href="../cite/Louys/1567/WCS">Louys</a>
+
+  <a href="../cite/Louys/1591/WCS">Louys</a>
+
+  <a href="../cite/Louyse/1588/WCS">Louyse</a>
+
+  <a href="../cite/Louyse/1585/WCS">Louyse</a>
+
+  <a href="../cite/Louyse/1579/WCS">Louyse</a>
+
+  <a href="../cite/Louyse/1589/WCS">Louyse</a>
+
+  <a href="../cite/Louyse/1596/WCS">Louyse</a>
+
+  <a href="../cite/Loyse/1596/WCS">Loyse</a>
+
+  <a href="../cite/Lucas/1577/WCS">Lucas</a>
+
+  <a href="../cite/Luciane/1591/WCS">Luciane</a>
+
+  <a href="../cite/Lucienne/1583/WCS">Lucienne</a>
+
+  <a href="../cite/Mabel/1573/WCS">Mabel</a>
+
+  <a href="../cite/Madalaigne/1577/WCS">Madalaigne</a>
+
+  <a href="../cite/Madalaigne/1580/WCS">Madalaigne</a>
+
+  <a href="../cite/Madalaine/1581/WCS">Madalaine</a>
+
+  <a href="../cite/Madalaingne/1570/WCS">Madalaingne</a>
+
+  <a href="../cite/Madaleigne/1572/WCS">Madaleigne</a>
+
+  <a href="../cite/Madaligne/1576/WCS">Madaligne</a>
+
+  <a href="../cite/Mâdaline/1578/WCS">Mâdaline</a>
+
+  <a href="../cite/Madaline/1581/WCS">Madaline</a>
+
+  <a href="../cite/Magaleine/1592/WCS">Magaleine</a>
+
+  <a href="../cite/Magdalaine/1589/WCS">Magdalaine</a>
+
+  <a href="../cite/Magdalaine/1584/WCS">Magdalaine</a>
+
+  <a href="../cite/Magdalaine/1597/WCS">Magdalaine</a>
+
+  <a href="../cite/Magdalaine/1583/WCS">Magdalaine</a>
+
+  <a href="../cite/Magdaleine/1587/WCS">Magdaleine</a>
+
+  <a href="../cite/Magdaleine/1596/WCS">Magdaleine</a>
+
+  <a href="../cite/Magdaleine/1589/WCS">Magdaleine</a>
+
+  <a href="../cite/Magdaleine/1595/WCS">Magdaleine</a>
+
+  <a href="../cite/Magdaleine/1592/WCS">Magdaleine</a>
+
+  <a href="../cite/Magdaleine/1597/WCS">Magdaleine</a>
+
+  <a href="../cite/Magdaleine/1599/WCS">Magdaleine</a>
+
+  <a href="../cite/Magdaleine/1593/WCS">Magdaleine</a>
+
+  <a href="../cite/Magdaleine/1588/WCS">Magdaleine</a>
+
+  <a href="../cite/Magdaleine/1594/WCS">Magdaleine</a>
+
+  <a href="../cite/Magdaleine/1598/WCS">Magdaleine</a>
+
+  <a href="../cite/Magdalene/1586/WCS">Magdalene</a>
+
+  <a href="../cite/Mahiet/1572s3/WCS">Mahiet</a>
+
+  <a href="../cite/Mahieu/1568s9/WCS">Mahieu</a>
+
+  <a href="../cite/Mannuel/1595/WCS">Mannuel</a>
+
+  <a href="../cite/Marc/1569/WCS">Marc</a>
+
+  <a href="../cite/Marc/1595/WCS">Marc</a>
+
+  <a href="../cite/Marc/1580/WCS">Marc</a>
+
+  <a href="../cite/Marc/1567/WCS">Marc</a>
+
+  <a href="../cite/Marc/1576/WCS">Marc</a>
+
+  <a href="../cite/Marc/1593/WCS">Marc</a>
+
+  <a href="../cite/Marc/1572/WCS">Marc</a>
+
+  <a href="../cite/Marc/1570/WCS">Marc</a>
+
+  <a href="../cite/Marcq/1571/WCS">Marcq</a>
+
+  <a href="../cite/Margerite/1571/WCS">Margerite</a>
+
+  <a href="../cite/Margerite/1568s9/WCS">Margerite</a>
+
+  <a href="../cite/Margerite/1576/WCS">Margerite</a>
+
+  <a href="../cite/Margerite/1572/WCS">Margerite</a>
+
+  <a href="../cite/Margerite/1575/WCS">Margerite</a>
+
+  <a href="../cite/Marguerite/1585/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1571/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1586/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1599/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1568/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1573/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1591/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1592/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1588/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1589/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1580/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1598/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1596/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1576/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1594/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1579/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1581/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1574/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1575/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1593/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1582/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1590/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1587/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1584/WCS">Marguerite</a>
+
+  <a href="../cite/Marguerite/1583/WCS">Marguerite</a>
+
+  <a href="../cite/Marie/1581/WCS">Marie</a>
+
+  <a href="../cite/Marie/1573/WCS">Marie</a>
+
+  <a href="../cite/Marie/1580/WCS">Marie</a>
+
+  <a href="../cite/Marie/1572s3/WCS">Marie</a>
+
+  <a href="../cite/Marie/1583/WCS">Marie</a>
+
+  <a href="../cite/Marie/1594/WCS">Marie</a>
+
+  <a href="../cite/Marie/1585/WCS">Marie</a>
+
+  <a href="../cite/Marie/1582/WCS">Marie</a>
+
+  <a href="../cite/Marie/1590/WCS">Marie</a>
+
+  <a href="../cite/Marie/1596/WCS">Marie</a>
+
+  <a href="../cite/Marie/1586/WCS">Marie</a>
+
+  <a href="../cite/Marie/1599/WCS">Marie</a>
+
+  <a href="../cite/Marie/1571/WCS">Marie</a>
+
+  <a href="../cite/Marie/1587/WCS">Marie</a>
+
+  <a href="../cite/Marie/1595/WCS">Marie</a>
+
+  <a href="../cite/Marie/1574/WCS">Marie</a>
+
+  <a href="../cite/Marie/1592/WCS">Marie</a>
+
+  <a href="../cite/Marie/1575/WCS">Marie</a>
+
+  <a href="../cite/Marie/1567/WCS">Marie</a>
+
+  <a href="../cite/Marie/1591/WCS">Marie</a>
+
+  <a href="../cite/Marie/1568/WCS">Marie</a>
+
+  <a href="../cite/Marie/1578/WCS">Marie</a>
+
+  <a href="../cite/Marie/1588/WCS">Marie</a>
+
+  <a href="../cite/Marie/1572/WCS">Marie</a>
+
+  <a href="../cite/Marie/1589/WCS">Marie</a>
+
+  <a href="../cite/Marie/1568s9/WCS">Marie</a>
+
+  <a href="../cite/Marie/1593/WCS">Marie</a>
+
+  <a href="../cite/Marie/1598/WCS">Marie</a>
+
+  <a href="../cite/Marie/1597/WCS">Marie</a>
+
+  <a href="../cite/Marie/1570/WCS">Marie</a>
+
+  <a href="../cite/Marie/1584/WCS">Marie</a>
+
+  <a href="../cite/Mariette/1591/WCS">Mariette</a>
+
+  <a href="../cite/Marin/1584/WCS">Marin</a>
+
+  <a href="../cite/Marin/1595/WCS">Marin</a>
+
+  <a href="../cite/Marin/1583/WCS">Marin</a>
+
+  <a href="../cite/Marin/1590/WCS">Marin</a>
+
+  <a href="../cite/Marin/1591/WCS">Marin</a>
+
+  <a href="../cite/Marin/1580/WCS">Marin</a>
+
+  <a href="../cite/Marin/1592/WCS">Marin</a>
+
+  <a href="../cite/Marin/1598/WCS">Marin</a>
+
+  <a href="../cite/Marin/1582/WCS">Marin</a>
+
+  <a href="../cite/Marin/1589/WCS">Marin</a>
+
+  <a href="../cite/Marion/1598/WCS">Marion</a>
+
+  <a href="../cite/Marion/1568/WCS">Marion</a>
+
+  <a href="../cite/Marte/1583/WCS">Marte</a>
+
+  <a href="../cite/Marte/1581/WCS">Marte</a>
+
+  <a href="../cite/Marte/1580/WCS">Marte</a>
+
+  <a href="../cite/Marthe/1584/WCS">Marthe</a>
+
+  <a href="../cite/Marthe/1581/WCS">Marthe</a>
+
+  <a href="../cite/Marthe/1586/WCS">Marthe</a>
+
+  <a href="../cite/Marthe/1589/WCS">Marthe</a>
+
+  <a href="../cite/Marthe/1582/WCS">Marthe</a>
+
+  <a href="../cite/Marthe/1591/WCS">Marthe</a>
+
+  <a href="../cite/Marthe/1587/WCS">Marthe</a>
+
+  <a href="../cite/Martin/1573/WCS">Martin</a>
+
+  <a href="../cite/Martin/1581/WCS">Martin</a>
+
+  <a href="../cite/Martin/1593/WCS">Martin</a>
+
+  <a href="../cite/Martin/1583/WCS">Martin</a>
+
+  <a href="../cite/Martin/1574/WCS">Martin</a>
+
+  <a href="../cite/Martin/1572/WCS">Martin</a>
+
+  <a href="../cite/Martin/1585/WCS">Martin</a>
+
+  <a href="../cite/Martin/1568/WCS">Martin</a>
+
+  <a href="../cite/Martine/1572/WCS">Martine</a>
+
+  <a href="../cite/Martine/1572s3/WCS">Martine</a>
+
+  <a href="../cite/Martine/1594/WCS">Martine</a>
+
+  <a href="../cite/Martine/1579/WCS">Martine</a>
+
+  <a href="../cite/Masieau/1572/WCS">Masieau</a>
+
+  <a href="../cite/Massé/1572s3/WCS">Massé</a>
+
+  <a href="../cite/Massée/1588/WCS">Massée</a>
+
+  <a href="../cite/Massine/1574/WCS">Massine</a>
+
+  <a href="../cite/Massine/1580/WCS">Massine</a>
+
+  <a href="../cite/Massine/1583/WCS">Massine</a>
+
+  <a href="../cite/Mathieu/1570/WCS">Mathieu</a>
+
+  <a href="../cite/Mathieu/1568/WCS">Mathieu</a>
+
+  <a href="../cite/Mathieu/1567/WCS">Mathieu</a>
+
+  <a href="../cite/Mathieu/1590/WCS">Mathieu</a>
+
+  <a href="../cite/Mathieu/1584/WCS">Mathieu</a>
+
+  <a href="../cite/Mathieu/1571/WCS">Mathieu</a>
+
+  <a href="../cite/Mathieu/1583/WCS">Mathieu</a>
+
+  <a href="../cite/Mathieu/1568s9/WCS">Mathieu</a>
+
+  <a href="../cite/Mathieu/1575/WCS">Mathieu</a>
+
+  <a href="../cite/Mathieu/1569/WCS">Mathieu</a>
+
+  <a href="../cite/Mathieu/1576/WCS">Mathieu</a>
+
+  <a href="../cite/Mathieu/1573/WCS">Mathieu</a>
+
+  <a href="../cite/Matieu/1582/WCS">Matieu</a>
+
+  <a href="../cite/Matieu/1572/WCS">Matieu</a>
+
+  <a href="../cite/Matieu/1574/WCS">Matieu</a>
+
+  <a href="../cite/Matieu/1580/WCS">Matieu</a>
+
+  <a href="../cite/Matieu/1581/WCS">Matieu</a>
+
+  <a href="../cite/Matthieu/1590/WCS">Matthieu</a>
+
+  <a href="../cite/Matthieu/1594/WCS">Matthieu</a>
+
+  <a href="../cite/Matthieu/1586/WCS">Matthieu</a>
+
+  <a href="../cite/Matthieu/1596/WCS">Matthieu</a>
+
+  <a href="../cite/Matthieu/1593/WCS">Matthieu</a>
+
+  <a href="../cite/Matthieu/1598/WCS">Matthieu</a>
+
+  <a href="../cite/Matthieu/1599/WCS">Matthieu</a>
+
+  <a href="../cite/Matthieu/1591/WCS">Matthieu</a>
+
+  <a href="../cite/Matthieu/1597/WCS">Matthieu</a>
+
+  <a href="../cite/Matthieu/1568/WCS">Matthieu</a>
+
+  <a href="../cite/Melchiol/1575/WCS">Melchiol</a>
+
+  <a href="../cite/Melchior/1568/WCS">Melchior</a>
+
+  <a href="../cite/Melcior/1583/WCS">Melcior</a>
+
+  <a href="../cite/Melsior/1579/WCS">Melsior</a>
+
+  <a href="../cite/Melsior/1584/WCS">Melsior</a>
+
+  <a href="../cite/Melsior/1581/WCS">Melsior</a>
+
+  <a href="../cite/Michel/1568s9/WCS">Michel</a>
+
+  <a href="../cite/Michel/1597/WCS">Michel</a>
+
+  <a href="../cite/Michel/1585/WCS">Michel</a>
+
+  <a href="../cite/Michel/1588/WCS">Michel</a>
+
+  <a href="../cite/Michel/1583/WCS">Michel</a>
+
+  <a href="../cite/Michel/1589/WCS">Michel</a>
+
+  <a href="../cite/Michel/1595/WCS">Michel</a>
+
+  <a href="../cite/Michel/1570/WCS">Michel</a>
+
+  <a href="../cite/Michel/1592/WCS">Michel</a>
+
+  <a href="../cite/Michel/1586/WCS">Michel</a>
+
+  <a href="../cite/Michelle/1593/WCS">Michelle</a>
+
+  <a href="../cite/Michelle/1567/WCS">Michelle</a>
+
+  <a href="../cite/Michelle/1594/WCS">Michelle</a>
+
+  <a href="../cite/Michiel/1580/WCS">Michiel</a>
+
+  <a href="../cite/Michiel/1583/WCS">Michiel</a>
+
+  <a href="../cite/Michiel/1574/WCS">Michiel</a>
+
+  <a href="../cite/Michiel/1582/WCS">Michiel</a>
+
+  <a href="../cite/Michiel/1570/WCS">Michiel</a>
+
+  <a href="../cite/Michiel/1572s3/WCS">Michiel</a>
+
+  <a href="../cite/Michiel/1569/WCS">Michiel</a>
+
+  <a href="../cite/Michiel/1573/WCS">Michiel</a>
+
+  <a href="../cite/Michielle/1574/WCS">Michielle</a>
+
+  <a href="../cite/Michielle/1575/WCS">Michielle</a>
+
+  <a href="../cite/Moise/1570/WCS">Moise</a>
+
+  <a href="../cite/Moise/1597/WCS">Moise</a>
+
+  <a href="../cite/Moise/1580/WCS">Moise</a>
+
+  <a href="../cite/Moise/1572/WCS">Moise</a>
+
+  <a href="../cite/Moyse/1595/WCS">Moyse</a>
+
+  <a href="../cite/Moyse/1593/WCS">Moyse</a>
+
+  <a href="../cite/Moyse/1598/WCS">Moyse</a>
+
+  <a href="../cite/Moyse/1597/WCS">Moyse</a>
+
+  <a href="../cite/Nathanaël/1599/WCS">Nathanaël</a>
+
+  <a href="../cite/Nicas/1567/WCS">Nicas</a>
+
+  <a href="../cite/Nicolas/1595/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1572/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1591/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1575/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1570/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1584/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1585/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1568s9/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1587/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1572s3/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1582/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1579/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1577/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1568/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1592/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1599/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1581/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1586/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1580/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1594/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1588/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1593/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1590/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1598/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1573/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1574/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1567/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1569/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1597/WCS">Nicolas</a>
+
+  <a href="../cite/Nicolas/1583/WCS">Nicolas</a>
+
+  <a href="../cite/Nicôlas/1582/WCS">Nicôlas</a>
+
+  <a href="../cite/Nicole/1567/WCS">Nicole</a>
+
+  <a href="../cite/Nicollas/1573/WCS">Nicollas</a>
+
+  <a href="../cite/Nicollas/1570s1/WCS">Nicollas</a>
+
+  <a href="../cite/Nicollas/1569/WCS">Nicollas</a>
+
+  <a href="../cite/Nicollas/1572/WCS">Nicollas</a>
+
+  <a href="../cite/Nicollas/1569s70/WCS">Nicollas</a>
+
+  <a href="../cite/Nicollas/1574/WCS">Nicollas</a>
+
+  <a href="../cite/Nicollas/1571/WCS">Nicollas</a>
+
+  <a href="../cite/Nicollas/1575/WCS">Nicollas</a>
+
+  <a href="../cite/Nicollas/1568/WCS">Nicollas</a>
+
+  <a href="../cite/Noé/1577/WCS">Noé</a>
+
+  <a href="../cite/Noé/1576/WCS">Noé</a>
+
+  <a href="../cite/Noel/1597/WCS">Noel</a>
+
+  <a href="../cite/Noel/1575/WCS">Noel</a>
+
+  <a href="../cite/Noelle/1580/WCS">Noelle</a>
+
+  <a href="../cite/Noelle/1570/WCS">Noelle</a>
+
+  <a href="../cite/Olivier/1588/WCS">Olivier</a>
+
+  <a href="../cite/Olliuier/1581/WCS">Olliuier</a>
+
+  <a href="../cite/Pasquette/1568s9/WCS">Pasquette</a>
+
+  <a href="../cite/Paul/1595/WCS">Paul</a>
+
+  <a href="../cite/Paul/1590/WCS">Paul</a>
+
+  <a href="../cite/Paul/1586/WCS">Paul</a>
+
+  <a href="../cite/Paul/1588/WCS">Paul</a>
+
+  <a href="../cite/Paul/1589/WCS">Paul</a>
+
+  <a href="../cite/Paul/1567/WCS">Paul</a>
+
+  <a href="../cite/Paul/1594/WCS">Paul</a>
+
+  <a href="../cite/Paul/1582/WCS">Paul</a>
+
+  <a href="../cite/Paul/1596/WCS">Paul</a>
+
+  <a href="../cite/Paul/1568/WCS">Paul</a>
+
+  <a href="../cite/Paul/1578/WCS">Paul</a>
+
+  <a href="../cite/Paul/1581/WCS">Paul</a>
+
+  <a href="../cite/Perette/1575/WCS">Perette</a>
+
+  <a href="../cite/Perine/1576/WCS">Perine</a>
+
+  <a href="../cite/Peronne/1568s9/WCS">Peronne</a>
+
+  <a href="../cite/Peronne/1578/WCS">Peronne</a>
+
+  <a href="../cite/Perrette/1587/WCS">Perrette</a>
+
+  <a href="../cite/Perrette/1597/WCS">Perrette</a>
+
+  <a href="../cite/Perrine/1585/WCS">Perrine</a>
+
+  <a href="../cite/Perrine/1588/WCS">Perrine</a>
+
+  <a href="../cite/Perrine/1595/WCS">Perrine</a>
+
+  <a href="../cite/Perronne/1573/WCS">Perronne</a>
+
+  <a href="../cite/Perronne/1570/WCS">Perronne</a>
+
+  <a href="../cite/Perronne/1586/WCS">Perronne</a>
+
+  <a href="../cite/Perronne/1576/WCS">Perronne</a>
+
+  <a href="../cite/Phebe/1574/WCS">Phebe</a>
+
+  <a href="../cite/Phelippe/1569/WCS">Phelippe</a>
+
+  <a href="../cite/Phelippe/1568/WCS">Phelippe</a>
+
+  <a href="../cite/Phelippes/1573/WCS">Phelippes</a>
+
+  <a href="../cite/Philippe/1586/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1579/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1587/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1597/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1593/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1598/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1592/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1596/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1591/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1594/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1595/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1585/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1588/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1589/WCS">Philippe</a>
+
+  <a href="../cite/Philippe/1590/WCS">Philippe</a>
+
+  <a href="../cite/Philippine/1585/WCS">Philippine</a>
+
+  <a href="../cite/Phillipe/1589/WCS">Phillipe</a>
+
+  <a href="../cite/Pierre/1597/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1572/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1596/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1592/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1570s1/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1570/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1594/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1599/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1589/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1593/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1567/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1598/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1568/WCS">Pierre</a>
+
+  <a href="../cite/Pierre/1595/WCS">Pierre</a>
+
+  <a href="../cite/Ponceenne/1572s3/WCS">Ponceenne</a>
+
+  <a href="../cite/Ponthelet/1568s9/WCS">Ponthelet</a>
+
+  <a href="../cite/Pricille/1578/WCS">Pricille</a>
+
+  <a href="../cite/Priscille/1574/WCS">Priscille</a>
+
+  <a href="../cite/Prisile/1572/WCS">Prisile</a>
+
+  <a href="../cite/Rachel/1588/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1583/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1594/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1599/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1592/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1589/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1591/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1568/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1570/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1573/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1590/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1596/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1595/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1593/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1580/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1598/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1571/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1587/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1569/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1597/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1575/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1582/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1576/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1581/WCS">Rachel</a>
+
+  <a href="../cite/Rachel/1579/WCS">Rachel</a>
+
+  <a href="../cite/Raouel/1598/WCS">Raouel</a>
+
+  <a href="../cite/Raoul/1597/WCS">Raoul</a>
+
+  <a href="../cite/Raoul/1594/WCS">Raoul</a>
+
+  <a href="../cite/Raoul/1587/WCS">Raoul</a>
+
+  <a href="../cite/Raoul/1592/WCS">Raoul</a>
+
+  <a href="../cite/Rauline/1594/WCS">Rauline</a>
+
+  <a href="../cite/Rauline/1592/WCS">Rauline</a>
+
+  <a href="../cite/Rauline/1587/WCS">Rauline</a>
+
+  <a href="../cite/Rauline/1598/WCS">Rauline</a>
+
+  <a href="../cite/Rauline/1591/WCS">Rauline</a>
+
+  <a href="../cite/Rebca/1582/WCS">Rebca</a>
+
+  <a href="../cite/Rebeca/1576/WCS">Rebeca</a>
+
+  <a href="../cite/Rebeca/1574/WCS">Rebeca</a>
+
+  <a href="../cite/Rebeca/1579/WCS">Rebeca</a>
+
+  <a href="../cite/Rebecca/1595/WCS">Rebecca</a>
+
+  <a href="../cite/Rebecca/1592/WCS">Rebecca</a>
+
+  <a href="../cite/Rebecca/1590/WCS">Rebecca</a>
+
+  <a href="../cite/Renault/1573/WCS">Renault</a>
+
+  <a href="../cite/Renay/1576/WCS">Renay</a>
+
+  <a href="../cite/René/1580/WCS">René</a>
+
+  <a href="../cite/Renée/1590/WCS">Renée</a>
+
+  <a href="../cite/Renée/1588/WCS">Renée</a>
+
+  <a href="../cite/Renée/1589/WCS">Renée</a>
+
+  <a href="../cite/Renée/1595/WCS">Renée</a>
+
+  <a href="../cite/Richar/1572s3/WCS">Richar</a>
+
+  <a href="../cite/Richar/1573/WCS">Richar</a>
+
+  <a href="../cite/Richar/1580/WCS">Richar</a>
+
+  <a href="../cite/Richard/1587/WCS">Richard</a>
+
+  <a href="../cite/Richard/1580/WCS">Richard</a>
+
+  <a href="../cite/Richard/1574/WCS">Richard</a>
+
+  <a href="../cite/Richard/1585/WCS">Richard</a>
+
+  <a href="../cite/Richard/1588/WCS">Richard</a>
+
+  <a href="../cite/Richard/1596/WCS">Richard</a>
+
+  <a href="../cite/Richard/1592/WCS">Richard</a>
+
+  <a href="../cite/Richard/1594/WCS">Richard</a>
+
+  <a href="../cite/Richard/1589/WCS">Richard</a>
+
+  <a href="../cite/Richard/1573/WCS">Richard</a>
+
+  <a href="../cite/Richard/1577/WCS">Richard</a>
+
+  <a href="../cite/Richard/1584/WCS">Richard</a>
+
+  <a href="../cite/Richard/1569/WCS">Richard</a>
+
+  <a href="../cite/Richard/1590/WCS">Richard</a>
+
+  <a href="../cite/Richard/1570/WCS">Richard</a>
+
+  <a href="../cite/Richart/1577/WCS">Richart</a>
+
+  <a href="../cite/Richart/1580/WCS">Richart</a>
+
+  <a href="../cite/Richart/1571/WCS">Richart</a>
+
+  <a href="../cite/Richart/1569s70/WCS">Richart</a>
+
+  <a href="../cite/Richart/1568/WCS">Richart</a>
+
+  <a href="../cite/Robart/1598/WCS">Robart</a>
+
+  <a href="../cite/Robart/1596/WCS">Robart</a>
+
+  <a href="../cite/Robert/1578/WCS">Robert</a>
+
+  <a href="../cite/Robert/1588/WCS">Robert</a>
+
+  <a href="../cite/Robert/1575/WCS">Robert</a>
+
+  <a href="../cite/Robert/1593/WCS">Robert</a>
+
+  <a href="../cite/Robert/1569/WCS">Robert</a>
+
+  <a href="../cite/Robert/1574/WCS">Robert</a>
+
+  <a href="../cite/Robert/1576/WCS">Robert</a>
+
+  <a href="../cite/Robert/1590/WCS">Robert</a>
+
+  <a href="../cite/Robert/1572/WCS">Robert</a>
+
+  <a href="../cite/Robert/1582/WCS">Robert</a>
+
+  <a href="../cite/Robert/1597/WCS">Robert</a>
+
+  <a href="../cite/Robert/1584/WCS">Robert</a>
+
+  <a href="../cite/Robert/1577/WCS">Robert</a>
+
+  <a href="../cite/Robert/1596/WCS">Robert</a>
+
+  <a href="../cite/Robert/1599/WCS">Robert</a>
+
+  <a href="../cite/Robert/1587/WCS">Robert</a>
+
+  <a href="../cite/Robert/1580/WCS">Robert</a>
+
+  <a href="../cite/Robert/1585/WCS">Robert</a>
+
+  <a href="../cite/Robert/1586/WCS">Robert</a>
+
+  <a href="../cite/Robert/1589/WCS">Robert</a>
+
+  <a href="../cite/Robert/1595/WCS">Robert</a>
+
+  <a href="../cite/Robert/1568/WCS">Robert</a>
+
+  <a href="../cite/Robert/1591/WCS">Robert</a>
+
+  <a href="../cite/Robert/1594/WCS">Robert</a>
+
+  <a href="../cite/Robert/1579/WCS">Robert</a>
+
+  <a href="../cite/Robert/1598/WCS">Robert</a>
+
+  <a href="../cite/Robert/1592/WCS">Robert</a>
+
+  <a href="../cite/Robert/1583/WCS">Robert</a>
+
+  <a href="../cite/Robin/1584/WCS">Robin</a>
+
+  <a href="../cite/Robin/1586/WCS">Robin</a>
+
+  <a href="../cite/Robin/1589/WCS">Robin</a>
+
+  <a href="../cite/Roelant/1568/WCS">Roelant</a>
+
+  <a href="../cite/Roger/1593/WCS">Roger</a>
+
+  <a href="../cite/Rogierre/1569s70/WCS">Rogierre</a>
+
+  <a href="../cite/Roland/1567/WCS">Roland</a>
+
+  <a href="../cite/Roland/1573/WCS">Roland</a>
+
+  <a href="../cite/Rolant/1567/WCS">Rolant</a>
+
+  <a href="../cite/Rolin/1584/WCS">Rolin</a>
+
+  <a href="../cite/Roline/1579/WCS">Roline</a>
+
+  <a href="../cite/Roline/1583/WCS">Roline</a>
+
+  <a href="../cite/Roline/1577/WCS">Roline</a>
+
+  <a href="../cite/Rolland/1569s70/WCS">Rolland</a>
+
+  <a href="../cite/Rolland/1569/WCS">Rolland</a>
+
+  <a href="../cite/Rolland/1570/WCS">Rolland</a>
+
+  <a href="../cite/Rollant/1567/WCS">Rollant</a>
+
+  <a href="../cite/Saincte/1568/WCS">Saincte</a>
+
+  <a href="../cite/Salomon/1577/WCS">Salomon</a>
+
+  <a href="../cite/Salomon/1583/WCS">Salomon</a>
+
+  <a href="../cite/Salomon/1571/WCS">Salomon</a>
+
+  <a href="../cite/Salomon/1572/WCS">Salomon</a>
+
+  <a href="../cite/Salomon/1579/WCS">Salomon</a>
+
+  <a href="../cite/Salomon/1576/WCS">Salomon</a>
+
+  <a href="../cite/Sampson/1594/WCS">Sampson</a>
+
+  <a href="../cite/Samuel/1568/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1582/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1587/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1585/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1570/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1574/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1592/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1590/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1578/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1584/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1596/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1588/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1577/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1583/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1594/WCS">Samuel</a>
+
+  <a href="../cite/Samuel/1595/WCS">Samuel</a>
+
+  <a href="../cite/Sara/1589/WCS">Sara</a>
+
+  <a href="../cite/Sara/1585/WCS">Sara</a>
+
+  <a href="../cite/Sara/1598/WCS">Sara</a>
+
+  <a href="../cite/Sara/1586/WCS">Sara</a>
+
+  <a href="../cite/Sara/1595/WCS">Sara</a>
+
+  <a href="../cite/Sara/1582/WCS">Sara</a>
+
+  <a href="../cite/Sara/1596/WCS">Sara</a>
+
+  <a href="../cite/Sara/1599/WCS">Sara</a>
+
+  <a href="../cite/Sara/1593/WCS">Sara</a>
+
+  <a href="../cite/Sara/1575/WCS">Sara</a>
+
+  <a href="../cite/Sara/1590/WCS">Sara</a>
+
+  <a href="../cite/Sara/1588/WCS">Sara</a>
+
+  <a href="../cite/Sara/1574/WCS">Sara</a>
+
+  <a href="../cite/Sara/1571/WCS">Sara</a>
+
+  <a href="../cite/Sara/1570/WCS">Sara</a>
+
+  <a href="../cite/Sara/1581/WCS">Sara</a>
+
+  <a href="../cite/Sara/1578/WCS">Sara</a>
+
+  <a href="../cite/Sara/1587/WCS">Sara</a>
+
+  <a href="../cite/Sara/1568/WCS">Sara</a>
+
+  <a href="../cite/Sara/1583/WCS">Sara</a>
+
+  <a href="../cite/Sara/1597/WCS">Sara</a>
+
+  <a href="../cite/Sara/1591/WCS">Sara</a>
+
+  <a href="../cite/Sara/1577/WCS">Sara</a>
+
+  <a href="../cite/Sarra/1579/WCS">Sarra</a>
+
+  <a href="../cite/Sarra/1567/WCS">Sarra</a>
+
+  <a href="../cite/Simon/1575/WCS">Simon</a>
+
+  <a href="../cite/Simon/1571/WCS">Simon</a>
+
+  <a href="../cite/Simon/1577/WCS">Simon</a>
+
+  <a href="../cite/Simone/1573/WCS">Simone</a>
+
+  <a href="../cite/Susane/1577/WCS">Susane</a>
+
+  <a href="../cite/Susanne/1586/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1590/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1599/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1597/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1592/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1591/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1585/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1577/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1593/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1596/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1594/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1575/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1598/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1588/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1595/WCS">Susanne</a>
+
+  <a href="../cite/Susanne/1589/WCS">Susanne</a>
+
+  <a href="../cite/Suzane/1577/WCS">Suzane</a>
+
+  <a href="../cite/Suzane/1580/WCS">Suzane</a>
+
+  <a href="../cite/Suzane/1579/WCS">Suzane</a>
+
+  <a href="../cite/Suzane/1582/WCS">Suzane</a>
+
+  <a href="../cite/Suzane/1583/WCS">Suzane</a>
+
+  <a href="../cite/Suzanne/1580/WCS">Suzanne</a>
+
+  <a href="../cite/Suzanne/1583/WCS">Suzanne</a>
+
+  <a href="../cite/Suzanne/1584/WCS">Suzanne</a>
+
+  <a href="../cite/Suzanne/1578/WCS">Suzanne</a>
+
+  <a href="../cite/Suzanne/1573/WCS">Suzanne</a>
+
+  <a href="../cite/Thomas/1596/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1584/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1598/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1585/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1595/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1587/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1592/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1588/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1594/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1570/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1577/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1586/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1590/WCS">Thomas</a>
+
+  <a href="../cite/Thomas/1591/WCS">Thomas</a>
+
+  <a href="../cite/Thomasse/1593/WCS">Thomasse</a>
+
+  <a href="../cite/Thomasse/1589/WCS">Thomasse</a>
+
+  <a href="../cite/Thomasse/1587/WCS">Thomasse</a>
+
+  <a href="../cite/Thomasse/1594/WCS">Thomasse</a>
+
+  <a href="../cite/Thomasse/1592/WCS">Thomasse</a>
+
+  <a href="../cite/Thomasse/1579/WCS">Thomasse</a>
+
+  <a href="../cite/Thomasse/1586/WCS">Thomasse</a>
+
+  <a href="../cite/Thomasse/1591/WCS">Thomasse</a>
+
+  <a href="../cite/Thomasse/1596/WCS">Thomasse</a>
+
+  <a href="../cite/Thomasse/1598/WCS">Thomasse</a>
+
+  <a href="../cite/Thomasse/1597/WCS">Thomasse</a>
+
+  <a href="../cite/Thomasse/1595/WCS">Thomasse</a>
+
+  <a href="../cite/Thomasse/1568/WCS">Thomasse</a>
+
+  <a href="../cite/Tibaut/1568/WCS">Tibaut</a>
+
+  <a href="../cite/Timothée/1592/WCS">Timothée</a>
+
+  <a href="../cite/Timothée/1595/WCS">Timothée</a>
+
+  <a href="../cite/Villame/1569/WCS">Villame</a>
+
+  <a href="../cite/Villaume/1581/WCS">Villaume</a>
+
+  <a href="../cite/Vincent/1591/WCS">Vincent</a>
+
+  <a href="../cite/Vincent/1594/WCS">Vincent</a>
+
+  <a href="../cite/Vincent/1567/WCS">Vincent</a>
+
+  <a href="../cite/Vincent/1572s3/WCS">Vincent</a>
+
+  <a href="../cite/Vincent/1588/WCS">Vincent</a>
+
+  <a href="../cite/Vincent/1587/WCS">Vincent</a>
+
+  <a href="../cite/Vincent/1582/WCS">Vincent</a>
+
+  <a href="../cite/Wallerand/1569/WCS">Wallerand</a>
+
+  <a href="../cite/Wallerant/1583/WCS">Wallerant</a>
+
+  <a href="../cite/Wallerant/1570/WCS">Wallerant</a>
+
+  <a href="../cite/Wallerant/1572/WCS">Wallerant</a>
+
+  <a href="../cite/Wallerant/1580/WCS">Wallerant</a>
+
+  <a href="../cite/Wallerant/1576/WCS">Wallerant</a>
+
+  <a href="../cite/Walram/1584/WCS">Walram</a>
+
+  <a href="../cite/Walran/1584/WCS">Walran</a>
+
+  <a href="../cite/Willam/1596/WCS">Willam</a>
+
+  <a href="../cite/Zacarie/1582/WCS">Zacarie</a>
+
+  <a href="../cite/Zacarie/1580/WCS">Zacarie</a>
+
+  <a href="../cite/Zacharie/1585/WCS">Zacharie</a>
+
+  <a href="../cite/Zacharie/1578/WCS">Zacharie</a>
+
+  <a href="../cite/Zachée/1590/WCS">Zachée</a>
+
+  <a href="../cite/abraham/1577/WCS">abraham</a>
+
+  <a href="../cite/achilles/1568/WCS">achilles</a>
+
+  <a href="../cite/adrien/1578/WCS">adrien</a>
+
+  <a href="../cite/adrien/1580/WCS">adrien</a>
+
+  <a href="../cite/adrien/1575/WCS">adrien</a>
+
+  <a href="../cite/adrien/1584/WCS">adrien</a>
+
+  <a href="../cite/adrien/1582/WCS">adrien</a>
+
+  <a href="../cite/adrien/1571/WCS">adrien</a>
+
+  <a href="../cite/adrien/1583/WCS">adrien</a>
+
+  <a href="../cite/adrien/1577/WCS">adrien</a>
+
+  <a href="../cite/ambroise/1579/WCS">ambroise</a>
+
+  <a href="../cite/ambroise/1583/WCS">ambroise</a>
+
+  <a href="../cite/anies/1576/WCS">anies</a>
+
+  <a href="../cite/anne/1572s3/WCS">anne</a>
+
+  <a href="../cite/anne/1584/WCS">anne</a>
+
+  <a href="../cite/anthoine/1568s9/WCS">anthoine</a>
+
+  <a href="../cite/anthoine/1570/WCS">anthoine</a>
+
+  <a href="../cite/antoine/1572/WCS">antoine</a>
+
+  <a href="../cite/antoine/1578/WCS">antoine</a>
+
+  <a href="../cite/antoine/1581/WCS">antoine</a>
+
+  <a href="../cite/archilles/1580/WCS">archilles</a>
+
+  <a href="../cite/archillet/1571/WCS">archillet</a>
+
+  <a href="../cite/arnoul/1576/WCS">arnoul</a>
+
+  <a href="../cite/arnoul/1573/WCS">arnoul</a>
+
+  <a href="../cite/augustin/1568/WCS">augustin</a>
+
+  <a href="../cite/austin/1580/WCS">austin</a>
+
+  <a href="../cite/baltasar/1579/WCS">baltasar</a>
+
+  <a href="../cite/baltasar/1584/WCS">baltasar</a>
+
+  <a href="../cite/baltasar/1574/WCS">baltasar</a>
+
+  <a href="../cite/baltazar/1578/WCS">baltazar</a>
+
+  <a href="../cite/baltazar/1577/WCS">baltazar</a>
+
+  <a href="../cite/barbe/1572/WCS">barbe</a>
+
+  <a href="../cite/barbe/1568/WCS">barbe</a>
+
+  <a href="../cite/barbe/1571/WCS">barbe</a>
+
+  <a href="../cite/barbe/1577/WCS">barbe</a>
+
+  <a href="../cite/barbee/1568/WCS">barbee</a>
+
+  <a href="../cite/bastien/1575/WCS">bastien</a>
+
+  <a href="../cite/bastien/1577/WCS">bastien</a>
+
+  <a href="../cite/bastien/1569/WCS">bastien</a>
+
+  <a href="../cite/bastien/1576/WCS">bastien</a>
+
+  <a href="../cite/bastien/1574/WCS">bastien</a>
+
+  <a href="../cite/bastien/1579/WCS">bastien</a>
+
+  <a href="../cite/bastien/1569s70/WCS">bastien</a>
+
+  <a href="../cite/bastien/1568/WCS">bastien</a>
+
+  <a href="../cite/beniamin/1580/WCS">beniamin</a>
+
+  <a href="../cite/beniamin/1579/WCS">beniamin</a>
+
+  <a href="../cite/bertranne/1572s3/WCS">bertranne</a>
+
+  <a href="../cite/binette/1577/WCS">binette</a>
+
+  <a href="../cite/charles/1583/WCS">charles</a>
+
+  <a href="../cite/clemence/1577/WCS">clemence</a>
+
+  <a href="../cite/d'aniel/1584/WCS">d&#39;aniel</a>
+
+  <a href="../cite/d'aniel/1581/WCS">d&#39;aniel</a>
+
+  <a href="../cite/daniel/1579/WCS">daniel</a>
+
+  <a href="../cite/daniel/1576/WCS">daniel</a>
+
+  <a href="../cite/daniel/1582/WCS">daniel</a>
+
+  <a href="../cite/daniel/1583/WCS">daniel</a>
+
+  <a href="../cite/daniel/1580/WCS">daniel</a>
+
+  <a href="../cite/daniel/1574/WCS">daniel</a>
+
+  <a href="../cite/dauid/1576/WCS">dauid</a>
+
+  <a href="../cite/dauid/1583/WCS">dauid</a>
+
+  <a href="../cite/dauid/1573/WCS">dauid</a>
+
+  <a href="../cite/dauid/1584/WCS">dauid</a>
+
+  <a href="../cite/dauid/1575/WCS">dauid</a>
+
+  <a href="../cite/dauid/1581/WCS">dauid</a>
+
+  <a href="../cite/denis/1573/WCS">denis</a>
+
+  <a href="../cite/denis/1580/WCS">denis</a>
+
+  <a href="../cite/denis/1576/WCS">denis</a>
+
+  <a href="../cite/denis/1578/WCS">denis</a>
+
+  <a href="../cite/denis/1575/WCS">denis</a>
+
+  <a href="../cite/denis/1570/WCS">denis</a>
+
+  <a href="../cite/denis/1574/WCS">denis</a>
+
+  <a href="../cite/denis/1572/WCS">denis</a>
+
+  <a href="../cite/denis/1577/WCS">denis</a>
+
+  <a href="../cite/edouart/1577/WCS">edouart</a>
+
+  <a href="../cite/edouart/1573/WCS">edouart</a>
+
+  <a href="../cite/elisabeth/1575/WCS">elisabeth</a>
+
+  <a href="../cite/elisabeth/1569/WCS">elisabeth</a>
+
+  <a href="../cite/elisabeth/1570/WCS">elisabeth</a>
+
+  <a href="../cite/elisabeth/1576/WCS">elisabeth</a>
+
+  <a href="../cite/elisabeth/1568/WCS">elisabeth</a>
+
+  <a href="../cite/elisabeth/1568s9/WCS">elisabeth</a>
+
+  <a href="../cite/elisabeth/1574/WCS">elisabeth</a>
+
+  <a href="../cite/elisabeth/1577/WCS">elisabeth</a>
+
+  <a href="../cite/elisabeth/1573/WCS">elisabeth</a>
+
+  <a href="../cite/elizabeth/1575/WCS">elizabeth</a>
+
+  <a href="../cite/elizabeth/1574/WCS">elizabeth</a>
+
+  <a href="../cite/elizabeth/1573/WCS">elizabeth</a>
+
+  <a href="../cite/elizabeth/1569/WCS">elizabeth</a>
+
+  <a href="../cite/ernoul/1570/WCS">ernoul</a>
+
+  <a href="../cite/ernoul/1568/WCS">ernoul</a>
+
+  <a href="../cite/ernoult/1570/WCS">ernoult</a>
+
+  <a href="../cite/ernoulx/1570/WCS">ernoulx</a>
+
+  <a href="../cite/ernoulx/1569/WCS">ernoulx</a>
+
+  <a href="../cite/estienne/1577/WCS">estienne</a>
+
+  <a href="../cite/estienne/1575/WCS">estienne</a>
+
+  <a href="../cite/estienne/1573/WCS">estienne</a>
+
+  <a href="../cite/estienne/1584/WCS">estienne</a>
+
+  <a href="../cite/estienne/1572/WCS">estienne</a>
+
+  <a href="../cite/estienne/1572s3/WCS">estienne</a>
+
+  <a href="../cite/estiennette/1577/WCS">estiennette</a>
+
+  <a href="../cite/estieuenote/1576/WCS">estieuenote</a>
+
+  <a href="../cite/franchois/1569/WCS">franchois</a>
+
+  <a href="../cite/franchoise/1569s70/WCS">franchoise</a>
+
+  <a href="../cite/francois/1578/WCS">francois</a>
+
+  <a href="../cite/francois/1583/WCS">francois</a>
+
+  <a href="../cite/francois/1580/WCS">francois</a>
+
+  <a href="../cite/francois/1574/WCS">francois</a>
+
+  <a href="../cite/francois/1573/WCS">francois</a>
+
+  <a href="../cite/francois/1577/WCS">francois</a>
+
+  <a href="../cite/francois/1576/WCS">francois</a>
+
+  <a href="../cite/françois/1599/WCS">françois</a>
+
+  <a href="../cite/francoise/1579/WCS">francoise</a>
+
+  <a href="../cite/francoise/1573/WCS">francoise</a>
+
+  <a href="../cite/francoise/1570/WCS">francoise</a>
+
+  <a href="../cite/francoise/1576/WCS">francoise</a>
+
+  <a href="../cite/francoise/1583/WCS">francoise</a>
+
+  <a href="../cite/francoise/1572s3/WCS">francoise</a>
+
+  <a href="../cite/francoise/1578/WCS">francoise</a>
+
+  <a href="../cite/francoise/1580/WCS">francoise</a>
+
+  <a href="../cite/francoise/1582/WCS">francoise</a>
+
+  <a href="../cite/francoise/1581/WCS">francoise</a>
+
+  <a href="../cite/françoise/1580/WCS">françoise</a>
+
+  <a href="../cite/françoise/1578/WCS">françoise</a>
+
+  <a href="../cite/fremin/1574/WCS">fremin</a>
+
+  <a href="../cite/gabriel/1578/WCS">gabriel</a>
+
+  <a href="../cite/gabriel/1577/WCS">gabriel</a>
+
+  <a href="../cite/gabriel/1574/WCS">gabriel</a>
+
+  <a href="../cite/gabriel/1575/WCS">gabriel</a>
+
+  <a href="../cite/garspar/1574/WCS">garspar</a>
+
+  <a href="../cite/gaspar/1574/WCS">gaspar</a>
+
+  <a href="../cite/gaspar/1575/WCS">gaspar</a>
+
+  <a href="../cite/gaspard/1577/WCS">gaspard</a>
+
+  <a href="../cite/gaspart/1577/WCS">gaspart</a>
+
+  <a href="../cite/gedeon/1574/WCS">gedeon</a>
+
+  <a href="../cite/georges/1574/WCS">georges</a>
+
+  <a href="../cite/germain/1568/WCS">germain</a>
+
+  <a href="../cite/germain/1584/WCS">germain</a>
+
+  <a href="../cite/germain/1574/WCS">germain</a>
+
+  <a href="../cite/germain/1575/WCS">germain</a>
+
+  <a href="../cite/germain/1577/WCS">germain</a>
+
+  <a href="../cite/gillame/1575/WCS">gillame</a>
+
+  <a href="../cite/gillame/1569/WCS">gillame</a>
+
+  <a href="../cite/gillame/1570/WCS">gillame</a>
+
+  <a href="../cite/gillame/1572/WCS">gillame</a>
+
+  <a href="../cite/gillame/1573/WCS">gillame</a>
+
+  <a href="../cite/gillame/1569s70/WCS">gillame</a>
+
+  <a href="../cite/gillame/1574/WCS">gillame</a>
+
+  <a href="../cite/gillame/1577/WCS">gillame</a>
+
+  <a href="../cite/gillamme/1576/WCS">gillamme</a>
+
+  <a href="../cite/gillaume/1576/WCS">gillaume</a>
+
+  <a href="../cite/gillaume/1575/WCS">gillaume</a>
+
+  <a href="../cite/gillaume/1577/WCS">gillaume</a>
+
+  <a href="../cite/gillaume/1573/WCS">gillaume</a>
+
+  <a href="../cite/gillemette/1573/WCS">gillemette</a>
+
+  <a href="../cite/gillemette/1584/WCS">gillemette</a>
+
+  <a href="../cite/gillemette/1574/WCS">gillemette</a>
+
+  <a href="../cite/gilles/1583/WCS">gilles</a>
+
+  <a href="../cite/gillette/1577/WCS">gillette</a>
+
+  <a href="../cite/glaude/1575/WCS">glaude</a>
+
+  <a href="../cite/glaude/1576/WCS">glaude</a>
+
+  <a href="../cite/glaude/1578/WCS">glaude</a>
+
+  <a href="../cite/glaudine/1578/WCS">glaudine</a>
+
+  <a href="../cite/gregoire/1580/WCS">gregoire</a>
+
+  <a href="../cite/guillamme/1577/WCS">guillamme</a>
+
+  <a href="../cite/guion/1574/WCS">guion</a>
+
+  <a href="../cite/helaine/1580/WCS">helaine</a>
+
+  <a href="../cite/helaine/1577/WCS">helaine</a>
+
+  <a href="../cite/helie/1576/WCS">helie</a>
+
+  <a href="../cite/helie/1580/WCS">helie</a>
+
+  <a href="../cite/helie/1581/WCS">helie</a>
+
+  <a href="../cite/hercilles/1576/WCS">hercilles</a>
+
+  <a href="../cite/herculles/1574/WCS">herculles</a>
+
+  <a href="../cite/hester/1583/WCS">hester</a>
+
+  <a href="../cite/hester/1579/WCS">hester</a>
+
+  <a href="../cite/hester/1581/WCS">hester</a>
+
+  <a href="../cite/ian/1578/WCS">ian</a>
+
+  <a href="../cite/ian/1576/WCS">ian</a>
+
+  <a href="../cite/ian/1577/WCS">ian</a>
+
+  <a href="../cite/isaac/1583/WCS">isaac</a>
+
+  <a href="../cite/isac/1582/WCS">isac</a>
+
+  <a href="../cite/laurens/1569/WCS">laurens</a>
+
+  <a href="../cite/lidie/1570/WCS">lidie</a>
+
+  <a href="../cite/liennart/1579/WCS">liennart</a>
+
+  <a href="../cite/louis/1570s1/WCS">louis</a>
+
+  <a href="../cite/louis/1569/WCS">louis</a>
+
+  <a href="../cite/louis/1571/WCS">louis</a>
+
+  <a href="../cite/madalaigne/1574/WCS">madalaigne</a>
+
+  <a href="../cite/madalaine/1568/WCS">madalaine</a>
+
+  <a href="../cite/madalaine/1570/WCS">madalaine</a>
+
+  <a href="../cite/madalaine/1579/WCS">madalaine</a>
+
+  <a href="../cite/marc/1571/WCS">marc</a>
+
+  <a href="../cite/marc/1579/WCS">marc</a>
+
+  <a href="../cite/marcq/1576/WCS">marcq</a>
+
+  <a href="../cite/margerite/1574/WCS">margerite</a>
+
+  <a href="../cite/marguerite/1577/WCS">marguerite</a>
+
+  <a href="../cite/marguerite/1570/WCS">marguerite</a>
+
+  <a href="../cite/marguerite/1572s3/WCS">marguerite</a>
+
+  <a href="../cite/marguerite/1578/WCS">marguerite</a>
+
+  <a href="../cite/marie/1576/WCS">marie</a>
+
+  <a href="../cite/marie/1577/WCS">marie</a>
+
+  <a href="../cite/marie/1579/WCS">marie</a>
+
+  <a href="../cite/marie/1569/WCS">marie</a>
+
+  <a href="../cite/marin/1578/WCS">marin</a>
+
+  <a href="../cite/martin/1578/WCS">martin</a>
+
+  <a href="../cite/martin/1569/WCS">martin</a>
+
+  <a href="../cite/martine/1568/WCS">martine</a>
+
+  <a href="../cite/martine/1577/WCS">martine</a>
+
+  <a href="../cite/matieu/1576/WCS">matieu</a>
+
+  <a href="../cite/matieu/1571/WCS">matieu</a>
+
+  <a href="../cite/matieu/1579/WCS">matieu</a>
+
+  <a href="../cite/matieu/1577/WCS">matieu</a>
+
+  <a href="../cite/matieu/1578/WCS">matieu</a>
+
+  <a href="../cite/matieu/1575/WCS">matieu</a>
+
+  <a href="../cite/maurice/1573/WCS">maurice</a>
+
+  <a href="../cite/melchior/1578/WCS">melchior</a>
+
+  <a href="../cite/melsior/1577/WCS">melsior</a>
+
+  <a href="../cite/michiel/1584/WCS">michiel</a>
+
+  <a href="../cite/michiel/1569s70/WCS">michiel</a>
+
+  <a href="../cite/michiel/1576/WCS">michiel</a>
+
+  <a href="../cite/michiel/1575/WCS">michiel</a>
+
+  <a href="../cite/michiel/1578/WCS">michiel</a>
+
+  <a href="../cite/michiel/1577/WCS">michiel</a>
+
+  <a href="../cite/nicolas/1578/WCS">nicolas</a>
+
+  <a href="../cite/nicolas/1596/WCS">nicolas</a>
+
+  <a href="../cite/nicolas/1576/WCS">nicolas</a>
+
+  <a href="../cite/nicollas/1570/WCS">nicollas</a>
+
+  <a href="../cite/pasque/1571/WCS">pasque</a>
+
+  <a href="../cite/pasque/1583/WCS">pasque</a>
+
+  <a href="../cite/paul/1580/WCS">paul</a>
+
+  <a href="../cite/paul/1575/WCS">paul</a>
+
+  <a href="../cite/paul/1570/WCS">paul</a>
+
+  <a href="../cite/paul/1577/WCS">paul</a>
+
+  <a href="../cite/perette/1579/WCS">perette</a>
+
+  <a href="../cite/perine/1577/WCS">perine</a>
+
+  <a href="../cite/peronne/1576/WCS">peronne</a>
+
+  <a href="../cite/peronne/1580/WCS">peronne</a>
+
+  <a href="../cite/peronne/1571/WCS">peronne</a>
+
+  <a href="../cite/peronne/1572/WCS">peronne</a>
+
+  <a href="../cite/peronne/1573/WCS">peronne</a>
+
+  <a href="../cite/perotine/1574/WCS">perotine</a>
+
+  <a href="../cite/perrine/1580/WCS">perrine</a>
+
+  <a href="../cite/perronne/1580/WCS">perronne</a>
+
+  <a href="../cite/perronne/1581/WCS">perronne</a>
+
+  <a href="../cite/perronne/1569/WCS">perronne</a>
+
+  <a href="../cite/phelippe/1569s70/WCS">phelippe</a>
+
+  <a href="../cite/phelippe/1577/WCS">phelippe</a>
+
+  <a href="../cite/phelippotte/1568/WCS">phelippotte</a>
+
+  <a href="../cite/pierre/1576/WCS">pierre</a>
+
+  <a href="../cite/pierre/1569s70/WCS">pierre</a>
+
+  <a href="../cite/pierre/1582/WCS">pierre</a>
+
+  <a href="../cite/pierre/1571/WCS">pierre</a>
+
+  <a href="../cite/pierre/1581/WCS">pierre</a>
+
+  <a href="../cite/pierre/1580/WCS">pierre</a>
+
+  <a href="../cite/pierre/1569/WCS">pierre</a>
+
+  <a href="../cite/pierre/1575/WCS">pierre</a>
+
+  <a href="../cite/pol/1568/WCS">pol</a>
+
+  <a href="../cite/prisile/1583/WCS">prisile</a>
+
+  <a href="../cite/renaut/1573/WCS">renaut</a>
+
+  <a href="../cite/richart/1570/WCS">richart</a>
+
+  <a href="../cite/roberde/1572s3/WCS">roberde</a>
+
+  <a href="../cite/robert/1568s9/WCS">robert</a>
+
+  <a href="../cite/salmon/1583/WCS">salmon</a>
+
+  <a href="../cite/salom/1583/WCS">salom</a>
+
+  <a href="../cite/salomon/1574/WCS">salomon</a>
+
+  <a href="../cite/samuel/1579/WCS">samuel</a>
+
+  <a href="../cite/samuel/1575/WCS">samuel</a>
+
+  <a href="../cite/sara/1584/WCS">sara</a>
+
+  <a href="../cite/siluestre/1580/WCS">siluestre</a>
+
+  <a href="../cite/simon/1578/WCS">simon</a>
+
+  <a href="../cite/simon/1569s70/WCS">simon</a>
+
+  <a href="../cite/suzane/1581/WCS">suzane</a>
+
+  <a href="../cite/suzane/1578/WCS">suzane</a>
+
+  <a href="../cite/suzanne/1576/WCS">suzanne</a>
+
+  <a href="../cite/suzanne/1579/WCS">suzanne</a>
+
+  <a href="../cite/suzanne/1581/WCS">suzanne</a>
+
+  <a href="../cite/thomas/1580/WCS">thomas</a>
+
+  <a href="../cite/thomas/1572s3/WCS">thomas</a>
+
+  <a href="../cite/thomas/1578/WCS">thomas</a>
+
+  <a href="../cite/thomas/1573/WCS">thomas</a>
+
+  <a href="../cite/thomas/1576/WCS">thomas</a>
+
+  <a href="../cite/thomas/1583/WCS">thomas</a>
+
+  <a href="../cite/thomas/1574/WCS">thomas</a>
+
+  <a href="../cite/thomas/1579/WCS">thomas</a>
+
+  <a href="../cite/thomas/1568/WCS">thomas</a>
+
+  <a href="../cite/thomas/1581/WCS">thomas</a>
+
+  <a href="../cite/thomas/1575/WCS">thomas</a>
+
+  <a href="../cite/thomasse/1584/WCS">thomasse</a>
+
+  <a href="../cite/thomasse/1585/WCS">thomasse</a>
+
+  <a href="../cite/tibau/1568/WCS">tibau</a>
+
+  <a href="../cite/tiebau/1570/WCS">tiebau</a>
+
+  <a href="../cite/tiebault/1571/WCS">tiebault</a>
+
+  <a href="../cite/tiebaut/1574/WCS">tiebaut</a>
+
+  <a href="../cite/tiery/1568/WCS">tiery</a>
+
+  <a href="../cite/timothee/1578/WCS">timothee</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

@@ -1,0 +1,856 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Simon</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Simon</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Ancient Greek</span> <i>Σίμων</i> 'flat-nosed', which may have been used in the Greek New Testament to render <span class="lang">Hebrew</span> <i>שִׁמְעוֹן</i> 'he has heard'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a Biblical apostle and saint better known as <a class="nym" href="Peter">Peter</a>, another Biblical apostle and saint, a Biblical brother of Jesus, a 5th C martyr, a 6th C saint, and a 10th C saint. Wycliffite Bible (1395): <i>Symount</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name is often confused with <a class="nym" href="Simeon">Simeon</a>, and there are instances of the same person being recorded as both <i>Simon</i> and <i>Simeon</i>.
+  
+The English diminutives <i>Simot</i> and <i>Sym</i> are witnessed in 1379 in the relational byname <i>Simotmañ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 145</span></span>) and <i>Symsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 142</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1367</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1367/ChronSH"><span class="bib_key">ChronSH</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1368</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1368/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1370</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1370/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1384</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1384/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1384/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1385</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1385/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1386</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1386/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1387</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1387/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1388</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1388/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1392</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1392/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1393</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1393/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1395</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1395/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1439</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1439/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1514</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1514/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1143</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1143/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1168</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1168/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1256</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1256/OHZI-II"><span class="bib_key">OHZI-II</span> <span class="bib_loc">no. 13</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1256/OHZI-II"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 13</span></a>;
+ <span class="date">1348x1350</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1348x1350/Pest1348"><span class="bib_key">Pest1348</span> <span class="bib_loc">p. 206</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1336</span> <span class="name">Symoen</span> (<span class="case">dat</span>) <a href="../cite/Symoen/1336/RSG1336-39"><span class="bib_key">RSG1336-39</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Symoene</span> (<span class="case">dat</span>) <a href="../cite/Symoene/1336/RSG1336-39"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Symoens</span> (<span class="case">gen</span>) <a href="../cite/Symoens/1336/RSG1336-39"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1376</span> <span class="name">Symoen</span> (<span class="case">nom</span>) <a href="../cite/Symoen/1376/RSG1376-89"><span class="bib_key">RSG1376-89</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1377</span> <span class="name">Symoen</span> (<span class="case">nom</span>) <a href="../cite/Symoen/1377/RSG1376-89"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 77</span></a>;
+ <span class="date">1414</span> <span class="name">Symoens</span> (<span class="case">gen</span>) <a href="../cite/Symoens/1414/AM6"><span class="bib_key">AM6</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1436</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1436/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1445</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1445/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1457</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1457/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1459</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1459/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1460</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1460/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1472</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1472/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1474</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1474/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1475</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1475/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1542</span> <span class="name">Simon</span> <a href="../cite/Simon/1542/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 63</span></a>;
+ <span class="date">1552</span> <span class="name">Simon</span> <a href="../cite/Simon/1552/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1563</span> <span class="name">Simon</span> <a href="../cite/Simon/1563/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1564</span> <span class="name">Simon</span> <a href="../cite/Simon/1564/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 74</span></a>;
+ <span class="date">1597x1598</span> <span class="name">Symon</span> <a href="../cite/Symon/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 321</span></a>,
+ <span class="name">Symons</span> (<span class="case">gen</span>) <a href="../cite/Symons/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>,
+ <span class="name">Symoons</span> (<span class="case">gen</span>) <a href="../cite/Symoons/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 386</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Symonem</span> (<span class="case">acc</span>) <a href="../cite/Symonem/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1316</span> <span class="name">Symonem</span> (<span class="case">acc</span>) <a href="../cite/Symonem/1316/RTT-1.1"><span class="bib_key">RTT-1.1</span> <span class="bib_loc">X</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1316/RTT-1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1353</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1353/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">146</span></a>,
+ <span class="name">Symoni</span> (<span class="case">dat</span>) <a href="../cite/Symoni/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1356</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">165</span></a>;
+ <span class="date">1400</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1400/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1404</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1404/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1410</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1410/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1390</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1390/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">119</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Simen</span> <a href="../cite/Simen/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a>,
+ <span class="name">Simenn</span> <a href="../cite/Simenn/1581/KD-1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 362</span></a>,
+ <span class="name">Simon</span> <a href="../cite/Simon/1581/KD-1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1132</span> <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/c1132/MemStMF"><span class="bib_key">MemStMF</span> <span class="bib_loc">II-I</span></a>;
+ <span class="date">1161x1184</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1161x1184/MDE"><span class="bib_key">MDE</span> <span class="bib_loc">p. 227, no. 1</span></a>;
+ <span class="date">1183</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1183/BoldonBuke"><span class="bib_key">BoldonBuke</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 192</span></a>;
+ <span class="date">1189</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 82</span></a>;
+ <span class="date">c1198</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/c1198/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 246</span></a>;
+ <span class="date">1222</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1246</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1246/PSS-II"><span class="bib_key">PSS-II</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1246/PSS-II"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1246/PSS-II"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1256</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Simonem</span> (<span class="case">acc</span>) <a href="../cite/Simonem/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1268</span> <span class="name">Symonem</span> (<span class="case">acc</span>) <a href="../cite/Symonem/1268/PSS-CXIV"><span class="bib_key">PSS-CXIV</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1279–80</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 57</span></a>,
+ <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 79</span></a>,
+ <span class="name">Simoni</span> (<span class="case">dat</span>) <a href="../cite/Simoni/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>,
+ <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 65</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1296</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 92b</span></a>,
+ <span class="name">Simoni</span> (<span class="case">dat</span>) <a href="../cite/Simoni/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94a</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93a</span></a>;
+ <span class="date">1297</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1297/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1298</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1298/ComWil-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1300</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 231</span></a>,
+ <span class="name">Symoni</span> (<span class="case">dat</span>) <a href="../cite/Symoni/1300/ProcSuf-vol3"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 242</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1300/ProcSuf-vol3"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 229</span></a>;
+ <span class="date">1321</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1321/EL-2"><span class="bib_key">EL-2</span> <span class="bib_loc">p. 112</span></a>,
+ <span class="name">Simonem</span> (<span class="case">acc</span>) <a href="../cite/Simonem/1321/EL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 112</span></a>;
+ <span class="date">1327</span> <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1327/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 111</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1327/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1377</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1377/FenPT-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1379</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1381</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Simon/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 69</span></a>,
+ <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90</span></a>,
+ <span class="name">Simonem</span> (<span class="case">acc</span>) <a href="../cite/Simonem/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 69</span></a>,
+ <span class="name">Simoni</span> (<span class="case">dat</span>) <a href="../cite/Simoni/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 135</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 70</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Symon/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 76</span></a>,
+ <span class="name">Symonem</span> (<span class="case">acc</span>) <a href="../cite/Symonem/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1431</span> <span class="name">Simoni</span> (<span class="case">dat</span>) <a href="../cite/Simoni/1431/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">101</span></a>;
+ <span class="date">1558</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1558/Reg-KirkElla"><span class="bib_key">Reg-KirkElla</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1559</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1559/Reg-KirkElla"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1560</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1560/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1561</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1561/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1572</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1572/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Andries</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1379</span> <span class="name">Simot'</span> (<span class="case">nom</span>) <a href="../cite/Simot'/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 7</span></a></dd>
+<dt><span class="lang">Anglo-French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1245–1250[1586]</span> <span class="name">Simon</span> <a href="../cite/Simon/1245–1250[1586]/Glover"><span class="bib_key">Glover</span> <span class="bib_loc">102</span></a>;
+ <span class="date">1357</span> <span class="name">Simon</span> <a href="../cite/Simon/1357/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 20</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Simon</span> <a href="../cite/Simon/1572/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Tiereteyns</span></a>;
+ <span class="date">1575</span> <span class="name">Simon</span> <a href="../cite/Simon/1575/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Tierinteins</span></a>;
+ <span class="date">1577</span> <span class="name">Simon</span> <a href="../cite/Simon/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Tierenteijns</span></a>;
+ <span class="date">1579</span> <span class="name">Simon</span> <a href="../cite/Simon/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Adams</span></a>;
+ <span class="date">1580</span> <span class="name">Simon</span> <a href="../cite/Simon/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Tiereteins</span></a>;
+ <span class="date">1581</span> <span class="name">Symon</span> <a href="../cite/Symon/1581/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 88</span></a>;
+ <span class="date">1582</span> <span class="name">Simon</span> <a href="../cite/Simon/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1583</span> <span class="name">Simon</span> <a href="../cite/Simon/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Adams</span></a>,
+ <span class="name">Simons</span> (<span class="case">gen</span>) <a href="../cite/Simons/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Klercks</span></a>;
+ <span class="date">1584</span> <span class="name">Simons</span> (<span class="case">gen</span>) <a href="../cite/Simons/1584/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Brauwers</span></a>;
+ <span class="date">1585</span> <span class="name">Simon</span> <a href="../cite/Simon/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Tierenteins</span></a>;
+ <span class="date">1586</span> <span class="name">Simon</span> <a href="../cite/Simon/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clerck</span></a>;
+ <span class="date">1588</span> <span class="name">Sijmon</span> <a href="../cite/Sijmon/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clerck</span></a>;
+ <span class="date">1589</span> <span class="name">Simoen</span> <a href="../cite/Simoen/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Sagere</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Leemans</span></a>;
+ <span class="date">1590</span> <span class="name">Sijmon</span> <a href="../cite/Sijmon/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clerx</span></a>,
+ <span class="name">Simon</span> <a href="../cite/Simon/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Grurius</span></a>;
+ <span class="date">1591</span> <span class="name">Sijmon</span> <a href="../cite/Sijmon/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clerck</span></a>,
+ <span class="name">Simon</span> <a href="../cite/Simon/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Leemans</span></a>;
+ <span class="date">1593</span> <span class="name">Sijmon</span> <a href="../cite/Sijmon/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clerck</span></a>;
+ <span class="date">1595</span> <span class="name">Sijmon</span> <a href="../cite/Sijmon/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clercx</span></a>;
+ <span class="date">1596</span> <span class="name">Sijmon</span> <a href="../cite/Sijmon/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Leemans</span></a>;
+ <span class="date">1597</span> <span class="name">Simon</span> <a href="../cite/Simon/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90</span></a>;
+ <span class="date">1598</span> <span class="name">Sijmon</span> <a href="../cite/Sijmon/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clerck</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Symond</span> <a href="../cite/Symond/1418/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1433</span> <span class="name">Simond</span> <a href="../cite/Simond/1433/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94</span></a>;
+ <span class="date">1434</span> <span class="name">Symond</span> <a href="../cite/Symond/1434/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 102</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1419–20</span> <span class="name">Symkyn</span> <a href="../cite/Symkyn/1419–20/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 42</span></a>,
+ <span class="name">Symmykyn</span> <a href="../cite/Symmykyn/1419–20/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1428</span> <span class="name">Simkin</span> <a href="../cite/Simkin/1428/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82</span></a>,
+ <span class="name">Symken</span> <a href="../cite/Symken/1428/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82</span></a>,
+ <span class="name">Symkyn</span> <a href="../cite/Symkyn/1428/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82</span></a>;
+ <span class="date">1434</span> <span class="name">Symkyng</span> <a href="../cite/Symkyng/1434/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 102</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1481</span> <span class="name">Symond</span> <a href="../cite/Symond/1481/HHB1481-90"><span class="bib_key">HHB1481-90</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1530</span> <span class="name">Simon</span> <a href="../cite/Simon/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Simond</span> <a href="../cite/Simond/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1534</span> <span class="name">Symon</span> <a href="../cite/Symon/1534/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1539</span> <span class="name">Simon</span> <a href="../cite/Simon/1539/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1544</span> <span class="name">Symon</span> <a href="../cite/Symon/1544/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1546</span> <span class="name">Symon</span> <a href="../cite/Symon/1546/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1548</span> <span class="name">Symond</span> <a href="../cite/Symond/1548/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1550</span> <span class="name">Symon</span> <a href="../cite/Symon/1550/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1551</span> <span class="name">Simond</span> <a href="../cite/Simond/1551/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Symond</span> <a href="../cite/Symond/1551/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1552</span> <span class="name">Symon</span> <a href="../cite/Symon/1552/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Symond</span> <a href="../cite/Symond/1552/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1553</span> <span class="name">Symon</span> <a href="../cite/Symon/1553/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1554</span> <span class="name">Symon</span> <a href="../cite/Symon/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Symond</span> <a href="../cite/Symond/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1555</span> <span class="name">Symond</span> <a href="../cite/Symond/1555/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1557</span> <span class="name">Simon</span> <a href="../cite/Simon/1557/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1559</span> <span class="name">Simon</span> <a href="../cite/Simon/1559/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Symond</span> <a href="../cite/Symond/1559/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 67</span></a>;
+ <span class="date">1560</span> <span class="name">Symon</span> <a href="../cite/Symon/1560/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1561</span> <span class="name">Symon</span> <a href="../cite/Symon/1561/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Symon/1561/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Symond</span> <a href="../cite/Symond/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1562</span> <span class="name">Symon</span> <a href="../cite/Symon/1562/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1563</span> <span class="name">Symon</span> <a href="../cite/Symon/1563/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1563/4</span> <span class="name">Symon</span> <a href="../cite/Symon/1563s4/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1563</span> <span class="name">Symon</span> <a href="../cite/Symon/1563/bruton1"><span class="bib_key">bruton1</span></a>;
+ <span class="date">1564</span> <span class="name">Symon</span> <a href="../cite/Symon/1564/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Symon/1564/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 83</span></a>;
+ <span class="date">1565</span> <span class="name">Symon</span> <a href="../cite/Symon/1565/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Symon/1565/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 83</span></a>,
+ <a href="../cite/Symon/1565/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1567</span> <span class="name">Symon</span> <a href="../cite/Symon/1567/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1569</span> <span class="name">Symon</span> <a href="../cite/Symon/1569/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 1</span></a>,
+ <a href="../cite/Symon/1569/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Symond</span> <a href="../cite/Symond/1569/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1570</span> <span class="name">Simon</span> <a href="../cite/Simon/1570/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1571</span> <span class="name">Symon</span> <a href="../cite/Symon/1571/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 91</span></a>;
+ <span class="date">1572/3</span> <span class="name">Symon</span> <a href="../cite/Symon/1572s3/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 161</span></a>;
+ <span class="date">1574</span> <span class="name">Symon</span> <a href="../cite/Symon/1574/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1575</span> <span class="name">Simon</span> <a href="../cite/Simon/1575/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1576</span> <span class="name">Simon</span> <a href="../cite/Simon/1576/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>;
+ <span class="date">1577</span> <span class="name">Symon</span> <a href="../cite/Symon/1577/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1578</span> <span class="name">Symon</span> <a href="../cite/Symon/1578/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1581</span> <span class="name">Symon</span> <a href="../cite/Symon/1581/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1583</span> <span class="name">Simon</span> <a href="../cite/Simon/1583/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 63</span></a>,
+ <a href="../cite/Simon/1583/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1583/4</span> <span class="name">Symon</span> <a href="../cite/Symon/1583s4/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Symond</span> <a href="../cite/Symond/1583s4/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1584</span> <span class="name">Symon</span> <a href="../cite/Symon/1584/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 192</span></a>;
+ <span class="date">1587</span> <span class="name">Simon</span> <a href="../cite/Simon/1587/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1587/8</span> <span class="name">Symond</span> <a href="../cite/Symond/1587s8/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 107</span></a>;
+ <span class="date">1588</span> <span class="name">Simond</span> <a href="../cite/Simond/1588/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1589</span> <span class="name">Symond</span> <a href="../cite/Symond/1589/CAmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1590</span> <span class="name">Simon</span> <a href="../cite/Simon/1590/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 50</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1590/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1591</span> <span class="name">Simon</span> <a href="../cite/Simon/1591/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 54</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1591/BEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Symon/1591/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1592</span> <span class="name">Simon</span> <a href="../cite/Simon/1592/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 86</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1592/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1593</span> <span class="name">Simon</span> <a href="../cite/Simon/1593/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 87</span></a>,
+ <a href="../cite/Simon/1593/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1594</span> <span class="name">Simon</span> <a href="../cite/Simon/1594/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Simon/1594/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 29</span></a>,
+ <a href="../cite/Simon/1594/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1595</span> <span class="name">Simon</span> <a href="../cite/Simon/1595/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1597</span> <span class="name">Simon</span> <a href="../cite/Simon/1597/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1598</span> <span class="name">Simon</span> <a href="../cite/Simon/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Syimon</span> <a href="../cite/Syimon/1598/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 42</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1598/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Symonde</span> <a href="../cite/Symonde/1598/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 93</span></a>;
+ <span class="date">1599</span> <span class="name">Simonde</span> <a href="../cite/Simonde/1599/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1599/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 57</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1530</span> <span class="name">Symkyn</span> <a href="../cite/Symkyn/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 69</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1569/70</span> <span class="name">simon</span> <a href="../cite/simon/1569s70/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1571</span> <span class="name">Simon</span> <a href="../cite/Simon/1571/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1575</span> <span class="name">Simon</span> <a href="../cite/Simon/1575/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1577</span> <span class="name">Simon</span> <a href="../cite/Simon/1577/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1578</span> <span class="name">simon</span> <a href="../cite/simon/1578/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Simon</span> <a href="../cite/Simon/1581/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1582</span> <span class="name">Simon</span> <a href="../cite/Simon/1582/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1582/3</span> <span class="name">Simon</span> <a href="../cite/Simon/1582s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1583</span> <span class="name">Simon</span> <a href="../cite/Simon/1583/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1583/4</span> <span class="name">Simon</span> <a href="../cite/Simon/1583s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1584</span> <span class="name">Simon</span> <a href="../cite/Simon/1584/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1590</span> <span class="name">Simon</span> <a href="../cite/Simon/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1590/1</span> <span class="name">Simon</span> <a href="../cite/Simon/1590s1/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 441</span></a>;
+ <span class="date">1591</span> <span class="name">Simon</span> <a href="../cite/Simon/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1591/2</span> <span class="name">Simon</span> <a href="../cite/Simon/1591s2/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1591</span> <span class="name">Symon</span> <a href="../cite/Symon/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1592</span> <span class="name">Simon</span> <a href="../cite/Simon/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1592/3</span> <span class="name">Simon</span> <a href="../cite/Simon/1592s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593</span> <span class="name">Simon</span> <a href="../cite/Simon/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1593/4</span> <span class="name">Simon</span> <a href="../cite/Simon/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1594</span> <span class="name">Simon</span> <a href="../cite/Simon/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1594/5</span> <span class="name">Simon</span> <a href="../cite/Simon/1594s5/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1595</span> <span class="name">Simon</span> <a href="../cite/Simon/1595/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1595/6</span> <span class="name">Simon</span> <a href="../cite/Simon/1595s6/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1596</span> <span class="name">Simon</span> <a href="../cite/Simon/1596/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1596/7</span> <span class="name">Simon</span> <a href="../cite/Simon/1596s7/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1597</span> <span class="name">Simon</span> <a href="../cite/Simon/1597/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1597/8</span> <span class="name">Simon</span> <a href="../cite/Simon/1597s8/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1598</span> <span class="name">Simon</span> <a href="../cite/Simon/1598/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1598/9</span> <span class="name">Simon</span> <a href="../cite/Simon/1598s9/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1599</span> <span class="name">Simon</span> <a href="../cite/Simon/1599/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1397</span> <span class="name">Symen</span> <a href="../cite/Symen/1397/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 341</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1397/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 340</span></a>;
+ <span class="date">1409</span> <span class="name">Symon</span> <a href="../cite/Symon/1409/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 345</span></a>;
+ <span class="date">1430</span> <span class="name">Symon</span> <a href="../cite/Symon/1430/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 354</span></a>;
+ <span class="date">1437</span> <span class="name">Symon</span> <a href="../cite/Symon/1437/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 360</span></a>;
+ <span class="date">1524x1532</span> <span class="name">Simo</span> (<span class="case">nom</span>) <a href="../cite/Simo/1524x1532/Saareste1923b"><span class="bib_key">Saareste1923b</span> <span class="bib_loc">p. 140</span></a>;
+ <span class="date">1592</span> <span class="name">Simon</span> <a href="../cite/Simon/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 287</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1564</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1564/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 262</span></a>;
+ <span class="date">1565</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1565/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1576</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1576/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 251</span></a>;
+ <span class="date">1583</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1583/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 172</span></a>;
+ <span class="date">1587</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1587/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 160</span></a>;
+ <span class="date">1589</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1589/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 251</span></a>;
+ <span class="date">1590</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1590/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 251</span></a>;
+ <span class="date">1595</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1595/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 251</span></a>;
+ <span class="date">1598</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1598/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 251</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 169</span></a>;
+ <span class="date">1582</span> <span class="name">Simana</span> (<span class="case">nom</span>) <a href="../cite/Simana/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 172</span></a>,
+ <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 172</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1067</span> <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1067/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1115</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">V</span></a>;
+ <span class="date">c1120</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/c1120/CartNoyers"><span class="bib_key">CartNoyers</span> <span class="bib_loc">CDXXXVI</span></a>,
+ <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/c1120/CartNoyers"><span class="bib_key">ibid.</span> <span class="bib_loc">CDXXXVI</span></a>;
+ <span class="date">1122x1139</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1122x1139/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXIII</span></a>;
+ <span class="date">1125</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1125/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">10</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1125/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1133</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1133/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXX</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1133/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXX</span></a>;
+ <span class="date">1134</span> <span class="name">Symonem</span> (<span class="case">acc</span>) <a href="../cite/Symonem/1134/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CLV</span></a>;
+ <span class="date">1135</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1135/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXVIII</span></a>,
+ <a href="../cite/Symon/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1135/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXVIII</span></a>,
+ <a href="../cite/Symonis/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1138/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIX</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1138x1162/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">56</span></a>,
+ <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">56</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">58</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">56</span></a>,
+ <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">56</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">58</span></a>;
+ <span class="date">1141</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1141/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXI</span></a>;
+ <span class="date">1147</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1147/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCVII</span></a>,
+ <a href="../cite/Symon/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>;
+ <span class="date">c1147</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/c1147/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXII</span></a>;
+ <span class="date">1147</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>;
+ <span class="date">1162</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1162/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXIII</span></a>;
+ <span class="date">a1163</span> <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/a1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">98</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/a1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>,
+ <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/a1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>;
+ <span class="date">1163</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1164</span> <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1170</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1170/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">137</span></a>;
+ <span class="date">c1170</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/c1170/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIV</span></a>;
+ <span class="date">1171</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1171/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">142</span></a>,
+ <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">142</span></a>;
+ <span class="date">1173</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1173/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">1-III</span></a>;
+ <span class="date">1178</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1178/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">167</span></a>;
+ <span class="date">1179</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>,
+ <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1180</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1188</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1188/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCIV</span></a>;
+ <span class="date">1190</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1190/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CIII</span></a>;
+ <span class="date">1196</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1196/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXIV</span></a>;
+ <span class="date">1200</span> <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1200/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXVII</span></a>;
+ <span class="date">1201</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1201/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXI</span></a>,
+ <a href="../cite/Symon/1201/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">1-IX</span></a>;
+ <span class="date">1203</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1203/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXV</span></a>;
+ <span class="date">1205</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1205/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">1209</span> <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1209/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIV</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1209/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIV</span></a>;
+ <span class="date">1217</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1217/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LVI</span></a>;
+ <span class="date">1219</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1219/CartAub"><span class="bib_key">CartAub</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1219/CartAub"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1220</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1220/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LXVIII</span></a>;
+ <span class="date">1226/7</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1226s7/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 377</span></a>;
+ <span class="date">1229</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1229/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">20</span></a>;
+ <span class="date">1231</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1231/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-CV</span></a>;
+ <span class="date">1233</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1233/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XXIV</span></a>;
+ <span class="date">1236</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1236/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XXXIX</span></a>,
+ <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1236/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XXXIX</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1236/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XXXIX</span></a>;
+ <span class="date">1239</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1239/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">382b</span></a>;
+ <span class="date">1247</span> <span class="name">Simonem</span> (<span class="case">acc</span>) <a href="../cite/Simonem/1247/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 7</span></a>;
+ <span class="date">1248</span> <span class="name">Symonj</span> (<span class="case">dat</span>) <a href="../cite/Symonj/1248/KD-1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 8</span></a>;
+ <span class="date">1249</span> <span class="name">Symonem</span> (<span class="case">acc</span>) <a href="../cite/Symonem/1249/KD-1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11</span></a>;
+ <span class="date">1257</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1257/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XXXIII, Pentecost</span></a>,
+ <span class="name">Symonem</span> (<span class="case">acc</span>) <a href="../cite/Symonem/1257/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">VII, St. Martin</span></a>;
+ <span class="date">1258</span> <span class="name">Simonem</span> (<span class="case">acc</span>) <a href="../cite/Simonem/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII, Pentecost</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">III, Pentecost</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVII, Candlemas</span></a>,
+ <span class="name">Symonem</span> (<span class="case">acc</span>) <a href="../cite/Symonem/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVII, Candlemas</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI, pluribus</span></a>;
+ <span class="date">1259</span> <span class="name">Simonem</span> (<span class="case">acc</span>) <a href="../cite/Simonem/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XII, Pentecost</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">IX, Pentecost</span></a>;
+ <span class="date">1260</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII, Ascension</span></a>,
+ <span class="name">Simonem</span> (<span class="case">acc</span>) <a href="../cite/Simonem/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII, Ascension</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XII, Ascension</span></a>,
+ <span class="name">Symonem</span> (<span class="case">acc</span>) <a href="../cite/Symonem/1260/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">I, Candlemas</span></a>;
+ <span class="date">1263</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1263/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXIII</span></a>;
+ <span class="date">1267</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1267/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XXVII</span></a>;
+ <span class="date">1269</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1269/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-III</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1269/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXI</span></a>;
+ <span class="date">1270</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1270/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XLI</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1270/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLI</span></a>;
+ <span class="date">1273</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1273/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLIII</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1273/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXVI</span></a>;
+ <span class="date">1274</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1274/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LV</span></a>;
+ <span class="date">1275</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1275/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CX</span></a>;
+ <span class="date">1292</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1292/MemBret-I"><span class="bib_key">MemBret-I</span> <span class="bib_loc">1102</span></a>;
+ <span class="date">1295</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1295/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1300</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1300/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXIX</span></a>;
+ <span class="date">1301</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 222</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 202</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 202</span></a>;
+ <span class="date">1304</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1304/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXVI</span></a>;
+ <span class="date">1364/5</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1364s5/ActsCharlesV"><span class="bib_key">ActsCharlesV</span> <span class="bib_loc">no. 187</span></a>;
+ <span class="date">1378</span> <span class="name">Simoni</span> (<span class="case">dat</span>) <a href="../cite/Simoni/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1972</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">213</span></a>,
+ <span class="name">Symoni</span> (<span class="case">dat</span>) <a href="../cite/Symoni/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">213</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">270</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1376</span> <span class="name">Simonetus</span> (<span class="case">nom</span>) <a href="../cite/Simonetus/1376/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">383</span></a>;
+ <span class="date">1378</span> <span class="name">Simoneto</span> (<span class="case">dat</span>) <a href="../cite/Simoneto/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">788</span></a>;
+ <span class="date">1470/1</span> <span class="name">Symoneto</span> (<span class="case">dat</span>) <a href="../cite/Symoneto/1470s1/ArcGir17"><span class="bib_key">ArcGir17</span> <span class="bib_loc">no. XXX</span></a>,
+ <span class="name">Symonetum</span> (<span class="case">acc</span>) <a href="../cite/Symonetum/1470s1/ArcGir17"><span class="bib_key">ibid.</span> <span class="bib_loc">no. XXX</span></a>,
+ <span class="name">Symonetus</span> (<span class="case">nom</span>) <a href="../cite/Symonetus/1470s1/ArcGir17"><span class="bib_key">ibid.</span> <span class="bib_loc">no. XXX</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1268</span> <span class="name">Symon</span> <a href="../cite/Symon/1268/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 104</span></a>;
+ <span class="date">1280</span> <span class="name">Simons</span> (<span class="case">nom</span>) <a href="../cite/Simons/1280/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXVII</span></a>;
+ <span class="date">1291</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1291/StOuen"><span class="bib_key">StOuen</span> <span class="bib_loc">p. 25</span></a>,
+ (<span class="case">obl</span>) <a href="../cite/Symon/1291/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1292</span> <span class="name">Symon</span> <a href="../cite/Symon/1292/1292paris"><span class="bib_key">1292paris</span> <span class="bib_loc">p. 2</span></a>,
+ (<span class="case">obl</span>) <a href="../cite/Symon/1292/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 111</span></a>,
+ <a href="../cite/Symon/1292/MemBret-I"><span class="bib_key">MemBret-I</span> <span class="bib_loc">1102</span></a>;
+ <span class="date">1296</span> <span class="name">Symon</span> <a href="../cite/Symon/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p.4</span></a>;
+ <span class="date">1298</span> <span class="name">Symon</span> (<span class="case">obl</span>) <a href="../cite/Symon/1298/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 139</span></a>;
+ <span class="date">1301</span> <span class="name">Simon</span> (<span class="case">obl</span>) <a href="../cite/Simon/1301/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">XIII</span></a>,
+ <a href="../cite/Simon/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 237</span></a>,
+ <span class="name">Simons</span> (<span class="case">nom</span>) <a href="../cite/Simons/1301/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">XIII</span></a>,
+ <a href="../cite/Simons/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 241</span></a>;
+ <span class="date">c1301</span> <span class="name">Symon</span> (<span class="case">obl</span>) <a href="../cite/Symon/c1301/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 151</span></a>;
+ <span class="date">1301</span> <span class="name">Symons</span> (<span class="case">nom</span>) <a href="../cite/Symons/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 271</span></a>;
+ <span class="date">1313</span> <span class="name">Symon</span> <a href="../cite/Symon/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1327</span> <span class="name">Simon</span> <a href="../cite/Simon/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p.178</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1327/MemDocMan-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 188</span></a>;
+ <span class="date">1346</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1346/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 309</span></a>,
+ <span class="name">Symons</span> (<span class="case">nom</span>) <a href="../cite/Symons/1346/HAP"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 309</span></a>;
+ <span class="date">1348</span> <span class="name">Simon</span> (<span class="case">obl</span>) <a href="../cite/Simon/1348/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DX</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1292</span> <span class="name">Symonet</span> (<span class="case">obl</span>) <a href="../cite/Symonet/1292/MemBret-I"><span class="bib_key">MemBret-I</span> <span class="bib_loc">1102</span></a>;
+ <span class="date">1296</span> <span class="name">Symonnet</span> <a href="../cite/Symonnet/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1298</span> <span class="name">Symonnet</span> (<span class="case">obl</span>) <a href="../cite/Symonnet/1298/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 139</span></a>;
+ <span class="date">1313</span> <span class="name">Symonet</span> <a href="../cite/Symonet/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 5</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1358</span> <span class="name">Symon</span> <a href="../cite/Symon/1358/LeCoq"><span class="bib_key">LeCoq</span> <span class="bib_loc">p. 366</span></a>;
+ <span class="date">1364</span> <span class="name">Symon</span> <a href="../cite/Symon/1364/ActsCharlesV"><span class="bib_key">ActsCharlesV</span> <span class="bib_loc">no. 48</span></a>;
+ <span class="date">1365</span> <span class="name">Symon</span> <a href="../cite/Symon/1365/ActsCharlesV"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 272</span></a>;
+ <span class="date">1392</span> <span class="name">Simon</span> <a href="../cite/Simon/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 600</span></a>;
+ <span class="date">1415[1469x1471]</span> <span class="name">Symon</span> <a href="../cite/Symon/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 225</span></a>;
+ <span class="date">1418</span> <span class="name">Simon</span> <a href="../cite/Simon/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 197</span></a>,
+ <a href="../cite/Simon/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 373</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 197</span></a>,
+ <a href="../cite/Symon/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 373</span></a>;
+ <span class="date">1421</span> <span class="name">Simon</span> <a href="../cite/Simon/1421/Laroche"><span class="bib_key">Laroche</span> <span class="bib_loc">no. 6</span></a>,
+ <a href="../cite/Simon/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">97</span></a>;
+ <span class="date">1423</span> <span class="name">Symon</span> <a href="../cite/Symon/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">76</span></a>;
+ <span class="date">1438</span> <span class="name">Simon</span> <a href="../cite/Simon/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 267</span></a>;
+ <span class="date">1466</span> <span class="name">Simon</span> <a href="../cite/Simon/1466/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 5</span></a>;
+ <span class="date">1493</span> <span class="name">Simon</span> <a href="../cite/Simon/1493/MSR1838"><span class="bib_key">MSR1838</span> <span class="bib_loc">p. 380</span></a>;
+ <span class="date">1501</span> <span class="name">Symon</span> <a href="../cite/Symon/1501/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">274</span></a>;
+ <span class="date">1504</span> <span class="name">Simon</span> <a href="../cite/Simon/1504/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 6</span></a>,
+ <a href="../cite/Simon/1504/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">279</span></a>;
+ <span class="date">1528</span> <span class="name">Symon</span> <a href="../cite/Symon/1528/Subsidy1528"><span class="bib_key">Subsidy1528</span> <span class="bib_loc">p. 171</span></a>;
+ <span class="date">1529</span> <span class="name">Simon</span> <a href="../cite/Simon/1529/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 7</span></a>;
+ <span class="date">1561</span> <span class="name">Simon</span> <a href="../cite/Simon/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 529</span></a>;
+ <span class="date">1562</span> <span class="name">Simon</span> <a href="../cite/Simon/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1563</span> <span class="name">Symon</span> <a href="../cite/Symon/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1564</span> <span class="name">Symon</span> <a href="../cite/Symon/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1565</span> <span class="name">Symon</span> <a href="../cite/Symon/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 123</span></a>;
+ <span class="date">1566</span> <span class="name">Symon</span> <a href="../cite/Symon/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 226</span></a>;
+ <span class="date">1567</span> <span class="name">Symon</span> <a href="../cite/Symon/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 300</span></a>;
+ <span class="date">1568</span> <span class="name">Symon</span> <a href="../cite/Symon/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 375</span></a>;
+ <span class="date">1571</span> <span class="name">Symon</span> <a href="../cite/Symon/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 439</span></a>;
+ <span class="date">1572</span> <span class="name">Symon</span> <a href="../cite/Symon/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 504</span></a>;
+ <span class="date">1588</span> <span class="name">Simon</span> <a href="../cite/Simon/1588/raymond1588"><span class="bib_key">raymond1588</span> <span class="bib_loc">p. 566</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Simonet</span> <a href="../cite/Simonet/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 601</span></a>;
+ <span class="date">1418</span> <span class="name">Simonet</span> <a href="../cite/Simonet/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 384</span></a>,
+ <span class="name">Simonin</span> <a href="../cite/Simonin/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 213</span></a>,
+ <a href="../cite/Simonin/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 387</span></a>,
+ <span class="name">Simonnet</span> <a href="../cite/Simonnet/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 201</span></a>,
+ <a href="../cite/Simonnet/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 377</span></a>,
+ <span class="name">Symmonet</span> <a href="../cite/Symmonet/1418/HGParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 377</span></a>,
+ <span class="name">Symonnet</span> <a href="../cite/Symonnet/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 201</span></a>;
+ <span class="date">1421</span> <span class="name">Simmonet</span> <a href="../cite/Simmonet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">238</span></a>,
+ <span class="name">Simonnet</span> <a href="../cite/Simonnet/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">127</span></a>,
+ <span class="name">Symmonet</span> <a href="../cite/Symmonet/1421/favier"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Symonnet</span> <a href="../cite/Symonnet/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">319</span></a>;
+ <span class="date">1423</span> <span class="name">Symonnet</span> <a href="../cite/Symonnet/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">60</span></a>;
+ <span class="date">1438</span> <span class="name">Simonnet</span> <a href="../cite/Simonnet/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">865</span> <span class="name">Simonem</span> (<span class="case">acc</span>) <a href="../cite/Simonem/865/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XVIII</span></a>;
+ <span class="date">930</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/930/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1173</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1173/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. II</span></a>;
+ <span class="date">1197</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1197/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">83</span></a>;
+ <span class="date">1221</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1221/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">59</span></a>;
+ <span class="date">1254</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1254/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">153</span></a>;
+ <span class="date">1264</span> <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1264/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">200</span></a>;
+ <span class="date">1273</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1273/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">227</span></a>;
+ <span class="date">1280</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1280/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">271</span></a>;
+ <span class="date">1281</span> <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1281/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">279</span></a>;
+ <span class="date">1285</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1285/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">299</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1285/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">299</span></a>;
+ <span class="date">1394</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1394/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 173</span></a>;
+ <span class="date">1401</span> <span class="name">symoni</span> (<span class="case">dat</span>) <a href="../cite/symoni/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 188</span></a>,
+ <span class="name">symonis</span> (<span class="case">gen</span>) <a href="../cite/symonis/1401/HD1401"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 240</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Simon</span> <a href="../cite/Simon/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">959</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">1032</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1472</span> <span class="name">Simen</span> <a href="../cite/Simen/1472/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">682</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1351</span> <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1351/CDH-IX-II"><span class="bib_key">CDH-IX-II</span> <span class="bib_loc">I</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 19</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 14</span></a>,
+ <span class="name">Simund</span> (<span class="case">nom</span>) <a href="../cite/Simund/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 10</span></a>,
+ <span class="name">Simundi</span> (<span class="case">gen</span>) <a href="../cite/Simundi/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 13</span></a>,
+ <span class="name">Simundus</span> (<span class="case">nom</span>) <a href="../cite/Simundus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 6</span></a>;
+ <span class="date">1431</span> <span class="name">Simonem</span> (<span class="case">acc</span>) <a href="../cite/Simonem/1431/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">50</span></a>;
+ <span class="date">1432</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1432/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>,
+ <span class="name">Simonem</span> (<span class="case">acc</span>) <a href="../cite/Simonem/1432/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>,
+ <span class="name">Simoni</span> (<span class="case">dat</span>) <a href="../cite/Simoni/1432/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">54a</span></a>;
+ <span class="date">1436</span> <span class="name">Simonem</span> (<span class="case">acc</span>) <a href="../cite/Simonem/1436/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">70</span></a>;
+ <span class="date">1444</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1444/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">79</span></a>;
+ <span class="date">1490/1</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1490s1/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1491</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1491/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1497</span> <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1497/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">38</span></a>,
+ <span class="name">Symonem</span> (<span class="case">acc</span>) <a href="../cite/Symonem/1497/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">38</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Israel</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1277</span> <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1277/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">257</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1237</span> <span class="name">Symonem</span> (<span class="case">acc</span>) <a href="../cite/Symonem/1237/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">587</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1237/TirNot1"><span class="bib_key">ibid.</span> <span class="bib_loc">580</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">667</span></a>;
+ <span class="date">1282</span> <span class="name">Simoni</span> (<span class="case">dat</span>) <a href="../cite/Simoni/1282/DSS5-1-4"><span class="bib_key">DSS5-1-4</span> <span class="bib_loc">XV</span></a>;
+ <span class="date">1285</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 153</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1285/Perugia1285"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 154</span></a>;
+ <span class="date">1310</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1310/MonRav-2"><span class="bib_key">MonRav-2</span> <span class="bib_loc">CCCL</span></a>,
+ <span class="name">Symonus</span> (<span class="case">nom</span>) <a href="../cite/Symonus/1310/MonRav-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCL</span></a>;
+ <span class="date">1326</span> <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 445</span></a>,
+ <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 427</span></a>;
+ <span class="date">1348</span> <span class="name">Simoni</span> (<span class="case">dat</span>) <a href="../cite/Simoni/1348/CatTir1"><span class="bib_key">CatTir1</span> <span class="bib_loc">8</span></a>;
+ <span class="date">1366</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1366/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1367</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1367/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">133</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1367/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">136</span></a>;
+ <span class="date">1368</span> <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1368/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">183</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1368/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">184</span></a>;
+ <span class="date">1376</span> <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 49</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 228</span></a>;
+ <span class="date">1387</span> <span class="name">Symeonis</span> (<span class="case">gen</span>) <a href="../cite/Symeonis/1387/Venditti"><span class="bib_key">Venditti</span> <span class="bib_loc">II-60</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1387/Venditti"><span class="bib_key">ibid.</span> <span class="bib_loc">II-36</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1387/Venditti"><span class="bib_key">ibid.</span> <span class="bib_loc">II-47</span></a>;
+ <span class="date">1411</span> <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1411/CatTir1"><span class="bib_key">CatTir1</span> <span class="bib_loc">43</span></a>;
+ <span class="date">1419</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1419/CatTir1"><span class="bib_key">ibid.</span> <span class="bib_loc">58</span></a>;
+ <span class="date">1450</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1450/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">VIII</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1450/VitAs2"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1464</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1464/CUP-III-I"><span class="bib_key">ibid.</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 56, 3</span></a>;
+ <span class="date">1527</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 86</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1464</span> <span class="name">Symoninus</span> (<span class="case">nom</span>) <a href="../cite/Symoninus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Simonellus</span> (<span class="case">nom</span>) <a href="../cite/Simonellus/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 58, 29</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1429–1430</span> <span class="name">Simone</span> <a href="../cite/Simone/1429–1430/DiaryLMA"><span class="bib_key">DiaryLMA</span> <span class="bib_loc">p. 220</span></a>;
+ <span class="date">1513x1521</span> <span class="name">Symone</span> <a href="../cite/Symone/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 19</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1514</span> <span class="name">Symon</span> <a href="../cite/Symon/1514/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1532</span> <span class="name">Symon</span> <a href="../cite/Symon/1532/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1565x1577</span> <span class="name">Simon</span> <a href="../cite/Simon/1565x1577/Arbusow"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Lithuania</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1551x1555</span> <span class="name">Szymkus</span> (<span class="case">nom</span>) <a href="../cite/Szymkus/1551x1555/Kaunas2006"><span class="bib_key">Kaunas2006</span> <span class="bib_loc">p. 85</span></a></dd>
+<dt><span class="lang">Polish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1551x1555</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1551x1555/Kaunas2006"><span class="bib_key">Kaunas2006</span> <span class="bib_loc">p. 85</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1561x1565</span> <span class="name">Schymosʒ</span> (<span class="case">nom</span>) <a href="../cite/Schymosʒ/1561x1565/Kaunas2006"><span class="bib_key">Kaunas2006</span> <span class="bib_loc">p. 85</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1257</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1257/OHZI-II"><span class="bib_key">OHZI-II</span> <span class="bib_loc">no. 28</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1257/OHZI-II"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 26</span></a>;
+ <span class="date">1258</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1258/OHZI-II"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 48</span></a>,
+ <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1258/OHZI-II"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 49</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1561</span> <span class="name">Simon</span> <a href="../cite/Simon/1561/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1562</span> <span class="name">Simon</span> <a href="../cite/Simon/1562/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1563</span> <span class="name">Simon</span> <a href="../cite/Simon/1563/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1564</span> <span class="name">Simon</span> <a href="../cite/Simon/1564/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1565</span> <span class="name">Simon</span> <a href="../cite/Simon/1565/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1566</span> <span class="name">Simon</span> <a href="../cite/Simon/1566/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1567</span> <span class="name">Simon</span> <a href="../cite/Simon/1567/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1568</span> <span class="name">Simon</span> <a href="../cite/Simon/1568/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1569</span> <span class="name">Simon</span> <a href="../cite/Simon/1569/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1570</span> <span class="name">Simon</span> <a href="../cite/Simon/1570/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1571</span> <span class="name">Simon</span> <a href="../cite/Simon/1571/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1572</span> <span class="name">Simon</span> <a href="../cite/Simon/1572/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1573</span> <span class="name">Simon</span> <a href="../cite/Simon/1573/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1574</span> <span class="name">Simon</span> <a href="../cite/Simon/1574/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1575</span> <span class="name">Simon</span> <a href="../cite/Simon/1575/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1576</span> <span class="name">Simon</span> <a href="../cite/Simon/1576/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1577</span> <span class="name">Simon</span> <a href="../cite/Simon/1577/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1578</span> <span class="name">Simon</span> <a href="../cite/Simon/1578/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1579</span> <span class="name">Simon</span> <a href="../cite/Simon/1579/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1580</span> <span class="name">Simon</span> <a href="../cite/Simon/1580/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1581</span> <span class="name">Simon</span> <a href="../cite/Simon/1581/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1582</span> <span class="name">Simon</span> <a href="../cite/Simon/1582/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1583</span> <span class="name">Simon</span> <a href="../cite/Simon/1583/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1584</span> <span class="name">Simon</span> <a href="../cite/Simon/1584/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>,
+ <span class="name">Symon</span> <a href="../cite/Symon/1584/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1585</span> <span class="name">Simon</span> <a href="../cite/Simon/1585/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1586</span> <span class="name">Simon</span> <a href="../cite/Simon/1586/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1587</span> <span class="name">Simon</span> <a href="../cite/Simon/1587/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1588</span> <span class="name">Simon</span> <a href="../cite/Simon/1588/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1589</span> <span class="name">Simon</span> <a href="../cite/Simon/1589/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1590</span> <span class="name">Simon</span> <a href="../cite/Simon/1590/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1591</span> <span class="name">Simon</span> <a href="../cite/Simon/1591/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1592</span> <span class="name">Simon</span> <a href="../cite/Simon/1592/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1593</span> <span class="name">Simon</span> <a href="../cite/Simon/1593/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1594</span> <span class="name">Simon</span> <a href="../cite/Simon/1594/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1595</span> <span class="name">Simon</span> <a href="../cite/Simon/1595/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1596</span> <span class="name">Simon</span> <a href="../cite/Simon/1596/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1597</span> <span class="name">Simon</span> <a href="../cite/Simon/1597/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1598</span> <span class="name">Simon</span> <a href="../cite/Simon/1598/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1599</span> <span class="name">Simon</span> <a href="../cite/Simon/1599/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1268</span> <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1268/CDT1"><span class="bib_key">CDT1</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1459</span> <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1459/CDP2-2"><span class="bib_key">CDP2-2</span> <span class="bib_loc">CCCCXII</span></a>;
+ <span class="date">1461</span> <span class="name">Simonem</span> (<span class="case">acc</span>) <a href="../cite/Simonem/1461/CDP2-2"><span class="bib_key">ibid.</span> <span class="bib_loc">CCCCXVI</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">a1199</span> <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/a1199/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1376</span> <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Symoni</span> (<span class="case">dat</span>) <a href="../cite/Symoni/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1424</span> <span class="name">Symone</span> (<span class="case">abl</span>) <a href="../cite/Symone/1424/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">13</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1424/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1426</span> <span class="name">Simone</span> (<span class="case">abl</span>) <a href="../cite/Simone/1426/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">54</span></a>,
+ <span class="name">Simoni</span> (<span class="case">dat</span>) <a href="../cite/Simoni/1426/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">46</span></a>;
+ <span class="date">1427</span> <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1427/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1489</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1489/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1490</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1491</span> <span class="name">Simon</span> (<span class="case">nom</span>) <a href="../cite/Simon/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>,
+ <span class="name">Simonis</span> (<span class="case">gen</span>) <a href="../cite/Simonis/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 64</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Eximeno</span> <a href="../cite/Eximeno/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">4087</span></a>,
+ <span class="name">Simo</span> <a href="../cite/Simo/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3246</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1495</span> <span class="name">Ximeno</span> <a href="../cite/Ximeno/1495/montalvo"><span class="bib_key">montalvo</span></a>;
+ <span class="date">1496</span> <span class="name">Ximon</span> <a href="../cite/Ximon/1496/olite1496"><span class="bib_key">olite1496</span> <span class="bib_loc">p. 190</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6057</span></a>,
+ <span class="name">Symonis</span> (<span class="case">gen</span>) <a href="../cite/Symonis/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6057</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1356</span> <span class="name">Simons</span> (<span class="case">gen</span>) <a href="../cite/Simons/1356/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6977</span></a>;
+ <span class="date">1383</span> <span class="name">Symon</span> <a href="../cite/Symon/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1904</span></a>;
+ <span class="date">1411</span> <span class="name">Simons</span> (<span class="case">gen</span>) <a href="../cite/Simons/1411/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 17663</span></a>,
+ <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1411/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17714</span></a>;
+ <span class="date">1505</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1505/HGS"><span class="bib_key">HGS</span> <span class="bib_loc">p. 151</span></a>;
+ <span class="date">1506</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1506/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 152</span></a>;
+ <span class="date">1507</span> <span class="name">Symon</span> (<span class="case">nom</span>) <a href="../cite/Symon/1507/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 152</span></a>;
+ <span class="date">1508</span> <span class="name">Sijmon</span> (<span class="case">nom</span>) <a href="../cite/Sijmon/1508/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 152</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497/8</span> <span class="name">Symoni</span> (<span class="case">abl</span>) <a href="../cite/Symoni/1497s8/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">263</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1553</span> <span class="name">Symon</span> <a href="../cite/Symon/1553/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">328</span></a>;
+ <span class="date">1555</span> <span class="name">Symon</span> <a href="../cite/Symon/1555/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">337</span></a>;
+ <span class="date">1556</span> <span class="name">Simon</span> <a href="../cite/Simon/1556/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">340</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, G. Grim, R. Le Get, J. Uckelman, S.L. Uckelman. "Simon". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Simon.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

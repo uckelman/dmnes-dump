@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Manfred</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Manfred</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>man</i> 'man' or <span class="lang">Old High German</span> <i>megin, magan</i> 'strength, might, power' + <span class="lang">Old High German</span> <i>fridu</i>, <span class="lang">Old Saxon</span> <i>frithu</i> 'peace'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 13th C king of Sicily.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">909</span> <span class="name">Monfredo</span> (<span class="case">abl</span>) <a href="../cite/Monfredo/909/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 77</span></a>;
+ <span class="date">1153</span> <span class="name">Manfredus</span> (<span class="case">nom</span>) <a href="../cite/Manfredus/1153/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1163</span> <span class="name">Mainfridus</span> (<span class="case">nom</span>) <a href="../cite/Mainfridus/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1165</span> <span class="name">Manfredus</span> (<span class="case">nom</span>) <a href="../cite/Manfredus/1165/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1167</span> <span class="name">Mamfredus</span> (<span class="case">nom</span>) <a href="../cite/Mamfredus/1167/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">X</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Maynfroi</span> (<span class="case">obl</span>) <a href="../cite/Maynfroi/1292/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 117</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1257</span> <span class="name">Manfredo</span> (<span class="case">abl</span>) <a href="../cite/Manfredo/1257/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">167</span></a>;
+ <span class="date">1326</span> <span class="name">Manfredo</span> (<span class="case">abl</span>) <a href="../cite/Manfredo/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 441</span></a>;
+ <span class="date">1366</span> <span class="name">Manfredis</span> (<span class="case">gen</span>) <a href="../cite/Manfredis/1366/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">108</span></a>;
+ <span class="date">1370</span> <span class="name">Manfredi</span> (<span class="case">gen</span>) <a href="../cite/Manfredi/1370/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1376</span> <span class="name">Mamffredo</span> (<span class="case">abl</span>) <a href="../cite/Mamffredo/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 23</span></a>,
+ <span class="name">Manffredo</span> (<span class="case">abl</span>) <a href="../cite/Manffredo/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1464</span> <span class="name">Manfredus</span> (<span class="case">nom</span>) <a href="../cite/Manfredus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1326</span> <span class="name">Manfredino</span> (<span class="case">abl</span>) <a href="../cite/Manfredino/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 438</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1436</span> <span class="name">Manfredi</span> (<span class="case">gen</span>) <a href="../cite/Manfredi/1436/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">209</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Manfred". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Manfred.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

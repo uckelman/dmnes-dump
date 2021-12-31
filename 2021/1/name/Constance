@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Constance</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Constance</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>constantia</i> 'constancy'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 4th C saint, a daughter of Emperor Constantine, who was also known as <a class="nym" href="Constantina">Constantina</a>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name entered England with the Norman Conquest.  For more information, see <span class="bibl"><span class="key">Withycombe</span> <span class="loc">s.n. Constance</span></span>.  The English diminutive <i>Custe</i> and the vernacular <i>Custaunce</i> are witnessed in 1379 in the relational bynames <i>Custedoghter</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 9</span></span>) and <i>Custaunce</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 10</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1349</span> <span class="name">Constancia</span> (<span class="case">nom</span>) <a href="../cite/Constancia/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">138</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1340xc1450</span> <span class="name">Constancia</span> (<span class="case">nom</span>) <a href="../cite/Constancia/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Custancia</span> (<span class="case">nom</span>) <a href="../cite/Custancia/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1377</span> <span class="name">Custancia</span> (<span class="case">nom</span>) <a href="../cite/Custancia/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1379</span> <span class="name">Custancia</span> (<span class="case">nom</span>) <a href="../cite/Custancia/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1381</span> <span class="name">Constancia</span> (<span class="case">nom</span>) <a href="../cite/Constancia/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 87</span></a>,
+ <span class="name">Custancia</span> (<span class="case">nom</span>) <a href="../cite/Custancia/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Custancia/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 102</span></a>;
+ <span class="date">1419</span> <span class="name">Custancie</span> (<span class="case">dat</span>) <a href="../cite/Custancie/1419/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1562/3</span> <span class="name">Constantia</span> (<span class="case">nom</span>) <a href="../cite/Constantia/1562s3/Reg-KirkElla"><span class="bib_key">Reg-KirkElla</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1564</span> <span class="name">Constantia</span> (<span class="case">nom</span>) <a href="../cite/Constantia/1564/Reg-KirkElla"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1553</span> <span class="name">Constans</span> <a href="../cite/Constans/1553/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1563</span> <span class="name">Constance</span> <a href="../cite/Constance/1563/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1564</span> <span class="name">Constance</span> <a href="../cite/Constance/1564/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Constance/1564/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1566</span> <span class="name">Constance</span> <a href="../cite/Constance/1566/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1569</span> <span class="name">Constance</span> <a href="../cite/Constance/1569/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1574</span> <span class="name">Constance</span> <a href="../cite/Constance/1574/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1578</span> <span class="name">Constance</span> <a href="../cite/Constance/1578/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1583</span> <span class="name">Constance</span> <a href="../cite/Constance/1583/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1585/6</span> <span class="name">Constance</span> <a href="../cite/Constance/1585s6/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1585</span> <span class="name">Constance</span> <a href="../cite/Constance/1585/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1586</span> <span class="name">Constance</span> <a href="../cite/Constance/1586/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1589</span> <span class="name">Custance</span> <a href="../cite/Custance/1589/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1590</span> <span class="name">Constans</span> <a href="../cite/Constans/1590/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1591</span> <span class="name">Constance</span> <a href="../cite/Constance/1591/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 120</span></a>,
+ <span class="name">Constantia</span> <a href="../cite/Constantia/1591/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 65</span></a>;
+ <span class="date">1592</span> <span class="name">Constance</span> <a href="../cite/Constance/1592/BUmar-vol1"><span class="bib_key">BUmar-vol1</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1598</span> <span class="name">Constance</span> <a href="../cite/Constance/1598/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1599</span> <span class="name">Custance</span> <a href="../cite/Custance/1599/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 114</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1591/2</span> <span class="name">Constance</span> <a href="../cite/Constance/1591s2/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 20</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Constancia</span> (<span class="case">nom</span>) <a href="../cite/Constancia/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">54, Ved</span></a>;
+ <span class="date">989</span> <span class="name">Constancie</span> (<span class="case">gen</span>) <a href="../cite/Constancie/989/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">105</span></a>;
+ <span class="date">1047x1061</span> <span class="name">Constancia</span> (<span class="case">nom</span>) <a href="../cite/Constancia/1047x1061/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XV</span></a>,
+ <span class="name">Constantia</span> (<span class="case">nom</span>) <a href="../cite/Constantia/1047x1061/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1049x1061</span> <span class="name">Constantia</span> (<span class="case">abl</span>) <a href="../cite/Constantia/1049x1061/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">661</span></a>;
+ <span class="date">1138x62</span> <span class="name">Constantia</span> (<span class="case">abl</span>) <a href="../cite/Constantia/1138x62/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">91</span></a>;
+ <span class="date">1179</span> <span class="name">Constantia</span> (<span class="case">nom</span>) <a href="../cite/Constantia/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1292</span> <span class="name">custancia</span> (<span class="case">abl</span>) <a href="../cite/custancia/1292/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 117</span></a>;
+ <span class="date">1301</span> <span class="name">Constanche</span> (<span class="case">nom</span>) <a href="../cite/Constanche/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 251</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Constance</span> (<span class="case">obl</span>) <a href="../cite/Constance/1292/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 113</span></a>;
+ <span class="date">1293</span> <span class="name">Constance</span> (<span class="case">obl</span>) <a href="../cite/Constance/1293/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 118</span></a>;
+ <span class="date">1296</span> <span class="name">Coutance</span> <a href="../cite/Coutance/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1313</span> <span class="name">Constance</span> <a href="../cite/Constance/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 51</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1563</span> <span class="name">Constance</span> <a href="../cite/Constance/1563/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1565</span> <span class="name">Constance</span> <a href="../cite/Constance/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 176</span></a>;
+ <span class="date">1567</span> <span class="name">Constance</span> <a href="../cite/Constance/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 338</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1197</span> <span class="name">Constantia</span> (<span class="case">abl</span>) <a href="../cite/Constantia/1197/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">2</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1113</span> <span class="name">Constancie</span> (<span class="case">gen</span>) <a href="../cite/Constancie/1113/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1220</span> <span class="name">Constantia</span> (<span class="case">abl</span>) <a href="../cite/Constantia/1220/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">46</span></a>;
+ <span class="date">1348</span> <span class="name">Constantie</span> (<span class="case">dat</span>) <a href="../cite/Constantie/1348/INP"><span class="bib_key">INP</span> <span class="bib_loc">26</span></a>;
+ <span class="date">1521</span> <span class="name">Constantia</span> (<span class="case">nom</span>) <a href="../cite/Constantia/1521/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1527</span> <span class="name">Constantia</span> (<span class="case">nom</span>) <a href="../cite/Constantia/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 90</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Costanza</span> <a href="../cite/Costanza/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 12</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1209</span> <span class="name">Constanciæ</span> (<span class="case">gen</span>) <a href="../cite/Constanciæ/1209/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 10</span></a>;
+ <span class="date">1256</span> <span class="name">Constantiæ</span> (<span class="case">dat</span>) <a href="../cite/Constantiæ/1256/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17</span></a>;
+ <span class="date">1269</span> <span class="name">Constantia</span> (<span class="case">nom</span>) <a href="../cite/Constantia/1269/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11</span></a>,
+ <span class="name">Constantiæ</span> (<span class="case">gen</span>) <a href="../cite/Constantiæ/1269/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1488</span> <span class="name">Constancia</span> (<span class="case">nom</span>) <a href="../cite/Constancia/1488/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 23</span></a>,
+ <span class="name">Constantia</span> (<span class="case">nom</span>) <a href="../cite/Constantia/1488/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1489</span> <span class="name">Constancia</span> (<span class="case">nom</span>) <a href="../cite/Constancia/1489/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1490</span> <span class="name">Constancia</span> (<span class="case">nom</span>) <a href="../cite/Constancia/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Constanciae</span> (<span class="case">gen</span>) <a href="../cite/Constanciae/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1491</span> <span class="name">Constancia</span> (<span class="case">nom</span>) <a href="../cite/Constancia/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 57</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Constança</span> <a href="../cite/Constança/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">4274</span></a>,
+ <span class="name">Costança</span> <a href="../cite/Costança/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">4770</span></a>,
+ <span class="name">Gostança</span> <a href="../cite/Gostança/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3287</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1575</span> <span class="name">Constanza</span> <a href="../cite/Constanza/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3816</span></a>;
+ <span class="date">1576</span> <span class="name">Constanza</span> <a href="../cite/Constanza/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3901</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, J. Uckelman, S.L. Uckelman. "Constance". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Constance.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

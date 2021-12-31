@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Philbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Philbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German, Old Saxon</span> <i>filu</i> 'many' +  <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C saint and a 16th C prince of Orange.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1177</span> <span class="name">Filibertus</span> (<span class="case">nom</span>) <a href="../cite/Filibertus/1177/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">165</span></a>;
+ <span class="date">1480</span> <span class="name">Philiberto</span> (<span class="case">abl</span>) <a href="../cite/Philiberto/1480/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">245</span></a>,
+ <span class="name">Philibertus</span> (<span class="case">nom</span>) <a href="../cite/Philibertus/1480/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">245</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Phelibert</span> <a href="../cite/Phelibert/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 614</span></a>,
+ <span class="name">Philebert</span> <a href="../cite/Philebert/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 607</span></a>;
+ <span class="date">1418</span> <span class="name">Phelibert</span> <a href="../cite/Phelibert/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 205</span></a>,
+ <span class="name">Philibert</span> <a href="../cite/Philibert/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 380</span></a>;
+ <span class="date">1571</span> <span class="name">Fillebert</span> <a href="../cite/Fillebert/1571/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 464</span></a>;
+ <span class="date">1572</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 510</span></a>;
+ <span class="date">1587</span> <span class="name">Philebert</span> <a href="../cite/Philebert/1587/RTFProvins"><span class="bib_key">RTFProvins</span> <span class="bib_loc">8</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Filiberti</span> (<span class="case">gen</span>) <a href="../cite/Filiberti/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">381</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1561</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1561/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1562</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1562/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1564</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1564/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1565</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1565/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1566</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1566/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1567</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1567/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1568</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1568/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1569</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1569/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1570</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1570/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1571</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1571/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1572</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1572/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1573</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1573/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1574</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1574/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1575</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1575/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1576</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1576/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1577</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1577/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1436</span> <span class="name">Philiberti</span> (<span class="case">gen</span>) <a href="../cite/Philiberti/1436/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">210</span></a>,
+ <span class="name">Philiberto</span> (<span class="case">abl</span>) <a href="../cite/Philiberto/1436/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">210</span></a>,
+ <span class="name">Philibertum</span> (<span class="case">acc</span>) <a href="../cite/Philibertum/1436/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">210</span></a>;
+ <span class="date">1528</span> <span class="name">Philiberti</span> (<span class="case">gen</span>) <a href="../cite/Philiberti/1528/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">299</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1501</span> <span class="name">Philibert</span> <a href="../cite/Philibert/1501/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">271</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Philbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Philbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

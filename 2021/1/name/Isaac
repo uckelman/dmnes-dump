@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Isaac</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Isaac</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>יִצְחָק</i> '[he] will laugh'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a Biblical patriarch. Wycliffite Bible (1395): <i>Isaac</i>. Sagradas Escrituras (1569): <i>Isaac</i>.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1066</span> <span class="name">Isaac</span> (<span class="case">gen</span>) <a href="../cite/Isaac/1066/CartSPL1"><span class="bib_key">CartSPL1</span> <span class="bib_loc">II</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1486</span> <span class="name">Isaac</span> (<span class="case">nom</span>) <a href="../cite/Isaac/1486/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1489</span> <span class="name">Isaac</span> (<span class="case">nom</span>) <a href="../cite/Isaac/1489/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1500</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1500/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1502</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1502/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1507</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1507/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51 [sic]</span></a>;
+ <span class="date">1519</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1519/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56 [sic]</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1222</span> <span class="name">Ysaac</span> (<span class="case">nom</span>) <a href="../cite/Ysaac/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 101</span></a>;
+ <span class="date">1279–80</span> <span class="name">Isak</span> (<span class="case">nom</span>) <a href="../cite/Isak/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 36</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1572/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Bontenaken</span></a>,
+ <span class="name">Isaack</span> <a href="../cite/Isaack/1572/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bogarts</span></a>;
+ <span class="date">1573</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1573/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Lamberts</span></a>;
+ <span class="date">1574</span> <span class="name">Isaack</span> <a href="../cite/Isaack/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Costere</span></a>,
+ <span class="name">Isack</span> <a href="../cite/Isack/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Dierecksen</span></a>;
+ <span class="date">1575</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1575/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Kunicx</span></a>;
+ <span class="date">1576</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Assendelft</span></a>,
+ <span class="name">Isaack</span> <a href="../cite/Isaack/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clerx</span></a>;
+ <span class="date">1577</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Ro</span></a>,
+ <span class="name">Isaack</span> <a href="../cite/Isaack/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Seghers</span></a>;
+ <span class="date">1579</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Engelgrave</span></a>;
+ <span class="date">1580</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Luls</span></a>;
+ <span class="date">1581</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1581/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gast</span></a>;
+ <span class="date">1582</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Quinckens</span></a>;
+ <span class="date">1583</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Engelgrave</span></a>;
+ <span class="date">1584</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1584/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Brauwers</span></a>;
+ <span class="date">1585</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Vos</span></a>;
+ <span class="date">1586</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Wijnghe</span></a>,
+ <span class="name">Isaak</span> <a href="../cite/Isaak/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gouch</span></a>;
+ <span class="date">1587</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Brugge</span></a>,
+ <span class="name">Isaak</span> <a href="../cite/Isaak/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bogaerts</span></a>;
+ <span class="date">1589</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Ruijster</span></a>;
+ <span class="date">1590</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Keij</span></a>,
+ <span class="name">Isaack</span> <a href="../cite/Isaack/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cleijmans</span></a>;
+ <span class="date">1591</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beun</span></a>;
+ <span class="date">1592</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Buen</span></a>,
+ <span class="name">Isaack</span> <a href="../cite/Isaack/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84</span></a>;
+ <span class="date">1593</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Alaerts</span></a>;
+ <span class="date">1594</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Godschalck</span></a>,
+ <span class="name">Isaack</span> <a href="../cite/Isaack/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Baert</span></a>;
+ <span class="date">1595</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Hulster</span></a>,
+ <span class="name">Isaack</span> <a href="../cite/Isaack/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Stalpart</span></a>;
+ <span class="date">1596</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Connick</span></a>;
+ <span class="date">1597</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Freschner</span></a>;
+ <span class="date">1598</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Reijnisch</span></a>;
+ <span class="date">1599</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clerck</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1583/4</span> <span class="name">Isacke</span> <a href="../cite/Isacke/1583s4/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 62</span></a>;
+ <span class="date">1584</span> <span class="name">Isacke</span> <a href="../cite/Isacke/1584/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 115</span></a>;
+ <span class="date">1586</span> <span class="name">Isack</span> <a href="../cite/Isack/1586/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1589/90</span> <span class="name">Isaake</span> <a href="../cite/Isaake/1589s90/HWCP2"><span class="bib_key">HWCP2</span> <span class="bib_loc">p. 5</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1568</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1568/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1573</span> <span class="name">Isacq</span> <a href="../cite/Isacq/1573/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1575</span> <span class="name">Isac</span> <a href="../cite/Isac/1575/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1579</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1579/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1580</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1580/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Isac</span> <a href="../cite/Isac/1580/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1581</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1581/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1582</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1582/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">isac</span> <a href="../cite/isac/1582/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1583</span> <span class="name">isaac</span> <a href="../cite/isaac/1583/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1584</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1584/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1585</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1585/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1586</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1586/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1587</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1587/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1588</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1588/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1589</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1589/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1590</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1590/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1591</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1591/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1592</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1592/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1593</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1593/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1594</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1594/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1595</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1595/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1596</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1596/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Isäac</span> <a href="../cite/Isäac/1596/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1597</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1597/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1598</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1598/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1599</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1599/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581/2</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1581s2/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1582</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1582/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1582/3</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1582s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1583/4</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1583s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 437</span></a>;
+ <span class="date">1583</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1583/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1584</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1584/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 437</span></a>;
+ <span class="date">1590</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1591</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1591/2</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1591s2/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 563</span></a>;
+ <span class="date">1591</span> <span class="name">Isac</span> <a href="../cite/Isac/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1592</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1592/3</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1592s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1593/4</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1594</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1595</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1595/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1596</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1596/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1597</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1597/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1598</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1598/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1599</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1599/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Isack</span> (<span class="case">nom</span>) <a href="../cite/Isack/1582/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 171</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1378</span> <span class="name">Ysaco</span> (<span class="case">dat</span>) <a href="../cite/Ysaco/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1169</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1562</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1563</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1564</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 55</span></a>,
+ <span class="name">Ysaac</span> <a href="../cite/Ysaac/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90</span></a>;
+ <span class="date">1565</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 189</span></a>,
+ <span class="name">Ysaac</span> <a href="../cite/Ysaac/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 163</span></a>;
+ <span class="date">1566</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 215</span></a>,
+ <span class="name">Ysaac</span> <a href="../cite/Ysaac/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 218</span></a>;
+ <span class="date">1567</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 292</span></a>,
+ <span class="name">Ysaac</span> <a href="../cite/Ysaac/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 328</span></a>;
+ <span class="date">1568</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 373</span></a>,
+ <span class="name">Ysaac</span> <a href="../cite/Ysaac/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 374</span></a>;
+ <span class="date">1570</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 426</span></a>;
+ <span class="date">1571</span> <span class="name">Isaac</span> <a href="../cite/Isaac/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 482</span></a>;
+ <span class="date">1572</span> <span class="name">Esaac</span> <a href="../cite/Esaac/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 514</span></a>,
+ <span class="name">Isaac</span> <a href="../cite/Isaac/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 517</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">891</span> <span class="name">Ysaac</span> (<span class="case">nom</span>) <a href="../cite/Ysaac/891/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">10</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1323</span> <span class="name">Isaak</span> <a href="../cite/Isaak/1323/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 173, s.n. Isaak</span></a>;
+ <span class="date">1330</span> <span class="name">Isaak</span> <a href="../cite/Isaak/1330/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 173, s.n. Isaak</span></a>;
+ <span class="date">1331</span> <span class="name">Isak</span> <a href="../cite/Isak/1331/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 173, s.n. Isaak</span></a>;
+ <span class="date">1332x1337</span> <span class="name">Ysaak</span> (<span class="case">nom</span>) <a href="../cite/Ysaak/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 173, s.n. Isaak</span></a>;
+ <span class="date">1341</span> <span class="name">Isaak</span> <a href="../cite/Isaak/1341/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 173, s.n. Isaak</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Isaac</span> (<span class="case">nom</span>) <a href="../cite/Isaac/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 17</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1237</span> <span class="name">Ysaki</span> (<span class="case">gen</span>) <a href="../cite/Ysaki/1237/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">584</span></a>;
+ <span class="date">1527</span> <span class="name">Jsach</span> (<span class="case">nom</span>) <a href="../cite/Jsach/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 87</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1285</span> <span class="name">Ysacutii</span> (<span class="case">gen</span>) <a href="../cite/Ysacutii/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 154</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1238</span> <span class="name">Ysaaco</span> (<span class="case">abl</span>) <a href="../cite/Ysaaco/1238/CartLevenax"><span class="bib_key">CartLevenax</span> <span class="bib_loc">p. 13</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1419</span> <span class="name">Ysaak</span> (<span class="case">nom</span>) <a href="../cite/Ysaak/1419/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 19242</span></a>,
+ <span class="name">Ysak</span> (<span class="case">gen</span>) <a href="../cite/Ysak/1419/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19242</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1188</span> <span class="name">Ysaac</span> (<span class="case">nom</span>) <a href="../cite/Ysaac/1188/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">28</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, M. Slíz, S.L. Uckelman. "Isaac". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Isaac.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

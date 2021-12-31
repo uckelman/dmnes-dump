@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Godbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Godbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German, Old Dutch</span> <i>got</i>, <span class="lang">Old Saxon, Old Frisian, Old English</span> <i>god</i> 'god, deity' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">927</span> <span class="name">Kotaberti</span> (<span class="case">gen</span>) <a href="../cite/Kotaberti/927/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">17</span></a>,
+ <span class="name">Kotaberto</span> (<span class="case">abl</span>) <a href="../cite/Kotaberto/927/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>,
+ <span class="name">Kotabertus</span> (<span class="case">nom</span>) <a href="../cite/Kotabertus/927/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>;
+ <span class="date">c1050</span> <span class="name">Gotapreht</span> (<span class="case">nom</span>) <a href="../cite/Gotapreht/c1050/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">57</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1312</span> <span class="name">Gobelinum</span> (<span class="case">acc</span>) <a href="../cite/Gobelinum/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Gobelinus</span> (<span class="case">nom</span>) <a href="../cite/Gobelinus/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1355</span> <span class="name">Goblyni</span> (<span class="case">gen</span>) <a href="../cite/Goblyni/1355/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">99</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1400</span> <span class="name">Gobele</span> <a href="../cite/Gobele/1400/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 342</span></a>;
+ <span class="date">1416</span> <span class="name">Gobele</span> <a href="../cite/Gobele/1416/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a>;
+ <span class="date">1419</span> <span class="name">Ghobele</span> <a href="../cite/Ghobele/1419/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 348</span></a>;
+ <span class="date">1430</span> <span class="name">Gobel</span> <a href="../cite/Gobel/1430/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 354</span></a>;
+ <span class="date">1434</span> <span class="name">Gobele</span> <a href="../cite/Gobele/1434/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 356</span></a>;
+ <span class="date">1441</span> <span class="name">Gobel</span> <a href="../cite/Gobel/1441/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 363</span></a>;
+ <span class="date">1442</span> <span class="name">Gobel</span> <a href="../cite/Gobel/1442/BbRT"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 364</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">745</span> <span class="name">Godoberti</span> (<span class="case">gen</span>) <a href="../cite/Godoberti/745/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">1</span></a>;
+ <span class="date">814</span> <span class="name">Godobertus</span> (<span class="case">nom</span>) <a href="../cite/Godobertus/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">A3</span></a>;
+ <span class="date">1209</span> <span class="name">Gobertus</span> (<span class="case">nom</span>) <a href="../cite/Gobertus/1209/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCV</span></a>;
+ <span class="date">1260</span> <span class="name">Guoberti</span> (<span class="case">gen</span>) <a href="../cite/Guoberti/1260/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XXIII, Ascension</span></a>;
+ <span class="date">1301</span> <span class="name">Goberti</span> (<span class="case">gen</span>) <a href="../cite/Goberti/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 204</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1301</span> <span class="name">Gobini</span> (<span class="case">gen</span>) <a href="../cite/Gobini/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 200</span></a>;
+ <span class="date">1378</span> <span class="name">Gobelini</span> (<span class="case">gen</span>) <a href="../cite/Gobelini/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">269</span></a>,
+ <span class="name">Gobelino</span> (<span class="case">dat</span>) <a href="../cite/Gobelino/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">269</span></a>,
+ <span class="name">Gobini</span> (<span class="case">gen</span>) <a href="../cite/Gobini/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2459</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">Gobert</span> (<span class="case">obl</span>) <a href="../cite/Gobert/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 278</span></a>;
+ <span class="date">1313</span> <span class="name">Gobert</span> <a href="../cite/Gobert/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 61</span></a>,
+ <span class="name">Goubert</span> <a href="../cite/Goubert/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1415[1469x1471]</span> <span class="name">Gobert</span> <a href="../cite/Gobert/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 226</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1418</span> <span class="name">Gobin</span> <a href="../cite/Gobin/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 203</span></a>,
+ <a href="../cite/Gobin/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 378</span></a>;
+ <span class="date">1423</span> <span class="name">Gobin</span> <a href="../cite/Gobin/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">206</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">720</span> <span class="name">Godobrectus</span> (<span class="case">nom</span>) <a href="../cite/Godobrectus/720/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 6</span></a>;
+ <span class="date">1221</span> <span class="name">Godebertus</span> (<span class="case">nom</span>) <a href="../cite/Godebertus/1221/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">59</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1234</span> <span class="name">Gobelo</span> (<span class="case">nom</span>) <a href="../cite/Gobelo/1234/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">89</span></a>;
+ <span class="date">1266</span> <span class="name">Gobelo</span> (<span class="case">nom</span>) <a href="../cite/Gobelo/1266/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. LXI</span></a>;
+ <span class="date">1267</span> <span class="name">Gobelino</span> (<span class="case">abl</span>) <a href="../cite/Gobelino/1267/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">208</span></a>;
+ <span class="date">1283</span> <span class="name">Gobelino</span> (<span class="case">abl</span>) <a href="../cite/Gobelino/1283/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">289</span></a>;
+ <span class="date">1286</span> <span class="name">Gobelinus</span> (<span class="case">nom</span>) <a href="../cite/Gobelinus/1286/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">302</span></a>,
+ <span class="name">Gobilinus</span> (<span class="case">nom</span>) <a href="../cite/Gobilinus/1286/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">304</span></a>;
+ <span class="date">1289</span> <span class="name">Gobelino</span> (<span class="case">abl</span>) <a href="../cite/Gobelino/1289/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">316</span></a>;
+ <span class="date">1292</span> <span class="name">Gobele</span> (<span class="case">nom</span>) <a href="../cite/Gobele/1292/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. LXXXIX</span></a>;
+ <span class="date">1294</span> <span class="name">Goblino</span> (<span class="case">abl</span>) <a href="../cite/Goblino/1294/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">330</span></a>;
+ <span class="date">1297</span> <span class="name">Gobelinus</span> (<span class="case">nom</span>) <a href="../cite/Gobelinus/1297/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">333</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1282</span> <span class="name">Gobele</span> (<span class="case">nom</span>) <a href="../cite/Gobele/1282/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">284</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">838</span> <span class="name">Godeberti</span> (<span class="case">gen</span>) <a href="../cite/Godeberti/838/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 33</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Godbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Godbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

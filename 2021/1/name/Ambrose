@@ -1,0 +1,266 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Ambrose</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Ambrose</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Greek</span> <i>ἀμβρόσιος</i> 'immortal, divine'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 3rd C saint, a 4th C archbishop of Milan, a 5th C Romano-British war leader who later was identified with King Arthur, and a 14th C Italian saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The Welsh form is <i>Emrys</i>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1439</span> <span class="name">Ambrosi</span> (<span class="case">nom</span>) <a href="../cite/Ambrosi/1439/ChronSH"><span class="bib_key">ChronSH</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1439/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>,
+ <span class="name">Ambrosy</span> (<span class="case">nom</span>) <a href="../cite/Ambrosy/1439/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Ambrosius</span> <a href="../cite/Ambrosius/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 387</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Croatia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Croatian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597</span> <span class="name">Ambros</span> <a href="../cite/Ambros/1597/Susedgrad1597"><span class="bib_key">Susedgrad1597</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Ambrosius</span> <a href="../cite/Ambrosius/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Iambros</span> <a href="../cite/Iambros/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Iambrws</span> <a href="../cite/Iambrws/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Iamres</span> <a href="../cite/Iamres/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1597</span> <span class="name">Iambrek</span> <a href="../cite/Iambrek/1597/Susedgrad1597"><span class="bib_key">Susedgrad1597</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Iambrich</span> <a href="../cite/Iambrich/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Iambrych</span> <a href="../cite/Iambrych/1597/Susedgrad1597"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1373</span> <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1373/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">102</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1567</span> <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1567/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1570</span> <span class="name">Ambros</span> (<span class="case">gen</span>) <a href="../cite/Ambros/1570/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 100</span></a>;
+ <span class="date">1573</span> <span class="name">Ambros</span> (<span class="case">gen</span>) <a href="../cite/Ambros/1573/RegPat"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1574</span> <span class="name">Ambros</span> (<span class="case">gen</span>) <a href="../cite/Ambros/1574/RegPat"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1580</span> <span class="name">Ambross</span> (<span class="case">gen</span>) <a href="../cite/Ambross/1580/RegPat"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 103</span></a>;
+ <span class="date">1582/3</span> <span class="name">Ambros</span> (<span class="case">gen</span>) <a href="../cite/Ambros/1582s3/RegPat"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1572/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Hubrechts</span></a>;
+ <span class="date">1591</span> <span class="name">Ambrosius</span> <a href="../cite/Ambrosius/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Swarte</span></a>;
+ <span class="date">1592</span> <span class="name">Ambrosius</span> <a href="../cite/Ambrosius/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Swarte</span></a>;
+ <span class="date">1595</span> <span class="name">Ambrosius</span> <a href="../cite/Ambrosius/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Sijluart</span></a>;
+ <span class="date">1596</span> <span class="name">Ambrosius</span> <a href="../cite/Ambrosius/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Silvoort</span></a>;
+ <span class="date">1598</span> <span class="name">Ambrosius</span> <a href="../cite/Ambrosius/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gilbert</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 87</span></a>;
+ <span class="date">1546</span> <span class="name">Ambros</span> <a href="../cite/Ambros/1546/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Ambros/1546/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1547</span> <span class="name">Ambros</span> <a href="../cite/Ambros/1547/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1557</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1557/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 109</span></a>;
+ <span class="date">1560</span> <span class="name">Ambros</span> <a href="../cite/Ambros/1560/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1561</span> <span class="name">Ambros</span> <a href="../cite/Ambros/1561/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1563</span> <span class="name">Ambros</span> <a href="../cite/Ambros/1563/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1571</span> <span class="name">Ambros</span> <a href="../cite/Ambros/1571/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 101</span></a>;
+ <span class="date">1572/3</span> <span class="name">Ambros</span> <a href="../cite/Ambros/1572s3/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 170</span></a>;
+ <span class="date">1577</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1577/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1580</span> <span class="name">Amberus</span> <a href="../cite/Amberus/1580/SaxhamSf"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1583/4</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1583s4/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1585</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1585/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1586</span> <span class="name">Ambros</span> <a href="../cite/Ambros/1586/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1587</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1587/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 139</span></a>,
+ <span class="name">Ambrosse</span> <a href="../cite/Ambrosse/1587/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1588/9</span> <span class="name">Ambros</span> <a href="../cite/Ambros/1588s9/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1590</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1590/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1591</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1591/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1592</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1592/HWCP2"><span class="bib_key">HWCP2</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1593</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1595</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1595/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1597</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1597/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1597/8</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1597s8/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1598</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1598/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1599</span> <span class="name">Ambrose</span> <a href="../cite/Ambrose/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 41</span></a>,
+ <a href="../cite/Ambrose/1599/RegGorton"><span class="bib_key">RegGorton</span> <span class="bib_loc">p. 1</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1577</span> <span class="name">Ambroise</span> <a href="../cite/Ambroise/1577/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1579</span> <span class="name">ambroise</span> <a href="../cite/ambroise/1579/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1581</span> <span class="name">Ambroise</span> <a href="../cite/Ambroise/1581/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1582</span> <span class="name">Ambroise</span> <a href="../cite/Ambroise/1582/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1583</span> <span class="name">ambroise</span> <a href="../cite/ambroise/1583/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 103</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1437</span> <span class="name">Brosyus</span> <a href="../cite/Brosyus/1437/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 360</span></a>;
+ <span class="date">1592</span> <span class="name">Brosius</span> <a href="../cite/Brosius/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 285</span></a>,
+ <span class="name">Roeß</span> <a href="../cite/Roeß/1592/Tiik1977"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 285</span></a>,
+ <span class="name">Rose</span> <a href="../cite/Rose/1592/Tiik1977"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 285</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1584</span> <span class="name">Broß</span> (<span class="case">nom</span>) <a href="../cite/Broß/1584/Hiiumaa"><span class="bib_key">Hiiumaa</span> <span class="bib_loc">p. 290</span></a>;
+ <span class="date">1587</span> <span class="name">Brose</span> (<span class="case">nom</span>) <a href="../cite/Brose/1587/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 192</span></a>;
+ <span class="date">1599</span> <span class="name">Broos</span> (<span class="case">nom</span>) <a href="../cite/Broos/1599/Hiiumaa"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 105</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Ambrois</span> <a href="../cite/Ambrois/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 600</span></a>,
+ <span class="name">Ambroys</span> <a href="../cite/Ambroys/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 601</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1423</span> <span class="name">Ambroisin</span> <a href="../cite/Ambroisin/1423/favier"><span class="bib_key">favier</span> <span class="bib_loc">363</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1540</span> <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1540/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">p. 58</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">967</span> <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/967/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1236</span> <span class="name">Ambrosii</span> (<span class="case">gen</span>) <a href="../cite/Ambrosii/1236/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Ambrosi</span> (<span class="case">gen</span>) <a href="../cite/Ambrosi/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">643</span></a>,
+ <span class="name">Ambrosii</span> (<span class="case">gen</span>) <a href="../cite/Ambrosii/1265x1339/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">146</span></a>;
+ <span class="date">1278</span> <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1278/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIII</span></a>;
+ <span class="date">1281</span> <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1281/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIII</span></a>;
+ <span class="date">1282</span> <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1282/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVIII</span></a>;
+ <span class="date">1368</span> <span class="name">Ambrosii</span> (<span class="case">gen</span>) <a href="../cite/Ambrosii/1368/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">221</span></a>;
+ <span class="date">1376</span> <span class="name">Ambroxio</span> (<span class="case">abl</span>) <a href="../cite/Ambroxio/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 18</span></a>,
+ <span class="name">Ambroxius</span> (<span class="case">nom</span>) <a href="../cite/Ambroxius/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 216</span></a>;
+ <span class="date">1464</span> <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 59, 47</span></a>;
+ <span class="date">1527</span> <span class="name">Ambrosij</span> (<span class="case">gen</span>) <a href="../cite/Ambrosij/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 87</span></a>,
+ <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1490</span> <span class="name">Ambrosio</span> <a href="../cite/Ambrosio/1490/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1513x1521</span> <span class="name">Ambrogio</span> <a href="../cite/Ambrogio/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Ambrosio</span> <a href="../cite/Ambrosio/1513x1521/LeoX"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Ambroxo</span> <a href="../cite/Ambroxo/1513x1521/LeoX"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 34</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1289</span> <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1289/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1290</span> <span class="name">Ambrosii</span> (<span class="case">gen</span>) <a href="../cite/Ambrosii/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">617</span></a>,
+ <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>;
+ <span class="date">1292</span> <span class="name">Ambrosio</span> (<span class="case">dat</span>) <a href="../cite/Ambrosio/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">658</span></a>;
+ <span class="date">1296</span> <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1296/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">791</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1314</span> <span class="name">Brosius</span> (<span class="case">nom</span>) <a href="../cite/Brosius/1314/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">209</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Ambros</span> <a href="../cite/Ambros/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3306</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1402</span> <span class="name">Ambrosius</span> (<span class="case">nom</span>) <a href="../cite/Ambrosius/1402/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 15897</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1555</span> <span class="name">Ambrosum</span> (<span class="case">acc</span>) <a href="../cite/Ambrosum/1555/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">336</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, G. Grim, R. Le Get, J. Uckelman, S.L. Uckelman. "Ambrose". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Ambrose.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

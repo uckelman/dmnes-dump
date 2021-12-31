@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Donato</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Donato</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>donatus</i> 'given'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 2nd C martyr, a 3rd C martyr, a 4th C Italian saint, four 4th C martyrs, a 6th C French monk, a 7th C French monk, a 9th C Irish monk, a 9th C Dalmatian monk, a 12th C Italian saint, and a 14th-15th C Italian painter, better known by the diminutive form <i>Donatello</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>In Ireland, the Latin form <i>Donatus</i> was sometimes used to render Irish <i>Donnchadh</i> (cf. <a class="nym" href="Duncan">Duncan</a>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1365</span> <span class="name">Donati</span> (<span class="case">gen</span>) <a href="../cite/Donati/1365/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">58</span></a>;
+ <span class="date">1370</span> <span class="name">Donat</span> (<span class="case">nom</span>) <a href="../cite/Donat/1370/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">62</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">657</span> <span class="name">Donato</span> (<span class="case">abl</span>) <a href="../cite/Donato/657/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">CCCXXVIII</span></a>;
+ <span class="date">780</span> <span class="name">Donato</span> (<span class="case">abl</span>) <a href="../cite/Donato/780/CartNoaille"><span class="bib_key">CartNoaille</span> <span class="bib_loc">I</span></a>;
+ <span class="date">814</span> <span class="name">Donatus</span> (<span class="case">nom</span>) <a href="../cite/Donatus/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">A3</span></a>;
+ <span class="date">1378</span> <span class="name">Donati</span> (<span class="case">gen</span>) <a href="../cite/Donati/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1046</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1434</span> <span class="name">Donato</span> (<span class="case">dat</span>) <a href="../cite/Donato/1434/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">121</span></a>;
+ <span class="date">1497</span> <span class="name">Donatum</span> (<span class="case">acc</span>) <a href="../cite/Donatum/1497/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">38</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1300</span> <span class="name">Donatus</span> (<span class="case">nom</span>) <a href="../cite/Donatus/1300/ActDipVeneto-I-1"><span class="bib_key">ActDipVeneto-I-1</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1324</span> <span class="name">Donato</span> (<span class="case">abl</span>) <a href="../cite/Donato/1324/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 46, 3698</span></a>;
+ <span class="date">1360[1370]</span> <span class="name">Donatus</span> (<span class="case">nom</span>) <a href="../cite/Donatus/1360[1370]/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">263</span></a>;
+ <span class="date">1366</span> <span class="name">Donatus</span> (<span class="case">nom</span>) <a href="../cite/Donatus/1366/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1367</span> <span class="name">Donati</span> (<span class="case">gen</span>) <a href="../cite/Donati/1367/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">125</span></a>,
+ <span class="name">Donatus</span> (<span class="case">nom</span>) <a href="../cite/Donatus/1367/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">134</span></a>;
+ <span class="date">1368</span> <span class="name">Donati</span> (<span class="case">gen</span>) <a href="../cite/Donati/1368/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">230/231</span></a>,
+ <span class="name">Donatus</span> (<span class="case">nom</span>) <a href="../cite/Donatus/1368/Livi"><span class="bib_key">ibid.</span> <span class="bib_loc">223</span></a>;
+ <span class="date">1391</span> <span class="name">Donatum</span> (<span class="case">acc</span>) <a href="../cite/Donatum/1391/Venditti"><span class="bib_key">Venditti</span> <span class="bib_loc">I-2</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Donatus</span> (<span class="case">nom</span>) <a href="../cite/Donatus/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 52, 29</span></a>;
+ <span class="date">1527</span> <span class="name">Donatus</span> (<span class="case">nom</span>) <a href="../cite/Donatus/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 83</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Donato</span> <a href="../cite/Donato/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 18</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Donato". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2016, no. 3. http://dmnes.org/2016/3/name/Donato.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2016 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>
