@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Vincent</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Vincent</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Vincentius</i>, from <i>vincens</i> 'conquering'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a number of 4th C saints, a 5th C saint, a 7th C Belgian saint, and a 14th C Spanish saint and logician.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1502</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1502/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1503</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1503/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1504</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1504/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1597x1598</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 366</span></a>;
+ <span class="date">1599</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1599/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 90</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1345</span> <span class="name">Czenko</span> (<span class="case">nom</span>) <a href="../cite/Czenko/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">605</span></a>;
+ <span class="date">1346</span> <span class="name">Tschenconem</span> (<span class="case">acc</span>) <a href="../cite/Tschenconem/1346/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">633</span></a>,
+ <span class="name">Tschenconi</span> (<span class="case">dat</span>) <a href="../cite/Tschenconi/1346/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">633</span></a>,
+ <span class="name">Tschenko</span> (<span class="case">nom</span>) <a href="../cite/Tschenko/1346/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">633</span></a>,
+ <span class="name">Tschenkonis</span> (<span class="case">gen</span>) <a href="../cite/Tschenkonis/1346/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">633</span></a>;
+ <span class="date">1349</span> <span class="name">Czenco</span> (<span class="case">nom</span>) <a href="../cite/Czenco/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">23</span></a>;
+ <span class="date">1350</span> <span class="name">Czencone</span> (<span class="case">abl</span>) <a href="../cite/Czencone/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">194</span></a>,
+ <span class="name">Czenkone</span> (<span class="case">dat</span>) <a href="../cite/Czenkone/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">184</span></a>,
+ <span class="name">Czenkonis</span> (<span class="case">gen</span>) <a href="../cite/Czenkonis/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">165</span></a>;
+ <span class="date">1353</span> <span class="name">Czenco</span> (<span class="case">nom</span>) <a href="../cite/Czenco/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">132</span></a>,
+ <span class="name">Czencone</span> (<span class="case">abl</span>) <a href="../cite/Czencone/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">4, p. 21</span></a>,
+ <span class="name">Czenconi</span> (<span class="case">dat</span>) <a href="../cite/Czenconi/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">132</span></a>,
+ <span class="name">Czenconis</span> (<span class="case">gen</span>) <a href="../cite/Czenconis/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">36, p. 22</span></a>;
+ <span class="date">1355</span> <span class="name">Czenko</span> (<span class="case">nom</span>) <a href="../cite/Czenko/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">95</span></a>,
+ <span class="name">Czenkoni</span> (<span class="case">dat</span>) <a href="../cite/Czenkoni/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>,
+ <span class="name">Czenkonis</span> (<span class="case">gen</span>) <a href="../cite/Czenkonis/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">98</span></a>,
+ <span class="name">Czenkony</span> (<span class="case">dat</span>) <a href="../cite/Czenkony/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">76</span></a>;
+ <span class="date">1356</span> <span class="name">Czenko</span> (<span class="case">nom</span>) <a href="../cite/Czenko/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">117</span></a>,
+ <span class="name">Czenkoni</span> (<span class="case">dat</span>) <a href="../cite/Czenkoni/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">169</span></a>;
+ <span class="date">1358</span> <span class="name">Czenco</span> (<span class="case">nom</span>) <a href="../cite/Czenco/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">216, p. 30</span></a>,
+ <span class="name">Czencone</span> (<span class="case">abl</span>) <a href="../cite/Czencone/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">440, p. 38</span></a>,
+ <span class="name">Czenko</span> (<span class="case">nom</span>) <a href="../cite/Czenko/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">440, p. 38</span></a>,
+ <span class="name">Czenkone</span> (<span class="case">abl</span>) <a href="../cite/Czenkone/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">193, p. 29</span></a>,
+ <span class="name">Czenkoni</span> (<span class="case">dat</span>) <a href="../cite/Czenkoni/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">200, p. 30</span></a>;
+ <span class="date">1395</span> <span class="name">Czenko</span> (<span class="case">nom</span>) <a href="../cite/Czenko/1395/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 5</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Vincent</span> (<span class="case">nom</span>) <a href="../cite/Vincent/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 116</span></a>;
+ <span class="date">1279–80</span> <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1300</span> <span class="name">Vincencius</span> (<span class="case">nom</span>) <a href="../cite/Vincencius/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 234</span></a>;
+ <span class="date">1566</span> <span class="name">Vincenti</span> (<span class="case">gen</span>) <a href="../cite/Vincenti/1566/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 12</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1574</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1574/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Brawere</span></a>;
+ <span class="date">1576</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cuenijnck</span></a>;
+ <span class="date">1577</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Lijen</span></a>;
+ <span class="date">1579</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">s'Konings</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1569</span> <span class="name">Vyncent</span> <a href="../cite/Vyncent/1569/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1586</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1586/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1588</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1588/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1589</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1590</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1590/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1592</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1592/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 31</span></a>,
+ <a href="../cite/Vincent/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1593/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1597</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1597/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1598</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1567</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1567/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1572/3</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1572s3/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1582</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1582/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1587</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1587/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1588</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1588/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1591</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1591/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1594</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1594/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1581/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1582</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1582/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1591</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1591/2</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1591s2/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1592</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1593</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1594</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1595</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1595/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1595/6</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1595s6/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1596</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1596/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1596/7</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1596s7/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1599</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1599/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1592</span> <span class="name">Wintz</span> <a href="../cite/Wintz/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 288</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1054</span> <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1054/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">693</span></a>;
+ <span class="date">1179</span> <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">180</span></a>;
+ <span class="date">1180</span> <span class="name">Vincentii</span> (<span class="case">gen</span>) <a href="../cite/Vincentii/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1196</span> <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1196/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXXIX</span></a>;
+ <span class="date">1267</span> <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1267/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-II</span></a>;
+ <span class="date">1268</span> <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1268/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-V</span></a>;
+ <span class="date">1269</span> <span class="name">Vincencio</span> (<span class="case">dat</span>) <a href="../cite/Vincencio/1269/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XII</span></a>,
+ <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1269/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-III</span></a>;
+ <span class="date">1273</span> <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1273/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLIII</span></a>;
+ <span class="date">1274</span> <span class="name">Vincencii</span> (<span class="case">gen</span>) <a href="../cite/Vincencii/1274/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-LV</span></a>,
+ <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1274/RHF-VIII"><span class="bib_key">RHF-VIII</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1280x1281</span> <span class="name">Vincentii</span> (<span class="case">gen</span>) <a href="../cite/Vincentii/1280x1281/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-CXV</span></a>,
+ <span class="name">Vincentio</span> (<span class="case">abl</span>) <a href="../cite/Vincentio/1280x1281/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-CXV</span></a>,
+ <span class="name">Vincentium</span> (<span class="case">acc</span>) <a href="../cite/Vincentium/1280x1281/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-CXV</span></a>,
+ <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1280x1281/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-CXV</span></a>;
+ <span class="date">1301</span> <span class="name">Vincenti</span> (<span class="case">gen</span>) <a href="../cite/Vincenti/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 250</span></a>,
+ <span class="name">Vincentii</span> (<span class="case">gen</span>) <a href="../cite/Vincentii/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 259</span></a>,
+ <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 209</span></a>;
+ <span class="date">1378</span> <span class="name">Vincentio</span> (<span class="case">dat</span>) <a href="../cite/Vincentio/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">785</span></a>;
+ <span class="date">1503</span> <span class="name">Vincentio</span> (<span class="case">abl</span>) <a href="../cite/Vincentio/1503/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">278</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">c1298</span> <span class="name">Vincent</span> (<span class="case">obl</span>) <a href="../cite/Vincent/c1298/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 138</span></a>;
+ <span class="date">1313</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 1</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1313</span> <span class="name">Vincenet</span> <a href="../cite/Vincenet/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 35</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1388</span> <span class="name">Vinchen</span> <a href="../cite/Vinchen/1388/thierry"><span class="bib_key">thierry</span></a>;
+ <span class="date">1404</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1404/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 4</span></a>;
+ <span class="date">1418</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 202</span></a>,
+ <a href="../cite/Vincent/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 378</span></a>;
+ <span class="date">1421</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1048</span></a>;
+ <span class="date">1423</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">279</span></a>;
+ <span class="date">1438</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">563</span></a>;
+ <span class="date">1528</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1528/Subsidy1528"><span class="bib_key">Subsidy1528</span> <span class="bib_loc">p. 172</span></a>;
+ <span class="date">1561</span> <span class="name">Vincen</span> <a href="../cite/Vincen/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 529</span></a>,
+ <span class="name">Vincent</span> <a href="../cite/Vincent/1561/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1562</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1562/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1563</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1564</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1565</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 117</span></a>;
+ <span class="date">1566</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 203</span></a>;
+ <span class="date">1567</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 293</span></a>;
+ <span class="date">1568</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 388</span></a>;
+ <span class="date">1570</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 422</span></a>;
+ <span class="date">1571</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 442</span></a>;
+ <span class="date">1572</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 485</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 10</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Vincentii</span> (<span class="case">gen</span>) <a href="../cite/Vincentii/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">66</span></a>;
+ <span class="date">1282</span> <span class="name">Vincentio</span> (<span class="case">dat</span>) <a href="../cite/Vincentio/1282/DSS5-1-4"><span class="bib_key">DSS5-1-4</span> <span class="bib_loc">XV</span></a>;
+ <span class="date">1326</span> <span class="name">Vincentium</span> (<span class="case">acc</span>) <a href="../cite/Vincentium/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 446</span></a>;
+ <span class="date">1376</span> <span class="name">Vicencio</span> (<span class="case">abl</span>) <a href="../cite/Vicencio/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 168</span></a>;
+ <span class="date">1464</span> <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1478</span> <span class="name">Vincenzii</span> (<span class="case">gen</span>) <a href="../cite/Vincenzii/1478/RCCaetani6"><span class="bib_key">RCCaetani6</span> <span class="bib_loc">2720</span></a>,
+ <span class="name">Vincenzio</span> (<span class="case">abl</span>) <a href="../cite/Vincenzio/1478/RCCaetani6"><span class="bib_key">ibid.</span> <span class="bib_loc">2720</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Vicencius</span> (<span class="case">nom</span>) <a href="../cite/Vicencius/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 53, 37</span></a>,
+ <span class="name">Vincencius</span> (<span class="case">nom</span>) <a href="../cite/Vincencius/1522x1532/DSF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52, 29</span></a>;
+ <span class="date">1527</span> <span class="name">Vincentij</span> (<span class="case">gen</span>) <a href="../cite/Vincentij/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 89</span></a>,
+ <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1527/Rome1527"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 85</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1285</span> <span class="name">Vençoli</span> (<span class="case">gen</span>) <a href="../cite/Vençoli/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 157</span></a>,
+ <span class="name">Vinçoli</span> (<span class="case">gen</span>) <a href="../cite/Vinçoli/1285/Perugia1285"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 159</span></a>;
+ <span class="date">1367</span> <span class="name">Cencii</span> (<span class="case">gen</span>) <a href="../cite/Cencii/1367/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">122</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Vincentio</span> <a href="../cite/Vincentio/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 18</span></a>,
+ <span class="name">Vincenzio</span> <a href="../cite/Vincenzio/1513x1521/LeoX"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Vincenzo</span> <a href="../cite/Vincenzo/1513x1521/LeoX"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1566</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1566/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1567</span> <span class="name">Vincent</span> <a href="../cite/Vincent/1567/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1211</span> <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1211/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 6</span></a>;
+ <span class="date">1217</span> <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1217/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 21</span></a>;
+ <span class="date">1256</span> <span class="name">Vincentij</span> (<span class="case">gen</span>) <a href="../cite/Vincentij/1256/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17</span></a>;
+ <span class="date">1269</span> <span class="name">Vincencio</span> (<span class="case">dat</span>) <a href="../cite/Vincencio/1269/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1068</span> <span class="name">Vicentius</span> (<span class="case">nom</span>) <a href="../cite/Vicentius/1068/CDSS"><span class="bib_key">CDSS</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Vincencius</span> (<span class="case">nom</span>) <a href="../cite/Vincencius/1068/CDSS"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1124</span> <span class="name">Vecentez</span> (<span class="case">gen</span>) <a href="../cite/Vecentez/1124/CDSS"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Vincent</span> (<span class="case">abl</span>) <a href="../cite/Vincent/1124/CDSS"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>;
+ <span class="date">1491</span> <span class="name">Vincentii</span> (<span class="case">gen</span>) <a href="../cite/Vincentii/1491/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 64</span></a>,
+ <span class="name">Vincentius</span> (<span class="case">nom</span>) <a href="../cite/Vincentius/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 63</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Vicent</span> <a href="../cite/Vicent/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3418</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1575</span> <span class="name">Vincente</span> <a href="../cite/Vincente/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3860</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1235</span> <span class="name">Vincentio</span> (<span class="case">dat</span>) <a href="../cite/Vincentio/1235/CLC"><span class="bib_key">CLC</span> <span class="bib_loc">p. 47</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, J. Uckelman, S.L. Uckelman. "Vincent". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Vincent.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

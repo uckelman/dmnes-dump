@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Leo</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Leo</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>leo</i>, <span class="lang">Ancient Greek</span> <i>λέων</i> 'lion'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of 10 pre-1600 popes, six Byzantine emperors between the 5th and 10th C, an 8th C saint, and five kings of Armenia between the 12th and 14th C.  The diminutive <i>Lionel</i> was the name of a younger son of King Bors and Evaine in the medieval Arthurian legends.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name was often used by Jews as a translation of Hebrew <a class="nym" href="Arye">Arye</a>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">798</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/798/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1143</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1143/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1147</span> <span class="name">Leonii</span> (<span class="case">dat</span>) <a href="../cite/Leonii/1147/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1151</span> <span class="name">Leonem</span> (<span class="case">acc</span>) <a href="../cite/Leonem/1151/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Lioen</span> <a href="../cite/Lioen/1582/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 83</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Leonii</span> (<span class="case">gen</span>) <a href="../cite/Leonii/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 37</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1343</span> <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/1343/Rössler2"><span class="bib_key">Rössler2</span> <span class="bib_loc">128, p. 65</span></a>;
+ <span class="date">1345</span> <span class="name">Leoni</span> (<span class="case">dat</span>) <a href="../cite/Leoni/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">605</span></a>;
+ <span class="date">1350</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1350/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">53</span></a>;
+ <span class="date">1375</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1375/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 31</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1365</span> <span class="name">Lew</span> (<span class="case">nom</span>) <a href="../cite/Lew/1365/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">58</span></a>;
+ <span class="date">1373</span> <span class="name">Lew</span> (<span class="case">nom</span>) <a href="../cite/Lew/1373/Rössler1"><span class="bib_key">ibid.</span> <span class="bib_loc">102</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1279–80</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 30</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1476</span> <span class="name">Lionello</span> (<span class="case">abl</span>) <a href="../cite/Lionello/1476/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXVII</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1593</span> <span class="name">Leon</span> <a href="../cite/Leon/1593/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Busken</span></a>;
+ <span class="date">1594</span> <span class="name">Lion</span> <a href="../cite/Lion/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beusken</span></a>;
+ <span class="date">1596</span> <span class="name">Leon</span> <a href="../cite/Leon/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Busken</span></a>;
+ <span class="date">1599</span> <span class="name">Lion</span> <a href="../cite/Lion/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Busken</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1592</span> <span class="name">Lyon</span> <a href="../cite/Lyon/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 25</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1526</span> <span class="name">lionell</span> <a href="../cite/lionell/1526/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXVII</span></a>;
+ <span class="date">1540</span> <span class="name">Lyonell</span> <a href="../cite/Lyonell/1540/WillsInv"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXVI</span></a>;
+ <span class="date">1560</span> <span class="name">Lyonell</span> <a href="../cite/Lyonell/1560/RegIng"><span class="bib_key">RegIng</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1592</span> <span class="name">Lionell</span> <a href="../cite/Lionell/1592/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1595</span> <span class="name">Lyonell</span> <a href="../cite/Lyonell/1595/Bar-in-El"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1049</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1049/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1160</span> <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/1160/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXIV</span></a>;
+ <span class="date">1378</span> <span class="name">Leoni</span> (<span class="case">dat</span>) <a href="../cite/Leoni/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1180</span></a>,
+ <span class="name">Leonii</span> (<span class="case">gen</span>) <a href="../cite/Leonii/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2489</span></a>,
+ <span class="name">Leonio</span> (<span class="case">dat</span>) <a href="../cite/Leonio/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">521</span></a>,
+ <span class="name">Leonius</span> (<span class="case">nom</span>) <a href="../cite/Leonius/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">2489</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Lion</span> <a href="../cite/Lion/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 51</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1354</span> <span class="name">Lion</span> <a href="../cite/Lion/1354/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DLX</span></a>;
+ <span class="date">1571</span> <span class="name">Léon</span> <a href="../cite/Léon/1571/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 621</span></a>;
+ <span class="date">1587</span> <span class="name">Leon</span> <a href="../cite/Leon/1587/RTFProvins"><span class="bib_key">RTFProvins</span> <span class="bib_loc">6</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">795x800</span> <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/795x800/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">846</span> <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/846/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XI</span></a>;
+ <span class="date">849</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/849/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">864</span> <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/864/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">920</span> <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/920/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIX</span></a>;
+ <span class="date">937</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/937/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIII</span></a>;
+ <span class="date">1191</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1191/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">38</span></a>;
+ <span class="date">1216</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1216/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1280</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1280/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">268</span></a>;
+ <span class="date">1313</span> <span class="name">Leonem</span> (<span class="case">acc</span>) <a href="../cite/Leonem/1313/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">20</span></a>,
+ <span class="name">Leoni</span> (<span class="case">dat</span>) <a href="../cite/Leoni/1313/VFBStralsund"><span class="bib_key">ibid.</span> <span class="bib_loc">31</span></a>;
+ <span class="date">1322</span> <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/1322/VFBStralsund"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1401</span> <span class="name">leonio</span> (<span class="case">dat</span>) <a href="../cite/leonio/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 397</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">915</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/915/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">2</span></a>,
+ <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/915/RCI-Cam1"><span class="bib_key">ibid.</span> <span class="bib_loc">2</span></a>;
+ <span class="date">999</span> <span class="name">Leonem</span> (<span class="case">acc</span>) <a href="../cite/Leonem/999/HGSav-4.1"><span class="bib_key">HGSav-4.1</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Leoni</span> (<span class="case">dat</span>) <a href="../cite/Leoni/999/HGSav-4.1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/999/HGSav-4.1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1100</span> <span class="name">Leonem</span> (<span class="case">acc</span>) <a href="../cite/Leonem/1100/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">627</span></a>,
+ <span class="name">Leoni</span> (<span class="case">dat</span>) <a href="../cite/Leoni/1100/RCI-Cam1"><span class="bib_key">ibid.</span> <span class="bib_loc">628</span></a>;
+ <span class="date">1220</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1220/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">49</span></a>;
+ <span class="date">1224</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1224/UrkRott-1"><span class="bib_key">UrkRott-1</span> <span class="bib_loc">17</span></a>;
+ <span class="date">1236</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1236/TirNot1"><span class="bib_key">TirNot1</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">1625</span></a>;
+ <span class="date">1282</span> <span class="name">Lione</span> (<span class="case">nom</span>) <a href="../cite/Lione/1282/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVII</span></a>;
+ <span class="date">1300</span> <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/1300/ActDipVeneto-I-1"><span class="bib_key">ActDipVeneto-I-1</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1310</span> <span class="name">Leonus</span> (<span class="case">nom</span>) <a href="../cite/Leonus/1310/MonRav-2"><span class="bib_key">MonRav-2</span> <span class="bib_loc">CCCL</span></a>;
+ <span class="date">1376</span> <span class="name">Leo</span> (<span class="case">abl</span>) <a href="../cite/Leo/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 84</span></a>,
+ <span class="name">Leone</span> (<span class="case">abl</span>) <a href="../cite/Leone/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1449</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1449/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1513</span> <span class="name">Leo</span> (<span class="case">nom</span>) <a href="../cite/Leo/1513/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">286</span></a>;
+ <span class="date">1527</span> <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 87</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1376</span> <span class="name">Leonel</span> (<span class="case">abl</span>) <a href="../cite/Leonel/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Leonele</span> (<span class="case">abl</span>) <a href="../cite/Leonele/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1515</span> <span class="name">Leonis</span> (<span class="case">gen</span>) <a href="../cite/Leonis/1515/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">288</span></a>;
+ <span class="date">1519</span> <span class="name">Leone</span> (<span class="case">abl</span>) <a href="../cite/Leone/1519/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">292</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, S.L. Uckelman. "Leo". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Leo.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

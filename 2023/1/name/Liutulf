@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Liutulf</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Liutulf</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>liut</i> 'people' + <span class="lang">Old German</span> <i>wulf</i> 'wolf'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1212x1213</span> <span class="name">Lidolphus</span> (<span class="case">nom</span>) <a href="../cite/Lidolphus/1212x1213/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">2</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1361x1377</span> <span class="name">Ludolphus</span> (<span class="case">nom</span>) <a href="../cite/Ludolphus/1361x1377/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 9</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1222</span> <span class="name">Lidulfus</span> (<span class="case">nom</span>) <a href="../cite/Lidulfus/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 51</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1592</span> <span class="name">Ludolff</span> <a href="../cite/Ludolff/1592/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Cugelsteins</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">726</span> <span class="name">Luidolfi</span> (<span class="case">gen</span>) <a href="../cite/Luidolfi/726/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 7</span></a>;
+ <span class="date">822x875</span> <span class="name">Ludolf</span> (<span class="case">nom</span>) <a href="../cite/Ludolf/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§82</span></a>,
+ <span class="name">Ludolfo</span> (<span class="case">abl</span>) <a href="../cite/Ludolfo/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§89</span></a>,
+ <span class="name">Ludolfus</span> (<span class="case">nom</span>) <a href="../cite/Ludolfus/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§63</span></a>,
+ <span class="name">Luidolf</span> (<span class="case">nom</span>) <a href="../cite/Luidolf/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§82</span></a>,
+ <span class="name">Luidolfus</span> (<span class="case">nom</span>) <a href="../cite/Luidolfus/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§161</span></a>;
+ <span class="date">954</span> <span class="name">Liutulfus</span> (<span class="case">nom</span>) <a href="../cite/Liutulfus/954/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">23</span></a>;
+ <span class="date">961</span> <span class="name">Liutolfus</span> (<span class="case">nom</span>) <a href="../cite/Liutolfus/961/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>;
+ <span class="date">966</span> <span class="name">Luidolfus</span> (<span class="case">nom</span>) <a href="../cite/Luidolfus/966/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">13</span></a>,
+ <span class="name">Luitolfus</span> (<span class="case">nom</span>) <a href="../cite/Luitolfus/966/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1165</span> <span class="name">Ludolft</span> (<span class="case">nom</span>) <a href="../cite/Ludolft/1165/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a>;
+ <span class="date">1200</span> <span class="name">Ludolfus</span> (<span class="case">nom</span>) <a href="../cite/Ludolfus/1200/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">5</span></a>;
+ <span class="date">1218</span> <span class="name">Lutolfus</span> (<span class="case">nom</span>) <a href="../cite/Lutolfus/1218/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a>;
+ <span class="date">1225</span> <span class="name">Ludolfus</span> (<span class="case">nom</span>) <a href="../cite/Ludolfus/1225/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1238</span> <span class="name">Ludolfi</span> (<span class="case">gen</span>) <a href="../cite/Ludolfi/1238/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">XVII</span></a>,
+ <span class="name">Ludolfus</span> (<span class="case">nom</span>) <a href="../cite/Ludolfus/1238/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">1259</span> <span class="name">Ludolfus</span> (<span class="case">nom</span>) <a href="../cite/Ludolfus/1259/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1261</span> <span class="name">Ludolphus</span> (<span class="case">nom</span>) <a href="../cite/Ludolphus/1261/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. LIII</span></a>;
+ <span class="date">1289</span> <span class="name">Ludolfus</span> (<span class="case">nom</span>) <a href="../cite/Ludolfus/1289/UrkMeck1"><span class="bib_key">ibid.</span> <span class="bib_loc">no. LXXXVIII</span></a>;
+ <span class="date">1301</span> <span class="name">Ludolfus</span> (<span class="case">nom</span>) <a href="../cite/Ludolfus/1301/BremUrk2"><span class="bib_key">BremUrk2</span> <span class="bib_loc">no. 3</span></a>,
+ <span class="name">Ludolpho</span> (<span class="case">dat</span>) <a href="../cite/Ludolpho/1301/BremUrk2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 8</span></a>;
+ <span class="date">1332</span> <span class="name">Ludolphus</span> (<span class="case">nom</span>) <a href="../cite/Ludolphus/1332/UrkMeck-8"><span class="bib_key">UrkMeck-8</span> <span class="bib_loc">5370</span></a>;
+ <span class="date">1342</span> <span class="name">Ludolpho</span> (<span class="case">dat</span>) <a href="../cite/Ludolpho/1342/UrkHan"><span class="bib_key">UrkHan</span> <span class="bib_loc">6</span></a>,
+ <span class="name">Ludolphus</span> (<span class="case">nom</span>) <a href="../cite/Ludolphus/1342/UrkHan"><span class="bib_key">ibid.</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1401</span> <span class="name">ludolpho</span> (<span class="case">dat</span>) <a href="../cite/ludolpho/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 46</span></a>;
+ <span class="date">1540</span> <span class="name">Ludolpho</span> (<span class="case">abl</span>) <a href="../cite/Ludolpho/1540/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">93</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1317</span> <span class="name">Ludekinum</span> (<span class="case">acc</span>) <a href="../cite/Ludekinum/1317/VFBStralsund"><span class="bib_key">VFBStralsund</span> <span class="bib_loc">54</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1092</span> <span class="name">Litolfi</span> (<span class="case">gen</span>) <a href="../cite/Litolfi/1092/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">566</span></a>;
+ <span class="date">1100</span> <span class="name">Litolfi</span> (<span class="case">gen</span>) <a href="../cite/Litolfi/1100/RCI-Cam1"><span class="bib_key">ibid.</span> <span class="bib_loc">627</span></a>;
+ <span class="date">1326</span> <span class="name">Litolfi</span> (<span class="case">gen</span>) <a href="../cite/Litolfi/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 430</span></a>,
+ <span class="name">Litolfus</span> (<span class="case">nom</span>) <a href="../cite/Litolfus/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 428</span></a>,
+ <span class="name">Litulfi</span> (<span class="case">gen</span>) <a href="../cite/Litulfi/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 428</span></a>,
+ <span class="name">Litulfus</span> (<span class="case">nom</span>) <a href="../cite/Litulfus/1326/Friuli-14thC"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 428</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1286</span> <span class="name">Ludolfi</span> (<span class="case">gen</span>) <a href="../cite/Ludolfi/1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">463</span></a>;
+ <span class="date">1287</span> <span class="name">Ludolfus</span> (<span class="case">nom</span>) <a href="../cite/Ludolfus/1287/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">1026</span></a>;
+ <span class="date">1288</span> <span class="name">Ludolphi</span> (<span class="case">gen</span>) <a href="../cite/Ludolphi/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">516</span></a>,
+ <span class="name">Ludolpho</span> (<span class="case">dat</span>) <a href="../cite/Ludolpho/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">519</span></a>;
+ <span class="date">1289</span> <span class="name">Ludolphus</span> (<span class="case">nom</span>) <a href="../cite/Ludolphus/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">1056</span></a>;
+ <span class="date">1290</span> <span class="name">Ludolpho</span> (<span class="case">dat</span>) <a href="../cite/Ludolpho/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">594</span></a>;
+ <span class="date">1291</span> <span class="name">Ludolpho</span> (<span class="case">dat</span>) <a href="../cite/Ludolpho/1291/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">649</span></a>;
+ <span class="date">1292</span> <span class="name">Ludolpho</span> (<span class="case">dat</span>) <a href="../cite/Ludolpho/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">699</span></a>;
+ <span class="date">1293</span> <span class="name">Ludolpho</span> (<span class="case">dat</span>) <a href="../cite/Ludolpho/1293/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">714</span></a>;
+ <span class="date">1294</span> <span class="name">Ludolpho</span> (<span class="case">dat</span>) <a href="../cite/Ludolpho/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">45</span></a>;
+ <span class="date">1296</span> <span class="name">Ludolfo</span> (<span class="case">dat</span>) <a href="../cite/Ludolfo/1296/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">777</span></a>;
+ <span class="date">1304</span> <span class="name">Ludolfo</span> (<span class="case">dat</span>) <a href="../cite/Ludolfo/1304/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">911</span></a>,
+ <span class="name">Ludolpho</span> (<span class="case">dat</span>) <a href="../cite/Ludolpho/1304/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">917</span></a>;
+ <span class="date">1314</span> <span class="name">Ludolfo</span> (<span class="case">dat</span>) <a href="../cite/Ludolfo/1314/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">1314</span></a>;
+ <span class="date">1336</span> <span class="name">Ludolfo</span> (<span class="case">dat</span>) <a href="../cite/Ludolfo/1336/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">993</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1286</span> <span class="name">Ludekino</span> (<span class="case">dat</span>) <a href="../cite/Ludekino/1286/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">472</span></a>,
+ <span class="name">Ludekinus</span> (<span class="case">nom</span>) <a href="../cite/Ludekinus/1286/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">1020</span></a>;
+ <span class="date">1287</span> <span class="name">Ludekino</span> (<span class="case">dat</span>) <a href="../cite/Ludekino/1287/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">1027</span></a>,
+ <span class="name">Ludekinus</span> (<span class="case">nom</span>) <a href="../cite/Ludekinus/1287/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">464</span></a>;
+ <span class="date">1288</span> <span class="name">Ludeke</span> (<span class="case">nom</span>) <a href="../cite/Ludeke/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">1044</span></a>,
+ <span class="name">Ludekinus</span> (<span class="case">nom</span>) <a href="../cite/Ludekinus/1288/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">1038</span></a>;
+ <span class="date">1289</span> <span class="name">Ludeke</span> (<span class="case">nom</span>) <a href="../cite/Ludeke/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">1048</span></a>,
+ <span class="name">Ludekinus</span> (<span class="case">nom</span>) <a href="../cite/Ludekinus/1289/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">1052</span></a>;
+ <span class="date">1290</span> <span class="name">Ludekinus</span> (<span class="case">nom</span>) <a href="../cite/Ludekinus/1290/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">1058</span></a>;
+ <span class="date">1291</span> <span class="name">Ludeke</span> (<span class="case">nom</span>) <a href="../cite/Ludeke/1291/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">1072</span></a>;
+ <span class="date">1292</span> <span class="name">Ludekino</span> (<span class="case">dat</span>) <a href="../cite/Ludekino/1292/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">694</span></a>;
+ <span class="date">1294</span> <span class="name">Ludekino</span> (<span class="case">dat</span>) <a href="../cite/Ludekino/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">745</span></a>;
+ <span class="date">1295</span> <span class="name">Ludekino</span> (<span class="case">dat</span>) <a href="../cite/Ludekino/1295/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">746</span></a>;
+ <span class="date">1302</span> <span class="name">Luden</span> (<span class="case">dat</span>) <a href="../cite/Luden/1302/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">875</span></a>;
+ <span class="date">1303</span> <span class="name">Luden</span> (<span class="case">dat</span>) <a href="../cite/Luden/1303/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">885</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1254</span> <span class="name">Ludolfus</span> (<span class="case">nom</span>) <a href="../cite/Ludolfus/1254/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 294</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1334</span> <span class="name">ludekinus</span> (<span class="case">nom</span>) <a href="../cite/ludekinus/1334/GesOIJ-1"><span class="bib_key">GesOIJ-1</span> <span class="bib_loc">p. 300</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Ludholfi</span> (<span class="case">gen</span>) <a href="../cite/Ludholfi/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6057</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Liutulf". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Liutulf.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

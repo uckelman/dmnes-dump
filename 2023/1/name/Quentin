@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Quentin</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Quentin</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Quintinus</i>, a diminutive of <span class="lang">Latin</span> <i>quintus</i> 'fifth'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 3rd C saint.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1562</span> <span class="name">Quinten</span> <a href="../cite/Quinten/1562/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1597x1598</span> <span class="name">Quinten</span> <a href="../cite/Quinten/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 322</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581/2</span> <span class="name">Quintin</span> <a href="../cite/Quintin/1581s2/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1583</span> <span class="name">Quintin</span> <a href="../cite/Quintin/1583/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1590/1</span> <span class="name">Quentin</span> <a href="../cite/Quentin/1590s1/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1590</span> <span class="name">Quintin</span> <a href="../cite/Quintin/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1591</span> <span class="name">Quentin</span> <a href="../cite/Quentin/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Quintin</span> <a href="../cite/Quintin/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1592</span> <span class="name">Quentin</span> <a href="../cite/Quentin/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1594</span> <span class="name">Quintin</span> <a href="../cite/Quintin/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 565</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">11thC</span> <span class="name">Quintinus</span> (<span class="case">nom</span>) <a href="../cite/Quintinus/11thC/CartSPL1"><span class="bib_key">CartSPL1</span> <span class="bib_loc">I</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Quentin</span> <a href="../cite/Quentin/1292/1292paris"><span class="bib_key">1292paris</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1299</span> <span class="name">Quentin</span> (<span class="case">obl</span>) <a href="../cite/Quentin/1299/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 146</span></a>;
+ <span class="date">1313</span> <span class="name">Quentin</span> <a href="../cite/Quentin/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 46</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Quentin</span> <a href="../cite/Quentin/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 601</span></a>;
+ <span class="date">1421</span> <span class="name">Quentin</span> <a href="../cite/Quentin/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">991</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Quentin". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Quentin.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

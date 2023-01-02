@@ -1,0 +1,589 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Charles</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Charles</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>karl</i> 'man', <span class="lang">Old English</span> <i>c(e)arl, ceorl</i> 'freeman'.
+   </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of numerous kings and emperors in France, Germany, Hungary, Sweden, England, Portugal, Norway, Bohemia, Spain, and Italy, a 12th C Flemish saint, a 14th C Breton saint, and a 16th C Italian saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The prominence of Charles the Great (Charlemagne) helped contribute to the name's enduring popularity.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">798</span> <span class="name">Carolo</span> (<span class="case">abl</span>) <a href="../cite/Carolo/798/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">2</span></a>,
+ <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/798/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">1</span></a>,
+ <span class="name">Karolo</span> (<span class="case">dat</span>) <a href="../cite/Karolo/798/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">813</span> <span class="name">caroli</span> (<span class="case">gen</span>) <a href="../cite/caroli/813/UBEnns-1"><span class="bib_key">UBEnns-1</span> <span class="bib_loc">II</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">779</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/779/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 12</span></a>,
+ <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/779/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 12</span></a>;
+ <span class="date">1238</span> <span class="name">Karolum</span> (<span class="case">acc</span>) <a href="../cite/Karolum/1238/OvdFB"><span class="bib_key">OvdFB</span> <span class="bib_loc">3</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1503</span> <span class="name">Karel</span> <a href="../cite/Karel/1503/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1504</span> <span class="name">Charles</span> <a href="../cite/Charles/1504/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1505</span> <span class="name">Charles</span> <a href="../cite/Charles/1505/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1506</span> <span class="name">Charles</span> <a href="../cite/Charles/1506/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1507</span> <span class="name">Charles</span> <a href="../cite/Charles/1507/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51 [sic]</span></a>;
+ <span class="date">1509</span> <span class="name">Charles</span> <a href="../cite/Charles/1509/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51 [sic]</span></a>;
+ <span class="date">1516</span> <span class="name">Charles</span> <a href="../cite/Charles/1516/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 55 [sic]</span></a>;
+ <span class="date">1518</span> <span class="name">Charles</span> <a href="../cite/Charles/1518/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56 [sic]</span></a>;
+ <span class="date">1519</span> <span class="name">Charles</span> <a href="../cite/Charles/1519/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56 [sic]</span></a>;
+ <span class="date">1526</span> <span class="name">Charles</span> <a href="../cite/Charles/1526/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59 [sic]</span></a>;
+ <span class="date">1528</span> <span class="name">Charles</span> <a href="../cite/Charles/1528/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 59 [sic]</span></a>;
+ <span class="date">1529</span> <span class="name">Charles</span> <a href="../cite/Charles/1529/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60 [sic]</span></a>;
+ <span class="date">1530</span> <span class="name">Charles</span> <a href="../cite/Charles/1530/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60 [sic]</span></a>;
+ <span class="date">1531</span> <span class="name">Charles</span> <a href="../cite/Charles/1531/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1532</span> <span class="name">Charles</span> <a href="../cite/Charles/1532/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1535</span> <span class="name">Charles</span> <a href="../cite/Charles/1535/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 62</span></a>;
+ <span class="date">1538</span> <span class="name">Charles</span> <a href="../cite/Charles/1538/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61 [sic]</span></a>;
+ <span class="date">1554</span> <span class="name">Charles</span> <a href="../cite/Charles/1554/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1557</span> <span class="name">Charles</span> <a href="../cite/Charles/1557/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1558</span> <span class="name">Charles</span> <a href="../cite/Charles/1558/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1560</span> <span class="name">Charles</span> <a href="../cite/Charles/1560/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1561</span> <span class="name">Charles</span> <a href="../cite/Charles/1561/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1562</span> <span class="name">Charles</span> <a href="../cite/Charles/1562/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1563</span> <span class="name">Charles</span> <a href="../cite/Charles/1563/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 74</span></a>;
+ <span class="date">1564</span> <span class="name">Charles</span> <a href="../cite/Charles/1564/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 74</span></a>;
+ <span class="date">1571</span> <span class="name">Charles</span> <a href="../cite/Charles/1571/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 78</span></a>;
+ <span class="date">1574</span> <span class="name">Charles</span> <a href="../cite/Charles/1574/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 79</span></a>;
+ <span class="date">1576</span> <span class="name">Charles</span> <a href="../cite/Charles/1576/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1580</span> <span class="name">Charles</span> <a href="../cite/Charles/1580/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 82</span></a>;
+ <span class="date">1592</span> <span class="name">Charles</span> <a href="../cite/Charles/1592/MPSA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 87</span></a>;
+ <span class="date">1597x1598</span> <span class="name">Caerel</span> <a href="../cite/Caerel/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 322</span></a>,
+ <span class="name">Carel</span> <a href="../cite/Carel/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 322</span></a>,
+ <span class="name">Charles</span> <a href="../cite/Charles/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 344</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1572</span> <span class="name">Carln</span> (<span class="case">dat</span>) <a href="../cite/Carln/1572/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">342</span></a>,
+ <span class="name">Karle</span> (<span class="case">nom</span>) <a href="../cite/Karle/1572/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">342</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1316</span> <span class="name">Karulo</span> (<span class="case">abl</span>) <a href="../cite/Karulo/1316/RTT-1.1"><span class="bib_key">RTT-1.1</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1345</span> <span class="name">Karolo</span> (<span class="case">abl</span>) <a href="../cite/Karolo/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">614</span></a>,
+ <span class="name">Karolum</span> (<span class="case">acc</span>) <a href="../cite/Karolum/1345/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">622</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/1345/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">607</span></a>,
+ <span class="name">Karolvm</span> (<span class="case">acc</span>) <a href="../cite/Karolvm/1345/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">614</span></a>;
+ <span class="date">1356</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/1356/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">128</span></a>;
+ <span class="date">1373</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1373/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1382</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1382/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1383</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1383/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1362</span> <span class="name">Karls</span> (<span class="case">gen</span>) <a href="../cite/Karls/1362/MIRGPCM4"><span class="bib_key">MIRGPCM4</span> <span class="bib_loc">XVI-V</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1348</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/1348/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 10</span></a>,
+ <span class="name">Carolum</span> (<span class="case">acc</span>) <a href="../cite/Carolum/1348/SocAntNor-3-3"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 9</span></a>;
+ <span class="date">1349</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/1349/SocAntNor-3-3"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11</span></a>,
+ <span class="name">Karolum</span> (<span class="case">acc</span>) <a href="../cite/Karolum/1349/SocAntNor-3-3"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11</span></a>;
+ <span class="date">1357</span> <span class="name">Karolo</span> (<span class="case">abl</span>) <a href="../cite/Karolo/1357/SocAntNor-3-3"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 23</span></a>;
+ <span class="date">1565</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1565/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1566/7</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1566s7/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1568</span> <span class="name">Charolus</span> (<span class="case">nom</span>) <a href="../cite/Charolus/1568/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1573</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1573/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1576</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/1576/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Drossaert</span></a>;
+ <span class="date">1588</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Peene</span></a>;
+ <span class="date">1593</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Simons</span></a>,
+ <span class="name">Charles</span> (<span class="case">nom</span>) <a href="../cite/Charles/1593/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 16</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1573</span> <span class="name">Carel</span> <a href="../cite/Carel/1573/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Ootgheer</span></a>;
+ <span class="date">1577</span> <span class="name">Kaerle</span> <a href="../cite/Kaerle/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Peene</span></a>;
+ <span class="date">1579</span> <span class="name">Karel</span> <a href="../cite/Karel/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Peene</span></a>;
+ <span class="date">1580</span> <span class="name">Carrel</span> <a href="../cite/Carrel/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Peene</span></a>;
+ <span class="date">1583</span> <span class="name">Karel</span> <a href="../cite/Karel/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Peene</span></a>;
+ <span class="date">1584</span> <span class="name">Chaerles</span> <a href="../cite/Chaerles/1584/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Basijn</span></a>;
+ <span class="date">1585</span> <span class="name">Karel</span> <a href="../cite/Karel/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Peene</span></a>;
+ <span class="date">1586</span> <span class="name">Karel</span> <a href="../cite/Karel/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Peene</span></a>;
+ <span class="date">1587</span> <span class="name">Carel</span> <a href="../cite/Carel/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Peene</span></a>,
+ <span class="name">Charle</span> <a href="../cite/Charle/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Burgrave</span></a>,
+ <span class="name">Charles</span> <a href="../cite/Charles/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Sorhier</span></a>;
+ <span class="date">1588</span> <span class="name">Carel</span> <a href="../cite/Carel/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Peene</span></a>,
+ <span class="name">Kaerle</span> <a href="../cite/Kaerle/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Wiest</span></a>;
+ <span class="date">1589</span> <span class="name">Carel</span> <a href="../cite/Carel/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Peene</span></a>,
+ <span class="name">Kaerel</span> <a href="../cite/Kaerel/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Waerde</span></a>,
+ <span class="name">Kaerle</span> <a href="../cite/Kaerle/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 83</span></a>;
+ <span class="date">1590</span> <span class="name">Carel</span> <a href="../cite/Carel/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Peene</span></a>;
+ <span class="date">1591</span> <span class="name">Carle</span> <a href="../cite/Carle/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91</span></a>;
+ <span class="date">1592</span> <span class="name">Carel</span> <a href="../cite/Carel/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Peene</span></a>,
+ <span class="name">Charles</span> <a href="../cite/Charles/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Costere</span></a>;
+ <span class="date">1593</span> <span class="name">Caerle</span> <a href="../cite/Caerle/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Man</span></a>,
+ <span class="name">Charles</span> <a href="../cite/Charles/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Coster</span></a>;
+ <span class="date">1594</span> <span class="name">Carel</span> <a href="../cite/Carel/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Man</span></a>,
+ <span class="name">Charles</span> <a href="../cite/Charles/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Quirijns</span></a>,
+ <span class="name">Kaerle</span> <a href="../cite/Kaerle/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Man</span></a>;
+ <span class="date">1595</span> <span class="name">Charles</span> <a href="../cite/Charles/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Coster</span></a>,
+ <span class="name">Kaerle</span> <a href="../cite/Kaerle/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Wiest</span></a>;
+ <span class="date">1596</span> <span class="name">Carel</span> <a href="../cite/Carel/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Man</span></a>;
+ <span class="date">1598</span> <span class="name">Carel</span> <a href="../cite/Carel/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Man</span></a>,
+ <span class="name">Charles</span> <a href="../cite/Charles/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Hugebout</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Charlys</span> <a href="../cite/Charlys/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1550</span> <span class="name">Charles</span> <a href="../cite/Charles/1550/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1555/6</span> <span class="name">Charles</span> <a href="../cite/Charles/1555s6/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1561</span> <span class="name">Charles</span> <a href="../cite/Charles/1561/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>,
+ <a href="../cite/Charles/1561/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1565</span> <span class="name">Charles</span> <a href="../cite/Charles/1565/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1569</span> <span class="name">Charles</span> <a href="../cite/Charles/1569/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1570</span> <span class="name">Charles</span> <a href="../cite/Charles/1570/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1571/2</span> <span class="name">Charles</span> <a href="../cite/Charles/1571s2/RegBisham"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1572/3</span> <span class="name">Charles</span> <a href="../cite/Charles/1572s3/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 172</span></a>;
+ <span class="date">1573/4</span> <span class="name">Charles</span> <a href="../cite/Charles/1573s4/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1574</span> <span class="name">Charles</span> <a href="../cite/Charles/1574/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 179</span></a>;
+ <span class="date">1575</span> <span class="name">Charles</span> <a href="../cite/Charles/1575/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1576</span> <span class="name">Charles</span> <a href="../cite/Charles/1576/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 3</span></a>,
+ <a href="../cite/Charles/1576/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1577</span> <span class="name">Charles</span> <a href="../cite/Charles/1577/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1578</span> <span class="name">Charles</span> <a href="../cite/Charles/1578/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1583</span> <span class="name">Charells</span> <a href="../cite/Charells/1583/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1583/4</span> <span class="name">Charles</span> <a href="../cite/Charles/1583s4/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1583</span> <span class="name">Charles</span> <a href="../cite/Charles/1583/RegBisham"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1583/4</span> <span class="name">Charles</span> <a href="../cite/Charles/1583s4/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1583</span> <span class="name">Charles</span> <a href="../cite/Charles/1583/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 180</span></a>;
+ <span class="date">1584</span> <span class="name">Charles</span> <a href="../cite/Charles/1584/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Charles/1584/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 189</span></a>;
+ <span class="date">1588</span> <span class="name">Charles</span> <a href="../cite/Charles/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1590</span> <span class="name">Charles</span> <a href="../cite/Charles/1590/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1591</span> <span class="name">Charles</span> <a href="../cite/Charles/1591/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1593</span> <span class="name">Charles</span> <a href="../cite/Charles/1593/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1597</span> <span class="name">Charles</span> <a href="../cite/Charles/1597/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 87</span></a>,
+ <a href="../cite/Charles/1597/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 124</span></a>;
+ <span class="date">1598</span> <span class="name">Charles</span> <a href="../cite/Charles/1598/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1599</span> <span class="name">Charles</span> <a href="../cite/Charles/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 41</span></a>,
+ <a href="../cite/Charles/1599/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 5</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1567</span> <span class="name">Charles</span> <a href="../cite/Charles/1567/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1569/70</span> <span class="name">Charles</span> <a href="../cite/Charles/1569s70/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1570</span> <span class="name">Charles</span> <a href="../cite/Charles/1570/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1572</span> <span class="name">Charles</span> <a href="../cite/Charles/1572/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1572/3</span> <span class="name">Charles</span> <a href="../cite/Charles/1572s3/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1575</span> <span class="name">Charles</span> <a href="../cite/Charles/1575/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1576</span> <span class="name">Charles</span> <a href="../cite/Charles/1576/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1577</span> <span class="name">Charles</span> <a href="../cite/Charles/1577/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1578</span> <span class="name">Charles</span> <a href="../cite/Charles/1578/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1579</span> <span class="name">Charles</span> <a href="../cite/Charles/1579/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1583</span> <span class="name">charles</span> <a href="../cite/charles/1583/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1584</span> <span class="name">Charles</span> <a href="../cite/Charles/1584/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1586</span> <span class="name">Charles</span> <a href="../cite/Charles/1586/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1588</span> <span class="name">Charles</span> <a href="../cite/Charles/1588/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1590</span> <span class="name">Charles</span> <a href="../cite/Charles/1590/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1594</span> <span class="name">Charles</span> <a href="../cite/Charles/1594/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Charles</span> <a href="../cite/Charles/1581/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1581/2</span> <span class="name">Charles</span> <a href="../cite/Charles/1581s2/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1582</span> <span class="name">Charles</span> <a href="../cite/Charles/1582/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1582/3</span> <span class="name">Charles</span> <a href="../cite/Charles/1582s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1583/4</span> <span class="name">Charles</span> <a href="../cite/Charles/1583s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 437</span></a>;
+ <span class="date">1583</span> <span class="name">Charles</span> <a href="../cite/Charles/1583/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1584</span> <span class="name">Charles</span> <a href="../cite/Charles/1584/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1590</span> <span class="name">Charles</span> <a href="../cite/Charles/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1590/1</span> <span class="name">Charles</span> <a href="../cite/Charles/1590s1/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1591</span> <span class="name">Charles</span> <a href="../cite/Charles/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1592</span> <span class="name">Carle</span> <a href="../cite/Carle/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>,
+ <span class="name">Charles</span> <a href="../cite/Charles/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1592/3</span> <span class="name">Charles</span> <a href="../cite/Charles/1592s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593/4</span> <span class="name">Charle</span> <a href="../cite/Charle/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>,
+ <span class="name">Charles</span> <a href="../cite/Charles/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1593</span> <span class="name">Charles</span> <a href="../cite/Charles/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 564</span></a>;
+ <span class="date">1594/5</span> <span class="name">Charles</span> <a href="../cite/Charles/1594s5/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1594</span> <span class="name">Charles</span> <a href="../cite/Charles/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 564</span></a>;
+ <span class="date">1595</span> <span class="name">Charle</span> <a href="../cite/Charle/1595/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Charles</span> <a href="../cite/Charles/1595/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1596</span> <span class="name">Charles</span> <a href="../cite/Charles/1596/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1597</span> <span class="name">Charle</span> <a href="../cite/Charle/1597/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">Charles</span> <a href="../cite/Charles/1597/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1598</span> <span class="name">Charles</span> <a href="../cite/Charles/1598/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1598/9</span> <span class="name">Charles</span> <a href="../cite/Charles/1598s9/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1599</span> <span class="name">Charles</span> <a href="../cite/Charles/1599/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1405</span> <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1405/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 16441</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Kariill</span> (<span class="case">nom</span>) <a href="../cite/Kariill/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 169</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">780</span> <span class="name">Carolo</span> (<span class="case">abl</span>) <a href="../cite/Carolo/780/CartNoaille"><span class="bib_key">CartNoaille</span> <span class="bib_loc">I</span></a>;
+ <span class="date">p800</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/p800/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/p800/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>;
+ <span class="date">854</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/854/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">VII</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/854/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">862</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/862/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>,
+ <span class="name">Karolo</span> (<span class="case">abl</span>) <a href="../cite/Karolo/862/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/862/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">c862</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/c862/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">862x876</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/862x876/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">876</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/876/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">XI</span></a>;
+ <span class="date">1268</span> <span class="name">Karolo</span> (<span class="case">abl</span>) <a href="../cite/Karolo/1268/ChartBB"><span class="bib_key">ChartBB</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1364</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/1364/ActsCharlesV"><span class="bib_key">ActsCharlesV</span> <span class="bib_loc">no. 10</span></a>;
+ <span class="date">1365</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/1365/ActsCharlesV"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 275</span></a>;
+ <span class="date">1367</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/1367/ActsCharlesV"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 415</span></a>;
+ <span class="date">1378</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">493</span></a>,
+ <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">30</span></a>,
+ <span class="name">Karolo</span> (<span class="case">dat</span>) <a href="../cite/Karolo/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">30</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">351</span></a>;
+ <span class="date">1444/5</span> <span class="name">Karolo</span> (<span class="case">abl</span>) <a href="../cite/Karolo/1444s5/ArcGir17"><span class="bib_key">ArcGir17</span> <span class="bib_loc">no. XXIX</span></a>;
+ <span class="date">1450</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/1450/ChronMaillezais"><span class="bib_key">ChronMaillezais</span> <span class="bib_loc">p. 167</span></a>;
+ <span class="date">1503</span> <span class="name">Karolo</span> (<span class="case">abl</span>) <a href="../cite/Karolo/1503/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">278</span></a>;
+ <span class="date">1534</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1534/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">305</span></a>;
+ <span class="date">1564</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1564/FlorLyon"><span class="bib_key">FlorLyon</span> <span class="bib_loc">p. 172</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1356</span> <span class="name">Charles</span> <a href="../cite/Charles/1356/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 3</span></a>;
+ <span class="date">1358</span> <span class="name">Charle</span> <a href="../cite/Charle/1358/LeCoq"><span class="bib_key">LeCoq</span> <span class="bib_loc">p. 366</span></a>,
+ <span class="name">Charles</span> <a href="../cite/Charles/1358/LeCoq"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 383</span></a>;
+ <span class="date">1364/5</span> <span class="name">Charles</span> <a href="../cite/Charles/1364s5/ActsCharlesV"><span class="bib_key">ActsCharlesV</span> <span class="bib_loc">no. 160</span></a>;
+ <span class="date">1364</span> <span class="name">Charles</span> <a href="../cite/Charles/1364/ActsCharlesV"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 3</span></a>;
+ <span class="date">1365</span> <span class="name">Charles</span> <a href="../cite/Charles/1365/ActsCharlesV"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 212</span></a>;
+ <span class="date">1366</span> <span class="name">Charles</span> <a href="../cite/Charles/1366/ActsCharlesV"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 299</span></a>;
+ <span class="date">1366/7</span> <span class="name">Charles</span> <a href="../cite/Charles/1366s7/ActsCharlesV"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 368</span></a>;
+ <span class="date">1367</span> <span class="name">Charles</span> <a href="../cite/Charles/1367/ActsCharlesV"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 393</span></a>;
+ <span class="date">1367/8</span> <span class="name">Charles</span> <a href="../cite/Charles/1367s8/ActsCharlesV"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 426</span></a>;
+ <span class="date">1392</span> <span class="name">Charles</span> <a href="../cite/Charles/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 608</span></a>;
+ <span class="date">1393</span> <span class="name">Charles</span> <a href="../cite/Charles/1393/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 620</span></a>;
+ <span class="date">1404</span> <span class="name">Charles</span> <a href="../cite/Charles/1404/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 4</span></a>;
+ <span class="date">1415[1469x1471]</span> <span class="name">Carles</span> <a href="../cite/Carles/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 228</span></a>,
+ <span class="name">Charles</span> <a href="../cite/Charles/1415[1469x1471]/Waurin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 224</span></a>;
+ <span class="date">1418</span> <span class="name">Charles</span> <a href="../cite/Charles/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 208</span></a>;
+ <span class="date">1421</span> <span class="name">Charles</span> <a href="../cite/Charles/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">322</span></a>;
+ <span class="date">1438</span> <span class="name">Charles</span> <a href="../cite/Charles/1438/NotSLdN"><span class="bib_key">NotSLdN</span> <span class="bib_loc">VI</span></a>,
+ <a href="../cite/Charles/1438/favier"><span class="bib_key">favier</span> <span class="bib_loc">p. 267</span></a>;
+ <span class="date">1504</span> <span class="name">Charles</span> <a href="../cite/Charles/1504/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 6</span></a>;
+ <span class="date">1534</span> <span class="name">Charles</span> <a href="../cite/Charles/1534/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">304</span></a>;
+ <span class="date">1551</span> <span class="name">Charles</span> <a href="../cite/Charles/1551/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 21b</span></a>;
+ <span class="date">1562</span> <span class="name">Charles</span> <a href="../cite/Charles/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1563</span> <span class="name">Charles</span> <a href="../cite/Charles/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1564</span> <span class="name">Charles</span> <a href="../cite/Charles/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93</span></a>;
+ <span class="date">1565</span> <span class="name">Charles</span> <a href="../cite/Charles/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 178</span></a>;
+ <span class="date">1566</span> <span class="name">Charles</span> <a href="../cite/Charles/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 204</span></a>;
+ <span class="date">1567</span> <span class="name">Charles</span> <a href="../cite/Charles/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 299</span></a>;
+ <span class="date">1568</span> <span class="name">Charles</span> <a href="../cite/Charles/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 401</span></a>;
+ <span class="date">1570</span> <span class="name">Charles</span> <a href="../cite/Charles/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 424</span></a>;
+ <span class="date">1571</span> <span class="name">Charles</span> <a href="../cite/Charles/1571/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">nos. 26, 27</span></a>,
+ <a href="../cite/Charles/1571/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 441</span></a>;
+ <span class="date">1587</span> <span class="name">Charles</span> <a href="../cite/Charles/1587/RTFProvins"><span class="bib_key">RTFProvins</span> <span class="bib_loc">29</span></a>;
+ <span class="date">1588</span> <span class="name">Charles</span> <a href="../cite/Charles/1588/raymond1588"><span class="bib_key">raymond1588</span> <span class="bib_loc">p. 565</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Charlot</span> <a href="../cite/Charlot/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 602</span></a>;
+ <span class="date">1418</span> <span class="name">Charlot</span> <a href="../cite/Charlot/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 204</span></a>,
+ <a href="../cite/Charlot/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 380</span></a>;
+ <span class="date">1421</span> <span class="name">Charlot</span> <a href="../cite/Charlot/1421/Laroche"><span class="bib_key">Laroche</span> <span class="bib_loc">no. 6</span></a>,
+ <a href="../cite/Charlot/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1226</span></a>;
+ <span class="date">1423</span> <span class="name">Charlot</span> <a href="../cite/Charlot/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">343</span></a>;
+ <span class="date">1438</span> <span class="name">Charlot</span> <a href="../cite/Charlot/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">250</span></a>;
+ <span class="date">1493</span> <span class="name">Charlot</span> <a href="../cite/Charlot/1493/MSR1838"><span class="bib_key">MSR1838</span> <span class="bib_loc">p. 376</span></a>;
+ <span class="date">1565</span> <span class="name">Charlot</span> <a href="../cite/Charlot/1565/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1567</span> <span class="name">Charlot</span> <a href="../cite/Charlot/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 309</span></a>;
+ <span class="date">1571</span> <span class="name">Charlot</span> <a href="../cite/Charlot/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 589</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">726</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/726/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 7</span></a>,
+ <span class="name">Karolo</span> (<span class="case">abl</span>) <a href="../cite/Karolo/726/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 7</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/726/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 7</span></a>;
+ <span class="date">772</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/772/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 9</span></a>;
+ <span class="date">776x798</span> <span class="name">Karolo</span> (<span class="case">abl</span>) <a href="../cite/Karolo/776x798/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 10</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/776x798/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 10</span></a>;
+ <span class="date">779</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/779/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">1</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/779/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1</span></a>;
+ <span class="date">786</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/786/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/786/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">788</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/788/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/788/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">II</span></a>;
+ <span class="date">790x814</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/790x814/HambUrk-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>;
+ <span class="date">793x794</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/793x794/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 13</span></a>;
+ <span class="date">795x800</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/795x800/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">802</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/802/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Carolo</span> (<span class="case">abl</span>) <a href="../cite/Carolo/802/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/802/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">8</span></a>;
+ <span class="date">811</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/811/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">4</span></a>;
+ <span class="date">819</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/819/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">844</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/844/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">2</span></a>;
+ <span class="date">855</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/855/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/855/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">882</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/882/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">96</span></a>,
+ <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/882/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">96</span></a>;
+ <span class="date">887</span> <span class="name">Karoli</span> (<span class="case">nom</span>) <a href="../cite/Karoli/887/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/887/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">888</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/888/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">5</span></a>;
+ <span class="date">930</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/930/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/930/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>;
+ <span class="date">966</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/966/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/966/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">972</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/972/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">997</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/997/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>;
+ <span class="date">998</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/998/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1000</span> <span class="name">Karolo</span> (<span class="case">abl</span>) <a href="../cite/Karolo/1000/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1165</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/1165/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Karel</span> <a href="../cite/Karel/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">2653</span></a>,
+ <span class="name">Karll</span> <a href="../cite/Karll/1497/Nurn1497"><span class="bib_key">ibid.</span> <span class="bib_loc">1722</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1317</span> <span class="name">Carolum</span> (<span class="case">acc</span>) <a href="../cite/Carolum/1317/CDH-VIII-II"><span class="bib_key">CDH-VIII-II</span> <span class="bib_loc">VII</span></a>,
+ <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1317/CDH-VIII-II"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Karulus</span> (<span class="case">nom</span>) <a href="../cite/Karulus/1317/CDH-VIII-II"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1433</span> <span class="name">Carolo</span> (<span class="case">dat</span>) <a href="../cite/Carolo/1433/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">116</span></a>;
+ <span class="date">1434</span> <span class="name">Carolo</span> (<span class="case">dat</span>) <a href="../cite/Carolo/1434/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1526</span> <span class="name">Charles</span> <a href="../cite/Charles/1526/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">12</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">780</span> <span class="name">Karolo</span> (<span class="case">abl</span>) <a href="../cite/Karolo/780/RCI-Cam1"><span class="bib_key">RCI-Cam1</span> <span class="bib_loc">1</span></a>;
+ <span class="date">855</span> <span class="name">Karolo</span> (<span class="case">dat</span>) <a href="../cite/Karolo/855/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 44</span></a>;
+ <span class="date">1282</span> <span class="name">Carolo</span> (<span class="case">abl</span>) <a href="../cite/Carolo/1282/DSS5-1-4"><span class="bib_key">DSS5-1-4</span> <span class="bib_loc">X</span></a>,
+ <span class="name">Carolum</span> (<span class="case">acc</span>) <a href="../cite/Carolum/1282/DSS5-1-4"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Carulum</span> (<span class="case">acc</span>) <a href="../cite/Carulum/1282/DSS5-1-4"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1302</span> <span class="name">Karuli</span> (<span class="case">gen</span>) <a href="../cite/Karuli/1302/ActDipVeneto-I-1"><span class="bib_key">ActDipVeneto-I-1</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1304</span> <span class="name">Karolum</span> (<span class="case">acc</span>) <a href="../cite/Karolum/1304/ActDipVeneto-I-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56</span></a>;
+ <span class="date">1376</span> <span class="name">Carlo</span> (<span class="case">abl</span>) <a href="../cite/Carlo/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1391</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/1391/Venditti"><span class="bib_key">Venditti</span> <span class="bib_loc">I-1</span></a>;
+ <span class="date">1393</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1393/sajanello-2"><span class="bib_key">sajanello-2</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1464</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1488</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1488/CID-3"><span class="bib_key">CID-3</span> <span class="bib_loc">XCIII</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/1488/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">248</span></a>;
+ <span class="date">1491</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/1491/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">250</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 51, 21</span></a>;
+ <span class="date">1527</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 87</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1267</span> <span class="name">Carlinus</span> (<span class="case">nom</span>) <a href="../cite/Carlinus/1267/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">p. XLI</span></a>;
+ <span class="date">1271</span> <span class="name">Carlini</span> (<span class="case">gen</span>) <a href="../cite/Carlini/1271/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLII</span></a>;
+ <span class="date">1282</span> <span class="name">Carlini</span> (<span class="case">gen</span>) <a href="../cite/Carlini/1282/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLVII</span></a>;
+ <span class="date">1285</span> <span class="name">Carlecti</span> (<span class="case">gen</span>) <a href="../cite/Carlecti/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 156</span></a>;
+ <span class="date">1376</span> <span class="name">Carloto</span> (<span class="case">abl</span>) <a href="../cite/Carloto/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1464</span> <span class="name">Carlinus</span> (<span class="case">nom</span>) <a href="../cite/Carlinus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1429–1430</span> <span class="name">Carlo</span> <a href="../cite/Carlo/1429–1430/DiaryLMA"><span class="bib_key">DiaryLMA</span> <span class="bib_loc">p. 207</span></a>,
+ <span class="name">Karlo</span> <a href="../cite/Karlo/1429–1430/DiaryLMA"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 207</span></a>;
+ <span class="date">1513x1521</span> <span class="name">Carlo</span> <a href="../cite/Carlo/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 27</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">777</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/777/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 11</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/777/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11</span></a>;
+ <span class="date">794</span> <span class="name">Carli</span> (<span class="case">gen</span>) <a href="../cite/Carli/794/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 15</span></a>;
+ <span class="date">796</span> <span class="name">Carli</span> (<span class="case">gen</span>) <a href="../cite/Carli/796/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16</span></a>;
+ <span class="date">797</span> <span class="name">Carli</span> (<span class="case">gen</span>) <a href="../cite/Carli/797/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17</span></a>;
+ <span class="date">799</span> <span class="name">Carli</span> (<span class="case">gen</span>) <a href="../cite/Carli/799/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18</span></a>;
+ <span class="date">800</span> <span class="name">Carli</span> (<span class="case">gen</span>) <a href="../cite/Carli/800/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19</span></a>;
+ <span class="date">805</span> <span class="name">Carli</span> (<span class="case">gen</span>) <a href="../cite/Carli/805/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 24</span></a>;
+ <span class="date">806</span> <span class="name">Carli</span> (<span class="case">gen</span>) <a href="../cite/Carli/806/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 25</span></a>;
+ <span class="date">870</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/870/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 54</span></a>,
+ <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/870/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 54</span></a>,
+ <span class="name">Karolum</span> (<span class="case">acc</span>) <a href="../cite/Karolum/870/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 54</span></a>;
+ <span class="date">875</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/875/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 55</span></a>,
+ <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/875/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 55</span></a>;
+ <span class="date">876</span> <span class="name">Carolo</span> (<span class="case">abl</span>) <a href="../cite/Carolo/876/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 56</span></a>;
+ <span class="date">882</span> <span class="name">Carolus</span> (<span class="case">nom</span>) <a href="../cite/Carolus/882/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 59</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/882/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 59</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1345</span> <span class="name">Carolo</span> (<span class="case">abl</span>) <a href="../cite/Carolo/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">628</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Romania</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1317</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/1317/CDH-VIII-II"><span class="bib_key">CDH-VIII-II</span> <span class="bib_loc">II</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1100</span> <span class="name">Carl</span> (<span class="case">gen</span>) <a href="../cite/Carl/c1100/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XX</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">875</span> <span class="name">Caroli</span> (<span class="case">gen</span>) <a href="../cite/Caroli/875/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMXVI</span></a>;
+ <span class="date">896</span> <span class="name">Karulo</span> (<span class="case">abl</span>) <a href="../cite/Karulo/896/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMXIX</span></a>;
+ <span class="date">898</span> <span class="name">Karulo</span> (<span class="case">abl</span>) <a href="../cite/Karulo/898/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMXXI</span></a>;
+ <span class="date">899</span> <span class="name">Karulo</span> (<span class="case">abl</span>) <a href="../cite/Karulo/899/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMXXII</span></a>;
+ <span class="date">1491</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/1491/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 52</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Carles</span> <a href="../cite/Carles/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">475</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1524</span> <span class="name">Carlos</span> <a href="../cite/Carlos/1524/PHGCRP-III"><span class="bib_key">PHGCRP-III</span> <span class="bib_loc">no. 134</span></a>;
+ <span class="date">1575</span> <span class="name">Carlos</span> <a href="../cite/Carlos/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3846</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1310</span> <span class="name">karolus</span> (<span class="case">nom</span>) <a href="../cite/karolus/1310/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">2384</span></a>;
+ <span class="date">1350</span> <span class="name">Karls</span> (<span class="case">gen</span>) <a href="../cite/Karls/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6000</span></a>,
+ <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6015</span></a>,
+ <span class="name">Karolo</span> (<span class="case">dat</span>) <a href="../cite/Karolo/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6023</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6002</span></a>;
+ <span class="date">1352</span> <span class="name">Karoli</span> (<span class="case">gen</span>) <a href="../cite/Karoli/1352/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6486</span></a>;
+ <span class="date">1356</span> <span class="name">Karolo</span> (<span class="case">abl</span>) <a href="../cite/Karolo/1356/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 7002</span></a>,
+ <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/1356/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 7001</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1377</span> <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1377/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 11085</span></a>,
+ <span class="name">Karls</span> (<span class="case">gen</span>) <a href="../cite/Karls/1377/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11085</span></a>;
+ <span class="date">1379</span> <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1379/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11470</span></a>;
+ <span class="date">1383</span> <span class="name">Kaarls</span> (<span class="case">gen</span>) <a href="../cite/Kaarls/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1933</span></a>,
+ <span class="name">Karl</span> <a href="../cite/Karl/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1905</span></a>,
+ <span class="name">Karls</span> (<span class="case">gen</span>) <a href="../cite/Karls/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1898</span></a>;
+ <span class="date">1401</span> <span class="name">Karls</span> (<span class="case">gen</span>) <a href="../cite/Karls/1401/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 15698</span></a>;
+ <span class="date">1409</span> <span class="name">Carl</span> (<span class="case">nom</span>) <a href="../cite/Carl/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17269</span></a>,
+ <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17265</span></a>,
+ <span class="name">Karle</span> (<span class="case">dat</span>) <a href="../cite/Karle/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17271</span></a>,
+ <span class="name">Karls</span> (<span class="case">gen</span>) <a href="../cite/Karls/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17369</span></a>;
+ <span class="date">1410</span> <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1410/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17505</span></a>;
+ <span class="date">1411</span> <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1411/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17627</span></a>;
+ <span class="date">1412</span> <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1412/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17900</span></a>;
+ <span class="date">1414</span> <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1414/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18236</span></a>;
+ <span class="date">1415</span> <span class="name">Karll</span> (<span class="case">nom</span>) <a href="../cite/Karll/1415/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18466</span></a>;
+ <span class="date">1416</span> <span class="name">Carl</span> (<span class="case">nom</span>) <a href="../cite/Carl/1416/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18817</span></a>;
+ <span class="date">1419</span> <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1419/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19273</span></a>;
+ <span class="date">1420</span> <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1420/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19436</span></a>,
+ <span class="name">Karls</span> (<span class="case">gen</span>) <a href="../cite/Karls/1420/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19553</span></a>;
+ <span class="date">1519</span> <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1519/HGS"><span class="bib_key">HGS</span> <span class="bib_loc">p. 154</span></a>;
+ <span class="date">1520</span> <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1520/HGS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 154</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1542</span> <span class="name">Karl</span> (<span class="case">nom</span>) <a href="../cite/Karl/1542/HGS"><span class="bib_key">HGS</span> <span class="bib_loc">p. 158</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1518</span> <span class="name">Karolus</span> (<span class="case">nom</span>) <a href="../cite/Karolus/1518/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">291</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1431</span> <span class="name">Charles</span> <a href="../cite/Charles/1431/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">476</span></a>;
+ <span class="date">1495</span> <span class="name">Charle</span> <a href="../cite/Charle/1495/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">260</span></a>;
+ <span class="date">1545</span> <span class="name">Charle</span> <a href="../cite/Charle/1545/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">313</span></a>;
+ <span class="date">1550</span> <span class="name">Charles</span> <a href="../cite/Charles/1550/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">321</span></a>;
+ <span class="date">1552</span> <span class="name">Charle</span> <a href="../cite/Charle/1552/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">323</span></a>;
+ <span class="date">1553</span> <span class="name">Charles</span> <a href="../cite/Charles/1553/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">324</span></a>;
+ <span class="date">1577</span> <span class="name">Carle</span> <a href="../cite/Carle/1577/MHCG2"><span class="bib_key">ibid.</span> <span class="bib_loc">343</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, R. Le Get, J. Uckelman, S.L. Uckelman. "Charles". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Charles.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

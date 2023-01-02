@@ -1,0 +1,322 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>GasReg-A</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>GasReg-A</dt>
+  <dd>G.P. Cuttino with the collaboration of J.-P. Trabut-Cussac, editor. <em>Gascon Register A (series of 1318-1319), edited from British Museum Cottonian MS. Julius E.i</em>. London: Oxford University Press for the British Academy, 1975-76.</dd>
+</dl>
+
+
+  <a href="../cite/Alayda/1310s11/GasReg-A">Alayda</a>
+
+  <a href="../cite/Alays/1310s11/GasReg-A">Alays</a>
+
+  <a href="../cite/Andreas/1310–11/GasReg-A">Andreas</a>
+
+  <a href="../cite/Andreas/1287/GasReg-A">Andreas</a>
+
+  <a href="../cite/Andricus/1287/GasReg-A">Andricus</a>
+
+  <a href="../cite/Armandi/1283–86/GasReg-A">Armandi</a>
+
+  <a href="../cite/Armandus/1310/GasReg-A">Armandus</a>
+
+  <a href="../cite/Armandus/1310s11/GasReg-A">Armandus</a>
+
+  <a href="../cite/Arnaldi/1283x1286/GasReg-A">Arnaldi</a>
+
+  <a href="../cite/Arnaldus/1310/GasReg-A">Arnaldus</a>
+
+  <a href="../cite/Arnaldus/1310s11/GasReg-A">Arnaldus</a>
+
+  <a href="../cite/Arnaldus/1310–11/GasReg-A">Arnaldus</a>
+
+  <a href="../cite/Arnaldus/1287/GasReg-A">Arnaldus</a>
+
+  <a href="../cite/Augerii/12831286/GasReg-A">Augerii</a>
+
+  <a href="../cite/Augerius/1310/GasReg-A">Augerius</a>
+
+  <a href="../cite/Beatrisis/1310–11/GasReg-A">Beatrisis</a>
+
+  <a href="../cite/Bera/1287/GasReg-A">Bera</a>
+
+  <a href="../cite/Bernarda/1310s11/GasReg-A">Bernarda</a>
+
+  <a href="../cite/Bernardi/1283–86/GasReg-A">Bernardi</a>
+
+  <a href="../cite/Bernardus/1310–11/GasReg-A">Bernardus</a>
+
+  <a href="../cite/Bernardus/1287/GasReg-A">Bernardus</a>
+
+  <a href="../cite/Bernardus/1310/GasReg-A">Bernardus</a>
+
+  <a href="../cite/Bernardus/1310s11/GasReg-A">Bernardus</a>
+
+  <a href="../cite/Bertram/1310/GasReg-A">Bertram</a>
+
+  <a href="../cite/Bertranae/1283–86/GasReg-A">Bertranae</a>
+
+  <a href="../cite/Bertranda/1287/GasReg-A">Bertranda</a>
+
+  <a href="../cite/Bertrandi/1283–86/GasReg-A">Bertrandi</a>
+
+  <a href="../cite/Bertrandus/1310s11/GasReg-A">Bertrandus</a>
+
+  <a href="../cite/Bertrandus/1287/GasReg-A">Bertrandus</a>
+
+  <a href="../cite/Bertrandus/1310–11/GasReg-A">Bertrandus</a>
+
+  <a href="../cite/Bertrandus/1310/GasReg-A">Bertrandus</a>
+
+  <a href="../cite/Bitalis/1310–11/GasReg-A">Bitalis</a>
+
+  <a href="../cite/Bona/1287/GasReg-A">Bona</a>
+
+  <a href="../cite/Dominicus/1310/GasReg-A">Dominicus</a>
+
+  <a href="../cite/Dominicus/1287/GasReg-A">Dominicus</a>
+
+  <a href="../cite/Durandus/1310–11/GasReg-A">Durandus</a>
+
+  <a href="../cite/Durandus/1310s11/GasReg-A">Durandus</a>
+
+  <a href="../cite/Elyas/1310/GasReg-A">Elyas</a>
+
+  <a href="../cite/Ernaldi/1283x1286/GasReg-A">Ernaldi</a>
+
+  <a href="../cite/Ernaldus/1310/GasReg-A">Ernaldus</a>
+
+  <a href="../cite/Ernaud/1310/GasReg-A">Ernaud</a>
+
+  <a href="../cite/Gailhardus/1283–86/GasReg-A">Gailhardus</a>
+
+  <a href="../cite/Galbertus/1287/GasReg-A">Galbertus</a>
+
+  <a href="../cite/Galhard/1304/GasReg-A">Galhard</a>
+
+  <a href="../cite/Galharda/1287/GasReg-A">Galharda</a>
+
+  <a href="../cite/Galhardus/1310–11/GasReg-A">Galhardus</a>
+
+  <a href="../cite/Galhardus/1310/GasReg-A">Galhardus</a>
+
+  <a href="../cite/Garcionis/1287/GasReg-A">Garcionis</a>
+
+  <a href="../cite/Garcius/1287/GasReg-A">Garcius</a>
+
+  <a href="../cite/Garssias/1287/GasReg-A">Garssias</a>
+
+  <a href="../cite/Gaubertus/1287/GasReg-A">Gaubertus</a>
+
+  <a href="../cite/Gaucelmus/1310s11/GasReg-A">Gaucelmus</a>
+
+  <a href="../cite/Gaucelmus/1310–11/GasReg-A">Gaucelmus</a>
+
+  <a href="../cite/Geraldi/1283–86/GasReg-A">Geraldi</a>
+
+  <a href="../cite/Geraldus/1310/GasReg-A">Geraldus</a>
+
+  <a href="../cite/Geraldus/1310s11/GasReg-A">Geraldus</a>
+
+  <a href="../cite/Geraldus/1287/GasReg-A">Geraldus</a>
+
+  <a href="../cite/Gerardi/1283–86/GasReg-A">Gerardi</a>
+
+  <a href="../cite/Giralda/1287/GasReg-A">Giralda</a>
+
+  <a href="../cite/Giralda/1310–11/GasReg-A">Giralda</a>
+
+  <a href="../cite/Giraldus/1287/GasReg-A">Giraldus</a>
+
+  <a href="../cite/Giraldus/1310–11/GasReg-A">Giraldus</a>
+
+  <a href="../cite/Girardi/1283–86/GasReg-A">Girardi</a>
+
+  <a href="../cite/Gracia/1287/GasReg-A">Gracia</a>
+
+  <a href="../cite/Gualhardus/1310s11/GasReg-A">Gualhardus</a>
+
+  <a href="../cite/Gualhardus/1287/GasReg-A">Gualhardus</a>
+
+  <a href="../cite/Guallardus/1310–11/GasReg-A">Guallardus</a>
+
+  <a href="../cite/Guilelmus/1310/GasReg-A">Guilelmus</a>
+
+  <a href="../cite/Guillelma/1310s11/GasReg-A">Guillelma</a>
+
+  <a href="../cite/Guillelma/1287/GasReg-A">Guillelma</a>
+
+  <a href="../cite/Guillelmi/1283–86/GasReg-A">Guillelmi</a>
+
+  <a href="../cite/Guillelmus/1310–11/GasReg-A">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1310/GasReg-A">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1310s11/GasReg-A">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1287/GasReg-A">Guillelmus</a>
+
+  <a href="../cite/Guiraldus/1287/GasReg-A">Guiraldus</a>
+
+  <a href="../cite/Guitardi/1283–86/GasReg-A">Guitardi</a>
+
+  <a href="../cite/Guitardus/1310/GasReg-A">Guitardus</a>
+
+  <a href="../cite/Helias/1310s11/GasReg-A">Helias</a>
+
+  <a href="../cite/Johannes/1287/GasReg-A">Johannes</a>
+
+  <a href="../cite/Johannes/1310s11/GasReg-A">Johannes</a>
+
+  <a href="../cite/Johannes/1310–11/GasReg-A">Johannes</a>
+
+  <a href="../cite/Johannes/1310/GasReg-A">Johannes</a>
+
+  <a href="../cite/Jordani/1283–86/GasReg-A">Jordani</a>
+
+  <a href="../cite/Jordanus/1310/GasReg-A">Jordanus</a>
+
+  <a href="../cite/Maria/1287/GasReg-A">Maria</a>
+
+  <a href="../cite/Maria/1310s11/GasReg-A">Maria</a>
+
+  <a href="../cite/Martina/1287/GasReg-A">Martina</a>
+
+  <a href="../cite/Otho/1310s11/GasReg-A">Otho</a>
+
+  <a href="../cite/Otho/1287/GasReg-A">Otho</a>
+
+  <a href="../cite/Otho/1310/GasReg-A">Otho</a>
+
+  <a href="../cite/Otho/1283–86/GasReg-A">Otho</a>
+
+  <a href="../cite/Pelegrina/1310s11/GasReg-A">Pelegrina</a>
+
+  <a href="../cite/Petri/1283–86/GasReg-A">Petri</a>
+
+  <a href="../cite/Petrus/1287/GasReg-A">Petrus</a>
+
+  <a href="../cite/Petrus/1310–11/GasReg-A">Petrus</a>
+
+  <a href="../cite/Petrus/1310s11/GasReg-A">Petrus</a>
+
+  <a href="../cite/Petrus/1310/GasReg-A">Petrus</a>
+
+  <a href="../cite/Ramundi/1283–86/GasReg-A">Ramundi</a>
+
+  <a href="../cite/Ramundus/1310/GasReg-A">Ramundus</a>
+
+  <a href="../cite/Ramundus/1310–11/GasReg-A">Ramundus</a>
+
+  <a href="../cite/Ramundus/1310s11/GasReg-A">Ramundus</a>
+
+  <a href="../cite/Raymundus/1283–86/GasReg-A">Raymundus</a>
+
+  <a href="../cite/Raymundus/1310–11/GasReg-A">Raymundus</a>
+
+  <a href="../cite/Raymundus/1287/GasReg-A">Raymundus</a>
+
+  <a href="../cite/Robertus/1310s11/GasReg-A">Robertus</a>
+
+  <a href="../cite/Robertus/1310/GasReg-A">Robertus</a>
+
+  <a href="../cite/Robertus/1304/GasReg-A">Robertus</a>
+
+  <a href="../cite/Rossa/1287/GasReg-A">Rossa</a>
+
+  <a href="../cite/Sancius/1310/GasReg-A">Sancius</a>
+
+  <a href="../cite/Sancius/1287/GasReg-A">Sancius</a>
+
+  <a href="../cite/Sanzii/1283–86/GasReg-A">Sanzii</a>
+
+  <a href="../cite/Seguinus/1310–11/GasReg-A">Seguinus</a>
+
+  <a href="../cite/Seguinus/1310s11/GasReg-A">Seguinus</a>
+
+  <a href="../cite/Sibilla/1310s11/GasReg-A">Sibilla</a>
+
+  <a href="../cite/Spania/1287/GasReg-A">Spania</a>
+
+  <a href="../cite/Stephani/1283–86/GasReg-A">Stephani</a>
+
+  <a href="../cite/Stephanus/1287/GasReg-A">Stephanus</a>
+
+  <a href="../cite/Stephanus/1310–11/GasReg-A">Stephanus</a>
+
+  <a href="../cite/Vernardetus/1310s11/GasReg-A">Vernardetus</a>
+
+  <a href="../cite/Villelmi/1283–86/GasReg-A">Villelmi</a>
+
+  <a href="../cite/Vitalis/1310/GasReg-A">Vitalis</a>
+
+  <a href="../cite/Vitalis/1310–11/GasReg-A">Vitalis</a>
+
+  <a href="../cite/Vitalis/1287/GasReg-A">Vitalis</a>
+
+  <a href="../cite/Vitalis/1310s11/GasReg-A">Vitalis</a>
+
+  <a href="../cite/Vitalis/1304/GasReg-A">Vitalis</a>
+
+  <a href="../cite/Yspania/1287/GasReg-A">Yspania</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

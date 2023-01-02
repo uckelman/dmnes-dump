@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Gautbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Gautbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">Tribal name <i>Gaut</i> 'Geat' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>The spelling <i>Joibert</i> is influenced by <span class="lang">Latin</span> <i>gaudium</i> 'joy, delight, gladness'.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">657</span> <span class="name">Gautiobertus</span> (<span class="case">nom</span>) <a href="../cite/Gautiobertus/657/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">VI</span></a>,
+ <span class="name">Gauzberto</span> (<span class="case">abl</span>) <a href="../cite/Gauzberto/657/CartYonne1"><span class="bib_key">ibid.</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">658</span> <span class="name">Gauciobertus</span> (<span class="case">nom</span>) <a href="../cite/Gauciobertus/658/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">CCCXXXIII</span></a>;
+ <span class="date">c823</span> <span class="name">Gausbertus</span> (<span class="case">nom</span>) <a href="../cite/Gausbertus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">111, Palatiolum</span></a>;
+ <span class="date">1029x1033</span> <span class="name">Gausbertus</span> (<span class="case">nom</span>) <a href="../cite/Gausbertus/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Gosbertus</span> (<span class="case">nom</span>) <a href="../cite/Gosbertus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1107</span> <span class="name">Gausbertus</span> (<span class="case">nom</span>) <a href="../cite/Gausbertus/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Goisbertus</span> (<span class="case">nom</span>) <a href="../cite/Goisbertus/1115x1149/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>,
+ <span class="name">Gosbertus</span> (<span class="case">nom</span>) <a href="../cite/Gosbertus/1115x1149/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1123</span> <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1123/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXVI</span></a>;
+ <span class="date">1130x1150</span> <span class="name">Gosbertus</span> (<span class="case">nom</span>) <a href="../cite/Gosbertus/1130x1150/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXVII</span></a>;
+ <span class="date">1135</span> <span class="name">Josberti</span> (<span class="case">gen</span>) <a href="../cite/Josberti/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Josbertum</span> (<span class="case">acc</span>) <a href="../cite/Josbertum/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>,
+ <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x1148</span> <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1138x1148/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">21</span></a>;
+ <span class="date">1138x1162</span> <span class="name">Joberto</span> (<span class="case">abl</span>) <a href="../cite/Joberto/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">56</span></a>,
+ <span class="name">Josberto</span> (<span class="case">abl</span>) <a href="../cite/Josberto/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">56</span></a>,
+ <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1138x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>;
+ <span class="date">1143x1146</span> <span class="name">Gosberti</span> (<span class="case">gen</span>) <a href="../cite/Gosberti/1143x1146/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>,
+ <span class="name">Gosberto</span> (<span class="case">dat</span>) <a href="../cite/Gosberto/1143x1146/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>,
+ <span class="name">Gosbertus</span> (<span class="case">nom</span>) <a href="../cite/Gosbertus/1143x1146/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1145</span> <span class="name">Jobertus</span> (<span class="case">nom</span>) <a href="../cite/Jobertus/1145/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>,
+ <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1145/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1146</span> <span class="name">Gosberto</span> (<span class="case">abl</span>) <a href="../cite/Gosberto/1146/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 374</span></a>;
+ <span class="date">1147</span> <span class="name">Josberti</span> (<span class="case">gen</span>) <a href="../cite/Josberti/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Josberto</span> (<span class="case">abl</span>) <a href="../cite/Josberto/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>,
+ <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">42</span></a>;
+ <span class="date">1150</span> <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1150/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">22</span></a>;
+ <span class="date">1163</span> <span class="name">Josberti</span> (<span class="case">gen</span>) <a href="../cite/Josberti/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1163–64</span> <span class="name">Josberti</span> (<span class="case">gen</span>) <a href="../cite/Josberti/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>,
+ <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1164</span> <span class="name">Joberti</span> (<span class="case">gen</span>) <a href="../cite/Joberti/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Jobertus</span> (<span class="case">nom</span>) <a href="../cite/Jobertus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Josberti</span> (<span class="case">gen</span>) <a href="../cite/Josberti/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>,
+ <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1165</span> <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1165/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">125</span></a>;
+ <span class="date">1171</span> <span class="name">Josberti</span> (<span class="case">gen</span>) <a href="../cite/Josberti/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">142</span></a>,
+ <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">142</span></a>;
+ <span class="date">1172</span> <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1172/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">149</span></a>;
+ <span class="date">1174</span> <span class="name">Josbertum</span> (<span class="case">acc</span>) <a href="../cite/Josbertum/1174/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">158</span></a>;
+ <span class="date">1179</span> <span class="name">Josberto</span> (<span class="case">abl</span>) <a href="../cite/Josberto/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>,
+ <span class="name">Josbertus</span> (<span class="case">nom</span>) <a href="../cite/Josbertus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1190</span> <span class="name">Joibertus</span> (<span class="case">nom</span>) <a href="../cite/Joibertus/1190/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CII</span></a>;
+ <span class="date">1259</span> <span class="name">Jouberti</span> (<span class="case">gen</span>) <a href="../cite/Jouberti/1259/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">X, Pentecost</span></a>,
+ <span class="name">Joubertus</span> (<span class="case">nom</span>) <a href="../cite/Joubertus/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">X, Pentecost</span></a>;
+ <span class="date">1273</span> <span class="name">Gausberti</span> (<span class="case">gen</span>) <a href="../cite/Gausberti/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Gausbertus</span> (<span class="case">nom</span>) <a href="../cite/Gausbertus/1273/RegToul-13thC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">847</span> <span class="name">Gosbrecht</span> (<span class="case">abl</span>) <a href="../cite/Gosbrecht/847/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">XII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1020</span> <span class="name">Chocebertus</span> (<span class="case">nom</span>) <a href="../cite/Chocebertus/1020/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMCLXXV</span></a>;
+ <span class="date">1107</span> <span class="name">Joçbert</span> (<span class="case">nom</span>) <a href="../cite/Joçbert/1107/RusGeb"><span class="bib_key">RusGeb</span> <span class="bib_loc">p. 262</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Gautbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Gautbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

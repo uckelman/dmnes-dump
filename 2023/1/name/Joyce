@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Joyce</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Joyce</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Jodoca</i>, fem. of <a class="nym" href="Jodocus">Jodocus</a>.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1340xc1450</span> <span class="name">Joicia</span> (<span class="case">nom</span>) <a href="../cite/Joicia/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1553</span> <span class="name">Judocea</span> (<span class="case">nom</span>) <a href="../cite/Judocea/1553/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1556</span> <span class="name">Judocea</span> (<span class="case">nom</span>) <a href="../cite/Judocea/1556/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 58</span></a>;
+ <span class="date">1559</span> <span class="name">Judocea</span> (<span class="case">nom</span>) <a href="../cite/Judocea/1559/StMartF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1562</span> <span class="name">Jodoca</span> (<span class="case">nom</span>) <a href="../cite/Jodoca/1562/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1565</span> <span class="name">Jodoca</span> (<span class="case">nom</span>) <a href="../cite/Jodoca/1565/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/Jodoca/1565/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1566</span> <span class="name">Jodoca</span> (<span class="case">nom</span>) <a href="../cite/Jodoca/1566/RegSoAMar"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1568</span> <span class="name">Jodoca</span> (<span class="case">nom</span>) <a href="../cite/Jodoca/1568/RegSoAMar"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1570/1</span> <span class="name">Joyce</span> (<span class="case">nom</span>) <a href="../cite/Joyce/1570s1/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1572</span> <span class="name">Joyce</span> (<span class="case">nom</span>) <a href="../cite/Joyce/1572/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1592</span> <span class="name">Joyce</span> (<span class="case">nom</span>) <a href="../cite/Joyce/1592/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 16</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1564</span> <span class="name">Joyce</span> <a href="../cite/Joyce/1564/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Joyus</span> <a href="../cite/Joyus/1564/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1565</span> <span class="name">Joice</span> <a href="../cite/Joice/1565/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1572</span> <span class="name">Joyce</span> <a href="../cite/Joyce/1572/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1578</span> <span class="name">Joyce</span> <a href="../cite/Joyce/1578/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>,
+ <span class="name">Joyes</span> <a href="../cite/Joyes/1578/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1581</span> <span class="name">Joyce</span> <a href="../cite/Joyce/1581/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1589</span> <span class="name">Joyce</span> <a href="../cite/Joyce/1589/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Joyse</span> <a href="../cite/Joyse/1589/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 98</span></a>;
+ <span class="date">1590</span> <span class="name">Joyce</span> <a href="../cite/Joyce/1590/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1593</span> <span class="name">Joice</span> <a href="../cite/Joice/1593/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1597</span> <span class="name">Joyce</span> <a href="../cite/Joyce/1597/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1599</span> <span class="name">Joyce</span> <a href="../cite/Joyce/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 41</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Joyce". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Joyce.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

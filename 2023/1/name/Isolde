@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Isolde</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Isolde</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Of uncertain origin, either Celtic or Germanic.  If Germanic, then it is likely <span class="lang">Old High German</span> <i>īs</i> 'ice' + <span class="lang">Old High German</span> <i>hiltja</i> 'battle'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of the main female character in the legends and lays of Tristan and Isolde.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The Middle English vernacular form <i>Isoude</i> appears in the matronymic byname of <i>Johannes Isoude</i>, 1318, <span class="bibl"><span class="key">PSS-CXIV</span> <span class="loc">4b</span></span>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1279–80</span> <span class="name">Isolda</span> (<span class="case">nom</span>) <a href="../cite/Isolda/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1296</span> <span class="name">Isolde</span> (<span class="case">dat</span>) <a href="../cite/Isolde/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 93a</span></a>;
+ <span class="date">1331</span> <span class="name">Isoude</span> (<span class="case">gen</span>) <a href="../cite/Isoude/1331/PSS-CXIV"><span class="bib_key">PSS-CXIV</span> <span class="bib_loc">4e</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Isolda</span> (<span class="case">nom</span>) <a href="../cite/Isolda/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1379</span> <span class="name">Isolda</span> (<span class="case">nom</span>) <a href="../cite/Isolda/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Isselda</span> (<span class="case">nom</span>) <a href="../cite/Isselda/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1381</span> <span class="name">Isolda</span> (<span class="case">nom</span>) <a href="../cite/Isolda/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Isoude</span> (<span class="case">nom</span>) <a href="../cite/Isoude/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 110</span></a>;
+ <span class="date">1423</span> <span class="name">Isotæ</span> (<span class="case">gen</span>) <a href="../cite/Isotæ/1423/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">L</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1559</span> <span class="name">Isote</span> <a href="../cite/Isote/1559/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 80</span></a>;
+ <span class="date">1590</span> <span class="name">Isett</span> <a href="../cite/Isett/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1595</span> <span class="name">Iset</span> <a href="../cite/Iset/1595/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1597</span> <span class="name">Iset</span> <a href="../cite/Iset/1597/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>,
+ <span class="name">Isett</span> <a href="../cite/Isett/1597/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1599</span> <span class="name">Isett</span> <a href="../cite/Isett/1599/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Isolde". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Isolde.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

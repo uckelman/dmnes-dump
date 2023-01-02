@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Demetrius</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Demetrius</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Ancient Greek</span> <i>Δημήτριος</i> 'devoted to Demeter'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a minor New Testament character, a 4th C Greek saint, an 11th C king of Croatia and Dalmatia, a 12th C king of Georgia, a 14th C saint and grand prince of Moscow, and a 15th C tsar of Russia. Wycliffite Bible (1395): <i>Demetrie</i>.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Demittri</span> (<span class="case">nom</span>) <a href="../cite/Demittri/1582/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 171</span></a>,
+ <span class="name">Dijmitta</span> <a href="../cite/Dijmitta/1582/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 171</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1302</span> <span class="name">demetrius</span> (<span class="case">nom</span>) <a href="../cite/demetrius/1302/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 90, s.n. Demetrius</span></a>;
+ <span class="date">1303</span> <span class="name">demetrius</span> (<span class="case">nom</span>) <a href="../cite/demetrius/1303/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90, s.n. Demetrius</span></a>;
+ <span class="date">1307</span> <span class="name">demetrius</span> (<span class="case">nom</span>) <a href="../cite/demetrius/1307/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1311</span> <span class="name">demetrii</span> (<span class="case">gen</span>) <a href="../cite/demetrii/1311/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1312</span> <span class="name">demetrii</span> (<span class="case">gen</span>) <a href="../cite/demetrii/1312/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1314</span> <span class="name">demetrius</span> (<span class="case">nom</span>) <a href="../cite/demetrius/1314/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1317</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1317/CDH-VIII-II"><span class="bib_key">CDH-VIII-II</span> <span class="bib_loc">X</span></a>,
+ <span class="name">Demetrio</span> (<span class="case">abl</span>) <a href="../cite/Demetrio/1317/CDH-VIII-II"><span class="bib_key">ibid.</span> <span class="bib_loc">XV</span></a>,
+ <span class="name">Demetrium</span> (<span class="case">acc</span>) <a href="../cite/Demetrium/1317/CDH-VIII-II"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>,
+ <span class="name">Demetriy</span> (<span class="case">gen</span>) <a href="../cite/Demetriy/1317/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>,
+ <span class="name">demetrio</span> (<span class="case">abl</span>) <a href="../cite/demetrio/1317/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1318</span> <span class="name">Demetriy</span> (<span class="case">gen</span>) <a href="../cite/Demetriy/1318/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1319</span> <span class="name">Demetrius</span> (<span class="case">nom</span>) <a href="../cite/Demetrius/1319/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1320</span> <span class="name">Demetrio</span> (<span class="case">abl</span>) <a href="../cite/Demetrio/1320/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>,
+ <span class="name">demetrii</span> (<span class="case">gen</span>) <a href="../cite/demetrii/1320/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1322</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1322/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1324</span> <span class="name">Demetrio</span> (<span class="case">abl</span>) <a href="../cite/Demetrio/1324/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1325</span> <span class="name">Demetrio</span> (<span class="case">abl</span>) <a href="../cite/Demetrio/1325/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1326</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1326/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1327</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1327/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1328</span> <span class="name">Demetrius</span> (<span class="case">nom</span>) <a href="../cite/Demetrius/1328/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1329</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1329/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 92, s.n. Demetrius</span></a>,
+ <span class="name">Demetrio</span> (<span class="case">abl</span>) <a href="../cite/Demetrio/1329/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 92, s.n. Demetrius</span></a>;
+ <span class="date">1330</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1330/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 92, s.n. Demetrius</span></a>,
+ <span class="name">Demetrio</span> (<span class="case">abl</span>) <a href="../cite/Demetrio/1330/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 92, s.n. Demetrius</span></a>;
+ <span class="date">1331</span> <span class="name">Demetrii</span> <a href="../cite/Demetrii/1331/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 92, s.n. Demetrius</span></a>;
+ <span class="date">1332</span> <span class="name">Demetrius</span> (<span class="case">nom</span>) <a href="../cite/Demetrius/1332/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 92, s.n. Demetrius</span></a>;
+ <span class="date">1332x1337</span> <span class="name">Demetrius</span> (<span class="case">nom</span>) <a href="../cite/Demetrius/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 92, s.n. Demetrius</span></a>;
+ <span class="date">1333</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1333/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94, s.n. Demetrius</span></a>,
+ <span class="name">Demetrio</span> (<span class="case">abl</span>) <a href="../cite/Demetrio/1333/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94, s.n. Demetrius</span></a>,
+ <span class="name">Demetrius</span> (<span class="case">nom</span>) <a href="../cite/Demetrius/1333/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91, s.n. Demetrius</span></a>;
+ <span class="date">1334</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1334/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94, s.n. Demetrius</span></a>,
+ <span class="name">Demetrius</span> (<span class="case">nom</span>) <a href="../cite/Demetrius/1334/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94, s.n. Demetrius</span></a>,
+ <span class="name">Demetriy</span> (<span class="case">gen</span>) <a href="../cite/Demetriy/1334/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94, s.n. Demetrius</span></a>;
+ <span class="date">1335</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1335/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94, s.n. Demetrius</span></a>,
+ <span class="name">Demetrium</span> (<span class="case">acc</span>) <a href="../cite/Demetrium/1335/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94, s.n. Demetrius</span></a>;
+ <span class="date">1336</span> <span class="name">Demetrio</span> (<span class="case">gen</span>) <a href="../cite/Demetrio/1336/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94, s.n. Demetrius</span></a>;
+ <span class="date">1337</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94, s.n. Demetrius</span></a>,
+ <span class="name">Demetrius</span> (<span class="case">nom</span>) <a href="../cite/Demetrius/1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 94, s.n. Demetrius</span></a>;
+ <span class="date">1338</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1338/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>,
+ <span class="name">Demetrium</span> (<span class="case">acc</span>) <a href="../cite/Demetrium/1338/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>,
+ <span class="name">Demetrius</span> (<span class="case">nom</span>) <a href="../cite/Demetrius/1338/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>;
+ <span class="date">1339</span> <span class="name">Demetrius</span> (<span class="case">nom</span>) <a href="../cite/Demetrius/1339/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>;
+ <span class="date">1340</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1340/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>;
+ <span class="date">1341</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1341/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>,
+ <span class="name">Demetrio</span> (<span class="case">abl</span>) <a href="../cite/Demetrio/1341/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>,
+ <span class="name">Demetrius</span> (<span class="case">nom</span>) <a href="../cite/Demetrius/1341/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>;
+ <span class="date">1342</span> <span class="name">Demetrii</span> (<span class="case">gen</span>) <a href="../cite/Demetrii/1342/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>,
+ <span class="name">Demetrius</span> (<span class="case">nom</span>) <a href="../cite/Demetrius/1342/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>;
+ <span class="date">1351</span> <span class="name">Demetrio</span> (<span class="case">abl</span>) <a href="../cite/Demetrio/1351/CDH-IX-II"><span class="bib_key">CDH-IX-II</span> <span class="bib_loc">I</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1323</span> <span class="name">Deme</span> (<span class="case">nom</span>) <a href="../cite/Deme/1323/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>;
+ <span class="date">1330</span> <span class="name">Deme</span> (<span class="case">nom</span>) <a href="../cite/Deme/1330/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>;
+ <span class="date">1332</span> <span class="name">Deme</span> (<span class="case">nom</span>) <a href="../cite/Deme/1332/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>;
+ <span class="date">1332x1337</span> <span class="name">Dench</span> (<span class="case">nom</span>) <a href="../cite/Dench/1332x1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>;
+ <span class="date">1333</span> <span class="name">Denk</span> (<span class="case">nom</span>) <a href="../cite/Denk/1333/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>;
+ <span class="date">1335</span> <span class="name">Deme</span> (<span class="case">nom</span>) <a href="../cite/Deme/1335/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>;
+ <span class="date">1337</span> <span class="name">Denk</span> (<span class="case">nom</span>) <a href="../cite/Denk/1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a>;
+ <span class="date">1338</span> <span class="name">Deme</span> (<span class="case">nom</span>) <a href="../cite/Deme/1338/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95, s.n. Demetrius</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1367</span> <span class="name">Dimitri</span> (<span class="case">nom</span>) <a href="../cite/Dimitri/1367/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">131/132</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1292</span> <span class="name">Demitere</span> (<span class="case">nom</span>) <a href="../cite/Demitere/1292/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">299</span></a>;
+ <span class="date">1295</span> <span class="name">Demytere</span> (<span class="case">nom</span>) <a href="../cite/Demytere/1295/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">59</span></a>;
+ <span class="date">1301</span> <span class="name">Demiter</span> (<span class="case">nom</span>) <a href="../cite/Demiter/1301/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">305</span></a>,
+ <span class="name">Demitre</span> (<span class="case">nom</span>) <a href="../cite/Demitre/1301/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">310</span></a>;
+ <span class="date">1302</span> <span class="name">Dimiter</span> (<span class="case">nom</span>) <a href="../cite/Dimiter/1302/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">192</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, M. Slíz, S.L. Uckelman. "Demetrius". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Demetrius.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

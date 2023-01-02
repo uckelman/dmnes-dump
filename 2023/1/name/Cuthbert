@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Cuthbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Cuthbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>cūþ</i> 'known, famous' + <span class="lang">Old English</span> <i>beorht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 7th C Northumbrian saint.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">796</span> <span class="name">Cuthbeortho</span> (<span class="case">dat</span>) <a href="../cite/Cuthbeortho/796/CSM"><span class="bib_key">CSM</span> <span class="bib_loc">p. 2</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1279–80</span> <span class="name">Cuthe</span> (<span class="case">nom</span>) <a href="../cite/Cuthe/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 50</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1526</span> <span class="name">Cuthbert</span> <a href="../cite/Cuthbert/1526/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXVII</span></a>;
+ <span class="date">1532–1533</span> <span class="name">Cuthbert</span> <a href="../cite/Cuthbert/1532–1533/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 103</span></a>;
+ <span class="date">1534</span> <span class="name">Cuthberd</span> <a href="../cite/Cuthberd/1534/CovGuild-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 129</span></a>;
+ <span class="date">1543</span> <span class="name">Cutbert</span> <a href="../cite/Cutbert/1543/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Cuthbert</span> <a href="../cite/Cuthbert/1543/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LXXXIX</span></a>;
+ <span class="date">1544</span> <span class="name">Cutbert</span> <a href="../cite/Cutbert/1544/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1545</span> <span class="name">Cutbert</span> <a href="../cite/Cutbert/1545/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1546</span> <span class="name">Cutbert</span> <a href="../cite/Cutbert/1546/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Cutburt</span> <a href="../cite/Cutburt/1546/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1549</span> <span class="name">Cutbert</span> <a href="../cite/Cutbert/1549/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1550</span> <span class="name">Cutber</span> <a href="../cite/Cutber/1550/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1552</span> <span class="name">Cutberd</span> <a href="../cite/Cutberd/1552/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Cutbert</span> <a href="../cite/Cutbert/1552/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1563</span> <span class="name">Cuthbert</span> <a href="../cite/Cuthbert/1563/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1570</span> <span class="name">Chutbert</span> <a href="../cite/Chutbert/1570/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 39</span></a>,
+ <span class="name">Cuthbert</span> <a href="../cite/Cuthbert/1570/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1571</span> <span class="name">Cuthbert</span> <a href="../cite/Cuthbert/1571/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 101</span></a>,
+ <span class="name">Cuthbertt</span> <a href="../cite/Cuthbertt/1571/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1583</span> <span class="name">Cuthbart</span> <a href="../cite/Cuthbart/1583/MemStGiles"><span class="bib_key">MemStGiles</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1585</span> <span class="name">Cuthbert</span> <a href="../cite/Cuthbert/1585/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1588</span> <span class="name">Cuthbertt</span> <a href="../cite/Cuthbertt/1588/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 118</span></a>;
+ <span class="date">1589</span> <span class="name">Cudbert</span> <a href="../cite/Cudbert/1589/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>,
+ <span class="name">Cuthbert</span> <a href="../cite/Cuthbert/1589/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1598</span> <span class="name">Cuthbert</span> <a href="../cite/Cuthbert/1598/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 66</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Cudberto</span> (<span class="case">abl</span>) <a href="../cite/Cudberto/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Cuthberto</span> (<span class="case">dat</span>) <a href="../cite/Cuthberto/1376/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, S.L. Uckelman. "Cuthbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Cuthbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

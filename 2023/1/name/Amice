@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Amice</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Amice</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>amica</i> 'friend'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1279–80</span> <span class="name">Amicia</span> (<span class="case">nom</span>) <a href="../cite/Amicia/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 64</span></a>;
+ <span class="date">1300</span> <span class="name">Amicia</span> (<span class="case">nom</span>) <a href="../cite/Amicia/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 238</span></a>;
+ <span class="date">1322</span> <span class="name">Amicie</span> (<span class="case">dat</span>) <a href="../cite/Amicie/1322/PSS-CXIV"><span class="bib_key">PSS-CXIV</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Amicia</span> (<span class="case">nom</span>) <a href="../cite/Amicia/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Amisia</span> (<span class="case">nom</span>) <a href="../cite/Amisia/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1377</span> <span class="name">Amicia</span> (<span class="case">nom</span>) <a href="../cite/Amicia/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1379</span> <span class="name">Amicia</span> (<span class="case">nom</span>) <a href="../cite/Amicia/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Amicie</span> (<span class="case">gen</span>) <a href="../cite/Amicie/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>,
+ <span class="name">Amys</span> (<span class="case">nom</span>) <a href="../cite/Amys/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Amysia</span> (<span class="case">nom</span>) <a href="../cite/Amysia/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1381</span> <span class="name">Amicia</span> (<span class="case">nom</span>) <a href="../cite/Amicia/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 70</span></a>,
+ <span class="name">Amicie</span> (<span class="case">gen</span>) <a href="../cite/Amicie/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 91</span></a>,
+ <span class="name">Amissia</span> (<span class="case">nom</span>) <a href="../cite/Amissia/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 78</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1413</span> <span class="name">Amys</span> <a href="../cite/Amys/1413/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 22</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1540</span> <span class="name">Ameis</span> <a href="../cite/Ameis/1540/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1544</span> <span class="name">Ames</span> <a href="../cite/Ames/1544/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1546</span> <span class="name">Ames</span> <a href="../cite/Ames/1546/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1554</span> <span class="name">Ames</span> <a href="../cite/Ames/1554/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1560</span> <span class="name">Ames</span> <a href="../cite/Ames/1560/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1147</span> <span class="name">Amica</span> (<span class="case">nom</span>) <a href="../cite/Amica/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Amica</span> (<span class="case">nom</span>) <a href="../cite/Amica/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">44</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Amice</span> <a href="../cite/Amice/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 14</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Amice". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Amice.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

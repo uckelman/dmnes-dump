@@ -1,0 +1,628 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>MHN</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>MHN</dt>
+  <dd>George-Auguste Matile, editor. <em>Monuments de l'Histoire de Neuchatel</em>. Neuchatel: Imprimerie de James Attinger, 1848.</dd>
+</dl>
+
+
+  <a href="../cite/Aberto/1354/MHN">Aberto</a>
+
+  <a href="../cite/Aloysio/1351–53/MHN">Aloysio</a>
+
+  <a href="../cite/Amedei/1349/MHN">Amedei</a>
+
+  <a href="../cite/Amedeus/1348/MHN">Amedeus</a>
+
+  <a href="../cite/Andrey/1354/MHN">Andrey</a>
+
+  <a href="../cite/Anthonio/1352/MHN">Anthonio</a>
+
+  <a href="../cite/Aulbertus/1349/MHN">Aulbertus</a>
+
+  <a href="../cite/Aymes/1354/MHN">Aymes</a>
+
+  <a href="../cite/Aymoneto/1352/MHN">Aymoneto</a>
+
+  <a href="../cite/Aymonis/1349/MHN">Aymonis</a>
+
+  <a href="../cite/Benoitet/1354/MHN">Benoitet</a>
+
+  <a href="../cite/Bertholdi/1349/MHN">Bertholdi</a>
+
+  <a href="../cite/Burchard/1352/MHN">Burchard</a>
+
+  <a href="../cite/Burckhardo/1352/MHN">Burckhardo</a>
+
+  <a href="../cite/Christino/1348/MHN">Christino</a>
+
+  <a href="../cite/Clemens/1351/MHN">Clemens</a>
+
+  <a href="../cite/Conodo/1352/MHN">Conodo</a>
+
+  <a href="../cite/Conodus/1352/MHN">Conodus</a>
+
+  <a href="../cite/Cristino/1351/MHN">Cristino</a>
+
+  <a href="../cite/Cristino/1349/MHN">Cristino</a>
+
+  <a href="../cite/Elyenode/1349/MHN">Elyenode</a>
+
+  <a href="../cite/Ermengeart/1354/MHN">Ermengeart</a>
+
+  <a href="../cite/Estenne/1353/MHN">Estenne</a>
+
+  <a href="../cite/Estienne/1348/MHN">Estienne</a>
+
+  <a href="../cite/Estienne/1354/MHN">Estienne</a>
+
+  <a href="../cite/Estiennes/1354/MHN">Estiennes</a>
+
+  <a href="../cite/Evrardi/1349/MHN">Evrardi</a>
+
+  <a href="../cite/Francisci/1348/MHN">Francisci</a>
+
+  <a href="../cite/Francisco/1352/MHN">Francisco</a>
+
+  <a href="../cite/Franciscus/1348/MHN">Franciscus</a>
+
+  <a href="../cite/Franciscus/1349/MHN">Franciscus</a>
+
+  <a href="../cite/Galeaz/1351–53/MHN">Galeaz</a>
+
+  <a href="../cite/Gerardi/1349/MHN">Gerardi</a>
+
+  <a href="../cite/Gerhardi/1349/MHN">Gerhardi</a>
+
+  <a href="../cite/Girardi/1352/MHN">Girardi</a>
+
+  <a href="../cite/Girardi/1351/MHN">Girardi</a>
+
+  <a href="../cite/Girardo/1351/MHN">Girardo</a>
+
+  <a href="../cite/Girardo/1352/MHN">Girardo</a>
+
+  <a href="../cite/Girardum/1352/MHN">Girardum</a>
+
+  <a href="../cite/Girart/1354/MHN">Girart</a>
+
+  <a href="../cite/Girarz/1352/MHN">Girarz</a>
+
+  <a href="../cite/Guerrici/1354/MHN">Guerrici</a>
+
+  <a href="../cite/Guillaume/1349/MHN">Guillaume</a>
+
+  <a href="../cite/Guillaume/1353/MHN">Guillaume</a>
+
+  <a href="../cite/Guillaume/1354/MHN">Guillaume</a>
+
+  <a href="../cite/Guillaume/1348/MHN">Guillaume</a>
+
+  <a href="../cite/Guillaumes/1353/MHN">Guillaumes</a>
+
+  <a href="../cite/Guillelmi/1352/MHN">Guillelmi</a>
+
+  <a href="../cite/Guillelmo/1352/MHN">Guillelmo</a>
+
+  <a href="../cite/Guillelmum/1354/MHN">Guillelmum</a>
+
+  <a href="../cite/Guillelmus/1352/MHN">Guillelmus</a>
+
+  <a href="../cite/Guyot/1354/MHN">Guyot</a>
+
+  <a href="../cite/Hartmanni/1349/MHN">Hartmanni</a>
+
+  <a href="../cite/Hartmanno/1349/MHN">Hartmanno</a>
+
+  <a href="../cite/Hartmannus/1349/MHN">Hartmannus</a>
+
+  <a href="../cite/Haymes/1354/MHN">Haymes</a>
+
+  <a href="../cite/Hemericum/1352/MHN">Hemericum</a>
+
+  <a href="../cite/Henri/1351/MHN">Henri</a>
+
+  <a href="../cite/Henri/1353/MHN">Henri</a>
+
+  <a href="../cite/Henri/1350/MHN">Henri</a>
+
+  <a href="../cite/Henrici/1349/MHN">Henrici</a>
+
+  <a href="../cite/Henrico/1353/MHN">Henrico</a>
+
+  <a href="../cite/Henriolet/1349/MHN">Henriolet</a>
+
+  <a href="../cite/Henriz/1354/MHN">Henriz</a>
+
+  <a href="../cite/Henry/1350/MHN">Henry</a>
+
+  <a href="../cite/Henry/1348/MHN">Henry</a>
+
+  <a href="../cite/Henry/1352/MHN">Henry</a>
+
+  <a href="../cite/Henry/1353/MHN">Henry</a>
+
+  <a href="../cite/Henry/1354/MHN">Henry</a>
+
+  <a href="../cite/Henryz/1354/MHN">Henryz</a>
+
+  <a href="../cite/Hermanno/1350/MHN">Hermanno</a>
+
+  <a href="../cite/Hugo/1348/MHN">Hugo</a>
+
+  <a href="../cite/Hugo/1349/MHN">Hugo</a>
+
+  <a href="../cite/Hugonin/1354/MHN">Hugonin</a>
+
+  <a href="../cite/Hugue/1348/MHN">Hugue</a>
+
+  <a href="../cite/Hugue/1350/MHN">Hugue</a>
+
+  <a href="../cite/Hugues/1350/MHN">Hugues</a>
+
+  <a href="../cite/Hugues/1348/MHN">Hugues</a>
+
+  <a href="../cite/Hugues/1353/MHN">Hugues</a>
+
+  <a href="../cite/Humbert/1354/MHN">Humbert</a>
+
+  <a href="../cite/Jacques/1350/MHN">Jacques</a>
+
+  <a href="../cite/Jacquetus/1349/MHN">Jacquetus</a>
+
+  <a href="../cite/Jacquex/1350/MHN">Jacquex</a>
+
+  <a href="../cite/Jacquiet/1349/MHN">Jacquiet</a>
+
+  <a href="../cite/Jaique/1354/MHN">Jaique</a>
+
+  <a href="../cite/Jaiques/1354/MHN">Jaiques</a>
+
+  <a href="../cite/Janneti/1349/MHN">Janneti</a>
+
+  <a href="../cite/Jannetus/1349/MHN">Jannetus</a>
+
+  <a href="../cite/Jannineti/1354/MHN">Jannineti</a>
+
+  <a href="../cite/Janninetus/1354/MHN">Janninetus</a>
+
+  <a href="../cite/Jaque/1354/MHN">Jaque</a>
+
+  <a href="../cite/Jaqueminus/1349/MHN">Jaqueminus</a>
+
+  <a href="../cite/Jaques/1353/MHN">Jaques</a>
+
+  <a href="../cite/Jaqueti/1352/MHN">Jaqueti</a>
+
+  <a href="../cite/Jaqueto/1348/MHN">Jaqueto</a>
+
+  <a href="../cite/Jaqueto/1352/MHN">Jaqueto</a>
+
+  <a href="../cite/Jaquetus/1348/MHN">Jaquetus</a>
+
+  <a href="../cite/Jehan/1348/MHN">Jehan</a>
+
+  <a href="../cite/Jehan/1354/MHN">Jehan</a>
+
+  <a href="../cite/Jehan/1350/MHN">Jehan</a>
+
+  <a href="../cite/Jehan/1351/MHN">Jehan</a>
+
+  <a href="../cite/Jehan/1349/MHN">Jehan</a>
+
+  <a href="../cite/Jehan/1352/MHN">Jehan</a>
+
+  <a href="../cite/Jehanne/1354/MHN">Jehanne</a>
+
+  <a href="../cite/Jehanne/1350/MHN">Jehanne</a>
+
+  <a href="../cite/Jehans/1351–53/MHN">Jehans</a>
+
+  <a href="../cite/Jehans/1354/MHN">Jehans</a>
+
+  <a href="../cite/Jehans/1348/MHN">Jehans</a>
+
+  <a href="../cite/Jehans/1350/MHN">Jehans</a>
+
+  <a href="../cite/Jehans/1353/MHN">Jehans</a>
+
+  <a href="../cite/Jehanz/1351–53/MHN">Jehanz</a>
+
+  <a href="../cite/Jehanz/1352/MHN">Jehanz</a>
+
+  <a href="../cite/Jehanz/1354/MHN">Jehanz</a>
+
+  <a href="../cite/Jehenne/1348/MHN">Jehenne</a>
+
+  <a href="../cite/Joffreis/1353/MHN">Joffreis</a>
+
+  <a href="../cite/Joffrois/1353/MHN">Joffrois</a>
+
+  <a href="../cite/Johann/1352/MHN">Johann</a>
+
+  <a href="../cite/Johanne/1352/MHN">Johanne</a>
+
+  <a href="../cite/Johanne/1348/MHN">Johanne</a>
+
+  <a href="../cite/Johanne/1349/MHN">Johanne</a>
+
+  <a href="../cite/Johannem/1351–53/MHN">Johannem</a>
+
+  <a href="../cite/Johannem/1352/MHN">Johannem</a>
+
+  <a href="../cite/Johannem/1348/MHN">Johannem</a>
+
+  <a href="../cite/Johannem/1349/MHN">Johannem</a>
+
+  <a href="../cite/Johannes/1352/MHN">Johannes</a>
+
+  <a href="../cite/Johannes/1351–53/MHN">Johannes</a>
+
+  <a href="../cite/Johannes/1351/MHN">Johannes</a>
+
+  <a href="../cite/Johannes/1354/MHN">Johannes</a>
+
+  <a href="../cite/Johannes/1349/MHN">Johannes</a>
+
+  <a href="../cite/Johanneti/1352/MHN">Johanneti</a>
+
+  <a href="../cite/Johanneto/1352/MHN">Johanneto</a>
+
+  <a href="../cite/Johannetum/1352/MHN">Johannetum</a>
+
+  <a href="../cite/Johannetus/1352/MHN">Johannetus</a>
+
+  <a href="../cite/Johanni/1348/MHN">Johanni</a>
+
+  <a href="../cite/Johanni/1349/MHN">Johanni</a>
+
+  <a href="../cite/Johannis/1349/MHN">Johannis</a>
+
+  <a href="../cite/Johannis/1354/MHN">Johannis</a>
+
+  <a href="../cite/Johannodo/1352/MHN">Johannodo</a>
+
+  <a href="../cite/Johannodum/1348/MHN">Johannodum</a>
+
+  <a href="../cite/Johannodus/1352/MHN">Johannodus</a>
+
+  <a href="../cite/Katherine/1354/MHN">Katherine</a>
+
+  <a href="../cite/Katherine/1351/MHN">Katherine</a>
+
+  <a href="../cite/Katherine/1349/MHN">Katherine</a>
+
+  <a href="../cite/Katherine/1350/MHN">Katherine</a>
+
+  <a href="../cite/Lion/1354/MHN">Lion</a>
+
+  <a href="../cite/Lodoycus/1353/MHN">Lodoycus</a>
+
+  <a href="../cite/Lois/1348/MHN">Lois</a>
+
+  <a href="../cite/Loiz/1348/MHN">Loiz</a>
+
+  <a href="../cite/Looys/1348/MHN">Looys</a>
+
+  <a href="../cite/Loy/1354/MHN">Loy</a>
+
+  <a href="../cite/Loys/1352/MHN">Loys</a>
+
+  <a href="../cite/Loys/1349/MHN">Loys</a>
+
+  <a href="../cite/Loys/1353/MHN">Loys</a>
+
+  <a href="../cite/Loys/1351/MHN">Loys</a>
+
+  <a href="../cite/Loys/1354/MHN">Loys</a>
+
+  <a href="../cite/Loys/1348/MHN">Loys</a>
+
+  <a href="../cite/Loys/1350/MHN">Loys</a>
+
+  <a href="../cite/Ludovici/1351/MHN">Ludovici</a>
+
+  <a href="../cite/Ludovici/1349/MHN">Ludovici</a>
+
+  <a href="../cite/Ludovici/1354/MHN">Ludovici</a>
+
+  <a href="../cite/Ludovici/1353/MHN">Ludovici</a>
+
+  <a href="../cite/Ludovico/1348/MHN">Ludovico</a>
+
+  <a href="../cite/Ludovico/1349/MHN">Ludovico</a>
+
+  <a href="../cite/Ludovico/1352/MHN">Ludovico</a>
+
+  <a href="../cite/Ludovico/1351–53/MHN">Ludovico</a>
+
+  <a href="../cite/Ludovico/1353/MHN">Ludovico</a>
+
+  <a href="../cite/Ludovicum/1353/MHN">Ludovicum</a>
+
+  <a href="../cite/Ludovicum/1348/MHN">Ludovicum</a>
+
+  <a href="../cite/Ludovicus/1350/MHN">Ludovicus</a>
+
+  <a href="../cite/Ludovicus/1354/MHN">Ludovicus</a>
+
+  <a href="../cite/Ludovicus/1349/MHN">Ludovicus</a>
+
+  <a href="../cite/Ludovicus/1351/MHN">Ludovicus</a>
+
+  <a href="../cite/Ludovicus/1352/MHN">Ludovicus</a>
+
+  <a href="../cite/Ludovicus/1353/MHN">Ludovicus</a>
+
+  <a href="../cite/Ludovicus/1348/MHN">Ludovicus</a>
+
+  <a href="../cite/Ludowico/1354/MHN">Ludowico</a>
+
+  <a href="../cite/Ludwig/1352/MHN">Ludwig</a>
+
+  <a href="../cite/Mahaut/1352/MHN">Mahaut</a>
+
+  <a href="../cite/Mahaut/1348/MHN">Mahaut</a>
+
+  <a href="../cite/Mahaut/1354/MHN">Mahaut</a>
+
+  <a href="../cite/Marguerite/1354/MHN">Marguerite</a>
+
+  <a href="../cite/Marguerta/1354/MHN">Marguerta</a>
+
+  <a href="../cite/Marguerte/1354/MHN">Marguerte</a>
+
+  <a href="../cite/Maria/1348/MHN">Maria</a>
+
+  <a href="../cite/Marie/1348/MHN">Marie</a>
+
+  <a href="../cite/Mermeto/1351/MHN">Mermeto</a>
+
+  <a href="../cite/Mermeto/1352/MHN">Mermeto</a>
+
+  <a href="../cite/Mermetum/1354/MHN">Mermetum</a>
+
+  <a href="../cite/Mermetus/1352/MHN">Mermetus</a>
+
+  <a href="../cite/Nicholodo/1352/MHN">Nicholodo</a>
+
+  <a href="../cite/Nicholodus/1352/MHN">Nicholodus</a>
+
+  <a href="../cite/Nicolai/1349/MHN">Nicolai</a>
+
+  <a href="../cite/Nicolao/1354/MHN">Nicolao</a>
+
+  <a href="../cite/Nicolaus/1354/MHN">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1349/MHN">Nicolaus</a>
+
+  <a href="../cite/Nycolaus/1354/MHN">Nycolaus</a>
+
+  <a href="../cite/Othe/1353/MHN">Othe</a>
+
+  <a href="../cite/Othe/1350/MHN">Othe</a>
+
+  <a href="../cite/Othe/1354/MHN">Othe</a>
+
+  <a href="../cite/Othe/1348/MHN">Othe</a>
+
+  <a href="../cite/Othenin/1354/MHN">Othenin</a>
+
+  <a href="../cite/Othes/1348/MHN">Othes</a>
+
+  <a href="../cite/Othes/1353/MHN">Othes</a>
+
+  <a href="../cite/Othon/1350/MHN">Othon</a>
+
+  <a href="../cite/Othone/1349/MHN">Othone</a>
+
+  <a href="../cite/Othone/1351/MHN">Othone</a>
+
+  <a href="../cite/Othone/1350/MHN">Othone</a>
+
+  <a href="../cite/Othonino/1348/MHN">Othonino</a>
+
+  <a href="../cite/Perrin/1352/MHN">Perrin</a>
+
+  <a href="../cite/Perrin/1354/MHN">Perrin</a>
+
+  <a href="../cite/Perrin/1348/MHN">Perrin</a>
+
+  <a href="../cite/Perrini/1354/MHN">Perrini</a>
+
+  <a href="../cite/Perrini/1349/MHN">Perrini</a>
+
+  <a href="../cite/Perrinus/1354/MHN">Perrinus</a>
+
+  <a href="../cite/Perrinus/1349/MHN">Perrinus</a>
+
+  <a href="../cite/Perrodo/1352/MHN">Perrodo</a>
+
+  <a href="../cite/Perrodus/1352/MHN">Perrodus</a>
+
+  <a href="../cite/Perrout/1354/MHN">Perrout</a>
+
+  <a href="../cite/Peter/1352/MHN">Peter</a>
+
+  <a href="../cite/Petri/1348/MHN">Petri</a>
+
+  <a href="../cite/Petri/1349/MHN">Petri</a>
+
+  <a href="../cite/Petro/1349/MHN">Petro</a>
+
+  <a href="../cite/Petrum/1352/MHN">Petrum</a>
+
+  <a href="../cite/Petrus/1349/MHN">Petrus</a>
+
+  <a href="../cite/Petrus/1352/MHN">Petrus</a>
+
+  <a href="../cite/Petrus/1348/MHN">Petrus</a>
+
+  <a href="../cite/Philippe/1353/MHN">Philippe</a>
+
+  <a href="../cite/Pierre/1349/MHN">Pierre</a>
+
+  <a href="../cite/Pierre/1352/MHN">Pierre</a>
+
+  <a href="../cite/Pierre/1354/MHN">Pierre</a>
+
+  <a href="../cite/Raimbaudi/1349/MHN">Raimbaudi</a>
+
+  <a href="../cite/Renaut/1352/MHN">Renaut</a>
+
+  <a href="../cite/Reynaldi/1349/MHN">Reynaldi</a>
+
+  <a href="../cite/Richars/1349/MHN">Richars</a>
+
+  <a href="../cite/Roberti/1354/MHN">Roberti</a>
+
+  <a href="../cite/Rodulphi/1349/MHN">Rodulphi</a>
+
+  <a href="../cite/Rodulpho/1349/MHN">Rodulpho</a>
+
+  <a href="../cite/Rodulpho/1352/MHN">Rodulpho</a>
+
+  <a href="../cite/Rodulphum/1349/MHN">Rodulphum</a>
+
+  <a href="../cite/Rodulphus/1350/MHN">Rodulphus</a>
+
+  <a href="../cite/Rodulphus/1349/MHN">Rodulphus</a>
+
+  <a href="../cite/Rodulphus/1354/MHN">Rodulphus</a>
+
+  <a href="../cite/Roleto/1352/MHN">Roleto</a>
+
+  <a href="../cite/Roletus/1354/MHN">Roletus</a>
+
+  <a href="../cite/Roletus/1352/MHN">Roletus</a>
+
+  <a href="../cite/Rolin/1350/MHN">Rolin</a>
+
+  <a href="../cite/Rolin/1354/MHN">Rolin</a>
+
+  <a href="../cite/Rolini/1348/MHN">Rolini</a>
+
+  <a href="../cite/Roman/1354/MHN">Roman</a>
+
+  <a href="../cite/Roud/1354/MHN">Roud</a>
+
+  <a href="../cite/Roul/1354/MHN">Roul</a>
+
+  <a href="../cite/Rudolf/1352/MHN">Rudolf</a>
+
+  <a href="../cite/Ruodulphi/1350/MHN">Ruodulphi</a>
+
+  <a href="../cite/Simon/1348/MHN">Simon</a>
+
+  <a href="../cite/Stephaneta/1349/MHN">Stephaneta</a>
+
+  <a href="../cite/Stephanete/1349/MHN">Stephanete</a>
+
+  <a href="../cite/Thiebault/1350/MHN">Thiebault</a>
+
+  <a href="../cite/Thiebaut/1354/MHN">Thiebaut</a>
+
+  <a href="../cite/Thiebaut/1353/MHN">Thiebaut</a>
+
+  <a href="../cite/Thiebauz/1354/MHN">Thiebauz</a>
+
+  <a href="../cite/Thyebauz/1354/MHN">Thyebauz</a>
+
+  <a href="../cite/Ulrici/1350/MHN">Ulrici</a>
+
+  <a href="../cite/Ulrici/1349/MHN">Ulrici</a>
+
+  <a href="../cite/Ulrico/1349/MHN">Ulrico</a>
+
+  <a href="../cite/Ulrico/1350/MHN">Ulrico</a>
+
+  <a href="../cite/Ulricus/1350/MHN">Ulricus</a>
+
+  <a href="../cite/Uolrich/1352/MHN">Uolrich</a>
+
+  <a href="../cite/Vuillame/1352/MHN">Vuillame</a>
+
+  <a href="../cite/Vuillermus/1349/MHN">Vuillermus</a>
+
+  <a href="../cite/Vulliermi/1354/MHN">Vulliermi</a>
+
+  <a href="../cite/Vulliermus/1354/MHN">Vulliermus</a>
+
+  <a href="../cite/Wilhelmus/1352/MHN">Wilhelmus</a>
+
+  <a href="../cite/Willerme/1354/MHN">Willerme</a>
+
+  <a href="../cite/Williame/1350/MHN">Williame</a>
+
+  <a href="../cite/Williermi/1349/MHN">Williermi</a>
+
+  <a href="../cite/Wulliermi/1349/MHN">Wulliermi</a>
+
+  <a href="../cite/Yhannino/1352/MHN">Yhannino</a>
+
+  <a href="../cite/Yhanninus/1352/MHN">Yhanninus</a>
+
+  <a href="../cite/Yost/1350/MHN">Yost</a>
+
+  <a href="../cite/Ysabel/1354/MHN">Ysabel</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

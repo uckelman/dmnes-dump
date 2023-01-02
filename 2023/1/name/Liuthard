@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Liuthard</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Liuthard</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>liut</i> 'people' + <span class="lang">Old Saxon</span> <i>hard</i>, <span class="lang">Old High German</span> <i>hart</i> 'strong, hard'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">814</span> <span class="name">Leotardus</span> (<span class="case">nom</span>) <a href="../cite/Leotardus/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">H1</span></a>;
+ <span class="date">c823</span> <span class="name">Leodardus</span> (<span class="case">nom</span>) <a href="../cite/Leodardus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">1b, p. 22</span></a>,
+ <span class="name">Leutardus</span> (<span class="case">nom</span>) <a href="../cite/Leutardus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">8, Gaugiacum</span></a>,
+ <span class="name">Liutardus</span> (<span class="case">nom</span>) <a href="../cite/Liutardus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">6, Gaugiacum</span></a>;
+ <span class="date">933x1000</span> <span class="name">Leotardi</span> (<span class="case">gen</span>) <a href="../cite/Leotardi/933x1000/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 148</span></a>,
+ <span class="name">Leotardus</span> (<span class="case">nom</span>) <a href="../cite/Leotardus/933x1000/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 148</span></a>;
+ <span class="date">937x993</span> <span class="name">Leutardi</span> (<span class="case">gen</span>) <a href="../cite/Leutardi/937x993/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1088x1119</span> <span class="name">Leotardus</span> (<span class="case">nom</span>) <a href="../cite/Leotardus/1088x1119/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 149</span></a>;
+ <span class="date">1135</span> <span class="name">Letardus</span> (<span class="case">nom</span>) <a href="../cite/Letardus/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1147</span> <span class="name">Letardo</span> (<span class="case">abl</span>) <a href="../cite/Letardo/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1172</span> <span class="name">Letardus</span> (<span class="case">nom</span>) <a href="../cite/Letardus/1172/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">146</span></a>;
+ <span class="date">1180</span> <span class="name">Letardo</span> (<span class="case">abl</span>) <a href="../cite/Letardo/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 19</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Liuthardus</span> (<span class="case">nom</span>) <a href="../cite/Liuthardus/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§85</span></a>,
+ <span class="name">Luthardus</span> (<span class="case">nom</span>) <a href="../cite/Luthardus/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§55</span></a>;
+ <span class="date">1108</span> <span class="name">Litardo</span> (<span class="case">abl</span>) <a href="../cite/Litardo/1108/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">85</span></a>;
+ <span class="date">1224</span> <span class="name">Luthardus</span> (<span class="case">nom</span>) <a href="../cite/Luthardus/1224/CDL-1.1.1"><span class="bib_key">CDL-1.1.1</span> <span class="bib_loc">VIII</span></a>;
+ <span class="date">1229</span> <span class="name">Luthardus</span> (<span class="case">nom</span>) <a href="../cite/Luthardus/1229/CDL-1.1.1"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Liuthard". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Liuthard.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

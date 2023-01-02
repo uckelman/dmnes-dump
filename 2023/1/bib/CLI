@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>CLI</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>CLI</dt>
+  <dd>Chartes luxembourgeoises inédites. In <em>Publications de la Société pour la Recherche et la Conservation des Monuments Historiques dans le Grand-Duché de Luxembourg, Constituée sous le Patronage de sa Majesté le Roi Grand-Duc</em>, volume 5: année 1849, pages 149–158. Luxembourg: Librairie de V. Bück, successeur de J.-P. Kuborn, 1850.</dd>
+</dl>
+
+
+  <a href="../cite/Arnoldus/1212/CLI">Arnoldus</a>
+
+  <a href="../cite/Jacobus/1212/CLI">Jacobus</a>
+
+  <a href="../cite/Ogerus/1212/CLI">Ogerus</a>
+
+  <a href="../cite/Petrus/1212/CLI">Petrus</a>
+
+  <a href="../cite/Teodoricus/1212/CLI">Teodoricus</a>
+
+  <a href="../cite/Willelmi/1212/CLI">Willelmi</a>
+
+  <a href="../cite/Willelmus/1212/CLI">Willelmus</a>
+
+  <a href="../cite/Wlfardus/1212/CLI">Wlfardus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

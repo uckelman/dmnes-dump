@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Hildewin</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Hildewin</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>hiltja</i> 'battle' + <span class="lang">Old High German</span> <i>wini</i> 'friend'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Childwinus</span> (<span class="case">nom</span>) <a href="../cite/Childwinus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 207</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Hildoinus</span> (<span class="case">nom</span>) <a href="../cite/Hildoinus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">58, CE</span></a>,
+ <span class="name">Hilduinus</span> (<span class="case">nom</span>) <a href="../cite/Hilduinus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">61b, CE</span></a>;
+ <span class="date">1135</span> <span class="name">Helduini</span> (<span class="case">gen</span>) <a href="../cite/Helduini/1135/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXVIII</span></a>;
+ <span class="date">1138x62</span> <span class="name">Hildewin</span> (<span class="case">gen</span>) <a href="../cite/Hildewin/1138x62/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">72</span></a>;
+ <span class="date">1143</span> <span class="name">Hilduinus</span> (<span class="case">nom</span>) <a href="../cite/Hilduinus/1143/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>,
+ <span class="name">Hylduinus</span> (<span class="case">nom</span>) <a href="../cite/Hylduinus/1143/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1143x1146</span> <span class="name">Hilduinus</span> (<span class="case">nom</span>) <a href="../cite/Hilduinus/1143x1146/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1145</span> <span class="name">Hilduinus</span> (<span class="case">nom</span>) <a href="../cite/Hilduinus/1145/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>,
+ <span class="name">Hylduinus</span> (<span class="case">nom</span>) <a href="../cite/Hylduinus/1145/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>;
+ <span class="date">1147</span> <span class="name">Hilduinus</span> (<span class="case">nom</span>) <a href="../cite/Hilduinus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Ilduino</span> (<span class="case">abl</span>) <a href="../cite/Ilduino/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Ilduinus</span> (<span class="case">nom</span>) <a href="../cite/Ilduinus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1147x1161</span> <span class="name">Hylduinus</span> (<span class="case">nom</span>) <a href="../cite/Hylduinus/1147x1161/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">38</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Hylduinus</span> (<span class="case">nom</span>) <a href="../cite/Hylduinus/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">55</span></a>;
+ <span class="date">1150</span> <span class="name">Hylduinus</span> (<span class="case">nom</span>) <a href="../cite/Hylduinus/1150/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">22</span></a>;
+ <span class="date">1154</span> <span class="name">Hilduinus</span> (<span class="case">nom</span>) <a href="../cite/Hilduinus/1154/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1163</span> <span class="name">Hylduuini</span> (<span class="case">gen</span>) <a href="../cite/Hylduuini/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1179</span> <span class="name">Hilduinus</span> (<span class="case">nom</span>) <a href="../cite/Hilduinus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">181</span></a>,
+ <span class="name">Hylduinus</span> (<span class="case">nom</span>) <a href="../cite/Hylduinus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">181</span></a>;
+ <span class="date">1180</span> <span class="name">Helduini</span> (<span class="case">gen</span>) <a href="../cite/Helduini/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 26</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">825</span> <span class="name">Hilduinus</span> (<span class="case">nom</span>) <a href="../cite/Hilduinus/825/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">844</span> <span class="name">hildiuini</span> (<span class="case">gen</span>) <a href="../cite/hildiuini/844/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">2</span></a>;
+ <span class="date">855</span> <span class="name">Hildiuini</span> (<span class="case">gen</span>) <a href="../cite/Hildiuini/855/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Hildewin". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Hildewin.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

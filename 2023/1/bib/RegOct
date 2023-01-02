@@ -1,0 +1,986 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>RegOct</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>RegOct</dt>
+  <dd>Mario Alberto Sughi, editor. <em>Registrum Octaviani Alias Liber Niger: The Registre of Octavian de Palatio, Archbishop of Armagh, 1478-1513</em>, volume II. Dublin: Irish Manuscripts Commission, 1999.</dd>
+</dl>
+
+
+  <a href="../cite/Ada/1496/RegOct">Ada</a>
+
+  <a href="../cite/Adam/1490s1/RegOct">Adam</a>
+
+  <a href="../cite/Adam/1491/RegOct">Adam</a>
+
+  <a href="../cite/Ade/1432/RegOct">Ade</a>
+
+  <a href="../cite/Ade/1490s1/RegOct">Ade</a>
+
+  <a href="../cite/Agnes/1490s1/RegOct">Agnes</a>
+
+  <a href="../cite/Alani/c1456/RegOct">Alani</a>
+
+  <a href="../cite/Alanum/1479/RegOct">Alanum</a>
+
+  <a href="../cite/Alexandri/1487/RegOct">Alexandri</a>
+
+  <a href="../cite/Alexandri/1494/RegOct">Alexandri</a>
+
+  <a href="../cite/Alexandri/1496/RegOct">Alexandri</a>
+
+  <a href="../cite/Alexandro/1487/RegOct">Alexandro</a>
+
+  <a href="../cite/Alexandrum/1487/RegOct">Alexandrum</a>
+
+  <a href="../cite/Aliciam/1444/RegOct">Aliciam</a>
+
+  <a href="../cite/Alsona/1490s1/RegOct">Alsona</a>
+
+  <a href="../cite/Andree/1435/RegOct">Andree</a>
+
+  <a href="../cite/Annam/1488/RegOct">Annam</a>
+
+  <a href="../cite/Arthuro/1433/RegOct">Arthuro</a>
+
+  <a href="../cite/Arthuro/1434/RegOct">Arthuro</a>
+
+  <a href="../cite/Arthuro/1436/RegOct">Arthuro</a>
+
+  <a href="../cite/Barnabe/c1505x1510/RegOct">Barnabe</a>
+
+  <a href="../cite/Barnardum/1460/RegOct">Barnardum</a>
+
+  <a href="../cite/Bartholomeum/1460/RegOct">Bartholomeum</a>
+
+  <a href="../cite/Bartholomeum/1431/RegOct">Bartholomeum</a>
+
+  <a href="../cite/Bartholomeum/1489/RegOct">Bartholomeum</a>
+
+  <a href="../cite/Bernabe/c1505x1510/RegOct">Bernabe</a>
+
+  <a href="../cite/Bren/1479/RegOct">Bren</a>
+
+  <a href="../cite/Carolo/1434/RegOct">Carolo</a>
+
+  <a href="../cite/Carolo/1433/RegOct">Carolo</a>
+
+  <a href="../cite/Christino/1436/RegOct">Christino</a>
+
+  <a href="../cite/Christinum/1436/RegOct">Christinum</a>
+
+  <a href="../cite/Christoforo/1460/RegOct">Christoforo</a>
+
+  <a href="../cite/Christoforo/1496/RegOct">Christoforo</a>
+
+  <a href="../cite/Christoforus/1444/RegOct">Christoforus</a>
+
+  <a href="../cite/Cormaci/1460/RegOct">Cormaci</a>
+
+  <a href="../cite/Cormaco/1460/RegOct">Cormaco</a>
+
+  <a href="../cite/Cormacum/1436/RegOct">Cormacum</a>
+
+  <a href="../cite/Cormacum/1482/RegOct">Cormacum</a>
+
+  <a href="../cite/Cormacus/1460/RegOct">Cormacus</a>
+
+  <a href="../cite/Cornelio/1482/RegOct">Cornelio</a>
+
+  <a href="../cite/Cristino/1433/RegOct">Cristino</a>
+
+  <a href="../cite/David/1501/RegOct">David</a>
+
+  <a href="../cite/David/1434/RegOct">David</a>
+
+  <a href="../cite/David/1433/RegOct">David</a>
+
+  <a href="../cite/David/1460/RegOct">David</a>
+
+  <a href="../cite/David/c1431/RegOct">David</a>
+
+  <a href="../cite/David/1479/RegOct">David</a>
+
+  <a href="../cite/David/1431/RegOct">David</a>
+
+  <a href="../cite/Dionisio/1435/RegOct">Dionisio</a>
+
+  <a href="../cite/Dionisium/1497/RegOct">Dionisium</a>
+
+  <a href="../cite/Dionisius/1435/RegOct">Dionisius</a>
+
+  <a href="../cite/Donaldi/1433/RegOct">Donaldi</a>
+
+  <a href="../cite/Donaldi/1432/RegOct">Donaldi</a>
+
+  <a href="../cite/Donaldi/c1431x1432/RegOct">Donaldi</a>
+
+  <a href="../cite/Donaldo/1434/RegOct">Donaldo</a>
+
+  <a href="../cite/Donaldum/1479/RegOct">Donaldum</a>
+
+  <a href="../cite/Donaldum/1497/RegOct">Donaldum</a>
+
+  <a href="../cite/Donaldus/1491/RegOct">Donaldus</a>
+
+  <a href="../cite/Donato/1434/RegOct">Donato</a>
+
+  <a href="../cite/Donatum/1497/RegOct">Donatum</a>
+
+  <a href="../cite/Edmundo/1501/RegOct">Edmundo</a>
+
+  <a href="../cite/Edmundum/1487/RegOct">Edmundum</a>
+
+  <a href="../cite/Edmundum/1501/RegOct">Edmundum</a>
+
+  <a href="../cite/Edwardo/1496/RegOct">Edwardo</a>
+
+  <a href="../cite/Edwardum/1496/RegOct">Edwardum</a>
+
+  <a href="../cite/Edwardus/1496/RegOct">Edwardus</a>
+
+  <a href="../cite/Eugenii/1489/RegOct">Eugenii</a>
+
+  <a href="../cite/Eugenii/1433/RegOct">Eugenii</a>
+
+  <a href="../cite/Eugenio/1460/RegOct">Eugenio</a>
+
+  <a href="../cite/Eugenio/1433/RegOct">Eugenio</a>
+
+  <a href="../cite/Eugenio/1488/RegOct">Eugenio</a>
+
+  <a href="../cite/Fergallo/1482/RegOct">Fergallo</a>
+
+  <a href="../cite/Fynwole/1487/RegOct">Fynwole</a>
+
+  <a href="../cite/Galfride/1431/RegOct">Galfride</a>
+
+  <a href="../cite/Galfridi/1432/RegOct">Galfridi</a>
+
+  <a href="../cite/Galfridi/1444/RegOct">Galfridi</a>
+
+  <a href="../cite/Galfrido/1496/RegOct">Galfrido</a>
+
+  <a href="../cite/Galfridum/1497/RegOct">Galfridum</a>
+
+  <a href="../cite/Galfridum/1444/RegOct">Galfridum</a>
+
+  <a href="../cite/Galfridus/1444/RegOct">Galfridus</a>
+
+  <a href="../cite/Gelasium/1492/RegOct">Gelasium</a>
+
+  <a href="../cite/Georgium/1497/RegOct">Georgium</a>
+
+  <a href="../cite/Geraldus/c1456/RegOct">Geraldus</a>
+
+  <a href="../cite/Geraldus/1496/RegOct">Geraldus</a>
+
+  <a href="../cite/Henrici/1479/RegOct">Henrici</a>
+
+  <a href="../cite/Henrici/1434/RegOct">Henrici</a>
+
+  <a href="../cite/Henrici/1491/RegOct">Henrici</a>
+
+  <a href="../cite/Henrici/1490s1/RegOct">Henrici</a>
+
+  <a href="../cite/Henrici/1431/RegOct">Henrici</a>
+
+  <a href="../cite/Henrici/1460/RegOct">Henrici</a>
+
+  <a href="../cite/Henrico/1434/RegOct">Henrico</a>
+
+  <a href="../cite/Henrico/1431/RegOct">Henrico</a>
+
+  <a href="../cite/Henrico/1496/RegOct">Henrico</a>
+
+  <a href="../cite/Henrico/1479/RegOct">Henrico</a>
+
+  <a href="../cite/Henrico/1432/RegOct">Henrico</a>
+
+  <a href="../cite/Henrico/1501/RegOct">Henrico</a>
+
+  <a href="../cite/Henrico/1488/RegOct">Henrico</a>
+
+  <a href="../cite/Henricum/1501/RegOct">Henricum</a>
+
+  <a href="../cite/Henricum/1479/RegOct">Henricum</a>
+
+  <a href="../cite/Henricum/c1431/RegOct">Henricum</a>
+
+  <a href="../cite/Henricum/1430/RegOct">Henricum</a>
+
+  <a href="../cite/Henricum/1492/RegOct">Henricum</a>
+
+  <a href="../cite/Henricum/1491/RegOct">Henricum</a>
+
+  <a href="../cite/Henricum/1488/RegOct">Henricum</a>
+
+  <a href="../cite/Henricum/1431/RegOct">Henricum</a>
+
+  <a href="../cite/Henricum/1432/RegOct">Henricum</a>
+
+  <a href="../cite/Henricus/1431/RegOct">Henricus</a>
+
+  <a href="../cite/Hugo/1496/RegOct">Hugo</a>
+
+  <a href="../cite/Hugone/1496/RegOct">Hugone</a>
+
+  <a href="../cite/Hugonem/1496/RegOct">Hugonem</a>
+
+  <a href="../cite/Hugonem/1431/RegOct">Hugonem</a>
+
+  <a href="../cite/Hugoni/1496/RegOct">Hugoni</a>
+
+  <a href="../cite/Hugonis/1450/RegOct">Hugonis</a>
+
+  <a href="../cite/Iachobum/1479/RegOct">Iachobum</a>
+
+  <a href="../cite/Iacobi/1497/RegOct">Iacobi</a>
+
+  <a href="../cite/Iacobo/1496/RegOct">Iacobo</a>
+
+  <a href="../cite/Iacobo/1460/RegOct">Iacobo</a>
+
+  <a href="../cite/Iacobum/1501/RegOct">Iacobum</a>
+
+  <a href="../cite/Iacobum/1431/RegOct">Iacobum</a>
+
+  <a href="../cite/Iacobum/1479/RegOct">Iacobum</a>
+
+  <a href="../cite/Iacobus/1496/RegOct">Iacobus</a>
+
+  <a href="../cite/Iacobus/c1456/RegOct">Iacobus</a>
+
+  <a href="../cite/Ianico/1457/RegOct">Ianico</a>
+
+  <a href="../cite/Ienkinum/1457/RegOct">Ienkinum</a>
+
+  <a href="../cite/Ienkinus/1457/RegOct">Ienkinus</a>
+
+  <a href="../cite/Ienkyn/1479/RegOct">Ienkyn</a>
+
+  <a href="../cite/Ienkyn/1491/RegOct">Ienkyn</a>
+
+  <a href="../cite/Ienkyne/1479/RegOct">Ienkyne</a>
+
+  <a href="../cite/Ienkyne/1490s1/RegOct">Ienkyne</a>
+
+  <a href="../cite/Innocencii/1489/RegOct">Innocencii</a>
+
+  <a href="../cite/Innocencius/1489/RegOct">Innocencius</a>
+
+  <a href="../cite/Innocentii/1488/RegOct">Innocentii</a>
+
+  <a href="../cite/Iohanna/1430/RegOct">Iohanna</a>
+
+  <a href="../cite/Iohannam/1430/RegOct">Iohannam</a>
+
+  <a href="../cite/Iohanne/1430/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1494/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1434/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1460/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1496/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1487/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1488/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1444/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1431/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1497/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1491/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1430/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1436/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1479/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohanne/1433/RegOct">Iohanne</a>
+
+  <a href="../cite/Iohannel/1479/RegOct">Iohannel</a>
+
+  <a href="../cite/Iohannem/1431/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/1444/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/1488/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/1496/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/1433/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/c1431/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/1460/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/1497/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/1436/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/1434/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/1490s1/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/1479/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/1501/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannem/1430/RegOct">Iohannem</a>
+
+  <a href="../cite/Iohannes/1433/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1490s1/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1435/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1436/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1460/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1444/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/c1431x1432/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1491/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1501/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1479/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1434/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1492/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/c1431/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1432/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1431/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1496/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1450/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1430/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohannes/1494/RegOct">Iohannes</a>
+
+  <a href="../cite/Iohanni/c1493/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/1435/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/1434/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/1479/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/c1431/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/1450/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/1436/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/1431/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/1433/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/1430/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/1460/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/1488/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/1444/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohanni/1432/RegOct">Iohanni</a>
+
+  <a href="../cite/Iohannis/1434/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1435/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1430/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1450/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1444/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1433/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1431/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1494/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1436/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1489/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1479/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1497/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1490s1/RegOct">Iohannis</a>
+
+  <a href="../cite/Iohannis/1460/RegOct">Iohannis</a>
+
+  <a href="../cite/Ionetam/1487/RegOct">Ionetam</a>
+
+  <a href="../cite/Ionete/1487/RegOct">Ionete</a>
+
+  <a href="../cite/Johannem/1436/RegOct">Johannem</a>
+
+  <a href="../cite/Katerinam/1487/RegOct">Katerinam</a>
+
+  <a href="../cite/Katerine/1487/RegOct">Katerine</a>
+
+  <a href="../cite/Laucelote/1490s1/RegOct">Laucelote</a>
+
+  <a href="../cite/Launcelot/1444/RegOct">Launcelot</a>
+
+  <a href="../cite/Launcelote/1491/RegOct">Launcelote</a>
+
+  <a href="../cite/Launcelote/1490s1/RegOct">Launcelote</a>
+
+  <a href="../cite/Laurencio/1460/RegOct">Laurencio</a>
+
+  <a href="../cite/Laurencium/1460/RegOct">Laurencium</a>
+
+  <a href="../cite/Laurencium/1490s1/RegOct">Laurencium</a>
+
+  <a href="../cite/Laurencius/1490s1/RegOct">Laurencius</a>
+
+  <a href="../cite/Leonardo/1496/RegOct">Leonardo</a>
+
+  <a href="../cite/Leonardum/1496/RegOct">Leonardum</a>
+
+  <a href="../cite/Leonardus/1496/RegOct">Leonardus</a>
+
+  <a href="../cite/Malachiam/1496/RegOct">Malachiam</a>
+
+  <a href="../cite/Malachias/1496/RegOct">Malachias</a>
+
+  <a href="../cite/Malachie/1496/RegOct">Malachie</a>
+
+  <a href="../cite/Marci/1432/RegOct">Marci</a>
+
+  <a href="../cite/Marcum/1457/RegOct">Marcum</a>
+
+  <a href="../cite/Marcus/1450/RegOct">Marcus</a>
+
+  <a href="../cite/Margarete/c1505x1510/RegOct">Margarete</a>
+
+  <a href="../cite/Matheum/1497/RegOct">Matheum</a>
+
+  <a href="../cite/Matheum/1431/RegOct">Matheum</a>
+
+  <a href="../cite/Matildem/1488/RegOct">Matildem</a>
+
+  <a href="../cite/Matildi/1488/RegOct">Matildi</a>
+
+  <a href="../cite/Matildis/1479/RegOct">Matildis</a>
+
+  <a href="../cite/Mauricii/1430/RegOct">Mauricii</a>
+
+  <a href="../cite/Mauricio/1433/RegOct">Mauricio</a>
+
+  <a href="../cite/Mauricio/1496/RegOct">Mauricio</a>
+
+  <a href="../cite/Mauricio/1431/RegOct">Mauricio</a>
+
+  <a href="../cite/Mauricio/1434/RegOct">Mauricio</a>
+
+  <a href="../cite/Mauricio/1435/RegOct">Mauricio</a>
+
+  <a href="../cite/Mauricium/1434/RegOct">Mauricium</a>
+
+  <a href="../cite/Mauricium/1430/RegOct">Mauricium</a>
+
+  <a href="../cite/Mauricius/1434/RegOct">Mauricius</a>
+
+  <a href="../cite/Michael/1501/RegOct">Michael</a>
+
+  <a href="../cite/Michaelem/1489/RegOct">Michaelem</a>
+
+  <a href="../cite/Michaell/1501/RegOct">Michaell</a>
+
+  <a href="../cite/Milonis/1431/RegOct">Milonis</a>
+
+  <a href="../cite/Moricio/1460/RegOct">Moricio</a>
+
+  <a href="../cite/Nicholai/1433/RegOct">Nicholai</a>
+
+  <a href="../cite/Nicholai/1436/RegOct">Nicholai</a>
+
+  <a href="../cite/Nicholai/1430/RegOct">Nicholai</a>
+
+  <a href="../cite/Nicholao/1482/RegOct">Nicholao</a>
+
+  <a href="../cite/Nicholao/1460/RegOct">Nicholao</a>
+
+  <a href="../cite/Nicholaum/1431/RegOct">Nicholaum</a>
+
+  <a href="../cite/Nicholaum/1430/RegOct">Nicholaum</a>
+
+  <a href="../cite/Nicholaum/1501/RegOct">Nicholaum</a>
+
+  <a href="../cite/Nicholaum/1479/RegOct">Nicholaum</a>
+
+  <a href="../cite/Nicholaum/c1431/RegOct">Nicholaum</a>
+
+  <a href="../cite/Nicholaum/1436/RegOct">Nicholaum</a>
+
+  <a href="../cite/Nicholaus/1430/RegOct">Nicholaus</a>
+
+  <a href="../cite/Nicolao/1496/RegOct">Nicolao</a>
+
+  <a href="../cite/Nicolaum/1430/RegOct">Nicolaum</a>
+
+  <a href="../cite/Nicolaus/1431/RegOct">Nicolaus</a>
+
+  <a href="../cite/Octaviano/1497/RegOct">Octaviano</a>
+
+  <a href="../cite/Octaviano/1492/RegOct">Octaviano</a>
+
+  <a href="../cite/Octavianum/1479/RegOct">Octavianum</a>
+
+  <a href="../cite/Octavianus/c1505x1510/RegOct">Octavianus</a>
+
+  <a href="../cite/Odo/1460/RegOct">Odo</a>
+
+  <a href="../cite/Odo/1496/RegOct">Odo</a>
+
+  <a href="../cite/Odo/1457/RegOct">Odo</a>
+
+  <a href="../cite/Odone/1460/RegOct">Odone</a>
+
+  <a href="../cite/Odonem/1496/RegOct">Odonem</a>
+
+  <a href="../cite/Odonem/1457/RegOct">Odonem</a>
+
+  <a href="../cite/Odonem/1460/RegOct">Odonem</a>
+
+  <a href="../cite/Odoni/1496/RegOct">Odoni</a>
+
+  <a href="../cite/Odonis/1460/RegOct">Odonis</a>
+
+  <a href="../cite/Patricii/1436/RegOct">Patricii</a>
+
+  <a href="../cite/Patricii/1433/RegOct">Patricii</a>
+
+  <a href="../cite/Patricii/1489/RegOct">Patricii</a>
+
+  <a href="../cite/Patricio/1488/RegOct">Patricio</a>
+
+  <a href="../cite/Patricio/1479/RegOct">Patricio</a>
+
+  <a href="../cite/Patricio/1433/RegOct">Patricio</a>
+
+  <a href="../cite/Patricio/1450/RegOct">Patricio</a>
+
+  <a href="../cite/Patricio/c1431x1432/RegOct">Patricio</a>
+
+  <a href="../cite/Patricium/1436/RegOct">Patricium</a>
+
+  <a href="../cite/Patricium/1433/RegOct">Patricium</a>
+
+  <a href="../cite/Patricium/1496/RegOct">Patricium</a>
+
+  <a href="../cite/Patricium/1488/RegOct">Patricium</a>
+
+  <a href="../cite/Patricium/1479/RegOct">Patricium</a>
+
+  <a href="../cite/Patricium/1497/RegOct">Patricium</a>
+
+  <a href="../cite/Patricium/1492/RegOct">Patricium</a>
+
+  <a href="../cite/Patricius/1491/RegOct">Patricius</a>
+
+  <a href="../cite/Patricum/1496/RegOct">Patricum</a>
+
+  <a href="../cite/Petro/1479/RegOct">Petro</a>
+
+  <a href="../cite/Petro/1432/RegOct">Petro</a>
+
+  <a href="../cite/Petro/c1505x1510/RegOct">Petro</a>
+
+  <a href="../cite/Petro/1496/RegOct">Petro</a>
+
+  <a href="../cite/Petrum/1432/RegOct">Petrum</a>
+
+  <a href="../cite/Petrus/c1456/RegOct">Petrus</a>
+
+  <a href="../cite/Philippo/1460/RegOct">Philippo</a>
+
+  <a href="../cite/Philippo/1496/RegOct">Philippo</a>
+
+  <a href="../cite/Philippo/1430/RegOct">Philippo</a>
+
+  <a href="../cite/Philippum/1430/RegOct">Philippum</a>
+
+  <a href="../cite/Philippum/1496/RegOct">Philippum</a>
+
+  <a href="../cite/Philippum/1436/RegOct">Philippum</a>
+
+  <a href="../cite/Raulini/1490s1/RegOct">Raulini</a>
+
+  <a href="../cite/Raulino/1490s1/RegOct">Raulino</a>
+
+  <a href="../cite/Raulinum/1490s1/RegOct">Raulinum</a>
+
+  <a href="../cite/Raulyne/1490s1/RegOct">Raulyne</a>
+
+  <a href="../cite/Reginaldum/1431/RegOct">Reginaldum</a>
+
+  <a href="../cite/Renerium/1489/RegOct">Renerium</a>
+
+  <a href="../cite/Ricardi/c1431/RegOct">Ricardi</a>
+
+  <a href="../cite/Ricardi/1460/RegOct">Ricardi</a>
+
+  <a href="../cite/Ricardi/1431/RegOct">Ricardi</a>
+
+  <a href="../cite/Ricardi/1433/RegOct">Ricardi</a>
+
+  <a href="../cite/Ricardo/1496/RegOct">Ricardo</a>
+
+  <a href="../cite/Ricardo/1431/RegOct">Ricardo</a>
+
+  <a href="../cite/Ricardo/1487/RegOct">Ricardo</a>
+
+  <a href="../cite/Ricardo/1479/RegOct">Ricardo</a>
+
+  <a href="../cite/Ricardum/1491/RegOct">Ricardum</a>
+
+  <a href="../cite/Ricardum/1431/RegOct">Ricardum</a>
+
+  <a href="../cite/Ricardum/1430/RegOct">Ricardum</a>
+
+  <a href="../cite/Ricardum/1479/RegOct">Ricardum</a>
+
+  <a href="../cite/Ricardum/1487/RegOct">Ricardum</a>
+
+  <a href="../cite/Ricardum/c1431/RegOct">Ricardum</a>
+
+  <a href="../cite/Ricardum/1497/RegOct">Ricardum</a>
+
+  <a href="../cite/Ricardum/1460/RegOct">Ricardum</a>
+
+  <a href="../cite/Ricardum/1490s1/RegOct">Ricardum</a>
+
+  <a href="../cite/Ricardus/1460/RegOct">Ricardus</a>
+
+  <a href="../cite/Ricardus/1490s1/RegOct">Ricardus</a>
+
+  <a href="../cite/Ricardus/1431/RegOct">Ricardus</a>
+
+  <a href="../cite/Ricardus/1491/RegOct">Ricardus</a>
+
+  <a href="../cite/Ricardus/1430/RegOct">Ricardus</a>
+
+  <a href="../cite/Roberto/1479/RegOct">Roberto</a>
+
+  <a href="../cite/Roberto/1496/RegOct">Roberto</a>
+
+  <a href="../cite/Roberto/1450/RegOct">Roberto</a>
+
+  <a href="../cite/Roberto/1430/RegOct">Roberto</a>
+
+  <a href="../cite/Roberto/1487/RegOct">Roberto</a>
+
+  <a href="../cite/Robertum/1479/RegOct">Robertum</a>
+
+  <a href="../cite/Robertum/1430/RegOct">Robertum</a>
+
+  <a href="../cite/Robertum/1497/RegOct">Robertum</a>
+
+  <a href="../cite/Robertum/1431/RegOct">Robertum</a>
+
+  <a href="../cite/Robertum/1436/RegOct">Robertum</a>
+
+  <a href="../cite/Robertum/1435/RegOct">Robertum</a>
+
+  <a href="../cite/Robertum/c1431/RegOct">Robertum</a>
+
+  <a href="../cite/Robertum/1460/RegOct">Robertum</a>
+
+  <a href="../cite/Robertum/1496/RegOct">Robertum</a>
+
+  <a href="../cite/Robertum/1487/RegOct">Robertum</a>
+
+  <a href="../cite/Robertus/1496/RegOct">Robertus</a>
+
+  <a href="../cite/Robertus/1431/RegOct">Robertus</a>
+
+  <a href="../cite/Rogero/c1456/RegOct">Rogero</a>
+
+  <a href="../cite/Rogero/1496/RegOct">Rogero</a>
+
+  <a href="../cite/Rogero/1433/RegOct">Rogero</a>
+
+  <a href="../cite/Rogerum/1479/RegOct">Rogerum</a>
+
+  <a href="../cite/Rogerum/1490s1/RegOct">Rogerum</a>
+
+  <a href="../cite/Rogerus/1491/RegOct">Rogerus</a>
+
+  <a href="../cite/Rogerus/1490s1/RegOct">Rogerus</a>
+
+  <a href="../cite/Simon/1432/RegOct">Simon</a>
+
+  <a href="../cite/Simonem/1436/RegOct">Simonem</a>
+
+  <a href="../cite/Simonem/1432/RegOct">Simonem</a>
+
+  <a href="../cite/Simonem/1431/RegOct">Simonem</a>
+
+  <a href="../cite/Simoni/1431/RegOct">Simoni</a>
+
+  <a href="../cite/Simoni/1432/RegOct">Simoni</a>
+
+  <a href="../cite/Simonis/1444/RegOct">Simonis</a>
+
+  <a href="../cite/Stephani/1431/RegOct">Stephani</a>
+
+  <a href="../cite/Stephano/1496/RegOct">Stephano</a>
+
+  <a href="../cite/Stephano/1460/RegOct">Stephano</a>
+
+  <a href="../cite/Stephanum/1479/RegOct">Stephanum</a>
+
+  <a href="../cite/Stephanus/1479/RegOct">Stephanus</a>
+
+  <a href="../cite/Symon/1490s1/RegOct">Symon</a>
+
+  <a href="../cite/Symon/1491/RegOct">Symon</a>
+
+  <a href="../cite/Symone/1497/RegOct">Symone</a>
+
+  <a href="../cite/Symonem/1497/RegOct">Symonem</a>
+
+  <a href="../cite/Thoma/1491/RegOct">Thoma</a>
+
+  <a href="../cite/Thoma/1450/RegOct">Thoma</a>
+
+  <a href="../cite/Thoma/1488/RegOct">Thoma</a>
+
+  <a href="../cite/Thoma/1490s1/RegOct">Thoma</a>
+
+  <a href="../cite/Thoma/1487/RegOct">Thoma</a>
+
+  <a href="../cite/Thomam/1430/RegOct">Thomam</a>
+
+  <a href="../cite/Thomam/1482/RegOct">Thomam</a>
+
+  <a href="../cite/Thomam/1479/RegOct">Thomam</a>
+
+  <a href="../cite/Thomam/1490s1/RegOct">Thomam</a>
+
+  <a href="../cite/Thomam/1436/RegOct">Thomam</a>
+
+  <a href="../cite/Thomam/1492/RegOct">Thomam</a>
+
+  <a href="../cite/Thomam/1444/RegOct">Thomam</a>
+
+  <a href="../cite/Thomam/1491/RegOct">Thomam</a>
+
+  <a href="../cite/Thomam/1431/RegOct">Thomam</a>
+
+  <a href="../cite/Thomam/1494/RegOct">Thomam</a>
+
+  <a href="../cite/Thomam/c1493/RegOct">Thomam</a>
+
+  <a href="../cite/Thoman/1497/RegOct">Thoman</a>
+
+  <a href="../cite/Thomas/1479/RegOct">Thomas</a>
+
+  <a href="../cite/Thomas/1488/RegOct">Thomas</a>
+
+  <a href="../cite/Thomas/1490s1/RegOct">Thomas</a>
+
+  <a href="../cite/Thomas/c1431/RegOct">Thomas</a>
+
+  <a href="../cite/Thomas/1491/RegOct">Thomas</a>
+
+  <a href="../cite/Thomas/1482/RegOct">Thomas</a>
+
+  <a href="../cite/Thomas/1487/RegOct">Thomas</a>
+
+  <a href="../cite/Thomas/1431/RegOct">Thomas</a>
+
+  <a href="../cite/Thome/c1431/RegOct">Thome</a>
+
+  <a href="../cite/Thome/1444/RegOct">Thome</a>
+
+  <a href="../cite/Thome/1431/RegOct">Thome</a>
+
+  <a href="../cite/Thome/1496/RegOct">Thome</a>
+
+  <a href="../cite/Tyrnaci/1432/RegOct">Tyrnaci</a>
+
+  <a href="../cite/Walteri/1460/RegOct">Walteri</a>
+
+  <a href="../cite/Walteri/1432/RegOct">Walteri</a>
+
+  <a href="../cite/Waltero/1479/RegOct">Waltero</a>
+
+  <a href="../cite/Waltero/1496/RegOct">Waltero</a>
+
+  <a href="../cite/Walterum/1460/RegOct">Walterum</a>
+
+  <a href="../cite/Walterum/1490s1/RegOct">Walterum</a>
+
+  <a href="../cite/Walterum/1479/RegOct">Walterum</a>
+
+  <a href="../cite/Walterum/1430/RegOct">Walterum</a>
+
+  <a href="../cite/Walterum/1497/RegOct">Walterum</a>
+
+  <a href="../cite/Walterum/1492/RegOct">Walterum</a>
+
+  <a href="../cite/Walterus/1490s1/RegOct">Walterus</a>
+
+  <a href="../cite/Walterus/1491/RegOct">Walterus</a>
+
+  <a href="../cite/Willelmi/c1431/RegOct">Willelmi</a>
+
+  <a href="../cite/Willelmi/1431/RegOct">Willelmi</a>
+
+  <a href="../cite/Willelmi/1487/RegOct">Willelmi</a>
+
+  <a href="../cite/Willelmi/1479/RegOct">Willelmi</a>
+
+  <a href="../cite/Willelmi/1430/RegOct">Willelmi</a>
+
+  <a href="../cite/Willelmi/1490s1/RegOct">Willelmi</a>
+
+  <a href="../cite/Willelmo/1479/RegOct">Willelmo</a>
+
+  <a href="../cite/Willelmo/1433/RegOct">Willelmo</a>
+
+  <a href="../cite/Willelmo/1431/RegOct">Willelmo</a>
+
+  <a href="../cite/Willelmo/1496/RegOct">Willelmo</a>
+
+  <a href="../cite/Willelmo/1488/RegOct">Willelmo</a>
+
+  <a href="../cite/Willelmo/1430/RegOct">Willelmo</a>
+
+  <a href="../cite/Willelmo/1450/RegOct">Willelmo</a>
+
+  <a href="../cite/Willelmo/1487/RegOct">Willelmo</a>
+
+  <a href="../cite/Willelmo/1444/RegOct">Willelmo</a>
+
+  <a href="../cite/Willelmo/1460/RegOct">Willelmo</a>
+
+  <a href="../cite/Willelmum/1431/RegOct">Willelmum</a>
+
+  <a href="../cite/Willelmum/1444/RegOct">Willelmum</a>
+
+  <a href="../cite/Willelmum/1497/RegOct">Willelmum</a>
+
+  <a href="../cite/Willelmum/1435/RegOct">Willelmum</a>
+
+  <a href="../cite/Willelmum/1457/RegOct">Willelmum</a>
+
+  <a href="../cite/Willelmum/1487/RegOct">Willelmum</a>
+
+  <a href="../cite/Willelmum/1430/RegOct">Willelmum</a>
+
+  <a href="../cite/Willelmum/1492/RegOct">Willelmum</a>
+
+  <a href="../cite/Willelmum/1450/RegOct">Willelmum</a>
+
+  <a href="../cite/Willelmus/c1493/RegOct">Willelmus</a>
+
+  <a href="../cite/Willelmus/1430/RegOct">Willelmus</a>
+
+  <a href="../cite/Willelmus/1479/RegOct">Willelmus</a>
+
+  <a href="../cite/Willelmus/1435/RegOct">Willelmus</a>
+
+  <a href="../cite/Willielmi/c1431/RegOct">Willielmi</a>
+
+  <a href="../cite/Willielmi/1491/RegOct">Willielmi</a>
+
+  <a href="../cite/Willielmi/1430/RegOct">Willielmi</a>
+
+  <a href="../cite/Willielmo/1430/RegOct">Willielmo</a>
+
+  <a href="../cite/Willielmum/1490s1/RegOct">Willielmum</a>
+
+  <a href="../cite/Willielmum/1436/RegOct">Willielmum</a>
+
+  <a href="../cite/Willielmus/1491/RegOct">Willielmus</a>
+
+  <a href="../cite/Willielmus/1490s1/RegOct">Willielmus</a>
+
+  <a href="../cite/Willielmus/1501/RegOct">Willielmus</a>
+
+  <a href="../cite/iacobo/1479/RegOct">iacobo</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

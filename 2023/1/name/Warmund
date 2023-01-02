@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Warmund</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Warmund</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A derivative of <span class="lang">Old Saxon</span> <i>waru</i>, <span class="lang">Old High German</span> <i>wara</i> 'protection, watch' + <span class="lang">Old Saxon</span> <i>mund</i>, <span class="lang">Old High German</span> <i>munt</i> 'hand, protection'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of the ancestor of the Mercian royal family.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1066</span> <span class="name">Warmundi</span> (<span class="case">gen</span>) <a href="../cite/Warmundi/1066/CartSPL1"><span class="bib_key">CartSPL1</span> <span class="bib_loc">II</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Garmund</span> (<span class="case">nom</span>) <a href="../cite/Garmund/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 115</span></a>,
+ <span class="name">Garmundus</span> (<span class="case">nom</span>) <a href="../cite/Garmundus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 116</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">11thC</span> <span class="name">Warmundus</span> (<span class="case">nom</span>) <a href="../cite/Warmundus/11thC/CartSPL1"><span class="bib_key">CartSPL1</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1101</span> <span class="name">Guarmundi</span> (<span class="case">gen</span>) <a href="../cite/Guarmundi/1101/CartSPL1"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1119</span> <span class="name">Warmundus</span> (<span class="case">nom</span>) <a href="../cite/Warmundus/1119/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1121</span> <span class="name">Garmundi</span> (<span class="case">gen</span>) <a href="../cite/Garmundi/1121/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1123</span> <span class="name">Warmundo</span> (<span class="case">abl</span>) <a href="../cite/Warmundo/1123/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>,
+ <span class="name">Warmundus</span> (<span class="case">nom</span>) <a href="../cite/Warmundus/1123/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1139</span> <span class="name">Garmundi</span> (<span class="case">gen</span>) <a href="../cite/Garmundi/1139/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 371</span></a>;
+ <span class="date">1173</span> <span class="name">Guermundi</span> (<span class="case">gen</span>) <a href="../cite/Guermundi/1173/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">1-III</span></a>;
+ <span class="date">1258</span> <span class="name">Wermundo</span> (<span class="case">abl</span>) <a href="../cite/Wermundo/1258/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XI, Pentecost</span></a>;
+ <span class="date">1292</span> <span class="name">Germundus</span> (<span class="case">nom</span>) <a href="../cite/Germundus/1292/MemBret-I"><span class="bib_key">MemBret-I</span> <span class="bib_loc">1104</span></a>;
+ <span class="date">1301</span> <span class="name">Wermont</span> (<span class="case">gen</span>) <a href="../cite/Wermont/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 257</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Wermand</span> (<span class="case">nom</span>) <a href="../cite/Wermand/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§220</span></a>,
+ <span class="name">Wermundo</span> (<span class="case">abl</span>) <a href="../cite/Wermundo/822x875/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§130</span></a>;
+ <span class="date">828</span> <span class="name">Warmundi</span> (<span class="case">gen</span>) <a href="../cite/Warmundi/828/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 29</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Israel</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1115</span> <span class="name">Warmundus</span> (<span class="case">nom</span>) <a href="../cite/Warmundus/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1120</span> <span class="name">Warmundo</span> (<span class="case">abl</span>) <a href="../cite/Warmundo/1120/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a>,
+ <span class="name">Warmundus</span> (<span class="case">nom</span>) <a href="../cite/Warmundus/1120/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1154x1159</span> <span class="name">Guermundo</span> (<span class="case">abl</span>) <a href="../cite/Guermundo/1154x1159/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 333</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Warmund". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Warmund.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

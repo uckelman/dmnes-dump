@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Joseph</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Joseph</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>יוֹסֵף</i> 'God will increase'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a Biblical patriarch, the Biblical father of Jesus, and a 1st C saint. Wycliffite Bible (1395): <i>Joseph</i>.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">763</span> <span class="name">Joseph</span> (<span class="case">nom</span>) <a href="../cite/Joseph/763/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">1</span></a>,
+ <span class="name">Josephus</span> (<span class="case">nom</span>) <a href="../cite/Josephus/763/FRA-XXXL"><span class="bib_key">ibid.</span> <span class="bib_loc">1</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1569</span> <span class="name">Joseph</span> (<span class="case">nom</span>) <a href="../cite/Joseph/1569/ChronSH"><span class="bib_key">ChronSH</span> <span class="bib_loc">p. 12</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1512</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1512/MPSA"><span class="bib_key">MPSA</span> <span class="bib_loc">p. 53 [sic]</span></a>;
+ <span class="date">1597x1598</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 389</span></a>,
+ <span class="name">Josephs</span> (<span class="case">gen</span>) <a href="../cite/Josephs/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 372</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Joseph</span> (<span class="case">nom</span>) <a href="../cite/Joseph/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 114</span></a>;
+ <span class="date">1377</span> <span class="name">Josep'</span> (<span class="case">nom</span>) <a href="../cite/Josep'/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1591</span> <span class="name">Josephus</span> (<span class="case">nom</span>) <a href="../cite/Josephus/1591/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Orssele</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1591</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1591/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Merrisone</span></a>;
+ <span class="date">1593</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Vincke</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1563</span> <span class="name">Jesippe</span> <a href="../cite/Jesippe/1563/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1571</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1571/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1572/3</span> <span class="name">Josephe</span> <a href="../cite/Josephe/1572s3/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 172</span></a>;
+ <span class="date">1583/4</span> <span class="name">Iosephe</span> <a href="../cite/Iosephe/1583s4/SurMus"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1583</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1583/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1586</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1586/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/Joseph/1586/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1591</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1591/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 141</span></a>;
+ <span class="date">1595</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1597</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1597/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1598</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 38</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1568</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1568/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1574</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1574/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1591</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1591/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1590</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1590/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1590/1</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1590s1/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1591</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1591/2</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1591s2/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1592</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1593</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1594/5</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1594s5/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1597</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1597/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>;
+ <span class="date">1599</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1599/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1592</span> <span class="name">Jessa</span> <a href="../cite/Jessa/1592/Tiik1977"><span class="bib_key">Tiik1977</span> <span class="bib_loc">p. 286</span></a>,
+ <span class="name">Seppo</span> <a href="../cite/Seppo/1592/Tiik1977"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 286</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Oseppi</span> <a href="../cite/Oseppi/1582/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 172</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1032x1064</span> <span class="name">Joseph</span> (<span class="case">nom</span>) <a href="../cite/Joseph/1032x1064/LDS"><span class="bib_key">LDS</span> <span class="bib_loc">LXIV</span></a>;
+ <span class="date">1310</span> <span class="name">Josephi</span> (<span class="case">gen</span>) <a href="../cite/Josephi/1310/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">IX</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1294</span> <span class="name">Josephe</span> (<span class="case">obl</span>) <a href="../cite/Josephe/c1294/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1313</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 37</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1565</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1565/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 121</span></a>;
+ <span class="date">1566</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 207</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">802</span> <span class="name">Joseppi</span> (<span class="case">gen</span>) <a href="../cite/Joseppi/802/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">7</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1303</span> <span class="name">Joseph</span> (<span class="case">nom</span>) <a href="../cite/Joseph/1303/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 237, s.n. Joseph</span></a>;
+ <span class="date">1312</span> <span class="name">Joseph</span> (<span class="case">gen</span>) <a href="../cite/Joseph/1312/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 237, s.n. Joseph</span></a>;
+ <span class="date">1330</span> <span class="name">Joseph</span> (<span class="case">abl</span>) <a href="../cite/Joseph/1330/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 237, s.n. Joseph</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Iosep</span> (<span class="case">nom</span>) <a href="../cite/Iosep/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 18</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Yoseppi</span> (<span class="case">gen</span>) <a href="../cite/Yoseppi/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">58</span></a>;
+ <span class="date">1326</span> <span class="name">Josepho</span> (<span class="case">abl</span>) <a href="../cite/Josepho/1326/Friuli-14thC"><span class="bib_key">Friuli-14thC</span> <span class="bib_loc">no. 422</span></a>;
+ <span class="date">1376</span> <span class="name">Iosepe</span> (<span class="case">abl</span>) <a href="../cite/Iosepe/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 147</span></a>;
+ <span class="date">1527</span> <span class="name">Joseph</span> (<span class="case">nom</span>) <a href="../cite/Joseph/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 84</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1429–1430</span> <span class="name">Giusafa</span> <a href="../cite/Giusafa/1429–1430/DiaryLMA"><span class="bib_key">DiaryLMA</span> <span class="bib_loc">p. 208</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1297</span> <span class="name">Yosep</span> (<span class="case">dat</span>) <a href="../cite/Yosep/1297/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">267</span></a>;
+ <span class="date">1299</span> <span class="name">Joseph</span> (<span class="case">dat</span>) <a href="../cite/Joseph/1299/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">278</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1567</span> <span class="name">Joseph</span> <a href="../cite/Joseph/1567/SanzSerrano"><span class="bib_key">SanzSerrano</span></a>;
+ <span class="date">1575</span> <span class="name">Jusepe</span> <a href="../cite/Jusepe/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3855</span></a>;
+ <span class="date">1576</span> <span class="name">Josepe</span> <a href="../cite/Josepe/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3919</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Joseph</span> (<span class="case">dat</span>) <a href="../cite/Joseph/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6060</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1195</span> <span class="name">Josephus</span> (<span class="case">nom</span>) <a href="../cite/Josephus/1195/CartChart"><span class="bib_key">CartChart</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1220</span> <span class="name">Joseph</span> (<span class="case">nom</span>) <a href="../cite/Joseph/1220/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">37</span></a>;
+ <span class="date">1248</span> <span class="name">Joseph</span> (<span class="case">nom</span>) <a href="../cite/Joseph/1248/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">51</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, M. Slíz, S.L. Uckelman. "Joseph". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Joseph.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

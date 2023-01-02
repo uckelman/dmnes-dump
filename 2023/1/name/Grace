@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Grace</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Grace</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>gratia</i> 'favor, goodwill, kindness; gratitude; grace'.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>Like other virtue names, <i>Grace</i> was not much used in England before the 16th C, but unlike other virtue names, it shows up elsewhere much earlier.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1558</span> <span class="name">Gratia</span> (<span class="case">nom</span>) <a href="../cite/Gratia/1558/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 59</span></a>;
+ <span class="date">1559/60</span> <span class="name">Grace</span> (<span class="case">nom</span>) <a href="../cite/Grace/1559s60/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1560</span> <span class="name">Gracia</span> (<span class="case">nom</span>) <a href="../cite/Gracia/1560/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1561</span> <span class="name">Grace</span> (<span class="case">nom</span>) <a href="../cite/Grace/1561/Chst-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1579</span> <span class="name">Gracia</span> (<span class="case">nom</span>) <a href="../cite/Gracia/1579/Reg-KirkElla"><span class="bib_key">Reg-KirkElla</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Gratia</span> (<span class="case">nom</span>) <a href="../cite/Gratia/1579/Reg-KirkElla"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Grace</span> <a href="../cite/Grace/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1532–1533</span> <span class="name">Grace</span> <a href="../cite/Grace/1532–1533/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1534</span> <span class="name">Grace</span> <a href="../cite/Grace/1534/CovGuild-2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1542</span> <span class="name">Grace</span> <a href="../cite/Grace/1542/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1543</span> <span class="name">Grace</span> <a href="../cite/Grace/1543/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1545</span> <span class="name">Grace</span> <a href="../cite/Grace/1545/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1548</span> <span class="name">Grace</span> <a href="../cite/Grace/1548/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1551</span> <span class="name">Grace</span> <a href="../cite/Grace/1551/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1552</span> <span class="name">Grace</span> <a href="../cite/Grace/1552/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1553</span> <span class="name">Grace</span> <a href="../cite/Grace/1553/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1554</span> <span class="name">Grace</span> <a href="../cite/Grace/1554/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1555</span> <span class="name">Grace</span> <a href="../cite/Grace/1555/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1556</span> <span class="name">Grace</span> <a href="../cite/Grace/1556/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>,
+ <a href="../cite/Grace/1556/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1557</span> <span class="name">Grace</span> <a href="../cite/Grace/1557/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1559</span> <span class="name">Grace</span> <a href="../cite/Grace/1559/BarnstapleBap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/Grace/1559/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1562</span> <span class="name">Grace</span> <a href="../cite/Grace/1562/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1565</span> <span class="name">Grace</span> <a href="../cite/Grace/1565/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1567</span> <span class="name">Grace</span> <a href="../cite/Grace/1567/COmar-vol5"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 84</span></a>;
+ <span class="date">1568</span> <span class="name">Grace</span> <a href="../cite/Grace/1568/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1573</span> <span class="name">Grace</span> <a href="../cite/Grace/1573/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1574</span> <span class="name">Grace</span> <a href="../cite/Grace/1574/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1575</span> <span class="name">Grace</span> <a href="../cite/Grace/1575/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Grace/1575/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1577</span> <span class="name">Grace</span> <a href="../cite/Grace/1577/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 83</span></a>,
+ <a href="../cite/Grace/1577/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1578</span> <span class="name">Grace</span> <a href="../cite/Grace/1578/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1579</span> <span class="name">Grace</span> <a href="../cite/Grace/1579/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1580</span> <span class="name">Grace</span> <a href="../cite/Grace/1580/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1582</span> <span class="name">Grace</span> <a href="../cite/Grace/1582/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1583</span> <span class="name">Grace</span> <a href="../cite/Grace/1583/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 49</span></a>,
+ <a href="../cite/Grace/1583/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Grace/1583/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1585</span> <span class="name">Grace</span> <a href="../cite/Grace/1585/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 11</span></a>,
+ <a href="../cite/Grace/1585/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1586</span> <span class="name">Grace</span> <a href="../cite/Grace/1586/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 102</span></a>,
+ <a href="../cite/Grace/1586/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 85</span></a>;
+ <span class="date">1587</span> <span class="name">Grace</span> <a href="../cite/Grace/1587/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1589</span> <span class="name">Grace</span> <a href="../cite/Grace/1589/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 23</span></a>,
+ <a href="../cite/Grace/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1590</span> <span class="name">Grace</span> <a href="../cite/Grace/1590/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 30</span></a>,
+ <a href="../cite/Grace/1590/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>,
+ <a href="../cite/Grace/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 21</span></a>,
+ <a href="../cite/Grace/1590/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1592</span> <span class="name">Grace</span> <a href="../cite/Grace/1592/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 49</span></a>,
+ <a href="../cite/Grace/1592/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 25</span></a>,
+ <a href="../cite/Grace/1592/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1593</span> <span class="name">Grace</span> <a href="../cite/Grace/1593/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 24</span></a>,
+ <a href="../cite/Grace/1593/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 27</span></a>,
+ <a href="../cite/Grace/1593/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1594</span> <span class="name">Grace</span> <a href="../cite/Grace/1594/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 102</span></a>,
+ <a href="../cite/Grace/1594/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 87</span></a>,
+ <a href="../cite/Grace/1594/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1596</span> <span class="name">Grace</span> <a href="../cite/Grace/1596/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Grace/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1598</span> <span class="name">Grace</span> <a href="../cite/Grace/1598/DEmar-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1599</span> <span class="name">Grace</span> <a href="../cite/Grace/1599/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 73</span></a>,
+ <a href="../cite/Grace/1599/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 16</span></a>,
+ <a href="../cite/Grace/1599/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 57</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1287</span> <span class="name">Gracia</span> (<span class="case">nom</span>) <a href="../cite/Gracia/1287/GasReg-A"><span class="bib_key">GasReg-A</span> <span class="bib_loc">p. 74</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Gracia</span> (<span class="case">nom</span>) <a href="../cite/Gracia/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">42</span></a>;
+ <span class="date">1285</span> <span class="name">Gratie</span> (<span class="case">gen</span>) <a href="../cite/Gratie/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 161</span></a>;
+ <span class="date">1387</span> <span class="name">Gratia</span> (<span class="case">abl</span>) <a href="../cite/Gratia/1387/Venditti"><span class="bib_key">Venditti</span> <span class="bib_loc">II-56</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1265x1339</span> <span class="name">Graciola</span> (<span class="case">nom</span>) <a href="../cite/Graciola/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">1495</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1429–1430</span> <span class="name">Gratia</span> <a href="../cite/Gratia/1429–1430/DiaryLMA"><span class="bib_key">DiaryLMA</span> <span class="bib_loc">p. 224</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1217</span> <span class="name">Gratiæ</span> (<span class="case">gen</span>) <a href="../cite/Gratiæ/1217/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 21</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1492</span> <span class="name">Gratia</span> (<span class="case">nom</span>) <a href="../cite/Gratia/1492/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 66</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Gracia</span> <a href="../cite/Gracia/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3428</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1496</span> <span class="name">Gratia</span> <a href="../cite/Gratia/1496/olite1496"><span class="bib_key">olite1496</span> <span class="bib_loc">p. 182</span></a>;
+ <span class="date">1576</span> <span class="name">Gracia</span> <a href="../cite/Gracia/1576/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3924</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Welsh</span></dt>
+<dd><span class="dim">●</span> <span class="date">1582</span> <span class="name">Grace</span> <a href="../cite/Grace/1582/RegCon1"><span class="bib_key">RegCon1</span> <span class="bib_loc">p. 37</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, S.L. Uckelman. "Grace". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Grace.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

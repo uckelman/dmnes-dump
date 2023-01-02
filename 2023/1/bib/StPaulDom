@@ -1,0 +1,846 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>StPaulDom</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>StPaulDom</dt>
+  <dd>William Hale Hale, editor. <em>The Domesday of St. Paul's of the Year M.CC.XXII.; or, Registrum de Visitatione Maneriorum per Robertum Decanum</em>. Camden Society, 1858.</dd>
+</dl>
+
+
+  <a href="../cite/Abel/1222/StPaulDom">Abel</a>
+
+  <a href="../cite/Absolonus/1181/StPaulDom">Absolonus</a>
+
+  <a href="../cite/Adam/1222/StPaulDom">Adam</a>
+
+  <a href="../cite/Ade/1222/StPaulDom">Ade</a>
+
+  <a href="../cite/Adelicia/1240/StPaulDom">Adelicia</a>
+
+  <a href="../cite/Adelina/1222/StPaulDom">Adelina</a>
+
+  <a href="../cite/Aelberni/1222/StPaulDom">Aelberni</a>
+
+  <a href="../cite/Agnes/1222/StPaulDom">Agnes</a>
+
+  <a href="../cite/Agnete/1222/StPaulDom">Agnete</a>
+
+  <a href="../cite/Agnetem/1222/StPaulDom">Agnetem</a>
+
+  <a href="../cite/Ailida/1222/StPaulDom">Ailida</a>
+
+  <a href="../cite/Ailleva/1222/StPaulDom">Ailleva</a>
+
+  <a href="../cite/Ailmarus/1222/StPaulDom">Ailmarus</a>
+
+  <a href="../cite/Ailmeri/1181/StPaulDom">Ailmeri</a>
+
+  <a href="../cite/Ailrici/1222/StPaulDom">Ailrici</a>
+
+  <a href="../cite/Ailwardi/1222/StPaulDom">Ailwardi</a>
+
+  <a href="../cite/Ailwinus/1222/StPaulDom">Ailwinus</a>
+
+  <a href="../cite/Alani/1222/StPaulDom">Alani</a>
+
+  <a href="../cite/Alanus/1181/StPaulDom">Alanus</a>
+
+  <a href="../cite/Alanus/1222/StPaulDom">Alanus</a>
+
+  <a href="../cite/Alardum/1222/StPaulDom">Alardum</a>
+
+  <a href="../cite/Alaricus/1222/StPaulDom">Alaricus</a>
+
+  <a href="../cite/Albericum/1222/StPaulDom">Albericum</a>
+
+  <a href="../cite/Alditha/1222/StPaulDom">Alditha</a>
+
+  <a href="../cite/Aldithe/1222/StPaulDom">Aldithe</a>
+
+  <a href="../cite/Aldive/1222/StPaulDom">Aldive</a>
+
+  <a href="../cite/Alexandro/1222/StPaulDom">Alexandro</a>
+
+  <a href="../cite/Alfilda/1222/StPaulDom">Alfilda</a>
+
+  <a href="../cite/Alfilde/1222/StPaulDom">Alfilde</a>
+
+  <a href="../cite/Alfwinus/1222/StPaulDom">Alfwinus</a>
+
+  <a href="../cite/Algari/1181/StPaulDom">Algari</a>
+
+  <a href="../cite/Alicia/1222/StPaulDom">Alicia</a>
+
+  <a href="../cite/Alrici/1222/StPaulDom">Alrici</a>
+
+  <a href="../cite/Alueua/1222/StPaulDom">Alueua</a>
+
+  <a href="../cite/Alueue/1222/StPaulDom">Alueue</a>
+
+  <a href="../cite/Aluredi/1222/StPaulDom">Aluredi</a>
+
+  <a href="../cite/Aluredus/1222/StPaulDom">Aluredus</a>
+
+  <a href="../cite/Aluricus/1222/StPaulDom">Aluricus</a>
+
+  <a href="../cite/Alveva/1222/StPaulDom">Alveva</a>
+
+  <a href="../cite/Alwini/1181/StPaulDom">Alwini</a>
+
+  <a href="../cite/Alwini/1222/StPaulDom">Alwini</a>
+
+  <a href="../cite/Alwinus/1181/StPaulDom">Alwinus</a>
+
+  <a href="../cite/Andreas/1222/StPaulDom">Andreas</a>
+
+  <a href="../cite/Ankitillus/1222/StPaulDom">Ankitillus</a>
+
+  <a href="../cite/Apsolone/1222/StPaulDom">Apsolone</a>
+
+  <a href="../cite/Arnoldus/1222/StPaulDom">Arnoldus</a>
+
+  <a href="../cite/Arnulfus/1222/StPaulDom">Arnulfus</a>
+
+  <a href="../cite/Ascelina/1222/StPaulDom">Ascelina</a>
+
+  <a href="../cite/Aschitillus/1181/StPaulDom">Aschitillus</a>
+
+  <a href="../cite/Asketilli/1222/StPaulDom">Asketilli</a>
+
+  <a href="../cite/Asketillus/1222/StPaulDom">Asketillus</a>
+
+  <a href="../cite/Askillus/1222/StPaulDom">Askillus</a>
+
+  <a href="../cite/Askitillus/1222/StPaulDom">Askitillus</a>
+
+  <a href="../cite/Augustinus/1222/StPaulDom">Augustinus</a>
+
+  <a href="../cite/Auicia/1240/StPaulDom">Auicia</a>
+
+  <a href="../cite/Auicia/1181/StPaulDom">Auicia</a>
+
+  <a href="../cite/Avicia/1222/StPaulDom">Avicia</a>
+
+  <a href="../cite/Baldewini/1222/StPaulDom">Baldewini</a>
+
+  <a href="../cite/Baldewinus/1222/StPaulDom">Baldewinus</a>
+
+  <a href="../cite/Basilia/1222/StPaulDom">Basilia</a>
+
+  <a href="../cite/Basiliam/1222/StPaulDom">Basiliam</a>
+
+  <a href="../cite/Batholomeo/1222/StPaulDom">Batholomeo</a>
+
+  <a href="../cite/Beatricis/1222/StPaulDom">Beatricis</a>
+
+  <a href="../cite/Beatrix/1222/StPaulDom">Beatrix</a>
+
+  <a href="../cite/Bernardus/1222/StPaulDom">Bernardus</a>
+
+  <a href="../cite/Blithewini/1222/StPaulDom">Blithewini</a>
+
+  <a href="../cite/Brianus/1222/StPaulDom">Brianus</a>
+
+  <a href="../cite/Brichtmari/1222/StPaulDom">Brichtmari</a>
+
+  <a href="../cite/Brichtnothus/1222/StPaulDom">Brichtnothus</a>
+
+  <a href="../cite/Bricthmari/1222/StPaulDom">Bricthmari</a>
+
+  <a href="../cite/Cecilia/1222/StPaulDom">Cecilia</a>
+
+  <a href="../cite/Cecilia/1240/StPaulDom">Cecilia</a>
+
+  <a href="../cite/Cristina/1222/StPaulDom">Cristina</a>
+
+  <a href="../cite/Cristine/1222/StPaulDom">Cristine</a>
+
+  <a href="../cite/Damianus/1222/StPaulDom">Damianus</a>
+
+  <a href="../cite/David/1222/StPaulDom">David</a>
+
+  <a href="../cite/Dionisia/1222/StPaulDom">Dionisia</a>
+
+  <a href="../cite/Durandus/1222/StPaulDom">Durandus</a>
+
+  <a href="../cite/Durant/1222/StPaulDom">Durant</a>
+
+  <a href="../cite/Eadmundus/1222/StPaulDom">Eadmundus</a>
+
+  <a href="../cite/Edelina/1222/StPaulDom">Edelina</a>
+
+  <a href="../cite/Edeline/1222/StPaulDom">Edeline</a>
+
+  <a href="../cite/Edgarii/1222/StPaulDom">Edgarii</a>
+
+  <a href="../cite/Edgaro/1222/StPaulDom">Edgaro</a>
+
+  <a href="../cite/Editha/1222/StPaulDom">Editha</a>
+
+  <a href="../cite/Editha/1240/StPaulDom">Editha</a>
+
+  <a href="../cite/Ediva/1222/StPaulDom">Ediva</a>
+
+  <a href="../cite/Edmundus/1222/StPaulDom">Edmundus</a>
+
+  <a href="../cite/Edricus/1222/StPaulDom">Edricus</a>
+
+  <a href="../cite/Edwardi/1222/StPaulDom">Edwardi</a>
+
+  <a href="../cite/Edwardus/1222/StPaulDom">Edwardus</a>
+
+  <a href="../cite/Edwine/1222/StPaulDom">Edwine</a>
+
+  <a href="../cite/Edwinus/1222/StPaulDom">Edwinus</a>
+
+  <a href="../cite/Eilmarus/1222/StPaulDom">Eilmarus</a>
+
+  <a href="../cite/Elyas/1222/StPaulDom">Elyas</a>
+
+  <a href="../cite/Emma/1222/StPaulDom">Emma</a>
+
+  <a href="../cite/Ernoldus/1181/StPaulDom">Ernoldus</a>
+
+  <a href="../cite/Eudo/1222/StPaulDom">Eudo</a>
+
+  <a href="../cite/Eue/1222/StPaulDom">Eue</a>
+
+  <a href="../cite/Eustachii/1222/StPaulDom">Eustachii</a>
+
+  <a href="../cite/Eustachius/1222/StPaulDom">Eustachius</a>
+
+  <a href="../cite/Everardus/1222/StPaulDom">Everardus</a>
+
+  <a href="../cite/Felicia/1222/StPaulDom">Felicia</a>
+
+  <a href="../cite/Fulco/1222/StPaulDom">Fulco</a>
+
+  <a href="../cite/Fulcone/1222/StPaulDom">Fulcone</a>
+
+  <a href="../cite/Galfridi/1222/StPaulDom">Galfridi</a>
+
+  <a href="../cite/Galtero/1181/StPaulDom">Galtero</a>
+
+  <a href="../cite/Garini/1222/StPaulDom">Garini</a>
+
+  <a href="../cite/Garinus/1222/StPaulDom">Garinus</a>
+
+  <a href="../cite/Gemma/1240/StPaulDom">Gemma</a>
+
+  <a href="../cite/Gerarddus/1222/StPaulDom">Gerarddus</a>
+
+  <a href="../cite/Gerardum/1222/StPaulDom">Gerardum</a>
+
+  <a href="../cite/Gerardus/1222/StPaulDom">Gerardus</a>
+
+  <a href="../cite/Germani/1222/StPaulDom">Germani</a>
+
+  <a href="../cite/Gervasii/1222/StPaulDom">Gervasii</a>
+
+  <a href="../cite/Gervasium/1222/StPaulDom">Gervasium</a>
+
+  <a href="../cite/Gervasius/1222/StPaulDom">Gervasius</a>
+
+  <a href="../cite/Geva/1222/StPaulDom">Geva</a>
+
+  <a href="../cite/Geve/1222/StPaulDom">Geve</a>
+
+  <a href="../cite/Gilberti/1240/StPaulDom">Gilberti</a>
+
+  <a href="../cite/Gileberti/1181/StPaulDom">Gileberti</a>
+
+  <a href="../cite/Gileberto/1181/StPaulDom">Gileberto</a>
+
+  <a href="../cite/Giliberti/1222/StPaulDom">Giliberti</a>
+
+  <a href="../cite/Gilibertus/1222/StPaulDom">Gilibertus</a>
+
+  <a href="../cite/Gladewine/1181/StPaulDom">Gladewine</a>
+
+  <a href="../cite/Gladewinus/1181/StPaulDom">Gladewinus</a>
+
+  <a href="../cite/Gladewinus/1222/StPaulDom">Gladewinus</a>
+
+  <a href="../cite/Godardus/1222/StPaulDom">Godardus</a>
+
+  <a href="../cite/Godefridi/1222/StPaulDom">Godefridi</a>
+
+  <a href="../cite/Godefridus/1222/StPaulDom">Godefridus</a>
+
+  <a href="../cite/Godemar/1222/StPaulDom">Godemar</a>
+
+  <a href="../cite/Godive/1222/StPaulDom">Godive</a>
+
+  <a href="../cite/Godrich/1222/StPaulDom">Godrich</a>
+
+  <a href="../cite/Godrici/1222/StPaulDom">Godrici</a>
+
+  <a href="../cite/Godricus/1222/StPaulDom">Godricus</a>
+
+  <a href="../cite/Godsweini/1222/StPaulDom">Godsweini</a>
+
+  <a href="../cite/Godulfus/1222/StPaulDom">Godulfus</a>
+
+  <a href="../cite/Godwini/1222/StPaulDom">Godwini</a>
+
+  <a href="../cite/Godwinus/1181/StPaulDom">Godwinus</a>
+
+  <a href="../cite/Godwinus/1222/StPaulDom">Godwinus</a>
+
+  <a href="../cite/Golde/1222/StPaulDom">Golde</a>
+
+  <a href="../cite/Goldhauek/1222/StPaulDom">Goldhauek</a>
+
+  <a href="../cite/Goldstoni/1222/StPaulDom">Goldstoni</a>
+
+  <a href="../cite/Gonnilda/1181/StPaulDom">Gonnilda</a>
+
+  <a href="../cite/Goscelini/1222/StPaulDom">Goscelini</a>
+
+  <a href="../cite/Gregorius/1222/StPaulDom">Gregorius</a>
+
+  <a href="../cite/Guido/1222/StPaulDom">Guido</a>
+
+  <a href="../cite/Gunnilda/1222/StPaulDom">Gunnilda</a>
+
+  <a href="../cite/Gunnore/1222/StPaulDom">Gunnore</a>
+
+  <a href="../cite/Hamelinus/1222/StPaulDom">Hamelinus</a>
+
+  <a href="../cite/Hawesia/1222/StPaulDom">Hawesia</a>
+
+  <a href="../cite/Helias/1222/StPaulDom">Helias</a>
+
+  <a href="../cite/Helyas/1222/StPaulDom">Helyas</a>
+
+  <a href="../cite/Henrico/1181/StPaulDom">Henrico</a>
+
+  <a href="../cite/Henricus/1181/StPaulDom">Henricus</a>
+
+  <a href="../cite/Herebertus/1181/StPaulDom">Herebertus</a>
+
+  <a href="../cite/Heremannus/1222/StPaulDom">Heremannus</a>
+
+  <a href="../cite/Herewardus/1222/StPaulDom">Herewardus</a>
+
+  <a href="../cite/Hermannus/1222/StPaulDom">Hermannus</a>
+
+  <a href="../cite/Hildemarus/1222/StPaulDom">Hildemarus</a>
+
+  <a href="../cite/Hodierna/1222/StPaulDom">Hodierna</a>
+
+  <a href="../cite/Hugelin/1240/StPaulDom">Hugelin</a>
+
+  <a href="../cite/Hugo/1240/StPaulDom">Hugo</a>
+
+  <a href="../cite/Hugo/1222/StPaulDom">Hugo</a>
+
+  <a href="../cite/Hugo/1181/StPaulDom">Hugo</a>
+
+  <a href="../cite/Isabella/1222/StPaulDom">Isabella</a>
+
+  <a href="../cite/Jacobus/1222/StPaulDom">Jacobus</a>
+
+  <a href="../cite/Jeronimi/1222/StPaulDom">Jeronimi</a>
+
+  <a href="../cite/Johanne/1181/StPaulDom">Johanne</a>
+
+  <a href="../cite/Johanne/1222/StPaulDom">Johanne</a>
+
+  <a href="../cite/Johannes/1222/StPaulDom">Johannes</a>
+
+  <a href="../cite/Johannes/1240/StPaulDom">Johannes</a>
+
+  <a href="../cite/Johannes/1181/StPaulDom">Johannes</a>
+
+  <a href="../cite/Johanni/1222/StPaulDom">Johanni</a>
+
+  <a href="../cite/Jordani/1222/StPaulDom">Jordani</a>
+
+  <a href="../cite/Jordanus/1222/StPaulDom">Jordanus</a>
+
+  <a href="../cite/Juliana/1222/StPaulDom">Juliana</a>
+
+  <a href="../cite/Juliane/1222/StPaulDom">Juliane</a>
+
+  <a href="../cite/Jusstina/1222/StPaulDom">Jusstina</a>
+
+  <a href="../cite/Justina/1222/StPaulDom">Justina</a>
+
+  <a href="../cite/Kueneva/1222/StPaulDom">Kueneva</a>
+
+  <a href="../cite/Kweneve/1222/StPaulDom">Kweneve</a>
+
+  <a href="../cite/Lamberti/1240/StPaulDom">Lamberti</a>
+
+  <a href="../cite/Lambertus/1181/StPaulDom">Lambertus</a>
+
+  <a href="../cite/Lefchild/1222/StPaulDom">Lefchild</a>
+
+  <a href="../cite/Lefwinus/1181/StPaulDom">Lefwinus</a>
+
+  <a href="../cite/Legarda/1222/StPaulDom">Legarda</a>
+
+  <a href="../cite/Lidulfus/1222/StPaulDom">Lidulfus</a>
+
+  <a href="../cite/Liefricus/1222/StPaulDom">Liefricus</a>
+
+  <a href="../cite/Lucas/1222/StPaulDom">Lucas</a>
+
+  <a href="../cite/Lucia/1240/StPaulDom">Lucia</a>
+
+  <a href="../cite/Lucia/1222/StPaulDom">Lucia</a>
+
+  <a href="../cite/Mabilia/1222/StPaulDom">Mabilia</a>
+
+  <a href="../cite/Machilda/1222/StPaulDom">Machilda</a>
+
+  <a href="../cite/Margareta/1222/StPaulDom">Margareta</a>
+
+  <a href="../cite/Maria/1222/StPaulDom">Maria</a>
+
+  <a href="../cite/Mariota/1222/StPaulDom">Mariota</a>
+
+  <a href="../cite/Martinus/1222/StPaulDom">Martinus</a>
+
+  <a href="../cite/Matilda/1222/StPaulDom">Matilda</a>
+
+  <a href="../cite/Matildis/1222/StPaulDom">Matildis</a>
+
+  <a href="../cite/Mauricii/1240/StPaulDom">Mauricii</a>
+
+  <a href="../cite/Mauricius/1222/StPaulDom">Mauricius</a>
+
+  <a href="../cite/Mauricum/1240/StPaulDom">Mauricum</a>
+
+  <a href="../cite/Michael/1222/StPaulDom">Michael</a>
+
+  <a href="../cite/Milonis/1222/StPaulDom">Milonis</a>
+
+  <a href="../cite/Nicholao/1181/StPaulDom">Nicholao</a>
+
+  <a href="../cite/Nicholaus/1222/StPaulDom">Nicholaus</a>
+
+  <a href="../cite/Odo/1222/StPaulDom">Odo</a>
+
+  <a href="../cite/Odonis/1222/StPaulDom">Odonis</a>
+
+  <a href="../cite/Ogerus/1222/StPaulDom">Ogerus</a>
+
+  <a href="../cite/Ordmarus/1222/StPaulDom">Ordmarus</a>
+
+  <a href="../cite/Osbertum/1222/StPaulDom">Osbertum</a>
+
+  <a href="../cite/Osbertus/1222/StPaulDom">Osbertus</a>
+
+  <a href="../cite/Osbertus/1181/StPaulDom">Osbertus</a>
+
+  <a href="../cite/Oswardus/1222/StPaulDom">Oswardus</a>
+
+  <a href="../cite/Paganus/1222/StPaulDom">Paganus</a>
+
+  <a href="../cite/Petrus/1222/StPaulDom">Petrus</a>
+
+  <a href="../cite/Radulfum/1181/StPaulDom">Radulfum</a>
+
+  <a href="../cite/Radulfus/1181/StPaulDom">Radulfus</a>
+
+  <a href="../cite/Ragenilde/1222/StPaulDom">Ragenilde</a>
+
+  <a href="../cite/Reginaldi/1222/StPaulDom">Reginaldi</a>
+
+  <a href="../cite/Reginaldus/1222/StPaulDom">Reginaldus</a>
+
+  <a href="../cite/Reginaldus/1240/StPaulDom">Reginaldus</a>
+
+  <a href="../cite/Reginaldus/1181/StPaulDom">Reginaldus</a>
+
+  <a href="../cite/Reignerus/1222/StPaulDom">Reignerus</a>
+
+  <a href="../cite/Reinerus/1222/StPaulDom">Reinerus</a>
+
+  <a href="../cite/Ricardo/1181/StPaulDom">Ricardo</a>
+
+  <a href="../cite/Ricardo/1222/StPaulDom">Ricardo</a>
+
+  <a href="../cite/Ricardum/1181/StPaulDom">Ricardum</a>
+
+  <a href="../cite/Ricardus/1222/StPaulDom">Ricardus</a>
+
+  <a href="../cite/Ricardus/1181/StPaulDom">Ricardus</a>
+
+  <a href="../cite/Ricardus/1240/StPaulDom">Ricardus</a>
+
+  <a href="../cite/Richeri/1222/StPaulDom">Richeri</a>
+
+  <a href="../cite/Richerus/1181/StPaulDom">Richerus</a>
+
+  <a href="../cite/Roberti/1222/StPaulDom">Roberti</a>
+
+  <a href="../cite/Roberti/1240/StPaulDom">Roberti</a>
+
+  <a href="../cite/Roberto/1222/StPaulDom">Roberto</a>
+
+  <a href="../cite/Roberto/1181/StPaulDom">Roberto</a>
+
+  <a href="../cite/Robertum/1222/StPaulDom">Robertum</a>
+
+  <a href="../cite/Robertus/1181/StPaulDom">Robertus</a>
+
+  <a href="../cite/Roeisia/1222/StPaulDom">Roeisia</a>
+
+  <a href="../cite/Roesia/1222/StPaulDom">Roesia</a>
+
+  <a href="../cite/Roger/1181/StPaulDom">Roger</a>
+
+  <a href="../cite/Rogeri/1222/StPaulDom">Rogeri</a>
+
+  <a href="../cite/Rogerus/1222/StPaulDom">Rogerus</a>
+
+  <a href="../cite/Rogerus/1240/StPaulDom">Rogerus</a>
+
+  <a href="../cite/Sabarnus/1222/StPaulDom">Sabarnus</a>
+
+  <a href="../cite/Sabina/1222/StPaulDom">Sabina</a>
+
+  <a href="../cite/Safuli/1222/StPaulDom">Safuli</a>
+
+  <a href="../cite/Salomon̄/1222/StPaulDom">Salomon̄</a>
+
+  <a href="../cite/Salvi/1222/StPaulDom">Salvi</a>
+
+  <a href="../cite/Samannus/1222/StPaulDom">Samannus</a>
+
+  <a href="../cite/Serici/1222/StPaulDom">Serici</a>
+
+  <a href="../cite/Serlo/1181/StPaulDom">Serlo</a>
+
+  <a href="../cite/Serlo/1222/StPaulDom">Serlo</a>
+
+  <a href="../cite/Sicilia/1222/StPaulDom">Sicilia</a>
+
+  <a href="../cite/Sigari/1222/StPaulDom">Sigari</a>
+
+  <a href="../cite/Simon/1222/StPaulDom">Simon</a>
+
+  <a href="../cite/Simonis/1222/StPaulDom">Simonis</a>
+
+  <a href="../cite/Stanhardus/1181/StPaulDom">Stanhardus</a>
+
+  <a href="../cite/Stephani/1222/StPaulDom">Stephani</a>
+
+  <a href="../cite/Stephanus/1222/StPaulDom">Stephanus</a>
+
+  <a href="../cite/Stonhard/1222/StPaulDom">Stonhard</a>
+
+  <a href="../cite/Stonhardus/1222/StPaulDom">Stonhardus</a>
+
+  <a href="../cite/Stonhardus/1181/StPaulDom">Stonhardus</a>
+
+  <a href="../cite/Suenilda/1222/StPaulDom">Suenilda</a>
+
+  <a href="../cite/Sweino/1222/StPaulDom">Sweino</a>
+
+  <a href="../cite/Sweno/1222/StPaulDom">Sweno</a>
+
+  <a href="../cite/Thedilda/1222/StPaulDom">Thedilda</a>
+
+  <a href="../cite/Theobaldus/1222/StPaulDom">Theobaldus</a>
+
+  <a href="../cite/Theodoricus/1222/StPaulDom">Theodoricus</a>
+
+  <a href="../cite/Theodoricus/1181/StPaulDom">Theodoricus</a>
+
+  <a href="../cite/Theodorus/1222/StPaulDom">Theodorus</a>
+
+  <a href="../cite/Thomas/1240/StPaulDom">Thomas</a>
+
+  <a href="../cite/Thomas/1222/StPaulDom">Thomas</a>
+
+  <a href="../cite/Thome/1222/StPaulDom">Thome</a>
+
+  <a href="../cite/Turstanus/1222/StPaulDom">Turstanus</a>
+
+  <a href="../cite/Waldini/1222/StPaulDom">Waldini</a>
+
+  <a href="../cite/Walteri/1222/StPaulDom">Walteri</a>
+
+  <a href="../cite/Waltero/1222/StPaulDom">Waltero</a>
+
+  <a href="../cite/Walterus/1240/StPaulDom">Walterus</a>
+
+  <a href="../cite/Walterus/1222/StPaulDom">Walterus</a>
+
+  <a href="../cite/Walterus/1181/StPaulDom">Walterus</a>
+
+  <a href="../cite/Warini/1222/StPaulDom">Warini</a>
+
+  <a href="../cite/Warinus/1240/StPaulDom">Warinus</a>
+
+  <a href="../cite/Warinus/1222/StPaulDom">Warinus</a>
+
+  <a href="../cite/Wiburge/1222/StPaulDom">Wiburge</a>
+
+  <a href="../cite/Wiger/1222/StPaulDom">Wiger</a>
+
+  <a href="../cite/Willelmus/1222/StPaulDom">Willelmus</a>
+
+  <a href="../cite/Wimarc/1222/StPaulDom">Wimarc</a>
+
+  <a href="../cite/Winemari/1222/StPaulDom">Winemari</a>
+
+  <a href="../cite/Winemeri/1222/StPaulDom">Winemeri</a>
+
+  <a href="../cite/Wlfredi/1222/StPaulDom">Wlfredi</a>
+
+  <a href="../cite/Wlgari/1222/StPaulDom">Wlgari</a>
+
+  <a href="../cite/Wluredi/1222/StPaulDom">Wluredi</a>
+
+  <a href="../cite/Wlurici/1222/StPaulDom">Wlurici</a>
+
+  <a href="../cite/Ysaac/1222/StPaulDom">Ysaac</a>
+
+  <a href="../cite/absolon/1222/StPaulDom">absolon</a>
+
+  <a href="../cite/adgari/1222/StPaulDom">adgari</a>
+
+  <a href="../cite/adulfi/1222/StPaulDom">adulfi</a>
+
+  <a href="../cite/aillede/1222/StPaulDom">aillede</a>
+
+  <a href="../cite/ailmer/1222/StPaulDom">ailmer</a>
+
+  <a href="../cite/ailrich/1222/StPaulDom">ailrich</a>
+
+  <a href="../cite/ailwini/1222/StPaulDom">ailwini</a>
+
+  <a href="../cite/alexandri/1181/StPaulDom">alexandri</a>
+
+  <a href="../cite/algari/1222/StPaulDom">algari</a>
+
+  <a href="../cite/alicie/1222/StPaulDom">alicie</a>
+
+  <a href="../cite/alurici/1222/StPaulDom">alurici</a>
+
+  <a href="../cite/ancelini/1222/StPaulDom">ancelini</a>
+
+  <a href="../cite/anketil/1222/StPaulDom">anketil</a>
+
+  <a href="../cite/augustini/1222/StPaulDom">augustini</a>
+
+  <a href="../cite/azonis/1222/StPaulDom">azonis</a>
+
+  <a href="../cite/bernardi/1222/StPaulDom">bernardi</a>
+
+  <a href="../cite/bratricis/1222/StPaulDom">bratricis</a>
+
+  <a href="../cite/briani/1222/StPaulDom">briani</a>
+
+  <a href="../cite/christiene/1222/StPaulDom">christiene</a>
+
+  <a href="../cite/durandi/1222/StPaulDom">durandi</a>
+
+  <a href="../cite/eadmundi/1222/StPaulDom">eadmundi</a>
+
+  <a href="../cite/eadwini/1181/StPaulDom">eadwini</a>
+
+  <a href="../cite/edgari/1222/StPaulDom">edgari</a>
+
+  <a href="../cite/edive/1222/StPaulDom">edive</a>
+
+  <a href="../cite/edmundi/1222/StPaulDom">edmundi</a>
+
+  <a href="../cite/edrichi/1222/StPaulDom">edrichi</a>
+
+  <a href="../cite/edrici/1222/StPaulDom">edrici</a>
+
+  <a href="../cite/edwini/1222/StPaulDom">edwini</a>
+
+  <a href="../cite/edwini/1181/StPaulDom">edwini</a>
+
+  <a href="../cite/emme/1222/StPaulDom">emme</a>
+
+  <a href="../cite/ermingard/1222/StPaulDom">ermingard</a>
+
+  <a href="../cite/erneburge/1222/StPaulDom">erneburge</a>
+
+  <a href="../cite/ernold/1222/StPaulDom">ernold</a>
+
+  <a href="../cite/eudonis/1222/StPaulDom">eudonis</a>
+
+  <a href="../cite/fulconis/1222/StPaulDom">fulconis</a>
+
+  <a href="../cite/gerardi/1222/StPaulDom">gerardi</a>
+
+  <a href="../cite/hamelini/1222/StPaulDom">hamelini</a>
+
+  <a href="../cite/hamonis/1222/StPaulDom">hamonis</a>
+
+  <a href="../cite/heberti/1222/StPaulDom">heberti</a>
+
+  <a href="../cite/henrici/1181/StPaulDom">henrici</a>
+
+  <a href="../cite/hereward/1222/StPaulDom">hereward</a>
+
+  <a href="../cite/herewardi/1222/StPaulDom">herewardi</a>
+
+  <a href="../cite/hersent/1222/StPaulDom">hersent</a>
+
+  <a href="../cite/hugelini/1222/StPaulDom">hugelini</a>
+
+  <a href="../cite/hugone/1240/StPaulDom">hugone</a>
+
+  <a href="../cite/hugonis/1222/StPaulDom">hugonis</a>
+
+  <a href="../cite/hunfredi/1222/StPaulDom">hunfredi</a>
+
+  <a href="../cite/hunfridi/1222/StPaulDom">hunfridi</a>
+
+  <a href="../cite/iohannem/1222/StPaulDom">iohannem</a>
+
+  <a href="../cite/iohannis/1222/StPaulDom">iohannis</a>
+
+  <a href="../cite/iuliane/1222/StPaulDom">iuliane</a>
+
+  <a href="../cite/lamberti/1222/StPaulDom">lamberti</a>
+
+  <a href="../cite/leffilda/1222/StPaulDom">leffilda</a>
+
+  <a href="../cite/lefsi/1222/StPaulDom">lefsi</a>
+
+  <a href="../cite/lefwardi/1222/StPaulDom">lefwardi</a>
+
+  <a href="../cite/lefwini/1222/StPaulDom">lefwini</a>
+
+  <a href="../cite/leufrici/1222/StPaulDom">leufrici</a>
+
+  <a href="../cite/lucie/1222/StPaulDom">lucie</a>
+
+  <a href="../cite/machtild/1222/StPaulDom">machtild</a>
+
+  <a href="../cite/machtilda/1222/StPaulDom">machtilda</a>
+
+  <a href="../cite/machtilde/1222/StPaulDom">machtilde</a>
+
+  <a href="../cite/martini/1222/StPaulDom">martini</a>
+
+  <a href="../cite/matilde/1222/StPaulDom">matilde</a>
+
+  <a href="../cite/milo/1222/StPaulDom">milo</a>
+
+  <a href="../cite/nicholai/1222/StPaulDom">nicholai</a>
+
+  <a href="../cite/normanni/1222/StPaulDom">normanni</a>
+
+  <a href="../cite/ordgari/1222/StPaulDom">ordgari</a>
+
+  <a href="../cite/orgari/1222/StPaulDom">orgari</a>
+
+  <a href="../cite/osberti/1222/StPaulDom">osberti</a>
+
+  <a href="../cite/pagani/1222/StPaulDom">pagani</a>
+
+  <a href="../cite/patrik/1222/StPaulDom">patrik</a>
+
+  <a href="../cite/petri/1222/StPaulDom">petri</a>
+
+  <a href="../cite/philippi/1240/StPaulDom">philippi</a>
+
+  <a href="../cite/philippi/1222/StPaulDom">philippi</a>
+
+  <a href="../cite/sabarni/1222/StPaulDom">sabarni</a>
+
+  <a href="../cite/saberni/1222/StPaulDom">saberni</a>
+
+  <a href="../cite/safugeli/1222/StPaulDom">safugeli</a>
+
+  <a href="../cite/sueni/1222/StPaulDom">sueni</a>
+
+  <a href="../cite/swonild/1240/StPaulDom">swonild</a>
+
+  <a href="../cite/tetilda/1222/StPaulDom">tetilda</a>
+
+  <a href="../cite/thedricus/1222/StPaulDom">thedricus</a>
+
+  <a href="../cite/theobaldi/1222/StPaulDom">theobaldi</a>
+
+  <a href="../cite/theodbaldi/1222/StPaulDom">theodbaldi</a>
+
+  <a href="../cite/theodorici/1222/StPaulDom">theodorici</a>
+
+  <a href="../cite/theodorico/1181/StPaulDom">theodorico</a>
+
+  <a href="../cite/theodorum/1222/StPaulDom">theodorum</a>
+
+  <a href="../cite/theodulfi/1222/StPaulDom">theodulfi</a>
+
+  <a href="../cite/thurkilli/1222/StPaulDom">thurkilli</a>
+
+  <a href="../cite/turberni/1222/StPaulDom">turberni</a>
+
+  <a href="../cite/turkilli/1222/StPaulDom">turkilli</a>
+
+  <a href="../cite/turstani/1222/StPaulDom">turstani</a>
+
+  <a href="../cite/vitalis/1222/StPaulDom">vitalis</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

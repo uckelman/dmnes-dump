@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Warin</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Warin</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A derivative of <span class="lang">Old Saxon</span> <i>waru</i>, <span class="lang">Old High German</span> <i>wara</i> 'protection, watch'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a character in a 13th C Old French <i>chanson</i>, <i>La Geste de Garin de Monglane</i>.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Warin</span> (<span class="case">gen</span>) <a href="../cite/Warin/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Warini</span> (<span class="case">gen</span>) <a href="../cite/Warini/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 14</span></a>,
+ <span class="name">Warinus</span> (<span class="case">nom</span>) <a href="../cite/Warinus/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1189</span> <span class="name">Guarin</span> (<span class="case">nom</span>) <a href="../cite/Guarin/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 201</span></a>,
+ <span class="name">Warinus</span> (<span class="case">nom</span>) <a href="../cite/Warinus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 217</span></a>,
+ <span class="name">Werin</span> (<span class="case">nom</span>) <a href="../cite/Werin/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 222</span></a>,
+ <span class="name">Weringus</span> (<span class="case">nom</span>) <a href="../cite/Weringus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 230</span></a>;
+ <span class="date">1222</span> <span class="name">Garini</span> (<span class="case">gen</span>) <a href="../cite/Garini/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Warini</span> (<span class="case">gen</span>) <a href="../cite/Warini/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Warinus</span> (<span class="case">nom</span>) <a href="../cite/Warinus/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1240</span> <span class="name">Warinus</span> (<span class="case">nom</span>) <a href="../cite/Warinus/1240/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 119</span></a>;
+ <span class="date">1279–80</span> <span class="name">Warinus</span> (<span class="case">nom</span>) <a href="../cite/Warinus/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 83</span></a>;
+ <span class="date">1299</span> <span class="name">Warini</span> (<span class="case">gen</span>) <a href="../cite/Warini/1299/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1300</span> <span class="name">Warrenus</span> (<span class="case">nom</span>) <a href="../cite/Warrenus/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 240</span></a>;
+ <span class="date">1302</span> <span class="name">Warinus</span> (<span class="case">nom</span>) <a href="../cite/Warinus/1302/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 4</span></a></dd>
+<dt><span class="lang">Anglo-French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1245–1250[1586]</span> <span class="name">Warin</span> <a href="../cite/Warin/1245–1250[1586]/Glover"><span class="bib_key">Glover</span> <span class="bib_loc">25</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1562</span> <span class="name">Weryn</span> <a href="../cite/Weryn/1562/COmar-vol5"><span class="bib_key">COmar-vol5</span> <span class="bib_loc">p. 2</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597/8</span> <span class="name">Guerin</span> <a href="../cite/Guerin/1597s8/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 47</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">94, Ved</span></a>,
+ <span class="name">Verinus</span> (<span class="case">nom</span>) <a href="../cite/Verinus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">94, Ved</span></a>;
+ <span class="date">825</span> <span class="name">Warino</span> (<span class="case">dat</span>) <a href="../cite/Warino/825/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Warinum</span> (<span class="case">acc</span>) <a href="../cite/Warinum/825/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Warinus</span> (<span class="case">nom</span>) <a href="../cite/Warinus/825/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>;
+ <span class="date">862</span> <span class="name">Warini</span> (<span class="case">gen</span>) <a href="../cite/Warini/862/InsMacon"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">969</span> <span class="name">Vuarinus</span> (<span class="case">nom</span>) <a href="../cite/Vuarinus/969/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1029x1033</span> <span class="name">Guarinus</span> (<span class="case">nom</span>) <a href="../cite/Guarinus/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1079x1101</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1079x1101/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1090x1101</span> <span class="name">Garini</span> (<span class="case">gen</span>) <a href="../cite/Garini/1090x1101/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLIII</span></a>,
+ <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1090x1101/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLIII</span></a>,
+ <span class="name">Guarinus</span> (<span class="case">nom</span>) <a href="../cite/Guarinus/1090x1101/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLIII</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII</span></a>;
+ <span class="date">1107</span> <span class="name">Garino</span> (<span class="case">abl</span>) <a href="../cite/Garino/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>,
+ <span class="name">Guarino</span> (<span class="case">abl</span>) <a href="../cite/Guarino/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">a1108</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">1115x1149</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1115x1149/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">X</span></a>;
+ <span class="date">a1116</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/a1116/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1127</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1127/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">c1139</span> <span class="name">Garino</span> (<span class="case">nom</span>) <a href="../cite/Garino/c1139/CartNoyers"><span class="bib_key">CartNoyers</span> <span class="bib_loc">DXII</span></a>;
+ <span class="date">c1140</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/c1140/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXXIII</span></a>;
+ <span class="date">1147</span> <span class="name">Garini</span> (<span class="case">gen</span>) <a href="../cite/Garini/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Warinus</span> (<span class="case">nom</span>) <a href="../cite/Warinus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1163</span> <span class="name">Warini</span> (<span class="case">gen</span>) <a href="../cite/Warini/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">c1175–1180</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/c1175–1180/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 62</span></a>,
+ <span class="name">Warini</span> (<span class="case">gen</span>) <a href="../cite/Warini/c1175–1180/ChartCaen2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 66</span></a>;
+ <span class="date">1179</span> <span class="name">Garino</span> (<span class="case">abl</span>) <a href="../cite/Garino/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>,
+ <span class="name">Guarinus</span> (<span class="case">nom</span>) <a href="../cite/Guarinus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">178</span></a>;
+ <span class="date">1180</span> <span class="name">Guarini</span> (<span class="case">gen</span>) <a href="../cite/Guarini/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 35</span></a>,
+ <span class="name">Guarino</span> (<span class="case">abl</span>) <a href="../cite/Guarino/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>,
+ <span class="name">Warino</span> (<span class="case">abl</span>) <a href="../cite/Warino/1180/RotScaNor"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1236</span> <span class="name">Garini</span> (<span class="case">gen</span>) <a href="../cite/Garini/1236/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XXXIX</span></a>;
+ <span class="date">1255x1256</span> <span class="name">Guerinus</span> (<span class="case">nom</span>) <a href="../cite/Guerinus/1255x1256/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-CXIII</span></a>;
+ <span class="date">1257</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1257/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XIII, Pentecost</span></a>;
+ <span class="date">1258</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII, Pentecost</span></a>;
+ <span class="date">1259</span> <span class="name">Garinum</span> (<span class="case">acc</span>) <a href="../cite/Garinum/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII, St. Martin</span></a>,
+ <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1259/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII, St. Martin</span></a>,
+ <span class="name">Guerinus</span> (<span class="case">nom</span>) <a href="../cite/Guerinus/1259/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XLVI</span></a>;
+ <span class="date">1265</span> <span class="name">Warinus</span> (<span class="case">nom</span>) <a href="../cite/Warinus/1265/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CLIX</span></a>;
+ <span class="date">1269/70</span> <span class="name">Guerinus</span> (<span class="case">nom</span>) <a href="../cite/Guerinus/1269s70/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1269x70</span> <span class="name">Guerinus</span> (<span class="case">nom</span>) <a href="../cite/Guerinus/1269x70/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XXXII</span></a>;
+ <span class="date">1273</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1273/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 24</span></a>,
+ <span class="name">Guerini</span> (<span class="case">gen</span>) <a href="../cite/Guerini/1273/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XLIII</span></a>,
+ <span class="name">Guerinus</span> (<span class="case">nom</span>) <a href="../cite/Guerinus/1273/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLIII</span></a>;
+ <span class="date">1274</span> <span class="name">Garini</span> (<span class="case">gen</span>) <a href="../cite/Garini/1274/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-LV</span></a>;
+ <span class="date">1292</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1292/MemBret-I"><span class="bib_key">MemBret-I</span> <span class="bib_loc">1104</span></a>,
+ <span class="name">Guerinus</span> (<span class="case">nom</span>) <a href="../cite/Guerinus/1292/MemBret-I"><span class="bib_key">ibid.</span> <span class="bib_loc">1102</span></a>;
+ <span class="date">1301</span> <span class="name">Warini</span> (<span class="case">gen</span>) <a href="../cite/Warini/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 207</span></a>;
+ <span class="date">1376</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1376/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">383</span></a>;
+ <span class="date">1378</span> <span class="name">Garini</span> (<span class="case">gen</span>) <a href="../cite/Garini/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">559</span></a>,
+ <span class="name">Guerini</span> (<span class="case">gen</span>) <a href="../cite/Guerini/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">455</span></a>,
+ <span class="name">Guerrini</span> (<span class="case">gen</span>) <a href="../cite/Guerrini/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">361</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1376</span> <span class="name">Garinoni</span> (<span class="case">gen</span>) <a href="../cite/Garinoni/1376/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">383</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1262</span> <span class="name">Gerin</span> (<span class="case">obl</span>) <a href="../cite/Gerin/1262/StOuen"><span class="bib_key">StOuen</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Warin</span> (<span class="case">nom</span>) <a href="../cite/Warin/1262/StOuen"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1292</span> <span class="name">Guerin</span> (<span class="case">obl</span>) <a href="../cite/Guerin/1292/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 109</span></a>,
+ <a href="../cite/Guerin/1292/MemBret-I"><span class="bib_key">MemBret-I</span> <span class="bib_loc">1101</span></a>;
+ <span class="date">1293</span> <span class="name">Guerin</span> (<span class="case">obl</span>) <a href="../cite/Guerin/1293/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 123</span></a>;
+ <span class="date">1296</span> <span class="name">Guerin</span> <a href="../cite/Guerin/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1313</span> <span class="name">Guerin</span> <a href="../cite/Guerin/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Guérin</span> <a href="../cite/Guérin/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 131</span></a>;
+ <span class="date">1346</span> <span class="name">Guerin</span> (<span class="case">nom</span>) <a href="../cite/Guerin/1346/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 309</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1296</span> <span class="name">Garnot</span> <a href="../cite/Garnot/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1313</span> <span class="name">Garnot</span> <a href="../cite/Garnot/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 25</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1561</span> <span class="name">Gúerin</span> <a href="../cite/Gúerin/1561/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1565</span> <span class="name">Guérin</span> <a href="../cite/Guérin/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1566</span> <span class="name">Guérin</span> <a href="../cite/Guérin/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 199</span></a>;
+ <span class="date">1567</span> <span class="name">Guérin</span> <a href="../cite/Guérin/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 300</span></a>;
+ <span class="date">1568</span> <span class="name">Guérin</span> <a href="../cite/Guérin/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 396</span></a>;
+ <span class="date">1571</span> <span class="name">Guerin</span> <a href="../cite/Guerin/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 447</span></a>;
+ <span class="date">1572</span> <span class="name">Guérin</span> <a href="../cite/Guérin/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 642</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Gueret</span> <a href="../cite/Gueret/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 612</span></a>;
+ <span class="date">1421</span> <span class="name">Garnot</span> <a href="../cite/Garnot/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">p. 173</span></a>,
+ <span class="name">Guerinet</span> <a href="../cite/Guerinet/1421/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">562</span></a>;
+ <span class="date">1438</span> <span class="name">Garnot</span> <a href="../cite/Garnot/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">223</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Warinus</span> (<span class="case">nom</span>) <a href="../cite/Warinus/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§15</span></a>;
+ <span class="date">1098</span> <span class="name">Vuerinheri</span> (<span class="case">gen</span>) <a href="../cite/Vuerinheri/1098/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">25</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Warin</span> (<span class="case">nom</span>) <a href="../cite/Warin/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 7</span></a>,
+ <span class="name">Warinus</span> (<span class="case">nom</span>) <a href="../cite/Warinus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 4</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1535</span> <span class="name">Warin</span> <a href="../cite/Warin/1535/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">42</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1159x1181</span> <span class="name">Guarino</span> (<span class="case">dat</span>) <a href="../cite/Guarino/1159x1181/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 336</span></a>;
+ <span class="date">1166</span> <span class="name">Garino</span> (<span class="case">dat</span>) <a href="../cite/Garino/1166/HAP"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 337</span></a>;
+ <span class="date">1265x1339</span> <span class="name">Guarini</span> (<span class="case">gen</span>) <a href="../cite/Guarini/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">311</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1381x1388</span> <span class="name">Warino</span> (<span class="case">abl</span>) <a href="../cite/Warino/1381x1388/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">[p. xxxvii]</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1161</span> <span class="name">Warino</span> (<span class="case">dat</span>) <a href="../cite/Warino/1161/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1163</span> <span class="name">Garinus</span> (<span class="case">nom</span>) <a href="../cite/Garinus/1163/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1220</span> <span class="name">Garini</span> (<span class="case">gen</span>) <a href="../cite/Garini/1220/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">36</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Warin". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Warin.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

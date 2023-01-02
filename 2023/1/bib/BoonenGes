@@ -1,0 +1,740 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>BoonenGes</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>BoonenGes</dt>
+  <dd>Ed. van Even, editor. <em>Geschiedenis van Leuven Geschreven in de Jaren 1593 en 1594 door Willem Boonen</em>. Leuven: H. Vanbiesemn en A. Fonteyn, 1880.</dd>
+</dl>
+
+
+  <a href="../cite/Adam/1597x1598/BoonenGes">Adam</a>
+
+  <a href="../cite/Adolph/1597x1598/BoonenGes">Adolph</a>
+
+  <a href="../cite/Adriaen/1597x1598/BoonenGes">Adriaen</a>
+
+  <a href="../cite/Adriaens/1597x1598/BoonenGes">Adriaens</a>
+
+  <a href="../cite/Aerdt/1597x1598/BoonenGes">Aerdt</a>
+
+  <a href="../cite/Aerdts/1597x1598/BoonenGes">Aerdts</a>
+
+  <a href="../cite/Aert/1597x1598/BoonenGes">Aert</a>
+
+  <a href="../cite/Agatha/1597x1598/BoonenGes">Agatha</a>
+
+  <a href="../cite/Agnete/1597x1598/BoonenGes">Agnete</a>
+
+  <a href="../cite/Alaert/1597x1598/BoonenGes">Alaert</a>
+
+  <a href="../cite/Alexander/1597x1598/BoonenGes">Alexander</a>
+
+  <a href="../cite/Aleydt/1597x1598/BoonenGes">Aleydt</a>
+
+  <a href="../cite/Alydt/1597x1598/BoonenGes">Alydt</a>
+
+  <a href="../cite/Amant/1597x1598/BoonenGes">Amant</a>
+
+  <a href="../cite/Ambrosius/1597x1598/BoonenGes">Ambrosius</a>
+
+  <a href="../cite/Amel/1597x1598/BoonenGes">Amel</a>
+
+  <a href="../cite/Andries/1597x1598/BoonenGes">Andries</a>
+
+  <a href="../cite/Anna/1597x1598/BoonenGes">Anna</a>
+
+  <a href="../cite/Anne/1597x1598/BoonenGes">Anne</a>
+
+  <a href="../cite/Anneken/1597x1598/BoonenGes">Anneken</a>
+
+  <a href="../cite/Anselmus/1597x1598/BoonenGes">Anselmus</a>
+
+  <a href="../cite/Antheunis/1597x1598/BoonenGes">Antheunis</a>
+
+  <a href="../cite/Anthoen/1597x1598/BoonenGes">Anthoen</a>
+
+  <a href="../cite/Anthoene/1597x1598/BoonenGes">Anthoene</a>
+
+  <a href="../cite/Anthoenis/1597x1598/BoonenGes">Anthoenis</a>
+
+  <a href="../cite/Anthonis/1597x1598/BoonenGes">Anthonis</a>
+
+  <a href="../cite/Anthoon/1597x1598/BoonenGes">Anthoon</a>
+
+  <a href="../cite/Apolonia/1597x1598/BoonenGes">Apolonia</a>
+
+  <a href="../cite/Arnoult/1597x1598/BoonenGes">Arnoult</a>
+
+  <a href="../cite/Augustijn/1597x1598/BoonenGes">Augustijn</a>
+
+  <a href="../cite/Augustyn/1597x1598/BoonenGes">Augustyn</a>
+
+  <a href="../cite/Augustyns/1597x1598/BoonenGes">Augustyns</a>
+
+  <a href="../cite/Baltasar/1597x1598/BoonenGes">Baltasar</a>
+
+  <a href="../cite/Balthasars/1597x1598/BoonenGes">Balthasars</a>
+
+  <a href="../cite/Baptista/1597x1598/BoonenGes">Baptista</a>
+
+  <a href="../cite/Barbara/1597x1598/BoonenGes">Barbara</a>
+
+  <a href="../cite/Barbe/1597x1598/BoonenGes">Barbe</a>
+
+  <a href="../cite/Barbele/1597x1598/BoonenGes">Barbele</a>
+
+  <a href="../cite/Barbelen/1597x1598/BoonenGes">Barbelen</a>
+
+  <a href="../cite/Bartholomeus/1597x1598/BoonenGes">Bartholomeus</a>
+
+  <a href="../cite/Berbel/1597x1598/BoonenGes">Berbel</a>
+
+  <a href="../cite/Bernaerdt/1597x1598/BoonenGes">Bernaerdt</a>
+
+  <a href="../cite/Bernaert/1597x1598/BoonenGes">Bernaert</a>
+
+  <a href="../cite/Bernaerts/1597x1598/BoonenGes">Bernaerts</a>
+
+  <a href="../cite/Bernarts/1597x1598/BoonenGes">Bernarts</a>
+
+  <a href="../cite/Bertel/1597x1598/BoonenGes">Bertel</a>
+
+  <a href="../cite/Berthols/1597x1598/BoonenGes">Berthols</a>
+
+  <a href="../cite/Betteken/1597x1598/BoonenGes">Betteken</a>
+
+  <a href="../cite/Bonaventura/1597x1598/BoonenGes">Bonaventura</a>
+
+  <a href="../cite/Boudewyn/1597x1598/BoonenGes">Boudewyn</a>
+
+  <a href="../cite/Caerel/1597x1598/BoonenGes">Caerel</a>
+
+  <a href="../cite/Carel/1597x1598/BoonenGes">Carel</a>
+
+  <a href="../cite/Catharina/1597x1598/BoonenGes">Catharina</a>
+
+  <a href="../cite/Cathelyne/1597x1598/BoonenGes">Cathelyne</a>
+
+  <a href="../cite/Cathlyn/1597x1598/BoonenGes">Cathlyn</a>
+
+  <a href="../cite/Cathlyne/1597x1598/BoonenGes">Cathlyne</a>
+
+  <a href="../cite/Cathlynen/1597x1598/BoonenGes">Cathlynen</a>
+
+  <a href="../cite/Cecilia/1597x1598/BoonenGes">Cecilia</a>
+
+  <a href="../cite/Cecilie/1597x1598/BoonenGes">Cecilie</a>
+
+  <a href="../cite/Charles/1597x1598/BoonenGes">Charles</a>
+
+  <a href="../cite/Christiaen/1597x1598/BoonenGes">Christiaen</a>
+
+  <a href="../cite/Christina/1597x1598/BoonenGes">Christina</a>
+
+  <a href="../cite/Christine/1597x1598/BoonenGes">Christine</a>
+
+  <a href="../cite/Christoffel/1597x1598/BoonenGes">Christoffel</a>
+
+  <a href="../cite/Christyne/1597x1598/BoonenGes">Christyne</a>
+
+  <a href="../cite/Claes/1597x1598/BoonenGes">Claes</a>
+
+  <a href="../cite/Clara/1597x1598/BoonenGes">Clara</a>
+
+  <a href="../cite/Clementia/1597x1598/BoonenGes">Clementia</a>
+
+  <a href="../cite/Coenraedt/1597x1598/BoonenGes">Coenraedt</a>
+
+  <a href="../cite/Coenraert/1597x1598/BoonenGes">Coenraert</a>
+
+  <a href="../cite/Conraert/1597x1598/BoonenGes">Conraert</a>
+
+  <a href="../cite/Conrardyn/1597x1598/BoonenGes">Conrardyn</a>
+
+  <a href="../cite/Cornelia/1597x1598/BoonenGes">Cornelia</a>
+
+  <a href="../cite/Cornelis/1597x1598/BoonenGes">Cornelis</a>
+
+  <a href="../cite/Damiaen/1597x1598/BoonenGes">Damiaen</a>
+
+  <a href="../cite/Daniel/1597x1598/BoonenGes">Daniel</a>
+
+  <a href="../cite/Daniels/1597x1598/BoonenGes">Daniels</a>
+
+  <a href="../cite/David/1597x1598/BoonenGes">David</a>
+
+  <a href="../cite/Denys/1597x1598/BoonenGes">Denys</a>
+
+  <a href="../cite/Dierick/1597x1598/BoonenGes">Dierick</a>
+
+  <a href="../cite/Diericx/1597x1598/BoonenGes">Diericx</a>
+
+  <a href="../cite/Dionys/1597x1598/BoonenGes">Dionys</a>
+
+  <a href="../cite/Dominicus/1597x1598/BoonenGes">Dominicus</a>
+
+  <a href="../cite/Dorothea/1597x1598/BoonenGes">Dorothea</a>
+
+  <a href="../cite/Eduaert/1597x1598/BoonenGes">Eduaert</a>
+
+  <a href="../cite/Elisabet/1597x1598/BoonenGes">Elisabet</a>
+
+  <a href="../cite/Elisabeth/1597x1598/BoonenGes">Elisabeth</a>
+
+  <a href="../cite/Elizabeth/1597x1598/BoonenGes">Elizabeth</a>
+
+  <a href="../cite/Engelbeert/1597x1598/BoonenGes">Engelbeert</a>
+
+  <a href="../cite/Eraerdt/1597x1598/BoonenGes">Eraerdt</a>
+
+  <a href="../cite/Eraert/1597x1598/BoonenGes">Eraert</a>
+
+  <a href="../cite/Eustaes/1597x1598/BoonenGes">Eustaes</a>
+
+  <a href="../cite/Everaerts/1597x1598/BoonenGes">Everaerts</a>
+
+  <a href="../cite/Everard/1597x1598/BoonenGes">Everard</a>
+
+  <a href="../cite/Everardus/1597x1598/BoonenGes">Everardus</a>
+
+  <a href="../cite/Fabio/1597x1598/BoonenGes">Fabio</a>
+
+  <a href="../cite/Felix/1597x1598/BoonenGes">Felix</a>
+
+  <a href="../cite/Ferdinandus/1597x1598/BoonenGes">Ferdinandus</a>
+
+  <a href="../cite/Floris/1597x1598/BoonenGes">Floris</a>
+
+  <a href="../cite/Francen/1597x1598/BoonenGes">Francen</a>
+
+  <a href="../cite/Franchois/1597x1598/BoonenGes">Franchois</a>
+
+  <a href="../cite/Franchoys/1597x1598/BoonenGes">Franchoys</a>
+
+  <a href="../cite/Fransken/1597x1598/BoonenGes">Fransken</a>
+
+  <a href="../cite/Frederic/1597x1598/BoonenGes">Frederic</a>
+
+  <a href="../cite/Frederick/1597x1598/BoonenGes">Frederick</a>
+
+  <a href="../cite/Gabriel/1597x1598/BoonenGes">Gabriel</a>
+
+  <a href="../cite/Gabriels/1597x1598/BoonenGes">Gabriels</a>
+
+  <a href="../cite/Gedeon/1597x1598/BoonenGes">Gedeon</a>
+
+  <a href="../cite/Geeraerdt/1597x1598/BoonenGes">Geeraerdt</a>
+
+  <a href="../cite/Geeraert/1597x1598/BoonenGes">Geeraert</a>
+
+  <a href="../cite/Geerdt/1597x1598/BoonenGes">Geerdt</a>
+
+  <a href="../cite/Geertruydt/1597x1598/BoonenGes">Geertruydt</a>
+
+  <a href="../cite/Geldolph/1597x1598/BoonenGes">Geldolph</a>
+
+  <a href="../cite/Geraerden/1597x1598/BoonenGes">Geraerden</a>
+
+  <a href="../cite/Geraerdt/1597x1598/BoonenGes">Geraerdt</a>
+
+  <a href="../cite/Geraert/1597x1598/BoonenGes">Geraert</a>
+
+  <a href="../cite/Geraerts/1597x1598/BoonenGes">Geraerts</a>
+
+  <a href="../cite/German/1597x1598/BoonenGes">German</a>
+
+  <a href="../cite/Germeyn/1597x1598/BoonenGes">Germeyn</a>
+
+  <a href="../cite/Gertruydt/1597x1598/BoonenGes">Gertruydt</a>
+
+  <a href="../cite/Gertruyt/1597x1598/BoonenGes">Gertruyt</a>
+
+  <a href="../cite/Ghysbrecht/1597x1598/BoonenGes">Ghysbrecht</a>
+
+  <a href="../cite/Ghysbrechts/1597x1598/BoonenGes">Ghysbrechts</a>
+
+  <a href="../cite/Gielis/1597x1598/BoonenGes">Gielis</a>
+
+  <a href="../cite/Glaude/1597x1598/BoonenGes">Glaude</a>
+
+  <a href="../cite/Godefroid/1597x1598/BoonenGes">Godefroid</a>
+
+  <a href="../cite/Godefroidt/1597x1598/BoonenGes">Godefroidt</a>
+
+  <a href="../cite/Goeris/1597x1598/BoonenGes">Goeris</a>
+
+  <a href="../cite/Goevaerd/1597x1598/BoonenGes">Goevaerd</a>
+
+  <a href="../cite/Gooris/1597x1598/BoonenGes">Gooris</a>
+
+  <a href="../cite/Goris/1597x1598/BoonenGes">Goris</a>
+
+  <a href="../cite/Govaert/1597x1598/BoonenGes">Govaert</a>
+
+  <a href="../cite/Gregoris/1597x1598/BoonenGes">Gregoris</a>
+
+  <a href="../cite/Gregorius/1597x1598/BoonenGes">Gregorius</a>
+
+  <a href="../cite/Guillam/1597x1598/BoonenGes">Guillam</a>
+
+  <a href="../cite/Guillame/1597x1598/BoonenGes">Guillame</a>
+
+  <a href="../cite/Guillamme/1597x1598/BoonenGes">Guillamme</a>
+
+  <a href="../cite/Guillams/1597x1598/BoonenGes">Guillams</a>
+
+  <a href="../cite/Guillaume/1597x1598/BoonenGes">Guillaume</a>
+
+  <a href="../cite/Guilliam/1597x1598/BoonenGes">Guilliam</a>
+
+  <a href="../cite/Guilliame/1597x1598/BoonenGes">Guilliame</a>
+
+  <a href="../cite/Guilliams/1597x1598/BoonenGes">Guilliams</a>
+
+  <a href="../cite/Hans/1597x1598/BoonenGes">Hans</a>
+
+  <a href="../cite/Hanssen/1597x1598/BoonenGes">Hanssen</a>
+
+  <a href="../cite/Helena/1597x1598/BoonenGes">Helena</a>
+
+  <a href="../cite/Helias/1597x1598/BoonenGes">Helias</a>
+
+  <a href="../cite/Hendrick/1597x1598/BoonenGes">Hendrick</a>
+
+  <a href="../cite/Hendricus/1597x1598/BoonenGes">Hendricus</a>
+
+  <a href="../cite/Henrich/1597x1598/BoonenGes">Henrich</a>
+
+  <a href="../cite/Henrick/1597x1598/BoonenGes">Henrick</a>
+
+  <a href="../cite/Henricx/1597x1598/BoonenGes">Henricx</a>
+
+  <a href="../cite/Henry/1597x1598/BoonenGes">Henry</a>
+
+  <a href="../cite/Hercules/1597x1598/BoonenGes">Hercules</a>
+
+  <a href="../cite/Herman/1597x1598/BoonenGes">Herman</a>
+
+  <a href="../cite/Hermans/1597x1598/BoonenGes">Hermans</a>
+
+  <a href="../cite/Heylcken/1597x1598/BoonenGes">Heylcken</a>
+
+  <a href="../cite/Heylken/1597x1598/BoonenGes">Heylken</a>
+
+  <a href="../cite/Hilaris/1597x1598/BoonenGes">Hilaris</a>
+
+  <a href="../cite/Hubert/1597x1598/BoonenGes">Hubert</a>
+
+  <a href="../cite/Huybrecht/1597x1598/BoonenGes">Huybrecht</a>
+
+  <a href="../cite/Huybrechts/1597x1598/BoonenGes">Huybrechts</a>
+
+  <a href="../cite/Ida/1597x1598/BoonenGes">Ida</a>
+
+  <a href="../cite/Iheronimus/1597x1598/BoonenGes">Iheronimus</a>
+
+  <a href="../cite/Ingel/1597x1598/BoonenGes">Ingel</a>
+
+  <a href="../cite/Jacomyne/1597x1598/BoonenGes">Jacomyne</a>
+
+  <a href="../cite/Jacop/1597x1598/BoonenGes">Jacop</a>
+
+  <a href="../cite/Jacoppe/1597x1598/BoonenGes">Jacoppe</a>
+
+  <a href="../cite/Jacoppen/1597x1598/BoonenGes">Jacoppen</a>
+
+  <a href="../cite/Jacops/1597x1598/BoonenGes">Jacops</a>
+
+  <a href="../cite/Jacquelyne/1597x1598/BoonenGes">Jacquelyne</a>
+
+  <a href="../cite/Jacquemeyne/1597x1598/BoonenGes">Jacquemeyne</a>
+
+  <a href="../cite/Jacques/1597x1598/BoonenGes">Jacques</a>
+
+  <a href="../cite/Jan/1597x1598/BoonenGes">Jan</a>
+
+  <a href="../cite/Jan&#32;Baptista/1597x1598/BoonenGes">Jan Baptista</a>
+
+  <a href="../cite/Janne/1597x1598/BoonenGes">Janne</a>
+
+  <a href="../cite/Jannen/1597x1598/BoonenGes">Jannen</a>
+
+  <a href="../cite/Jans/1597x1598/BoonenGes">Jans</a>
+
+  <a href="../cite/Jaspar/1597x1598/BoonenGes">Jaspar</a>
+
+  <a href="../cite/Jaspars/1597x1598/BoonenGes">Jaspars</a>
+
+  <a href="../cite/Jasparyne/1597x1598/BoonenGes">Jasparyne</a>
+
+  <a href="../cite/Jehan/1597x1598/BoonenGes">Jehan</a>
+
+  <a href="../cite/Jehanne/1597x1598/BoonenGes">Jehanne</a>
+
+  <a href="../cite/Jehenne/1597x1598/BoonenGes">Jehenne</a>
+
+  <a href="../cite/Jenneken/1597x1598/BoonenGes">Jenneken</a>
+
+  <a href="../cite/Jenyn/1597x1598/BoonenGes">Jenyn</a>
+
+  <a href="../cite/Jeremias/1597x1598/BoonenGes">Jeremias</a>
+
+  <a href="../cite/Jeroen/1597x1598/BoonenGes">Jeroen</a>
+
+  <a href="../cite/Jeronimi/1597x1598/BoonenGes">Jeronimi</a>
+
+  <a href="../cite/Jeronimus/1597x1598/BoonenGes">Jeronimus</a>
+
+  <a href="../cite/Jheremias/1597x1598/BoonenGes">Jheremias</a>
+
+  <a href="../cite/Jheroen/1597x1598/BoonenGes">Jheroen</a>
+
+  <a href="../cite/Jheroens/1597x1598/BoonenGes">Jheroens</a>
+
+  <a href="../cite/Jheronimus/1597x1598/BoonenGes">Jheronimus</a>
+
+  <a href="../cite/Joachem/1597x1598/BoonenGes">Joachem</a>
+
+  <a href="../cite/Joachim/1597x1598/BoonenGes">Joachim</a>
+
+  <a href="../cite/Joeris/1597x1598/BoonenGes">Joeris</a>
+
+  <a href="../cite/Joes/1597x1598/BoonenGes">Joes</a>
+
+  <a href="../cite/Johanna/1597x1598/BoonenGes">Johanna</a>
+
+  <a href="../cite/Johannes/1597x1598/BoonenGes">Johannes</a>
+
+  <a href="../cite/Jooris/1597x1598/BoonenGes">Jooris</a>
+
+  <a href="../cite/Joos/1597x1598/BoonenGes">Joos</a>
+
+  <a href="../cite/Joris/1597x1598/BoonenGes">Joris</a>
+
+  <a href="../cite/Joseph/1597x1598/BoonenGes">Joseph</a>
+
+  <a href="../cite/Josephs/1597x1598/BoonenGes">Josephs</a>
+
+  <a href="../cite/Justus/1597x1598/BoonenGes">Justus</a>
+
+  <a href="../cite/Lambrecht/1597x1598/BoonenGes">Lambrecht</a>
+
+  <a href="../cite/Laureys/1597x1598/BoonenGes">Laureys</a>
+
+  <a href="../cite/Lenaert/1597x1598/BoonenGes">Lenaert</a>
+
+  <a href="../cite/Leonaerdt/1597x1598/BoonenGes">Leonaerdt</a>
+
+  <a href="../cite/Leonardus/1597x1598/BoonenGes">Leonardus</a>
+
+  <a href="../cite/Liebrecht/1597x1598/BoonenGes">Liebrecht</a>
+
+  <a href="../cite/Liesken/1597x1598/BoonenGes">Liesken</a>
+
+  <a href="../cite/Lincken/1597x1598/BoonenGes">Lincken</a>
+
+  <a href="../cite/Lodewyck/1597x1598/BoonenGes">Lodewyck</a>
+
+  <a href="../cite/Lodewycx/1597x1598/BoonenGes">Lodewycx</a>
+
+  <a href="../cite/Loycx/1597x1598/BoonenGes">Loycx</a>
+
+  <a href="../cite/Loys/1597x1598/BoonenGes">Loys</a>
+
+  <a href="../cite/Loyse/1597x1598/BoonenGes">Loyse</a>
+
+  <a href="../cite/Lucas/1597x1598/BoonenGes">Lucas</a>
+
+  <a href="../cite/Lucia/1597x1598/BoonenGes">Lucia</a>
+
+  <a href="../cite/Lucie/1597x1598/BoonenGes">Lucie</a>
+
+  <a href="../cite/Lyncken/1597x1598/BoonenGes">Lyncken</a>
+
+  <a href="../cite/Lynken/1597x1598/BoonenGes">Lynken</a>
+
+  <a href="../cite/Lys/1597x1598/BoonenGes">Lys</a>
+
+  <a href="../cite/Lysbet/1597x1598/BoonenGes">Lysbet</a>
+
+  <a href="../cite/Lysbeth/1597x1598/BoonenGes">Lysbeth</a>
+
+  <a href="../cite/Lysken/1597x1598/BoonenGes">Lysken</a>
+
+  <a href="../cite/Maeycken/1597x1598/BoonenGes">Maeycken</a>
+
+  <a href="../cite/Maeyken/1597x1598/BoonenGes">Maeyken</a>
+
+  <a href="../cite/Magdaleen/1597x1598/BoonenGes">Magdaleen</a>
+
+  <a href="../cite/Magdalena/1597x1598/BoonenGes">Magdalena</a>
+
+  <a href="../cite/Magdalene/1597x1598/BoonenGes">Magdalene</a>
+
+  <a href="../cite/Marcelis/1597x1598/BoonenGes">Marcelis</a>
+
+  <a href="../cite/Marcq/1597x1598/BoonenGes">Marcq</a>
+
+  <a href="../cite/Margarite/1597x1598/BoonenGes">Margarite</a>
+
+  <a href="../cite/Margriet/1597x1598/BoonenGes">Margriet</a>
+
+  <a href="../cite/Margriete/1597x1598/BoonenGes">Margriete</a>
+
+  <a href="../cite/Marguerite/1597x1598/BoonenGes">Marguerite</a>
+
+  <a href="../cite/Marie/1597x1598/BoonenGes">Marie</a>
+
+  <a href="../cite/Marie-Johanne/1597x1598/BoonenGes">Marie-Johanne</a>
+
+  <a href="../cite/Marten/1597x1598/BoonenGes">Marten</a>
+
+  <a href="../cite/Martha/1597x1598/BoonenGes">Martha</a>
+
+  <a href="../cite/Martyne/1597x1598/BoonenGes">Martyne</a>
+
+  <a href="../cite/Martyne/1597x1598/BoonenGes">Martyne</a>
+
+  <a href="../cite/Matheus/1597x1598/BoonenGes">Matheus</a>
+
+  <a href="../cite/Mathias/1597x1598/BoonenGes">Mathias</a>
+
+  <a href="../cite/Mathieu/1597x1598/BoonenGes">Mathieu</a>
+
+  <a href="../cite/Mathys/1597x1598/BoonenGes">Mathys</a>
+
+  <a href="../cite/Matthys/1597x1598/BoonenGes">Matthys</a>
+
+  <a href="../cite/Maximiliane/1597x1598/BoonenGes">Maximiliane</a>
+
+  <a href="../cite/Maycken/1597x1598/BoonenGes">Maycken</a>
+
+  <a href="../cite/Mayke/1597x1598/BoonenGes">Mayke</a>
+
+  <a href="../cite/Mayken/1597x1598/BoonenGes">Mayken</a>
+
+  <a href="../cite/Melchior/1597x1598/BoonenGes">Melchior</a>
+
+  <a href="../cite/Merck/1597x1598/BoonenGes">Merck</a>
+
+  <a href="../cite/Merckx/1597x1598/BoonenGes">Merckx</a>
+
+  <a href="../cite/Merten/1597x1598/BoonenGes">Merten</a>
+
+  <a href="../cite/Mertens/1597x1598/BoonenGes">Mertens</a>
+
+  <a href="../cite/Mertten/1597x1598/BoonenGes">Mertten</a>
+
+  <a href="../cite/Metten/1597x1598/BoonenGes">Metten</a>
+
+  <a href="../cite/Meynaerts/1597x1598/BoonenGes">Meynaerts</a>
+
+  <a href="../cite/Michiel/1597x1598/BoonenGes">Michiel</a>
+
+  <a href="../cite/Michielen/1597x1598/BoonenGes">Michielen</a>
+
+  <a href="../cite/Michiels/1597x1598/BoonenGes">Michiels</a>
+
+  <a href="../cite/Nellecken/1597x1598/BoonenGes">Nellecken</a>
+
+  <a href="../cite/Nelleken/1597x1598/BoonenGes">Nelleken</a>
+
+  <a href="../cite/Niclaes/1597x1598/BoonenGes">Niclaes</a>
+
+  <a href="../cite/Nicolaes/1597x1598/BoonenGes">Nicolaes</a>
+
+  <a href="../cite/Nicolas/1597x1598/BoonenGes">Nicolas</a>
+
+  <a href="../cite/Octaviaen/1597x1598/BoonenGes">Octaviaen</a>
+
+  <a href="../cite/Olivier/1597x1598/BoonenGes">Olivier</a>
+
+  <a href="../cite/Oliviers/1597x1598/BoonenGes">Oliviers</a>
+
+  <a href="../cite/Otto/1597x1598/BoonenGes">Otto</a>
+
+  <a href="../cite/Paschasius/1597x1598/BoonenGes">Paschasius</a>
+
+  <a href="../cite/Pauwel/1597x1598/BoonenGes">Pauwel</a>
+
+  <a href="../cite/Peeter/1597x1598/BoonenGes">Peeter</a>
+
+  <a href="../cite/Peeteren/1597x1598/BoonenGes">Peeteren</a>
+
+  <a href="../cite/Peeters/1597x1598/BoonenGes">Peeters</a>
+
+  <a href="../cite/Petronella/1597x1598/BoonenGes">Petronella</a>
+
+  <a href="../cite/Petronilla/1597x1598/BoonenGes">Petronilla</a>
+
+  <a href="../cite/Philipotte/1597x1598/BoonenGes">Philipotte</a>
+
+  <a href="../cite/Philippa/1597x1598/BoonenGes">Philippa</a>
+
+  <a href="../cite/Philippotte/1597x1598/BoonenGes">Philippotte</a>
+
+  <a href="../cite/Philips/1597x1598/BoonenGes">Philips</a>
+
+  <a href="../cite/Pierre/1597x1598/BoonenGes">Pierre</a>
+
+  <a href="../cite/Pierynken/1597x1598/BoonenGes">Pierynken</a>
+
+  <a href="../cite/Pieter/1597x1598/BoonenGes">Pieter</a>
+
+  <a href="../cite/Quinten/1597x1598/BoonenGes">Quinten</a>
+
+  <a href="../cite/Quiryns/1597x1598/BoonenGes">Quiryns</a>
+
+  <a href="../cite/Raphael/1597x1598/BoonenGes">Raphael</a>
+
+  <a href="../cite/Remy/1597x1598/BoonenGes">Remy</a>
+
+  <a href="../cite/Reynier/1597x1598/BoonenGes">Reynier</a>
+
+  <a href="../cite/Reyniers/1597x1598/BoonenGes">Reyniers</a>
+
+  <a href="../cite/Robert/1597x1598/BoonenGes">Robert</a>
+
+  <a href="../cite/Roberts/1597x1598/BoonenGes">Roberts</a>
+
+  <a href="../cite/Roelandt/1597x1598/BoonenGes">Roelandt</a>
+
+  <a href="../cite/Roelandts/1597x1598/BoonenGes">Roelandts</a>
+
+  <a href="../cite/Roelant/1597x1598/BoonenGes">Roelant</a>
+
+  <a href="../cite/Roelants/1597x1598/BoonenGes">Roelants</a>
+
+  <a href="../cite/Rychaert/1597x1598/BoonenGes">Rychaert</a>
+
+  <a href="../cite/Rychard/1597x1598/BoonenGes">Rychard</a>
+
+  <a href="../cite/Ryckaert/1597x1598/BoonenGes">Ryckaert</a>
+
+  <a href="../cite/Ryckard/1597x1598/BoonenGes">Ryckard</a>
+
+  <a href="../cite/Sacharias/1597x1598/BoonenGes">Sacharias</a>
+
+  <a href="../cite/Samuel/1597x1598/BoonenGes">Samuel</a>
+
+  <a href="../cite/Sebastiaen/1597x1598/BoonenGes">Sebastiaen</a>
+
+  <a href="../cite/Severyn/1597x1598/BoonenGes">Severyn</a>
+
+  <a href="../cite/Silvester/1597x1598/BoonenGes">Silvester</a>
+
+  <a href="../cite/Staes/1597x1598/BoonenGes">Staes</a>
+
+  <a href="../cite/Stephanus/1597x1598/BoonenGes">Stephanus</a>
+
+  <a href="../cite/Steven/1597x1598/BoonenGes">Steven</a>
+
+  <a href="../cite/Stevens/1597x1598/BoonenGes">Stevens</a>
+
+  <a href="../cite/Symon/1597x1598/BoonenGes">Symon</a>
+
+  <a href="../cite/Symons/1597x1598/BoonenGes">Symons</a>
+
+  <a href="../cite/Symoons/1597x1598/BoonenGes">Symoons</a>
+
+  <a href="../cite/Thibout/1597x1598/BoonenGes">Thibout</a>
+
+  <a href="../cite/Thomas/1597x1598/BoonenGes">Thomas</a>
+
+  <a href="../cite/Thonynken/1597x1598/BoonenGes">Thonynken</a>
+
+  <a href="../cite/Thybout/1597x1598/BoonenGes">Thybout</a>
+
+  <a href="../cite/Thybouts/1597x1598/BoonenGes">Thybouts</a>
+
+  <a href="../cite/Truycken/1597x1598/BoonenGes">Truycken</a>
+
+  <a href="../cite/Urssele/1597x1598/BoonenGes">Urssele</a>
+
+  <a href="../cite/Ursula/1597x1598/BoonenGes">Ursula</a>
+
+  <a href="../cite/Ursule/1597x1598/BoonenGes">Ursule</a>
+
+  <a href="../cite/Valentyn/1597x1598/BoonenGes">Valentyn</a>
+
+  <a href="../cite/Victor/1597x1598/BoonenGes">Victor</a>
+
+  <a href="../cite/Vincent/1597x1598/BoonenGes">Vincent</a>
+
+  <a href="../cite/Vranck/1597x1598/BoonenGes">Vranck</a>
+
+  <a href="../cite/Waelraevens/1597x1598/BoonenGes">Waelraevens</a>
+
+  <a href="../cite/Willem/1597x1598/BoonenGes">Willem</a>
+
+  <a href="../cite/Willems/1597x1598/BoonenGes">Willems</a>
+
+  <a href="../cite/Wolffaert/1597x1598/BoonenGes">Wolffaert</a>
+
+  <a href="../cite/Wouter/1597x1598/BoonenGes">Wouter</a>
+
+  <a href="../cite/Wouteren/1597x1598/BoonenGes">Wouteren</a>
+
+  <a href="../cite/Wouters/1597x1598/BoonenGes">Wouters</a>
+
+  <a href="../cite/Wynant/1597x1598/BoonenGes">Wynant</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

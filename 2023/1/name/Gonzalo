@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Gonzalo</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Gonzalo</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>gund</i> 'war, battle' + an element of uncertain origin.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an 11th C Galician saint, an 11th C ruler of Sobrarbe and Rigaborza, and a 12th C ruler of the Asturias.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The Old Spanish vernacular forms <i>Gundisalvo</i> and <i>Gonsalvo</i> are witnessed in 1068 in the place names <i>Villa Gundisalvo</i> and <i>Villa Gonsalvo</i>, (<span class="bibl"><span class="key">CDSS</span> <span class="loc">I</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Gonsales</span> (<span class="case">gen</span>) <a href="../cite/Gonsales/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 220</span></a>,
+ <span class="name">Gonsalles</span> (<span class="case">gen</span>) <a href="../cite/Gonsalles/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 220</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1429–1430</span> <span class="name">Consalvo</span> <a href="../cite/Consalvo/1429–1430/DiaryLMA"><span class="bib_key">DiaryLMA</span> <span class="bib_loc">p. 226</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1576</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1576/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1577</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1577/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1578</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1578/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1579</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1579/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1580</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1580/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1581</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1581/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1585</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1585/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1586</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1586/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1587</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1587/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1588</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1588/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1589</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1589/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1590</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1590/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1591</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1591/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1592</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1592/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1593</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1593/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1594</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1594/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1595</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1595/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1596</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1596/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1597</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1597/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1598</span> <span class="name">Gonsalo</span> <a href="../cite/Gonsalo/1598/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1152</span> <span class="name">Gondisaluus</span> (<span class="case">nom</span>) <a href="../cite/Gondisaluus/1152/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 3</span></a>;
+ <span class="date">1189</span> <span class="name">Gundisalvus</span> (<span class="case">nom</span>) <a href="../cite/Gundisalvus/1189/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 9</span></a>,
+ <span class="name">Gunsalvi</span> (<span class="case">gen</span>) <a href="../cite/Gunsalvi/1189/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 9</span></a>,
+ <span class="name">Gunsalvus</span> (<span class="case">nom</span>) <a href="../cite/Gunsalvus/1189/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 9</span></a>;
+ <span class="date">1209</span> <span class="name">Gunsaluum</span> (<span class="case">acc</span>) <a href="../cite/Gunsaluum/1209/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 10</span></a>,
+ <span class="name">Gunsaluus</span> (<span class="case">nom</span>) <a href="../cite/Gunsaluus/1209/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 10</span></a>;
+ <span class="date">1211</span> <span class="name">Gunçaluus</span> (<span class="case">nom</span>) <a href="../cite/Gunçaluus/1211/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6</span></a>;
+ <span class="date">1217</span> <span class="name">Gonsaluo</span> (<span class="case">dat</span>) <a href="../cite/Gonsaluo/1217/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 21</span></a>,
+ <span class="name">Gonsaluus</span> (<span class="case">nom</span>) <a href="../cite/Gonsaluus/1217/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 21</span></a>,
+ <span class="name">Gunsalue</span> (<span class="case">voc</span>) <a href="../cite/Gunsalue/1217/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 21</span></a>,
+ <span class="name">Gunsalve</span> (<span class="case">voc</span>) <a href="../cite/Gunsalve/1217/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 21</span></a>;
+ <span class="date">1218</span> <span class="name">Gunsaluis</span> (<span class="case">gen</span>) <a href="../cite/Gunsaluis/1218/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18</span></a>,
+ <span class="name">Gunsalum</span> (<span class="case">acc</span>) <a href="../cite/Gunsalum/1218/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18</span></a>;
+ <span class="date">1228</span> <span class="name">Gonçaluo</span> (<span class="case">dat</span>) <a href="../cite/Gonçaluo/1228/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 14</span></a>;
+ <span class="date">1256</span> <span class="name">Goncalvi</span> (<span class="case">gen</span>) <a href="../cite/Goncalvi/1256/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17</span></a>;
+ <span class="date">1269</span> <span class="name">Gonsaluo</span> (<span class="case">dat</span>) <a href="../cite/Gonsaluo/1269/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1074</span> <span class="name">Gundalvus</span> (<span class="case">nom</span>) <a href="../cite/Gundalvus/1074/CDSS"><span class="bib_key">CDSS</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1124</span> <span class="name">Gonzalvez</span> (<span class="case">gen</span>) <a href="../cite/Gonzalvez/1124/CDSS"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Gonçalvez</span> (<span class="case">gen</span>) <a href="../cite/Gonçalvez/1124/CDSS"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Gundissalvi</span> (<span class="case">gen</span>) <a href="../cite/Gundissalvi/1124/CDSS"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1276</span> <span class="name">Gunsaluo</span> (<span class="case">dat</span>) <a href="../cite/Gunsaluo/1276/CDGH"><span class="bib_key">CDGH</span> <span class="bib_loc">XLVI</span></a>,
+ <span class="name">gundisalui</span> (<span class="case">gen</span>) <a href="../cite/gundisalui/1276/CDGH"><span class="bib_key">ibid.</span> <span class="bib_loc">XLVI</span></a>;
+ <span class="date">1489</span> <span class="name">Gondisalvi</span> (<span class="case">gen</span>) <a href="../cite/Gondisalvi/1489/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1490</span> <span class="name">Gonçalbo</span> (<span class="case">nom</span>) <a href="../cite/Gonçalbo/1490/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1491</span> <span class="name">Gonçalvi</span> (<span class="case">gen</span>) <a href="../cite/Gonçalvi/1491/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 61</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Gonçalbo</span> <a href="../cite/Gonçalbo/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3718</span></a>,
+ <span class="name">Gosalbo</span> <a href="../cite/Gosalbo/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">4369</span></a>,
+ <span class="name">Goçalbo</span> <a href="../cite/Goçalbo/1510/valencia1510"><span class="bib_key">ibid.</span> <span class="bib_loc">3430</span></a></dd>
+<dt><span class="lang">Old Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1068</span> <span class="name">Gundisalviz</span> (<span class="case">gen</span>) <a href="../cite/Gundisalviz/1068/CDSS"><span class="bib_key">CDSS</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Gundisalvo</span> (<span class="case">nom</span>) <a href="../cite/Gundisalvo/1068/CDSS"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>,
+ <span class="name">Gunsalvo</span> (<span class="case">nom</span>) <a href="../cite/Gunsalvo/1068/CDSS"><span class="bib_key">ibid.</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1225</span> <span class="name">Gonzalo</span> <a href="../cite/Gonzalo/1225/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 15</span></a>,
+ <span class="name">Gonzalves</span> (<span class="case">gen</span>) <a href="../cite/Gonzalves/1225/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 15</span></a>,
+ <span class="name">Gonzalvo</span> <a href="../cite/Gonzalvo/1225/PHGCRP-I"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 15</span></a></dd>
+<dt><span class="lang">Spanish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Gonzalo</span> <a href="../cite/Gonzalo/1376/SanzSerrano"><span class="bib_key">SanzSerrano</span></a>;
+ <span class="date">1540</span> <span class="name">Gonçalo</span> <a href="../cite/Gonçalo/1540/SanzSerrano"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1567</span> <span class="name">Gonçalo</span> <a href="../cite/Gonçalo/1567/SanzSerrano"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1575</span> <span class="name">Gonzalo</span> <a href="../cite/Gonzalo/1575/Catalogo-5.2"><span class="bib_key">Catalogo-5.2</span> <span class="bib_loc">3792</span></a>;
+ <span class="date">1576</span> <span class="name">Gonzalo</span> <a href="../cite/Gonzalo/1576/Catalogo-5.2"><span class="bib_key">ibid.</span> <span class="bib_loc">3945</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Gonzalo". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Gonzalo.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

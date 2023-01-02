@@ -1,0 +1,726 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>VitAs2</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>VitAs2</dt>
+  <dd>Cesare Cenci, editor. <em>Documentazione di vita assisana 1300-1530</em>, volume II: 1449-1530. Grottaferrata: Collegii S. Bonaventurae ad Claras Aquas, 1975.</dd>
+</dl>
+
+
+  <a href="../cite/Alexandri/1490/VitAs2">Alexandri</a>
+
+  <a href="../cite/Alexandri/1521/VitAs2">Alexandri</a>
+
+  <a href="../cite/Allegrinus/1450/VitAs2">Allegrinus</a>
+
+  <a href="../cite/Ambrosio/1490/VitAs2">Ambrosio</a>
+
+  <a href="../cite/Andrea/1450/VitAs2">Andrea</a>
+
+  <a href="../cite/Andrea/1490/VitAs2">Andrea</a>
+
+  <a href="../cite/Andrea/1521/VitAs2">Andrea</a>
+
+  <a href="../cite/Andrea/1449/VitAs2">Andrea</a>
+
+  <a href="../cite/Andrea/1521/VitAs2">Andrea</a>
+
+  <a href="../cite/Andream/1449/VitAs2">Andream</a>
+
+  <a href="../cite/Andree/1449/VitAs2">Andree</a>
+
+  <a href="../cite/Andree/1450/VitAs2">Andree</a>
+
+  <a href="../cite/Andree/1521/VitAs2">Andree</a>
+
+  <a href="../cite/Angelecta/1521/VitAs2">Angelecta</a>
+
+  <a href="../cite/Angeli/1521/VitAs2">Angeli</a>
+
+  <a href="../cite/Angelica/1521/VitAs2">Angelica</a>
+
+  <a href="../cite/Angelina/1521/VitAs2">Angelina</a>
+
+  <a href="../cite/Angelo/1449/VitAs2">Angelo</a>
+
+  <a href="../cite/Angelum/1521/VitAs2">Angelum</a>
+
+  <a href="../cite/Angelum/1450/VitAs2">Angelum</a>
+
+  <a href="../cite/Angelus/1449/VitAs2">Angelus</a>
+
+  <a href="../cite/Angelus/1450/VitAs2">Angelus</a>
+
+  <a href="../cite/Anna/1449/VitAs2">Anna</a>
+
+  <a href="../cite/Antonelli/1521/VitAs2">Antonelli</a>
+
+  <a href="../cite/Antonia/1490/VitAs2">Antonia</a>
+
+  <a href="../cite/Antonia/1521/VitAs2">Antonia</a>
+
+  <a href="../cite/Antonii/1521/VitAs2">Antonii</a>
+
+  <a href="../cite/Antonii/1449/VitAs2">Antonii</a>
+
+  <a href="../cite/Antonii/1505/VitAs2">Antonii</a>
+
+  <a href="../cite/Antonii/1490/VitAs2">Antonii</a>
+
+  <a href="../cite/Antonio/1449/VitAs2">Antonio</a>
+
+  <a href="../cite/Antonio/1450/VitAs2">Antonio</a>
+
+  <a href="../cite/Antonio/1490/VitAs2">Antonio</a>
+
+  <a href="../cite/Antonio/1521/VitAs2">Antonio</a>
+
+  <a href="../cite/Antoniolo/1450/VitAs2">Antoniolo</a>
+
+  <a href="../cite/Antonius/1449/VitAs2">Antonius</a>
+
+  <a href="../cite/Apollonii/1521/VitAs2">Apollonii</a>
+
+  <a href="../cite/Appollonii/1490/VitAs2">Appollonii</a>
+
+  <a href="../cite/Appolonio/1450/VitAs2">Appolonio</a>
+
+  <a href="../cite/Appolonius/1450/VitAs2">Appolonius</a>
+
+  <a href="../cite/Arcangeli/1521/VitAs2">Arcangeli</a>
+
+  <a href="../cite/Augustinum/1490/VitAs2">Augustinum</a>
+
+  <a href="../cite/Augustinum/1450/VitAs2">Augustinum</a>
+
+  <a href="../cite/Augustinus/1450/VitAs2">Augustinus</a>
+
+  <a href="../cite/Aurelia/1521/VitAs2">Aurelia</a>
+
+  <a href="../cite/Aurelio/1521/VitAs2">Aurelio</a>
+
+  <a href="../cite/Aurelius/1521/VitAs2">Aurelius</a>
+
+  <a href="../cite/Bactistam/1450/VitAs2">Bactistam</a>
+
+  <a href="../cite/Baldasar/1521/VitAs2">Baldasar</a>
+
+  <a href="../cite/Baldasaris/1490/VitAs2">Baldasaris</a>
+
+  <a href="../cite/Baldassaris/1490/VitAs2">Baldassaris</a>
+
+  <a href="../cite/Baldino/1450/VitAs2">Baldino</a>
+
+  <a href="../cite/Baldus/1449/VitAs2">Baldus</a>
+
+  <a href="../cite/Baltasari/1521/VitAs2">Baltasari</a>
+
+  <a href="../cite/Baptista/1521/VitAs2">Baptista</a>
+
+  <a href="../cite/Baptiste/1521/VitAs2">Baptiste</a>
+
+  <a href="../cite/Barnabei/1450/VitAs2">Barnabei</a>
+
+  <a href="../cite/Bartholdo/1449/VitAs2">Bartholdo</a>
+
+  <a href="../cite/Bartholomee/1490/VitAs2">Bartholomee</a>
+
+  <a href="../cite/Bartholomei/1521/VitAs2">Bartholomei</a>
+
+  <a href="../cite/Bartholomeo/1449/VitAs2">Bartholomeo</a>
+
+  <a href="../cite/Bartholomeus/1521/VitAs2">Bartholomeus</a>
+
+  <a href="../cite/Bartholomeus/1449/VitAs2">Bartholomeus</a>
+
+  <a href="../cite/Bartoldo/1449/VitAs2">Bartoldo</a>
+
+  <a href="../cite/Bartoldus/1449/VitAs2">Bartoldus</a>
+
+  <a href="../cite/Bartolome/1450/VitAs2">Bartolome</a>
+
+  <a href="../cite/Bartolomei/1449/VitAs2">Bartolomei</a>
+
+  <a href="../cite/Bartolomei/1450/VitAs2">Bartolomei</a>
+
+  <a href="../cite/Bartolomeo/1450/VitAs2">Bartolomeo</a>
+
+  <a href="../cite/Bartolomeo/1521/VitAs2">Bartolomeo</a>
+
+  <a href="../cite/Bartolomeus/1450/VitAs2">Bartolomeus</a>
+
+  <a href="../cite/Beatrix/1521/VitAs2">Beatrix</a>
+
+  <a href="../cite/Benedicta/1521/VitAs2">Benedicta</a>
+
+  <a href="../cite/Benedicti/1449/VitAs2">Benedicti</a>
+
+  <a href="../cite/Benedicto/1449/VitAs2">Benedicto</a>
+
+  <a href="../cite/Berardina/1521/VitAs2">Berardina</a>
+
+  <a href="../cite/Berardini/1521/VitAs2">Berardini</a>
+
+  <a href="../cite/Bernardina/1521/VitAs2">Bernardina</a>
+
+  <a href="../cite/Bernardine/1521/VitAs2">Bernardine</a>
+
+  <a href="../cite/Bernardinus/1521/VitAs2">Bernardinus</a>
+
+  <a href="../cite/Bernardinus/1490/VitAs2">Bernardinus</a>
+
+  <a href="../cite/Bernardo/1490/VitAs2">Bernardo</a>
+
+  <a href="../cite/Bernardus/1505/VitAs2">Bernardus</a>
+
+  <a href="../cite/Berti/1521/VitAs2">Berti</a>
+
+  <a href="../cite/Bertoldo/1449/VitAs2">Bertoldo</a>
+
+  <a href="../cite/Biancholini/1521/VitAs2">Biancholini</a>
+
+  <a href="../cite/Biasio/1521/VitAs2">Biasio</a>
+
+  <a href="../cite/Blasii/1449/VitAs2">Blasii</a>
+
+  <a href="../cite/Bonaventura/1490/VitAs2">Bonaventura</a>
+
+  <a href="../cite/Bonifatia/1521/VitAs2">Bonifatia</a>
+
+  <a href="../cite/Camilla/1521/VitAs2">Camilla</a>
+
+  <a href="../cite/Camilli/1521/VitAs2">Camilli</a>
+
+  <a href="../cite/Camillus/1521/VitAs2">Camillus</a>
+
+  <a href="../cite/Caterina/1521/VitAs2">Caterina</a>
+
+  <a href="../cite/Ceci/1449/VitAs2">Ceci</a>
+
+  <a href="../cite/Christofano/1521/VitAs2">Christofano</a>
+
+  <a href="../cite/Christofanus/1490/VitAs2">Christofanus</a>
+
+  <a href="../cite/Christofori/1521/VitAs2">Christofori</a>
+
+  <a href="../cite/Christoforo/1450/VitAs2">Christoforo</a>
+
+  <a href="../cite/Ciccho/1521/VitAs2">Ciccho</a>
+
+  <a href="../cite/Cichi/1521/VitAs2">Cichi</a>
+
+  <a href="../cite/Cichi/1449/VitAs2">Cichi</a>
+
+  <a href="../cite/Cichus/1521/VitAs2">Cichus</a>
+
+  <a href="../cite/Ciciliam/1450/VitAs2">Ciciliam</a>
+
+  <a href="../cite/Cicilie/1450/VitAs2">Cicilie</a>
+
+  <a href="../cite/Cipriani/1521/VitAs2">Cipriani</a>
+
+  <a href="../cite/Clemens/1521/VitAs2">Clemens</a>
+
+  <a href="../cite/Constantia/1521/VitAs2">Constantia</a>
+
+  <a href="../cite/Cristofari/1490/VitAs2">Cristofari</a>
+
+  <a href="../cite/Cristoforo/1449/VitAs2">Cristoforo</a>
+
+  <a href="../cite/Danielis/1449/VitAs2">Danielis</a>
+
+  <a href="../cite/Domeneco/1449/VitAs2">Domeneco</a>
+
+  <a href="../cite/Dominici/1521/VitAs2">Dominici</a>
+
+  <a href="../cite/Dominici/1490/VitAs2">Dominici</a>
+
+  <a href="../cite/Dominico/1449/VitAs2">Dominico</a>
+
+  <a href="../cite/Dominicus/1450/VitAs2">Dominicus</a>
+
+  <a href="../cite/Egidii/1490/VitAs2">Egidii</a>
+
+  <a href="../cite/Egidio/1521/VitAs2">Egidio</a>
+
+  <a href="../cite/Elisabecta/1521/VitAs2">Elisabecta</a>
+
+  <a href="../cite/Elisabetta/1521/VitAs2">Elisabetta</a>
+
+  <a href="../cite/Eugenium/1449/VitAs2">Eugenium</a>
+
+  <a href="../cite/Eusebia/1521/VitAs2">Eusebia</a>
+
+  <a href="../cite/Eusebie/1521/VitAs2">Eusebie</a>
+
+  <a href="../cite/Evangelistam/1490/VitAs2">Evangelistam</a>
+
+  <a href="../cite/Evangeliste/1505/VitAs2">Evangeliste</a>
+
+  <a href="../cite/Federicus/1490/VitAs2">Federicus</a>
+
+  <a href="../cite/Feliciana/1521/VitAs2">Feliciana</a>
+
+  <a href="../cite/Felicita/1521/VitAs2">Felicita</a>
+
+  <a href="../cite/Felippo/1521/VitAs2">Felippo</a>
+
+  <a href="../cite/Felix/1521/VitAs2">Felix</a>
+
+  <a href="../cite/Filippum/1450/VitAs2">Filippum</a>
+
+  <a href="../cite/Franceschele/1449/VitAs2">Franceschele</a>
+
+  <a href="../cite/Franceschele/1450/VitAs2">Franceschele</a>
+
+  <a href="../cite/Franceschino/1449/VitAs2">Franceschino</a>
+
+  <a href="../cite/Francesco/1450/VitAs2">Francesco</a>
+
+  <a href="../cite/Franciotti/1521/VitAs2">Franciotti</a>
+
+  <a href="../cite/Francisca/1521/VitAs2">Francisca</a>
+
+  <a href="../cite/Francischino/1450/VitAs2">Francischino</a>
+
+  <a href="../cite/Francischinus/1490/VitAs2">Francischinus</a>
+
+  <a href="../cite/Francisci/1450/VitAs2">Francisci</a>
+
+  <a href="../cite/Francisci/1449/VitAs2">Francisci</a>
+
+  <a href="../cite/Francisci/1521/VitAs2">Francisci</a>
+
+  <a href="../cite/Francisci/1490/VitAs2">Francisci</a>
+
+  <a href="../cite/Francisco/1490/VitAs2">Francisco</a>
+
+  <a href="../cite/Francisco/1521/VitAs2">Francisco</a>
+
+  <a href="../cite/Franciscus/1450/VitAs2">Franciscus</a>
+
+  <a href="../cite/Franciscus/1449/VitAs2">Franciscus</a>
+
+  <a href="../cite/Franciscus/1490/VitAs2">Franciscus</a>
+
+  <a href="../cite/Galeocti/1521/VitAs2">Galeocti</a>
+
+  <a href="../cite/Galeoctus/1521/VitAs2">Galeoctus</a>
+
+  <a href="../cite/Galiotto/1521/VitAs2">Galiotto</a>
+
+  <a href="../cite/Gasparris/1449/VitAs2">Gasparris</a>
+
+  <a href="../cite/Gentile/1521/VitAs2">Gentile</a>
+
+  <a href="../cite/Gentilis/1521/VitAs2">Gentilis</a>
+
+  <a href="../cite/Georgii/1450/VitAs2">Georgii</a>
+
+  <a href="../cite/Georgii/1521/VitAs2">Georgii</a>
+
+  <a href="../cite/Georgius/1521/VitAs2">Georgius</a>
+
+  <a href="../cite/Gherardi/1490/VitAs2">Gherardi</a>
+
+  <a href="../cite/Ghirardi/1521/VitAs2">Ghirardi</a>
+
+  <a href="../cite/Ghirardus/1521/VitAs2">Ghirardus</a>
+
+  <a href="../cite/Giovagne/1450/VitAs2">Giovagne</a>
+
+  <a href="../cite/Giovagnie/1449/VitAs2">Giovagnie</a>
+
+  <a href="../cite/Giovanne/1449/VitAs2">Giovanne</a>
+
+  <a href="../cite/Giovanni/1490/VitAs2">Giovanni</a>
+
+  <a href="../cite/Girardo/1521/VitAs2">Girardo</a>
+
+  <a href="../cite/Girardo/1449/VitAs2">Girardo</a>
+
+  <a href="../cite/Gregorio/1450/VitAs2">Gregorio</a>
+
+  <a href="../cite/Gregorio/1449/VitAs2">Gregorio</a>
+
+  <a href="../cite/Gregorius/1449/VitAs2">Gregorius</a>
+
+  <a href="../cite/Guiglielmum/1490/VitAs2">Guiglielmum</a>
+
+  <a href="../cite/Gulielmus/1490/VitAs2">Gulielmus</a>
+
+  <a href="../cite/Hieronima/1521/VitAs2">Hieronima</a>
+
+  <a href="../cite/Hieronimi/1521/VitAs2">Hieronimi</a>
+
+  <a href="../cite/Hieronymus/1521/VitAs2">Hieronymus</a>
+
+  <a href="../cite/Iacoba/1521/VitAs2">Iacoba</a>
+
+  <a href="../cite/Iacobi/1490/VitAs2">Iacobi</a>
+
+  <a href="../cite/Iacobi/1521/VitAs2">Iacobi</a>
+
+  <a href="../cite/Iacobi/1449/VitAs2">Iacobi</a>
+
+  <a href="../cite/Iacobi/1450/VitAs2">Iacobi</a>
+
+  <a href="../cite/Iacobo/1449/VitAs2">Iacobo</a>
+
+  <a href="../cite/Iacobo/1450/VitAs2">Iacobo</a>
+
+  <a href="../cite/Iacobus/1521/VitAs2">Iacobus</a>
+
+  <a href="../cite/Iacobus/1490/VitAs2">Iacobus</a>
+
+  <a href="../cite/Iacobus/1449/VitAs2">Iacobus</a>
+
+  <a href="../cite/Iacomo/1521/VitAs2">Iacomo</a>
+
+  <a href="../cite/Iasonis/1521/VitAs2">Iasonis</a>
+
+  <a href="../cite/Ieronimi/1505/VitAs2">Ieronimi</a>
+
+  <a href="../cite/Ieronimo/1521/VitAs2">Ieronimo</a>
+
+  <a href="../cite/Ieronimus/1490/VitAs2">Ieronimus</a>
+
+  <a href="../cite/Iherollimus/1490/VitAs2">Iherollimus</a>
+
+  <a href="../cite/Ioanne&#32;Baptista/1521/VitAs2">Ioanne Baptista</a>
+
+  <a href="../cite/Ioannes/1490/VitAs2">Ioannes</a>
+
+  <a href="../cite/Ioannes&#32;Baptista/1505/VitAs2">Ioannes Baptista</a>
+
+  <a href="../cite/Ioannes&#32;Franciscus/1490/VitAs2">Ioannes Franciscus</a>
+
+  <a href="../cite/Ioannis/1490/VitAs2">Ioannis</a>
+
+  <a href="../cite/Iohanna/1521/VitAs2">Iohanna</a>
+
+  <a href="../cite/Iohanne/1490/VitAs2">Iohanne</a>
+
+  <a href="../cite/Iohanne/1449/VitAs2">Iohanne</a>
+
+  <a href="../cite/Iohanne/1450/VitAs2">Iohanne</a>
+
+  <a href="../cite/Iohanne/1521/VitAs2">Iohanne</a>
+
+  <a href="../cite/Iohannes/1449/VitAs2">Iohannes</a>
+
+  <a href="../cite/Iohannes/1450/VitAs2">Iohannes</a>
+
+  <a href="../cite/Iohannes&#32;Antonius/1521/VitAs2">Iohannes Antonius</a>
+
+  <a href="../cite/Iohannes&#32;Baptista/1490/VitAs2">Iohannes Baptista</a>
+
+  <a href="../cite/Iohannes&#32;Paulus/1521/VitAs2">Iohannes Paulus</a>
+
+  <a href="../cite/Iohanni/1449/VitAs2">Iohanni</a>
+
+  <a href="../cite/Iohanni&#32;Francisco/1490/VitAs2">Iohanni Francisco</a>
+
+  <a href="../cite/Iohannis/1449/VitAs2">Iohannis</a>
+
+  <a href="../cite/Iohannis/1490/VitAs2">Iohannis</a>
+
+  <a href="../cite/Iohannis/1521/VitAs2">Iohannis</a>
+
+  <a href="../cite/Iordani/1449/VitAs2">Iordani</a>
+
+  <a href="../cite/Iordanis/1450/VitAs2">Iordanis</a>
+
+  <a href="../cite/Iovanne/1449/VitAs2">Iovanne</a>
+
+  <a href="../cite/Ipolito/1449/VitAs2">Ipolito</a>
+
+  <a href="../cite/Iuliani/1449/VitAs2">Iuliani</a>
+
+  <a href="../cite/Iuliani/1521/VitAs2">Iuliani</a>
+
+  <a href="../cite/Iusti/1521/VitAs2">Iusti</a>
+
+  <a href="../cite/Katerine/1450/VitAs2">Katerine</a>
+
+  <a href="../cite/Laurentii/1449/VitAs2">Laurentii</a>
+
+  <a href="../cite/Laurentio/1449/VitAs2">Laurentio</a>
+
+  <a href="../cite/Laurentio/1450/VitAs2">Laurentio</a>
+
+  <a href="../cite/Laurentium/1449/VitAs2">Laurentium</a>
+
+  <a href="../cite/Leo/1449/VitAs2">Leo</a>
+
+  <a href="../cite/Lippi/1521/VitAs2">Lippi</a>
+
+  <a href="../cite/Luca/1450/VitAs2">Luca</a>
+
+  <a href="../cite/Lucas/1449/VitAs2">Lucas</a>
+
+  <a href="../cite/Luce/1521/VitAs2">Luce</a>
+
+  <a href="../cite/Ludovici/1521/VitAs2">Ludovici</a>
+
+  <a href="../cite/Ludovici/1490/VitAs2">Ludovici</a>
+
+  <a href="../cite/Ludovico/1490/VitAs2">Ludovico</a>
+
+  <a href="../cite/Maria/1490/VitAs2">Maria</a>
+
+  <a href="../cite/Maria/1521/VitAs2">Maria</a>
+
+  <a href="../cite/Mariantonia/1521/VitAs2">Mariantonia</a>
+
+  <a href="../cite/Marianus/1505/VitAs2">Marianus</a>
+
+  <a href="../cite/Marino/1449/VitAs2">Marino</a>
+
+  <a href="../cite/Marino/1450/VitAs2">Marino</a>
+
+  <a href="../cite/Marinutii/1449/VitAs2">Marinutii</a>
+
+  <a href="../cite/Mariocti/1521/VitAs2">Mariocti</a>
+
+  <a href="../cite/Mariocto/1521/VitAs2">Mariocto</a>
+
+  <a href="../cite/Mariotta/1521/VitAs2">Mariotta</a>
+
+  <a href="../cite/Mariotti/1521/VitAs2">Mariotti</a>
+
+  <a href="../cite/Mariotti/1490/VitAs2">Mariotti</a>
+
+  <a href="../cite/Mariotto/1521/VitAs2">Mariotto</a>
+
+  <a href="../cite/Mariottus/1505/VitAs2">Mariottus</a>
+
+  <a href="../cite/Martinangeli/1521/VitAs2">Martinangeli</a>
+
+  <a href="../cite/Martini/1521/VitAs2">Martini</a>
+
+  <a href="../cite/Matei/1521/VitAs2">Matei</a>
+
+  <a href="../cite/Mathei/1449/VitAs2">Mathei</a>
+
+  <a href="../cite/Mathei/1521/VitAs2">Mathei</a>
+
+  <a href="../cite/Mathia/1450/VitAs2">Mathia</a>
+
+  <a href="../cite/Mathiam/1450/VitAs2">Mathiam</a>
+
+  <a href="../cite/Michaelis/1490/VitAs2">Michaelis</a>
+
+  <a href="../cite/Michalangeli/1521/VitAs2">Michalangeli</a>
+
+  <a href="../cite/Michel/1521/VitAs2">Michel</a>
+
+  <a href="../cite/Niccolaus/1450/VitAs2">Niccolaus</a>
+
+  <a href="../cite/Nicholosa/1521/VitAs2">Nicholosa</a>
+
+  <a href="../cite/Nicolai/1490/VitAs2">Nicolai</a>
+
+  <a href="../cite/Nicolai/1449/VitAs2">Nicolai</a>
+
+  <a href="../cite/Nicolao/1450/VitAs2">Nicolao</a>
+
+  <a href="../cite/Nicolao/1449/VitAs2">Nicolao</a>
+
+  <a href="../cite/Nicolaus/1450/VitAs2">Nicolaus</a>
+
+  <a href="../cite/Nicolaus/1449/VitAs2">Nicolaus</a>
+
+  <a href="../cite/Nicolay/1450/VitAs2">Nicolay</a>
+
+  <a href="../cite/Orsini/1521/VitAs2">Orsini</a>
+
+  <a href="../cite/Paolo/1449/VitAs2">Paolo</a>
+
+  <a href="../cite/Pauli/1521/VitAs2">Pauli</a>
+
+  <a href="../cite/Pauli/1449/VitAs2">Pauli</a>
+
+  <a href="../cite/Paulo/1490/VitAs2">Paulo</a>
+
+  <a href="../cite/Paulo/1521/VitAs2">Paulo</a>
+
+  <a href="../cite/Paulo/1450/VitAs2">Paulo</a>
+
+  <a href="../cite/Paulo/1449/VitAs2">Paulo</a>
+
+  <a href="../cite/Paulotii/1521/VitAs2">Paulotii</a>
+
+  <a href="../cite/Paulus/1490/VitAs2">Paulus</a>
+
+  <a href="../cite/Paulus/1449/VitAs2">Paulus</a>
+
+  <a href="../cite/Perangeli/1521/VitAs2">Perangeli</a>
+
+  <a href="../cite/Peri/1521/VitAs2">Peri</a>
+
+  <a href="../cite/Perotis/1449/VitAs2">Perotis</a>
+
+  <a href="../cite/Petri/1521/VitAs2">Petri</a>
+
+  <a href="../cite/Petri/1450/VitAs2">Petri</a>
+
+  <a href="../cite/Petri/1490/VitAs2">Petri</a>
+
+  <a href="../cite/Petri/1449/VitAs2">Petri</a>
+
+  <a href="../cite/Petro/1450/VitAs2">Petro</a>
+
+  <a href="../cite/Petro/1505/VitAs2">Petro</a>
+
+  <a href="../cite/Petro/1490/VitAs2">Petro</a>
+
+  <a href="../cite/Petro/1449/VitAs2">Petro</a>
+
+  <a href="../cite/Petrus/1521/VitAs2">Petrus</a>
+
+  <a href="../cite/Petrus/1449/VitAs2">Petrus</a>
+
+  <a href="../cite/Petrus&#32;Paulus/1490/VitAs2">Petrus Paulus</a>
+
+  <a href="../cite/Petrutii/1449/VitAs2">Petrutii</a>
+
+  <a href="../cite/Petrutii/1521/VitAs2">Petrutii</a>
+
+  <a href="../cite/Philippa/1521/VitAs2">Philippa</a>
+
+  <a href="../cite/Philippi/1521/VitAs2">Philippi</a>
+
+  <a href="../cite/Philippus/1521/VitAs2">Philippus</a>
+
+  <a href="../cite/Rafaellem/1450/VitAs2">Rafaellem</a>
+
+  <a href="../cite/Rainaldi/1521/VitAs2">Rainaldi</a>
+
+  <a href="../cite/Raynaldi/1521/VitAs2">Raynaldi</a>
+
+  <a href="../cite/Ricardo/1450/VitAs2">Ricardo</a>
+
+  <a href="../cite/Rosata/1521/VitAs2">Rosata</a>
+
+  <a href="../cite/Rose/1490/VitAs2">Rose</a>
+
+  <a href="../cite/Salvatoris/1521/VitAs2">Salvatoris</a>
+
+  <a href="../cite/Salves/1449/VitAs2">Salves</a>
+
+  <a href="../cite/Sanctis/1449/VitAs2">Sanctis</a>
+
+  <a href="../cite/Sanctis/1490/VitAs2">Sanctis</a>
+
+  <a href="../cite/Serafino/1521/VitAs2">Serafino</a>
+
+  <a href="../cite/Silvestri/1449/VitAs2">Silvestri</a>
+
+  <a href="../cite/Silvestro/1490/VitAs2">Silvestro</a>
+
+  <a href="../cite/Silvestro/1521/VitAs2">Silvestro</a>
+
+  <a href="../cite/Silvius/1490/VitAs2">Silvius</a>
+
+  <a href="../cite/Simonis/1450/VitAs2">Simonis</a>
+
+  <a href="../cite/Sinibaldi/1521/VitAs2">Sinibaldi</a>
+
+  <a href="../cite/Stefani/1521/VitAs2">Stefani</a>
+
+  <a href="../cite/Symon/1450/VitAs2">Symon</a>
+
+  <a href="../cite/Tadey/1490/VitAs2">Tadey</a>
+
+  <a href="../cite/Thoma/1449/VitAs2">Thoma</a>
+
+  <a href="../cite/Thomasso/1521/VitAs2">Thomasso</a>
+
+  <a href="../cite/Thome/1449/VitAs2">Thome</a>
+
+  <a href="../cite/Thome/1490/VitAs2">Thome</a>
+
+  <a href="../cite/Tiberio/1521/VitAs2">Tiberio</a>
+
+  <a href="../cite/Tiberio/1490/VitAs2">Tiberio</a>
+
+  <a href="../cite/Tiberius/1490/VitAs2">Tiberius</a>
+
+  <a href="../cite/Tome/1449/VitAs2">Tome</a>
+
+  <a href="../cite/Urbano/1449/VitAs2">Urbano</a>
+
+  <a href="../cite/Usepie/1521/VitAs2">Usepie</a>
+
+  <a href="../cite/Valentino/1449/VitAs2">Valentino</a>
+
+  <a href="../cite/Valentinus/1449/VitAs2">Valentinus</a>
+
+  <a href="../cite/Victoriano/1521/VitAs2">Victoriano</a>
+
+  <a href="../cite/Victuriano/1521/VitAs2">Victuriano</a>
+
+  <a href="../cite/Violans/1521/VitAs2">Violans</a>
+
+  <a href="../cite/Zacharia/1521/VitAs2">Zacharia</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

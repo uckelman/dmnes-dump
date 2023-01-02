@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Rado</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Rado</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A pet form of any name beginning with <span class="lang">Old Saxon</span> <i>rād</i>, <span class="lang">Old High German</span> <i>rāt</i> 'counsel, advice', also sometimes used as a standalone name in its own right.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 10th C German saint.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">930</span> <span class="name">Razo</span> (<span class="case">nom</span>) <a href="../cite/Razo/930/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">19</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">779</span> <span class="name">Radoni</span> (<span class="case">dat</span>) <a href="../cite/Radoni/779/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 12</span></a></dd>
+<dt><span class="lang">Middle Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1336</span> <span class="name">Rasen</span> (<span class="case">dat</span>) <a href="../cite/Rasen/1336/RSG1336-39"><span class="bib_key">RSG1336-39</span> <span class="bib_loc">p. 3</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Rasonis</span> (<span class="case">gen</span>) <a href="../cite/Rasonis/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 14</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1312</span> <span class="name">Rassini</span> (<span class="case">gen</span>) <a href="../cite/Rassini/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 20</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">657</span> <span class="name">Rado</span> (<span class="case">nom</span>) <a href="../cite/Rado/657/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">CCCXXIX</span></a>;
+ <span class="date">700</span> <span class="name">Ratone</span> (<span class="case">abl</span>) <a href="../cite/Ratone/700/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">854</span> <span class="name">Radonis</span> (<span class="case">gen</span>) <a href="../cite/Radonis/854/InsMacon"><span class="bib_key">InsMacon</span> <span class="bib_loc">VII</span></a>;
+ <span class="date">1378</span> <span class="name">Rassoni</span> (<span class="case">dat</span>) <a href="../cite/Rassoni/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1088</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1101</span> <span class="name">Razelini</span> (<span class="case">gen</span>) <a href="../cite/Razelini/1101/CartSPL1"><span class="bib_key">CartSPL1</span> <span class="bib_loc">X</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1415[1469x1471]</span> <span class="name">Rasse</span> <a href="../cite/Rasse/1415[1469x1471]/Waurin"><span class="bib_key">Waurin</span> <span class="bib_loc">p. 227</span></a>;
+ <span class="date">1418</span> <span class="name">Rasse</span> <a href="../cite/Rasse/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 389</span></a>;
+ <span class="date">1421</span> <span class="name">Rasse</span> <a href="../cite/Rasse/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">1122</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">779</span> <span class="name">Radoni</span> (<span class="case">dat</span>) <a href="../cite/Radoni/779/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">1</span></a>;
+ <span class="date">822x875</span> <span class="name">Radi</span> (<span class="case">abl</span>) <a href="../cite/Radi/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§172</span></a>;
+ <span class="date">1135</span> <span class="name">Rado</span> (<span class="case">nom</span>) <a href="../cite/Rado/1135/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">95</span></a>;
+ <span class="date">1165</span> <span class="name">Razonis</span> (<span class="case">gen</span>) <a href="../cite/Razonis/1165/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">93</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">828</span> <span class="name">Radini</span> (<span class="case">nom</span>) <a href="../cite/Radini/828/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 29</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1251</span> <span class="name">Razo</span> (<span class="case">nom</span>) <a href="../cite/Razo/1251/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">141</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Rado". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Rado.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

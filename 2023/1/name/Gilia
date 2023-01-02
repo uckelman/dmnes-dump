@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Gilia</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Gilia</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Fem. of <a class="nym" href="Giles">Giles</a> or <a class="nym" href="Gilo">Gilo</a>.
+  </span>
+  
+</p>
+  
+  
+<div class="def">
+  <p>Some diminutive forms may also be diminutives of <a class="nym" href="Julia">Julia</a> or <a class="nym" href="Juliana">Juliana</a>.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1296</span> <span class="name">Egidie</span> (<span class="case">gen</span>) <a href="../cite/Egidie/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 93a</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1377</span> <span class="name">Giliota</span> (<span class="case">nom</span>) <a href="../cite/Giliota/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 5</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1577</span> <span class="name">gillette</span> <a href="../cite/gillette/1577/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 86</span></a>;
+ <span class="date">1587</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1587/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1589</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1589/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1590</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1590/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1593</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1593/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1594</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1594/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1595</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1595/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1590</span> <span class="name">Gilette</span> <a href="../cite/Gilette/1590/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1591</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1592</span> <span class="name">Gilette</span> <a href="../cite/Gilette/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="name">Gillette</span> <a href="../cite/Gillette/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1592/3</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1592s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593/4</span> <span class="name">Gilette</span> <a href="../cite/Gilette/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1594</span> <span class="name">Gilette</span> <a href="../cite/Gilette/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1135</span> <span class="name">Gilia</span> (<span class="case">abl</span>) <a href="../cite/Gilia/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1147</span> <span class="name">Gilia</span> (<span class="case">abl</span>) <a href="../cite/Gilia/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>,
+ <span class="name">Gilla</span> (<span class="case">abl</span>) <a href="../cite/Gilla/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">17</span></a>;
+ <span class="date">1147x62</span> <span class="name">Gilia</span> (<span class="case">nom</span>) <a href="../cite/Gilia/1147x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">53</span></a>;
+ <span class="date">1166</span> <span class="name">Gila</span> (<span class="case">nom</span>) <a href="../cite/Gila/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>,
+ <span class="name">Gile</span> (<span class="case">gen</span>) <a href="../cite/Gile/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>;
+ <span class="date">1179</span> <span class="name">Gelia</span> (<span class="case">abl</span>) <a href="../cite/Gelia/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">172</span></a>,
+ <span class="name">Gila</span> (<span class="case">abl</span>) <a href="../cite/Gila/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">178</span></a>;
+ <span class="date">1268</span> <span class="name">Gilam</span> (<span class="case">acc</span>) <a href="../cite/Gilam/1268/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-X</span></a>;
+ <span class="date">1270</span> <span class="name">Gila</span> (<span class="case">nom</span>) <a href="../cite/Gila/1270/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLI</span></a>;
+ <span class="date">1301</span> <span class="name">Egidia</span> (<span class="case">nom</span>) <a href="../cite/Egidia/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 257</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1301</span> <span class="name">Goillete</span> (<span class="case">gen</span>) <a href="../cite/Goillete/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 198</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1301</span> <span class="name">Gille</span> (<span class="case">nom</span>) <a href="../cite/Gille/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 335 [p. 235]</span></a>;
+ <span class="date">1313</span> <span class="name">Gile</span> <a href="../cite/Gile/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 35</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1421</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1455</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1455/HRAVP-3"><span class="bib_key">HRAVP-3</span> <span class="bib_loc">p. 354</span></a>;
+ <span class="date">1564</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1564/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1568</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 376</span></a>;
+ <span class="date">1571</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 605</span></a>;
+ <span class="date">1572</span> <span class="name">Gillette</span> <a href="../cite/Gillette/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 510</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1538/9</span> <span class="name">Egidia</span> <a href="../cite/Egidia/1538s9/Fiants-1"><span class="bib_key">Fiants-1</span> <span class="bib_loc">69</span></a>;
+ <span class="date">1540</span> <span class="name">Egidia</span> <a href="../cite/Egidia/1540/Fiants-1"><span class="bib_key">ibid.</span> <span class="bib_loc">116</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Zillia</span> (<span class="case">nom</span>) <a href="../cite/Zillia/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1285</span> <span class="name">Egidie</span> (<span class="case">gen</span>) <a href="../cite/Egidie/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 156</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1426/7</span> <span class="name">Egidie</span> (<span class="case">dat</span>) <a href="../cite/Egidie/1426s7/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">73</span></a>;
+ <span class="date">1427</span> <span class="name">Gilia</span> (<span class="case">abl</span>) <a href="../cite/Gilia/1427/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a>,
+ <span class="name">Gilie</span> (<span class="case">gen</span>) <a href="../cite/Gilie/1427/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">105</span></a></dd>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">●</span> <span class="date">1543</span> <span class="name">Gelis</span> <a href="../cite/Gelis/1543/PGB"><span class="bib_key">PGB</span></a>;
+ <span class="date">1592</span> <span class="name">Gelis</span> <a href="../cite/Gelis/1592/PGB"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1594</span> <span class="name">Gelis</span> <a href="../cite/Gelis/1594/PGB"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Gilia". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Gilia.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

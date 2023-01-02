@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Germund</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Germund</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old Norse</span> <i>geirr</i>, <span class="lang">Old High German</span>, <span class="lang">Old Saxon</span> <i>gēr</i> 'spear' + <span class="lang">Old Norse</span> <i>mundr</i>, <span class="lang">Old Saxon</span> <i>mund</i>, <span class="lang">Old High German</span> <i>munt</i> 'protection'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">763</span> <span class="name">Kermunt</span> (<span class="case">nom</span>) <a href="../cite/Kermunt/763/FRA-XXXL"><span class="bib_key">FRA-XXXL</span> <span class="bib_loc">1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Germund</span> (<span class="case">nom</span>) <a href="../cite/Germund/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 168</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Germundus</span> (<span class="case">nom</span>) <a href="../cite/Germundus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">49</span></a>;
+ <span class="date">1031</span> <span class="name">Germundus</span> (<span class="case">nom</span>) <a href="../cite/Germundus/1031/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">684</span></a>;
+ <span class="date">1292</span> <span class="name">Germondus</span> (<span class="case">nom</span>) <a href="../cite/Germondus/1292/MemBret-I"><span class="bib_key">MemBret-I</span> <span class="bib_loc">1104</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Germundi</span> (<span class="case">gen</span>) <a href="../cite/Germundi/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 6</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">797</span> <span class="name">Germundi</span> (<span class="case">gen</span>) <a href="../cite/Germundi/797/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 17</span></a>;
+ <span class="date">801</span> <span class="name">Germundi</span> (<span class="case">gen</span>) <a href="../cite/Germundi/801/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 22</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1417</span> <span class="name">Germunds</span> (<span class="case">gen</span>) <a href="../cite/Germunds/1417/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 18862</span></a>;
+ <span class="date">1420</span> <span class="name">Germund</span> (<span class="case">nom</span>) <a href="../cite/Germund/1420/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19436</span></a>,
+ <span class="name">Germuns</span> (<span class="case">gen</span>) <a href="../cite/Germuns/1420/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19436</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, S.L. Uckelman. "Germund". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Germund.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

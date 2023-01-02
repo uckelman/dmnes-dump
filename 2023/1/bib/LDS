@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>LDS</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>LDS</dt>
+  <dd>André Salmon, editor. <em>Le Livre des Serfes de Marmoutier</em>, volume XVI of <em> Publications de la Société Archéologique de Touraine</em>. Tours: Imprimerie Ladevèze, 1864.</dd>
+</dl>
+
+
+  <a href="../cite/Achardo/1064/LDS">Achardo</a>
+
+  <a href="../cite/Achardus/1070/LDS">Achardus</a>
+
+  <a href="../cite/Adelade/1032x1064/LDS">Adelade</a>
+
+  <a href="../cite/Alberti/1032x1064/LDS">Alberti</a>
+
+  <a href="../cite/Alburge/1032x1064/LDS">Alburge</a>
+
+  <a href="../cite/Alguinus/1032x1100/LDS">Alguinus</a>
+
+  <a href="../cite/Andreæ/1032x1100/LDS">Andreæ</a>
+
+  <a href="../cite/Anselmus/1282/LDS">Anselmus</a>
+
+  <a href="../cite/Archembaldo/1064/LDS">Archembaldo</a>
+
+  <a href="../cite/Arnoldus/1282/LDS">Arnoldus</a>
+
+  <a href="../cite/Arraldus/1032x1100/LDS">Arraldus</a>
+
+  <a href="../cite/Ascelinus/1070/LDS">Ascelinus</a>
+
+  <a href="../cite/Aufredus/1032x1064/LDS">Aufredus</a>
+
+  <a href="../cite/Bartholomei/1064/LDS">Bartholomei</a>
+
+  <a href="../cite/Bartholomei/1070/LDS">Bartholomei</a>
+
+  <a href="../cite/Benedictus/1070/LDS">Benedictus</a>
+
+  <a href="../cite/Berengerius/1032x1064/LDS">Berengerius</a>
+
+  <a href="../cite/Bernoinus/1032x1064/LDS">Bernoinus</a>
+
+  <a href="../cite/Boselinus/1032x1064/LDS">Boselinus</a>
+
+  <a href="../cite/Constantio/1032x1064/LDS">Constantio</a>
+
+  <a href="../cite/Dodo/1032x1064/LDS">Dodo</a>
+
+  <a href="../cite/Dominica/1032x1064/LDS">Dominica</a>
+
+  <a href="../cite/Drogonis/1070/LDS">Drogonis</a>
+
+  <a href="../cite/Durando/1064/LDS">Durando</a>
+
+  <a href="../cite/Ebrulfus/1032x1064/LDS">Ebrulfus</a>
+
+  <a href="../cite/Ermingarde/1032x1064/LDS">Ermingarde</a>
+
+  <a href="../cite/Ernaldum/1032x1064/LDS">Ernaldum</a>
+
+  <a href="../cite/Ernaldus/1032x1064/LDS">Ernaldus</a>
+
+  <a href="../cite/Ernaldus/1032x1100/LDS">Ernaldus</a>
+
+  <a href="../cite/Fredeburge/1032x1064/LDS">Fredeburge</a>
+
+  <a href="../cite/Frodo/1032x1064/LDS">Frodo</a>
+
+  <a href="../cite/Frotmundus/1070/LDS">Frotmundus</a>
+
+  <a href="../cite/Fulcherius/1032x1100/LDS">Fulcherius</a>
+
+  <a href="../cite/Fulco/1032x1064/LDS">Fulco</a>
+
+  <a href="../cite/Gaufredus/1070/LDS">Gaufredus</a>
+
+  <a href="../cite/Gauslinus/1032x1064/LDS">Gauslinus</a>
+
+  <a href="../cite/Gauterius/1070/LDS">Gauterius</a>
+
+  <a href="../cite/Georgius/1032x1100/LDS">Georgius</a>
+
+  <a href="../cite/Giraldo/1064/LDS">Giraldo</a>
+
+  <a href="../cite/Giraldus/1032x1064/LDS">Giraldus</a>
+
+  <a href="../cite/Girbertus/1032x1100/LDS">Girbertus</a>
+
+  <a href="../cite/Godefrido/1282/LDS">Godefrido</a>
+
+  <a href="../cite/Godefridus/1032x1100/LDS">Godefridus</a>
+
+  <a href="../cite/Gualdricum/1032x1064/LDS">Gualdricum</a>
+
+  <a href="../cite/Guarnerius/1032x1064/LDS">Guarnerius</a>
+
+  <a href="../cite/Guillelmus/1070/LDS">Guillelmus</a>
+
+  <a href="../cite/Guillelmus/1032x1100/LDS">Guillelmus</a>
+
+  <a href="../cite/Haimelino/1032x1100/LDS">Haimelino</a>
+
+  <a href="../cite/Hamelino/1032x1064/LDS">Hamelino</a>
+
+  <a href="../cite/Hermensendem/1064/LDS">Hermensendem</a>
+
+  <a href="../cite/Hildeburgis/1032x1100/LDS">Hildeburgis</a>
+
+  <a href="../cite/Hildradus/1070/LDS">Hildradus</a>
+
+  <a href="../cite/Huberto/1032x1100/LDS">Huberto</a>
+
+  <a href="../cite/Hubertus/1032x1064/LDS">Hubertus</a>
+
+  <a href="../cite/Hubertus/1070/LDS">Hubertus</a>
+
+  <a href="../cite/Hugo/1032x1100/LDS">Hugo</a>
+
+  <a href="../cite/Hugonis/1070/LDS">Hugonis</a>
+
+  <a href="../cite/Isembertum/1032x1100/LDS">Isembertum</a>
+
+  <a href="../cite/Isembertus/1032x1064/LDS">Isembertus</a>
+
+  <a href="../cite/Johannem/1064/LDS">Johannem</a>
+
+  <a href="../cite/Johannes/1032x1064/LDS">Johannes</a>
+
+  <a href="../cite/Joseph/1032x1064/LDS">Joseph</a>
+
+  <a href="../cite/Landrico/1032x1100/LDS">Landrico</a>
+
+  <a href="../cite/Landricus/1032x1064/LDS">Landricus</a>
+
+  <a href="../cite/Leodegarii/1070/LDS">Leodegarii</a>
+
+  <a href="../cite/Leodegarius/1070/LDS">Leodegarius</a>
+
+  <a href="../cite/Malgerius/1070/LDS">Malgerius</a>
+
+  <a href="../cite/Martinus/1032x1064/LDS">Martinus</a>
+
+  <a href="../cite/Matheus/1070/LDS">Matheus</a>
+
+  <a href="../cite/Odoni/1032x1100/LDS">Odoni</a>
+
+  <a href="../cite/Odonis/1032x1100/LDS">Odonis</a>
+
+  <a href="../cite/Otgerio/1064/LDS">Otgerio</a>
+
+  <a href="../cite/Petrus/1070/LDS">Petrus</a>
+
+  <a href="../cite/Richilde/1032x1064/LDS">Richilde</a>
+
+  <a href="../cite/Richildem/1032x1064/LDS">Richildem</a>
+
+  <a href="../cite/Richildem/1064/LDS">Richildem</a>
+
+  <a href="../cite/Richildi/1032x1100/LDS">Richildi</a>
+
+  <a href="../cite/Richildis/1070/LDS">Richildis</a>
+
+  <a href="../cite/Richildis/1064/LDS">Richildis</a>
+
+  <a href="../cite/Teodericus/1032x1100/LDS">Teodericus</a>
+
+  <a href="../cite/Tetbaldo/1064/LDS">Tetbaldo</a>
+
+  <a href="../cite/Tetbergam/1064/LDS">Tetbergam</a>
+
+  <a href="../cite/Ulgerius/1032x1064/LDS">Ulgerius</a>
+
+  <a href="../cite/Vivianum/1064/LDS">Vivianum</a>
+
+  <a href="../cite/Vivianus/1064/LDS">Vivianus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

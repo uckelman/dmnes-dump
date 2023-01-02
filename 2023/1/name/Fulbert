@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Fulbert</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Fulbert</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old High German</span> <i>folc</i> 'people, nation, tribe, race' + <span class="lang">Old High German</span> <i>beraht</i>, <span class="lang">Old Saxon</span> <i>berht</i> 'bright' from <span class="lang">Proto-Germanic</span> <i>*berhtaz</i>.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1107</span> <span class="name">Fulbertus</span> (<span class="case">nom</span>) <a href="../cite/Fulbertus/1107/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">3</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c823</span> <span class="name">Fulbertus</span> (<span class="case">nom</span>) <a href="../cite/Fulbertus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">36, Wan</span></a>;
+ <span class="date">848</span> <span class="name">Fulbertus</span> (<span class="case">nom</span>) <a href="../cite/Fulbertus/848/CartNoaille"><span class="bib_key">CartNoaille</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1015</span> <span class="name">Vulberti</span> (<span class="case">gen</span>) <a href="../cite/Vulberti/1015/NTDip-vol4"><span class="bib_key">NTDip-vol4</span> <span class="bib_loc">p. 225</span></a>;
+ <span class="date">1029x1033</span> <span class="name">Fulberti</span> (<span class="case">gen</span>) <a href="../cite/Fulberti/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>,
+ <span class="name">Fulbertus</span> (<span class="case">nom</span>) <a href="../cite/Fulbertus/1029x1033/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Fulbertus</span> (<span class="case">nom</span>) <a href="../cite/Fulbertus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI</span></a>;
+ <span class="date">a1108</span> <span class="name">Fulberti</span> (<span class="case">gen</span>) <a href="../cite/Fulberti/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>,
+ <span class="name">Fulbertus</span> (<span class="case">nom</span>) <a href="../cite/Fulbertus/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">a1116</span> <span class="name">Fulbertus</span> (<span class="case">nom</span>) <a href="../cite/Fulbertus/a1116/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">c1150</span> <span class="name">Fulberti</span> (<span class="case">gen</span>) <a href="../cite/Fulberti/c1150/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXIII</span></a>;
+ <span class="date">1179</span> <span class="name">Fulbertus</span> (<span class="case">nom</span>) <a href="../cite/Fulbertus/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">181</span></a>;
+ <span class="date">1301</span> <span class="name">Fouberti</span> (<span class="case">gen</span>) <a href="../cite/Fouberti/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 262</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">988</span> <span class="name">Folgberti</span> (<span class="case">gen</span>) <a href="../cite/Folgberti/988/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">L</span></a>;
+ <span class="date">1061</span> <span class="name">Folbertus</span> (<span class="case">nom</span>) <a href="../cite/Folbertus/1061/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">60</span></a>;
+ <span class="date">1100</span> <span class="name">Fulbertus</span> (<span class="case">nom</span>) <a href="../cite/Fulbertus/1100/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">78</span></a>;
+ <span class="date">1237</span> <span class="name">Volbertus</span> (<span class="case">nom</span>) <a href="../cite/Volbertus/1237/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">95</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Fulbert". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Fulbert.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

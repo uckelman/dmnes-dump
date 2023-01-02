@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>CDAS</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>CDAS</dt>
+  <dd>Johannes M. Kemble, editor. volume III of <em>Opera</em>. London: Sumptibus Societatis, 1845.</dd>
+</dl>
+
+
+  <a href="../cite/Ailwinus/966/CDAS">Ailwinus</a>
+
+  <a href="../cite/Beorhtwalt/994/CDAS">Beorhtwalt</a>
+
+  <a href="../cite/Brichtelm/994/CDAS">Brichtelm</a>
+
+  <a href="../cite/Brihstan/966/CDAS">Brihstan</a>
+
+  <a href="../cite/Brihtnoð/967/CDAS">Brihtnoð</a>
+
+  <a href="../cite/Brihtnoðo/967/CDAS">Brihtnoðo</a>
+
+  <a href="../cite/Brihtnoðus/967/CDAS">Brihtnoðus</a>
+
+  <a href="../cite/Briðnoðus/966/CDAS">Briðnoðus</a>
+
+  <a href="../cite/Bryctnoð/967/CDAS">Bryctnoð</a>
+
+  <a href="../cite/Byrhstan/966/CDAS">Byrhstan</a>
+
+  <a href="../cite/Byrhtelmus/967/CDAS">Byrhtelmus</a>
+
+  <a href="../cite/Dunstan/967/CDAS">Dunstan</a>
+
+  <a href="../cite/Dunstanus/966/CDAS">Dunstanus</a>
+
+  <a href="../cite/Dunstanus/967/CDAS">Dunstanus</a>
+
+  <a href="../cite/Eadgar/967/CDAS">Eadgar</a>
+
+  <a href="../cite/Eadgar/966/CDAS">Eadgar</a>
+
+  <a href="../cite/Eádgáres/966/CDAS">Eádgáres</a>
+
+  <a href="../cite/Eadgari/966/CDAS">Eadgari</a>
+
+  <a href="../cite/Eadgaro/966/CDAS">Eadgaro</a>
+
+  <a href="../cite/Eadgarus/966/CDAS">Eadgarus</a>
+
+  <a href="../cite/Eadgarus/967/CDAS">Eadgarus</a>
+
+  <a href="../cite/Eádríce/966/CDAS">Eádríce</a>
+
+  <a href="../cite/Eádríco/966/CDAS">Eádríco</a>
+
+  <a href="../cite/Eadward/966/CDAS">Eadward</a>
+
+  <a href="../cite/Eadwine/966/CDAS">Eadwine</a>
+
+  <a href="../cite/Eduuino/967/CDAS">Eduuino</a>
+
+  <a href="../cite/Edward/966/CDAS">Edward</a>
+
+  <a href="../cite/Edwi/967/CDAS">Edwi</a>
+
+  <a href="../cite/Erkenuualdus/967/CDAS">Erkenuualdus</a>
+
+  <a href="../cite/Friðeuualdus/967/CDAS">Friðeuualdus</a>
+
+  <a href="../cite/Godwine/967/CDAS">Godwine</a>
+
+  <a href="../cite/Godwinus/966/CDAS">Godwinus</a>
+
+  <a href="../cite/Lefwinus/966/CDAS">Lefwinus</a>
+
+  <a href="../cite/Leofric/994/CDAS">Leofric</a>
+
+  <a href="../cite/Leofwine/966/CDAS">Leofwine</a>
+
+  <a href="../cite/Leofwine/967/CDAS">Leofwine</a>
+
+  <a href="../cite/Leofwyne/994/CDAS">Leofwyne</a>
+
+  <a href="../cite/Ordbricht/994/CDAS">Ordbricht</a>
+
+  <a href="../cite/Ordbriht/967/CDAS">Ordbriht</a>
+
+  <a href="../cite/Ordbryht/967/CDAS">Ordbryht</a>
+
+  <a href="../cite/Ordgar/967/CDAS">Ordgar</a>
+
+  <a href="../cite/Ordgar/966/CDAS">Ordgar</a>
+
+  <a href="../cite/Ordulf/994/CDAS">Ordulf</a>
+
+  <a href="../cite/Oscytel/967/CDAS">Oscytel</a>
+
+  <a href="../cite/Osgar/967/CDAS">Osgar</a>
+
+  <a href="../cite/Osketulus/966/CDAS">Osketulus</a>
+
+  <a href="../cite/Oskitel/967/CDAS">Oskitel</a>
+
+  <a href="../cite/Osulf/994/CDAS">Osulf</a>
+
+  <a href="../cite/Osulf/967/CDAS">Osulf</a>
+
+  <a href="../cite/Osuualdus/967/CDAS">Osuualdus</a>
+
+  <a href="../cite/Oswald/966/CDAS">Oswald</a>
+
+  <a href="../cite/Oswaldes/966/CDAS">Oswaldes</a>
+
+  <a href="../cite/Oswaldo/967/CDAS">Oswaldo</a>
+
+  <a href="../cite/Oswaldus/966/CDAS">Oswaldus</a>
+
+  <a href="../cite/Osward/967/CDAS">Osward</a>
+
+  <a href="../cite/Oswardus/966/CDAS">Oswardus</a>
+
+  <a href="../cite/Oswold/966/CDAS">Oswold</a>
+
+  <a href="../cite/Sigeric/994/CDAS">Sigeric</a>
+
+  <a href="../cite/Sigerico/994/CDAS">Sigerico</a>
+
+  <a href="../cite/Turketulo/966/CDAS">Turketulo</a>
+
+  <a href="../cite/Turketulum/966/CDAS">Turketulum</a>
+
+  <a href="../cite/Uulfsi/967/CDAS">Uulfsi</a>
+
+  <a href="../cite/Wihtelm/966/CDAS">Wihtelm</a>
+
+  <a href="../cite/Wihtelme/966/CDAS">Wihtelme</a>
+
+  <a href="../cite/Winsige/967/CDAS">Winsige</a>
+
+  <a href="../cite/Wulfgar/966/CDAS">Wulfgar</a>
+
+  <a href="../cite/Wulfheh/966/CDAS">Wulfheh</a>
+
+  <a href="../cite/Wulfhæh/966/CDAS">Wulfhæh</a>
+
+  <a href="../cite/Wulfric/966/CDAS">Wulfric</a>
+
+  <a href="../cite/Wulfsie/967/CDAS">Wulfsie</a>
+
+  <a href="../cite/Wulfstan/967/CDAS">Wulfstan</a>
+
+  <a href="../cite/Wulfsye/994/CDAS">Wulfsye</a>
+
+  <a href="../cite/Ælfelm/967/CDAS">Ælfelm</a>
+
+  <a href="../cite/Ælfgar/966/CDAS">Ælfgar</a>
+
+  <a href="../cite/Ælfheah/994/CDAS">Ælfheah</a>
+
+  <a href="../cite/Ælfheah/967/CDAS">Ælfheah</a>
+
+  <a href="../cite/Ælfhild/966/CDAS">Ælfhild</a>
+
+  <a href="../cite/Ælfred/994/CDAS">Ælfred</a>
+
+  <a href="../cite/Ælfred/966/CDAS">Ælfred</a>
+
+  <a href="../cite/Ælfric/994/CDAS">Ælfric</a>
+
+  <a href="../cite/Ælfric/967/CDAS">Ælfric</a>
+
+  <a href="../cite/Ælfrich/994/CDAS">Ælfrich</a>
+
+  <a href="../cite/Ælfricus/966/CDAS">Ælfricus</a>
+
+  <a href="../cite/Ælfsi/967/CDAS">Ælfsi</a>
+
+  <a href="../cite/Ælfsige/967/CDAS">Ælfsige</a>
+
+  <a href="../cite/Ælfstan/967/CDAS">Ælfstan</a>
+
+  <a href="../cite/Ælfstan/966/CDAS">Ælfstan</a>
+
+  <a href="../cite/Ælfstanus/966/CDAS">Ælfstanus</a>
+
+  <a href="../cite/Ælfstanus/967/CDAS">Ælfstanus</a>
+
+  <a href="../cite/Ælfwine/994/CDAS">Ælfwine</a>
+
+  <a href="../cite/Ælfwine/967/CDAS">Ælfwine</a>
+
+  <a href="../cite/Ælfwold/994/CDAS">Ælfwold</a>
+
+  <a href="../cite/Ælfwold/967/CDAS">Ælfwold</a>
+
+  <a href="../cite/Ælfwoldus/967/CDAS">Ælfwoldus</a>
+
+  <a href="../cite/Ælfwoldus/966/CDAS">Ælfwoldus</a>
+
+  <a href="../cite/Æscuui/967/CDAS">Æscuui</a>
+
+  <a href="../cite/Æscwi/967/CDAS">Æscwi</a>
+
+  <a href="../cite/Æscwig/967/CDAS">Æscwig</a>
+
+  <a href="../cite/Æðelferð/967/CDAS">Æðelferð</a>
+
+  <a href="../cite/Æðelgar/967/CDAS">Æðelgar</a>
+
+  <a href="../cite/Æðelgarus/966/CDAS">Æðelgarus</a>
+
+  <a href="../cite/Æðelmar/994/CDAS">Æðelmar</a>
+
+  <a href="../cite/Æðelmund/966/CDAS">Æðelmund</a>
+
+  <a href="../cite/Æðelredus/994/CDAS">Æðelredus</a>
+
+  <a href="../cite/Æðelric/967/CDAS">Æðelric</a>
+
+  <a href="../cite/Æðeluuard/967/CDAS">Æðeluuard</a>
+
+  <a href="../cite/Æðeluuine/967/CDAS">Æðeluuine</a>
+
+  <a href="../cite/Æðeluuold/967/CDAS">Æðeluuold</a>
+
+  <a href="../cite/Æðeluuoldi/967/CDAS">Æðeluuoldi</a>
+
+  <a href="../cite/Æðeluuoldus/967/CDAS">Æðeluuoldus</a>
+
+  <a href="../cite/Æðelward/966/CDAS">Æðelward</a>
+
+  <a href="../cite/Æðelweard/967/CDAS">Æðelweard</a>
+
+  <a href="../cite/Æðelwerd/994/CDAS">Æðelwerd</a>
+
+  <a href="../cite/Æðelwine/967/CDAS">Æðelwine</a>
+
+  <a href="../cite/Æðelwold/967/CDAS">Æðelwold</a>
+
+  <a href="../cite/Æðelwoldus/967/CDAS">Æðelwoldus</a>
+
+  <a href="../cite/Æðelwoldus/966/CDAS">Æðelwoldus</a>
+
+  <a href="../cite/Ðeodred/967/CDAS">Ðeodred</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

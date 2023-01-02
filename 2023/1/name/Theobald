@@ -1,0 +1,385 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Theobald</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Theobald</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Gothic</span> <i>þiuda</i> 'people, folk' + <span class="lang">Old High German</span> <i>bald</i> 'bold'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of two 11th and a 13th C French saints, and a 13th C king of Navarre.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The English vernacular form <i>Tebaud</i> is witnessed in 1379 in the relational byname <i>Tebaudmañ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 139</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1070</span> <span class="name">Dietpolt</span> (<span class="case">nom</span>) <a href="../cite/Dietpolt/c1070/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">69</span></a>;
+ <span class="date">c1075</span> <span class="name">Dietpolt</span> (<span class="case">nom</span>) <a href="../cite/Dietpolt/c1075/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">79</span></a>;
+ <span class="date">c1115</span> <span class="name">Diepolt</span> (<span class="case">nom</span>) <a href="../cite/Diepolt/c1115/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">102</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Thibout</span> <a href="../cite/Thibout/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 334</span></a>,
+ <span class="name">Thybout</span> <a href="../cite/Thybout/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 385</span></a>,
+ <span class="name">Thybouts</span> (<span class="case">gen</span>) <a href="../cite/Thybouts/1597x1598/BoonenGes"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 382</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Dypoldo</span> (<span class="case">abl</span>) <a href="../cite/Dypoldo/1350/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">199</span></a>;
+ <span class="date">1355</span> <span class="name">Dypoldus</span> (<span class="case">nom</span>) <a href="../cite/Dypoldus/1355/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">76</span></a>;
+ <span class="date">1358</span> <span class="name">Dyepoldo</span> (<span class="case">dat</span>) <a href="../cite/Dyepoldo/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">270, p. 32</span></a>,
+ <span class="name">Dyepoldus</span> (<span class="case">nom</span>) <a href="../cite/Dyepoldus/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">271, p. 32</span></a>,
+ <span class="name">Dypoldo</span> (<span class="case">dat</span>) <a href="../cite/Dypoldo/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">394, p. 36</span></a>,
+ <span class="name">Dypoldus</span> (<span class="case">nom</span>) <a href="../cite/Dypoldus/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">395, p. 37</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Teodbaldus</span> (<span class="case">nom</span>) <a href="../cite/Teodbaldus/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1194</span> <span class="name">Teobaldo</span> (<span class="case">dat</span>) <a href="../cite/Teobaldo/1194/RotCur-vol1"><span class="bib_key">RotCur-vol1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1222</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">theobaldi</span> (<span class="case">gen</span>) <a href="../cite/theobaldi/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>,
+ <span class="name">theodbaldi</span> (<span class="case">gen</span>) <a href="../cite/theodbaldi/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 97</span></a>;
+ <span class="date">1279–80</span> <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 52</span></a>,
+ <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a>,
+ <span class="name">Theobaldo</span> (<span class="case">abl</span>) <a href="../cite/Theobaldo/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 53</span></a>,
+ <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1337</span> <span class="name">Theobaldo</span> (<span class="case">dat</span>) <a href="../cite/Theobaldo/1337/MHCG2"><span class="bib_key">MHCG2</span> <span class="bib_loc">459</span></a>;
+ <span class="date">1348</span> <span class="name">Theobaldo</span> (<span class="case">abl</span>) <a href="../cite/Theobaldo/1348/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">10</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1568</span> <span class="name">Tibaut</span> <a href="../cite/Tibaut/1568/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">tibau</span> <a href="../cite/tibau/1568/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1570</span> <span class="name">tiebau</span> <a href="../cite/tiebau/1570/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1571</span> <span class="name">tiebault</span> <a href="../cite/tiebault/1571/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1574</span> <span class="name">tiebaut</span> <a href="../cite/tiebaut/1574/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">2h12thC</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/2h12thC/NotSLdN"><span class="bib_key">NotSLdN</span> <span class="bib_loc">III</span></a>;
+ <span class="date">814</span> <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/814/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">F2</span></a>;
+ <span class="date">c823</span> <span class="name">Tebaldus</span> (<span class="case">nom</span>) <a href="../cite/Tebaldus/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">94, Ved</span></a>,
+ <span class="name">Teutbaldus</span> (<span class="case">nom</span>) <a href="../cite/Teutbaldus/c823/irminon-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">43, Ved</span></a>;
+ <span class="date">933x1000</span> <span class="name">Teutbaldus</span> (<span class="case">nom</span>) <a href="../cite/Teutbaldus/933x1000/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">148</span></a>;
+ <span class="date">952x97</span> <span class="name">Teubaldus</span> (<span class="case">nom</span>) <a href="../cite/Teubaldus/952x97/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 79</span></a>;
+ <span class="date">952x993</span> <span class="name">Teutbaldi</span> (<span class="case">gen</span>) <a href="../cite/Teutbaldi/952x993/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">132</span></a>;
+ <span class="date">952x1000</span> <span class="name">Teutbaldus</span> (<span class="case">nom</span>) <a href="../cite/Teutbaldus/952x1000/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 95</span></a>;
+ <span class="date">957x991</span> <span class="name">Teutbaldus</span> (<span class="case">nom</span>) <a href="../cite/Teutbaldus/957x991/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 81</span></a>;
+ <span class="date">958x92</span> <span class="name">Teotbaldus</span> (<span class="case">nom</span>) <a href="../cite/Teotbaldus/958x92/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 87</span></a>;
+ <span class="date">993x1000</span> <span class="name">Teutbaldus</span> (<span class="case">nom</span>) <a href="../cite/Teutbaldus/993x1000/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 89</span></a>;
+ <span class="date">1000x1030</span> <span class="name">Teubaldo</span> (<span class="case">dat</span>) <a href="../cite/Teubaldo/1000x1030/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">143</span></a>;
+ <span class="date">1007x1008</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1007x1008/DocMonSav"><span class="bib_key">DocMonSav</span> <span class="bib_loc">p. 95</span></a>;
+ <span class="date">1060</span> <span class="name">Teothbaldus</span> (<span class="case">nom</span>) <a href="../cite/Teothbaldus/1060/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">730</span></a>,
+ <span class="name">Teubaldo</span> (<span class="case">abl</span>) <a href="../cite/Teubaldo/1060/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">730</span></a>;
+ <span class="date">1064</span> <span class="name">Tetbaldo</span> (<span class="case">abl</span>) <a href="../cite/Tetbaldo/1064/LDS"><span class="bib_key">LDS</span> <span class="bib_loc">CXI</span></a>;
+ <span class="date">1079x1101</span> <span class="name">Tetboldo</span> (<span class="case">abl</span>) <a href="../cite/Tetboldo/1079x1101/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXXVII</span></a>;
+ <span class="date">a1089x1101</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/a1089x1101/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXIX</span></a>;
+ <span class="date">1101x1120</span> <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/1101x1120/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIV</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Tebaldus</span> (<span class="case">nom</span>) <a href="../cite/Tebaldus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVIII</span></a>,
+ <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/1101x1129/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVIII</span></a>;
+ <span class="date">1102x1144</span> <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1102x1144/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLV</span></a>;
+ <span class="date">1107</span> <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">a1108</span> <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">a1114</span> <span class="name">Teobaldi</span> (<span class="case">gen</span>) <a href="../cite/Teobaldi/a1114/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>,
+ <span class="name">Teobaldo</span> (<span class="case">abl</span>) <a href="../cite/Teobaldo/a1114/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>,
+ <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/a1114/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXI</span></a>;
+ <span class="date">1115</span> <span class="name">Tetbaldus</span> (<span class="case">nom</span>) <a href="../cite/Tetbaldus/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">V</span></a>;
+ <span class="date">a1116</span> <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/a1116/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">c1120</span> <span class="name">Tetbaldus</span> (<span class="case">nom</span>) <a href="../cite/Tetbaldus/c1120/CartNoyers"><span class="bib_key">CartNoyers</span> <span class="bib_loc">CDXXXVI</span></a>,
+ <span class="name">Tethbaldus</span> (<span class="case">nom</span>) <a href="../cite/Tethbaldus/c1120/CartNoyers"><span class="bib_key">ibid.</span> <span class="bib_loc">CDXXXVI</span></a>;
+ <span class="date">1122x1139</span> <span class="name">Teobaudus</span> (<span class="case">nom</span>) <a href="../cite/Teobaudus/1122x1139/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXIII</span></a>;
+ <span class="date">1125</span> <span class="name">Tebaldi</span> (<span class="case">gen</span>) <a href="../cite/Tebaldi/1125/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XLVII</span></a>,
+ <span class="name">Tebaldus</span> (<span class="case">nom</span>) <a href="../cite/Tebaldus/1125/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLVII</span></a>;
+ <span class="date">1130x1150</span> <span class="name">Teobaldi</span> (<span class="case">gen</span>) <a href="../cite/Teobaldi/1130x1150/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXVII</span></a>,
+ <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/1130x1150/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXVII</span></a>,
+ <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1130x1150/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXVIII</span></a>;
+ <span class="date">1131</span> <span class="name">Tebaldo</span> (<span class="case">abl</span>) <a href="../cite/Tebaldo/1131/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">4</span></a>,
+ <span class="name">Thebaldo</span> (<span class="case">abl</span>) <a href="../cite/Thebaldo/1131/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>,
+ <span class="name">Theobaldo</span> (<span class="case">abl</span>) <a href="../cite/Theobaldo/1131/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1135</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1135/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1138x62</span> <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">82</span></a>,
+ <span class="name">Theobaldo</span> (<span class="case">abl</span>) <a href="../cite/Theobaldo/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">83</span></a>,
+ <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1138x62/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">57</span></a>;
+ <span class="date">c1139</span> <span class="name">Tetbaldus</span> (<span class="case">nom</span>) <a href="../cite/Tetbaldus/c1139/CartNoyers"><span class="bib_key">CartNoyers</span> <span class="bib_loc">DXII</span></a>;
+ <span class="date">1141</span> <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1141/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CXXXI</span></a>;
+ <span class="date">1143</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1143/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">10</span></a>,
+ <span class="name">Theobaudus</span> (<span class="case">nom</span>) <a href="../cite/Theobaudus/1143/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1144x53</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1144x53/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1145</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1145/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>;
+ <span class="date">a1147</span> <span class="name">Theobaudus</span> (<span class="case">nom</span>) <a href="../cite/Theobaudus/a1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a>;
+ <span class="date">1147</span> <span class="name">Thebaldo</span> (<span class="case">abl</span>) <a href="../cite/Thebaldo/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>,
+ <span class="name">Thebaudus</span> (<span class="case">nom</span>) <a href="../cite/Thebaudus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>,
+ <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Theobaldo</span> (<span class="case">abl</span>) <a href="../cite/Theobaldo/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">16</span></a>,
+ <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Theobaudus</span> (<span class="case">nom</span>) <a href="../cite/Theobaudus/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1150</span> <span class="name">Teobaldi</span> (<span class="case">gen</span>) <a href="../cite/Teobaldi/1150/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">22</span></a>;
+ <span class="date">1151</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1151/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">23</span></a>;
+ <span class="date">a1152</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/a1152/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">24</span></a>;
+ <span class="date">c1156</span> <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/c1156/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXXII</span></a>;
+ <span class="date">1163</span> <span class="name">Teobaudi</span> (<span class="case">gen</span>) <a href="../cite/Teobaudi/1163/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">100</span></a>,
+ <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>,
+ <span class="name">Theobaudi</span> (<span class="case">gen</span>) <a href="../cite/Theobaudi/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">100</span></a>;
+ <span class="date">1163–64</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1163–64/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">106</span></a>;
+ <span class="date">1164</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1164/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">120</span></a>;
+ <span class="date">1166</span> <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>,
+ <span class="name">Theobaldo</span> (<span class="case">abl</span>) <a href="../cite/Theobaldo/1166/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">129</span></a>;
+ <span class="date">1171</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1171/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">140</span></a>;
+ <span class="date">1174</span> <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/1174/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">159</span></a>,
+ <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1174/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">160</span></a>;
+ <span class="date">1175</span> <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1175/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">162</span></a>;
+ <span class="date">c1175–1180</span> <span class="name">Theboldus</span> (<span class="case">nom</span>) <a href="../cite/Theboldus/c1175–1180/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1179</span> <span class="name">Teobaldo</span> (<span class="case">abl</span>) <a href="../cite/Teobaldo/1179/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Theobaldo</span> (<span class="case">abl</span>) <a href="../cite/Theobaldo/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>,
+ <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1188</span> <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1188/NotSLdN"><span class="bib_key">NotSLdN</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1201</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1201/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXI</span></a>;
+ <span class="date">1206</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1206/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LXIX</span></a>;
+ <span class="date">1214</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1214/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXXIV</span></a>;
+ <span class="date">1222</span> <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1222/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XCI</span></a>;
+ <span class="date">1235</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1235/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 371</span></a>;
+ <span class="date">1236</span> <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/1236/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XXXIX</span></a>,
+ <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1236/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XXXIX</span></a>;
+ <span class="date">1244</span> <span class="name">Theobald</span> (<span class="case">nom</span>) <a href="../cite/Theobald/1244/CartAub"><span class="bib_key">CartAub</span></a>;
+ <span class="date">1246</span> <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1246/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-CVI</span></a>,
+ <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1246/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-CVI</span></a>;
+ <span class="date">1258</span> <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1258/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XXIV, Pentecost</span></a>,
+ <span class="name">Theobaldo</span> (<span class="case">abl</span>) <a href="../cite/Theobaldo/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIV, Pentecost</span></a>,
+ <span class="name">Theobaldum</span> (<span class="case">acc</span>) <a href="../cite/Theobaldum/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIV, Pentecost</span></a>,
+ <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII, BMV</span></a>,
+ <span class="name">Tieboudi</span> (<span class="case">gen</span>) <a href="../cite/Tieboudi/1258/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CVII</span></a>;
+ <span class="date">1259</span> <span class="name">Theobaldum</span> (<span class="case">acc</span>) <a href="../cite/Theobaldum/1259/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">VI, BMV</span></a>;
+ <span class="date">1292</span> <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1292/MemBret-I"><span class="bib_key">MemBret-I</span> <span class="bib_loc">1102</span></a>,
+ <span class="name">Tibaut</span> (<span class="case">gen</span>) <a href="../cite/Tibaut/1292/MemBret-I"><span class="bib_key">ibid.</span> <span class="bib_loc">1102</span></a>;
+ <span class="date">1301</span> <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 219</span></a>,
+ <span class="name">Theobaldum</span> (<span class="case">acc</span>) <a href="../cite/Theobaldum/1301/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">XII</span></a>,
+ <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 176</span></a>;
+ <span class="date">1378</span> <span class="name">Theobaldi</span> (<span class="case">gen</span>) <a href="../cite/Theobaldi/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">2504</span></a>,
+ <span class="name">Theobaldo</span> (<span class="case">dat</span>) <a href="../cite/Theobaldo/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">362</span></a>;
+ <span class="date">1450</span> <span class="name">Theobaldo</span> (<span class="case">dat</span>) <a href="../cite/Theobaldo/1450/ChronMaillezais"><span class="bib_key">ChronMaillezais</span> <span class="bib_loc">p. 167</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1290</span> <span class="name">Thibout</span> (<span class="case">obl</span>) <a href="../cite/Thibout/1290/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 106</span></a>;
+ <span class="date">1292</span> <span class="name">Thibaut</span> (<span class="case">obl</span>) <a href="../cite/Thibaut/1292/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1293</span> <span class="name">Thibaut</span> (<span class="case">obl</span>) <a href="../cite/Thibaut/1293/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 121</span></a>,
+ <span class="name">Thibout</span> (<span class="case">obl</span>) <a href="../cite/Thibout/1293/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1294</span> <span class="name">Thibaut</span> (<span class="case">obl</span>) <a href="../cite/Thibaut/1294/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">c1294</span> <span class="name">Thibout</span> (<span class="case">obl</span>) <a href="../cite/Thibout/c1294/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1295</span> <span class="name">Thibaut</span> (<span class="case">obl</span>) <a href="../cite/Thibaut/1295/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 128</span></a>;
+ <span class="date">1296</span> <span class="name">Tibaut</span> (<span class="case">obl</span>) <a href="../cite/Tibaut/1296/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 133</span></a>,
+ <span class="name">Tybaut</span> (<span class="case">nom</span>) <a href="../cite/Tybaut/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Tybout</span> <a href="../cite/Tybout/1296/paris1296"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">c1298</span> <span class="name">Thibout</span> (<span class="case">obl</span>) <a href="../cite/Thibout/c1298/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 138</span></a>;
+ <span class="date">1301</span> <span class="name">Thiebaus</span> (<span class="case">nom</span>) <a href="../cite/Thiebaus/1301/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">XVIII</span></a>,
+ <a href="../cite/Thiebaus/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 277</span></a>,
+ <span class="name">Thiebaut</span> (<span class="case">obl</span>) <a href="../cite/Thiebaut/1301/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">XVII</span></a>,
+ <a href="../cite/Thiebaut/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 233</span></a>;
+ <span class="date">1302</span> <span class="name">Tibaut</span> (<span class="case">obl</span>) <a href="../cite/Tibaut/1302/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">XXXV</span></a>;
+ <span class="date">1303</span> <span class="name">Thiebaut</span> (<span class="case">obl</span>) <a href="../cite/Thiebaut/1303/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">XL</span></a>;
+ <span class="date">1306</span> <span class="name">Tiebaut</span> (<span class="case">obl</span>) <a href="../cite/Tiebaut/1306/ArchReimsII1"><span class="bib_key">ibid.</span> <span class="bib_loc">LV</span></a>;
+ <span class="date">1313</span> <span class="name">Thibaut</span> <a href="../cite/Thibaut/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 19</span></a>,
+ <span class="name">Thibout</span> <a href="../cite/Thibout/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Thiebault</span> <a href="../cite/Thiebault/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 160</span></a>,
+ <span class="name">Thiebaut</span> <a href="../cite/Thiebaut/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Tibout</span> <a href="../cite/Tibout/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1327</span> <span class="name">Thebaut</span> <a href="../cite/Thebaut/1327/MemDocMan-2"><span class="bib_key">MemDocMan-2</span> <span class="bib_loc">p. 190</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1392</span> <span class="name">Thebaut</span> <a href="../cite/Thebaut/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 598</span></a>,
+ <span class="name">Thibaud</span> <a href="../cite/Thibaud/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 605</span></a>,
+ <span class="name">Thibaut</span> <a href="../cite/Thibaut/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 611</span></a>;
+ <span class="date">1404</span> <span class="name">Thibault</span> <a href="../cite/Thibault/1404/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 4</span></a>;
+ <span class="date">1418</span> <span class="name">Thibault</span> <a href="../cite/Thibault/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 197</span></a>,
+ <a href="../cite/Thibault/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 373</span></a>,
+ <span class="name">Thibaut</span> <a href="../cite/Thibaut/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 206</span></a>;
+ <span class="date">1421</span> <span class="name">Thibault</span> <a href="../cite/Thibault/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">28</span></a>;
+ <span class="date">1423</span> <span class="name">Thibault</span> <a href="../cite/Thibault/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">377</span></a>;
+ <span class="date">1438</span> <span class="name">Thibault</span> <a href="../cite/Thibault/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">133</span></a>;
+ <span class="date">1466</span> <span class="name">Thibault</span> <a href="../cite/Thibault/1466/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 5</span></a>;
+ <span class="date">1493</span> <span class="name">Thibault</span> <a href="../cite/Thibault/1493/MSR1838"><span class="bib_key">MSR1838</span> <span class="bib_loc">p. 380</span></a>;
+ <span class="date">1564</span> <span class="name">Thibaut</span> <a href="../cite/Thibaut/1564/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1565</span> <span class="name">Thibaut</span> <a href="../cite/Thibaut/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 144</span></a>;
+ <span class="date">1567</span> <span class="name">Thibault</span> <a href="../cite/Thibault/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 359</span></a>;
+ <span class="date">1571</span> <span class="name">Thibaut</span> <a href="../cite/Thibaut/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 477</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">846</span> <span class="name">Thiatbaldi</span> (<span class="case">gen</span>) <a href="../cite/Thiatbaldi/846/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 38</span></a>;
+ <span class="date">1042</span> <span class="name">Tioboldi</span> (<span class="case">gen</span>) <a href="../cite/Tioboldi/1042/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">24</span></a>;
+ <span class="date">1059</span> <span class="name">Tietbaldi</span> (<span class="case">gen</span>) <a href="../cite/Tietbaldi/1059/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">48</span></a>;
+ <span class="date">1098</span> <span class="name">Tietbaldi</span> (<span class="case">gen</span>) <a href="../cite/Tietbaldi/1098/quix-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">25</span></a>;
+ <span class="date">1114</span> <span class="name">Tietbaldi</span> (<span class="case">gen</span>) <a href="../cite/Tietbaldi/1114/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1173</span> <span class="name">Tiboldi</span> (<span class="case">gen</span>) <a href="../cite/Tiboldi/1173/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1214</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1214/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1216</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1216/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">20</span></a>;
+ <span class="date">1401</span> <span class="name">Theobaldo</span> (<span class="case">dat</span>) <a href="../cite/Theobaldo/1401/HD1401"><span class="bib_key">HD1401</span> <span class="bib_loc">no. 347</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1339</span> <span class="name">Diepolden</span> (<span class="case">acc</span>) <a href="../cite/Diepolden/1339/UrkHeil1"><span class="bib_key">UrkHeil1</span> <span class="bib_loc">151</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Tiepolt</span> <a href="../cite/Tiepolt/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">1404</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Teubold</span> (<span class="case">gen</span>) <a href="../cite/Teubold/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 22</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Israel</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1115</span> <span class="name">Teobaldus</span> (<span class="case">nom</span>) <a href="../cite/Teobaldus/1115/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1120</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1120/CartNDJosaphat"><span class="bib_key">ibid.</span> <span class="bib_loc">VIII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1193</span> <span class="name">Theobaldo</span> (<span class="case">abl</span>) <a href="../cite/Theobaldo/1193/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 340</span></a>;
+ <span class="date">1224</span> <span class="name">Theobaldo</span> (<span class="case">abl</span>) <a href="../cite/Theobaldo/1224/HAP"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 347</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1195</span> <span class="name">Tebaldinus</span> (<span class="case">nom</span>) <a href="../cite/Tebaldinus/1195/ChStBo1"><span class="bib_key">ChStBo1</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1285</span> <span class="name">Tebaldutii</span> (<span class="case">gen</span>) <a href="../cite/Tebaldutii/1285/Perugia1285"><span class="bib_key">Perugia1285</span> <span class="bib_loc">p. 157</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">796</span> <span class="name">Thiatbaldus</span> (<span class="case">nom</span>) <a href="../cite/Thiatbaldus/796/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 16</span></a>;
+ <span class="date">799</span> <span class="name">Thiatbaldus</span> (<span class="case">nom</span>) <a href="../cite/Thiatbaldus/799/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18</span></a>;
+ <span class="date">800</span> <span class="name">Thiatbaldus</span> (<span class="case">nom</span>) <a href="../cite/Thiatbaldus/800/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19</span></a>;
+ <span class="date">801</span> <span class="name">Thiatbaldus</span> (<span class="case">nom</span>) <a href="../cite/Thiatbaldus/801/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 22</span></a>;
+ <span class="date">805</span> <span class="name">Thiatbaldi</span> (<span class="case">gen</span>) <a href="../cite/Thiatbaldi/805/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 24</span></a>,
+ <span class="name">Thiatbaldus</span> (<span class="case">nom</span>) <a href="../cite/Thiatbaldus/805/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 24</span></a>;
+ <span class="date">806</span> <span class="name">Thiatbaldus</span> (<span class="case">nom</span>) <a href="../cite/Thiatbaldus/806/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 25</span></a>;
+ <span class="date">834</span> <span class="name">Thitbald</span> (<span class="case">nom</span>) <a href="../cite/Thitbald/834/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 30</span></a>;
+ <span class="date">855</span> <span class="name">Thiodbold</span> (<span class="case">nom</span>) <a href="../cite/Thiodbold/855/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 45</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1229</span> <span class="name">theobaldi</span> (<span class="case">gen</span>) <a href="../cite/theobaldi/1229/CDT1"><span class="bib_key">CDT1</span> <span class="bib_loc">VI</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Portugal</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1121</span> <span class="name">Tibaldi</span> (<span class="case">gen</span>) <a href="../cite/Tibaldi/1121/PHGCRP-I"><span class="bib_key">PHGCRP-I</span> <span class="bib_loc">no. 2</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1094</span> <span class="name">Teodbold</span> (<span class="case">nom</span>) <a href="../cite/Teodbold/1094/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1179</span> <span class="name">Theobaldus</span> (<span class="case">nom</span>) <a href="../cite/Theobaldus/1179/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">24</span></a>;
+ <span class="date">1186</span> <span class="name">Tibodus</span> (<span class="case">nom</span>) <a href="../cite/Tibodus/1186/CartHaut"><span class="bib_key">ibid.</span> <span class="bib_loc">27</span></a>;
+ <span class="date">1235</span> <span class="name">Tiebaldi</span> (<span class="case">gen</span>) <a href="../cite/Tiebaldi/1235/CLC"><span class="bib_key">CLC</span> <span class="bib_loc">p. 38</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Thiebault</span> <a href="../cite/Thiebault/1350/MHN"><span class="bib_key">MHN</span> <span class="bib_loc">DXXX</span></a>;
+ <span class="date">1353</span> <span class="name">Thiebaut</span> <a href="../cite/Thiebaut/1353/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DL</span></a>;
+ <span class="date">1354</span> <span class="name">Thiebaut</span> <a href="../cite/Thiebaut/1354/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DLV</span></a>,
+ <span class="name">Thiebauz</span> <a href="../cite/Thiebauz/1354/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DLV</span></a>,
+ <span class="name">Thyebauz</span> <a href="../cite/Thyebauz/1354/MHN"><span class="bib_key">ibid.</span> <span class="bib_loc">DLVII</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>G. Grim, J. Uckelman, S.L. Uckelman. "Theobald". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Theobald.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

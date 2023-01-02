@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>EARNb</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>EARNb</dt>
+  <dd><em>Three Early Assize Rolls for the County of Northumberland, Sæc. XIII</em>, volume 88 of <em>Publications of the Surtees Society</em>. Durham: Andrews &amp; Co.; et al., 1891.</dd>
+</dl>
+
+
+  <a href="../cite/Adam/1256/EARNb">Adam</a>
+
+  <a href="../cite/Adæ/1256/EARNb">Adæ</a>
+
+  <a href="../cite/Agnes/1256/EARNb">Agnes</a>
+
+  <a href="../cite/Agnetem/1256/EARNb">Agnetem</a>
+
+  <a href="../cite/Alani/1256/EARNb">Alani</a>
+
+  <a href="../cite/Alanum/1256/EARNb">Alanum</a>
+
+  <a href="../cite/Alanus/1256/EARNb">Alanus</a>
+
+  <a href="../cite/Alexandri/1256/EARNb">Alexandri</a>
+
+  <a href="../cite/Alexandro/1256/EARNb">Alexandro</a>
+
+  <a href="../cite/Alicia/1256/EARNb">Alicia</a>
+
+  <a href="../cite/Aliciæ/1256/EARNb">Aliciæ</a>
+
+  <a href="../cite/Allanum/1256/EARNb">Allanum</a>
+
+  <a href="../cite/Amabiliam/1256/EARNb">Amabiliam</a>
+
+  <a href="../cite/Amabiliæ/1256/EARNb">Amabiliæ</a>
+
+  <a href="../cite/Angnetem/1256/EARNb">Angnetem</a>
+
+  <a href="../cite/Aylmer'/1256/EARNb">Aylmer&#39;</a>
+
+  <a href="../cite/Cristianæ/1256/EARNb">Cristianæ</a>
+
+  <a href="../cite/Editham/1256/EARNb">Editham</a>
+
+  <a href="../cite/Edithæ/1256/EARNb">Edithæ</a>
+
+  <a href="../cite/Eliam/1256/EARNb">Eliam</a>
+
+  <a href="../cite/Elias/1256/EARNb">Elias</a>
+
+  <a href="../cite/Eliæ/1256/EARNb">Eliæ</a>
+
+  <a href="../cite/Emma/1256/EARNb">Emma</a>
+
+  <a href="../cite/Emmam/1256/EARNb">Emmam</a>
+
+  <a href="../cite/Eustacii/1256/EARNb">Eustacii</a>
+
+  <a href="../cite/Eva/1256/EARNb">Eva</a>
+
+  <a href="../cite/Evam/1256/EARNb">Evam</a>
+
+  <a href="../cite/Evæ/1256/EARNb">Evæ</a>
+
+  <a href="../cite/Gilberti/1256/EARNb">Gilberti</a>
+
+  <a href="../cite/Gilberto/1256/EARNb">Gilberto</a>
+
+  <a href="../cite/Gilbertus/1256/EARNb">Gilbertus</a>
+
+  <a href="../cite/Hawisia/1256/EARNb">Hawisia</a>
+
+  <a href="../cite/Hawisiæ/1256/EARNb">Hawisiæ</a>
+
+  <a href="../cite/Hawysiam/1256/EARNb">Hawysiam</a>
+
+  <a href="../cite/Henrico/1256/EARNb">Henrico</a>
+
+  <a href="../cite/Henricum/1256/EARNb">Henricum</a>
+
+  <a href="../cite/Henricus/1256/EARNb">Henricus</a>
+
+  <a href="../cite/Hugo/1256/EARNb">Hugo</a>
+
+  <a href="../cite/Hugonem/1256/EARNb">Hugonem</a>
+
+  <a href="../cite/Ingrami/1256/EARNb">Ingrami</a>
+
+  <a href="../cite/Isabella/1256/EARNb">Isabella</a>
+
+  <a href="../cite/Johannem/1256/EARNb">Johannem</a>
+
+  <a href="../cite/Johannes/1256/EARNb">Johannes</a>
+
+  <a href="../cite/Johanni/1256/EARNb">Johanni</a>
+
+  <a href="../cite/Johannis/1256/EARNb">Johannis</a>
+
+  <a href="../cite/Julia/1256/EARNb">Julia</a>
+
+  <a href="../cite/Juliæ/1256/EARNb">Juliæ</a>
+
+  <a href="../cite/Lucia/1256/EARNb">Lucia</a>
+
+  <a href="../cite/Mabiliam/1256/EARNb">Mabiliam</a>
+
+  <a href="../cite/Margeriæ/1256/EARNb">Margeriæ</a>
+
+  <a href="../cite/Nicholai/1256/EARNb">Nicholai</a>
+
+  <a href="../cite/Nicholaus/1256/EARNb">Nicholaus</a>
+
+  <a href="../cite/Radulphi/1256/EARNb">Radulphi</a>
+
+  <a href="../cite/Radulphus/1256/EARNb">Radulphus</a>
+
+  <a href="../cite/Ricardi/1256/EARNb">Ricardi</a>
+
+  <a href="../cite/Ricardo/1256/EARNb">Ricardo</a>
+
+  <a href="../cite/Ricardum/1256/EARNb">Ricardum</a>
+
+  <a href="../cite/Ricardus/1256/EARNb">Ricardus</a>
+
+  <a href="../cite/Roberti/1256/EARNb">Roberti</a>
+
+  <a href="../cite/Robertum/1256/EARNb">Robertum</a>
+
+  <a href="../cite/Robertus/1256/EARNb">Robertus</a>
+
+  <a href="../cite/Rogeri/1256/EARNb">Rogeri</a>
+
+  <a href="../cite/Rogerum/1256/EARNb">Rogerum</a>
+
+  <a href="../cite/Rogerus/1256/EARNb">Rogerus</a>
+
+  <a href="../cite/Sampson/1256/EARNb">Sampson</a>
+
+  <a href="../cite/Sibilla/1256/EARNb">Sibilla</a>
+
+  <a href="../cite/Sibillam/1256/EARNb">Sibillam</a>
+
+  <a href="../cite/Sibillæ/1256/EARNb">Sibillæ</a>
+
+  <a href="../cite/Simon/1256/EARNb">Simon</a>
+
+  <a href="../cite/Simonem/1256/EARNb">Simonem</a>
+
+  <a href="../cite/Simonis/1256/EARNb">Simonis</a>
+
+  <a href="../cite/Thoma/1256/EARNb">Thoma</a>
+
+  <a href="../cite/Thomas/1256/EARNb">Thomas</a>
+
+  <a href="../cite/Thomæ/1256/EARNb">Thomæ</a>
+
+  <a href="../cite/Walteri/1256/EARNb">Walteri</a>
+
+  <a href="../cite/Waltero/1256/EARNb">Waltero</a>
+
+  <a href="../cite/Walterum/1256/EARNb">Walterum</a>
+
+  <a href="../cite/Walterus/1256/EARNb">Walterus</a>
+
+  <a href="../cite/Willelmi/1256/EARNb">Willelmi</a>
+
+  <a href="../cite/Willelmo/1256/EARNb">Willelmo</a>
+
+  <a href="../cite/Willelmum/1256/EARNb">Willelmum</a>
+
+  <a href="../cite/Willelmus/1256/EARNb">Willelmus</a>
+
+  <a href="../cite/Wydo/1256/EARNb">Wydo</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

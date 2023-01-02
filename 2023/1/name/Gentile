@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Gentile</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Gentile</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>gentilis</i> 'Gentile, non-Jew; heathen, pagan; of the same clan, tribe, or family'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1587</span> <span class="name">Jentile</span> <a href="../cite/Jentile/1587/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Gemtillis</span> (<span class="case">gen</span>) <a href="../cite/Gemtillis/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 234</span></a>,
+ <span class="name">Gentille</span> (<span class="case">abl</span>) <a href="../cite/Gentille/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>,
+ <span class="name">Gentillis</span> (<span class="case">gen</span>) <a href="../cite/Gentillis/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 222</span></a>;
+ <span class="date">1387</span> <span class="name">Gentilis</span> (<span class="case">gen</span>) <a href="../cite/Gentilis/1387/Venditti"><span class="bib_key">Venditti</span> <span class="bib_loc">II-491</span></a>;
+ <span class="date">1391</span> <span class="name">Gentilem</span> (<span class="case">acc</span>) <a href="../cite/Gentilem/1391/Venditti"><span class="bib_key">ibid.</span> <span class="bib_loc">I-1</span></a>,
+ <span class="name">Gentili</span> (<span class="case">dat</span>) <a href="../cite/Gentili/1391/Venditti"><span class="bib_key">ibid.</span> <span class="bib_loc">I-1</span></a>;
+ <span class="date">1470</span> <span class="name">Gentilj</span> (<span class="case">abl</span>) <a href="../cite/Gentilj/1470/RCCaetani6"><span class="bib_key">RCCaetani6</span> <span class="bib_loc">1192</span></a>;
+ <span class="date">1521</span> <span class="name">Gentile</span> (<span class="case">abl</span>) <a href="../cite/Gentile/1521/VitAs2"><span class="bib_key">VitAs2</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Gentilis</span> (<span class="case">nom</span>) <a href="../cite/Gentilis/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 54, 58</span></a>;
+ <span class="date">1527</span> <span class="name">Gentilis</span> (<span class="case">nom</span>) <a href="../cite/Gentilis/1527/Rome1527"><span class="bib_key">Rome1527</span> <span class="bib_loc">p. 86</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1429–1430</span> <span class="name">Gentile</span> <a href="../cite/Gentile/1429–1430/DiaryLMA"><span class="bib_key">DiaryLMA</span> <span class="bib_loc">p. 247</span></a>;
+ <span class="date">1513x1521</span> <span class="name">Gentile</span> <a href="../cite/Gentile/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 32</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Gentile". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Gentile.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

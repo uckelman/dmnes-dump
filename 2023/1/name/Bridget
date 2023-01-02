@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Bridget</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Bridget</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Old Irish</span> <i>Brigit</i>, from <span class="lang">Proto-Celtic</span> <i>*Brigantī</i> 'high, exalted'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an Irish goddess and a 6th C patron saint of Ireland, who were often confused with each other, another 6th C Irish saint, a 12th C queen consort of Sweden, and a 14th C Swedish saint.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Birgitte</span> <a href="../cite/Birgitte/1581/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 362</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1567</span> <span class="name">Brigitta</span> (<span class="case">nom</span>) <a href="../cite/Brigitta/1567/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 11</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Brigyt</span> <a href="../cite/Brigyt/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1553</span> <span class="name">Bregyte</span> <a href="../cite/Bregyte/1553/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 8</span></a>,
+ <span class="name">Briget</span> <a href="../cite/Briget/1553/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1554</span> <span class="name">Brigett</span> <a href="../cite/Brigett/1554/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1555</span> <span class="name">Brigett</span> <a href="../cite/Brigett/1555/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1557</span> <span class="name">Brydgett</span> <a href="../cite/Brydgett/1557/PRThirsk"><span class="bib_key">PRThirsk</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Bryget</span> <a href="../cite/Bryget/1557/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1558</span> <span class="name">Brigett</span> <a href="../cite/Brigett/1558/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1560/1</span> <span class="name">Brigett</span> <a href="../cite/Brigett/1560s1/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1561</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1561/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1562</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1562/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 53</span></a>,
+ <span class="name">Bryget</span> <a href="../cite/Bryget/1562/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 76</span></a>;
+ <span class="date">1565</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1565/StMaryA"><span class="bib_key">StMaryA</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1568/9</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1568s9/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1568</span> <span class="name">Bridgett</span> <a href="../cite/Bridgett/1568/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2b</span></a>;
+ <span class="date">1570</span> <span class="name">Brigett</span> <a href="../cite/Brigett/1570/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1571</span> <span class="name">Brigitta</span> <a href="../cite/Brigitta/1571/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1573/4</span> <span class="name">Bridgett</span> <a href="../cite/Bridgett/1573s4/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1573</span> <span class="name">Bridgett</span> <a href="../cite/Bridgett/1573/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 21</span></a>,
+ <a href="../cite/Bridgett/1573/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1574/5</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1574s5/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1574</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1574/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 3</span></a>,
+ <span class="name">Brigit</span> <a href="../cite/Brigit/1574/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1575</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1575/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1578/9</span> <span class="name">Bridgett</span> <a href="../cite/Bridgett/1578s9/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1579</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1579/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Bridgett</span> <a href="../cite/Bridgett/1579/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Brydget</span> <a href="../cite/Brydget/1579/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 129</span></a>;
+ <span class="date">1582</span> <span class="name">Bridged</span> <a href="../cite/Bridged/1582/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 7</span></a>,
+ <span class="name">Bridget</span> <a href="../cite/Bridget/1582/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1583</span> <span class="name">Bredgett</span> <a href="../cite/Bredgett/1583/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 29</span></a>,
+ <span class="name">Bredgit</span> <a href="../cite/Bredgit/1583/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 11</span></a>,
+ <span class="name">Bridget</span> <a href="../cite/Bridget/1583/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1584</span> <span class="name">Bride</span> <a href="../cite/Bride/1584/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Bridget</span> <a href="../cite/Bridget/1584/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 64</span></a>,
+ <a href="../cite/Bridget/1584/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1585</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1585/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 12</span></a>,
+ <span class="name">Brigett</span> <a href="../cite/Brigett/1585/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1586</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1586/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1587</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1587/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1587/8</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1587s8/BEmar-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1587</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 14</span></a>,
+ <a href="../cite/Bridget/1587/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1588</span> <span class="name">Bredgit</span> <a href="../cite/Bredgit/1588/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Bridgit</span> <a href="../cite/Bridgit/1588/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Brigit</span> <a href="../cite/Brigit/1588/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1589</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1589/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Bridget/1589/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 4</span></a>,
+ <a href="../cite/Bridget/1589/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1591</span> <span class="name">Brdget</span> <a href="../cite/Brdget/1591/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Bridget</span> <a href="../cite/Bridget/1591/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1592</span> <span class="name">Bridgesse</span> <a href="../cite/Bridgesse/1592/CAmar-vol1"><span class="bib_key">CAmar-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1593</span> <span class="name">Bridgett</span> <a href="../cite/Bridgett/1593/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Brigett</span> <a href="../cite/Brigett/1593/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1595</span> <span class="name">Bredget</span> <a href="../cite/Bredget/1595/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Bridget</span> <a href="../cite/Bridget/1595/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 54</span></a>;
+ <span class="date">1596</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1597</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1597/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 50</span></a>,
+ <a href="../cite/Bridget/1597/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 87</span></a>;
+ <span class="date">1598/9</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1598s9/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1598</span> <span class="name">Bridget</span> <a href="../cite/Bridget/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 39</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1550</span> <span class="name">Byrgytte</span> (<span class="case">nom</span>) <a href="../cite/Byrgytte/1550/Kalakaupmees"><span class="bib_key">Kalakaupmees</span> <span class="bib_loc">p. 257</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Biritta</span> <a href="../cite/Biritta/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 168</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Brigita</span> <a href="../cite/Brigita/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">68</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Brigida</span> (<span class="case">nom</span>) <a href="../cite/Brigida/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">3</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1461</span> <span class="name">Berrite</span> <a href="../cite/Berrite/1461/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1463</span> <span class="name">Biritte</span> <a href="../cite/Biritte/1463/Mettig1892"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1507</span> <span class="name">Britte</span> <a href="../cite/Britte/1507/Mettig1892"><span class="bib_key">Mettig1892</span> <span class="bib_loc">p. 5</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1487</span> <span class="name">Brigida</span> (<span class="case">nom</span>) <a href="../cite/Brigida/1487/carbonell-I"><span class="bib_key">carbonell-I</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1488</span> <span class="name">Brigida</span> (<span class="case">nom</span>) <a href="../cite/Brigida/1488/carbonell-I"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a></dd>
+<dt><span class="lang">Catalan</span></dt>
+<dd><span class="dim">●</span> <span class="date">1510</span> <span class="name">Brigida</span> <a href="../cite/Brigida/1510/valencia1510"><span class="bib_key">valencia1510</span> <span class="bib_loc">3412</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Birghitte</span> (<span class="case">dat</span>) <a href="../cite/Birghitte/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6024</span></a>,
+ <span class="name">Birgitte</span> (<span class="case">dat</span>) <a href="../cite/Birgitte/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6037</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1352</span> <span class="name">Birgita</span> (<span class="case">nom</span>) <a href="../cite/Birgita/1352/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6314</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1469</span> <span class="name">Brigida</span> (<span class="case">abl</span>) <a href="../cite/Brigida/1469/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">12</span></a>,
+ <span class="name">Brigidam</span> (<span class="case">acc</span>) <a href="../cite/Brigidam/1469/AGZ-18"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, R. Le Get, S.L. Uckelman. "Bridget". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Bridget.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

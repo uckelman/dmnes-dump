@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>AnnMin6</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>AnnMin6</dt>
+  <dd>Lucas Wadding. <em>Annales Minorum</em>, volume 6. Rome: Rochi Bernabo, 2nd edition, 1733.</dd>
+</dl>
+
+
+  <a href="../cite/Amatutia/1304/AnnMin6">Amatutia</a>
+
+  <a href="../cite/Andreæ/1304/AnnMin6">Andreæ</a>
+
+  <a href="../cite/Angeli/1304/AnnMin6">Angeli</a>
+
+  <a href="../cite/Bonajunctæ/1304/AnnMin6">Bonajunctæ</a>
+
+  <a href="../cite/Clara/1304/AnnMin6">Clara</a>
+
+  <a href="../cite/Claræ/1304/AnnMin6">Claræ</a>
+
+  <a href="../cite/Deodata/1304/AnnMin6">Deodata</a>
+
+  <a href="../cite/Femenutia/1304/AnnMin6">Femenutia</a>
+
+  <a href="../cite/Gerardum/1304/AnnMin6">Gerardum</a>
+
+  <a href="../cite/Guido/1304/AnnMin6">Guido</a>
+
+  <a href="../cite/Illuminata/1304/AnnMin6">Illuminata</a>
+
+  <a href="../cite/Joannelli/1304/AnnMin6">Joannelli</a>
+
+  <a href="../cite/Joannes/1304/AnnMin6">Joannes</a>
+
+  <a href="../cite/Joannis/1304/AnnMin6">Joannis</a>
+
+  <a href="../cite/Omedeus/1304/AnnMin6">Omedeus</a>
+
+  <a href="../cite/Orlandinum/1304/AnnMin6">Orlandinum</a>
+
+  <a href="../cite/Pauli/1304/AnnMin6">Pauli</a>
+
+  <a href="../cite/Philippi/1304/AnnMin6">Philippi</a>
+
+  <a href="../cite/Raynerii/1304/AnnMin6">Raynerii</a>
+
+  <a href="../cite/Raynerio/1304/AnnMin6">Raynerio</a>
+
+  <a href="../cite/Raynerius/1304/AnnMin6">Raynerius</a>
+
+  <a href="../cite/Ricca/1304/AnnMin6">Ricca</a>
+
+  <a href="../cite/Rubei/1304/AnnMin6">Rubei</a>
+
+  <a href="../cite/Salvutius/1304/AnnMin6">Salvutius</a>
+
+  <a href="../cite/Vana/1304/AnnMin6">Vana</a>
+
+  <a href="../cite/Viola/1304/AnnMin6">Viola</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

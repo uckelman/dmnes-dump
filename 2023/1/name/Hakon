@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Hakon</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Hakon</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Proto-Germanic</span> <i>*hanha</i> 'horse' or <span class="lang">Proto-Germanic</span> <i>*hauhaz</i> 'high' + <span class="lang">Old Norse</span> <i>konr</i> 'descendant'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 10th C king of Norway, a 12th C king of Norway, two 13th C kings of Norway, and two 14th C kings of Norway.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Haquini</span> (<span class="case">gen</span>) <a href="../cite/Haquini/1383/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 26</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Hakon</span> (<span class="case">nom</span>) <a href="../cite/Hakon/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 170</span></a>,
+ <span class="name">Hakons</span> (<span class="case">gen</span>) <a href="../cite/Hakons/1548/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 169</span></a>,
+ <span class="name">Håkon</span> (<span class="case">nom</span>) <a href="../cite/Håkon/1548/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 168</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1299</span> <span class="name">Haquin</span> (<span class="case">obl</span>) <a href="../cite/Haquin/1299/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 145</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1310</span> <span class="name">Haquinus</span> (<span class="case">nom</span>) <a href="../cite/Haquinus/1310/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">2384</span></a>;
+ <span class="date">1350</span> <span class="name">Hakona</span> (<span class="case">gen</span>) <a href="../cite/Hakona/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6042</span></a>,
+ <span class="name">Haquini</span> (<span class="case">gen</span>) <a href="../cite/Haquini/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6001</span></a>,
+ <span class="name">Haquino</span> (<span class="case">dat</span>) <a href="../cite/Haquino/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6023</span></a>,
+ <span class="name">Haquinum</span> (<span class="case">acc</span>) <a href="../cite/Haquinum/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6023</span></a>,
+ <span class="name">Haquinus</span> (<span class="case">nom</span>) <a href="../cite/Haquinus/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6042</span></a>,
+ <span class="name">Haquona</span> (<span class="case">gen</span>) <a href="../cite/Haquona/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6050</span></a>,
+ <span class="name">Haquons</span> (<span class="case">gen</span>) <a href="../cite/Haquons/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6055</span></a>;
+ <span class="date">1353</span> <span class="name">Haquinus</span> (<span class="case">nom</span>) <a href="../cite/Haquinus/1353/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6627</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1358</span> <span class="name">Haquona</span> (<span class="case">gen</span>) <a href="../cite/Haquona/1358/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 7337</span></a>;
+ <span class="date">1359</span> <span class="name">Haquonh</span> (<span class="case">nom</span>) <a href="../cite/Haquonh/1359/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 7548</span></a>;
+ <span class="date">1371</span> <span class="name">hakon</span> (<span class="case">nom</span>) <a href="../cite/hakon/1371/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 10000</span></a>;
+ <span class="date">1377</span> <span class="name">Haquons</span> (<span class="case">gen</span>) <a href="../cite/Haquons/1377/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 11085</span></a>,
+ <span class="name">Håqwins</span> (<span class="case">gen</span>) <a href="../cite/Håqwins/1377/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 10938</span></a>;
+ <span class="date">1383</span> <span class="name">Hacon</span> (<span class="case">nom</span>) <a href="../cite/Hacon/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1943</span></a>,
+ <span class="name">Haquon</span> (<span class="case">nom</span>) <a href="../cite/Haquon/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1903</span></a>,
+ <span class="name">Haquons</span> (<span class="case">gen</span>) <a href="../cite/Haquons/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1926</span></a>;
+ <span class="date">1403</span> <span class="name">Haquon</span> (<span class="case">gen</span>) <a href="../cite/Haquon/1403/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 16006</span></a>;
+ <span class="date">1407</span> <span class="name">Haquone</span> (<span class="case">obl</span>) <a href="../cite/Haquone/1407/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16880</span></a>;
+ <span class="date">1409</span> <span class="name">Hakon</span> (<span class="case">nom</span>) <a href="../cite/Hakon/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17350</span></a>;
+ <span class="date">1411</span> <span class="name">Hakon</span> (<span class="case">gen</span>) <a href="../cite/Hakon/1411/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17737</span></a>;
+ <span class="date">1417</span> <span class="name">Haquon</span> (<span class="case">nom</span>) <a href="../cite/Haquon/1417/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18862</span></a>;
+ <span class="date">1419</span> <span class="name">Hakon</span> (<span class="case">nom</span>) <a href="../cite/Hakon/1419/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19273</span></a>,
+ <span class="name">Haquon</span> (<span class="case">nom</span>) <a href="../cite/Haquon/1419/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 19230</span></a></dd>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1536</span> <span class="name">Hakon</span> (<span class="case">nom</span>) <a href="../cite/Hakon/1536/HGS"><span class="bib_key">HGS</span> <span class="bib_loc">p. 157</span></a>;
+ <span class="date">1543</span> <span class="name">Håkan</span> (<span class="case">nom</span>) <a href="../cite/Håkan/1543/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 164</span></a>,
+ <span class="name">Håkon</span> (<span class="case">nom</span>) <a href="../cite/Håkon/1543/Audén1980"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 162</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, S.L. Uckelman. "Hakon". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Hakon.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

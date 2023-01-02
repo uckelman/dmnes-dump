@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Ivo</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Ivo</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old French</span> <i>Yve(s), Yvon</i> of uncertain origin but possibly related to <span class="lang">Gaulish</span> <i>ivo</i>, <span class="lang">Proto-Germanic</span> <i>*īwaz</i> 'yew'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an 11th C French saint, an 11th C Cornish saint, and 14th C patron saint of Brittany.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1165</span> <span class="name">Ivonis</span> (<span class="case">gen</span>) <a href="../cite/Ivonis/1165/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">18</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Ivo</span> (<span class="case">nom</span>) <a href="../cite/Ivo/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 106</span></a>,
+ <span class="name">Ivonis</span> (<span class="case">gen</span>) <a href="../cite/Ivonis/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1349</span> <span class="name">Yvone</span> (<span class="case">abl</span>) <a href="../cite/Yvone/1349/SocAntNor-3-3"><span class="bib_key">SocAntNor-3-3</span> <span class="bib_loc">no. 11</span></a>;
+ <span class="date">1381</span> <span class="name">Ive</span> (<span class="case">nom</span>) <a href="../cite/Ive/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 73</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1029x1033</span> <span class="name">Yvo</span> (<span class="case">nom</span>) <a href="../cite/Yvo/1029x1033/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XII</span></a>;
+ <span class="date">1050</span> <span class="name">Ivonis</span> (<span class="case">gen</span>) <a href="../cite/Ivonis/1050/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 100</span></a>;
+ <span class="date">1090x1101</span> <span class="name">Ivonis</span> (<span class="case">gen</span>) <a href="../cite/Ivonis/1090x1101/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XLIII</span></a>;
+ <span class="date">1093</span> <span class="name">Ivo</span> (<span class="case">nom</span>) <a href="../cite/Ivo/1093/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">1102x1144</span> <span class="name">Ivo</span> (<span class="case">nom</span>) <a href="../cite/Ivo/1102x1144/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XLV</span></a>;
+ <span class="date">1107</span> <span class="name">Ivo</span> (<span class="case">nom</span>) <a href="../cite/Ivo/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">V</span></a>,
+ <span class="name">Ivone</span> (<span class="case">abl</span>) <a href="../cite/Ivone/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1127</span> <span class="name">Ivo</span> (<span class="case">nom</span>) <a href="../cite/Ivo/1127/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>,
+ <span class="name">Ivonis</span> (<span class="case">gen</span>) <a href="../cite/Ivonis/1127/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XIX</span></a>;
+ <span class="date">c1147</span> <span class="name">Ivonis</span> (<span class="case">gen</span>) <a href="../cite/Ivonis/c1147/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXII</span></a>;
+ <span class="date">c1170</span> <span class="name">Yvo</span> (<span class="case">nom</span>) <a href="../cite/Yvo/c1170/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LXXXIV</span></a>;
+ <span class="date">1180</span> <span class="name">Ivonis</span> (<span class="case">gen</span>) <a href="../cite/Ivonis/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">pp. 10-11</span></a>;
+ <span class="date">1187</span> <span class="name">Ivonis</span> (<span class="case">gen</span>) <a href="../cite/Ivonis/1187/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LVII</span></a>;
+ <span class="date">1190</span> <span class="name">Ivo</span> (<span class="case">nom</span>) <a href="../cite/Ivo/1190/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CIII</span></a>;
+ <span class="date">1224</span> <span class="name">Yvo</span> (<span class="case">nom</span>) <a href="../cite/Yvo/1224/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">16</span></a>;
+ <span class="date">1269</span> <span class="name">Yvonis</span> (<span class="case">gen</span>) <a href="../cite/Yvonis/1269/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-III</span></a>;
+ <span class="date">1270</span> <span class="name">Yvonis</span> (<span class="case">gen</span>) <a href="../cite/Yvonis/1270/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLI</span></a>;
+ <span class="date">1273</span> <span class="name">Yvo</span> (<span class="case">nom</span>) <a href="../cite/Yvo/1273/NDParisII"><span class="bib_key">ibid.</span> <span class="bib_loc">2-XLIII</span></a>;
+ <span class="date">1295</span> <span class="name">Yvo</span> (<span class="case">nom</span>) <a href="../cite/Yvo/1295/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1378</span> <span class="name">Ivo</span> (<span class="case">nom</span>) <a href="../cite/Ivo/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1297</span></a>,
+ <span class="name">Yvonis</span> (<span class="case">gen</span>) <a href="../cite/Yvonis/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">351</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1260</span> <span class="name">Yvonetus</span> (<span class="case">nom</span>) <a href="../cite/Yvonetus/1260/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">XXI, Ascension</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1291</span> <span class="name">Yvon</span> (<span class="case">obl</span>) <a href="../cite/Yvon/1291/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 107</span></a>;
+ <span class="date">1296</span> <span class="name">Yve</span> <a href="../cite/Yve/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 34</span></a>,
+ <span class="name">Yves</span> (<span class="case">nom</span>) <a href="../cite/Yves/1296/paris1296"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Yvon</span> (<span class="case">obl</span>) <a href="../cite/Yvon/1296/paris1296"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1297</span> <span class="name">Yves</span> (<span class="case">obl</span>) <a href="../cite/Yves/1297/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 136</span></a>;
+ <span class="date">1298</span> <span class="name">Yves</span> (<span class="case">obl</span>) <a href="../cite/Yves/1298/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 141</span></a>;
+ <span class="date">1299</span> <span class="name">Ivon</span> (<span class="case">obl</span>) <a href="../cite/Ivon/1299/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 148</span></a>,
+ <span class="name">Yves</span> (<span class="case">obl</span>) <a href="../cite/Yves/1299/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 146</span></a>;
+ <span class="date">1313</span> <span class="name">Yve</span> <a href="../cite/Yve/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 92</span></a>,
+ <span class="name">Yves</span> (<span class="case">nom</span>) <a href="../cite/Yves/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>,
+ <span class="name">Yvon</span> (<span class="case">obl</span>) <a href="../cite/Yvon/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1299</span> <span class="name">Ivonet</span> (<span class="case">obl</span>) <a href="../cite/Ivonet/1299/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 148</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1364</span> <span class="name">Yvo</span> <a href="../cite/Yvo/1364/ActsCharlesV"><span class="bib_key">ActsCharlesV</span> <span class="bib_loc">no. 7</span></a>;
+ <span class="date">1392</span> <span class="name">Yves</span> <a href="../cite/Yves/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 618</span></a>,
+ <span class="name">Yvon</span> <a href="../cite/Yvon/1392/MemBret-II"><span class="bib_key">ibid.</span> <span class="bib_loc">col. 611</span></a>;
+ <span class="date">1418</span> <span class="name">Yves</span> <a href="../cite/Yves/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 206</span></a>;
+ <span class="date">1421</span> <span class="name">Yvon</span> <a href="../cite/Yvon/1421/Laroche"><span class="bib_key">Laroche</span> <span class="bib_loc">no. 6</span></a>,
+ <a href="../cite/Yvon/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">530</span></a>;
+ <span class="date">1562</span> <span class="name">Yves</span> <a href="../cite/Yves/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1563</span> <span class="name">Yves</span> <a href="../cite/Yves/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1564</span> <span class="name">Yves</span> <a href="../cite/Yves/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 63</span></a>;
+ <span class="date">1566</span> <span class="name">Yves</span> <a href="../cite/Yves/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 231</span></a>;
+ <span class="date">1568</span> <span class="name">Yvon</span> <a href="../cite/Yvon/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 403</span></a>;
+ <span class="date">1571</span> <span class="name">Yves</span> <a href="../cite/Yves/1571/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 472</span></a>;
+ <span class="date">1572</span> <span class="name">Yvon</span> <a href="../cite/Yvon/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 492</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1392</span> <span class="name">Yvonnet</span> <a href="../cite/Yvonnet/1392/MemBret-II"><span class="bib_key">MemBret-II</span> <span class="bib_loc">col. 605</span></a>;
+ <span class="date">1418</span> <span class="name">Yvonnet</span> <a href="../cite/Yvonnet/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 199</span></a>,
+ <a href="../cite/Yvonnet/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 375</span></a>;
+ <span class="date">1421</span> <span class="name">Yvonnet</span> <a href="../cite/Yvonnet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">162</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">963x1023</span> <span class="name">Juo</span> (<span class="case">nom</span>) <a href="../cite/Juo/963x1023/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§228</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Iuo</span> (<span class="case">nom</span>) <a href="../cite/Iuo/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 15</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1138</span> <span class="name">Ivo</span> (<span class="case">nom</span>) <a href="../cite/Ivo/1138/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 331</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1258</span> <span class="name">Ivo</span> (<span class="case">nom</span>) <a href="../cite/Ivo/1258/CDT1"><span class="bib_key">CDT1</span> <span class="bib_loc">XVIII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1070x1093</span> <span class="name">Ivo</span> (<span class="case">abl</span>) <a href="../cite/Ivo/1070x1093/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">X</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1247</span> <span class="name">Yvone</span> (<span class="case">abl</span>) <a href="../cite/Yvone/1247/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 228</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Ivo". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Ivo.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

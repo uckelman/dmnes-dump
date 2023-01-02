@@ -1,0 +1,412 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>FenPT-2</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>FenPT-2</dt>
+  <dd>Carolyn C. Fenwick, editor. <em>The Poll Taxes of 1377, 1379 and 1381, Part 2: Lincolnshire-Westmorland</em>, volume 29 of <em>Records of Social and Economic History New Series</em>. Oxford University Press for the British Academy, 2001.</dd>
+</dl>
+
+
+  <a href="../cite/Ada/1381/FenPT-2">Ada</a>
+
+  <a href="../cite/Adam/1381/FenPT-2">Adam</a>
+
+  <a href="../cite/Adam/1377/FenPT-2">Adam</a>
+
+  <a href="../cite/Agas'/1377/FenPT-2">Agas&#39;</a>
+
+  <a href="../cite/Agatha/1377/FenPT-2">Agatha</a>
+
+  <a href="../cite/Agnes/1377/FenPT-2">Agnes</a>
+
+  <a href="../cite/Alani/1381/FenPT-2">Alani</a>
+
+  <a href="../cite/Alanus/1377/FenPT-2">Alanus</a>
+
+  <a href="../cite/Alanus/1381/FenPT-2">Alanus</a>
+
+  <a href="../cite/Alanus/1381/FenPT-2">Alanus</a>
+
+  <a href="../cite/Alexander/1377/FenPT-2">Alexander</a>
+
+  <a href="../cite/Alexander/1381/FenPT-2">Alexander</a>
+
+  <a href="../cite/Alexandri/1377/FenPT-2">Alexandri</a>
+
+  <a href="../cite/Alexandri/1381/FenPT-2">Alexandri</a>
+
+  <a href="../cite/Alianora/1381/FenPT-2">Alianora</a>
+
+  <a href="../cite/Alicia/1377/FenPT-2">Alicia</a>
+
+  <a href="../cite/Alicia/1381/FenPT-2">Alicia</a>
+
+  <a href="../cite/Alinna/1381/FenPT-2">Alinna</a>
+
+  <a href="../cite/Amabilla/1381/FenPT-2">Amabilla</a>
+
+  <a href="../cite/Amicia/1377/FenPT-2">Amicia</a>
+
+  <a href="../cite/Amya/1377/FenPT-2">Amya</a>
+
+  <a href="../cite/Andreas/1377/FenPT-2">Andreas</a>
+
+  <a href="../cite/Anna/1381/FenPT-2">Anna</a>
+
+  <a href="../cite/Avelina/1381/FenPT-2">Avelina</a>
+
+  <a href="../cite/Bartholomeus/1381/FenPT-2">Bartholomeus</a>
+
+  <a href="../cite/Beatrix/1381/FenPT-2">Beatrix</a>
+
+  <a href="../cite/Beatrix/1377/FenPT-2">Beatrix</a>
+
+  <a href="../cite/Caterina/1377/FenPT-2">Caterina</a>
+
+  <a href="../cite/Ceceli/1381/FenPT-2">Ceceli</a>
+
+  <a href="../cite/Cecilia/1381/FenPT-2">Cecilia</a>
+
+  <a href="../cite/Cecilia/1377/FenPT-2">Cecilia</a>
+
+  <a href="../cite/Christiana/1377/FenPT-2">Christiana</a>
+
+  <a href="../cite/Christina/1381/FenPT-2">Christina</a>
+
+  <a href="../cite/Christina/1377/FenPT-2">Christina</a>
+
+  <a href="../cite/Cicilla/1381/FenPT-2">Cicilla</a>
+
+  <a href="../cite/Clara/1377/FenPT-2">Clara</a>
+
+  <a href="../cite/Clemens/1381/FenPT-2">Clemens</a>
+
+  <a href="../cite/Coleta/1377/FenPT-2">Coleta</a>
+
+  <a href="../cite/Cristina/1381/FenPT-2">Cristina</a>
+
+  <a href="../cite/Custancia/1381/FenPT-2">Custancia</a>
+
+  <a href="../cite/Custancia/1377/FenPT-2">Custancia</a>
+
+  <a href="../cite/Dulcia/1381/FenPT-2">Dulcia</a>
+
+  <a href="../cite/Dulcia/1377/FenPT-2">Dulcia</a>
+
+  <a href="../cite/Dyota/1377/FenPT-2">Dyota</a>
+
+  <a href="../cite/Edmundus/1381/FenPT-2">Edmundus</a>
+
+  <a href="../cite/Elayn/1381/FenPT-2">Elayn</a>
+
+  <a href="../cite/Elena/1381/FenPT-2">Elena</a>
+
+  <a href="../cite/Elene/1377/FenPT-2">Elene</a>
+
+  <a href="../cite/Elisabeta/1377/FenPT-2">Elisabeta</a>
+
+  <a href="../cite/Elizabeta/1377/FenPT-2">Elizabeta</a>
+
+  <a href="../cite/Elizabetha/1377/FenPT-2">Elizabetha</a>
+
+  <a href="../cite/Elizabetha/1381/FenPT-2">Elizabetha</a>
+
+  <a href="../cite/Emma/1381/FenPT-2">Emma</a>
+
+  <a href="../cite/Emma/1377/FenPT-2">Emma</a>
+
+  <a href="../cite/Emmota/1377/FenPT-2">Emmota</a>
+
+  <a href="../cite/Eudo/1381/FenPT-2">Eudo</a>
+
+  <a href="../cite/Eva/1381/FenPT-2">Eva</a>
+
+  <a href="../cite/Eva/1377/FenPT-2">Eva</a>
+
+  <a href="../cite/Evita/1381/FenPT-2">Evita</a>
+
+  <a href="../cite/Evitta/1381/FenPT-2">Evitta</a>
+
+  <a href="../cite/Fulco/1381/FenPT-2">Fulco</a>
+
+  <a href="../cite/Galfridi/1381/FenPT-2">Galfridi</a>
+
+  <a href="../cite/Galfridus/1381/FenPT-2">Galfridus</a>
+
+  <a href="../cite/Gilbertus/1377/FenPT-2">Gilbertus</a>
+
+  <a href="../cite/Gilbertus/1381/FenPT-2">Gilbertus</a>
+
+  <a href="../cite/Giliota/1377/FenPT-2">Giliota</a>
+
+  <a href="../cite/Gocelinus/1381/FenPT-2">Gocelinus</a>
+
+  <a href="../cite/Goda/1377/FenPT-2">Goda</a>
+
+  <a href="../cite/Gregorius/1377/FenPT-2">Gregorius</a>
+
+  <a href="../cite/Gregorius/1381/FenPT-2">Gregorius</a>
+
+  <a href="../cite/Helena/1377/FenPT-2">Helena</a>
+
+  <a href="../cite/Helwisa/1377/FenPT-2">Helwisa</a>
+
+  <a href="../cite/Helwisia/1377/FenPT-2">Helwisia</a>
+
+  <a href="../cite/Helwysia/1377/FenPT-2">Helwysia</a>
+
+  <a href="../cite/Henricus/1381/FenPT-2">Henricus</a>
+
+  <a href="../cite/Henricus/1377/FenPT-2">Henricus</a>
+
+  <a href="../cite/Hew'/1377/FenPT-2">Hew&#39;</a>
+
+  <a href="../cite/Hugo/1381/FenPT-2">Hugo</a>
+
+  <a href="../cite/Hugo/1377/FenPT-2">Hugo</a>
+
+  <a href="../cite/Hugonis/1377/FenPT-2">Hugonis</a>
+
+  <a href="../cite/Hugonis/1381/FenPT-2">Hugonis</a>
+
+  <a href="../cite/Ibota/1377/FenPT-2">Ibota</a>
+
+  <a href="../cite/Idonia/1381/FenPT-2">Idonia</a>
+
+  <a href="../cite/Idunia/1377/FenPT-2">Idunia</a>
+
+  <a href="../cite/Isabella/1377/FenPT-2">Isabella</a>
+
+  <a href="../cite/Isabella/1381/FenPT-2">Isabella</a>
+
+  <a href="../cite/Isabelle/1377/FenPT-2">Isabelle</a>
+
+  <a href="../cite/Isolda/1381/FenPT-2">Isolda</a>
+
+  <a href="../cite/Iveta/1377/FenPT-2">Iveta</a>
+
+  <a href="../cite/Ivetta/1377/FenPT-2">Ivetta</a>
+
+  <a href="../cite/Johanna/1377/FenPT-2">Johanna</a>
+
+  <a href="../cite/Johanna/1381/FenPT-2">Johanna</a>
+
+  <a href="../cite/Johannes/1381/FenPT-2">Johannes</a>
+
+  <a href="../cite/Johannes/1377/FenPT-2">Johannes</a>
+
+  <a href="../cite/Johannis/1377/FenPT-2">Johannis</a>
+
+  <a href="../cite/Johannis/1381/FenPT-2">Johannis</a>
+
+  <a href="../cite/Josep'/1377/FenPT-2">Josep&#39;</a>
+
+  <a href="../cite/Julia/1377/FenPT-2">Julia</a>
+
+  <a href="../cite/Juliana/1381/FenPT-2">Juliana</a>
+
+  <a href="../cite/Juliana/1377/FenPT-2">Juliana</a>
+
+  <a href="../cite/Katerina/1377/FenPT-2">Katerina</a>
+
+  <a href="../cite/Katerina/1381/FenPT-2">Katerina</a>
+
+  <a href="../cite/Lamberti/1381/FenPT-2">Lamberti</a>
+
+  <a href="../cite/Lambertus/1381/FenPT-2">Lambertus</a>
+
+  <a href="../cite/Laurencius/1381/FenPT-2">Laurencius</a>
+
+  <a href="../cite/Laurencius/1377/FenPT-2">Laurencius</a>
+
+  <a href="../cite/Lecia/1377/FenPT-2">Lecia</a>
+
+  <a href="../cite/Lora/1377/FenPT-2">Lora</a>
+
+  <a href="../cite/Lucas/1377/FenPT-2">Lucas</a>
+
+  <a href="../cite/Luce/1377/FenPT-2">Luce</a>
+
+  <a href="../cite/Lucia/1381/FenPT-2">Lucia</a>
+
+  <a href="../cite/Mabilla/1381/FenPT-2">Mabilla</a>
+
+  <a href="../cite/Magota/1377/FenPT-2">Magota</a>
+
+  <a href="../cite/Magota/1381/FenPT-2">Magota</a>
+
+  <a href="../cite/Margareta/1377/FenPT-2">Margareta</a>
+
+  <a href="../cite/Margeria/1381/FenPT-2">Margeria</a>
+
+  <a href="../cite/Margiori/1377/FenPT-2">Margiori</a>
+
+  <a href="../cite/Mariona/1377/FenPT-2">Mariona</a>
+
+  <a href="../cite/Mariona/1381/FenPT-2">Mariona</a>
+
+  <a href="../cite/Mariora/1377/FenPT-2">Mariora</a>
+
+  <a href="../cite/Marioria/1377/FenPT-2">Marioria</a>
+
+  <a href="../cite/Martinus/1381/FenPT-2">Martinus</a>
+
+  <a href="../cite/Mathei/1381/FenPT-2">Mathei</a>
+
+  <a href="../cite/Matilda/1381/FenPT-2">Matilda</a>
+
+  <a href="../cite/Matilda/1377/FenPT-2">Matilda</a>
+
+  <a href="../cite/Molda/1377/FenPT-2">Molda</a>
+
+  <a href="../cite/Moldys/1377/FenPT-2">Moldys</a>
+
+  <a href="../cite/Nicholaus/1377/FenPT-2">Nicholaus</a>
+
+  <a href="../cite/Nicolaus/1381/FenPT-2">Nicolaus</a>
+
+  <a href="../cite/Oliva/1377/FenPT-2">Oliva</a>
+
+  <a href="../cite/Osanna/1381/FenPT-2">Osanna</a>
+
+  <a href="../cite/Petronilla/1377/FenPT-2">Petronilla</a>
+
+  <a href="../cite/Petrus/1377/FenPT-2">Petrus</a>
+
+  <a href="../cite/Petrus/1381/FenPT-2">Petrus</a>
+
+  <a href="../cite/Philippus/1377/FenPT-2">Philippus</a>
+
+  <a href="../cite/Philippus/1381/FenPT-2">Philippus</a>
+
+  <a href="../cite/Radulfus/1377/FenPT-2">Radulfus</a>
+
+  <a href="../cite/Radulphi/1377/FenPT-2">Radulphi</a>
+
+  <a href="../cite/Radulphus/1377/FenPT-2">Radulphus</a>
+
+  <a href="../cite/Radulphus/1381/FenPT-2">Radulphus</a>
+
+  <a href="../cite/Raginaldus/1381/FenPT-2">Raginaldus</a>
+
+  <a href="../cite/Reginaldus/1377/FenPT-2">Reginaldus</a>
+
+  <a href="../cite/Ricardi/1381/FenPT-2">Ricardi</a>
+
+  <a href="../cite/Ricardus/1381/FenPT-2">Ricardus</a>
+
+  <a href="../cite/Ricardus/1377/FenPT-2">Ricardus</a>
+
+  <a href="../cite/Riche/1381/FenPT-2">Riche</a>
+
+  <a href="../cite/Roberti/1377/FenPT-2">Roberti</a>
+
+  <a href="../cite/Roberti/1381/FenPT-2">Roberti</a>
+
+  <a href="../cite/Robertus/1377/FenPT-2">Robertus</a>
+
+  <a href="../cite/Robertus/1381/FenPT-2">Robertus</a>
+
+  <a href="../cite/Rogeri/1377/FenPT-2">Rogeri</a>
+
+  <a href="../cite/Rogerus/1381/FenPT-2">Rogerus</a>
+
+  <a href="../cite/Rogerus/1377/FenPT-2">Rogerus</a>
+
+  <a href="../cite/Sarra/1381/FenPT-2">Sarra</a>
+
+  <a href="../cite/Sarra/1377/FenPT-2">Sarra</a>
+
+  <a href="../cite/Simon/1377/FenPT-2">Simon</a>
+
+  <a href="../cite/Simon/1381/FenPT-2">Simon</a>
+
+  <a href="../cite/Simonis/1377/FenPT-2">Simonis</a>
+
+  <a href="../cite/Stacia/1381/FenPT-2">Stacia</a>
+
+  <a href="../cite/Stephani/1377/FenPT-2">Stephani</a>
+
+  <a href="../cite/Stephanus/1377/FenPT-2">Stephanus</a>
+
+  <a href="../cite/Stephanus/1381/FenPT-2">Stephanus</a>
+
+  <a href="../cite/Symon/1381/FenPT-2">Symon</a>
+
+  <a href="../cite/Thomas/1377/FenPT-2">Thomas</a>
+
+  <a href="../cite/Thomas/1381/FenPT-2">Thomas</a>
+
+  <a href="../cite/Thome/1381/FenPT-2">Thome</a>
+
+  <a href="../cite/Walterus/1377/FenPT-2">Walterus</a>
+
+  <a href="../cite/Walterus/1381/FenPT-2">Walterus</a>
+
+  <a href="../cite/Willelmi/1377/FenPT-2">Willelmi</a>
+
+  <a href="../cite/Willelmi/1381/FenPT-2">Willelmi</a>
+
+  <a href="../cite/Willelmus/1381/FenPT-2">Willelmus</a>
+
+  <a href="../cite/Willelmus/1377/FenPT-2">Willelmus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

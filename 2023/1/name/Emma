@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Emma</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Emma</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym">Originally a hypocoristic of various names beginning with <span class="lang">Old High German</span> <i>ermen</i>, <span class="lang">Old Saxon</span> <i>irmin</i> 'strong', the name quickly gained existence as an independent name.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of an 11th C queen consort of England, Denmark, and Norway, and an 11th C Austrian saint.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The English diminutive <i>Emmot</i> and the vernacular form <i>Em</i> are witnessed in 1379 in the relational bynames <i>Emmot'sone</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 40</span></span>) and <i>Emsoñ</i> <span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 163</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1074x1087</span> <span class="name">Hemma</span> (<span class="case">nom</span>) <a href="../cite/Hemma/1074x1087/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">77</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1050</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1050/CRS-2-5"><span class="bib_key">CRS-2-5</span> <span class="bib_loc">p. 232</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1155</span> <span class="name">Emmæ</span> (<span class="case">gen</span>) <a href="../cite/Emmæ/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1189</span> <span class="name">Ema</span> (<span class="case">nom</span>) <a href="../cite/Ema/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 115</span></a>,
+ <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 199</span></a>,
+ <span class="name">Imma</span> (<span class="case">nom</span>) <a href="../cite/Imma/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 156</span></a>;
+ <span class="date">1222</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">emme</span> (<span class="case">gen</span>) <a href="../cite/emme/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1256</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Emmam</span> (<span class="case">acc</span>) <a href="../cite/Emmam/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1279–80</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 42</span></a>,
+ <span class="name">Emmam</span> (<span class="case">acc</span>) <a href="../cite/Emmam/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56</span></a>,
+ <span class="name">Emme</span> (<span class="case">dat</span>) <a href="../cite/Emme/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1300</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 237</span></a>;
+ <span class="date">1321</span> <span class="name">Emme</span> (<span class="case">gen</span>) <a href="../cite/Emme/1321/PSS-CXIV"><span class="bib_key">PSS-CXIV</span> <span class="bib_loc">6</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1377</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1379</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1381</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Emma/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 68</span></a>,
+ <span class="name">Emme</span> (<span class="case">nom</span>) <a href="../cite/Emme/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1562</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1562/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1564</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1564/RegSoAMar"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1567</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1567/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1571</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1571/RegSoABap"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1597/8</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1597s8/RegBeb"><span class="bib_key">RegBeb</span> <span class="bib_loc">p. 120</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1377</span> <span class="name">Emmota</span> (<span class="case">nom</span>) <a href="../cite/Emmota/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1379</span> <span class="name">Emmot'</span> (<span class="case">nom</span>) <a href="../cite/Emmot'/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Emmote</span> (<span class="case">gen</span>) <a href="../cite/Emmote/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Emot'</span> (<span class="case">nom</span>) <a href="../cite/Emot'/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Emota</span> (<span class="case">nom</span>) <a href="../cite/Emota/1379/WRYPT1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1423</span> <span class="name">Emmotæ</span> (<span class="case">gen</span>) <a href="../cite/Emmotæ/1423/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">L</span></a>;
+ <span class="date">1485–1486</span> <span class="name">Emmota</span> (<span class="case">abl</span>) <a href="../cite/Emmota/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1559/60</span> <span class="name">Emott</span> (<span class="case">nom</span>) <a href="../cite/Emott/1559s60/Chst-1"><span class="bib_key">Chst-1</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1565</span> <span class="name">Emmota</span> (<span class="case">nom</span>) <a href="../cite/Emmota/1565/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 4</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1418</span> <span class="name">Emet</span> <a href="../cite/Emet/1418/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Emot</span> <a href="../cite/Emot/1418/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1530</span> <span class="name">Em</span> <a href="../cite/Em/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1540</span> <span class="name">Eme</span> <a href="../cite/Eme/1540/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1545</span> <span class="name">Emme</span> <a href="../cite/Emme/1545/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1547</span> <span class="name">Emme</span> <a href="../cite/Emme/1547/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 107</span></a>;
+ <span class="date">1549</span> <span class="name">Emma</span> <a href="../cite/Emma/1549/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1550</span> <span class="name">Eme</span> <a href="../cite/Eme/1550/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1551</span> <span class="name">Emme</span> <a href="../cite/Emme/1551/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1552</span> <span class="name">Eme</span> <a href="../cite/Eme/1552/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1558</span> <span class="name">Em</span> <a href="../cite/Em/1558/SOmar-vol9"><span class="bib_key">SOmar-vol9</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1559</span> <span class="name">Emme</span> <a href="../cite/Emme/1559/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 53</span></a>;
+ <span class="date">1560</span> <span class="name">Eme</span> <a href="../cite/Eme/1560/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 47</span></a>,
+ <span class="name">Emma</span> <a href="../cite/Emma/1560/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1564</span> <span class="name">Em</span> <a href="../cite/Em/1564/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Eme</span> <a href="../cite/Eme/1564/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1565</span> <span class="name">Eme</span> <a href="../cite/Eme/1565/RegBeb"><span class="bib_key">RegBeb</span> <span class="bib_loc">p. 7</span></a>,
+ <a href="../cite/Eme/1565/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 75</span></a>;
+ <span class="date">1566</span> <span class="name">Eme</span> <a href="../cite/Eme/1566/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Eme/1566/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1566/7</span> <span class="name">Emma</span> <a href="../cite/Emma/1566s7/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1567</span> <span class="name">Emme</span> <a href="../cite/Emme/1567/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1568</span> <span class="name">Emma</span> <a href="../cite/Emma/1568/ExMar"><span class="bib_key">ExMar</span> <span class="bib_loc">2b</span></a>;
+ <span class="date">1570</span> <span class="name">Emma</span> <a href="../cite/Emma/1570/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1571</span> <span class="name">Eme</span> <a href="../cite/Eme/1571/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Emme</span> <a href="../cite/Emme/1571/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1572</span> <span class="name">Em</span> <a href="../cite/Em/1572/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1573</span> <span class="name">Emme</span> <a href="../cite/Emme/1573/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1575</span> <span class="name">Emma</span> <a href="../cite/Emma/1575/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1576</span> <span class="name">Em</span> <a href="../cite/Em/1576/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Eme</span> <a href="../cite/Eme/1576/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1577</span> <span class="name">Eemme</span> <a href="../cite/Eemme/1577/RegBisham"><span class="bib_key">RegBisham</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1580</span> <span class="name">Em</span> <a href="../cite/Em/1580/RegBisham"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>,
+ <span class="name">Eme</span> <a href="../cite/Eme/1580/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 68</span></a>;
+ <span class="date">1581</span> <span class="name">Emme</span> <a href="../cite/Emme/1581/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1582/3</span> <span class="name">Eme</span> <a href="../cite/Eme/1582s3/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1582</span> <span class="name">Eme</span> <a href="../cite/Eme/1582/RegBeb"><span class="bib_key">RegBeb</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1584</span> <span class="name">Eme</span> <a href="../cite/Eme/1584/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Emme</span> <a href="../cite/Emme/1584/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1586</span> <span class="name">Emma</span> <a href="../cite/Emma/1586/BUmar-vol2"><span class="bib_key">BUmar-vol2</span> <span class="bib_loc">p. 64</span></a>;
+ <span class="date">1588</span> <span class="name">Emm</span> <a href="../cite/Emm/1588/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1592</span> <span class="name">Eme</span> <a href="../cite/Eme/1592/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 140</span></a>;
+ <span class="date">1593</span> <span class="name">Em</span> <a href="../cite/Em/1593/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1594</span> <span class="name">Em</span> <a href="../cite/Em/1594/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>,
+ <a href="../cite/Em/1594/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1596</span> <span class="name">Eme</span> <a href="../cite/Eme/1596/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 33</span></a>,
+ <span class="name">Emme</span> <a href="../cite/Emme/1596/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 5</span></a>,
+ <a href="../cite/Emme/1596/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1598</span> <span class="name">Eme</span> <a href="../cite/Eme/1598/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 17</span></a>,
+ <span class="name">Emme</span> <a href="../cite/Emme/1598/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1599</span> <span class="name">Em</span> <a href="../cite/Em/1599/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Emm</span> <a href="../cite/Emm/1599/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 24</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1530</span> <span class="name">Emmot</span> <a href="../cite/Emmot/1530/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 40</span></a>,
+ <span class="name">Emot</span> <a href="../cite/Emot/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1555</span> <span class="name">Emet</span> <a href="../cite/Emet/1555/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 9</span></a>,
+ <span class="name">Emott</span> <a href="../cite/Emott/1555/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1560</span> <span class="name">Emmyn</span> <a href="../cite/Emmyn/1560/bruton1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 110</span></a>;
+ <span class="date">1570/1</span> <span class="name">Emat</span> <a href="../cite/Emat/1570s1/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1572</span> <span class="name">Emott</span> <a href="../cite/Emott/1572/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1575</span> <span class="name">Emmott</span> <a href="../cite/Emmott/1575/COmar-vol2"><span class="bib_key">COmar-vol2</span> <span class="bib_loc">p. 122</span></a>;
+ <span class="date">1580</span> <span class="name">Emote</span> <a href="../cite/Emote/1580/DEmar-vol1"><span class="bib_key">DEmar-vol1</span> <span class="bib_loc">p. 84</span></a>,
+ <span class="name">Emott</span> <a href="../cite/Emott/1580/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1587</span> <span class="name">Emmot</span> <a href="../cite/Emmot/1587/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1589</span> <span class="name">Emmot</span> <a href="../cite/Emmot/1589/RegPat"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1591</span> <span class="name">Emmote</span> <a href="../cite/Emmote/1591/RegPat"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1598</span> <span class="name">Emmett</span> <a href="../cite/Emmett/1598/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 125</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">a993?</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/a993?/CartSavII"><span class="bib_key">CartSavII</span> <span class="bib_loc">103</span></a>,
+ <span class="name">Emmę</span> (<span class="case">gen</span>) <a href="../cite/Emmę/a993?/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">103</span></a>;
+ <span class="date">1000?</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1000?/CartSavII"><span class="bib_key">ibid.</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1064x1079</span> <span class="name">Ema</span> (<span class="case">nom</span>) <a href="../cite/Ema/1064x1079/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">690</span></a>;
+ <span class="date">1131</span> <span class="name">Ema</span> (<span class="case">nom</span>) <a href="../cite/Ema/1131/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXIII</span></a>;
+ <span class="date">1180</span> <span class="name">Emme</span> (<span class="case">gen</span>) <a href="../cite/Emme/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 34</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Emme</span> (<span class="case">abl</span>) <a href="../cite/Emme/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§21</span></a>;
+ <span class="date">1016</span> <span class="name">Hemme</span> (<span class="case">dat</span>) <a href="../cite/Hemme/1016/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">38</span></a>,
+ <span class="name">Hemmę</span> (<span class="case">gen</span>) <a href="../cite/Hemmę/1016/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Emme</span> (<span class="case">gen</span>) <a href="../cite/Emme/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 5</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1113</span> <span class="name">Emme</span> (<span class="case">gen</span>) <a href="../cite/Emme/1113/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">III</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1426/7</span> <span class="name">Emmote</span> (<span class="case">dat</span>) <a href="../cite/Emmote/1426s7/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">79</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Spain</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">875</span> <span class="name">Emmone</span> (<span class="case">abl</span>) <a href="../cite/Emmone/875/CDCB-XV"><span class="bib_key">CDCB-XV</span> <span class="bib_loc">MMXVI</span></a>;
+ <span class="date">896</span> <span class="name">Emmo</span> (<span class="case">nom</span>) <a href="../cite/Emmo/896/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMXIX</span></a>,
+ <span class="name">Emmone</span> (<span class="case">abl</span>) <a href="../cite/Emmone/896/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMXIX</span></a>;
+ <span class="date">899</span> <span class="name">Hemmone</span> (<span class="case">abl</span>) <a href="../cite/Hemmone/899/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMXXII</span></a>;
+ <span class="date">1006</span> <span class="name">Ema</span> (<span class="case">abl</span>) <a href="../cite/Ema/1006/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXV</span></a>,
+ <span class="name">Emam</span> (<span class="case">acc</span>) <a href="../cite/Emam/1006/CDCB-XV"><span class="bib_key">ibid.</span> <span class="bib_loc">MMCLXV</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1215</span> <span class="name">Emma</span> (<span class="case">nom</span>) <a href="../cite/Emma/1215/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">34</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, J. Uckelman, S.L. Uckelman. "Emma". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Emma.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

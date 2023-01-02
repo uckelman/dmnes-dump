@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Aldwin</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Aldwin</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>(e)ald</i>, <span class="lang">Old High German</span> <i>alt</i>, <span class="lang">Old Saxon, Old Frisian</span> <i>ald</i> 'old' + <span class="lang">Old English</span> <i>wine</i>, <span class="lang">Old High German</span> <i>wini</i> 'friend'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1070</span> <span class="name">Altuuino</span> (<span class="case">dat</span>) <a href="../cite/Altuuino/c1070/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">74</span></a>,
+ <span class="name">Altuvino</span> (<span class="case">abl</span>) <a href="../cite/Altuvino/c1070/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">75</span></a>,
+ <span class="name">Altvuino</span> (<span class="case">dat</span>) <a href="../cite/Altvuino/c1070/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">71</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Audoenus</span> (<span class="case">nom</span>) <a href="../cite/Audoenus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 117</span></a>,
+ <span class="name">Ealdwinus</span> (<span class="case">nom</span>) <a href="../cite/Ealdwinus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 230</span></a>,
+ <span class="name">Eldwin</span> (<span class="case">nom</span>) <a href="../cite/Eldwin/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 151</span></a>,
+ <span class="name">Eldwinus</span> (<span class="case">nom</span>) <a href="../cite/Eldwinus/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 200</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">657</span> <span class="name">Audoeno</span> (<span class="case">abl</span>) <a href="../cite/Audoeno/657/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">VI</span></a>;
+ <span class="date">658</span> <span class="name">Audoenus</span> (<span class="case">nom</span>) <a href="../cite/Audoenus/658/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">CCCXXXIII</span></a>;
+ <span class="date">700</span> <span class="name">Audwine</span> <a href="../cite/Audwine/700/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>,
+ <span class="name">Audwino</span> (<span class="case">dat</span>) <a href="../cite/Audwino/700/DCEL-2"><span class="bib_key">ibid.</span> <span class="bib_loc">XIII</span></a>;
+ <span class="date">1047</span> <span class="name">Audoini</span> (<span class="case">gen</span>) <a href="../cite/Audoini/1047/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1047x61</span> <span class="name">Alduinus</span> (<span class="case">nom</span>) <a href="../cite/Alduinus/1047x61/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XV</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1421</span> <span class="name">Audouin</span> <a href="../cite/Audouin/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">893</span></a>;
+ <span class="date">1423</span> <span class="name">Audouin</span> <a href="../cite/Audouin/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">228</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1070</span> <span class="name">Altuvini</span> (<span class="case">gen</span>) <a href="../cite/Altuvini/c1070/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">73</span></a>,
+ <span class="name">Altvuini</span> (<span class="case">gen</span>) <a href="../cite/Altvuini/c1070/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">72</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1080</span> <span class="name">Altvvini</span> (<span class="case">gen</span>) <a href="../cite/Altvvini/c1080/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">83</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">709</span> <span class="name">Alduino</span> (<span class="case">abl</span>) <a href="../cite/Alduino/709/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 2</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>S.L. Uckelman. "Aldwin". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Aldwin.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

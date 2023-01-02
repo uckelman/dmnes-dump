@@ -1,0 +1,501 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Adam</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Adam</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Classical Hebrew</span> <i>אָדָם</i> 'earth, soil; man', from <span class="lang">Classical Hebrew</span> <i>אדמה</i> 'red earth, ground'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of the Biblical first man created by God and of an 11th C Italian saint. Wycliffite Bible (1395): <i>Adam</i>. Geneva Bible (1560): <i>Adam</i>. Sagradas Escrituras (1569): <i>Adam</i>, <i>Adama</i>, <i>Adán</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The name was sometimes used as an anglicization of Gaelic <i>Áedán</i> (cf. <a class="nym" href="Aidan">Aidan</a>).</p>
+<p>The English diminutives <i>Adcok</i>, <i>Adken</i>, <i>Adkyn</i>, <i>Atkyn</i>, and <i>Attkyn</i>are witnessed in 1379 in the relational bynames <i>Adcoksoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 289</span></span>), <i>Adkensoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 44</span></span>), <i>Adkynsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 18</span></span>), <i>Atkynsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 23</span></span>), and <i>Attkynsoñ</i> (<span class="bibl"><span class="key">WRYPT1</span> <span class="loc">p. 43</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1437</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1437/ChronSH"><span class="bib_key">ChronSH</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1529</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1529/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1533</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1533/ChronSH"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 12</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1110</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1110/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1180</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1180/TSPDB-II"><span class="bib_key">TSPDB-II</span> <span class="bib_loc">p. 65</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1597x1598</span> <span class="name">Adam</span> <a href="../cite/Adam/1597x1598/BoonenGes"><span class="bib_key">BoonenGes</span> <span class="bib_loc">p. 368</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Brabant</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1312</span> <span class="name">Adaem</span> (<span class="case">nom</span>) <a href="../cite/Adaem/1312/JeanIII"><span class="bib_key">JeanIII</span> <span class="bib_loc">p. 13</span></a>,
+ <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1312/JeanIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1343</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1343/Rössler2"><span class="bib_key">Rössler2</span> <span class="bib_loc">294, p. 135</span></a>;
+ <span class="date">1349</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1349/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">15</span></a>,
+ <span class="name">Ade</span> (<span class="case">dat</span>) <a href="../cite/Ade/1349/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">95</span></a>;
+ <span class="date">1350</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">170</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1350/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">165</span></a>;
+ <span class="date">1351</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">31</span></a>,
+ <span class="name">Ade</span> (<span class="case">dat</span>) <a href="../cite/Ade/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1353</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">67</span></a>;
+ <span class="date">1358</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">234, p. 31</span></a>,
+ <span class="name">Ade</span> (<span class="case">dat</span>) <a href="../cite/Ade/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">305, p. 33</span></a>;
+ <span class="date">1360</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1360/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">481, p. 40</span></a>,
+ <span class="name">Ade</span> (<span class="case">dat</span>) <a href="../cite/Ade/1360/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">480, p. 40</span></a>;
+ <span class="date">1377</span> <span class="name">Adae</span> (<span class="case">gen</span>) <a href="../cite/Adae/1377/LDFPUP1"><span class="bib_key">LDFPUP1</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1383</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1383/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1384</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1384/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1389</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1389/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1390</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1390/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1408</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1408/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1409</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1409/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1412</span> <span class="name">Adam</span> (<span class="case">acc</span>) <a href="../cite/Adam/1412/LDFPUP1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1145x1159</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/c1145x1159/EYC-3"><span class="bib_key">EYC-3</span> <span class="bib_loc">1666</span></a>;
+ <span class="date">1155</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1155/FPD"><span class="bib_key">FPD</span> <span class="bib_loc">p. 121, fn. 1</span></a>,
+ <span class="name">Adæ</span> (<span class="case">gen</span>) <a href="../cite/Adæ/1155/FPD"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 121, fn. 1</span></a>;
+ <span class="date">1183</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1183/BoldonBuke"><span class="bib_key">BoldonBuke</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1185x1186</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1185x1186/PR-XXXVI"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1189</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 77</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1189/GASurv"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 95</span></a>;
+ <span class="date">1194</span> <span class="name">Ade</span> (<span class="case">dat</span>) <a href="../cite/Ade/1194/RotCur-vol1"><span class="bib_key">RotCur-vol1</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">c1198</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/c1198/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 242</span></a>;
+ <span class="date">1222</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1222/StPaulDom"><span class="bib_key">StPaulDom</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1222/StPaulDom"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1256</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1256/EARNb"><span class="bib_key">EARNb</span> <span class="bib_loc">p. 6</span></a>,
+ <span class="name">Adæ</span> (<span class="case">gen</span>) <a href="../cite/Adæ/1256/EARNb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1279–80</span> <span class="name">Ada</span> (<span class="case">nom</span>) <a href="../cite/Ada/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 41</span></a>,
+ <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a>,
+ <span class="name">Ade</span> (<span class="case">dat</span>) <a href="../cite/Ade/1279–80/WaHR-SK"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1296</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1296/RCS-1"><span class="bib_key">RCS-1</span> <span class="bib_loc">p. 93b</span></a>,
+ <span class="name">Ade</span> (<span class="case">dat</span>) <a href="../cite/Ade/1296/RCS-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 93b</span></a>;
+ <span class="date">1299</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1299/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1300</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1300/ProcSuf-vol3"><span class="bib_key">ProcSuf-vol3</span> <span class="bib_loc">p. 232</span></a>;
+ <span class="date">1302</span> <span class="name">Ada</span> (<span class="case">nom</span>) <a href="../cite/Ada/1302/ComWil-vol1"><span class="bib_key">ComWil-vol1</span> <span class="bib_loc">p. 4</span></a>,
+ <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1302/ComWil-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1319</span> <span class="name">Adam</span> (<span class="case">acc</span>) <a href="../cite/Adam/1319/PSS-CXIV"><span class="bib_key">PSS-CXIV</span> <span class="bib_loc">5a</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1319/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">5a</span></a>;
+ <span class="date">1325</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1325/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">11</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1325/PSS-CXIV"><span class="bib_key">ibid.</span> <span class="bib_loc">10f</span></a>;
+ <span class="date">1327</span> <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/1327/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1341</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1341/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1377</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1379</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1381</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Adam/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 68</span></a>,
+ <span class="name">Adami</span> (<span class="case">gen</span>) <a href="../cite/Adami/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 87</span></a>,
+ <span class="name">Adamo</span> (<span class="case">abl</span>) <a href="../cite/Adamo/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 100</span></a>,
+ <span class="name">Ade</span> (<span class="case">nom</span>) <a href="../cite/Ade/1381/Suffolk1381"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 96</span></a>;
+ <span class="date">1395</span> <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/1395/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1408</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1408/GCCYork"><span class="bib_key">GCCYork</span> <span class="bib_loc">p.11</span></a>;
+ <span class="date">1436</span> <span class="name">Adam</span> (<span class="case">dat</span>) <a href="../cite/Adam/1436/WillsInv"><span class="bib_key">WillsInv</span> <span class="bib_loc">LIX</span></a>;
+ <span class="date">1485–1486</span> <span class="name">Ade</span> (<span class="case">abl</span>) <a href="../cite/Ade/1485–1486/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 57</span></a>;
+ <span class="date">1588</span> <span class="name">Adami</span> (<span class="case">gen</span>) <a href="../cite/Adami/1588/RegBeb"><span class="bib_key">RegBeb</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1595</span> <span class="name">Adami</span> (<span class="case">gen</span>) <a href="../cite/Adami/1595/RegBeb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1597</span> <span class="name">Adami</span> (<span class="case">gen</span>) <a href="../cite/Adami/1597/RegBeb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1599</span> <span class="name">Adami</span> (<span class="case">gen</span>) <a href="../cite/Adami/1599/RegBeb"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 38</span></a></dd>
+<dt><span class="lang">Anglo-French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1245–1250[1586]</span> <span class="name">Adam</span> <a href="../cite/Adam/1245–1250[1586]/Glover"><span class="bib_key">Glover</span> <span class="bib_loc">117</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1507</span> <span class="name">Adam</span> <a href="../cite/Adam/1507/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Willarts</span></a>;
+ <span class="date">1572</span> <span class="name">Adam</span> <a href="../cite/Adam/1572/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Kunx</span></a>;
+ <span class="date">1574</span> <span class="name">Adam</span> <a href="../cite/Adam/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Kinderen</span></a>;
+ <span class="date">1576</span> <span class="name">Adam</span> <a href="../cite/Adam/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Boddens</span></a>;
+ <span class="date">1578</span> <span class="name">Adam</span> <a href="../cite/Adam/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Billen</span></a>;
+ <span class="date">1579</span> <span class="name">Adam</span> <a href="../cite/Adam/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bolten</span></a>;
+ <span class="date">1580</span> <span class="name">Adam</span> <a href="../cite/Adam/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Kinderen</span></a>;
+ <span class="date">1581</span> <span class="name">Adam</span> <a href="../cite/Adam/1581/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Kinderen</span></a>;
+ <span class="date">1582</span> <span class="name">Adam</span> <a href="../cite/Adam/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Nauwen</span></a>;
+ <span class="date">1583</span> <span class="name">Adam</span> <a href="../cite/Adam/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Kinderen</span></a>;
+ <span class="date">1584</span> <span class="name">Adam</span> <a href="../cite/Adam/1584/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Laurents</span></a>;
+ <span class="date">1585</span> <span class="name">Adam</span> <a href="../cite/Adam/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Willarts</span></a>;
+ <span class="date">1587</span> <span class="name">Adam</span> <a href="../cite/Adam/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Wessels</span></a>;
+ <span class="date">1589</span> <span class="name">Adam</span> <a href="../cite/Adam/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Sinnicke</span></a>;
+ <span class="date">1590</span> <span class="name">Adam</span> <a href="../cite/Adam/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Mulder</span></a>;
+ <span class="date">1594</span> <span class="name">Adam</span> <a href="../cite/Adam/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Mominckx</span></a>;
+ <span class="date">1595</span> <span class="name">Adam</span> <a href="../cite/Adam/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Meunix</span></a>;
+ <span class="date">1596</span> <span class="name">Adam</span> <a href="../cite/Adam/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Muninx</span></a>;
+ <span class="date">1598</span> <span class="name">Adam</span> <a href="../cite/Adam/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Meunincx</span></a></dd>
+<dt><span class="lang">Middle English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1418</span> <span class="name">Adam</span> <a href="../cite/Adam/1418/EEW"><span class="bib_key">EEW</span> <span class="bib_loc">p. 29</span></a>;
+ <span class="date">1426</span> <span class="name">Adam</span> <a href="../cite/Adam/1426/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 74</span></a>;
+ <span class="date">1434</span> <span class="name">Adam</span> <a href="../cite/Adam/1434/EEW"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 98</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1525/6</span> <span class="name">Adam</span> <a href="../cite/Adam/1525s6/LIWill-III"><span class="bib_key">LIWill-III</span> <span class="bib_loc">p. 1</span></a>;
+ <span class="date">1530</span> <span class="name">Adam</span> <a href="../cite/Adam/1530/LIWill-III"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 64</span></a>;
+ <span class="date">1532–1533</span> <span class="name">Adam</span> <a href="../cite/Adam/1532–1533/CovGuild-2"><span class="bib_key">CovGuild-2</span> <span class="bib_loc">p. 123</span></a>;
+ <span class="date">1542</span> <span class="name">Adam</span> <a href="../cite/Adam/1542/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1544</span> <span class="name">Adam</span> <a href="../cite/Adam/1544/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1547</span> <span class="name">Adam</span> <a href="../cite/Adam/1547/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1549</span> <span class="name">Adam</span> <a href="../cite/Adam/1549/StNick-Sf"><span class="bib_key">StNick-Sf</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1557</span> <span class="name">Adda</span> <a href="../cite/Adda/1557/RegSASel"><span class="bib_key">RegSASel</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1560/1</span> <span class="name">Adda</span> <a href="../cite/Adda/1560s1/RegSASel"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1562</span> <span class="name">Adam</span> <a href="../cite/Adam/1562/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1563</span> <span class="name">Adam</span> <a href="../cite/Adam/1563/RegBeb"><span class="bib_key">RegBeb</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1569</span> <span class="name">Adam</span> <a href="../cite/Adam/1569/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1582</span> <span class="name">Adam</span> <a href="../cite/Adam/1582/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1583/4</span> <span class="name">Adam</span> <a href="../cite/Adam/1583s4/SurMus"><span class="bib_key">SurMus</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1586</span> <span class="name">Adam</span> <a href="../cite/Adam/1586/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1588</span> <span class="name">Adam</span> <a href="../cite/Adam/1588/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p. 69</span></a>;
+ <span class="date">1591/2</span> <span class="name">Adam</span> <a href="../cite/Adam/1591s2/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1591</span> <span class="name">Adam</span> <a href="../cite/Adam/1591/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1593</span> <span class="name">Adam</span> <a href="../cite/Adam/1593/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1595</span> <span class="name">Adam</span> <a href="../cite/Adam/1595/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1596</span> <span class="name">Adam</span> <a href="../cite/Adam/1596/BEmar-vol2"><span class="bib_key">BEmar-vol2</span> <span class="bib_loc">p.96</span></a>;
+ <span class="date">1598</span> <span class="name">Adam</span> <a href="../cite/Adam/1598/Bar-in-El"><span class="bib_key">Bar-in-El</span> <span class="bib_loc">p. 33</span></a>,
+ <a href="../cite/Adam/1598/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1599</span> <span class="name">Adam</span> <a href="../cite/Adam/1599/RegGorton"><span class="bib_key">RegGorton</span> <span class="bib_loc">p. 1</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Adam</span> <a href="../cite/Adam/1581/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1582</span> <span class="name">Adam</span> <a href="../cite/Adam/1582/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 5</span></a>;
+ <span class="date">1592</span> <span class="name">Adam</span> <a href="../cite/Adam/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1593</span> <span class="name">Adam</span> <a href="../cite/Adam/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 28</span></a>;
+ <span class="date">1593/4</span> <span class="name">Adam</span> <a href="../cite/Adam/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1594</span> <span class="name">Adam</span> <a href="../cite/Adam/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a>;
+ <span class="date">1594/5</span> <span class="name">Adam</span> <a href="../cite/Adam/1594s5/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1596</span> <span class="name">Adam</span> <a href="../cite/Adam/1596/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1596/7</span> <span class="name">Adam</span> <a href="../cite/Adam/1596s7/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1599</span> <span class="name">Adam</span> <a href="../cite/Adam/1599/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Estonia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1437</span> <span class="name">Daem</span> <a href="../cite/Daem/1437/BbRT"><span class="bib_key">BbRT</span> <span class="bib_loc">p. 360</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1096</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1096/CartSPL1"><span class="bib_key">CartSPL1</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">1101x1129</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1101x1129/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XXIII</span></a>;
+ <span class="date">1125</span> <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1125/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XLVII</span></a>;
+ <span class="date">1125x1136</span> <span class="name">Adam</span> (<span class="case">gen</span>) <a href="../cite/Adam/1125x1136/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">CXXXIX</span></a>;
+ <span class="date">1143</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1143/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">10</span></a>;
+ <span class="date">1147</span> <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/1147/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCVII</span></a>,
+ (<span class="case">nom</span>) <a href="../cite/Adam/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">15</span></a>;
+ <span class="date">1159</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1159/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">37</span></a>;
+ <span class="date">c1175–1180</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/c1175–1180/ChartCaen2"><span class="bib_key">ChartCaen2</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1180</span> <span class="name">Adam</span> (<span class="case">acc</span>) <a href="../cite/Adam/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 15</span></a>;
+ <span class="date">1188</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1188/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XCIV</span></a>;
+ <span class="date">1206</span> <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1206/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">LVIII</span></a>;
+ <span class="date">1214</span> <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1214/CartNDdOurscamp"><span class="bib_key">ibid.</span> <span class="bib_loc">CXLI</span></a>;
+ <span class="date">1220</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1220/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-LXVIII</span></a>;
+ <span class="date">1222</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1222/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">XXXVIII</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1222/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XCI</span></a>;
+ <span class="date">1255</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1255/ArrestReg-volI"><span class="bib_key">ArrestReg-volI</span> <span class="bib_loc">I, Candlemas</span></a>;
+ <span class="date">1257</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1257/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">I, BMV</span></a>,
+ <span class="name">Adame</span> (<span class="case">gen</span>) <a href="../cite/Adame/1257/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">IX, BMV</span></a>;
+ <span class="date">1258</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">XVI, BMV</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1258/ArrestReg-volI"><span class="bib_key">ibid.</span> <span class="bib_loc">III, Candlemas</span></a>;
+ <span class="date">1270</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1270/NDParisII"><span class="bib_key">NDParisII</span> <span class="bib_loc">2-XLI</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1270/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">CLVII</span></a>;
+ <span class="date">1295</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1295/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 130</span></a>;
+ <span class="date">1300</span> <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1300/CartNDdOurscamp"><span class="bib_key">CartNDdOurscamp</span> <span class="bib_loc">LXIX</span></a>;
+ <span class="date">1301</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 203</span></a>,
+ <span class="name">Adams</span> (<span class="case">nom</span>) <a href="../cite/Adams/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 231</span></a>,
+ <span class="name">Adans</span> (<span class="case">nom</span>) <a href="../cite/Adans/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 227</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 203</span></a>;
+ <span class="date">1378</span> <span class="name">Adaems</span> (<span class="case">gen</span>) <a href="../cite/Adaems/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">1649</span></a>,
+ <span class="name">Ade</span> (<span class="case">dat</span>) <a href="../cite/Ade/1378/hanquetvol1"><span class="bib_key">ibid.</span> <span class="bib_loc">424</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1284</span> <span class="name">Adam</span> (<span class="case">obl</span>) <a href="../cite/Adam/1284/HAP"><span class="bib_key">HAP</span> <span class="bib_loc">p. 385</span></a>;
+ <span class="date">1291</span> <span class="name">Adan</span> (<span class="case">obl</span>) <a href="../cite/Adan/1291/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 108</span></a>;
+ <span class="date">1292</span> <span class="name">Adan</span> (<span class="case">obl</span>) <a href="../cite/Adan/1292/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 111</span></a>;
+ <span class="date">1293</span> <span class="name">Adan</span> (<span class="case">obl</span>) <a href="../cite/Adan/1293/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 118</span></a>;
+ <span class="date">c1294</span> <span class="name">Adam</span> (<span class="case">obl</span>) <a href="../cite/Adam/c1294/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 125</span></a>;
+ <span class="date">1294</span> <span class="name">Adam</span> (<span class="case">obl</span>) <a href="../cite/Adam/1294/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 126</span></a>,
+ <span class="name">Adan</span> (<span class="case">obl</span>) <a href="../cite/Adan/1294/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 126</span></a>;
+ <span class="date">1295</span> <span class="name">Adan</span> (<span class="case">obl</span>) <a href="../cite/Adan/1295/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 129</span></a>;
+ <span class="date">1296</span> <span class="name">Adam</span> <a href="../cite/Adam/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 3</span></a>,
+ (<span class="case">obl</span>) <a href="../cite/Adam/1296/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 133</span></a>,
+ <span class="name">Adan</span> (<span class="case">obl</span>) <a href="../cite/Adan/1296/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 131</span></a>;
+ <span class="date">1297</span> <span class="name">Adam</span> (<span class="case">obl</span>) <a href="../cite/Adam/1297/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 136</span></a>,
+ <span class="name">Adan</span> (<span class="case">obl</span>) <a href="../cite/Adan/1297/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 136</span></a>;
+ <span class="date">1298</span> <span class="name">Adam</span> (<span class="case">obl</span>) <a href="../cite/Adam/1298/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 141</span></a>;
+ <span class="date">c1298</span> <span class="name">Adan</span> (<span class="case">obl</span>) <a href="../cite/Adan/c1298/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 138</span></a>;
+ <span class="date">1298</span> <span class="name">Adan</span> (<span class="case">obl</span>) <a href="../cite/Adan/1298/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 140</span></a>;
+ <span class="date">1299</span> <span class="name">Adam</span> (<span class="case">obl</span>) <a href="../cite/Adam/1299/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 146</span></a>,
+ <span class="name">Adan</span> (<span class="case">obl</span>) <a href="../cite/Adan/1299/HistHdVParis"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 146</span></a>;
+ <span class="date">1301</span> <span class="name">Adan</span> (<span class="case">obl</span>) <a href="../cite/Adan/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 241</span></a>;
+ <span class="date">1303</span> <span class="name">Adans</span> (<span class="case">nom</span>) <a href="../cite/Adans/1303/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">XL</span></a>;
+ <span class="date">1313</span> <span class="name">Adan</span> <a href="../cite/Adan/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 2</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1280</span> <span class="name">Adenot</span> (<span class="case">obl</span>) <a href="../cite/Adenot/1280/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">p. 105</span></a>;
+ <span class="date">1296</span> <span class="name">Adenot</span> <a href="../cite/Adenot/1296/paris1296"><span class="bib_key">paris1296</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1302x1303</span> <span class="name">Adenet</span> (<span class="case">obl</span>) <a href="../cite/Adenet/1302x1303/ArchReimsII1"><span class="bib_key">ArchReimsII1</span> <span class="bib_loc">XXX</span></a>;
+ <span class="date">1313</span> <span class="name">Adenet</span> <a href="../cite/Adenet/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 88</span></a>,
+ <span class="name">Adenot</span> <a href="../cite/Adenot/1313/Paris1313"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 143</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1366/7</span> <span class="name">Adam</span> <a href="../cite/Adam/1366s7/ActsCharlesV"><span class="bib_key">ActsCharlesV</span> <span class="bib_loc">no. 384</span></a>;
+ <span class="date">1388</span> <span class="name">Adam</span> <a href="../cite/Adam/1388/thierry"><span class="bib_key">thierry</span></a>;
+ <span class="date">1418</span> <span class="name">Adam</span> <a href="../cite/Adam/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 198</span></a>,
+ <a href="../cite/Adam/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 374</span></a>;
+ <span class="date">1421</span> <span class="name">Adam</span> <a href="../cite/Adam/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">587</span></a>;
+ <span class="date">1423</span> <span class="name">Adam</span> <a href="../cite/Adam/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1438</span> <span class="name">Adam</span> <a href="../cite/Adam/1438/favier"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1504</span> <span class="name">Adam</span> <a href="../cite/Adam/1504/HistHdVParis"><span class="bib_key">HistHdVParis</span> <span class="bib_loc">no. 6</span></a>;
+ <span class="date">1562</span> <span class="name">Adam</span> <a href="../cite/Adam/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1563</span> <span class="name">Adam</span> <a href="../cite/Adam/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>,
+ <span class="name">Adan</span> <a href="../cite/Adan/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1564</span> <span class="name">Adam</span> <a href="../cite/Adam/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a>,
+ <span class="name">Adan</span> <a href="../cite/Adan/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 77</span></a>;
+ <span class="date">1566</span> <span class="name">Adam</span> <a href="../cite/Adam/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 208</span></a>;
+ <span class="date">1567</span> <span class="name">Adam</span> <a href="../cite/Adam/1567/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 309</span></a>;
+ <span class="date">1568</span> <span class="name">Adam</span> <a href="../cite/Adam/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 415</span></a>;
+ <span class="date">1572</span> <span class="name">Adam</span> <a href="../cite/Adam/1572/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 488</span></a>;
+ <span class="date">1587</span> <span class="name">Adam</span> <a href="../cite/Adam/1587/RTFProvins"><span class="bib_key">RTFProvins</span> <span class="bib_loc">251</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1418</span> <span class="name">Adenet</span> <a href="../cite/Adenet/1418/DdB1418"><span class="bib_key">DdB1418</span> <span class="bib_loc">p. 202</span></a>,
+ <a href="../cite/Adenet/1418/HGParis"><span class="bib_key">HGParis</span> <span class="bib_loc">p. 378</span></a>;
+ <span class="date">1421</span> <span class="name">Adenet</span> <a href="../cite/Adenet/1421/favier"><span class="bib_key">favier</span> <span class="bib_loc">425</span></a>;
+ <span class="date">1423</span> <span class="name">Adenet</span> <a href="../cite/Adenet/1423/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">64</span></a>;
+ <span class="date">1438</span> <span class="name">Adenet</span> <a href="../cite/Adenet/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">267</span></a>,
+ <span class="name">Adenin</span> <a href="../cite/Adenin/1438/favier"><span class="bib_key">ibid.</span> <span class="bib_loc">74</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">790x814</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/790x814/HambUrk-vol1"><span class="bib_key">HambUrk-vol1</span> <span class="bib_loc">III</span></a>;
+ <span class="date">963x1023</span> <span class="name">Ada</span> (<span class="case">gen</span>) <a href="../cite/Ada/963x1023/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§225</span></a>;
+ <span class="date">1151</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1151/mairhofer"><span class="bib_key">mairhofer</span> <span class="bib_loc">XL</span></a>;
+ <span class="date">1196</span> <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/1196/quix-vol1"><span class="bib_key">quix-vol1</span> <span class="bib_loc">68</span></a>;
+ <span class="date">1239</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1239/UrkMeck1"><span class="bib_key">UrkMeck1</span> <span class="bib_loc">no. XXIV</span></a>;
+ <span class="date">1322</span> <span class="name">Adam</span> (<span class="case">gen</span>) <a href="../cite/Adam/1322/SMM"><span class="bib_key">SMM</span> <span class="bib_loc">p. 156</span></a></dd>
+<dt><span class="lang">Early New High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1497</span> <span class="name">Adam</span> <a href="../cite/Adam/1497/Nurn1497"><span class="bib_key">Nurn1497</span> <span class="bib_loc">p. 1</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Hungary</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1303</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1303/Slíz"><span class="bib_key">Slíz</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1321</span> <span class="name">Odon</span> (<span class="case">nom</span>) <a href="../cite/Odon/1321/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1322</span> <span class="name">Odun</span> <a href="../cite/Odun/1322/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1324</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1324/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1332–1337</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1332–1337/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1340</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1340/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1341</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1341/Slíz"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1345</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1345/Slíz2"><span class="bib_key">Slíz2</span> <span class="bib_loc">p. 22, s.n. Adam</span></a>;
+ <span class="date">1358</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1358/Slíz2"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22, s.n. Adam</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Ada</span> (<span class="case">nom</span>) <a href="../cite/Ada/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 8</span></a>,
+ <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 5</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 7</span></a>;
+ <span class="date">1432</span> <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1432/RegOct"><span class="bib_key">RegOct</span> <span class="bib_loc">103</span></a>;
+ <span class="date">1490/1</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1490s1/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1490s1/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1491</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1491/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1496</span> <span class="name">Ada</span> (<span class="case">abl</span>) <a href="../cite/Ada/1496/RegOct"><span class="bib_key">ibid.</span> <span class="bib_loc">35</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Adami</span> (<span class="case">gen</span>) <a href="../cite/Adami/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">868</span></a>,
+ <span class="name">Adammi</span> (<span class="case">gen</span>) <a href="../cite/Adammi/1265x1339/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">137</span></a>;
+ <span class="date">1279</span> <span class="name">Adammi</span> (<span class="case">gen</span>) <a href="../cite/Adammi/1279/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIII</span></a>;
+ <span class="date">1288</span> <span class="name">Adammi</span> (<span class="case">gen</span>) <a href="../cite/Adammi/1288/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLIV</span></a>;
+ <span class="date">1295</span> <span class="name">Adammus</span> (<span class="case">nom</span>) <a href="../cite/Adammus/1295/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">p. XLV</span></a>;
+ <span class="date">1376</span> <span class="name">Adano</span> (<span class="case">abl</span>) <a href="../cite/Adano/1376/DouGen1"><span class="bib_key">DouGen1</span> <span class="bib_loc">p. 169</span></a>,
+ <span class="name">Adanus</span> (<span class="case">nom</span>) <a href="../cite/Adanus/1376/DouGen1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 254</span></a>;
+ <span class="date">1464</span> <span class="name">Adanus</span> (<span class="case">nom</span>) <a href="../cite/Adanus/1464/CUP-III-I"><span class="bib_key">CUP-III-I</span> <span class="bib_loc">CCXXXI</span></a>;
+ <span class="date">1478</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1478/RCCaetani6"><span class="bib_key">RCCaetani6</span> <span class="bib_loc">2720</span></a>,
+ <span class="name">Addam</span> (<span class="case">nom</span>) <a href="../cite/Addam/1478/RCCaetani6"><span class="bib_key">ibid.</span> <span class="bib_loc">2720</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 54, 58</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Latvia</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1290</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1290/RigSB"><span class="bib_key">RigSB</span> <span class="bib_loc">20</span></a>;
+ <span class="date">1294</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1294/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">53</span></a>;
+ <span class="date">1296</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1296/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">65</span></a>;
+ <span class="date">1297</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1297/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">76</span></a>,
+ <span class="name">Ade</span> (<span class="case">dat</span>) <a href="../cite/Ade/1297/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">260</span></a>;
+ <span class="date">1299</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1299/RigSB"><span class="bib_key">ibid.</span> <span class="bib_loc">86</span></a></dd>
+<dt><span class="lang">Middle Low German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1565x1577</span> <span class="name">Adams</span> <a href="../cite/Adams/1565x1577/Arbusow"><span class="bib_key">Arbusow</span> <span class="bib_loc">p. 97</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Lithuania</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Polish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1551x1555</span> <span class="name">Adama</span> (<span class="case">gen</span>) <a href="../cite/Adama/1551x1555/Kaunas2006"><span class="bib_key">Kaunas2006</span> <span class="bib_loc">p. 85</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1579</span> <span class="name">Adams</span> (<span class="case">gen</span>) <a href="../cite/Adams/1579/MagMiddelburg-1560"><span class="bib_key">MagMiddelburg-1560</span></a>;
+ <span class="date">1580</span> <span class="name">Adams</span> (<span class="case">gen</span>) <a href="../cite/Adams/1580/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a>;
+ <span class="date">1581</span> <span class="name">Adams</span> (<span class="case">gen</span>) <a href="../cite/Adams/1581/MagMiddelburg-1560"><span class="bib_key">ibid.</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1447</span> <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/1447/CDP2-2"><span class="bib_key">CDP2-2</span> <span class="bib_loc">CCXCIX</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1120</span> <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/c1120/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XXXV</span></a>;
+ <span class="date">1174x99</span> <span class="name">Ada</span> (<span class="case">abl</span>) <a href="../cite/Ada/1174x99/CartLevenax"><span class="bib_key">CartLevenax</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">a1177</span> <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/a1177/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">3</span></a>;
+ <span class="date">1214–1226</span> <span class="name">Ada</span> (<span class="case">abl</span>) <a href="../cite/Ada/1214–1226/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">2</span></a>,
+ <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/1214–1226/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">1</span></a>;
+ <span class="date">1238</span> <span class="name">Ada</span> (<span class="case">abl</span>) <a href="../cite/Ada/1238/CartStAndrew"><span class="bib_key">CartStAndrew</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1376</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>;
+ <span class="date">c1377</span> <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/c1377/morton-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">4</span></a>;
+ <span class="date">1413</span> <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/1413/REG-II"><span class="bib_key">REG-II</span> <span class="bib_loc">323</span></a>;
+ <span class="date">1424</span> <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/1424/RMSRS-2"><span class="bib_key">RMSRS-2</span> <span class="bib_loc">3</span></a>,
+ <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1424/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1425</span> <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/1425/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">27</span></a>,
+ <span class="name">Ade</span> (<span class="case">dat</span>) <a href="../cite/Ade/1425/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">34</span></a>;
+ <span class="date">1426/7</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1426s7/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">84</span></a>;
+ <span class="date">1426</span> <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1426/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">60</span></a>;
+ <span class="date">1426/7</span> <span class="name">Ade</span> (<span class="case">gen</span>) <a href="../cite/Ade/1426s7/RMSRS-2"><span class="bib_key">ibid.</span> <span class="bib_loc">84</span></a></dd>
+<dt><span class="lang">Scots</span></dt>
+<dd><span class="dim">●</span> <span class="date">1376</span> <span class="name">Ade</span> (<span class="case">unc</span>) <a href="../cite/Ade/1376/morton-vol1"><span class="bib_key">morton-vol1</span> <span class="bib_loc">16</span></a>;
+ <span class="date">c1550</span> <span class="name">Adamis</span> (<span class="case">gen</span>) <a href="../cite/Adamis/c1550/CartNBer"><span class="bib_key">CartNBer</span> <span class="bib_loc">p. xxv</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Adam</span> (<span class="case">dat</span>) <a href="../cite/Adam/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6023</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ukraine</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1469</span> <span class="name">Adam</span> (<span class="case">nom</span>) <a href="../cite/Adam/1469/AGZ-18"><span class="bib_key">AGZ-18</span> <span class="bib_loc">21</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1247</span> <span class="name">Adam</span> (<span class="case">abl</span>) <a href="../cite/Adam/1247/ArchCambIII"><span class="bib_key">ArchCambIII</span> <span class="bib_loc">p. 228</span></a>;
+ <span class="date">1452</span> <span class="name">Adda</span> (<span class="case">nom</span>) <a href="../cite/Adda/1452/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 72</span></a>;
+ <span class="date">1454</span> <span class="name">Adda</span> (<span class="case">nom</span>) <a href="../cite/Adda/1454/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 71</span></a>;
+ <span class="date">1455</span> <span class="name">Adda</span> (<span class="case">nom</span>) <a href="../cite/Adda/1455/ArchCambIII"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 258</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1578</span> <span class="name">Adam</span> <a href="../cite/Adam/1578/RegLlantrithyd"><span class="bib_key">RegLlantrithyd</span> <span class="bib_loc">p. 61</span></a>;
+ <span class="date">1582</span> <span class="name">Adam</span> <a href="../cite/Adam/1582/RegLlantrithyd"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 33</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, R. Le Get, N. Shiel, M. Slíz, J. Uckelman, S.L. Uckelman. "Adam". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Adam.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

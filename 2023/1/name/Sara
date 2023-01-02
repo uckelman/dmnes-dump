@@ -1,0 +1,260 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Sara</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Sara</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Hebrew</span> <i>שָׂרָה</i> 'princess'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of the Biblical wife of Abraham. Septuagint: <i>Σαρρα</i>; Vulgate (405): <i>Sara</i>; Wycliffite Bible (1395): <i>Sara</i>.</p>
+</div>
+  
+  
+<div class="def">
+  <p>Her original name was <i>Sarai</i> (in the Vulgate and the Wycliffite Bible; <i>Σαρα</i> in the Septuagint), and in some cases, it is hard to differentiate forms of <i>Sara</i> from forms of <i>Sarai</i>. The usual English spelling of the name was <i>Sara</i>; forms with the intrusive <i>h</i> were always less common.  The name was used by both Christians and Jews in the Middle Ages, but was rare outside of Britain and France.</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1185x1186</span> <span class="name">Sarra</span> (<span class="case">nom</span>) <a href="../cite/Sarra/1185x1186/PR-XXXVI"><span class="bib_key">PR-XXXVI</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1279–80</span> <span class="name">Sara</span> (<span class="case">nom</span>) <a href="../cite/Sara/1279–80/WaHR-SK"><span class="bib_key">WaHR-SK</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1340xc1450</span> <span class="name">Sara</span> (<span class="case">nom</span>) <a href="../cite/Sara/1340xc1450/CovGuild-1"><span class="bib_key">CovGuild-1</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Sarra</span> (<span class="case">nom</span>) <a href="../cite/Sarra/1340xc1450/CovGuild-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1377</span> <span class="name">Sarra</span> (<span class="case">nom</span>) <a href="../cite/Sarra/1377/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1379</span> <span class="name">Sara</span> (<span class="case">nom</span>) <a href="../cite/Sara/1379/WRYPT1"><span class="bib_key">WRYPT1</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1381</span> <span class="name">Sara</span> (<span class="case">abl</span>) <a href="../cite/Sara/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 99</span></a>,
+ <span class="name">Sarra</span> (<span class="case">nom</span>) <a href="../cite/Sarra/1381/FenPT-2"><span class="bib_key">FenPT-2</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Sarra/1381/Suffolk1381"><span class="bib_key">Suffolk1381</span> <span class="bib_loc">p. 73</span></a>;
+ <span class="date">1568</span> <span class="name">Sarah</span> (<span class="case">nom</span>) <a href="../cite/Sarah/1568/RegSoABap"><span class="bib_key">RegSoABap</span> <span class="bib_loc">p. 15</span></a></dd>
+<dt><span class="lang">Dutch</span></dt>
+<dd><span class="dim">●</span> <span class="date">1571</span> <span class="name">Sara</span> <a href="../cite/Sara/1571/AuFr"><span class="bib_key">AuFr</span> <span class="bib_loc">Godschalck</span></a>;
+ <span class="date">1572</span> <span class="name">Sara</span> <a href="../cite/Sara/1572/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Adriaenssen</span></a>;
+ <span class="date">1573</span> <span class="name">Sara</span> <a href="../cite/Sara/1573/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Daneels</span></a>;
+ <span class="date">1574</span> <span class="name">Sara</span> <a href="../cite/Sara/1574/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Carremans</span></a>;
+ <span class="date">1575</span> <span class="name">Sara</span> <a href="../cite/Sara/1575/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Crabbe</span></a>;
+ <span class="date">1576</span> <span class="name">Sara</span> <a href="../cite/Sara/1576/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beste</span></a>;
+ <span class="date">1577</span> <span class="name">Sara</span> <a href="../cite/Sara/1577/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bauwens</span></a>;
+ <span class="date">1578</span> <span class="name">Sara</span> <a href="../cite/Sara/1578/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Becks</span></a>;
+ <span class="date">1579</span> <span class="name">Sara</span> <a href="../cite/Sara/1579/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bogards</span></a>;
+ <span class="date">1580</span> <span class="name">Sara</span> <a href="../cite/Sara/1580/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beeckmans</span></a>;
+ <span class="date">1581</span> <span class="name">Sara</span> <a href="../cite/Sara/1581/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gaber</span></a>;
+ <span class="date">1582</span> <span class="name">Sara</span> <a href="../cite/Sara/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bone</span></a>,
+ <span class="name">Sarra</span> <a href="../cite/Sarra/1582/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Cleijnen</span></a>;
+ <span class="date">1583</span> <span class="name">Sara</span> <a href="../cite/Sara/1583/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Galmardts</span></a>;
+ <span class="date">1584</span> <span class="name">Sara</span> <a href="../cite/Sara/1584/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Franke</span></a>;
+ <span class="date">1585</span> <span class="name">Sara</span> <a href="../cite/Sara/1585/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clerck</span></a>;
+ <span class="date">1586</span> <span class="name">Sara</span> <a href="../cite/Sara/1586/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Aelbertinck</span></a>;
+ <span class="date">1587</span> <span class="name">Sara</span> <a href="../cite/Sara/1587/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Achtschellinc</span></a>;
+ <span class="date">1588</span> <span class="name">Sara</span> <a href="../cite/Sara/1588/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Beijdaels</span></a>;
+ <span class="date">1589</span> <span class="name">Sara</span> <a href="../cite/Sara/1589/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gheerarts</span></a>;
+ <span class="date">1590</span> <span class="name">Sara</span> <a href="../cite/Sara/1590/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Anthonissz</span></a>;
+ <span class="date">1591</span> <span class="name">Sara</span> <a href="../cite/Sara/1591/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bossche</span></a>;
+ <span class="date">1592</span> <span class="name">Sara</span> <a href="../cite/Sara/1592/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Adams</span></a>;
+ <span class="date">1593</span> <span class="name">Sara</span> <a href="../cite/Sara/1593/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bracht</span></a>;
+ <span class="date">1594</span> <span class="name">Sara</span> <a href="../cite/Sara/1594/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Anyeke</span></a>;
+ <span class="date">1595</span> <span class="name">Sara</span> <a href="../cite/Sara/1595/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Gelarts</span></a>;
+ <span class="date">1596</span> <span class="name">Sara</span> <a href="../cite/Sara/1596/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Clouwens</span></a>;
+ <span class="date">1597</span> <span class="name">Sara</span> <a href="../cite/Sara/1597/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Bertholomeus</span></a>;
+ <span class="date">1598</span> <span class="name">Sara</span> <a href="../cite/Sara/1598/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Aertsz</span></a>;
+ <span class="date">1599</span> <span class="name">Sara</span> <a href="../cite/Sara/1599/AuFr"><span class="bib_key">ibid.</span> <span class="bib_loc">Coudron</span></a></dd>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1549</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1549/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1551</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1551/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1552</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1552/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1554</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1554/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>,
+ <span class="name">Sarrah</span> <a href="../cite/Sarrah/1554/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 10</span></a>;
+ <span class="date">1561</span> <span class="name">Sara</span> <a href="../cite/Sara/1561/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 11</span></a>;
+ <span class="date">1563</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1563/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 15</span></a>,
+ <span class="name">Saray</span> <a href="../cite/Saray/1563/BarnstapleBap"><span class="bib_key">BarnstapleBap</span> <span class="bib_loc">p. 12</span></a>;
+ <span class="date">1571</span> <span class="name">Sara</span> <a href="../cite/Sara/1571/OrpingtonKe"><span class="bib_key">OrpingtonKe</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1572</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1572/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 6</span></a>,
+ <a href="../cite/Sarah/1572/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1573</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1573/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1574</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1574/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 23</span></a>;
+ <span class="date">1575</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1575/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 24</span></a>;
+ <span class="date">1577</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1577/StAnthonlin"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1578/9</span> <span class="name">Sara</span> <a href="../cite/Sara/1578s9/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1578</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1578/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1579</span> <span class="name">Sara</span> <a href="../cite/Sara/1579/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1580</span> <span class="name">Sara</span> <a href="../cite/Sara/1580/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1583/4</span> <span class="name">Sara</span> <a href="../cite/Sara/1583s4/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1583</span> <span class="name">Sara</span> <a href="../cite/Sara/1583/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 5</span></a>,
+ <span class="name">Sarah</span> <a href="../cite/Sarah/1583/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1584</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1584/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1585</span> <span class="name">Sarai</span> <a href="../cite/Sarai/1585/RegPat"><span class="bib_key">RegPat</span> <span class="bib_loc">p. 36</span></a>;
+ <span class="date">1586</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1586/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>,
+ <span class="name">Sarie</span> <a href="../cite/Sarie/1586/SaxhamSf"><span class="bib_key">SaxhamSf</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1587</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1587/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 13</span></a>,
+ <a href="../cite/Sarah/1587/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1588/9</span> <span class="name">Sara</span> <a href="../cite/Sara/1588s9/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1588</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1588/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 33</span></a>,
+ <a href="../cite/Sarah/1588/WAmar-1"><span class="bib_key">WAmar-1</span> <span class="bib_loc">p. 98</span></a>;
+ <span class="date">1589</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1589/RegSoAMar"><span class="bib_key">RegSoAMar</span> <span class="bib_loc">p. 14</span></a>;
+ <span class="date">1590</span> <span class="name">Sara</span> <a href="../cite/Sara/1590/HAmar-vol9"><span class="bib_key">HAmar-vol9</span> <span class="bib_loc">p. 116</span></a>,
+ <a href="../cite/Sara/1590/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Sarah</span> <a href="../cite/Sarah/1590/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 34</span></a>;
+ <span class="date">1591</span> <span class="name">Sara</span> <a href="../cite/Sara/1591/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1591/2</span> <span class="name">Sara</span> <a href="../cite/Sara/1591s2/RegBath"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 9</span></a>;
+ <span class="date">1593</span> <span class="name">Sara</span> <a href="../cite/Sara/1593/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 16</span></a>,
+ <a href="../cite/Sara/1593/RegBath"><span class="bib_key">RegBath</span> <span class="bib_loc">p. 10</span></a>,
+ <a href="../cite/Sara/1593/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 2</span></a>;
+ <span class="date">1594</span> <span class="name">Sara</span> <a href="../cite/Sara/1594/BUmar-vol9"><span class="bib_key">BUmar-vol9</span> <span class="bib_loc">p. 8</span></a>;
+ <span class="date">1595/6</span> <span class="name">Sara</span> <a href="../cite/Sara/1595s6/RegFord"><span class="bib_key">RegFord</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1595</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1595/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 31</span></a>;
+ <span class="date">1596</span> <span class="name">Sara</span> <a href="../cite/Sara/1596/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 16</span></a>,
+ <span class="name">Sarah</span> <a href="../cite/Sarah/1596/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 38</span></a>;
+ <span class="date">1597/8</span> <span class="name">Sara</span> <a href="../cite/Sara/1597s8/BEmar-vol1"><span class="bib_key">BEmar-vol1</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1597</span> <span class="name">Sara</span> <a href="../cite/Sara/1597/bruton1"><span class="bib_key">bruton1</span> <span class="bib_loc">p. 55</span></a>;
+ <span class="date">1598</span> <span class="name">Sarah</span> <a href="../cite/Sarah/1598/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1599</span> <span class="name">Sara</span> <a href="../cite/Sara/1599/RegGorton"><span class="bib_key">RegGorton</span> <span class="bib_loc">p. 1</span></a>,
+ <span class="name">Sarae</span> <a href="../cite/Sarae/1599/StAnthonlin"><span class="bib_key">StAnthonlin</span> <span class="bib_loc">p. 40</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1567</span> <span class="name">Sarra</span> <a href="../cite/Sarra/1567/WCS"><span class="bib_key">WCS</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1568</span> <span class="name">Sara</span> <a href="../cite/Sara/1568/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 39</span></a>;
+ <span class="date">1570</span> <span class="name">Sara</span> <a href="../cite/Sara/1570/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 40</span></a>;
+ <span class="date">1571</span> <span class="name">Sara</span> <a href="../cite/Sara/1571/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1574</span> <span class="name">Sara</span> <a href="../cite/Sara/1574/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1575</span> <span class="name">Sara</span> <a href="../cite/Sara/1575/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 42</span></a>;
+ <span class="date">1577</span> <span class="name">Sara</span> <a href="../cite/Sara/1577/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1578</span> <span class="name">Sara</span> <a href="../cite/Sara/1578/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 43</span></a>;
+ <span class="date">1579</span> <span class="name">Sarra</span> <a href="../cite/Sarra/1579/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1581</span> <span class="name">Sara</span> <a href="../cite/Sara/1581/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 16</span></a>;
+ <span class="date">1582</span> <span class="name">Sara</span> <a href="../cite/Sara/1582/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 88</span></a>;
+ <span class="date">1583</span> <span class="name">Sara</span> <a href="../cite/Sara/1583/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1584</span> <span class="name">sara</span> <a href="../cite/sara/1584/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 18</span></a>;
+ <span class="date">1585</span> <span class="name">Sara</span> <a href="../cite/Sara/1585/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 19</span></a>;
+ <span class="date">1586</span> <span class="name">Sara</span> <a href="../cite/Sara/1586/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 47</span></a>;
+ <span class="date">1587</span> <span class="name">Sara</span> <a href="../cite/Sara/1587/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 89</span></a>;
+ <span class="date">1588</span> <span class="name">Sara</span> <a href="../cite/Sara/1588/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 21</span></a>;
+ <span class="date">1589</span> <span class="name">Sara</span> <a href="../cite/Sara/1589/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1590</span> <span class="name">Sara</span> <a href="../cite/Sara/1590/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 49</span></a>;
+ <span class="date">1591</span> <span class="name">Sara</span> <a href="../cite/Sara/1591/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 90</span></a>;
+ <span class="date">1593</span> <span class="name">Sara</span> <a href="../cite/Sara/1593/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1595</span> <span class="name">Sara</span> <a href="../cite/Sara/1595/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 51</span></a>;
+ <span class="date">1596</span> <span class="name">Sara</span> <a href="../cite/Sara/1596/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1597</span> <span class="name">Sara</span> <a href="../cite/Sara/1597/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 52</span></a>;
+ <span class="date">1598</span> <span class="name">Sara</span> <a href="../cite/Sara/1598/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 27</span></a>;
+ <span class="date">1599</span> <span class="name">Sara</span> <a href="../cite/Sara/1599/WCS"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 106</span></a></dd>
+<dt><span class="lang">Walloon</span></dt>
+<dd><span class="dim">●</span> <span class="date">1581</span> <span class="name">Sara</span> <a href="../cite/Sara/1581/RWC"><span class="bib_key">RWC</span> <span class="bib_loc">p. 3</span></a>;
+ <span class="date">1582</span> <span class="name">Sara</span> <a href="../cite/Sara/1582/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 4</span></a>;
+ <span class="date">1583</span> <span class="name">Sara</span> <a href="../cite/Sara/1583/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 6</span></a>;
+ <span class="date">1583/4</span> <span class="name">Sara</span> <a href="../cite/Sara/1583s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1590</span> <span class="name">Sara</span> <a href="../cite/Sara/1590/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 13</span></a>;
+ <span class="date">1591</span> <span class="name">Sara</span> <a href="../cite/Sara/1591/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 17</span></a>;
+ <span class="date">1591/2</span> <span class="name">Sara</span> <a href="../cite/Sara/1591s2/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>;
+ <span class="date">1592</span> <span class="name">Sara</span> <a href="../cite/Sara/1592/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 22</span></a>;
+ <span class="date">1592/3</span> <span class="name">Sara</span> <a href="../cite/Sara/1592s3/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 25</span></a>;
+ <span class="date">1593</span> <span class="name">Sara</span> <a href="../cite/Sara/1593/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 26</span></a>;
+ <span class="date">1593/4</span> <span class="name">Sara</span> <a href="../cite/Sara/1593s4/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 30</span></a>;
+ <span class="date">1594</span> <span class="name">Sara</span> <a href="../cite/Sara/1594/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 32</span></a>;
+ <span class="date">1594/5</span> <span class="name">Sara</span> <a href="../cite/Sara/1594s5/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1595</span> <span class="name">Sara</span> <a href="../cite/Sara/1595/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1596</span> <span class="name">Sara</span> <a href="../cite/Sara/1596/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 41</span></a>;
+ <span class="date">1596/7</span> <span class="name">Sara</span> <a href="../cite/Sara/1596s7/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 44</span></a>;
+ <span class="date">1597</span> <span class="name">Sara</span> <a href="../cite/Sara/1597/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 46</span></a>;
+ <span class="date">1598</span> <span class="name">Sara</span> <a href="../cite/Sara/1598/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1598/9</span> <span class="name">Sara</span> <a href="../cite/Sara/1598s9/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 50</span></a>;
+ <span class="date">1599</span> <span class="name">Sara</span> <a href="../cite/Sara/1599/RWC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1147</span> <span class="name">Serra</span> (<span class="case">nom</span>) <a href="../cite/Serra/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">14</span></a>;
+ <span class="date">1179</span> <span class="name">Sara</span> (<span class="case">abl</span>) <a href="../cite/Sara/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1301</span> <span class="name">Sarra</span> (<span class="case">nom</span>) <a href="../cite/Sarra/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 202</span></a>,
+ <span class="name">Sarre</span> (<span class="case">gen</span>) <a href="../cite/Sarre/1301/MemPic-vol17"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 202</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1562</span> <span class="name">Sarra</span> <a href="../cite/Sarra/1562/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 7</span></a>;
+ <span class="date">1563</span> <span class="name">Sara</span> <a href="../cite/Sara/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 20</span></a>,
+ <span class="name">Sarra</span> <a href="../cite/Sarra/1563/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 37</span></a>;
+ <span class="date">1564</span> <span class="name">Sara</span> <a href="../cite/Sara/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 72</span></a>,
+ <span class="name">Sarra</span> <a href="../cite/Sarra/1564/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 48</span></a>;
+ <span class="date">1565</span> <span class="name">Sarra</span> <a href="../cite/Sarra/1565/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 162</span></a>;
+ <span class="date">1566</span> <span class="name">Sarra</span> <a href="../cite/Sarra/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 204</span></a>;
+ <span class="date">1568</span> <span class="name">Sarra</span> <a href="../cite/Sarra/1568/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 393</span></a>;
+ <span class="date">1570</span> <span class="name">Sarra</span> <a href="../cite/Sarra/1570/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 425</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Wales</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1594</span> <span class="name">Sara</span> <a href="../cite/Sara/1594/RegLlantrithyd"><span class="bib_key">RegLlantrithyd</span> <span class="bib_loc">p. 62</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, J. Uckelman, S.L. Uckelman. "Sara". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Sara.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

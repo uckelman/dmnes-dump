@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Flora</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Flora</span>
+  <span class="gen">f.</span>
+  
+  <span class="etym"><span class="lang">Latin</span> <i>Flora</i>, the name of the goddess of flowers, derived from <span class="lang">Latin</span> <i>flos</i> 'flower'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern English</span></dt>
+<dd><span class="dim">●</span> <span class="date">1590</span> <span class="name">Flower</span> <a href="../cite/Flower/1590/DEmar-vol2"><span class="bib_key">DEmar-vol2</span> <span class="bib_loc">p. 22</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1274</span> <span class="name">Flors</span> (<span class="case">abl</span>) <a href="../cite/Flors/1274/RegToul-13thC"><span class="bib_key">RegToul-13thC</span> <span class="bib_loc">p. 60</span></a>;
+ <span class="date">1301</span> <span class="name">Flourie</span> (<span class="case">gen</span>) <a href="../cite/Flourie/1301/MemPic-vol17"><span class="bib_key">MemPic-vol17</span> <span class="bib_loc">p. 257</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1164</span> <span class="name">Florieta</span> (<span class="case">nom</span>) <a href="../cite/Florieta/1164/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">124</span></a></dd>
+<dt><span class="lang">Old French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1313</span> <span class="name">Fleurie</span> <a href="../cite/Fleurie/1313/Paris1313"><span class="bib_key">Paris1313</span> <span class="bib_loc">p. 81</span></a></dd>
+<dt><span class="lang">Middle French</span></dt>
+<dd><span class="dim">●</span> <span class="date">1564</span> <span class="name">Fleurye</span> <a href="../cite/Fleurye/1564/RegPCC-1"><span class="bib_key">RegPCC-1</span> <span class="bib_loc">p. 105</span></a>;
+ <span class="date">1566</span> <span class="name">Fleurye</span> <a href="../cite/Fleurye/1566/RegPCC-1"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 214</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1265x1339</span> <span class="name">Flora</span> (<span class="case">nom</span>) <a href="../cite/Flora/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">44</span></a>,
+ <span class="name">Flos</span> (<span class="case">nom</span>) <a href="../cite/Flos/1265x1339/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">617</span></a>,
+ <span class="name">Flura</span> (<span class="case">nom</span>) <a href="../cite/Flura/1265x1339/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">1473</span></a>;
+ <span class="date">1366</span> <span class="name">Fiorem</span> (<span class="case">acc</span>) <a href="../cite/Fiorem/1366/Livi"><span class="bib_key">Livi</span> <span class="bib_loc">63</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Fiora</span> (<span class="case">nom</span>) <a href="../cite/Fiora/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 56, 13</span></a>,
+ <span class="name">Fiore</span> (<span class="case">nom</span>) <a href="../cite/Fiore/1522x1532/DSF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 54, 60</span></a>,
+ <span class="name">Flora</span> (<span class="case">nom</span>) <a href="../cite/Flora/1522x1532/DSF"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 56, 3</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1265x1339</span> <span class="name">Florina</span> (<span class="case">nom</span>) <a href="../cite/Florina/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">513</span></a>,
+ <span class="name">Flurina</span> (<span class="case">nom</span>) <a href="../cite/Flurina/1265x1339/BBC-Berg"><span class="bib_key">ibid.</span> <span class="bib_loc">207</span></a>;
+ <span class="date">1522x1532</span> <span class="name">Florita</span> (<span class="case">nom</span>) <a href="../cite/Florita/1522x1532/DSF"><span class="bib_key">DSF</span> <span class="bib_loc">p. 58, 38</span></a></dd>
+<dt><span class="lang">Italian</span></dt>
+<dd><span class="dim">●</span> <span class="date">1513x1521</span> <span class="name">Fiore</span> <a href="../cite/Fiore/1513x1521/LeoX"><span class="bib_key">LeoX</span> <span class="bib_loc">p. 26</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, S.L. Uckelman. "Flora". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Flora.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

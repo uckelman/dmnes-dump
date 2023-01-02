@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Boso</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Boso</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym">A hypocoristic of any of various names beginning with <span class="lang">Old High German</span> <i>bosi</i> 'evil'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a 9th C king of Lower Burgundy and Provence.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">658</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/658/DCEL-2"><span class="bib_key">DCEL-2</span> <span class="bib_loc">CCCXXXIII</span></a>;
+ <span class="date">711</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/711/CartYonne1"><span class="bib_key">CartYonne1</span> <span class="bib_loc">IX</span></a>;
+ <span class="date">c823</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/c823/irminon-vol2"><span class="bib_key">irminon-vol2</span> <span class="bib_loc">50, CE</span></a>;
+ <span class="date">937x993</span> <span class="name">Bosoni</span> (<span class="case">gen</span>) <a href="../cite/Bosoni/937x993/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 80</span></a>;
+ <span class="date">941x986</span> <span class="name">Bosoni</span> (<span class="case">abl</span>) <a href="../cite/Bosoni/941x986/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 92</span></a>;
+ <span class="date">952x997</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/952x997/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 79</span></a>;
+ <span class="date">978?</span> <span class="name">Bosonis</span> (<span class="case">gen</span>) <a href="../cite/Bosonis/978?/St-Barnard-Romans"><span class="bib_key">ibid.</span> <span class="bib_loc">141</span></a>;
+ <span class="date">c1035</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/c1035/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">718</span></a>;
+ <span class="date">c1040</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/c1040/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">723</span></a>;
+ <span class="date">1060x1064</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1060x1064/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">709</span></a>;
+ <span class="date">1065x1079</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1065x1079/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">663</span></a>;
+ <span class="date">1070</span> <span class="name">Boso</span> (<span class="case">abl</span>) <a href="../cite/Boso/1070/StVdM-II"><span class="bib_key">ibid.</span> <span class="bib_loc">740</span></a>;
+ <span class="date">1079x1081</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1079x1081/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXI</span></a>,
+ <span class="name">Bosone</span> (<span class="case">abl</span>) <a href="../cite/Bosone/1079x1081/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">1082x1087</span> <span class="name">Bosoni</span> (<span class="case">gen</span>) <a href="../cite/Bosoni/1082x1087/St-Barnard-Romans"><span class="bib_key">St-Barnard-Romans</span> <span class="bib_loc">no. 120</span></a>;
+ <span class="date">1131</span> <span class="name">Bosone</span> (<span class="case">abl</span>) <a href="../cite/Bosone/1131/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XXII</span></a>,
+ <span class="name">Bosoni</span> (<span class="case">gen</span>) <a href="../cite/Bosoni/1131/CartNDSaintes"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII</span></a>;
+ <span class="date">1135</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1135/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">7</span></a>;
+ <span class="date">1143x1146</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1143x1146/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">12</span></a>;
+ <span class="date">1147</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1147/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">19</span></a>;
+ <span class="date">1147x1162</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1147x1162/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">50</span></a>;
+ <span class="date">1157</span> <span class="name">Bosone</span> (<span class="case">abl</span>) <a href="../cite/Bosone/1157/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">32</span></a>;
+ <span class="date">1163</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">94</span></a>,
+ <span class="name">Bosonis</span> (<span class="case">gen</span>) <a href="../cite/Bosonis/1163/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">99</span></a>;
+ <span class="date">1165</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1165/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">126</span></a>;
+ <span class="date">1167</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1167/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">X</span></a>;
+ <span class="date">1174</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1174/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">159</span></a>,
+ <span class="name">Bosonem</span> (<span class="case">acc</span>) <a href="../cite/Bosonem/1174/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">159</span></a>,
+ <span class="name">Bosonis</span> (<span class="case">gen</span>) <a href="../cite/Bosonis/1174/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">159</span></a>;
+ <span class="date">1179</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">177</span></a>,
+ <span class="name">Bosone</span> (<span class="case">abl</span>) <a href="../cite/Bosone/1179/clairvaux-12thc"><span class="bib_key">ibid.</span> <span class="bib_loc">176</span></a>;
+ <span class="date">1180</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1180/RotScaNor"><span class="bib_key">RotScaNor</span> <span class="bib_loc">p. 35</span></a>;
+ <span class="date">1378</span> <span class="name">Bosoni</span> (<span class="case">dat</span>) <a href="../cite/Bosoni/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">no. 10</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1032x1064</span> <span class="name">Boselinus</span> (<span class="case">nom</span>) <a href="../cite/Boselinus/1032x1064/LDS"><span class="bib_key">LDS</span> <span class="bib_loc">LV</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">822x875</span> <span class="name">Bozo</span> (<span class="case">nom</span>) <a href="../cite/Bozo/822x875/TradCorb"><span class="bib_key">TradCorb</span> <span class="bib_loc">§108</span></a>;
+ <span class="date">963x1023</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/963x1023/TradCorb"><span class="bib_key">ibid.</span> <span class="bib_loc">§226</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1113</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1113/CartNDJosaphat"><span class="bib_key">CartNDJosaphat</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1169</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1169/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">135</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1265x1339</span> <span class="name">Boselli</span> (<span class="case">gen</span>) <a href="../cite/Boselli/1265x1339/BBC-Berg"><span class="bib_key">BBC-Berg</span> <span class="bib_loc">664</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">834</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/834/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 30</span></a>;
+ <span class="date">855</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/855/OrkGZ"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 45</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Switzerland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1137</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1137/CartHaut"><span class="bib_key">CartHaut</span> <span class="bib_loc">2</span></a>;
+ <span class="date">1235</span> <span class="name">Boso</span> (<span class="case">nom</span>) <a href="../cite/Boso/1235/CLC"><span class="bib_key">CLC</span> <span class="bib_loc">p. 46</span></a>,
+ <span class="name">Bosonem</span> (<span class="case">acc</span>) <a href="../cite/Bosonem/1235/CLC"><span class="bib_key">ibid.</span> <span class="bib_loc">p. 45</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>A. Brown, S.L. Uckelman. "Boso". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Boso.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

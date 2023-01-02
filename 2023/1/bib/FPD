@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>FPD</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>FPD</dt>
+  <dd><em>Feodarium Prioratus Dunelmensis: A Survey of the Estates of the Prior and Convent of Durham compiled in the Fifteenth century</em>, volume 58 of <em> Publications of the Surtees Society</em>. Durham: Andrews &amp; Col; London: Whittaker &amp; Co., Bernard Quaritch; Edinburgh: Blackwood &amp; Sons, 1872.</dd>
+</dl>
+
+
+  <a href="../cite/Absalon/1155/FPD">Absalon</a>
+
+  <a href="../cite/Absalonem/1155/FPD">Absalonem</a>
+
+  <a href="../cite/Acharias/1155/FPD">Acharias</a>
+
+  <a href="../cite/Adam/1155/FPD">Adam</a>
+
+  <a href="../cite/Adæ/1155/FPD">Adæ</a>
+
+  <a href="../cite/Ailmarus/1155/FPD">Ailmarus</a>
+
+  <a href="../cite/Alanus/1155/FPD">Alanus</a>
+
+  <a href="../cite/Albanus/1155/FPD">Albanus</a>
+
+  <a href="../cite/Alexander/1155/FPD">Alexander</a>
+
+  <a href="../cite/Baldewnus/1155/FPD">Baldewnus</a>
+
+  <a href="../cite/Clemens/1155/FPD">Clemens</a>
+
+  <a href="../cite/Eilric/1155/FPD">Eilric</a>
+
+  <a href="../cite/Eilwinus/1155/FPD">Eilwinus</a>
+
+  <a href="../cite/Elwoldus/1155/FPD">Elwoldus</a>
+
+  <a href="../cite/Emmæ/1155/FPD">Emmæ</a>
+
+  <a href="../cite/Fulco/1155/FPD">Fulco</a>
+
+  <a href="../cite/Gaufridus/1155/FPD">Gaufridus</a>
+
+  <a href="../cite/Gilbertus/1155/FPD">Gilbertus</a>
+
+  <a href="../cite/Godefridus/1155/FPD">Godefridus</a>
+
+  <a href="../cite/Helia/1155/FPD">Helia</a>
+
+  <a href="../cite/Heliam/1155/FPD">Heliam</a>
+
+  <a href="../cite/Helias/1155/FPD">Helias</a>
+
+  <a href="../cite/Heliæ/1155/FPD">Heliæ</a>
+
+  <a href="../cite/Henricus/1155/FPD">Henricus</a>
+
+  <a href="../cite/Hereberti/1155/FPD">Hereberti</a>
+
+  <a href="../cite/Hugo/1155/FPD">Hugo</a>
+
+  <a href="../cite/Johannes/1155/FPD">Johannes</a>
+
+  <a href="../cite/Jordan/1155/FPD">Jordan</a>
+
+  <a href="../cite/Laurentius/1155/FPD">Laurentius</a>
+
+  <a href="../cite/Radulfi/1155/FPD">Radulfi</a>
+
+  <a href="../cite/Radulfus/1155/FPD">Radulfus</a>
+
+  <a href="../cite/Raven/1155/FPD">Raven</a>
+
+  <a href="../cite/Reginaldus/1155/FPD">Reginaldus</a>
+
+  <a href="../cite/Reinald/1155/FPD">Reinald</a>
+
+  <a href="../cite/Reinaldus/1155/FPD">Reinaldus</a>
+
+  <a href="../cite/Ricard/1155/FPD">Ricard</a>
+
+  <a href="../cite/Ricardus/1155/FPD">Ricardus</a>
+
+  <a href="../cite/Rodbertus/1155/FPD">Rodbertus</a>
+
+  <a href="../cite/Rogerus/1155/FPD">Rogerus</a>
+
+  <a href="../cite/Sanson/1155/FPD">Sanson</a>
+
+  <a href="../cite/Teodbaldus/1155/FPD">Teodbaldus</a>
+
+  <a href="../cite/Theodorici/1155/FPD">Theodorici</a>
+
+  <a href="../cite/Walerand/1155/FPD">Walerand</a>
+
+  <a href="../cite/Walteri/1155/FPD">Walteri</a>
+
+  <a href="../cite/Walterius/1155/FPD">Walterius</a>
+
+  <a href="../cite/Warin/1155/FPD">Warin</a>
+
+  <a href="../cite/Willelmus/1155/FPD">Willelmus</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

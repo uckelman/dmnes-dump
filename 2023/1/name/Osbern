@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Osbern</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Osbern</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>ōs</i>, <span class="lang">Old Norse</span> <i>áss, óss</i> 'god' + <span class="lang">Old English</span> <i>bera</i>, *<i>beorn</i>, <span class="lang">Old Norse</span> <i>bjǫrn</i> 'bear'.
+</span>
+  
+</p>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Denmark</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Middle Danish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1496</span> <span class="name">Esbern</span> <a href="../cite/Esbern/1496/KD-1"><span class="bib_key">KD-1</span> <span class="bib_loc">no. 185</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Finland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Early Modern Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1548</span> <span class="name">Esbijor</span> (<span class="case">nom</span>) <a href="../cite/Esbijor/1548/Audén1980"><span class="bib_key">Audén1980</span> <span class="bib_loc">p. 168</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Abiorna</span> (<span class="case">gen</span>) <a href="../cite/Abiorna/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6036</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Osbern</span> (<span class="case">nom</span>) <a href="../cite/Osbern/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 11</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">c1100</span> <span class="name">Osberno</span> (<span class="case">abl</span>) <a href="../cite/Osberno/c1100/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">c1118</span> <span class="name">Osberni</span> (<span class="case">gen</span>) <a href="../cite/Osberni/c1118/ESC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXXII</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Aberni</span> (<span class="case">gen</span>) <a href="../cite/Aberni/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6023</span></a>,
+ <span class="name">Abyorna</span> (<span class="case">gen</span>) <a href="../cite/Abyorna/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6010</span></a>,
+ <span class="name">Abyornæ</span> (<span class="case">gen</span>) <a href="../cite/Abyornæ/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6015</span></a>,
+ <span class="name">Esbernus</span> (<span class="case">nom</span>) <a href="../cite/Esbernus/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6051</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1377</span> <span class="name">Abyornæ</span> (<span class="case">gen</span>) <a href="../cite/Abyornæ/1377/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 11025</span></a>;
+ <span class="date">1383</span> <span class="name">Æsbiörn</span> <a href="../cite/Æsbiörn/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1911</span></a>;
+ <span class="date">1401</span> <span class="name">Esbiorn</span> (<span class="case">nom</span>) <a href="../cite/Esbiorn/1401/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 15698</span></a>;
+ <span class="date">1404</span> <span class="name">Æsbiorn</span> (<span class="case">nom</span>) <a href="../cite/Æsbiorn/1404/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16266</span></a>;
+ <span class="date">1409</span> <span class="name">Abiørnas</span> (<span class="case">gen</span>) <a href="../cite/Abiørnas/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17269</span></a>;
+ <span class="date">1410</span> <span class="name">Esbiorns</span> (<span class="case">gen</span>) <a href="../cite/Esbiorns/1410/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17485</span></a>;
+ <span class="date">1411</span> <span class="name">Esbiorns</span> (<span class="case">gen</span>) <a href="../cite/Esbiorns/1411/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17737</span></a>;
+ <span class="date">1414</span> <span class="name">Esbiørn</span> (<span class="case">nom</span>) <a href="../cite/Esbiørn/1414/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 18236</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>R. Le Get, S.L. Uckelman. "Osbern". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Osbern.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

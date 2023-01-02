@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Harold</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Harold</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Old English</span> <i>here</i>, <span class="lang">Old High German</span> <i>heri</i> 'host, army' + <span class="lang">Old English</span> <i>weald</i>, <span class="lang">Old Saxon</span> <i>wald</i>, <span class="lang">Old High German</span> <i>walt</i> 'power'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of a legendary 8th-9th C Scandinavian king, a 9th C king of Denmark, a 9th-10th C king of Norway, a 10th C king of Denmark, a 10th C king of Norway, two 11th C kings of Denmark, two 11th C kings of England, an 11th C king of Norway, a 12th C king of Norway, a 12th C English saint, and a 13th C king of Mann.</p>
+</div>
+  
+  
+<div class="def">
+  <p>The German vernacular form <i>Arold</i> is witnessed in 1391 in the place name <i>Aroldishusen</i> (<span class="bibl"><span class="key">LDFPUP1</span> <span class="loc">p. 16</span></span>).</p>
+  
+  
+
+
+<dl>
+<dt><span class="area">Austria</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">927</span> <span class="name">Herolt</span> (<span class="case">nom</span>) <a href="../cite/Herolt/927/UrkStyria"><span class="bib_key">UrkStyria</span> <span class="bib_loc">17</span></a>;
+ <span class="date">928</span> <span class="name">Herolt</span> (<span class="case">nom</span>) <a href="../cite/Herolt/928/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">18</span></a>;
+ <span class="date">931</span> <span class="name">Herolt</span> (<span class="case">nom</span>) <a href="../cite/Herolt/931/UrkStyria"><span class="bib_key">ibid.</span> <span class="bib_loc">20</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Belgium</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1120</span> <span class="name">Haroldi</span> (<span class="case">gen</span>) <a href="../cite/Haroldi/1120/CartStBert"><span class="bib_key">CartStBert</span> <span class="bib_loc">9</span></a>;
+ <span class="date">1133</span> <span class="name">Haroldi</span> (<span class="case">gen</span>) <a href="../cite/Haroldi/1133/CartStBert"><span class="bib_key">ibid.</span> <span class="bib_loc">13</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1291</span> <span class="name">Heralt</span> (<span class="case">nom</span>) <a href="../cite/Heralt/1291/RTT-1.1"><span class="bib_key">RTT-1.1</span> <span class="bib_loc">III</span></a></dd>
+<dt><span class="lang">Middle High German</span></dt>
+<dd><span class="dim">●</span> <span class="date">1318</span> <span class="name">Herolt</span> (<span class="case">nom</span>) <a href="../cite/Herolt/1318/Rössler1"><span class="bib_key">Rössler1</span> <span class="bib_loc">45</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">England</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1189</span> <span class="name">Haroldus</span> (<span class="case">nom</span>) <a href="../cite/Haroldus/1189/GASurv"><span class="bib_key">GASurv</span> <span class="bib_loc">p. 182</span></a>;
+ <span class="date">1554</span> <span class="name">Haroldus</span> (<span class="case">nom</span>) <a href="../cite/Haroldus/1554/StMartF"><span class="bib_key">StMartF</span> <span class="bib_loc">p. 58</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">France</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1030</span> <span class="name">Airaldo</span> (<span class="case">abl</span>) <a href="../cite/Airaldo/1030/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">712</span></a>;
+ <span class="date">1032x1100</span> <span class="name">Arraldus</span> (<span class="case">nom</span>) <a href="../cite/Arraldus/1032x1100/LDS"><span class="bib_key">LDS</span> <span class="bib_loc">LXV</span></a>;
+ <span class="date">1064x1079</span> <span class="name">Airaldus</span> (<span class="case">nom</span>) <a href="../cite/Airaldus/1064x1079/StVdM-II"><span class="bib_key">StVdM-II</span> <span class="bib_loc">690</span></a>;
+ <span class="date">1067x1086</span> <span class="name">Airaldus</span> (<span class="case">nom</span>) <a href="../cite/Airaldus/1067x1086/CartNDSaintes"><span class="bib_key">CartNDSaintes</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1090x1101</span> <span class="name">Arroldus</span> (<span class="case">nom</span>) <a href="../cite/Arroldus/1090x1101/CartStPC"><span class="bib_key">CartStPC</span> <span class="bib_loc">XLIII</span></a>;
+ <span class="date">1107</span> <span class="name">Arroldus</span> (<span class="case">nom</span>) <a href="../cite/Arroldus/1107/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">a1108</span> <span class="name">Arroldus</span> (<span class="case">nom</span>) <a href="../cite/Arroldus/a1108/CartStPC"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">1147</span> <span class="name">Airoudi</span> (<span class="case">gen</span>) <a href="../cite/Airoudi/1147/clairvaux-12thc"><span class="bib_key">clairvaux-12thc</span> <span class="bib_loc">18</span></a>;
+ <span class="date">1350</span> <span class="name">Haraldi</span> (<span class="case">gen</span>) <a href="../cite/Haraldi/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6017</span></a>,
+ <span class="name">Haraldus</span> (<span class="case">nom</span>) <a href="../cite/Haraldus/1350/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 6017</span></a>;
+ <span class="date">1378</span> <span class="name">Heraudi</span> (<span class="case">gen</span>) <a href="../cite/Heraudi/1378/hanquetvol1"><span class="bib_key">hanquetvol1</span> <span class="bib_loc">569</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1218</span> <span class="name">Heroldus</span> (<span class="case">nom</span>) <a href="../cite/Heroldus/1218/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">30</span></a>;
+ <span class="date">1219</span> <span class="name">Heroldus</span> (<span class="case">nom</span>) <a href="../cite/Heroldus/1219/hennes-vol1"><span class="bib_key">ibid.</span> <span class="bib_loc">40</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Ireland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">fin12thC</span> <span class="name">Aroldus</span> (<span class="case">nom</span>) <a href="../cite/Aroldus/fin12thC/MunDocIr"><span class="bib_key">MunDocIr</span> <span class="bib_loc">III, p. 24</span></a>,
+ <span class="name">Haraldi</span> (<span class="case">gen</span>) <a href="../cite/Haraldi/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 18</span></a>,
+ <span class="name">Haraldus</span> (<span class="case">nom</span>) <a href="../cite/Haraldus/fin12thC/MunDocIr"><span class="bib_key">ibid.</span> <span class="bib_loc">III, p. 15</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">The Netherlands</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">850</span> <span class="name">Herioldi</span> (<span class="case">gen</span>) <a href="../cite/Herioldi/850/OrkGZ"><span class="bib_key">OrkGZ</span> <span class="bib_loc">no. 40</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Scotland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1070x1093</span> <span class="name">Araldo</span> (<span class="case">abl</span>) <a href="../cite/Araldo/1070x1093/ESC"><span class="bib_key">ESC</span> <span class="bib_loc">X</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Sweden</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1350</span> <span class="name">Haraldo</span> (<span class="case">dat</span>) <a href="../cite/Haraldo/1350/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 6001</span></a></dd>
+<dt><span class="lang">Old Swedish</span></dt>
+<dd><span class="dim">●</span> <span class="date">1383</span> <span class="name">Haral</span> <a href="../cite/Haral/1383/SRA-vol2"><span class="bib_key">SRA-vol2</span> <span class="bib_loc">no. 1903</span></a>,
+ <span class="name">Haralder</span> <a href="../cite/Haralder/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1938</span></a>,
+ <span class="name">Haralders</span> (<span class="case">dat</span>) <a href="../cite/Haralders/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1946</span></a>,
+ <span class="name">Haraller</span> <a href="../cite/Haraller/1383/SRA-vol2"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 1925</span></a>;
+ <span class="date">1403</span> <span class="name">Haralder</span> (<span class="case">nom</span>) <a href="../cite/Haralder/1403/SDHK"><span class="bib_key">SDHK</span> <span class="bib_loc">no. 16006</span></a>;
+ <span class="date">1405</span> <span class="name">Harals</span> (<span class="case">gen</span>) <a href="../cite/Harals/1405/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16468</span></a>;
+ <span class="date">1407</span> <span class="name">Harald</span> (<span class="case">nom</span>) <a href="../cite/Harald/1407/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16880</span></a>,
+ <span class="name">Haralds</span> (<span class="case">gen</span>) <a href="../cite/Haralds/1407/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 16943</span></a>;
+ <span class="date">1408</span> <span class="name">Haraldz</span> (<span class="case">gen</span>) <a href="../cite/Haraldz/1408/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17116</span></a>;
+ <span class="date">1409</span> <span class="name">Haral</span> (<span class="case">gen</span>) <a href="../cite/Haral/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17265</span></a>,
+ <span class="name">Harald</span> (<span class="case">gen</span>) <a href="../cite/Harald/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17268</span></a>,
+ <span class="name">Harals</span> (<span class="case">gen</span>) <a href="../cite/Harals/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17263</span></a>,
+ <span class="name">Haralz</span> (<span class="case">gen</span>) <a href="../cite/Haralz/1409/SDHK"><span class="bib_key">ibid.</span> <span class="bib_loc">no. 17341</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Harold". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Harold.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

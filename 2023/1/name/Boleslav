@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Boleslav</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<p>
+  <span class="nym">Boleslav</span>
+  <span class="gen">m.</span>
+  
+  <span class="etym"><span class="lang">Slavic</span> <i>bole</i> 'large; more' + <span class="lang">Slavic</span> <i>sława, slava</i> 'glory, fame'.
+  </span>
+  
+</p>
+  
+<div class="usg">
+  <p>The name of two 10th and an 11th C king of Bohemia, two 11th C kings of Poland, and a 12th C king of Sweden.</p>
+</div>
+  
+  
+  
+
+
+<dl>
+<dt><span class="area">Czech Republic</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">◑</span> <span class="date">1351</span> <span class="name">Bolconi</span> (<span class="case">dat</span>) <a href="../cite/Bolconi/1351/chlumecky"><span class="bib_key">chlumecky</span> <span class="bib_loc">41</span></a>,
+ <span class="name">Polco</span> (<span class="case">nom</span>) <a href="../cite/Polco/1351/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">41</span></a>;
+ <span class="date">1353</span> <span class="name">Bolech</span> (<span class="case">nom</span>) <a href="../cite/Bolech/1353/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">44, p. 23</span></a>;
+ <span class="date">1356</span> <span class="name">Bolicone</span> (<span class="case">abl</span>) <a href="../cite/Bolicone/1356/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">138</span></a>;
+ <span class="date">1358</span> <span class="name">Bolkoni</span> (<span class="case">dat</span>) <a href="../cite/Bolkoni/1358/chlumecky"><span class="bib_key">ibid.</span> <span class="bib_loc">428, p. 38</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Germany</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1230</span> <span class="name">Boleslao</span> (<span class="case">abl</span>) <a href="../cite/Boleslao/1230/hennes-vol1"><span class="bib_key">hennes-vol1</span> <span class="bib_loc">p. 89</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Italy</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1229</span> <span class="name">Boleslao</span> (<span class="case">abl</span>) <a href="../cite/Boleslao/1229/CDT1"><span class="bib_key">CDT1</span> <span class="bib_loc">XI</span></a></dd>
+</dl>
+</dd>
+<dt><span class="area">Poland</span></dt>
+<dd>
+<dl>
+<dt><span class="lang">Latin</span></dt>
+<dd><span class="dim">●</span> <span class="date">1105</span> <span class="name">Boleslao</span> (<span class="case">dat</span>) <a href="../cite/Boleslao/1105/CDT1"><span class="bib_key">CDT1</span> <span class="bib_loc">I</span></a>;
+ <span class="date">1125</span> <span class="name">Bolezlai</span> (<span class="case">gen</span>) <a href="../cite/Bolezlai/1125/CDP3"><span class="bib_key">CDP3</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Bolezlao</span> (<span class="case">abl</span>) <a href="../cite/Bolezlao/1125/CDP3"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>,
+ <span class="name">Bolezlaus</span> (<span class="case">nom</span>) <a href="../cite/Bolezlaus/1125/CDP3"><span class="bib_key">ibid.</span> <span class="bib_loc">III</span></a>;
+ <span class="date">1153</span> <span class="name">Boleslai</span> (<span class="case">gen</span>) <a href="../cite/Boleslai/1153/CDP3"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>,
+ <span class="name">Boleslaum</span> (<span class="case">acc</span>) <a href="../cite/Boleslaum/1153/CDP3"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>,
+ <span class="name">Boleslaus</span> (<span class="case">nom</span>) <a href="../cite/Boleslaus/1153/CDP3"><span class="bib_key">ibid.</span> <span class="bib_loc">IV</span></a>;
+ <span class="date">1209</span> <span class="name">Boleslai</span> (<span class="case">gen</span>) <a href="../cite/Boleslai/1209/CDT1"><span class="bib_key">CDT1</span> <span class="bib_loc">II</span></a>;
+ <span class="date">1234</span> <span class="name">Boleslaus</span> (<span class="case">nom</span>) <a href="../cite/Boleslaus/1234/CDT1"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>,
+ <span class="name">bolezlao</span> (<span class="case">abl</span>) <a href="../cite/bolezlao/1234/CDT1"><span class="bib_key">ibid.</span> <span class="bib_loc">XIV</span></a>;
+ <span class="date">1242</span> <span class="name">Boleslai</span> (<span class="case">gen</span>) <a href="../cite/Boleslai/1242/CDT1"><span class="bib_key">ibid.</span> <span class="bib_loc">XV</span></a>;
+ <span class="date">1258</span> <span class="name">Bolezlaus</span> <a href="../cite/Bolezlaus/1258/CDT1"><span class="bib_key">ibid.</span> <span class="bib_loc">XVII</span></a>;
+ <span class="date">1268</span> <span class="name">Boleslao</span> (<span class="case">abl</span>) <a href="../cite/Boleslao/1268/CDT1"><span class="bib_key">ibid.</span> <span class="bib_loc">XX</span></a>;
+ <span class="date">1271</span> <span class="name">Boleslaus</span> (<span class="case">nom</span>) <a href="../cite/Boleslaus/1271/CDT1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXI</span></a>;
+ <span class="date">1274</span> <span class="name">Boleslai</span> (<span class="case">gen</span>) <a href="../cite/Boleslai/1274/CDT1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXII</span></a>;
+ <span class="date">1275</span> <span class="name">Bolezlao</span> (<span class="case">abl</span>) <a href="../cite/Bolezlao/1275/CDT1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII</span></a>,
+ <span class="name">Bolezlaus</span> (<span class="case">nom</span>) <a href="../cite/Bolezlaus/1275/CDT1"><span class="bib_key">ibid.</span> <span class="bib_loc">XXIII</span></a>;
+ <span class="date">1345</span> <span class="name">Boleslao</span> (<span class="case">abl</span>) <a href="../cite/Boleslao/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">628</span></a>,
+ <span class="name">Boleslaus</span> (<span class="case">nom</span>) <a href="../cite/Boleslaus/1345/CDEM-7.2"><span class="bib_key">ibid.</span> <span class="bib_loc">628</span></a></dd>
+<dd><span class="dim">◑</span> <span class="date">1345</span> <span class="name">Bolkone</span> (<span class="case">abl</span>) <a href="../cite/Bolkone/1345/CDEM-7.2"><span class="bib_key">CDEM-7.2</span> <span class="bib_loc">628</span></a></dd>
+</dl>
+</dd>
+</dl>
+
+
+<div id="citeme">Cite as: <cite>J. Uckelman, S.L. Uckelman. "Boleslav". In S.L. Uckelman, ed. <i>The Dictionary of Medieval Names from European Sources</i>, Edition 2023, no. 1. http://dmnes.org/2023/1/name/Boleslav.</cite></div>
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

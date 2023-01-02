@@ -1,0 +1,476 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>SRA-vol2</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>SRA-vol2</dt>
+  <dd><em>Svenska Riks-Archivets Pergamentsbref från och med ar 1351</em>, volume II: 1383-1400. Stockholm: Tryckt Hos K. Westrell, 1868.</dd>
+</dl>
+
+
+  <a href="../cite/Aghmunder/1383/SRA-vol2">Aghmunder</a>
+
+  <a href="../cite/Albrecht/1383/SRA-vol2">Albrecht</a>
+
+  <a href="../cite/Andris/1383/SRA-vol2">Andris</a>
+
+  <a href="../cite/Andrys/1383/SRA-vol2">Andrys</a>
+
+  <a href="../cite/Arend/1383/SRA-vol2">Arend</a>
+
+  <a href="../cite/Armegard/1383/SRA-vol2">Armegard</a>
+
+  <a href="../cite/Arnoldus/1383/SRA-vol2">Arnoldus</a>
+
+  <a href="../cite/Aruith/1383/SRA-vol2">Aruith</a>
+
+  <a href="../cite/Arvid/1383/SRA-vol2">Arvid</a>
+
+  <a href="../cite/Arwidh/1383/SRA-vol2">Arwidh</a>
+
+  <a href="../cite/Arwidhs/1383/SRA-vol2">Arwidhs</a>
+
+  <a href="../cite/Arwidus/1383/SRA-vol2">Arwidus</a>
+
+  <a href="../cite/Beinctz/1383/SRA-vol2">Beinctz</a>
+
+  <a href="../cite/Beincz/1383/SRA-vol2">Beincz</a>
+
+  <a href="../cite/Beintz/1383/SRA-vol2">Beintz</a>
+
+  <a href="../cite/Benc/1383/SRA-vol2">Benc</a>
+
+  <a href="../cite/Bendictz/1383/SRA-vol2">Bendictz</a>
+
+  <a href="../cite/Benedicta/1383/SRA-vol2">Benedicta</a>
+
+  <a href="../cite/Benedictzs/1383/SRA-vol2">Benedictzs</a>
+
+  <a href="../cite/Beynt/1383/SRA-vol2">Beynt</a>
+
+  <a href="../cite/Biörn/1383/SRA-vol2">Biörn</a>
+
+  <a href="../cite/Biorns/1383/SRA-vol2">Biorns</a>
+
+  <a href="../cite/Birger/1383/SRA-vol2">Birger</a>
+
+  <a href="../cite/Birgerus/1383/SRA-vol2">Birgerus</a>
+
+  <a href="../cite/Birghe/1383/SRA-vol2">Birghe</a>
+
+  <a href="../cite/Birgher/1383/SRA-vol2">Birgher</a>
+
+  <a href="../cite/Biærne/1383/SRA-vol2">Biærne</a>
+
+  <a href="../cite/Byorn/1383/SRA-vol2">Byorn</a>
+
+  <a href="../cite/Byorns/1383/SRA-vol2">Byorns</a>
+
+  <a href="../cite/Bæint/1383/SRA-vol2">Bæint</a>
+
+  <a href="../cite/Bændix/1383/SRA-vol2">Bændix</a>
+
+  <a href="../cite/Cristern/1383/SRA-vol2">Cristern</a>
+
+  <a href="../cite/Cristin/1383/SRA-vol2">Cristin</a>
+
+  <a href="../cite/Dans/1383/SRA-vol2">Dans</a>
+
+  <a href="../cite/Ereker/1383/SRA-vol2">Ereker</a>
+
+  <a href="../cite/Erici/1383/SRA-vol2">Erici</a>
+
+  <a href="../cite/Erics/1383/SRA-vol2">Erics</a>
+
+  <a href="../cite/Ericus/1383/SRA-vol2">Ericus</a>
+
+  <a href="../cite/Erik/1383/SRA-vol2">Erik</a>
+
+  <a href="../cite/Eriker/1383/SRA-vol2">Eriker</a>
+
+  <a href="../cite/Erikir/1383/SRA-vol2">Erikir</a>
+
+  <a href="../cite/Eringisle/1383/SRA-vol2">Eringisle</a>
+
+  <a href="../cite/Eringislo/1383/SRA-vol2">Eringislo</a>
+
+  <a href="../cite/Erix/1383/SRA-vol2">Erix</a>
+
+  <a href="../cite/Eskillus/1383/SRA-vol2">Eskillus</a>
+
+  <a href="../cite/Georgius/1383/SRA-vol2">Georgius</a>
+
+  <a href="../cite/Gerardus/1383/SRA-vol2">Gerardus</a>
+
+  <a href="../cite/Godhmunder/1383/SRA-vol2">Godhmunder</a>
+
+  <a href="../cite/Gödzstafs/1383/SRA-vol2">Gödzstafs</a>
+
+  <a href="../cite/Gotzskalk/1383/SRA-vol2">Gotzskalk</a>
+
+  <a href="../cite/Gregers/1383/SRA-vol2">Gregers</a>
+
+  <a href="../cite/Gregorius/1383/SRA-vol2">Gregorius</a>
+
+  <a href="../cite/Gregros/1383/SRA-vol2">Gregros</a>
+
+  <a href="../cite/Greta/1383/SRA-vol2">Greta</a>
+
+  <a href="../cite/Gudelögh/1383/SRA-vol2">Gudelögh</a>
+
+  <a href="../cite/Gudhmunder/1383/SRA-vol2">Gudhmunder</a>
+
+  <a href="../cite/Gunnar/1383/SRA-vol2">Gunnar</a>
+
+  <a href="../cite/Hacon/1383/SRA-vol2">Hacon</a>
+
+  <a href="../cite/Halden/1383/SRA-vol2">Halden</a>
+
+  <a href="../cite/Haquon/1383/SRA-vol2">Haquon</a>
+
+  <a href="../cite/Haquons/1383/SRA-vol2">Haquons</a>
+
+  <a href="../cite/Haral/1383/SRA-vol2">Haral</a>
+
+  <a href="../cite/Haralder/1383/SRA-vol2">Haralder</a>
+
+  <a href="../cite/Haralders/1383/SRA-vol2">Haralders</a>
+
+  <a href="../cite/Haraller/1383/SRA-vol2">Haraller</a>
+
+  <a href="../cite/Helgha/1383/SRA-vol2">Helgha</a>
+
+  <a href="../cite/Henrik/1383/SRA-vol2">Henrik</a>
+
+  <a href="../cite/Heyno/1383/SRA-vol2">Heyno</a>
+
+  <a href="../cite/Holger/1383/SRA-vol2">Holger</a>
+
+  <a href="../cite/Holmbiörn/1383/SRA-vol2">Holmbiörn</a>
+
+  <a href="../cite/Holmger/1383/SRA-vol2">Holmger</a>
+
+  <a href="../cite/Holmgers/1383/SRA-vol2">Holmgers</a>
+
+  <a href="../cite/Holmsten/1383/SRA-vol2">Holmsten</a>
+
+  <a href="../cite/Hælgha/1383/SRA-vol2">Hælgha</a>
+
+  <a href="../cite/Ienis/1383/SRA-vol2">Ienis</a>
+
+  <a href="../cite/Ingebiorn/1383/SRA-vol2">Ingebiorn</a>
+
+  <a href="../cite/Ingegerth/1383/SRA-vol2">Ingegerth</a>
+
+  <a href="../cite/Ingemar/1383/SRA-vol2">Ingemar</a>
+
+  <a href="../cite/Ingemarus/1383/SRA-vol2">Ingemarus</a>
+
+  <a href="../cite/Ingemundus/1383/SRA-vol2">Ingemundus</a>
+
+  <a href="../cite/Ingeuald/1383/SRA-vol2">Ingeuald</a>
+
+  <a href="../cite/Ingeualder/1383/SRA-vol2">Ingeualder</a>
+
+  <a href="../cite/Ingeualdir/1383/SRA-vol2">Ingeualdir</a>
+
+  <a href="../cite/Ingewaldi/1383/SRA-vol2">Ingewaldi</a>
+
+  <a href="../cite/Ingewalz/1383/SRA-vol2">Ingewalz</a>
+
+  <a href="../cite/Ingimar/1383/SRA-vol2">Ingimar</a>
+
+  <a href="../cite/Israels/1383/SRA-vol2">Israels</a>
+
+  <a href="../cite/Iwar/1383/SRA-vol2">Iwar</a>
+
+  <a href="../cite/Jacob/1383/SRA-vol2">Jacob</a>
+
+  <a href="../cite/Jacobus/1383/SRA-vol2">Jacobus</a>
+
+  <a href="../cite/Jens/1383/SRA-vol2">Jens</a>
+
+  <a href="../cite/Joan/1383/SRA-vol2">Joan</a>
+
+  <a href="../cite/Johan/1383/SRA-vol2">Johan</a>
+
+  <a href="../cite/Johannes/1383/SRA-vol2">Johannes</a>
+
+  <a href="../cite/Jon/1383/SRA-vol2">Jon</a>
+
+  <a href="../cite/Jonis/1383/SRA-vol2">Jonis</a>
+
+  <a href="../cite/Jönis/1383/SRA-vol2">Jönis</a>
+
+  <a href="../cite/Jons/1383/SRA-vol2">Jons</a>
+
+  <a href="../cite/Joon/1383/SRA-vol2">Joon</a>
+
+  <a href="../cite/Joons/1383/SRA-vol2">Joons</a>
+
+  <a href="../cite/Jordan/1383/SRA-vol2">Jordan</a>
+
+  <a href="../cite/Jorden/1383/SRA-vol2">Jorden</a>
+
+  <a href="../cite/Jusse/1383/SRA-vol2">Jusse</a>
+
+  <a href="../cite/Kaarls/1383/SRA-vol2">Kaarls</a>
+
+  <a href="../cite/Karl/1383/SRA-vol2">Karl</a>
+
+  <a href="../cite/Karls/1383/SRA-vol2">Karls</a>
+
+  <a href="../cite/Katerina/1383/SRA-vol2">Katerina</a>
+
+  <a href="../cite/Kathrina/1383/SRA-vol2">Kathrina</a>
+
+  <a href="../cite/Knvt/1383/SRA-vol2">Knvt</a>
+
+  <a href="../cite/Knwt/1383/SRA-vol2">Knwt</a>
+
+  <a href="../cite/Laffrenz/1383/SRA-vol2">Laffrenz</a>
+
+  <a href="../cite/Lafrinz/1383/SRA-vol2">Lafrinz</a>
+
+  <a href="../cite/Laufrins/1383/SRA-vol2">Laufrins</a>
+
+  <a href="../cite/Laurencii/1383/SRA-vol2">Laurencii</a>
+
+  <a href="../cite/Laurencius/1383/SRA-vol2">Laurencius</a>
+
+  <a href="../cite/Laurens/1383/SRA-vol2">Laurens</a>
+
+  <a href="../cite/Laurins/1383/SRA-vol2">Laurins</a>
+
+  <a href="../cite/Laurinz/1383/SRA-vol2">Laurinz</a>
+
+  <a href="../cite/Lauris/1383/SRA-vol2">Lauris</a>
+
+  <a href="../cite/Magnos/1383/SRA-vol2">Magnos</a>
+
+  <a href="../cite/Magnossa/1383/SRA-vol2">Magnossa</a>
+
+  <a href="../cite/Magnus/1383/SRA-vol2">Magnus</a>
+
+  <a href="../cite/Magnussa/1383/SRA-vol2">Magnussa</a>
+
+  <a href="../cite/Margareta/1383/SRA-vol2">Margareta</a>
+
+  <a href="../cite/Marghet/1383/SRA-vol2">Marghet</a>
+
+  <a href="../cite/Marinus/1383/SRA-vol2">Marinus</a>
+
+  <a href="../cite/Martins/1383/SRA-vol2">Martins</a>
+
+  <a href="../cite/Mathias/1383/SRA-vol2">Mathias</a>
+
+  <a href="../cite/Mathis/1383/SRA-vol2">Mathis</a>
+
+  <a href="../cite/Mathiussa/1383/SRA-vol2">Mathiussa</a>
+
+  <a href="../cite/Matiwssa/1383/SRA-vol2">Matiwssa</a>
+
+  <a href="../cite/Matthis/1383/SRA-vol2">Matthis</a>
+
+  <a href="../cite/Mattius/1383/SRA-vol2">Mattius</a>
+
+  <a href="../cite/Mæritta/1383/SRA-vol2">Mæritta</a>
+
+  <a href="../cite/Nicles/1383/SRA-vol2">Nicles</a>
+
+  <a href="../cite/Niclis/1383/SRA-vol2">Niclis</a>
+
+  <a href="../cite/Nicolaus/1383/SRA-vol2">Nicolaus</a>
+
+  <a href="../cite/Niklis/1383/SRA-vol2">Niklis</a>
+
+  <a href="../cite/Nils/1383/SRA-vol2">Nils</a>
+
+  <a href="../cite/Nychulos/1383/SRA-vol2">Nychulos</a>
+
+  <a href="../cite/Olaf/1383/SRA-vol2">Olaf</a>
+
+  <a href="../cite/Olaff/1383/SRA-vol2">Olaff</a>
+
+  <a href="../cite/Olaffwer/1383/SRA-vol2">Olaffwer</a>
+
+  <a href="../cite/Olafs/1383/SRA-vol2">Olafs</a>
+
+  <a href="../cite/Olafuer/1383/SRA-vol2">Olafuer</a>
+
+  <a href="../cite/Olafuir/1383/SRA-vol2">Olafuir</a>
+
+  <a href="../cite/Olauer/1383/SRA-vol2">Olauer</a>
+
+  <a href="../cite/Olauers/1383/SRA-vol2">Olauers</a>
+
+  <a href="../cite/Olauir/1383/SRA-vol2">Olauir</a>
+
+  <a href="../cite/Olauus/1383/SRA-vol2">Olauus</a>
+
+  <a href="../cite/Olawer/1383/SRA-vol2">Olawer</a>
+
+  <a href="../cite/Olawus/1383/SRA-vol2">Olawus</a>
+
+  <a href="../cite/Olof/1383/SRA-vol2">Olof</a>
+
+  <a href="../cite/Petar/1383/SRA-vol2">Petar</a>
+
+  <a href="../cite/Petars/1383/SRA-vol2">Petars</a>
+
+  <a href="../cite/Peters/1383/SRA-vol2">Peters</a>
+
+  <a href="../cite/Philippus/1383/SRA-vol2">Philippus</a>
+
+  <a href="../cite/Philpus/1383/SRA-vol2">Philpus</a>
+
+  <a href="../cite/Pætar/1383/SRA-vol2">Pætar</a>
+
+  <a href="../cite/Pætars/1383/SRA-vol2">Pætars</a>
+
+  <a href="../cite/Pæthar/1383/SRA-vol2">Pæthar</a>
+
+  <a href="../cite/Pæther/1383/SRA-vol2">Pæther</a>
+
+  <a href="../cite/Pæthær/1383/SRA-vol2">Pæthær</a>
+
+  <a href="../cite/Pætær/1383/SRA-vol2">Pætær</a>
+
+  <a href="../cite/Rangwald/1383/SRA-vol2">Rangwald</a>
+
+  <a href="../cite/Sigga/1383/SRA-vol2">Sigga</a>
+
+  <a href="../cite/Sigge/1383/SRA-vol2">Sigge</a>
+
+  <a href="../cite/Siggo/1383/SRA-vol2">Siggo</a>
+
+  <a href="../cite/Sigmundz/1383/SRA-vol2">Sigmundz</a>
+
+  <a href="../cite/Sigridh/1383/SRA-vol2">Sigridh</a>
+
+  <a href="../cite/Sixten/1383/SRA-vol2">Sixten</a>
+
+  <a href="../cite/Staffan/1383/SRA-vol2">Staffan</a>
+
+  <a href="../cite/Staffans/1383/SRA-vol2">Staffans</a>
+
+  <a href="../cite/Steen/1383/SRA-vol2">Steen</a>
+
+  <a href="../cite/Sten/1383/SRA-vol2">Sten</a>
+
+  <a href="../cite/Stenar/1383/SRA-vol2">Stenar</a>
+
+  <a href="../cite/Steno/1383/SRA-vol2">Steno</a>
+
+  <a href="../cite/Stens/1383/SRA-vol2">Stens</a>
+
+  <a href="../cite/Stephanus/1383/SRA-vol2">Stephanus</a>
+
+  <a href="../cite/Stæinar/1383/SRA-vol2">Stæinar</a>
+
+  <a href="../cite/Sweens/1383/SRA-vol2">Sweens</a>
+
+  <a href="../cite/Swen/1383/SRA-vol2">Swen</a>
+
+  <a href="../cite/Sweno/1383/SRA-vol2">Sweno</a>
+
+  <a href="../cite/Symon/1383/SRA-vol2">Symon</a>
+
+  <a href="../cite/Thoma/1383/SRA-vol2">Thoma</a>
+
+  <a href="../cite/Thomas/1383/SRA-vol2">Thomas</a>
+
+  <a href="../cite/Thomos/1383/SRA-vol2">Thomos</a>
+
+  <a href="../cite/Thora/1383/SRA-vol2">Thora</a>
+
+  <a href="../cite/Thord/1383/SRA-vol2">Thord</a>
+
+  <a href="../cite/Thordh/1383/SRA-vol2">Thordh</a>
+
+  <a href="../cite/Thorer/1383/SRA-vol2">Thorer</a>
+
+  <a href="../cite/Thorgylss/1383/SRA-vol2">Thorgylss</a>
+
+  <a href="../cite/Thorstanus/1383/SRA-vol2">Thorstanus</a>
+
+  <a href="../cite/Thorsten/1383/SRA-vol2">Thorsten</a>
+
+  <a href="../cite/Thyrkils/1383/SRA-vol2">Thyrkils</a>
+
+  <a href="../cite/Vd/1383/SRA-vol2">Vd</a>
+
+  <a href="../cite/Vlf/1383/SRA-vol2">Vlf</a>
+
+  <a href="../cite/Vlfs/1383/SRA-vol2">Vlfs</a>
+
+  <a href="../cite/Wlf/1383/SRA-vol2">Wlf</a>
+
+  <a href="../cite/Wlfs/1383/SRA-vol2">Wlfs</a>
+
+  <a href="../cite/Ælina/1383/SRA-vol2">Ælina</a>
+
+  <a href="../cite/Ælinas/1383/SRA-vol2">Ælinas</a>
+
+  <a href="../cite/Æringislo/1383/SRA-vol2">Æringislo</a>
+
+  <a href="../cite/Æsbiörn/1383/SRA-vol2">Æsbiörn</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>

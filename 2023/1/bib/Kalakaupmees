@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+
+  <meta charset="utf-8">
+  <title>Kalakaupmees</title>
+  <link rel="icon" type="image/png" href="../static/images/favicon.png" />
+  <link rel="stylesheet" type="text/css" href="../static/css/site.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/garamond.css"/>
+  <link rel="stylesheet" type="text/css" href="../static/css/freefont.css"/>
+  <script>
+    /* avoid FOUC, mainly in IE */
+    document.documentElement.style.display = 'none';
+    window.onload = function() {
+      document.documentElement.style.display = 'block';
+    }
+  </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.js"></script>
+  <![endif]-->
+
+</head>
+<body>
+  
+  
+  <header>
+    <div id="site_title"><a href="../index.html">Dictionary of Medieval Names<br/>from European Sources</a></div>
+
+    <nav id="head_nav">
+      <ul class="mhlist">
+        <li><a href="../about">About</a></li>
+        <li><a href="../names">Browse</a></li>
+        <li><a href="../guide">Guide</a></li>
+        <li><a href="http://dmnes.wordpress.com">Blog</a></li>
+        <li><a href="http://dmnes.org/media">Media</a></li>
+      </ul>
+    </nav>
+
+    <div class="aldus">☙</div>
+  </header>
+  
+  
+<dl>
+  <dt>Kalakaupmees</dt>
+  <dd>Ivar Leimus. Kalakaupleja ja tema naine: pilguheit ühe tallinna mittesaksa paari elujärge 1550. aastal. <em>Ajalooline Ajakiri</em>, (2/3):251–264, 2014. [ <a href="http://dx.doi.org/10.12697/AA.2014.2-3.05">http://dx.doi.org/10.12697/AA.2014.2-3.05</a> ]</dd>
+</dl>
+
+
+  <a href="../cite/Anneke/1580/Kalakaupmees">Anneke</a>
+
+  <a href="../cite/Bartolmeus/1550/Kalakaupmees">Bartolmeus</a>
+
+  <a href="../cite/Byrgytte/1550/Kalakaupmees">Byrgytte</a>
+
+  <a href="../cite/Hans/1550/Kalakaupmees">Hans</a>
+
+  <a href="../cite/Hanß/1550/Kalakaupmees">Hanß</a>
+
+  <a href="../cite/Johan/1550/Kalakaupmees">Johan</a>
+
+  <a href="../cite/Kersten/1550/Kalakaupmees">Kersten</a>
+
+  <a href="../cite/Oleff/1550/Kalakaupmees">Oleff</a>
+
+  <a href="../cite/Oleff/1580/Kalakaupmees">Oleff</a>
+
+  <a href="../cite/Olleff/1550/Kalakaupmees">Olleff</a>
+
+
+
+  
+  <footer>
+    <div class="aldus">❧</div>
+    <nav id="foot_nav">
+      <ul class="mhlist">
+        <li><a href="../archives">Archives</a></li>
+        <li><a href="../contact">Contact</a></li>
+<!--
+        <li><a href="">Donate</a></li>
+-->
+        <li><a href="../colophon">Colophon</a></li>
+      </ul>
+    </nav>
+    <div id="copyright">© 2015–2023 <a href="../about#masthead">The Editors</a>.</div>
+  </footer>
+  
+</body>
+</html>
